@@ -13,6 +13,9 @@ on:
   pull_request:
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 concurrency:
   group: checks-${{ github.ref }}
   cancel-in-progress: true
@@ -33,6 +36,8 @@ jobs:
     needs: logic
     runs-on: xcode-27
     timeout-minutes: 30
+    permissions:
+      contents: write  # only to publish screenshots to the screenshots branch
     steps:
       - uses: actions/checkout@v4
 
@@ -51,7 +56,9 @@ jobs:
           devices=$(xcrun simctl list devices available)
           device=$(echo "$devices" | grep -oE "iPhone [0-9]+ Pro Max" | sort -u | tail -1)
           if [ -z "$device" ]; then device=$(echo "$devices" | grep -oE "iPhone [0-9]+( Pro)?" | sort -u | tail -1); fi
+          duo=$(echo "$devices" | grep -oE "iPhone Duo[^(]*" | sed 's/ *$//' | sort -u | head -1)
           echo "SDK $sdk, extra flags '$flags', simulator '$device'"
+          echo "::notice title=Tools::$(xcodebuild -version | tr '\n' ' ')| iOS SDK $sdk | simulator: $device | Duo simulator: ${duo:-none}"
           echo "flags=$flags" >> "$GITHUB_OUTPUT"
           echo "device=$device" >> "$GITHUB_OUTPUT"
 
@@ -74,6 +81,23 @@ jobs:
             xcrun xcresulttool export attachments --path build/Checks.xcresult --output-path screenshots || true
           fi
           ls -la screenshots
+
+      - name: Publish screenshots to the screenshots branch
+        if: always() && github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          shopt -s nullglob
+          files=(screenshots/*.png screenshots/*.jpg screenshots/*.jpeg screenshots/*.heic)
+          echo "::notice title=Screenshots::${#files[@]} exported"
+          [ ${#files[@]} -eq 0 ] && exit 0
+          mkdir publish
+          cp screenshots/* publish/
+          cd publish
+          git init -q -b screenshots
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Screenshots from ${GITHUB_SHA::7}"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" screenshots
 
       - name: Upload screenshots
         if: always()
