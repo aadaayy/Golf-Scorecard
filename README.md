@@ -1,6 +1,6 @@
 # Golf Scorecard
 
-A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo and the card sits on the left with the hole map on the right; close it and you switch between them with tabs. No tracking, no accounts, no internet: everything stays on the phone.
+A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, or turn any iPhone sideways, and the card sits on the left with the hole you're on at the right; hold a phone upright (or close the Duo) and you switch between them with tabs. No tracking, no accounts, no internet: everything stays on the phone.
 
 ## Run it on your iPhone Duo (free Apple account)
 
@@ -31,7 +31,7 @@ With a free account, the app stops opening after 7 days. Press Run again to refr
 Every push runs the checks in `.github/workflows/checks.yml`:
 
 1. Logic tests (Linux): every course file loads and passes its checks, and the scoring math adds up.
-2. App build and walk-through (Mac): builds the app and runs the same walk-through on an iPhone Pro Max simulator and the iPhone Duo simulator. It starts a round, scores a hole, opens the map, turns the phone sideways, and saves screenshots. After a push to main, the newest screenshots are on the `screenshots` branch, named after the device and the step.
+2. App build and walk-through (Mac): builds the app and runs the same walk-through on iPhone Pro Max, iPhone Pro and iPhone Duo simulators. It starts a round, scores a hole, opens the map, turns the phone sideways (checking the whole nine fits next to the hole), and saves screenshots. After a push to main, the newest screenshots are on the `screenshots` branch, named after the device and the step.
 
 If a check fails, GitHub marks the commit with a red X.
 

@@ -2,13 +2,15 @@ import SwiftUI
 
 /// A round in progress: the score card and the hole map.
 ///
-/// Closed iPhone Duo and regular iPhones (compact width) show one pane at a
-/// time with Card and Map tabs. The open Duo (regular width) shows both,
-/// like an unfolded paper card.
+/// Upright phones (closed iPhone Duo, regular iPhones held upright) show one
+/// pane at a time with Card and Map tabs. The open Duo (regular width) and any
+/// iPhone held sideways (compact height) show both: the card on the left and
+/// the hole you're on at the right, like an unfolded paper card.
 struct RoundView: View {
     @Bindable var round: Round
     @Environment(CourseLibrary.self) private var library
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
+    @Environment(\.verticalSizeClass) private var verticalSizeClass
     @State private var selectedHole = 1
     @State private var selectedPlayer = 0
 
@@ -33,7 +35,7 @@ struct RoundView: View {
         let card = CardPane(round: round, course: course, selectedHole: $selectedHole, selectedPlayer: $selectedPlayer)
         let map = MapPane(course: course, tee: round.tee, selectedHole: $selectedHole)
 
-        if horizontalSizeClass == .regular {
+        if horizontalSizeClass == .regular || verticalSizeClass == .compact {
             WideRoundLayout(card: card, map: map)
         } else {
             TabView {

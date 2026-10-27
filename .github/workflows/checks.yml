@@ -1,16 +1,17 @@
 # Automatic checks on every push.
 #  1. Logic tests: course files and scoring math, on Linux (cheap and fast).
 #  2. App build and walk-through: builds the iPhone app on a Mac, plays one hole
-#     in the simulator and saves screenshots (download them from the run's
-#     Summary page, under Artifacts).
-# Mac minutes cost more than Linux ones, so the Mac job only runs after the
-# logic tests pass, stops after 30 minutes, and cancels older runs of the same branch.
+#     in iPhone Pro Max, iPhone Pro and iPhone Duo simulators and saves screenshots
+#     (published to the screenshots branch).
+# Mac minutes cost about ten times Linux ones, so checks run only on pushes to
+# main that change more than notes (.md files), the Mac job only runs after the
+# logic tests pass, stops after 30 minutes, and a newer push cancels an older run.
 name: Checks
 
 on:
   push:
     branches: [main]
-  pull_request:
+    paths-ignore: ['**.md']
   workflow_dispatch:
 
 permissions:
@@ -56,15 +57,19 @@ jobs:
           devices=$(xcrun simctl list devices available)
           device=$(echo "$devices" | grep -oE "iPhone [0-9]+ Pro Max" | sort -u | tail -1)
           if [ -z "$device" ]; then device=$(echo "$devices" | grep -oE "iPhone [0-9]+( Pro)?" | sort -u | tail -1); fi
+          # A regular-size phone (iPhone N Pro, not Max) for the narrow sideways layout
+          small=$(echo "$devices" | grep -oE "iPhone [0-9]+ Pro \(" | sed 's/ ($//' | sort -u | tail -1)
           duo=$(echo "$devices" | grep -oE "iPhone Duo[^(]*" | sed 's/ *$//' | sort -u | head -1)
-          echo "SDK $sdk, extra flags '$flags', simulator '$device'"
-          echo "::notice title=Tools::$(xcodebuild -version | tr '\n' ' ')| iOS SDK $sdk | simulator: $device | Duo simulator: ${duo:-none}"
+          echo "SDK $sdk, extra flags '$flags', simulators '$device' '$small' '$duo'"
+          echo "::notice title=Tools::$(xcodebuild -version | tr '\n' ' ')| iOS SDK $sdk | simulators: $device, ${small:-no regular-size Pro}, ${duo:-no Duo}"
           echo "flags=$flags" >> "$GITHUB_OUTPUT"
           echo "device=$device" >> "$GITHUB_OUTPUT"
+          echo "small=$small" >> "$GITHUB_OUTPUT"
           echo "duo=$duo" >> "$GITHUB_OUTPUT"
 
       - name: Build and walk through the app
         env:
+          SMALL: ${{ steps.pick.outputs.small }}
           DUO: ${{ steps.pick.outputs.duo }}
         run: |
           set -o pipefail
@@ -72,6 +77,7 @@ jobs:
             -project GolfScorecard.xcodeproj \
             -scheme GolfScorecard \
             -destination "platform=iOS Simulator,name=${{ steps.pick.outputs.device }}" \
+            ${SMALL:+-destination "platform=iOS Simulator,name=$SMALL"} \
             ${DUO:+-destination "platform=iOS Simulator,name=$DUO"} \
             -resultBundlePath build/Checks.xcresult \
             CODE_SIGNING_ALLOWED=NO \
@@ -102,6 +108,8 @@ jobs:
                   step = a["suggestedHumanReadableName"].split("_0_")[0]
                   shutil.copy(f"screenshots/{a['exportedFileName']}", f"publish/{a['deviceName']} - {step}.png")
           PY
+          # Simulator screenshots are always upright; turn the sideways ones
+          for f in publish/*sideways-card-and-map.png; do sips -r 270 "$f" >/dev/null; done
           ls publish
           cd publish
           git init -q -b screenshots
@@ -117,5 +125,5 @@ jobs:
         with:
           name: screenshots
           path: screenshots
-          retention-days: 14
+          retention-days: 7
           if-no-files-found: warn

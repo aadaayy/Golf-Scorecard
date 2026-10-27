@@ -1,6 +1,9 @@
 import SwiftUI
 
 /// The paper score card: holes across, players down, one nine at a time.
+///
+/// Cells shrink to fit the pane, so a whole nine and its total fit on the
+/// half of the screen a sideways iPhone gives the card.
 struct CardPane: View {
     @Bindable var round: Round
     let course: Course
@@ -8,6 +11,29 @@ struct CardPane: View {
     @Binding var selectedPlayer: Int
 
     @State private var showingBackNine = false
+    @State private var paneWidth: CGFloat = 0
+    @Environment(\.verticalSizeClass) private var verticalSizeClass
+
+    /// Full size cells, used whenever they fit.
+    private static let fullCell: CGFloat = 36
+    private static let fullLabel: CGFloat = 88
+    /// The smallest cells still easy to read and tap.
+    private static let minCell: CGFloat = 26
+    private static let minLabel: CGFloat = 52
+
+    private var columnCount: Int { nineHoles.count + (showingBackNine ? 2 : 1) }
+
+    /// Cell and label widths that fit the pane, from full size down to the minimum.
+    private var sizes: (cell: CGFloat, label: CGFloat) {
+        let available = paneWidth - 32  // the grid's side padding
+        let full = Self.fullLabel + Self.fullCell * CGFloat(columnCount)
+        guard paneWidth > 0, available < full else { return (Self.fullCell, Self.fullLabel) }
+        let label = max(Self.minLabel, min(Self.fullLabel, available * 0.17))
+        let cell = max(Self.minCell, min(Self.fullCell, (available - label) / CGFloat(columnCount)))
+        return (cell.rounded(.down), label.rounded(.down))
+    }
+    /// Shorter rows when the phone is sideways and height is scarce.
+    private var rowHeight: CGFloat { verticalSizeClass == .compact ? 30 : 36 }
 
     private var nineHoles: [Hole] { showingBackNine ? course.backNine : course.frontNine }
     private var nineRange: ClosedRange<Int> { showingBackNine ? 10...18 : 1...9 }
@@ -15,7 +41,7 @@ struct CardPane: View {
     private var player: Int { min(selectedPlayer, max(round.players.count - 1, 0)) }
 
     var body: some View {
-        VStack(spacing: 12) {
+        VStack(spacing: verticalSizeClass == .compact ? 8 : 12) {
             if !course.backNine.isEmpty {
                 Picker("Nine", selection: $showingBackNine) {
                     Text("Front 9").tag(false)
@@ -43,7 +69,8 @@ struct CardPane: View {
 
             Spacer(minLength: 0)
         }
-        .padding(.vertical)
+        .padding(.vertical, verticalSizeClass == .compact ? 8 : 16)
+        .onGeometryChange(for: CGFloat.self) { $0.size.width } action: { paneWidth = $0 }
         .onAppear { showingBackNine = selectedHole >= 10 }
         .onChange(of: selectedHole) { _, hole in
             showingBackNine = hole >= 10
@@ -117,18 +144,22 @@ struct CardPane: View {
 
     private func rowLabel(_ text: String) -> some View {
         Text(text)
-            .font(.subheadline)
+            .font(sizes.cell < Self.fullCell ? .footnote : .subheadline)
             .lineLimit(1)
+            .minimumScaleFactor(0.7)
             .padding(.horizontal, 6)
-            .frame(width: 88, height: 36, alignment: .leading)
+            .frame(width: sizes.label, height: rowHeight, alignment: .leading)
             .overlay(Rectangle().stroke(Color.secondary.opacity(0.3), lineWidth: 0.5))
     }
 
     private func cell(_ text: String, bold: Bool = false) -> some View {
-        Text(text)
-            .font(bold ? .subheadline.weight(.semibold) : .subheadline)
+        let font: Font = sizes.cell < Self.fullCell ? .footnote : .subheadline
+        return Text(text)
+            .font(bold ? font.weight(.semibold) : font)
             .monospacedDigit()
-            .frame(width: 36, height: 36)
+            .lineLimit(1)
+            .minimumScaleFactor(0.6)
+            .frame(width: sizes.cell, height: rowHeight)
             .overlay(Rectangle().stroke(Color.secondary.opacity(0.3), lineWidth: 0.5))
             .contentShape(Rectangle())
     }

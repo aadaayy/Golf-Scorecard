@@ -58,14 +58,28 @@ final class ScorecardFlowUITests: XCTestCase {
             capture("3-closed-map")
         }
 
-        // Turned sideways: large iPhones switch to card and map side by side
+        // Turned sideways: every iPhone shows the card on the left and the hole on the right
         XCUIDevice.shared.orientation = .landscapeLeft
         sleep(2)
-        if app.otherElements["card-pane"].exists && mapPane.exists {
+        let cardPane = app.otherElements["card-pane"]
+        if cardPane.exists && mapPane.exists {
+            // Frames may be reported upright or sideways, so compare along the screen's long side.
+            let screen = app.frame
+            let card = cardPane.frame, hole = mapPane.frame
+            let cardFirst = screen.width > screen.height ? card.midX < hole.midX : card.midY < hole.midY
+            XCTAssertTrue(cardFirst, "The card should be on the left and the hole on the right")
+            XCTAssertTrue(app.staticTexts["nine-total-0"].isHittable, "The front nine total is cut off; the whole nine should fit on the card")
+            XCTAssertTrue(app.buttons["score-0-9"].isHittable, "Hole 9 is cut off; the whole nine should fit on the card")
             capture("4-sideways-card-and-map")
         } else {
+            // The closed Duo's outer screen may not turn sideways; any other iPhone must.
+            XCTAssertTrue(Self.isDuo, "A sideways iPhone should show the card and the hole side by side")
             capture("4-sideways")
         }
+    }
+
+    private static var isDuo: Bool {
+        (ProcessInfo.processInfo.environment["SIMULATOR_DEVICE_NAME"] ?? "").contains("Duo")
     }
 
     @MainActor
