@@ -1,4 +1,5 @@
 import SwiftUI
+import UIKit
 
 /// The paper score card: holes across, players down, one nine at a time.
 ///
@@ -88,81 +89,102 @@ struct CardPane: View {
         verticalSizeClass == .compact ? [round.tee] : course.tees
     }
 
+    private var plain: RowStyle { RowStyle(band: Color(.systemBackground), ink: .primary) }
+
     private var grid: some View {
-        let strokes = round.grid
-        let plain = RowStyle(band: Color(.systemBackground), ink: .primary)
-        return Grid(horizontalSpacing: 0, verticalSpacing: 0) {
-            GridRow {
-                rowLabel("HOLE", plain, bold: true)
-                ForEach(nineHoles, id: \.number) { hole in
-                    Button {
-                        selectedHole = hole.number
-                    } label: {
-                        cell("\(hole.number)", hole.number == selectedHole ? plain.highlighted : plain, bold: true)
-                    }
-                    .buttonStyle(.plain)
-                    .accessibilityIdentifier("hole-\(hole.number)")
-                }
-                cell(nineLabel.uppercased(), plain, bold: true)
-                if showingBackNine { cell("TOT", plain, bold: true) }
-            }
-            ForEach(teeRows, id: \.self) { tee in
-                let played = tee == round.tee
-                let style = TeeStyle.row(for: tee)
-                GridRow {
-                    rowLabel(tee.uppercased(), style, bold: played, marked: played && teeRows.count > 1)
-                        .accessibilityLabel("\(tee) tees\(played ? ", playing" : "")")
-                    ForEach(nineHoles, id: \.number) { hole in
-                        cell(hole.yards[tee].map(String.init) ?? "", style, bold: played)
-                    }
-                    cell("\(course.yards(tee: tee, holes: nineRange))", style, bold: played)
-                    if showingBackNine { cell("\(course.yards(tee: tee, holes: 1...18))", style, bold: played) }
-                }
-            }
-            if course.holes.contains(where: { $0.handicap != nil }) {
-                GridRow {
-                    rowLabel("HCP", CardColors.handicap, bold: true)
-                        .accessibilityLabel("Handicap")
-                    ForEach(nineHoles, id: \.number) { hole in
-                        cell(course.handicap(hole: hole.number, tee: round.tee).map(String.init) ?? "", CardColors.handicap, bold: true)
-                    }
-                    cell("", CardColors.handicap)
-                    if showingBackNine { cell("", CardColors.handicap) }
-                }
-            }
-            GridRow {
-                rowLabel("PAR", CardColors.par, bold: true)
-                ForEach(nineHoles, id: \.number) { cell("\($0.par)", CardColors.par, bold: true) }
-                cell("\(course.par(holes: nineRange))", CardColors.par, bold: true)
-                if showingBackNine { cell("\(course.par(holes: 1...18))", CardColors.par, bold: true) }
-            }
-            ForEach(round.players.indices, id: \.self) { p in
-                GridRow {
-                    rowLabel(round.players[p], plain, bold: true)
-                    ForEach(nineHoles, id: \.number) { hole in
-                        let value = strokes.strokes(player: p, hole: hole.number)
-                        let selected = p == player && hole.number == selectedHole
-                        Button {
-                            selectedHole = hole.number
-                            selectedPlayer = p
-                        } label: {
-                            cell(value > 0 ? "\(value)" : "", selected ? plain.selected : plain, bold: true, large: true)
-                        }
-                        .buttonStyle(.plain)
-                        .accessibilityLabel("\(round.players[p]), hole \(hole.number)")
-                        .accessibilityValue(value > 0 ? "\(value)" : "no score")
-                        .accessibilityIdentifier("score-\(p)-\(hole.number)")
-                    }
-                    cell("\(strokes.total(player: p, holes: nineRange))", plain, bold: true, large: true)
-                        .accessibilityIdentifier("nine-total-\(p)")
-                    if showingBackNine {
-                        cell("\(strokes.total(player: p, holes: 1...18))", plain, bold: true, large: true)
-                            .accessibilityIdentifier("total-\(p)")
-                    }
-                }
-            }
+        Grid(horizontalSpacing: 0, verticalSpacing: 0) {
+            headerRow
+            ForEach(teeRows, id: \.self) { tee in teeRow(tee) }
+            if course.holes.contains(where: { $0.handicap != nil }) { handicapRow }
+            parRow
+            ForEach(round.players.indices, id: \.self) { p in playerRow(p) }
         }
         .overlay(Rectangle().stroke(CardColors.edge, lineWidth: 1))
+    }
+
+    private var headerRow: some View {
+        GridRow {
+            rowLabel("HOLE", plain, bold: true)
+            ForEach(nineHoles, id: \.number) { hole in
+                Button {
+                    selectedHole = hole.number
+                } label: {
+                    cell("\(hole.number)", hole.number == selectedHole ? plain.highlighted : plain, bold: true)
+                }
+                .buttonStyle(.plain)
+                .accessibilityIdentifier("hole-\(hole.number)")
+            }
+            cell(nineLabel.uppercased(), plain, bold: true)
+            if showingBackNine { cell("TOT", plain, bold: true) }
+        }
+    }
+
+    private func teeRow(_ tee: String) -> some View {
+        let played = tee == round.tee
+        let style = TeeStyle.row(for: tee)
+        return GridRow {
+            rowLabel(tee.uppercased(), style, bold: played, marked: played && teeRows.count > 1)
+                .accessibilityLabel("\(tee) tees\(played ? ", playing" : "")")
+            ForEach(nineHoles, id: \.number) { hole in
+                cell(hole.yards[tee].map(String.init) ?? "", style, bold: played)
+            }
+            cell("\(course.yards(tee: tee, holes: nineRange))", style, bold: played)
+            if showingBackNine { cell("\(course.yards(tee: tee, holes: 1...18))", style, bold: played) }
+        }
+    }
+
+    private var handicapRow: some View {
+        let style = CardColors.handicap
+        return GridRow {
+            rowLabel("HCP", style, bold: true)
+                .accessibilityLabel("Handicap")
+            ForEach(nineHoles, id: \.number) { hole in
+                cell(course.handicap(hole: hole.number, tee: round.tee).map(String.init) ?? "", style, bold: true)
+            }
+            cell("", style)
+            if showingBackNine { cell("", style) }
+        }
+    }
+
+    private var parRow: some View {
+        let style = CardColors.par
+        return GridRow {
+            rowLabel("PAR", style, bold: true)
+            ForEach(nineHoles, id: \.number) { hole in cell("\(hole.par)", style, bold: true) }
+            cell("\(course.par(holes: nineRange))", style, bold: true)
+            if showingBackNine { cell("\(course.par(holes: 1...18))", style, bold: true) }
+        }
+    }
+
+    private func playerRow(_ p: Int) -> some View {
+        let strokes = round.grid
+        return GridRow {
+            rowLabel(round.players[p], plain, bold: true)
+            ForEach(nineHoles, id: \.number) { hole in
+                scoreCell(player: p, hole: hole.number, strokes: strokes)
+            }
+            cell("\(strokes.total(player: p, holes: nineRange))", plain, bold: true, large: true)
+                .accessibilityIdentifier("nine-total-\(p)")
+            if showingBackNine {
+                cell("\(strokes.total(player: p, holes: 1...18))", plain, bold: true, large: true)
+                    .accessibilityIdentifier("total-\(p)")
+            }
+        }
+    }
+
+    private func scoreCell(player p: Int, hole: Int, strokes: StrokeGrid) -> some View {
+        let value = strokes.strokes(player: p, hole: hole)
+        let selected = p == player && hole == selectedHole
+        return Button {
+            selectedHole = hole
+            selectedPlayer = p
+        } label: {
+            cell(value > 0 ? "\(value)" : "", selected ? plain.selected : plain, bold: true, large: true)
+        }
+        .buttonStyle(.plain)
+        .accessibilityLabel("\(round.players[p]), hole \(hole)")
+        .accessibilityValue(value > 0 ? "\(value)" : "no score")
+        .accessibilityIdentifier("score-\(p)-\(hole)")
     }
 
     private func rowLabel(_ text: String, _ style: RowStyle, bold: Bool = false, marked: Bool = false) -> some View {

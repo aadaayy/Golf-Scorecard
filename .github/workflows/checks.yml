@@ -83,6 +83,27 @@ jobs:
             CODE_SIGNING_ALLOWED=NO \
             "SWIFT_ACTIVE_COMPILATION_CONDITIONS=\$(inherited) ${{ steps.pick.outputs.flags }}"
 
+      - name: Report build errors and test failures
+        if: failure()
+        run: |
+          # Run logs can't always be opened, so surface the first errors as annotations.
+          [ -d build/Checks.xcresult ] || exit 0
+          xcrun xcresulttool get build-results --path build/Checks.xcresult > build/build-results.json || true
+          xcrun xcresulttool get test-results summary --path build/Checks.xcresult > build/test-summary.json || true
+          python3 - <<'PY'
+          import json
+          def load(p):
+              try: return json.load(open(p))
+              except Exception: return {}
+          b = load("build/build-results.json")
+          for e in (b.get("errors") or [])[:15]:
+              where = e.get("sourceURL", "").split("#")[0].split("/")[-1]
+              print(f"::error title=Build error {where}::{e.get('message', '')}".replace("\n", " "))
+          t = load("build/test-summary.json")
+          for f in (t.get("testFailures") or [])[:15]:
+              print(f"::error title=Test failed {f.get('testName', '')}::{f.get('targetName', '')} {f.get('failureText', '')}".replace("\n", " "))
+          PY
+
       - name: Collect screenshots
         if: always()
         run: |
