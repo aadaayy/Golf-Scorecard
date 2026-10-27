@@ -17,6 +17,8 @@ struct Hole: Codable, Hashable {
     var par: Int
     /// Stroke index from the paper card (1 = hardest). Optional because some cards don't list it.
     var handicap: Int?
+    /// Stroke index for tees whose card row has its own (often the red tees), keyed by tee name.
+    var handicaps: [String: Int]? = nil
     /// Yards for each tee, keyed by the tee's name.
     var yards: [String: Int]
     /// Name of the hole drawing in the asset catalog, if there is one yet.
@@ -33,6 +35,12 @@ extension Course {
 
     func hole(_ number: Int) -> Hole? {
         holes.first { $0.number == number }
+    }
+
+    /// The stroke index for a hole when playing from `tee`.
+    func handicap(hole number: Int, tee: String) -> Int? {
+        guard let hole = hole(number) else { return nil }
+        return hole.handicaps?[tee] ?? hole.handicap
     }
 
     func par(holes range: ClosedRange<Int>) -> Int {
@@ -87,6 +95,19 @@ extension Course {
                 problems.append("some holes have a handicap and some don't")
             } else if Set(handicaps) != Set(1...holes.count) {
                 problems.append("handicaps must use each number from 1 to \(holes.count) once")
+            } else {
+                // Tees with their own handicap row must also use each number once.
+                let teesWithOwnRow = Set(holes.flatMap { $0.handicaps?.keys.map { $0 } ?? [] })
+                for tee in teesWithOwnRow.sorted() {
+                    if !tees.contains(tee) {
+                        problems.append("handicaps for unknown tee \(tee)")
+                        continue
+                    }
+                    let row = holes.compactMap { handicap(hole: $0.number, tee: tee) }
+                    if Set(row) != Set(1...holes.count) || row.count != holes.count {
+                        problems.append("\(tee) handicaps must use each number from 1 to \(holes.count) once")
+                    }
+                }
             }
         }
         let maps = holes.compactMap(\.map)

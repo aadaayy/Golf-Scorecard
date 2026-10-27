@@ -35,15 +35,34 @@ final class CourseTests: XCTestCase {
         }
     }
 
-    func testSampleCourseNumbers() throws {
-        let course = try Course.decode(from: Data(contentsOf: coursesFolder.appendingPathComponent("sample-links.json")))
+    /// Pompano Beach Pines, checked against the totals printed on the paper card.
+    func testPompanoPinesMatchesTheCard() throws {
+        let course = try Course.decode(from: Data(contentsOf: coursesFolder.appendingPathComponent("pompano-pines.json")))
         XCTAssertEqual(course.holes.count, 18)
+        XCTAssertEqual(course.tees, ["Gold", "Blue", "White", "Brown", "Red"])
+        // tee: (OUT, IN, TOT) as printed on the card
+        let cardTotals: [String: (Int, Int, Int)] = [
+            "Gold": (3506, 3613, 7119),
+            "Blue": (3231, 3381, 6612),
+            "White": (3050, 3157, 6207),
+            "Brown": (2726, 2829, 5555),
+            "Red": (2446, 2626, 5072),
+        ]
+        for (tee, totals) in cardTotals {
+            XCTAssertEqual(course.yards(tee: tee, holes: 1...9), totals.0, "\(tee) OUT")
+            XCTAssertEqual(course.yards(tee: tee, holes: 10...18), totals.1, "\(tee) IN")
+            XCTAssertEqual(course.yards(tee: tee, holes: 1...18), totals.2, "\(tee) TOT")
+        }
         XCTAssertEqual(course.par(holes: 1...9), 36)
         XCTAssertEqual(course.par(holes: 10...18), 36)
         XCTAssertEqual(course.par(holes: 1...18), 72)
-        XCTAssertEqual(course.frontNine.count, 9)
-        XCTAssertEqual(course.backNine.first?.number, 10)
-        XCTAssertEqual(course.hole(1)?.par, 4)
+        XCTAssertEqual((1...18).map { course.hole($0)!.par }, [5, 4, 3, 4, 4, 5, 3, 4, 4, 5, 4, 5, 4, 4, 3, 4, 3, 4])
+        XCTAssertEqual((1...18).map { course.handicap(hole: $0, tee: "White")! },
+                       [6, 12, 16, 10, 8, 2, 18, 4, 14, 7, 3, 1, 9, 5, 11, 15, 17, 13])
+        XCTAssertEqual((1...18).map { course.handicap(hole: $0, tee: "Red")! },
+                       [6, 14, 16, 10, 8, 2, 18, 4, 12, 5, 3, 1, 7, 13, 15, 9, 17, 11])
+        XCTAssertEqual(course.hole(7)?.yards["Red"], 97)
+        XCTAssertEqual((1...18).map { course.hole($0)!.map }, (1...18).map { String(format: "pompano-pines-%02d", $0) })
     }
 
     func testProblemsCatchesCommonMistakes() {
@@ -64,6 +83,19 @@ final class CourseTests: XCTestCase {
         course = Self.makeCourse()
         course.holes[0].par = 9
         XCTAssertTrue(course.problems().contains { $0.contains("par 9") })
+
+        course = Self.makeCourse()
+        course.holes[0].handicaps = ["White": 2]
+        XCTAssertTrue(course.problems().contains { $0.contains("White handicaps") })
+
+        course = Self.makeCourse()
+        course.holes[0].handicaps = ["Green": 1]
+        XCTAssertTrue(course.problems().contains { $0.contains("unknown tee Green") })
+
+        course = Self.makeCourse()
+        course.holes[0].handicaps = ["White": 2]
+        course.holes[1].handicaps = ["White": 1]
+        XCTAssertEqual(course.problems(), [], "Swapping two red-tee style handicaps is fine")
 
         course = Self.makeCourse()
         course.id = "Bad ID"

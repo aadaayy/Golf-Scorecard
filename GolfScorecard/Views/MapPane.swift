@@ -53,7 +53,7 @@ struct MapPane: View {
     private func details(for hole: Hole) -> String {
         var parts = ["Par \(hole.par)"]
         if let yards = hole.yards[tee] { parts.append("\(yards) yds") }
-        if let handicap = hole.handicap { parts.append("Hcp \(handicap)") }
+        if let handicap = course.handicap(hole: hole.number, tee: tee) { parts.append("Hcp \(handicap)") }
         return parts.joined(separator: " · ")
     }
 }

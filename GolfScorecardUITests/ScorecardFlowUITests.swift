@@ -20,8 +20,8 @@ final class ScorecardFlowUITests: XCTestCase {
         app.launch()
 
         // Course list
-        let course = app.buttons["course-sample-links"]
-        XCTAssertTrue(course.waitForExistence(timeout: 15), "The sample course is missing from the course list")
+        let course = app.buttons["course-pompano-pines"]
+        XCTAssertTrue(course.waitForExistence(timeout: 15), "Pompano Beach Pines is missing from the course list")
         capture("1-course-list")
         course.tap()
 
@@ -30,14 +30,14 @@ final class ScorecardFlowUITests: XCTestCase {
         XCTAssertTrue(start.waitForExistence(timeout: 5), "The Start Round button is missing")
         start.tap()
 
-        // Score hole 1: first tap jumps to par (4), second adds one
+        // Score hole 1 (par 5): first tap jumps to par, second adds one
         let firstScore = app.buttons["score-0-1"]
         XCTAssertTrue(firstScore.waitForExistence(timeout: 5), "The score card did not appear")
         firstScore.tap()
         let plus = app.buttons["score-plus"]
         plus.tap()
         plus.tap()
-        XCTAssertEqual(app.staticTexts["nine-total-0"].label, "5", "Front nine total should be 5 after scoring hole 1")
+        XCTAssertEqual(app.staticTexts["nine-total-0"].label, "6", "Front nine total should be 6 after scoring hole 1")
         let mapPane = app.otherElements["map-pane"]
         if mapPane.exists {
             // Wide layout from the start (open iPhone Duo): card and map side by side

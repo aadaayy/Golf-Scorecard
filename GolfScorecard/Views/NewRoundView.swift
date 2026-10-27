@@ -40,7 +40,10 @@ struct NewRoundView: View {
         }
         .navigationTitle(course.name)
         .onAppear {
-            if tee.isEmpty { tee = course.tees.first ?? "" }
+            // White is the usual everyday tee; otherwise start from the middle of the list.
+            if tee.isEmpty {
+                tee = course.tees.first { $0.lowercased() == "white" } ?? course.tees[safe: course.tees.count / 2] ?? ""
+            }
         }
     }
 
@@ -53,4 +56,8 @@ struct NewRoundView: View {
         modelContext.insert(round)
         onStart(round)
     }
+}
+
+private extension Array {
+    subscript(safe index: Int) -> Element? { indices.contains(index) ? self[index] : nil }
 }

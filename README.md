@@ -37,9 +37,9 @@ If a check fails, GitHub marks the commit with a red X.
 
 ## Add a course
 
-1. Copy `GolfScorecard/Courses/sample-links.json` to a new file named after the course id, for example `palm-links.json`.
-2. Fill in the id, name, town, tees and every hole's par, handicap and yardage.
-3. Add hole drawings to `Assets.xcassets`, named like `palm-links-01`, and put that name in each hole's `map`.
+1. Copy `GolfScorecard/Courses/pompano-pines.json` to a new file named after the course id, for example `palm-links.json`.
+2. Fill in the id, name, town, tees and every hole's par, handicap and yardage. If one tee has its own handicap row on the card (often the red tees), add it under `handicaps`, as hole 2 of Pompano Pines does.
+3. Hole drawings: take a straight-on photo of the paper card and run `Tools/HoleDrawings/trace_holes.py` with a small spec file saying where the hole diagrams sit (see `Tools/HoleDrawings/pompano-pines.json`). It redraws each hole as a sharp vector drawing in the app's colors and adds them to `Assets.xcassets`. Put each drawing's name, like `palm-links-01`, in that hole's `map`.
 4. Push. The logic tests check the new file for typos such as a missing yardage or a repeated handicap.
 
 ## Layout
@@ -47,6 +47,7 @@ If a check fails, GitHub marks the commit with a red X.
 - `GolfScorecard/Core`: course format and scoring math (plain Swift, also tested on Linux)
 - `GolfScorecard/Models`: saved rounds (SwiftData, on the phone only) and the course list
 - `GolfScorecard/Views`: the screens
-- `GolfScorecard/Courses`: one JSON file per course
+- `GolfScorecard/Courses`: one JSON file per course (Pompano Beach Pines so far)
+- `Tools/HoleDrawings`: redraws a card's hole diagrams as vector drawings
 - `GolfScorecardUITests`: the walk-through used by the automatic checks
 - `Tests/ScorecardCoreTests`: logic tests
