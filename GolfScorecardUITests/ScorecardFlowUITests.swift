@@ -78,6 +78,34 @@ final class ScorecardFlowUITests: XCTestCase {
         }
     }
 
+    /// The open iPhone Duo, drawn at its real size and shrunk to fit a sideways
+    /// Pro Max, since the Duo simulator can't be unfolded here.
+    @MainActor
+    func testOpenDuoLayout() throws {
+        let device = ProcessInfo.processInfo.environment["SIMULATOR_DEVICE_NAME"] ?? ""
+        try XCTSkipUnless(device.contains("Pro Max"), "The open Duo picture is taken on the Pro Max only")
+        XCUIDevice.shared.orientation = .landscapeLeft
+        let app = XCUIApplication()
+        app.launchArguments = ["-uiTesting", "-openDuoPreview"]
+        app.launch()
+
+        let cardPane = app.otherElements["card-pane"]
+        let mapPane = app.otherElements["map-pane"]
+        XCTAssertTrue(cardPane.waitForExistence(timeout: 15), "The card is missing from the open layout")
+        XCTAssertTrue(mapPane.exists, "The hole is missing from the open layout")
+        let screen = app.frame
+        let card = cardPane.frame, hole = mapPane.frame
+        let cardFirst = screen.width > screen.height ? card.midX < hole.midX : card.midY < hole.midY
+        XCTAssertTrue(cardFirst, "The card should be on the left and the hole on the right")
+        XCTAssertTrue(app.staticTexts["nine-total-0"].isHittable, "The front nine total is cut off")
+        sleep(1)
+        capture("5-open-duo-size-front")
+
+        app.buttons["next-hole"].tap()
+        XCTAssertTrue(app.staticTexts["Hole 2"].waitForExistence(timeout: 5), "Next hole did not move the map to hole 2")
+        capture("6-open-duo-size-hole-2")
+    }
+
     private static var isDuo: Bool {
         (ProcessInfo.processInfo.environment["SIMULATOR_DEVICE_NAME"] ?? "").contains("Duo")
     }

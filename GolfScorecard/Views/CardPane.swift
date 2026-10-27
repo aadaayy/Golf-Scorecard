@@ -3,8 +3,9 @@ import UIKit
 
 /// The paper score card: holes across, players down, one nine at a time.
 ///
-/// Cells shrink to fit the pane, so a whole nine and its total fit on the
-/// half of the screen a sideways iPhone gives the card.
+/// The card grows and shrinks to fill its pane: cells widen to use the width
+/// and rows grow to use the height, so an open iPhone Duo gets a big card and
+/// a sideways iPhone still fits a whole nine on its half of the screen.
 struct CardPane: View {
     @Bindable var round: Round
     let course: Course
@@ -12,29 +13,36 @@ struct CardPane: View {
     @Binding var selectedPlayer: Int
 
     @State private var showingBackNine = false
-    @State private var paneWidth: CGFloat = 0
+    /// The space the grid has between the Front 9/Back 9 switch and the score buttons.
+    @State private var gridArea: CGSize = .zero
     @Environment(\.verticalSizeClass) private var verticalSizeClass
 
-    /// Full size cells, used whenever they fit.
-    private static let fullCell: CGFloat = 36
-    private static let fullLabel: CGFloat = 88
-    /// The smallest cells still easy to read and tap.
+    /// The smallest cells still easy to read and tap, and the largest worth drawing.
     private static let minCell: CGFloat = 26
+    private static let maxCell: CGFloat = 64
     private static let minLabel: CGFloat = 52
 
     private var columnCount: Int { nineHoles.count + (showingBackNine ? 2 : 1) }
+    private var hasHandicaps: Bool { course.holes.contains(where: { $0.handicap != nil }) }
+    private var rowCount: Int { 2 + teeRows.count + (hasHandicaps ? 1 : 0) + round.players.count }
 
-    /// Cell and label widths that fit the pane, from full size down to the minimum.
-    private var sizes: (cell: CGFloat, label: CGFloat) {
-        let available = paneWidth - 32  // the grid's side padding
-        let full = Self.fullLabel + Self.fullCell * CGFloat(columnCount)
-        guard paneWidth > 0, available < full else { return (Self.fullCell, Self.fullLabel) }
-        let label = max(Self.minLabel, min(Self.fullLabel, available * 0.17))
-        let cell = max(Self.minCell, min(Self.fullCell, (available - label) / CGFloat(columnCount)))
-        return (cell.rounded(.down), label.rounded(.down))
+    /// Cell width, label width and row height that fill the grid's space.
+    private var sizes: (cell: CGFloat, label: CGFloat, row: CGFloat) {
+        let compact = verticalSizeClass == .compact
+        guard gridArea.width > 0 else { return (36, 88, compact ? 30 : 36) }
+        let width = gridArea.width - 32  // the grid's side padding
+        let columns = CGFloat(columnCount)
+        let cell = min(Self.maxCell, max(Self.minCell, width * 0.83 / columns)).rounded(.down)
+        let label = min(max(88, cell * 2.4), max(Self.minLabel, width - cell * columns)).rounded(.down)
+        let minRow: CGFloat = compact ? 28 : 34
+        let maxRow = max(minRow, cell * 1.4)
+        let row = min(maxRow, max(minRow, (gridArea.height - 2) / CGFloat(rowCount))).rounded(.down)
+        return (cell, label, row)
     }
-    /// Shorter rows when the phone is sideways and height is scarce.
-    private var rowHeight: CGFloat { verticalSizeClass == .compact ? 30 : 36 }
+
+    /// Text sizes that follow the cells, so a big card has big numbers.
+    private var numberSize: CGFloat { min(26, max(12, min(sizes.cell * 0.46, sizes.row * 0.5))) }
+    private var labelSize: CGFloat { min(20, max(11, sizes.row * 0.38)) }
 
     private var nineHoles: [Hole] { showingBackNine ? course.backNine : course.frontNine }
     private var nineRange: ClosedRange<Int> { showingBackNine ? 10...18 : 1...9 }
@@ -52,9 +60,18 @@ struct CardPane: View {
                 .padding(.horizontal)
             }
 
-            ScrollView(.horizontal) {
-                grid.padding(.horizontal)
-            }
+            Color.clear
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                .onGeometryChange(for: CGSize.self) { $0.size } action: { gridArea = $0 }
+                .overlay {
+                    ScrollView([.horizontal, .vertical]) {
+                        grid.padding(.horizontal)
+                            .frame(minWidth: gridArea.width)
+                    }
+                    .scrollBounceBehavior(.basedOnSize, axes: [.horizontal, .vertical])
+                    .scrollIndicators(.hidden)
+                    .fixedSize(horizontal: false, vertical: gridFits)
+                }
 
             ScoreEntryBar(
                 playerName: round.players.indices.contains(player) ? round.players[player] : "",
@@ -67,11 +84,8 @@ struct CardPane: View {
                 round.grid = grid
             }
             .padding(.horizontal)
-
-            Spacer(minLength: 0)
         }
         .padding(.vertical, verticalSizeClass == .compact ? 8 : 16)
-        .onGeometryChange(for: CGFloat.self) { $0.size.width } action: { paneWidth = $0 }
         .onAppear { showingBackNine = selectedHole >= 10 }
         .onChange(of: selectedHole) { _, hole in
             showingBackNine = hole >= 10
@@ -82,6 +96,9 @@ struct CardPane: View {
         .accessibilityElement(children: .contain)
         .accessibilityIdentifier("card-pane")
     }
+
+    /// Whether the whole grid fits its space, so it can sit centered instead of scrolling.
+    private var gridFits: Bool { sizes.row * CGFloat(rowCount) + 2 <= gridArea.height }
 
     /// Tee rows to show: all of them like the paper card, or only the one being
     /// played when the phone is sideways and height is scarce.
@@ -95,7 +112,7 @@ struct CardPane: View {
         Grid(horizontalSpacing: 0, verticalSpacing: 0) {
             headerRow
             ForEach(teeRows, id: \.self) { tee in teeRow(tee) }
-            if course.holes.contains(where: { $0.handicap != nil }) { handicapRow }
+            if hasHandicaps { handicapRow }
             parRow
             ForEach(round.players.indices, id: \.self) { p in playerRow(p) }
         }
@@ -190,30 +207,29 @@ struct CardPane: View {
     private func rowLabel(_ text: String, _ style: RowStyle, bold: Bool = false, marked: Bool = false) -> some View {
         HStack(spacing: 3) {
             if marked {
-                Image(systemName: "arrowtriangle.right.fill").font(.system(size: 7))
+                Image(systemName: "arrowtriangle.right.fill").font(.system(size: labelSize * 0.55))
             }
             Text(text)
-                .font(.system(sizes.cell < Self.fullCell ? .caption : .footnote, design: .serif).weight(bold ? .bold : .regular))
+                .font(.system(size: labelSize, weight: bold ? .bold : .regular, design: .serif))
                 .lineLimit(1)
                 .minimumScaleFactor(0.6)
         }
         .foregroundStyle(style.ink)
         .padding(.horizontal, 6)
-        .frame(width: sizes.label, height: rowHeight, alignment: .leading)
+        .frame(width: sizes.label, height: sizes.row, alignment: .leading)
         .background(style.band)
         .overlay(Rectangle().stroke(CardColors.line, lineWidth: 0.5))
     }
 
     private func cell(_ text: String, _ style: RowStyle, bold: Bool = false, large: Bool = false) -> some View {
-        let base: Font = sizes.cell < Self.fullCell ? .footnote : .subheadline
-        let font: Font = large ? (sizes.cell < Self.fullCell ? .subheadline : .body) : base
+        let size = large ? numberSize * 1.18 : numberSize
         return Text(text)
-            .font(bold ? font.weight(.semibold) : font)
+            .font(.system(size: size, weight: bold ? .semibold : .regular))
             .monospacedDigit()
             .lineLimit(1)
             .minimumScaleFactor(0.55)
             .foregroundStyle(style.ink)
-            .frame(width: sizes.cell, height: rowHeight)
+            .frame(width: sizes.cell, height: sizes.row)
             .background(style.band)
             .overlay(Rectangle().stroke(CardColors.line, lineWidth: 0.5))
             .contentShape(Rectangle())

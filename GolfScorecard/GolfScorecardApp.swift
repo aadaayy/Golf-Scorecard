@@ -10,8 +10,18 @@ struct GolfScorecardApp: App {
 
     var body: some Scene {
         WindowGroup {
-            CourseListView()
-                .environment(library)
+            Group {
+                #if DEBUG
+                if ProcessInfo.processInfo.arguments.contains("-openDuoPreview") {
+                    OpenDuoPreview()
+                } else {
+                    CourseListView()
+                }
+                #else
+                CourseListView()
+                #endif
+            }
+            .environment(library)
         }
         .modelContainer(for: Round.self, inMemory: isUITesting)
     }
