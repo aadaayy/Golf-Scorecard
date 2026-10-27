@@ -31,7 +31,7 @@ With a free account, the app stops opening after 7 days. Press Run again to refr
 Every push runs the checks in `.github/workflows/checks.yml`:
 
 1. Logic tests (Linux): every course file loads and passes its checks, and the scoring math adds up.
-2. App build and walk-through (Mac): builds the app, starts a round in the simulator, scores a hole, opens the map, turns the phone sideways, and saves screenshots. Download them from the run's Summary page under Artifacts.
+2. App build and walk-through (Mac): builds the app and runs the same walk-through on an iPhone Pro Max simulator and the iPhone Duo simulator. It starts a round, scores a hole, opens the map, turns the phone sideways, and saves screenshots. After a push to main, the newest screenshots are on the `screenshots` branch, named after the device and the step.
 
 If a check fails, GitHub marks the commit with a red X.
 

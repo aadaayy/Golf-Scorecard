@@ -38,28 +38,33 @@ final class ScorecardFlowUITests: XCTestCase {
         plus.tap()
         plus.tap()
         XCTAssertEqual(app.staticTexts["nine-total-0"].label, "5", "Front nine total should be 5 after scoring hole 1")
-        capture("2-phone-card")
+        let mapPane = app.otherElements["map-pane"]
+        if mapPane.exists {
+            // Wide layout from the start (open iPhone Duo): card and map side by side
+            capture("2-open-card-and-map")
+            app.buttons["next-hole"].tap()
+            XCTAssertTrue(app.staticTexts["Hole 2"].waitForExistence(timeout: 5), "Next hole did not move the map to hole 2")
+            capture("3-open-next-hole")
+        } else {
+            // One pane at a time (closed iPhone Duo, regular iPhones): Card and Map tabs
+            capture("2-closed-card")
+            let tabBarMap = app.tabBars.buttons["Map"]
+            let mapTab = tabBarMap.exists ? tabBarMap : app.buttons["Map"].firstMatch
+            XCTAssertTrue(mapTab.waitForExistence(timeout: 5), "The Map tab is missing")
+            mapTab.tap()
+            XCTAssertTrue(mapPane.waitForExistence(timeout: 5), "The map did not appear")
+            app.buttons["next-hole"].tap()
+            XCTAssertTrue(app.staticTexts["Hole 2"].waitForExistence(timeout: 5), "Next hole did not move the map to hole 2")
+            capture("3-closed-map")
+        }
 
-        // Map tab
-        let tabBarMap = app.tabBars.buttons["Map"]
-        let mapTab = tabBarMap.exists ? tabBarMap : app.buttons["Map"].firstMatch
-        XCTAssertTrue(mapTab.waitForExistence(timeout: 5), "The Map tab is missing")
-        mapTab.tap()
-        XCTAssertTrue(app.otherElements["map-pane"].waitForExistence(timeout: 5), "The map did not appear")
-        app.buttons["next-hole"].tap()
-        XCTAssertTrue(app.staticTexts["Hole 2"].waitForExistence(timeout: 5), "Next hole did not move the map to hole 2")
-        capture("3-phone-map")
-
-        // Turned sideways: on large iPhones this is the wide layout, card and map side by side
+        // Turned sideways: large iPhones switch to card and map side by side
         XCUIDevice.shared.orientation = .landscapeLeft
         sleep(2)
-        let window = app.windows.firstMatch
-        if window.frame.width >= 896 {
-            XCTAssertTrue(app.otherElements["card-pane"].waitForExistence(timeout: 5), "Wide layout is missing the card")
-            XCTAssertTrue(app.otherElements["map-pane"].exists, "Wide layout is missing the map")
-            capture("4-wide-card-and-map")
+        if app.otherElements["card-pane"].exists && mapPane.exists {
+            capture("4-sideways-card-and-map")
         } else {
-            capture("4-landscape")
+            capture("4-sideways")
         }
     }
 

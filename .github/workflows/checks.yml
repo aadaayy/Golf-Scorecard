@@ -61,14 +61,18 @@ jobs:
           echo "::notice title=Tools::$(xcodebuild -version | tr '\n' ' ')| iOS SDK $sdk | simulator: $device | Duo simulator: ${duo:-none}"
           echo "flags=$flags" >> "$GITHUB_OUTPUT"
           echo "device=$device" >> "$GITHUB_OUTPUT"
+          echo "duo=$duo" >> "$GITHUB_OUTPUT"
 
       - name: Build and walk through the app
+        env:
+          DUO: ${{ steps.pick.outputs.duo }}
         run: |
           set -o pipefail
           xcodebuild test \
             -project GolfScorecard.xcodeproj \
             -scheme GolfScorecard \
             -destination "platform=iOS Simulator,name=${{ steps.pick.outputs.device }}" \
+            ${DUO:+-destination "platform=iOS Simulator,name=$DUO"} \
             -resultBundlePath build/Checks.xcresult \
             CODE_SIGNING_ALLOWED=NO \
             "SWIFT_ACTIVE_COMPILATION_CONDITIONS=\$(inherited) ${{ steps.pick.outputs.flags }}"
@@ -90,7 +94,15 @@ jobs:
           echo "::notice title=Screenshots::${#files[@]} exported"
           [ ${#files[@]} -eq 0 ] && exit 0
           mkdir publish
-          cp screenshots/* publish/
+          # Name each picture after its simulator and step, e.g. "iPhone Duo - 2-open-card-and-map.png"
+          python3 - <<'PY'
+          import json, shutil
+          for test in json.load(open("screenshots/manifest.json")):
+              for a in test["attachments"]:
+                  step = a["suggestedHumanReadableName"].split("_0_")[0]
+                  shutil.copy(f"screenshots/{a['exportedFileName']}", f"publish/{a['deviceName']} - {step}.png")
+          PY
+          ls publish
           cd publish
           git init -q -b screenshots
           git config user.name "github-actions[bot]"
