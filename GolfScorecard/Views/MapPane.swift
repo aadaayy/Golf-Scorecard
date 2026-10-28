@@ -117,6 +117,7 @@ struct ZoomableHoleDrawing: View {
     @State private var scale: CGFloat = 1
     @State private var offset: CGSize = .zero
     @GestureState private var pinch: CGFloat = 1
+    @GestureState private var pinchAnchor: UnitPoint = .center
     @GestureState private var drag: CGSize = .zero
 
     private static let maxScale: CGFloat = 5
@@ -126,7 +127,7 @@ struct ZoomableHoleDrawing: View {
         GeometryReader { geometry in
             let size = geometry.size
             let current = min(Self.maxScale, max(1, scale * pinch))
-            let shift = clamped(offset + drag, scale: current, in: size)
+            let shift = clamped(zoomed(offset, from: scale, to: current, at: pinchAnchor, in: size) + drag, scale: current, in: size)
             HoleDrawing(hole: hole)
                 .accessibilityValue(scale > 1 ? "Zoomed in" : "Zoomed out")
                 .frame(width: size.width * current, height: size.height * current)
@@ -164,9 +165,11 @@ struct ZoomableHoleDrawing: View {
     private func magnify(in size: CGSize) -> some Gesture {
         MagnifyGesture()
             .updating($pinch) { value, state, _ in state = value.magnification }
+            .updating($pinchAnchor) { value, state, _ in state = value.startAnchor }
             .onEnded { value in
-                scale = min(Self.maxScale, max(1, scale * value.magnification))
-                offset = clamped(offset, scale: scale, in: size)
+                let newScale = min(Self.maxScale, max(1, scale * value.magnification))
+                offset = clamped(zoomed(offset, from: scale, to: newScale, at: value.startAnchor, in: size), scale: newScale, in: size)
+                scale = newScale
             }
     }
 
@@ -176,6 +179,17 @@ struct ZoomableHoleDrawing: View {
             .onEnded { value in
                 offset = clamped(offset + value.translation, scale: scale, in: size)
             }
+    }
+
+    /// The offset that keeps the spot between the fingers under the fingers
+    /// while the zoom changes.
+    private func zoomed(_ offset: CGSize, from oldScale: CGFloat, to newScale: CGFloat, at anchor: UnitPoint, in size: CGSize) -> CGSize {
+        let point = CGSize(width: (anchor.x - 0.5) * size.width, height: (anchor.y - 0.5) * size.height)
+        let factor = newScale / oldScale
+        return CGSize(
+            width: point.width - (point.width - offset.width) * factor,
+            height: point.height - (point.height - offset.height) * factor
+        )
     }
 
     /// Keeps the zoomed drawing covering the frame, so it can't be dragged away.
