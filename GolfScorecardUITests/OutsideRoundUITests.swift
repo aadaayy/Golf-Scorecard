@@ -148,8 +148,9 @@ final class OutsideRoundUITests: XCTestCase {
     }
 
     private func goBack(_ app: XCUIApplication) {
-        // The nav bar's first button can be a toolbar button, so look for Back by name first.
-        let named = app.navigationBars.buttons["BackButton"]
+        // Look for Back by name: the iPhone Duo puts it at the side of the
+        // screen, outside the nav bar, whose first button is then a toolbar button.
+        let named = app.buttons["BackButton"].firstMatch
         let back = named.waitForExistence(timeout: 5) ? named : app.navigationBars.buttons.element(boundBy: 0)
         XCTAssertTrue(back.exists, "There's no Back button")
         back.tap()
