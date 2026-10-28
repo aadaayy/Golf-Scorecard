@@ -35,7 +35,7 @@ struct OpenDuoPreview: View {
     @ViewBuilder
     private var screen: some View {
         if showsHome {
-            HomeView().padding(.top, 24)
+            RootView().padding(.top, 24)
         } else if let round {
             VStack(spacing: 0) {
                 Text(round.courseName)

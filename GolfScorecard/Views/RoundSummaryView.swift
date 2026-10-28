@@ -14,17 +14,7 @@ struct RoundSummaryView: View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 16) {
-                    VStack(spacing: 4) {
-                        Text(round.courseName).font(.title2.bold()).multilineTextAlignment(.center)
-                        Text("\(round.date.formatted(date: .abbreviated, time: .omitted)) · \(round.tee) tees · Par \(course.par(holes: 1...18))")
-                            .foregroundStyle(.secondary)
-                    }
-                    .padding(.top, 8)
-
-                    ForEach(round.players.indices, id: \.self) { p in
-                        playerCard(p)
-                    }
-
+                    RoundTotals(round: round, course: course)
                     if onSave != nil, holesMissing > 0 {
                         Text("\(holesMissing) holes have no score yet. You can still save; the totals count the holes you scored.")
                             .font(.footnote)
@@ -63,6 +53,33 @@ struct RoundSummaryView: View {
         course.holes.count - round.grid.holesPlayed(player: 0, holes: 1...course.holes.count)
     }
 
+    static func toParText(_ value: Int) -> String {
+        value == 0 ? "Even" : (value > 0 ? "+\(value)" : "\(value)")
+    }
+}
+
+/// The course and date, then each player's Out, In, Total, to par and (for
+/// the first player, with a handicap) net. Used by the summary and by Past
+/// Rounds on a wide screen.
+struct RoundTotals: View {
+    let round: Round
+    let course: Course
+
+    var body: some View {
+        VStack(spacing: 16) {
+            VStack(spacing: 4) {
+                Text(round.courseName).font(.title2.bold()).multilineTextAlignment(.center)
+                Text("\(round.date.formatted(date: .abbreviated, time: .omitted)) · \(round.tee) tees · Par \(course.par(holes: 1...18))")
+                    .foregroundStyle(.secondary)
+            }
+            .padding(.top, 8)
+
+            ForEach(round.players.indices, id: \.self) { p in
+                playerCard(p)
+            }
+        }
+    }
+
     private func playerCard(_ p: Int) -> some View {
         let grid = round.grid
         let out = grid.total(player: p, holes: 1...9)
@@ -82,7 +99,7 @@ struct RoundSummaryView: View {
                 figure("In", inn > 0 ? "\(inn)" : "–")
                 figure("Total", total > 0 ? "\(total)" : "–", big: true)
                     .accessibilityIdentifier("summary-total-\(p)")
-                figure("To par", grid.toPar(player: p, course: course).map(Self.toParText) ?? "–")
+                figure("To par", grid.toPar(player: p, course: course).map(RoundSummaryView.toParText) ?? "–")
                 if p == 0, let net = netScore(total: total, played: played) {
                     figure("Net", "\(net)")
                         .accessibilityIdentifier("summary-net")
@@ -110,9 +127,5 @@ struct RoundSummaryView: View {
         }
         .frame(maxWidth: .infinity)
         .accessibilityElement(children: .combine)
-    }
-
-    static func toParText(_ value: Int) -> String {
-        value == 0 ? "Even" : (value > 0 ? "+\(value)" : "\(value)")
     }
 }

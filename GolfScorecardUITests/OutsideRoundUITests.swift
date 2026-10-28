@@ -66,7 +66,7 @@ final class OutsideRoundUITests: XCTestCase {
         capture("h1-home")
 
         // Past rounds, newest first: today's unfinished round, a nine, a full round.
-        app.buttons["past-rounds"].tap()
+        tab("Past Rounds", in: app)
         let fullRound = app.buttons["past-round-2"]
         XCTAssertTrue(fullRound.waitForExistence(timeout: 5), "The sample rounds are missing from Past Rounds")
         capture("h2-past-rounds")
@@ -88,13 +88,12 @@ final class OutsideRoundUITests: XCTestCase {
         capture("h4-summary")
         app.buttons["Done"].tap()
         goBack(app)
-        goBack(app)
 
         // Profile
-        app.buttons["profile"].tap()
+        tab("Profile", in: app)
         XCTAssertTrue(app.buttons["erase-everything"].waitForExistence(timeout: 5), "Profile is missing Erase Everything")
         capture("h5-profile")
-        goBack(app)
+        tab("Play", in: app)
 
         // Pick today's round back up and finish it.
         XCTAssertTrue(resume.waitForExistence(timeout: 5))
@@ -116,6 +115,17 @@ final class OutsideRoundUITests: XCTestCase {
         if app.otherElements["course-preview"].waitForExistence(timeout: 5) {
             XCTAssertTrue(app.buttons["play-course"].exists, "The course preview should have Play")
             capture("h8-sideways-home")
+
+            // Past rounds: the list on the left, the picked round on the right.
+            tab("Past Rounds", in: app)
+            XCTAssertTrue(app.otherElements["round-detail"].waitForExistence(timeout: 5), "Sideways, the picked round should show beside the list")
+            app.buttons["past-round-1"].tap()
+            XCTAssertTrue(app.buttons["open-round"].waitForExistence(timeout: 5), "The picked round should have Open Card")
+            capture("h10-sideways-past-rounds")
+
+            tab("Profile", in: app)
+            XCTAssertTrue(app.buttons["erase-everything"].waitForExistence(timeout: 5), "Profile is missing Erase Everything")
+            capture("h11-sideways-profile")
         } else {
             XCTAssertTrue(Self.isDuo, "A sideways iPhone should show the course beside the list")
         }
@@ -123,7 +133,7 @@ final class OutsideRoundUITests: XCTestCase {
         sleep(1)
 
         // Erase everything: the welcome pages come back.
-        app.buttons["profile"].tap()
+        tab("Profile", in: app)
         let erase = app.buttons["erase-everything"]
         XCTAssertTrue(erase.waitForExistence(timeout: 5))
         erase.tap()
@@ -145,6 +155,25 @@ final class OutsideRoundUITests: XCTestCase {
         XCTAssertTrue(app.otherElements["course-preview"].waitForExistence(timeout: 15), "The open Duo home should show the course beside the list")
         sleep(1)
         capture("h9-open-duo-size-home")
+
+        tab("Past Rounds", in: app)
+        XCTAssertTrue(app.otherElements["round-detail"].waitForExistence(timeout: 5), "The picked round should show beside the list")
+        sleep(1)
+        capture("h12-open-duo-size-past-rounds")
+
+        tab("Profile", in: app)
+        XCTAssertTrue(app.buttons["erase-everything"].waitForExistence(timeout: 5), "Profile is missing Erase Everything")
+        sleep(1)
+        capture("h13-open-duo-size-profile")
+    }
+
+    /// The app's tabs sit in a tab bar on most iPhones and at the side on the Duo.
+    private func tab(_ name: String, in app: XCUIApplication) {
+        let inBar = app.tabBars.buttons[name]
+        let button = inBar.waitForExistence(timeout: 3) ? inBar : app.buttons[name].firstMatch
+        XCTAssertTrue(button.waitForExistence(timeout: 5), "The \(name) tab is missing")
+        button.tap()
+        sleep(1)
     }
 
     private func goBack(_ app: XCUIApplication) {

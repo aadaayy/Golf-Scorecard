@@ -152,7 +152,7 @@ jobs:
                   shutil.copy(f"screenshots/{a['exportedFileName']}", f"publish/{a['deviceName']} - {step}.png")
           PY
           # Simulator screenshots are always upright; turn the sideways ones
-          for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png; do sips -r 270 "$f" >/dev/null; done
+          for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png publish/*sideways-past-rounds.png publish/*sideways-profile.png; do sips -r 270 "$f" >/dev/null; done
           ls publish
           cd publish
           git init -q -b screenshots

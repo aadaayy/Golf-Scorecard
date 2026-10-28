@@ -1,14 +1,7 @@
 import SwiftUI
 import SwiftData
 
-/// Screens you can open from home besides a course or a round.
-enum Screen: Hashable {
-    case pastRounds
-    case profile
-}
-
-/// Where the app opens: a round to pick up again, the courses, past rounds
-/// and profile.
+/// The Play tab: a round to pick up again, and the courses.
 ///
 /// Upright (closed iPhone Duo, regular iPhones) it's one list, and a course
 /// opens the start-round screen. Open on the Duo or sideways, the list sits on
@@ -18,7 +11,6 @@ struct HomeView: View {
     @Environment(CourseLibrary.self) private var library
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
-    @AppStorage(SettingsKey.onboarded) private var onboarded = false
     @AppStorage(SettingsKey.playerName) private var playerName = ""
     @Query(filter: #Predicate<Round> { $0.finishedAt == nil }, sort: \Round.date, order: .reverse)
     private var unfinished: [Round]
@@ -51,15 +43,6 @@ struct HomeView: View {
             .navigationDestination(for: Round.self) { round in
                 RoundView(round: round)
             }
-            .navigationDestination(for: Screen.self) { screen in
-                switch screen {
-                case .pastRounds: PastRoundsView()
-                case .profile: ProfileView { path = NavigationPath() }
-                }
-            }
-        }
-        .fullScreenCover(isPresented: Binding(get: { !onboarded }, set: { onboarded = !$0 })) {
-            OnboardingView()
         }
     }
 
@@ -81,17 +64,6 @@ struct HomeView: View {
                 ForEach(library.courses) { course in
                     courseRow(course)
                 }
-            }
-
-            Section {
-                NavigationLink(value: Screen.pastRounds) {
-                    Label("Past Rounds", systemImage: "clock.arrow.circlepath")
-                }
-                .accessibilityIdentifier("past-rounds")
-                NavigationLink(value: Screen.profile) {
-                    Label("Profile & Settings", systemImage: "person.crop.circle")
-                }
-                .accessibilityIdentifier("profile")
             }
         }
     }
@@ -165,36 +137,56 @@ struct CoursePreview: View {
     }
 
     var body: some View {
-        VStack(spacing: 12) {
-            // A sideways phone is short, so the holes get the room; the list already names the course.
-            if verticalSizeClass != .compact {
-                VStack(spacing: 2) {
-                    Text(course.name).font(.title2.bold()).multilineTextAlignment(.center)
-                    Text(course.town).foregroundStyle(.secondary)
+        Group {
+            if verticalSizeClass == .compact {
+                // A sideways phone is short, so the holes get the height: the
+                // nine switch and Play share one row, and the list already
+                // names the course.
+                VStack(spacing: 8) {
+                    HStack(spacing: 12) {
+                        ninePicker
+                        playButton
+                    }
+                    NinePane(course: course, tee: tee, selectedHole: $previewHole, showsHeader: false)
                 }
-                teeChips
-            }
-            if !course.backNine.isEmpty {
-                Picker("Nine", selection: Binding(get: { previewHole >= 10 }, set: { previewHole = $0 ? 10 : 1 })) {
-                    Text("Front 9").tag(false)
-                    Text("Back 9").tag(true)
+            } else {
+                VStack(spacing: 12) {
+                    VStack(spacing: 2) {
+                        Text(course.name).font(.title2.bold()).multilineTextAlignment(.center)
+                        Text(course.town).foregroundStyle(.secondary)
+                    }
+                    teeChips
+                    ninePicker.frame(maxWidth: 280)
+                    NinePane(course: course, tee: tee, selectedHole: $previewHole)
+                    playButton
                 }
-                .pickerStyle(.segmented)
-                .frame(maxWidth: 280)
             }
-            NinePane(course: course, tee: tee, selectedHole: $previewHole)
-            NavigationLink(value: course) {
-                Label("Play This Course", systemImage: "flag.fill")
-                    .font(.headline)
-                    .frame(maxWidth: 360)
-                    .padding(.vertical, 6)
-            }
-            .buttonStyle(.borderedProminent)
-            .accessibilityIdentifier("play-course")
         }
         .padding()
         .accessibilityElement(children: .contain)
         .accessibilityIdentifier("course-preview")
+    }
+
+    @ViewBuilder
+    private var ninePicker: some View {
+        if !course.backNine.isEmpty {
+            Picker("Nine", selection: Binding(get: { previewHole >= 10 }, set: { previewHole = $0 ? 10 : 1 })) {
+                Text("Front 9").tag(false)
+                Text("Back 9").tag(true)
+            }
+            .pickerStyle(.segmented)
+        }
+    }
+
+    private var playButton: some View {
+        NavigationLink(value: course) {
+            Label(verticalSizeClass == .compact ? "Play" : "Play This Course", systemImage: "figure.golf")
+                .font(.headline)
+                .frame(maxWidth: 360)
+                .padding(.vertical, 6)
+        }
+        .buttonStyle(.borderedProminent)
+        .accessibilityIdentifier("play-course")
     }
 
     /// Each tee in its card color with its total yards.

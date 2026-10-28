@@ -43,10 +43,10 @@ struct GolfScorecardApp: App {
                 if ProcessInfo.processInfo.arguments.contains("-openDuoPreview") {
                     OpenDuoPreview(showsHome: ProcessInfo.processInfo.arguments.contains("-home"))
                 } else {
-                    HomeView()
+                    RootView()
                 }
                 #else
-                HomeView()
+                RootView()
                 #endif
             }
             .environment(library)

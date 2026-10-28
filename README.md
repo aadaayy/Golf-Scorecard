@@ -5,7 +5,7 @@ A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, o
 ## What's in it
 
 1. Welcome pages the first time: your name, an optional handicap, and whether the open Duo starts on the Hole or Nine view.
-2. Home: resume an unfinished round, pick a course, Past Rounds, and Profile & Settings. Open or sideways, the picked course shows on the right.
+2. Three tabs: Play, Past Rounds and Profile. On the iPhone Duo they sit in the strip at the side of the screen, under Back. Play resumes an unfinished round or picks a course; open or sideways, the picked course shows on the right, and Past Rounds and Profile use both halves too.
 3. Start a round: tee, and up to four players (you're first; people you've played with are a tap away).
 4. The round: card and map (see below), then Finish for a summary with Out, In, Total, to par and net.
 5. Past rounds: every round, newest first. Finished cards stay locked until Edit.

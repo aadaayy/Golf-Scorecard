@@ -1,23 +1,30 @@
 import SwiftUI
 import SwiftData
 
-/// Every round on this phone, newest first. A round opens on its card; finished
-/// ones stay locked until Edit. Swipe left to delete one.
+/// Every round on this phone, newest first. Swipe left to delete one.
+///
+/// Upright, a round opens on its card. Open on the Duo or sideways, the list
+/// sits on the left and the picked round's totals on the right, with a button
+/// to open its card. Finished cards stay locked until Edit.
 struct PastRoundsView: View {
     @Query(sort: \Round.date, order: .reverse) private var rounds: [Round]
     @Environment(\.modelContext) private var modelContext
     @Environment(CourseLibrary.self) private var library
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
+    @Environment(\.verticalSizeClass) private var verticalSizeClass
+    @State private var pickedID: PersistentIdentifier?
+
+    private var isWide: Bool { horizontalSizeClass == .regular || verticalSizeClass == .compact }
+    private var picked: Round? {
+        rounds.first { $0.persistentModelID == pickedID } ?? rounds.first
+    }
 
     var body: some View {
-        List {
-            ForEach(rounds) { round in
-                NavigationLink(value: round) {
-                    row(round)
-                }
-                .accessibilityIdentifier("past-round-\(rounds.firstIndex(of: round) ?? 0)")
-            }
-            .onDelete { offsets in
-                for index in offsets { modelContext.delete(rounds[index]) }
+        Group {
+            if isWide && !rounds.isEmpty {
+                WideRoundLayout(card: list, map: detail)
+            } else {
+                list
             }
         }
         .overlay {
@@ -26,6 +33,59 @@ struct PastRoundsView: View {
             }
         }
         .navigationTitle("Past Rounds")
+        .navigationBarTitleDisplayMode(isWide ? .inline : .large)
+    }
+
+    private var list: some View {
+        List {
+            ForEach(Array(rounds.enumerated()), id: \.element.persistentModelID) { index, round in
+                Group {
+                    if isWide {
+                        Button {
+                            pickedID = round.persistentModelID
+                        } label: {
+                            row(round).contentShape(Rectangle())
+                        }
+                        .buttonStyle(.plain)
+                        .listRowBackground(round.persistentModelID == picked?.persistentModelID ? Color.accentColor.opacity(0.12) : nil)
+                    } else {
+                        NavigationLink(value: round) { row(round) }
+                    }
+                }
+                .accessibilityIdentifier("past-round-\(index)")
+            }
+            .onDelete { offsets in
+                for index in offsets { modelContext.delete(rounds[index]) }
+            }
+        }
+    }
+
+    /// The picked round's totals and a button to open its card.
+    @ViewBuilder
+    private var detail: some View {
+        if let round = picked, let course = library.course(id: round.courseID) {
+            ScrollView {
+                VStack(spacing: 16) {
+                    RoundTotals(round: round, course: course)
+                    NavigationLink(value: round) {
+                        Label(round.isFinished ? "Open Card" : "Resume Round",
+                              systemImage: round.isFinished ? "list.number" : "play.fill")
+                            .font(.headline)
+                            .frame(maxWidth: 360)
+                            .padding(.vertical, 6)
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .accessibilityIdentifier("open-round")
+                }
+                .padding()
+                .frame(maxWidth: 560)
+                .frame(maxWidth: .infinity)
+            }
+            .accessibilityElement(children: .contain)
+            .accessibilityIdentifier("round-detail")
+        } else {
+            ContentUnavailableView("Pick a round", systemImage: "clock.arrow.circlepath")
+        }
     }
 
     private func row(_ round: Round) -> some View {

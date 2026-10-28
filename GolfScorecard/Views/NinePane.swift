@@ -6,6 +6,8 @@ struct NinePane: View {
     let course: Course
     let tee: String
     @Binding var selectedHole: Int
+    /// The "Front 9 · Par 36" title. Home leaves it off on a short sideways phone.
+    var showsHeader = true
 
     @State private var area: CGSize = .zero
     private static let gap: CGFloat = 8
@@ -18,10 +20,12 @@ struct NinePane: View {
 
     var body: some View {
         VStack(spacing: 8) {
-            VStack(spacing: 2) {
-                Text(onBackNine ? "Back 9" : "Front 9").font(.title2.bold())
-                Text("Par \(course.par(holes: range)) · \(course.yards(tee: tee, holes: range)) yds")
-                    .foregroundStyle(.secondary)
+            if showsHeader {
+                VStack(spacing: 2) {
+                    Text(onBackNine ? "Back 9" : "Front 9").font(.title2.bold())
+                    Text("Par \(course.par(holes: range)) · \(course.yards(tee: tee, holes: range)) yds")
+                        .foregroundStyle(.secondary)
+                }
             }
             Color.clear
                 .frame(maxWidth: .infinity, maxHeight: .infinity)

@@ -40,6 +40,8 @@ struct RoundView: View {
         .navigationTitle(round.courseName)
         .navigationBarTitleDisplayMode(.inline)
         .environment(\.scoresLocked, round.isFinished && !editing)
+        // The round has its own Card and Map tabs, so the app's tabs step aside.
+        .toolbar(.hidden, for: .tabBar)
         .toolbar {
             if isWide {
                 ToolbarItem(placement: .topBarTrailing) { OpenLayoutPicker() }
