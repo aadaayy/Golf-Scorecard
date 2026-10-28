@@ -148,9 +148,12 @@ final class OutsideRoundUITests: XCTestCase {
     }
 
     private func goBack(_ app: XCUIApplication) {
-        let back = app.navigationBars.buttons.element(boundBy: 0)
-        XCTAssertTrue(back.waitForExistence(timeout: 5), "There's no Back button")
+        // The nav bar's first button can be a toolbar button, so look for Back by name first.
+        let named = app.navigationBars.buttons["BackButton"]
+        let back = named.waitForExistence(timeout: 5) ? named : app.navigationBars.buttons.element(boundBy: 0)
+        XCTAssertTrue(back.exists, "There's no Back button")
         back.tap()
+        sleep(1)
     }
 
     private static var isDuo: Bool {
