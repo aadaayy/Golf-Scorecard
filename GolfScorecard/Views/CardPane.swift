@@ -22,22 +22,26 @@ struct CardPane: View {
     private static let maxCell: CGFloat = 64
     private static let minLabel: CGFloat = 52
 
-    private var columnCount: Int { nineHoles.count + (showingBackNine ? 2 : 1) }
+    private var totalsCount: Int { showingBackNine ? 2 : 1 }
+    /// Total columns (OUT, IN, TOT) are wider, so four-digit yardages fit.
+    private static let totalWidthFactor: CGFloat = 1.4
     private var hasHandicaps: Bool { course.holes.contains(where: { $0.handicap != nil }) }
     private var rowCount: Int { 2 + teeRows.count + (hasHandicaps ? 1 : 0) + round.players.count }
 
     /// Cell width, label width and row height that fill the grid's space.
-    private var sizes: (cell: CGFloat, label: CGFloat, row: CGFloat) {
+    private var sizes: (cell: CGFloat, total: CGFloat, label: CGFloat, row: CGFloat) {
         let compact = verticalSizeClass == .compact
-        guard gridArea.width > 0 else { return (36, 88, compact ? 30 : 36) }
+        guard gridArea.width > 0 else { return (36, 50, 88, compact ? 30 : 36) }
         let width = gridArea.width - 32  // the grid's side padding
-        let columns = CGFloat(columnCount)
+        let columns = CGFloat(nineHoles.count) + CGFloat(totalsCount) * Self.totalWidthFactor
         let cell = min(Self.maxCell, max(Self.minCell, width * 0.83 / columns)).rounded(.down)
-        let label = min(max(88, cell * 2.4), max(Self.minLabel, width - cell * columns)).rounded(.down)
+        let total = (cell * Self.totalWidthFactor).rounded(.down)
+        let used = cell * CGFloat(nineHoles.count) + total * CGFloat(totalsCount)
+        let label = min(max(88, cell * 2.4), max(Self.minLabel, width - used)).rounded(.down)
         let minRow: CGFloat = compact ? 28 : 34
         let maxRow = max(minRow, cell * 1.4)
         let row = min(maxRow, max(minRow, (gridArea.height - 2) / CGFloat(rowCount))).rounded(.down)
-        return (cell, label, row)
+        return (cell, total, label, row)
     }
 
     /// Text sizes that follow the cells, so a big card has big numbers.
@@ -131,8 +135,8 @@ struct CardPane: View {
                 .buttonStyle(.plain)
                 .accessibilityIdentifier("hole-\(hole.number)")
             }
-            cell(nineLabel.uppercased(), plain, bold: true)
-            if showingBackNine { cell("TOT", plain, bold: true) }
+            cell(nineLabel.uppercased(), plain, bold: true, total: true)
+            if showingBackNine { cell("TOT", plain, bold: true, total: true) }
         }
     }
 
@@ -145,8 +149,8 @@ struct CardPane: View {
             ForEach(nineHoles, id: \.number) { hole in
                 cell(hole.yards[tee].map(String.init) ?? "", style, bold: played)
             }
-            cell("\(course.yards(tee: tee, holes: nineRange))", style, bold: played)
-            if showingBackNine { cell("\(course.yards(tee: tee, holes: 1...18))", style, bold: played) }
+            cell("\(course.yards(tee: tee, holes: nineRange))", style, bold: played, total: true)
+            if showingBackNine { cell("\(course.yards(tee: tee, holes: 1...18))", style, bold: played, total: true) }
         }
     }
 
@@ -158,8 +162,8 @@ struct CardPane: View {
             ForEach(nineHoles, id: \.number) { hole in
                 cell(course.handicap(hole: hole.number, tee: round.tee).map(String.init) ?? "", style, bold: true)
             }
-            cell("", style)
-            if showingBackNine { cell("", style) }
+            cell("", style, total: true)
+            if showingBackNine { cell("", style, total: true) }
         }
     }
 
@@ -168,8 +172,8 @@ struct CardPane: View {
         return GridRow {
             rowLabel("PAR", style, bold: true)
             ForEach(nineHoles, id: \.number) { hole in cell("\(hole.par)", style, bold: true) }
-            cell("\(course.par(holes: nineRange))", style, bold: true)
-            if showingBackNine { cell("\(course.par(holes: 1...18))", style, bold: true) }
+            cell("\(course.par(holes: nineRange))", style, bold: true, total: true)
+            if showingBackNine { cell("\(course.par(holes: 1...18))", style, bold: true, total: true) }
         }
     }
 
@@ -180,10 +184,10 @@ struct CardPane: View {
             ForEach(nineHoles, id: \.number) { hole in
                 scoreCell(player: p, hole: hole.number, strokes: strokes)
             }
-            cell("\(strokes.total(player: p, holes: nineRange))", plain, bold: true, large: true)
+            cell("\(strokes.total(player: p, holes: nineRange))", plain, bold: true, large: true, total: true)
                 .accessibilityIdentifier("nine-total-\(p)")
             if showingBackNine {
-                cell("\(strokes.total(player: p, holes: 1...18))", plain, bold: true, large: true)
+                cell("\(strokes.total(player: p, holes: 1...18))", plain, bold: true, large: true, total: true)
                     .accessibilityIdentifier("total-\(p)")
             }
         }
@@ -221,7 +225,7 @@ struct CardPane: View {
         .overlay(Rectangle().stroke(CardColors.line, lineWidth: 0.5))
     }
 
-    private func cell(_ text: String, _ style: RowStyle, bold: Bool = false, large: Bool = false) -> some View {
+    private func cell(_ text: String, _ style: RowStyle, bold: Bool = false, large: Bool = false, total: Bool = false) -> some View {
         let size = large ? numberSize * 1.18 : numberSize
         return Text(text)
             .font(.system(size: size, weight: bold ? .semibold : .regular))
@@ -229,7 +233,7 @@ struct CardPane: View {
             .lineLimit(1)
             .minimumScaleFactor(0.55)
             .foregroundStyle(style.ink)
-            .frame(width: sizes.cell, height: sizes.row)
+            .frame(width: total ? sizes.total : sizes.cell, height: sizes.row)
             .background(style.band)
             .overlay(Rectangle().stroke(CardColors.line, lineWidth: 0.5))
             .contentShape(Rectangle())
