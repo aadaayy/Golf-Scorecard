@@ -1,0 +1,23 @@
+# Checks the course library on every push that changes it: course files, hole
+# drawings, and that index.json lists them as they are. Linux only, so it's quick
+# and free; the app checks (checks.yml) skip library-only changes.
+name: Course library
+
+on:
+  push:
+    branches: [main]
+    paths: ['course-library/**', 'Tools/CourseLibrary/**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Check courses
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check courses and index
+        run: python3 Tools/CourseLibrary/build_index.py course-library --check

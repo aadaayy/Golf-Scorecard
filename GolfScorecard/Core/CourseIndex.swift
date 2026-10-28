@@ -2,7 +2,7 @@ import Foundation
 
 /// The list of courses in the online course library, read from its index.json.
 ///
-/// The library is a public GitHub repository. Each course has a folder with
+/// The library is a folder in a public GitHub repository. Each course has a folder with
 /// its course.json and one SVG drawing per hole, named after the hole's `map`
 /// (for example pompano-pines-01.svg). The index says what's there, so the
 /// app can show and search the list before downloading anything.

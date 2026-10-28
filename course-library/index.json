@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "courses": [
+    {
+      "id": "pompano-pines",
+      "name": "Pompano Beach Pines Course",
+      "town": "Pompano Beach, FL",
+      "holes": 18,
+      "par": 72,
+      "tees": [
+        "Gold",
+        "Blue",
+        "White",
+        "Brown",
+        "Red"
+      ],
+      "yards": {
+        "Gold": 7119,
+        "Blue": 6612,
+        "White": 6207,
+        "Brown": 5555,
+        "Red": 5072
+      },
+      "version": 1,
+      "folder": "courses/pompano-pines",
+      "files": [
+        "course.json",
+        "pompano-pines-01.svg",
+        "pompano-pines-02.svg",
+        "pompano-pines-03.svg",
+        "pompano-pines-04.svg",
+        "pompano-pines-05.svg",
+        "pompano-pines-06.svg",
+        "pompano-pines-07.svg",
+        "pompano-pines-08.svg",
+        "pompano-pines-09.svg",
+        "pompano-pines-10.svg",
+        "pompano-pines-11.svg",
+        "pompano-pines-12.svg",
+        "pompano-pines-13.svg",
+        "pompano-pines-14.svg",
+        "pompano-pines-15.svg",
+        "pompano-pines-16.svg",
+        "pompano-pines-17.svg",
+        "pompano-pines-18.svg"
+      ],
+      "bytes": 358809
+    }
+  ]
+}

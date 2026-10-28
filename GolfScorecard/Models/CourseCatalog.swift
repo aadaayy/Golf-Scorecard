@@ -2,7 +2,7 @@ import Foundation
 import Observation
 
 /// The online course library: its list of courses, and downloading one onto
-/// the phone. Reads plain files from the library's public GitHub repository,
+/// the phone. Reads plain files from the library's folder on GitHub,
 /// so there's no server, no account and nothing to pay for.
 @MainActor
 @Observable

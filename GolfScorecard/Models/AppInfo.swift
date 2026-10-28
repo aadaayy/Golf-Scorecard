@@ -1,7 +1,9 @@
 import Foundation
 
 enum AppInfo {
-    /// The course library: a public GitHub repository read as plain files.
+    /// The course library: the course-library folder of this public GitHub
+    /// repository, read as plain files. It has to move to a repository of its
+    /// own before this one goes private (see README).
     /// The automatic checks point the app at a copy on the test Mac with
     /// "-courseLibraryURL <url>".
     static var courseLibraryURL: URL {
@@ -12,7 +14,7 @@ enum AppInfo {
             return url
         }
         #endif
-        return URL(string: "https://raw.githubusercontent.com/aadaayy/golf-course-library/main/")!
+        return URL(string: "https://raw.githubusercontent.com/aadaayy/Golf-Scorecard/main/course-library/")!
     }
 
     /// Where "Request a course" emails go. Put your support address here before release.

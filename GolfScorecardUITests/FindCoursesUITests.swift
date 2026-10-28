@@ -103,6 +103,32 @@ final class FindCoursesUITests: XCTestCase {
         capture("f3-search")
     }
 
+    /// One real download from the course library on GitHub, on the iPhone Pro
+    /// only, so the checks know the published library works.
+    @MainActor
+    func testDownloadFromGitHub() throws {
+        let device = ProcessInfo.processInfo.environment["SIMULATOR_DEVICE_NAME"] ?? ""
+        try XCTSkipUnless(device.contains("Pro") && !device.contains("Max"), "The real download is checked on the iPhone Pro only")
+        let app = XCUIApplication()
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-noBuiltInCourses"]
+        app.launch()
+
+        let find = app.buttons["find-courses"]
+        XCTAssertTrue(find.waitForExistence(timeout: 15), "Play should offer Find Courses")
+        find.tap()
+        let row = app.buttons["library-course-pompano-pines"]
+        XCTAssertTrue(row.waitForExistence(timeout: 30), "Pompano Beach Pines is missing from the library on GitHub")
+        capture("g1-github-find-courses")
+        row.tap()
+        XCTAssertTrue(wait(for: row, label: "On your phone", timeout: 60), "The download from GitHub didn't finish")
+        back(in: app)
+        let course = app.buttons["course-pompano-pines"]
+        XCTAssertTrue(course.waitForExistence(timeout: 5), "The course downloaded from GitHub should be on Play")
+        capture("g2-github-downloaded")
+        course.tap()
+        XCTAssertTrue(app.buttons["start-round"].waitForExistence(timeout: 5), "The downloaded course should open")
+    }
+
     /// Find Courses at the open iPhone Duo's size, drawn on the Pro Max (see OpenDuoPreview).
     @MainActor
     func testOpenDuoFindCourses() throws {

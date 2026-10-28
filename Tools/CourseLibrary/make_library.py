@@ -4,7 +4,7 @@
 Copies each course in GolfScorecard/Courses with its hole drawings from the asset
 catalog into LIBRARY/courses/<id>/, then writes LIBRARY/index.json with
 build_index.py. The automatic checks use it to make a library on the test Mac,
-and it seeded the golf-course-library repository.
+and it seeded the course-library folder.
 
 Usage:
   python3 Tools/CourseLibrary/make_library.py LIBRARY_FOLDER

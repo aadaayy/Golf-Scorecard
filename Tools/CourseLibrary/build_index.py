@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Checks every course in a course library folder and writes its index.json.
 
-The library is a folder (the golf-course-library repository) laid out like this:
+The library is a folder (course-library in the app repository) laid out like this:
 
   index.json                      written by this script; the app reads it first
   courses/<id>/course.json        the course, in the app's course format
@@ -9,14 +9,13 @@ The library is a folder (the golf-course-library repository) laid out like this:
 
 Run it after adding or changing a course, then push:
 
-  python3 build_index.py LIBRARY_FOLDER          writes LIBRARY_FOLDER/index.json
-  python3 build_index.py LIBRARY_FOLDER --check  fails if index.json is out of date
+  python3 Tools/CourseLibrary/build_index.py course-library          writes course-library/index.json
+  python3 Tools/CourseLibrary/build_index.py course-library --check  fails if index.json is out of date
 
 When you change a course that's already in the library, raise its "version" in
 course.json by one, so phones that have it download the new copy.
 
-Only uses the Python standard library. The same script is in the app repository
-(Tools/CourseLibrary) and in the library repository (tools/).
+Only uses the Python standard library.
 """
 import argparse
 import json
@@ -145,7 +144,7 @@ def main():
     if args.check:
         current = open(path, encoding="utf-8").read() if os.path.exists(path) else ""
         if current != text:
-            print("index.json is out of date: run build_index.py and push the new index.json", file=sys.stderr)
+            print("index.json is out of date: run Tools/CourseLibrary/build_index.py course-library and push the new index.json", file=sys.stderr)
             sys.exit(1)
         print(f"index.json is up to date: {len(index['courses'])} courses")
     else:

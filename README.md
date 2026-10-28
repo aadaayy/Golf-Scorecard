@@ -47,16 +47,23 @@ If a check fails, GitHub marks the commit with a red X.
 
 ## The course library
 
-Courses live in their own public repository, [aadaayy/golf-course-library](https://github.com/aadaayy/golf-course-library), so they cost nothing to host and this repository can be private. The app reads plain files from it (no server, no account):
+The courses in Find Courses live in the `course-library` folder of this repository, so they cost nothing to host. The app reads plain files from it on GitHub (no server, no account):
 
-- `index.json`: every course's name, town, holes, par, tees, version and files. Find Courses shows and searches this list.
-- `courses/<id>/course.json` and one `<map>.svg` drawing per hole.
+- `course-library/index.json`: every course's name, town, holes, par, tees, version and files. Find Courses shows and searches this list.
+- `course-library/courses/<id>/course.json` and one `<map>.svg` drawing per hole.
 
-The app downloads every file of a course, checks them, and only then saves the course on the phone (Application Support/Downloaded Courses). On Play it quietly updates any course on the phone whose `version` in the library is higher.
+The app downloads every file of a course, checks them, and only then saves the course on the phone (Application Support/Downloaded Courses). On Play it quietly updates any course on the phone whose `version` in the library is higher. To add, fix or remove a library course, see `course-library/README.md`.
 
-To add or change a library course, see the library's README. In short: put the files in `courses/<id>/`, raise `version` by one when changing a course, run `python3 tools/build_index.py .` and push.
+`Tools/CourseLibrary/make_library.py` lays out the built-in courses as a library folder. The automatic checks use it to make a copy of the library on the test Mac, so most of the Find Courses walk-through doesn't depend on the internet; one check on the iPhone Pro downloads from the real library on GitHub.
 
-`Tools/CourseLibrary/make_library.py` lays out this app's built-in courses as a library folder. The automatic checks use it to make a copy of the library on the test Mac, so the Find Courses walk-through doesn't depend on the internet.
+### Before the repository goes private
+
+Phones can only download from a public repository. Before making this one private:
+
+1. Create an empty public repository for the library, for example `golf-course-library`.
+2. Move the contents of `course-library/` to it, plus `Tools/CourseLibrary/build_index.py` and the check in `.github/workflows/course-library.yml`.
+3. Change `AppInfo.courseLibraryURL` to `https://raw.githubusercontent.com/aadaayy/<new repo>/main/`.
+4. Ship that app update before going private. Copies of the app that still point here stop finding new courses once it's private, but courses already downloaded keep working.
 
 ## Add a built-in course
 
