@@ -108,6 +108,6 @@ struct NinePane: View {
         .buttonStyle(.plain)
         .accessibilityLabel("Hole \(hole.number), par \(hole.par)")
         .accessibilityAddTraits(selected ? .isSelected : [])
-        .accessibilityIdentifier("nine-hole-\(hole.number)")
+        .accessibilityIdentifier(identifier == "nine-pane" ? "nine-hole-\(hole.number)" : "\(identifier)-hole-\(hole.number)")
     }
 }

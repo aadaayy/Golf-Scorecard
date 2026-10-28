@@ -1,11 +1,11 @@
 # Automatic checks on every push.
 #  1. Logic tests: course files and scoring math, on Linux (cheap and fast).
-#  2. App build and walk-through: builds the iPhone app on a Mac, plays one hole
-#     in iPhone Pro Max, iPhone Pro and iPhone Duo simulators and saves screenshots
-#     (published to the screenshots branch).
-# Mac minutes cost about ten times Linux ones, so checks run only on pushes to
-# main that change more than notes (.md files), the Mac job only runs after the
-# logic tests pass, stops after 30 minutes, and a newer push cancels an older run.
+#  2. App build and walk-through: builds the iPhone app and plays through it on
+#     iPhone Pro Max, iPhone Pro and iPhone Duo simulators, one Mac per phone so
+#     the slower free Macs aren't running three simulators at once.
+#  3. Publish: gathers every phone's screenshots onto the screenshots branch.
+# Checks run only on pushes to main that change more than notes (.md files), the
+# Mac jobs only run after the logic tests pass, and a newer push cancels an older run.
 name: Checks
 
 on:
@@ -33,12 +33,14 @@ jobs:
         run: swift test
 
   app:
-    name: App build and walk-through
+    name: App on ${{ matrix.phone }}
     needs: logic
     runs-on: xcode-27
-    timeout-minutes: 90
-    permissions:
-      contents: write  # only to publish screenshots to the screenshots branch
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        phone: [Pro Max, Pro, Duo]
     steps:
       - uses: actions/checkout@v4
 
@@ -50,57 +52,53 @@ jobs:
 
       - name: Pick simulator
         id: pick
+        env:
+          PHONE: ${{ matrix.phone }}
         run: |
           sdk=$(xcrun --sdk iphonesimulator --show-sdk-version)
           # ArrangementView needs the iOS 27.1 SDK; older Xcode builds the plain side-by-side layout instead.
           flags=$(python3 -c "v=tuple(int(x) for x in '$sdk'.split('.')[:2]); print('' if v >= (27, 1) else 'NO_DUO_SDK')")
           devices=$(xcrun simctl list devices available)
-          device=$(echo "$devices" | grep -oE "iPhone [0-9]+ Pro Max" | sort -u | tail -1)
-          if [ -z "$device" ]; then device=$(echo "$devices" | grep -oE "iPhone [0-9]+( Pro)?" | sort -u | tail -1); fi
-          # A regular-size phone (iPhone N Pro, not Max) for the narrow sideways layout
-          small=$(echo "$devices" | grep -oE "iPhone [0-9]+ Pro \(" | sed 's/ ($//' | sort -u | tail -1)
-          duo=$(echo "$devices" | grep -oE "iPhone Duo[^(]*" | sed 's/ *$//' | sort -u | head -1)
-          echo "SDK $sdk, extra flags '$flags', simulators '$device' '$small' '$duo'"
-          echo "::notice title=Tools::$(xcodebuild -version | tr '\n' ' ')| iOS SDK $sdk | simulators: $device, ${small:-no regular-size Pro}, ${duo:-no Duo}"
+          case "$PHONE" in
+            "Pro Max")
+              device=$(echo "$devices" | grep -oE "iPhone [0-9]+ Pro Max" | sort -u | tail -1)
+              if [ -z "$device" ]; then device=$(echo "$devices" | grep -oE "iPhone [0-9]+( Pro)?" | sort -u | tail -1); fi ;;
+            # A regular-size phone (iPhone N Pro, not Max) for the narrow sideways layout
+            "Pro") device=$(echo "$devices" | grep -oE "iPhone [0-9]+ Pro \(" | sed 's/ ($//' | sort -u | tail -1) ;;
+            "Duo") device=$(echo "$devices" | grep -oE "iPhone Duo[^(]*" | sed 's/ *$//' | sort -u | head -1) ;;
+          esac
+          echo "::notice title=Tools::$(xcodebuild -version | tr '\n' ' ')| iOS SDK $sdk | simulator: ${device:-no $PHONE simulator}"
           echo "flags=$flags" >> "$GITHUB_OUTPUT"
           echo "device=$device" >> "$GITHUB_OUTPUT"
-          echo "small=$small" >> "$GITHUB_OUTPUT"
-          echo "duo=$duo" >> "$GITHUB_OUTPUT"
 
-      - name: Start the simulators
-        # Booting all three while the tests start can time out the test runner,
-        # so start them first and wait until each has finished booting.
+      - name: Start the simulator
+        # Booting while the tests start can time out the test runner, so boot first.
+        if: steps.pick.outputs.device != ''
         env:
-          DEVICES: ${{ steps.pick.outputs.device }}|${{ steps.pick.outputs.small }}|${{ steps.pick.outputs.duo }}
+          DEVICE: ${{ steps.pick.outputs.device }}
         run: |
-          python3 - <<'PY'
+          python3 - <<'PYBOOT'
           import json, os, subprocess
-          names = [n for n in os.environ["DEVICES"].split("|") if n]
+          name = os.environ["DEVICE"]
           listing = json.loads(subprocess.check_output(["xcrun", "simctl", "list", "devices", "available", "-j"]))
-          udids = {}
+          udid = None
           for runtime, devices in sorted(listing["devices"].items()):
               for d in devices:
-                  if d["name"] in names:
-                      udids[d["name"]] = d["udid"]  # newest runtime wins
-          for name, udid in udids.items():
-              subprocess.run(["xcrun", "simctl", "boot", udid])
-          for name, udid in udids.items():
-              subprocess.run(["xcrun", "simctl", "bootstatus", udid, "-b"], check=True, timeout=600)
-              print(f"{name} booted")
-          PY
+                  if d["name"] == name:
+                      udid = d["udid"]  # newest runtime wins
+          subprocess.run(["xcrun", "simctl", "boot", udid])
+          subprocess.run(["xcrun", "simctl", "bootstatus", udid, "-b"], check=True, timeout=900)
+          print(f"{name} booted")
+          PYBOOT
 
       - name: Build and walk through the app
-        env:
-          SMALL: ${{ steps.pick.outputs.small }}
-          DUO: ${{ steps.pick.outputs.duo }}
+        if: steps.pick.outputs.device != ''
         run: |
           set -o pipefail
           xcodebuild test \
             -project GolfScorecard.xcodeproj \
             -scheme GolfScorecard \
             -destination "platform=iOS Simulator,name=${{ steps.pick.outputs.device }}" \
-            ${SMALL:+-destination "platform=iOS Simulator,name=$SMALL"} \
-            ${DUO:+-destination "platform=iOS Simulator,name=$DUO"} \
             -resultBundlePath build/Checks.xcresult \
             CODE_SIGNING_ALLOWED=NO \
             "SWIFT_ACTIVE_COMPILATION_CONDITIONS=\$(inherited) ${{ steps.pick.outputs.flags }}"
@@ -149,16 +147,14 @@ jobs:
           fi
           ls -la screenshots
 
-      - name: Publish screenshots to the screenshots branch
-        if: always() && github.event_name == 'push' && github.ref == 'refs/heads/main'
+      - name: Name and turn the screenshots
+        if: always()
         run: |
           shopt -s nullglob
-          files=(screenshots/*.png screenshots/*.jpg screenshots/*.jpeg screenshots/*.heic)
-          echo "::notice title=Screenshots::${#files[@]} exported"
-          [ ${#files[@]} -eq 0 ] && exit 0
-          mkdir publish
+          mkdir -p publish
+          [ -f screenshots/manifest.json ] || exit 0
           # Name each picture after its simulator and step, e.g. "iPhone Duo - 2-open-card-and-map.png"
-          python3 - <<'PY'
+          python3 - <<'PYNAME'
           import json, shutil
           for test in json.load(open("screenshots/manifest.json")):
               for a in test.get("attachments", []):
@@ -167,10 +163,41 @@ jobs:
                       shutil.copy(f"screenshots/{a['exportedFileName']}", f"publish/{a.get('deviceName', 'iPhone')} - {step}.png")
                   except Exception as error:
                       print(f"::warning title=Screenshot skipped::{error}")
-          PY
+          PYNAME
           # Simulator screenshots are always upright; turn the sideways ones
           for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png publish/*sideways-past-rounds.png publish/*sideways-profile.png; do sips -r 270 "$f" >/dev/null || echo "::warning title=Not turned::$f"; done
-          ls publish
+          files=(publish/*.png)
+          echo "::notice title=Screenshots::${#files[@]} exported on ${{ matrix.phone }}"
+
+      - name: Upload screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshots-${{ strategy.job-index }}
+          path: publish
+          retention-days: 7
+          if-no-files-found: ignore
+
+  publish:
+    name: Publish screenshots
+    needs: app
+    if: always() && github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # only to publish screenshots to the screenshots branch
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: screenshots-*
+          path: publish
+          merge-multiple: true
+
+      - name: Publish screenshots to the screenshots branch
+        run: |
+          shopt -s nullglob
+          files=(publish/*.png)
+          echo "::notice title=Screenshots::${#files[@]} published"
+          [ ${#files[@]} -eq 0 ] && exit 0
           cd publish
           git init -q -b screenshots
           git config user.name "github-actions[bot]"
@@ -178,12 +205,3 @@ jobs:
           git add -A
           git commit -q -m "Screenshots from ${GITHUB_SHA::7}"
           git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" screenshots
-
-      - name: Upload screenshots
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: screenshots
-          path: screenshots
-          retention-days: 7
-          if-no-files-found: warn
