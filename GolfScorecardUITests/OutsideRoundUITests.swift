@@ -87,7 +87,10 @@ final class OutsideRoundUITests: XCTestCase {
                       "A full round with a handicap should show the net score")
         capture("h4-summary")
         app.buttons["Done"].tap()
-        goBack(app)
+        let close = app.buttons["close-round"]
+        XCTAssertTrue(close.waitForExistence(timeout: 5), "The round should have a Home button")
+        close.tap()
+        sleep(1)
 
         // Profile
         tab("Profile", in: app)
@@ -118,7 +121,7 @@ final class OutsideRoundUITests: XCTestCase {
 
             // Past rounds: the list on the left, the picked round on the right.
             tab("Past Rounds", in: app)
-            XCTAssertTrue(app.otherElements["round-detail"].waitForExistence(timeout: 5), "Sideways, the picked round should show beside the list")
+            XCTAssertTrue(app.buttons["open-round"].waitForExistence(timeout: 5), "Sideways, the picked round should show beside the list")
             app.buttons["past-round-1"].tap()
             XCTAssertTrue(app.buttons["open-round"].waitForExistence(timeout: 5), "The picked round should have Open Card")
             capture("h10-sideways-past-rounds")
@@ -157,7 +160,7 @@ final class OutsideRoundUITests: XCTestCase {
         capture("h9-open-duo-size-home")
 
         tab("Past Rounds", in: app)
-        XCTAssertTrue(app.otherElements["round-detail"].waitForExistence(timeout: 5), "The picked round should show beside the list")
+        XCTAssertTrue(app.buttons["open-round"].waitForExistence(timeout: 5), "The picked round should show beside the list")
         sleep(1)
         capture("h12-open-duo-size-past-rounds")
 
@@ -173,16 +176,6 @@ final class OutsideRoundUITests: XCTestCase {
         let button = inBar.waitForExistence(timeout: 3) ? inBar : app.buttons[name].firstMatch
         XCTAssertTrue(button.waitForExistence(timeout: 5), "The \(name) tab is missing")
         button.tap()
-        sleep(1)
-    }
-
-    private func goBack(_ app: XCUIApplication) {
-        // Look for Back by name: the iPhone Duo puts it at the side of the
-        // screen, outside the nav bar, whose first button is then a toolbar button.
-        let named = app.buttons["BackButton"].firstMatch
-        let back = named.waitForExistence(timeout: 5) ? named : app.navigationBars.buttons.element(boundBy: 0)
-        XCTAssertTrue(back.exists, "There's no Back button")
-        back.tap()
         sleep(1)
     }
 

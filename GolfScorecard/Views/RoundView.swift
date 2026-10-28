@@ -9,6 +9,8 @@ import UIKit
 /// layouts the golfer picks (see `OpenLayout`).
 struct RoundView: View {
     @Bindable var round: Round
+    /// A Home button at the top left, for a round opened over the whole screen.
+    var showsCloseButton = false
     @Environment(CourseLibrary.self) private var library
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
@@ -40,9 +42,17 @@ struct RoundView: View {
         .navigationTitle(round.courseName)
         .navigationBarTitleDisplayMode(.inline)
         .environment(\.scoresLocked, round.isFinished && !editing)
-        // The round has its own Card and Map tabs, so the app's tabs step aside.
-        .toolbar(.hidden, for: .tabBar)
         .toolbar {
+            if showsCloseButton {
+                ToolbarItem(placement: .topBarLeading) {
+                    Button {
+                        dismiss()
+                    } label: {
+                        Label("Home", systemImage: "chevron.left")
+                    }
+                    .accessibilityIdentifier("close-round")
+                }
+            }
             if isWide {
                 ToolbarItem(placement: .topBarTrailing) { OpenLayoutPicker() }
             }

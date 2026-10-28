@@ -14,6 +14,7 @@ struct HomeView: View {
     @AppStorage(SettingsKey.playerName) private var playerName = ""
     @Query(filter: #Predicate<Round> { $0.finishedAt == nil }, sort: \Round.date, order: .reverse)
     private var unfinished: [Round]
+    @Environment(\.openRound) private var openRound
     @State private var path = NavigationPath()
     @State private var previewCourseID: String?
 
@@ -35,13 +36,10 @@ struct HomeView: View {
             .navigationBarTitleDisplayMode(isWide ? .inline : .large)
             .navigationDestination(for: Course.self) { course in
                 NewRoundView(course: course) { round in
-                    // Replace the setup screen with the round, so Back goes home.
-                    if !path.isEmpty { path.removeLast() }
-                    path.append(round)
+                    // Leave the setup screen behind, so closing the round comes back home.
+                    path = NavigationPath()
+                    openRound(round)
                 }
-            }
-            .navigationDestination(for: Round.self) { round in
-                RoundView(round: round)
             }
         }
     }
@@ -51,7 +49,7 @@ struct HomeView: View {
             if let round = unfinished.first {
                 Section {
                     Button {
-                        path.append(round)
+                        openRound(round)
                     } label: {
                         ResumeRow(round: round)
                     }

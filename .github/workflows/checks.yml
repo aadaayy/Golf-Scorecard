@@ -121,6 +121,20 @@ jobs:
           for e in (b.get("errors") or [])[:15]:
               where = e.get("sourceURL", "").split("#")[0].split("/")[-1]
               print(f"::error title=Build error {where}::{e.get('message', '')}".replace("\n", " "))
+          # Which test failed on which simulator
+          import subprocess
+          try:
+              tree = json.loads(subprocess.check_output(["xcrun", "xcresulttool", "get", "test-results", "tests", "--path", "build/Checks.xcresult"]))
+          except Exception:
+              tree = {}
+          def walk(node, path):
+              name = node.get("name", "")
+              if node.get("result") == "Failed" and node.get("nodeType") in ("Device", "Test Case Run", "Repetition"):
+                  print(f"::error title=Failed on::{' / '.join(path[-2:] + [name])}")
+              for child in node.get("children", []) or []:
+                  walk(child, path + [name])
+          for node in tree.get("testNodes", []):
+              walk(node, [])
           t = load("build/test-summary.json")
           for f in (t.get("testFailures") or [])[:15]:
               print(f"::error title=Test failed {f.get('testName', '')}::{f.get('targetName', '')} {f.get('failureText', '')}".replace("\n", " "))
@@ -147,12 +161,15 @@ jobs:
           python3 - <<'PY'
           import json, shutil
           for test in json.load(open("screenshots/manifest.json")):
-              for a in test["attachments"]:
-                  step = a["suggestedHumanReadableName"].split("_0_")[0]
-                  shutil.copy(f"screenshots/{a['exportedFileName']}", f"publish/{a['deviceName']} - {step}.png")
+              for a in test.get("attachments", []):
+                  try:
+                      step = a["suggestedHumanReadableName"].split("_0_")[0]
+                      shutil.copy(f"screenshots/{a['exportedFileName']}", f"publish/{a.get('deviceName', 'iPhone')} - {step}.png")
+                  except Exception as error:
+                      print(f"::warning title=Screenshot skipped::{error}")
           PY
           # Simulator screenshots are always upright; turn the sideways ones
-          for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png publish/*sideways-past-rounds.png publish/*sideways-profile.png; do sips -r 270 "$f" >/dev/null; done
+          for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png publish/*sideways-past-rounds.png publish/*sideways-profile.png; do sips -r 270 "$f" >/dev/null || echo "::warning title=Not turned::$f"; done
           ls publish
           cd publish
           git init -q -b screenshots

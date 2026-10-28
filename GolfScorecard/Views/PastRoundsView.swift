@@ -10,6 +10,7 @@ struct PastRoundsView: View {
     @Query(sort: \Round.date, order: .reverse) private var rounds: [Round]
     @Environment(\.modelContext) private var modelContext
     @Environment(CourseLibrary.self) private var library
+    @Environment(\.openRound) private var openRound
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
     @State private var pickedID: PersistentIdentifier?
@@ -49,7 +50,18 @@ struct PastRoundsView: View {
                         .buttonStyle(.plain)
                         .listRowBackground(round.persistentModelID == picked?.persistentModelID ? Color.accentColor.opacity(0.12) : nil)
                     } else {
-                        NavigationLink(value: round) { row(round) }
+                        Button {
+                            openRound(round)
+                        } label: {
+                            HStack {
+                                row(round)
+                                Image(systemName: "chevron.right")
+                                    .font(.footnote.weight(.semibold))
+                                    .foregroundStyle(.tertiary)
+                            }
+                            .contentShape(Rectangle())
+                        }
+                        .buttonStyle(.plain)
                     }
                 }
                 .accessibilityIdentifier("past-round-\(index)")
@@ -67,7 +79,9 @@ struct PastRoundsView: View {
             ScrollView {
                 VStack(spacing: 16) {
                     RoundTotals(round: round, course: course)
-                    NavigationLink(value: round) {
+                    Button {
+                        openRound(round)
+                    } label: {
                         Label(round.isFinished ? "Open Card" : "Resume Round",
                               systemImage: round.isFinished ? "list.number" : "play.fill")
                             .font(.headline)
