@@ -127,7 +127,7 @@ final class OutsideRoundUITests: XCTestCase {
             capture("h10-sideways-past-rounds")
 
             tab("Profile", in: app)
-            XCTAssertTrue(app.buttons["erase-everything"].waitForExistence(timeout: 5), "Profile is missing Erase Everything")
+            XCTAssertTrue(app.textFields["profile-name"].waitForExistence(timeout: 5), "Profile is missing the name")
             capture("h11-sideways-profile")
         } else {
             XCTAssertTrue(Self.isDuo, "A sideways iPhone should show the course beside the list")

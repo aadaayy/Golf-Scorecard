@@ -145,7 +145,7 @@ struct CoursePreview: View {
                         ninePicker
                         playButton
                     }
-                    NinePane(course: course, tee: tee, selectedHole: $previewHole, showsHeader: false)
+                    NinePane(course: course, tee: tee, selectedHole: $previewHole, showsHeader: false, identifier: "preview-nine-pane")
                 }
             } else {
                 VStack(spacing: 12) {
@@ -155,7 +155,7 @@ struct CoursePreview: View {
                     }
                     teeChips
                     ninePicker.frame(maxWidth: 280)
-                    NinePane(course: course, tee: tee, selectedHole: $previewHole)
+                    NinePane(course: course, tee: tee, selectedHole: $previewHole, identifier: "preview-nine-pane")
                     playButton
                 }
             }

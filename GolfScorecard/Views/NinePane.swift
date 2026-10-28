@@ -8,6 +8,8 @@ struct NinePane: View {
     @Binding var selectedHole: Int
     /// The "Front 9 · Par 36" title. Home leaves it off on a short sideways phone.
     var showsHeader = true
+    /// Home's course preview uses its own name, since a round can be open over home.
+    var identifier = "nine-pane"
 
     @State private var area: CGSize = .zero
     private static let gap: CGFloat = 8
@@ -34,7 +36,7 @@ struct NinePane: View {
         }
         .padding(12)
         .accessibilityElement(children: .contain)
-        .accessibilityIdentifier("nine-pane")
+        .accessibilityIdentifier(identifier)
     }
 
     /// One, two or three rows, whichever draws the holes biggest.
