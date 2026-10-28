@@ -72,6 +72,7 @@ struct HomeView: View {
                     } label: {
                         ResumeRow(round: round)
                     }
+                    .buttonStyle(.plain)
                     .accessibilityIdentifier("resume-round")
                 }
             }
@@ -156,6 +157,7 @@ private struct ResumeRow: View {
 struct CoursePreview: View {
     let course: Course
     @AppStorage(SettingsKey.usualTee) private var usualTee = "White"
+    @Environment(\.verticalSizeClass) private var verticalSizeClass
     @State private var previewHole = 1
 
     private var tee: String {
@@ -164,11 +166,14 @@ struct CoursePreview: View {
 
     var body: some View {
         VStack(spacing: 12) {
-            VStack(spacing: 2) {
-                Text(course.name).font(.title2.bold()).multilineTextAlignment(.center)
-                Text(course.town).foregroundStyle(.secondary)
+            // A sideways phone is short, so the holes get the room; the list already names the course.
+            if verticalSizeClass != .compact {
+                VStack(spacing: 2) {
+                    Text(course.name).font(.title2.bold()).multilineTextAlignment(.center)
+                    Text(course.town).foregroundStyle(.secondary)
+                }
+                teeChips
             }
-            teeChips
             if !course.backNine.isEmpty {
                 Picker("Nine", selection: Binding(get: { previewHole >= 10 }, set: { previewHole = $0 ? 10 : 1 })) {
                     Text("Front 9").tag(false)
