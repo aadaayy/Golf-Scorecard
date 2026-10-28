@@ -86,17 +86,28 @@ struct MapPane: View {
 }
 
 /// The drawing for a hole, or a simple placeholder until it's drawn.
+///
+/// Downloaded courses bring their drawings as SVG files (see `HoleSketch`);
+/// built-in courses have theirs in the asset catalog. A downloaded drawing
+/// wins, since it's the newer copy.
 struct HoleDrawing: View {
     let hole: Hole?
 
     /// Width over height of a hole's drawing.
     static func aspect(of hole: Hole?) -> CGFloat {
-        guard let name = hole?.map, let size = UIImage(named: name)?.size, size.height > 0 else { return 0.5 }
+        guard let name = hole?.map else { return 0.5 }
+        if let sketch = HoleSketches.shared.sketch(named: name) { return CGFloat(sketch.aspect) }
+        guard let size = UIImage(named: name)?.size, size.height > 0 else { return 0.5 }
         return size.width / size.height
     }
 
     var body: some View {
-        if let name = hole?.map, UIImage(named: name) != nil {
+        if let name = hole?.map, let sketch = HoleSketches.shared.sketch(named: name) {
+            HoleSketchView(sketch: sketch)
+                .accessibilityElement()
+                .accessibilityAddTraits(.isImage)
+                .accessibilityLabel("Map of hole \(hole?.number ?? 0)")
+        } else if let name = hole?.map, UIImage(named: name) != nil {
             // Drawn from the vector asset, so it stays sharp when zoomed.
             Image(name)
                 .resizable()
@@ -105,6 +116,62 @@ struct HoleDrawing: View {
         } else {
             HolePlaceholder()
         }
+    }
+}
+
+/// Draws a downloaded hole drawing. It's redrawn at whatever size it's shown,
+/// so it stays sharp when zoomed, like the built-in vector drawings.
+struct HoleSketchView: View {
+    let sketch: HoleSketch
+
+    var body: some View {
+        Canvas { context, size in
+            let scale = min(size.width / sketch.width, size.height / sketch.height)
+            context.translateBy(
+                x: (size.width - sketch.width * scale) / 2 - sketch.minX * scale,
+                y: (size.height - sketch.height * scale) / 2 - sketch.minY * scale
+            )
+            context.scaleBy(x: scale, y: scale)
+            for element in sketch.elements {
+                var layer = context
+                layer.opacity = element.opacity
+                let path = Self.path(for: element.shape)
+                if let fill = element.fill {
+                    layer.fill(path, with: .color(Self.color(fill)))
+                }
+                if let stroke = element.stroke {
+                    layer.stroke(path, with: .color(Self.color(stroke)), style: StrokeStyle(
+                        lineWidth: element.strokeWidth,
+                        lineCap: element.lineCap == "round" ? .round : element.lineCap == "square" ? .square : .butt,
+                        lineJoin: element.lineJoin == "round" ? .round : element.lineJoin == "bevel" ? .bevel : .miter
+                    ))
+                }
+            }
+        }
+        .aspectRatio(CGFloat(sketch.aspect), contentMode: .fit)
+    }
+
+    private static func color(_ rgb: HoleSketch.RGB) -> Color {
+        Color(red: rgb.red, green: rgb.green, blue: rgb.blue)
+    }
+
+    private static func path(for shape: HoleSketch.Shape) -> Path {
+        func point(_ p: HoleSketch.Point) -> CGPoint { CGPoint(x: p.x, y: p.y) }
+        var path = Path()
+        switch shape {
+        case .circle(let center, let radius):
+            path.addEllipse(in: CGRect(x: center.x - radius, y: center.y - radius, width: radius * 2, height: radius * 2))
+        case .path(let segments):
+            for segment in segments {
+                switch segment {
+                case .move(let p): path.move(to: point(p))
+                case .line(let p): path.addLine(to: point(p))
+                case .curve(let c1, let c2, let end): path.addCurve(to: point(end), control1: point(c1), control2: point(c2))
+                case .close: path.closeSubpath()
+                }
+            }
+        }
+        return path
     }
 }
 

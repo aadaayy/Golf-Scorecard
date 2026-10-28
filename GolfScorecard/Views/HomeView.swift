@@ -1,7 +1,8 @@
 import SwiftUI
 import SwiftData
 
-/// The Play tab: a round to pick up again, and the courses.
+/// The Play tab: a round to pick up again, the courses on the phone, and
+/// Find Courses to download more from the course library.
 ///
 /// Upright (closed iPhone Duo, regular iPhones) it's one list, and a course
 /// opens the start-round screen. Open on the Duo or sideways, the list sits on
@@ -9,6 +10,7 @@ import SwiftData
 /// holes, with a button to play it.
 struct HomeView: View {
     @Environment(CourseLibrary.self) private var library
+    @Environment(CourseCatalog.self) private var catalog
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
     @AppStorage(SettingsKey.playerName) private var playerName = ""
@@ -17,6 +19,7 @@ struct HomeView: View {
     @Environment(\.openRound) private var openRound
     @State private var path = NavigationPath()
     @State private var previewCourseID: String?
+    @State private var removing: Course?
 
     private var isWide: Bool { horizontalSizeClass == .regular || verticalSizeClass == .compact }
     private var previewCourse: Course? {
@@ -41,6 +44,25 @@ struct HomeView: View {
                     openRound(round)
                 }
             }
+            .navigationDestination(for: HomeRoute.self) { _ in
+                FindCoursesView()
+            }
+            .confirmationDialog(
+                "Remove \(removing?.name ?? "this course")?",
+                isPresented: Binding(get: { removing != nil }, set: { if !$0 { removing = nil } }),
+                titleVisibility: .visible,
+                presenting: removing
+            ) { course in
+                Button("Remove Course", role: .destructive) {
+                    library.remove(course.id)
+                }
+            } message: { _ in
+                Text("Past rounds stay. You can download it again from Find Courses.")
+            }
+        }
+        .task {
+            // Courses fixed in the library reach the phone on their own.
+            await catalog.updateCourses(in: library)
         }
     }
 
@@ -58,9 +80,27 @@ struct HomeView: View {
                 }
             }
 
-            Section("Courses") {
+            Section {
                 ForEach(library.courses) { course in
                     courseRow(course)
+                        .swipeActions {
+                            if library.isDownloaded(course.id) {
+                                Button("Remove", systemImage: "trash", role: .destructive) {
+                                    removing = course
+                                }
+                            }
+                        }
+                }
+                NavigationLink(value: HomeRoute.findCourses) {
+                    Label("Find Courses", systemImage: "magnifyingglass")
+                        .font(.headline)
+                }
+                .accessibilityIdentifier("find-courses")
+            } header: {
+                Text("Courses")
+            } footer: {
+                if library.courses.isEmpty {
+                    Text("Find your course and download it to start playing.")
                 }
             }
         }
@@ -73,6 +113,11 @@ struct HomeView: View {
             Text("\(course.town) · \(course.holes.count) holes · Par \(course.par(holes: 1...course.holes.count))")
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
+            if library.isDownloaded(course.id) {
+                Label("Downloaded", systemImage: "arrow.down.circle.fill")
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+            }
         }
         if isWide {
             // Wide: show the course on the right; its Play button starts the round.
@@ -96,6 +141,11 @@ struct HomeView: View {
                 .accessibilityIdentifier("course-\(course.id)")
         }
     }
+}
+
+/// Screens pushed from Play, besides starting a round.
+enum HomeRoute: Hashable {
+    case findCourses
 }
 
 /// "Resume round" with where the round stands.

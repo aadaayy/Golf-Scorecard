@@ -10,6 +10,9 @@ struct Course: Codable, Identifiable, Hashable {
     var town: String
     var tees: [String]
     var holes: [Hole]
+    /// Goes up by one each time the course file or its drawings change.
+    /// Missing means 1. Downloaded courses update when the library has a higher one.
+    var version: Int? = nil
 }
 
 struct Hole: Codable, Hashable {
@@ -29,6 +32,8 @@ extension Course {
     static func decode(from data: Data) throws -> Course {
         try JSONDecoder().decode(Course.self, from: data)
     }
+
+    var currentVersion: Int { version ?? 1 }
 
     var frontNine: [Hole] { holes.filter { $0.number <= 9 } }
     var backNine: [Hole] { holes.filter { $0.number >= 10 } }
@@ -61,6 +66,9 @@ extension Course {
         }
         if name.trimmingCharacters(in: .whitespaces).isEmpty {
             problems.append("name is empty")
+        }
+        if let version, version < 1 {
+            problems.append("version must be 1 or more")
         }
         if tees.isEmpty {
             problems.append("no tees listed")

@@ -4,6 +4,7 @@ import SwiftData
 @main
 struct GolfScorecardApp: App {
     @State private var library: CourseLibrary
+    @State private var catalog = CourseCatalog()
     private let container: ModelContainer
 
     /// UI tests launch with this flag so every test starts with no saved rounds
@@ -11,7 +12,13 @@ struct GolfScorecardApp: App {
     private static let isUITesting = ProcessInfo.processInfo.arguments.contains("-uiTesting")
 
     init() {
-        let library = CourseLibrary()
+        let arguments = ProcessInfo.processInfo.arguments
+        if Self.isUITesting {
+            // No downloaded courses left over from an earlier test.
+            try? FileManager.default.removeItem(at: CourseLibrary.defaultDownloadsFolder)
+        }
+        // "-noBuiltInCourses" starts with no courses, so a test can download one.
+        let library = CourseLibrary(includeBuiltIn: !(Self.isUITesting && arguments.contains("-noBuiltInCourses")))
         _library = State(initialValue: library)
         let configuration = ModelConfiguration(isStoredInMemoryOnly: Self.isUITesting)
         container = try! ModelContainer(for: Round.self, configurations: configuration)
@@ -20,7 +27,6 @@ struct GolfScorecardApp: App {
             // Fresh every time: the welcome pages show unless a test skips them,
             // and the open layout comes from "-startLayout hole" or "-startLayout nine".
             // Saved as ordinary settings so the app can still change them.
-            let arguments = ProcessInfo.processInfo.arguments
             SettingsKey.eraseAll()
             if arguments.contains("-skipOnboarding") {
                 UserDefaults.standard.set(true, forKey: SettingsKey.onboarded)
@@ -50,6 +56,7 @@ struct GolfScorecardApp: App {
                 #endif
             }
             .environment(library)
+            .environment(catalog)
         }
         .modelContainer(container)
     }

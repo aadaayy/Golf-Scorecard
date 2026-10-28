@@ -122,7 +122,7 @@ struct ProfileView: View {
         } header: {
             Text("About")
         } footer: {
-            Text("Don't see your course? Ask for it and it may come in a future update.")
+            Text("Don't see your course in Find Courses? Ask for it and it may be added.")
         }
     }
 
@@ -131,7 +131,7 @@ struct ProfileView: View {
             Button("Erase Everything", role: .destructive) { confirmingErase = true }
                 .accessibilityIdentifier("erase-everything")
         } footer: {
-            Text("Deletes every round and setting, and starts the app fresh.")
+            Text("Deletes every round, setting and downloaded course, and starts the app fresh.")
         }
     }
 
@@ -153,6 +153,7 @@ struct ProfileView: View {
         try? modelContext.delete(model: Round.self)
         try? modelContext.save()
         SettingsKey.eraseAll()
+        library.removeAllDownloads()
         onErase()
     }
 

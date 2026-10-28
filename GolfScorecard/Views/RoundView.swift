@@ -35,7 +35,7 @@ struct RoundView: View {
                 ContentUnavailableView(
                     "Course not found",
                     systemImage: "flag.slash",
-                    description: Text("This round's course is no longer in the app.")
+                    description: Text("This round's course isn't on your phone. Download it again from Find Courses on Play.")
                 )
             }
         }
