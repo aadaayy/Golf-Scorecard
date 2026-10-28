@@ -35,7 +35,9 @@ struct OpenDuoPreview: View {
             VStack(spacing: 0) {
                 Text(round.courseName)
                     .font(.headline)
+                    .frame(maxWidth: .infinity)
                     .frame(height: 44)
+                    .overlay(alignment: .trailing) { OpenLayoutPicker().padding(.trailing) }
                 RoundView(round: round)
             }
             .padding(.top, 24)

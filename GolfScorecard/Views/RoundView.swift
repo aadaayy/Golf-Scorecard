@@ -4,15 +4,18 @@ import SwiftUI
 ///
 /// Upright phones (closed iPhone Duo, regular iPhones held upright) show one
 /// pane at a time with Card and Map tabs. The open Duo (regular width) and any
-/// iPhone held sideways (compact height) show both: the card on the left and
-/// the hole you're on at the right, like an unfolded paper card.
+/// iPhone held sideways (compact height) show two halves, in one of two
+/// layouts the golfer picks (see `OpenLayout`).
 struct RoundView: View {
     @Bindable var round: Round
     @Environment(CourseLibrary.self) private var library
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
+    @AppStorage(OpenLayout.storageKey) private var openLayout = OpenLayout.nine
     @State private var selectedHole = 1
     @State private var selectedPlayer = 0
+
+    private var isWide: Bool { horizontalSizeClass == .regular || verticalSizeClass == .compact }
 
     var body: some View {
         Group {
@@ -28,6 +31,11 @@ struct RoundView: View {
         }
         .navigationTitle(round.courseName)
         .navigationBarTitleDisplayMode(.inline)
+        .toolbar {
+            if isWide {
+                ToolbarItem(placement: .topBarTrailing) { OpenLayoutPicker() }
+            }
+        }
     }
 
     @ViewBuilder
@@ -35,8 +43,13 @@ struct RoundView: View {
         let card = CardPane(round: round, course: course, selectedHole: $selectedHole, selectedPlayer: $selectedPlayer)
         let map = MapPane(course: course, tee: round.tee, selectedHole: $selectedHole)
 
-        if horizontalSizeClass == .regular || verticalSizeClass == .compact {
-            WideRoundLayout(card: card, map: map)
+        if isWide {
+            switch openLayout {
+            case .hole:
+                WideRoundLayout(card: HoleScorePane(round: round, course: course, selectedHole: $selectedHole), map: map)
+            case .nine:
+                WideRoundLayout(card: card, map: NinePane(course: course, tee: round.tee, selectedHole: $selectedHole))
+            }
         } else {
             TabView {
                 card.tabItem { Label("Card", systemImage: "list.number") }
@@ -46,7 +59,32 @@ struct RoundView: View {
     }
 }
 
-/// Card and map side by side.
+/// The two ways to use the open Duo (or a sideways iPhone).
+enum OpenLayout: String {
+    /// The score for the hole you're on at the left, that hole at the right.
+    case hole
+    /// The card for the nine you're on at the left, all nine holes at the right.
+    case nine
+
+    static let storageKey = "openLayout"
+}
+
+/// Switches between the hole view and the nine view. The choice is remembered.
+struct OpenLayoutPicker: View {
+    @AppStorage(OpenLayout.storageKey) private var layout = OpenLayout.nine
+
+    var body: some View {
+        Picker("Layout", selection: $layout) {
+            Text("Hole").tag(OpenLayout.hole)
+            Text("Nine").tag(OpenLayout.nine)
+        }
+        .pickerStyle(.segmented)
+        .frame(width: 150)
+        .accessibilityIdentifier("open-layout")
+    }
+}
+
+/// Two panes side by side.
 ///
 /// On iPhone Duo, `ArrangementView` moves both panes clear of the fold when
 /// the phone is partly folded, and stacks them when the space is taller than

@@ -16,7 +16,7 @@ final class ScorecardFlowUITests: XCTestCase {
     func testScoreAHoleAndCaptureLayouts() throws {
         XCUIDevice.shared.orientation = .portrait
         let app = XCUIApplication()
-        app.launchArguments = ["-uiTesting"]
+        app.launchArguments = ["-uiTesting", "-openLayout", "nine"]
         app.launch()
 
         // Course list
@@ -39,12 +39,11 @@ final class ScorecardFlowUITests: XCTestCase {
         plus.tap()
         XCTAssertEqual(app.staticTexts["nine-total-0"].label, "6", "Front nine total should be 6 after scoring hole 1")
         let mapPane = app.otherElements["map-pane"]
-        if mapPane.exists {
-            // Wide layout from the start (open iPhone Duo): card and map side by side
-            capture("2-open-card-and-map")
-            app.buttons["next-hole"].tap()
-            XCTAssertTrue(app.staticTexts["Hole 2"].waitForExistence(timeout: 5), "Next hole did not move the map to hole 2")
-            capture("3-open-next-hole")
+        if app.otherElements["nine-pane"].exists {
+            // Wide layout from the start (open iPhone Duo): the card and the nine holes side by side
+            capture("2-open-card-and-nine")
+            app.buttons["nine-hole-2"].tap()
+            capture("3-open-hole-2")
         } else {
             // One pane at a time (closed iPhone Duo, regular iPhones): Card and Map tabs
             capture("2-closed-card")
@@ -58,52 +57,73 @@ final class ScorecardFlowUITests: XCTestCase {
             capture("3-closed-map")
         }
 
-        // Turned sideways: every iPhone shows the card on the left and the hole on the right
+        // Turned sideways: every iPhone shows two halves, starting with the nine view
         XCUIDevice.shared.orientation = .landscapeLeft
         sleep(2)
         let cardPane = app.otherElements["card-pane"]
-        if cardPane.exists && mapPane.exists {
-            // Frames may be reported upright or sideways, so compare along the screen's long side.
-            let screen = app.frame
-            let card = cardPane.frame, hole = mapPane.frame
-            let cardFirst = screen.width > screen.height ? card.midX < hole.midX : card.midY < hole.midY
-            XCTAssertTrue(cardFirst, "The card should be on the left and the hole on the right")
+        let ninePane = app.otherElements["nine-pane"]
+        if cardPane.exists && ninePane.exists {
+            XCTAssertTrue(isLeft(cardPane, of: ninePane, in: app), "The card should be on the left and the nine holes on the right")
             XCTAssertTrue(app.staticTexts["nine-total-0"].isHittable, "The front nine total is cut off; the whole nine should fit on the card")
             XCTAssertTrue(app.buttons["score-0-9"].isHittable, "Hole 9 is cut off; the whole nine should fit on the card")
+            app.buttons["nine-hole-3"].tap()
             capture("4-sideways-card-and-map")
+
+            // The hole view: the score for hole 3 on the left, hole 3 on the right
+            app.buttons["Hole"].tap()
+            let scorePane = app.otherElements["hole-score-pane"]
+            XCTAssertTrue(scorePane.waitForExistence(timeout: 5), "The hole view's score is missing")
+            XCTAssertTrue(mapPane.exists, "The hole view's map is missing")
+            XCTAssertTrue(isLeft(scorePane, of: mapPane, in: app), "The score should be on the left and the hole on the right")
+            XCTAssertTrue(app.staticTexts["Hole 3"].exists, "Tapping hole 3 in the nine view should open hole 3")
+            app.buttons["hole-score-plus-0"].tap()
+            XCTAssertEqual(app.staticTexts["hole-score-value-0"].label, "3", "The first tap should score par on the par 3")
+            capture("5-sideways-hole-view")
         } else {
             // The closed Duo's outer screen may not turn sideways; any other iPhone must.
-            XCTAssertTrue(Self.isDuo, "A sideways iPhone should show the card and the hole side by side")
+            XCTAssertTrue(Self.isDuo, "A sideways iPhone should show two halves")
             capture("4-sideways")
         }
     }
 
     /// The open iPhone Duo, drawn at its real size and shrunk to fit a sideways
-    /// Pro Max, since the Duo simulator can't be unfolded here.
+    /// Pro Max, since the Duo simulator can't be unfolded here. Both layouts.
     @MainActor
-    func testOpenDuoLayout() throws {
+    func testOpenDuoLayouts() throws {
         let device = ProcessInfo.processInfo.environment["SIMULATOR_DEVICE_NAME"] ?? ""
-        try XCTSkipUnless(device.contains("Pro Max"), "The open Duo picture is taken on the Pro Max only")
+        try XCTSkipUnless(device.contains("Pro Max"), "The open Duo pictures are taken on the Pro Max only")
         XCUIDevice.shared.orientation = .landscapeLeft
         let app = XCUIApplication()
-        app.launchArguments = ["-uiTesting", "-openDuoPreview"]
+        app.launchArguments = ["-uiTesting", "-openDuoPreview", "-openLayout", "nine"]
         app.launch()
 
         let cardPane = app.otherElements["card-pane"]
-        let mapPane = app.otherElements["map-pane"]
-        XCTAssertTrue(cardPane.waitForExistence(timeout: 15), "The card is missing from the open layout")
-        XCTAssertTrue(mapPane.exists, "The hole is missing from the open layout")
-        let screen = app.frame
-        let card = cardPane.frame, hole = mapPane.frame
-        let cardFirst = screen.width > screen.height ? card.midX < hole.midX : card.midY < hole.midY
-        XCTAssertTrue(cardFirst, "The card should be on the left and the hole on the right")
-        XCTAssertTrue(app.staticTexts["nine-total-0"].isHittable, "The front nine total is cut off")
+        let ninePane = app.otherElements["nine-pane"]
+        XCTAssertTrue(cardPane.waitForExistence(timeout: 15), "The nine view's card is missing")
+        XCTAssertTrue(ninePane.exists, "The nine view's holes are missing")
+        XCTAssertTrue(isLeft(cardPane, of: ninePane, in: app), "The card should be on the left and the nine holes on the right")
         sleep(1)
-        capture("5-open-duo-size-front")
+        capture("6-open-duo-size-nine-view")
 
-        app.buttons["next-hole"].tap()
-        XCTAssertTrue(app.staticTexts["Hole 2"].waitForExistence(timeout: 5), "Next hole did not move the map to hole 2")
-        capture("6-open-duo-size-hole-2")
+        app.buttons["Back 9"].tap()
+        XCTAssertTrue(app.buttons["nine-hole-14"].waitForExistence(timeout: 5), "The back nine's holes did not appear")
+        capture("7-open-duo-size-nine-view-back")
+
+        app.buttons["Hole"].tap()
+        let scorePane = app.otherElements["hole-score-pane"]
+        XCTAssertTrue(scorePane.waitForExistence(timeout: 5), "The hole view's score is missing")
+        XCTAssertTrue(app.otherElements["map-pane"].exists, "The hole view's map is missing")
+        app.buttons["hole-score-plus-0"].tap()
+        sleep(1)
+        capture("8-open-duo-size-hole-view")
+    }
+
+    /// Whether `first` comes before `second` along the screen's long side.
+    /// Frames may be reported upright or sideways, so this checks both ways.
+    private func isLeft(_ first: XCUIElement, of second: XCUIElement, in app: XCUIApplication) -> Bool {
+        let screen = app.frame
+        let a = first.frame, b = second.frame
+        return screen.width > screen.height ? a.midX < b.midX : a.midY < b.midY
     }
 
     private static var isDuo: Bool {
