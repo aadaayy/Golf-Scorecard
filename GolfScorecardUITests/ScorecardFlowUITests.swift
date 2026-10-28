@@ -80,15 +80,26 @@ final class ScorecardFlowUITests: XCTestCase {
             XCTAssertEqual(app.staticTexts["hole-score-value-0"].label, "3", "The first tap should score par on the par 3")
             capture("5-sideways-hole-view")
 
-            // Pinch to zoom the hole: the yardages make room, and a double tap zooms back out
+            // Pinch to zoom the hole, then double tap to zoom back out. Where the
+            // yardages fit beside the hole, they make room while zoomed in.
             let drawing = app.otherElements["hole-drawing"]
+            let map = app.images["Map of hole 3"]
             let yardages = app.otherElements["tee-yardages"]
-            XCTAssertTrue(yardages.exists, "The tee yardages should show next to the hole")
+            let hadYardages = yardages.exists
+            let startHeight = map.frame.height
             drawing.pinch(withScale: 3, velocity: 2)
-            XCTAssertTrue(yardages.waitForNonExistence(timeout: 5), "Zooming in should give the drawing the yardages' room")
+            sleep(1)
+            XCTAssertGreaterThan(map.frame.height, startHeight * 1.5, "Pinching should zoom in on the hole")
+            if hadYardages {
+                XCTAssertFalse(yardages.exists, "Zooming in should give the drawing the yardages' room")
+            }
             capture("5b-sideways-hole-view-zoomed")
             drawing.doubleTap()
-            XCTAssertTrue(yardages.waitForExistence(timeout: 5), "A double tap should zoom back out")
+            sleep(1)
+            XCTAssertEqual(map.frame.height, startHeight, accuracy: 2, "A double tap should zoom back out")
+            if hadYardages {
+                XCTAssertTrue(yardages.exists, "The yardages should come back after zooming out")
+            }
         } else {
             // The closed Duo's outer screen may not turn sideways; any other iPhone must.
             XCTAssertTrue(Self.isDuo, "A sideways iPhone should show two halves")
