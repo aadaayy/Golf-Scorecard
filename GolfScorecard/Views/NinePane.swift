@@ -80,8 +80,9 @@ struct NinePane: View {
             selectedHole = hole.number
         } label: {
             VStack(spacing: 4) {
+                // Drawings sit on their labels, like the strip on a paper card.
                 HoleDrawing(hole: hole)
-                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottom)
                 VStack(spacing: 0) {
                     Text("\(hole.number)").font(.headline)
                     Text("Par \(hole.par)").font(.caption)
