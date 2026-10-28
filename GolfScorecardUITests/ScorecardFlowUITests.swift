@@ -83,7 +83,7 @@ final class ScorecardFlowUITests: XCTestCase {
             // Pinch to zoom the hole, then double tap to zoom back out. Where the
             // yardages fit beside the hole, they make room while zoomed in.
             let drawing = app.otherElements["hole-drawing"]
-            let map = app.images["Map of hole 3"]
+            let map = drawing.images["Map of hole 3"]
             let yardages = app.otherElements["tee-yardages"]
             let hadYardages = yardages.exists
             XCTAssertEqual(map.value as? String, "Zoomed out", "The hole should start zoomed out")
