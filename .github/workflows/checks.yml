@@ -67,6 +67,28 @@ jobs:
           echo "small=$small" >> "$GITHUB_OUTPUT"
           echo "duo=$duo" >> "$GITHUB_OUTPUT"
 
+      - name: Start the simulators
+        # Booting all three while the tests start can time out the test runner,
+        # so start them first and wait until each has finished booting.
+        env:
+          DEVICES: ${{ steps.pick.outputs.device }}|${{ steps.pick.outputs.small }}|${{ steps.pick.outputs.duo }}
+        run: |
+          python3 - <<'PY'
+          import json, os, subprocess
+          names = [n for n in os.environ["DEVICES"].split("|") if n]
+          listing = json.loads(subprocess.check_output(["xcrun", "simctl", "list", "devices", "available", "-j"]))
+          udids = {}
+          for runtime, devices in sorted(listing["devices"].items()):
+              for d in devices:
+                  if d["name"] in names:
+                      udids[d["name"]] = d["udid"]  # newest runtime wins
+          for name, udid in udids.items():
+              subprocess.run(["xcrun", "simctl", "boot", udid])
+          for name, udid in udids.items():
+              subprocess.run(["xcrun", "simctl", "bootstatus", udid, "-b"], check=True, timeout=600)
+              print(f"{name} booted")
+          PY
+
       - name: Build and walk through the app
         env:
           SMALL: ${{ steps.pick.outputs.small }}
