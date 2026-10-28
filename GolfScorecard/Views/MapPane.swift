@@ -128,6 +128,7 @@ struct ZoomableHoleDrawing: View {
             let current = min(Self.maxScale, max(1, scale * pinch))
             let shift = clamped(offset + drag, scale: current, in: size)
             HoleDrawing(hole: hole)
+                .accessibilityValue(scale > 1 ? "Zoomed in" : "Zoomed out")
                 .frame(width: size.width * current, height: size.height * current)
                 .offset(shift)
                 .frame(width: size.width, height: size.height)

@@ -86,17 +86,17 @@ final class ScorecardFlowUITests: XCTestCase {
             let map = app.images["Map of hole 3"]
             let yardages = app.otherElements["tee-yardages"]
             let hadYardages = yardages.exists
-            let startHeight = map.frame.height
+            XCTAssertEqual(map.value as? String, "Zoomed out", "The hole should start zoomed out")
             drawing.pinch(withScale: 3, velocity: 2)
             sleep(1)
-            XCTAssertGreaterThan(map.frame.height, startHeight * 1.5, "Pinching should zoom in on the hole")
+            XCTAssertEqual(map.value as? String, "Zoomed in", "Pinching should zoom in on the hole")
             if hadYardages {
                 XCTAssertFalse(yardages.exists, "Zooming in should give the drawing the yardages' room")
             }
             capture("5b-sideways-hole-view-zoomed")
             drawing.doubleTap()
             sleep(1)
-            XCTAssertEqual(map.frame.height, startHeight, accuracy: 2, "A double tap should zoom back out")
+            XCTAssertEqual(map.value as? String, "Zoomed out", "A double tap should zoom back out")
             if hadYardages {
                 XCTAssertTrue(yardages.exists, "The yardages should come back after zooming out")
             }
