@@ -10,6 +10,9 @@ import SwiftUI
 struct OpenDuoPreview: View {
     static let openScreen = CGSize(width: 951, height: 669)
 
+    /// Home instead of a round (launched with -home as well).
+    var showsHome = false
+
     @Environment(CourseLibrary.self) private var library
     @State private var round: Round?
 
@@ -31,7 +34,9 @@ struct OpenDuoPreview: View {
 
     @ViewBuilder
     private var screen: some View {
-        if let round {
+        if showsHome {
+            HomeView().padding(.top, 24)
+        } else if let round {
             VStack(spacing: 0) {
                 Text(round.courseName)
                     .font(.headline)
@@ -46,7 +51,7 @@ struct OpenDuoPreview: View {
 
     /// A round on the first course with the first hole scored.
     private func makeRound() {
-        guard round == nil, let course = library.course(id: "pompano-pines") ?? library.courses.first else { return }
+        guard !showsHome, round == nil, let course = library.course(id: "pompano-pines") ?? library.courses.first else { return }
         let tee = course.tees.contains("White") ? "White" : course.tees[course.tees.count / 2]
         let newRound = Round(course: course, tee: tee, players: ["Me"])
         var grid = newRound.grid

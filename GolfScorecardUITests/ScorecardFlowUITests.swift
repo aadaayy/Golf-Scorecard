@@ -16,7 +16,7 @@ final class ScorecardFlowUITests: XCTestCase {
     func testScoreAHoleAndCaptureLayouts() throws {
         XCUIDevice.shared.orientation = .portrait
         let app = XCUIApplication()
-        app.launchArguments = ["-uiTesting", "-startLayout", "nine"]
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-startLayout", "nine"]
         app.launch()
 
         // Course list
@@ -115,7 +115,7 @@ final class ScorecardFlowUITests: XCTestCase {
         try XCTSkipUnless(device.contains("Pro Max"), "The open Duo pictures are taken on the Pro Max only")
         XCUIDevice.shared.orientation = .landscapeLeft
         let app = XCUIApplication()
-        app.launchArguments = ["-uiTesting", "-openDuoPreview", "-startLayout", "nine"]
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-openDuoPreview", "-startLayout", "nine"]
         app.launch()
 
         let cardPane = app.otherElements["card-pane"]

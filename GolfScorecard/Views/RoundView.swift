@@ -1,4 +1,5 @@
 import SwiftUI
+import UIKit
 
 /// A round in progress: the score card and the hole map.
 ///
@@ -12,8 +13,15 @@ struct RoundView: View {
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
     @AppStorage(OpenLayout.storageKey) private var openLayout = OpenLayout.nine
+    @AppStorage(SettingsKey.keepAwake) private var keepAwake = true
     @State private var selectedHole = 1
     @State private var selectedPlayer = 0
+    /// Finished rounds open locked, so a look at an old card can't change it by accident.
+    @State private var editing = false
+    @State private var showingSummary = false
+    /// Set by Save on the summary, so the round closes once the summary has gone.
+    @State private var leaveWhenSummaryCloses = false
+    @Environment(\.dismiss) private var dismiss
 
     private var isWide: Bool { horizontalSizeClass == .regular || verticalSizeClass == .compact }
 
@@ -31,11 +39,54 @@ struct RoundView: View {
         }
         .navigationTitle(round.courseName)
         .navigationBarTitleDisplayMode(.inline)
+        .environment(\.scoresLocked, round.isFinished && !editing)
         .toolbar {
             if isWide {
                 ToolbarItem(placement: .topBarTrailing) { OpenLayoutPicker() }
             }
+            ToolbarItem(placement: .topBarTrailing) { roundButtons }
         }
+        .sheet(isPresented: $showingSummary, onDismiss: {
+            if leaveWhenSummaryCloses { dismiss() }
+        }) {
+            if let course = library.course(id: round.courseID) {
+                RoundSummaryView(round: round, course: course, onSave: round.isFinished ? nil : { finish() })
+            }
+        }
+        .onAppear {
+            if round.lastScoredHole > 0 { selectedHole = round.lastScoredHole }
+            // The phone stays awake while a round is played, unless turned off in Profile.
+            UIApplication.shared.isIdleTimerDisabled = keepAwake && !round.isFinished
+        }
+        .onDisappear { UIApplication.shared.isIdleTimerDisabled = false }
+    }
+
+    /// Finish for a round being played; Summary and Edit for a finished one.
+    @ViewBuilder
+    private var roundButtons: some View {
+        if round.isFinished {
+            HStack {
+                Button {
+                    showingSummary = true
+                } label: {
+                    Label("Summary", systemImage: "list.bullet.rectangle")
+                }
+                .accessibilityIdentifier("show-summary")
+                Button(editing ? "Done" : "Edit") { editing.toggle() }
+                    .accessibilityIdentifier("edit-round")
+            }
+        } else {
+            Button("Finish") { showingSummary = true }
+                .fontWeight(.semibold)
+                .accessibilityIdentifier("finish-round")
+        }
+    }
+
+    /// Saves the round as finished and goes back home.
+    private func finish() {
+        round.finishedAt = .now
+        leaveWhenSummaryCloses = true
+        showingSummary = false
     }
 
     @ViewBuilder
@@ -119,4 +170,9 @@ struct WideRoundLayout<Card: View, Map: View>: View {
             map
         }
     }
+}
+
+extension EnvironmentValues {
+    /// True while a finished round is shown without Edit, so its scores can't change.
+    @Entry var scoresLocked = false
 }

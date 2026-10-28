@@ -16,6 +16,7 @@ struct CardPane: View {
     /// The space the grid has between the Front 9/Back 9 switch and the score buttons.
     @State private var gridArea: CGSize = .zero
     @Environment(\.verticalSizeClass) private var verticalSizeClass
+    @Environment(\.scoresLocked) private var scoresLocked
 
     /// The smallest cells still easy to read and tap, and the largest worth drawing.
     private static let minCell: CGFloat = 26
@@ -77,17 +78,19 @@ struct CardPane: View {
                     .fixedSize(horizontal: false, vertical: gridFits)
                 }
 
-            ScoreEntryBar(
-                playerName: round.players.indices.contains(player) ? round.players[player] : "",
-                hole: selectedHole,
-                strokes: round.grid.strokes(player: player, hole: selectedHole),
-                par: course.hole(selectedHole)?.par
-            ) { newValue in
-                var grid = round.grid
-                grid.setStrokes(newValue, player: player, hole: selectedHole)
-                round.grid = grid
+            if !scoresLocked {
+                ScoreEntryBar(
+                    playerName: round.players.indices.contains(player) ? round.players[player] : "",
+                    hole: selectedHole,
+                    strokes: round.grid.strokes(player: player, hole: selectedHole),
+                    par: course.hole(selectedHole)?.par
+                ) { newValue in
+                    var grid = round.grid
+                    grid.setStrokes(newValue, player: player, hole: selectedHole)
+                    round.grid = grid
+                }
+                .padding(.horizontal)
             }
-            .padding(.horizontal)
         }
         .padding(.vertical, verticalSizeClass == .compact ? 8 : 16)
         .onAppear { showingBackNine = selectedHole >= 10 }

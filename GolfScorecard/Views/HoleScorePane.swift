@@ -6,6 +6,7 @@ struct HoleScorePane: View {
     @Bindable var round: Round
     let course: Course
     @Binding var selectedHole: Int
+    @Environment(\.scoresLocked) private var scoresLocked
 
     private var hole: Hole? { course.hole(selectedHole) }
 
@@ -54,6 +55,8 @@ struct HoleScorePane: View {
                     Image(systemName: "minus.circle.fill").font(.system(size: buttonSize))
                 }
                 .disabled(strokes == 0)
+                .opacity(scoresLocked ? 0 : 1)
+                .disabled(scoresLocked)
                 .accessibilityLabel("One less stroke")
                 .accessibilityIdentifier("hole-score-minus-\(p)")
 
@@ -69,6 +72,8 @@ struct HoleScorePane: View {
                     Image(systemName: "plus.circle.fill").font(.system(size: buttonSize))
                 }
                 .disabled(strokes >= StrokeGrid.maxStrokes)
+                .opacity(scoresLocked ? 0 : 1)
+                .disabled(scoresLocked)
                 .accessibilityLabel("One more stroke")
                 .accessibilityIdentifier("hole-score-plus-\(p)")
             }

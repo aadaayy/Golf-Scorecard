@@ -2,6 +2,15 @@
 
 A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, or turn any iPhone sideways, and the card sits on the left with the hole you're on at the right; hold a phone upright (or close the Duo) and you switch between them with tabs. No tracking, no accounts, no internet: everything stays on the phone.
 
+## What's in it
+
+1. Welcome pages the first time: your name, an optional handicap, and whether the open Duo starts on the Hole or Nine view.
+2. Home: resume an unfinished round, pick a course, Past Rounds, and Profile & Settings. Open or sideways, the picked course shows on the right.
+3. Start a round: tee, and up to four players (you're first; people you've played with are a tap away).
+4. The round: card and map (see below), then Finish for a summary with Out, In, Total, to par and net.
+5. Past rounds: every round, newest first. Finished cards stay locked until Edit.
+6. Profile & Settings: name, handicap, usual tee, Hole or Nine, keep the screen on, version, and Erase Everything.
+
 ## Run it on your iPhone Duo (free Apple account)
 
 You need a Mac with Xcode 27.1 or later (macOS Tahoe 26.6 or later). No simulator is needed.

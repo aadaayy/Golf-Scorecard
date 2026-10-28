@@ -3,17 +3,36 @@ import SwiftData
 
 @main
 struct GolfScorecardApp: App {
-    @State private var library = CourseLibrary()
+    @State private var library: CourseLibrary
+    private let container: ModelContainer
 
-    /// UI tests launch with this flag so every test starts with no saved rounds.
-    private let isUITesting = ProcessInfo.processInfo.arguments.contains("-uiTesting")
+    /// UI tests launch with this flag so every test starts with no saved rounds
+    /// and no settings.
+    private static let isUITesting = ProcessInfo.processInfo.arguments.contains("-uiTesting")
 
     init() {
-        // UI tests pick the open layout with "-startLayout hole" or "-startLayout nine".
-        // Saved as an ordinary setting so the Hole/Nine switch can still change it.
-        let arguments = ProcessInfo.processInfo.arguments
-        if isUITesting, let index = arguments.firstIndex(of: "-startLayout"), index + 1 < arguments.count {
-            UserDefaults.standard.set(arguments[index + 1], forKey: OpenLayout.storageKey)
+        let library = CourseLibrary()
+        _library = State(initialValue: library)
+        let configuration = ModelConfiguration(isStoredInMemoryOnly: Self.isUITesting)
+        container = try! ModelContainer(for: Round.self, configurations: configuration)
+
+        if Self.isUITesting {
+            // Fresh every time: the welcome pages show unless a test skips them,
+            // and the open layout comes from "-startLayout hole" or "-startLayout nine".
+            // Saved as ordinary settings so the app can still change them.
+            let arguments = ProcessInfo.processInfo.arguments
+            SettingsKey.eraseAll()
+            if arguments.contains("-skipOnboarding") {
+                UserDefaults.standard.set(true, forKey: SettingsKey.onboarded)
+            }
+            if let index = arguments.firstIndex(of: "-startLayout"), index + 1 < arguments.count {
+                UserDefaults.standard.set(arguments[index + 1], forKey: OpenLayout.storageKey)
+            }
+            #if DEBUG
+            if arguments.contains("-sampleRounds") {
+                SampleRounds.insert(into: container.mainContext, library: library)
+            }
+            #endif
         }
     }
 
@@ -22,16 +41,16 @@ struct GolfScorecardApp: App {
             Group {
                 #if DEBUG
                 if ProcessInfo.processInfo.arguments.contains("-openDuoPreview") {
-                    OpenDuoPreview()
+                    OpenDuoPreview(showsHome: ProcessInfo.processInfo.arguments.contains("-home"))
                 } else {
-                    CourseListView()
+                    HomeView()
                 }
                 #else
-                CourseListView()
+                HomeView()
                 #endif
             }
             .environment(library)
         }
-        .modelContainer(for: Round.self, inMemory: isUITesting)
+        .modelContainer(container)
     }
 }
