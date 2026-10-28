@@ -79,6 +79,16 @@ final class ScorecardFlowUITests: XCTestCase {
             app.buttons["hole-score-plus-0"].tap()
             XCTAssertEqual(app.staticTexts["hole-score-value-0"].label, "3", "The first tap should score par on the par 3")
             capture("5-sideways-hole-view")
+
+            // Pinch to zoom the hole: the yardages make room, and a double tap zooms back out
+            let drawing = app.otherElements["hole-drawing"]
+            let yardages = app.otherElements["tee-yardages"]
+            XCTAssertTrue(yardages.exists, "The tee yardages should show next to the hole")
+            drawing.pinch(withScale: 3, velocity: 2)
+            XCTAssertTrue(yardages.waitForNonExistence(timeout: 5), "Zooming in should give the drawing the yardages' room")
+            capture("5b-sideways-hole-view-zoomed")
+            drawing.doubleTap()
+            XCTAssertTrue(yardages.waitForExistence(timeout: 5), "A double tap should zoom back out")
         } else {
             // The closed Duo's outer screen may not turn sideways; any other iPhone must.
             XCTAssertTrue(Self.isDuo, "A sideways iPhone should show two halves")
@@ -116,6 +126,10 @@ final class ScorecardFlowUITests: XCTestCase {
         app.buttons["hole-score-plus-0"].tap()
         sleep(1)
         capture("8-open-duo-size-hole-view")
+
+        app.otherElements["hole-drawing"].pinch(withScale: 3, velocity: 2)
+        sleep(1)
+        capture("9-open-duo-size-hole-zoomed")
     }
 
     /// Whether `first` comes before `second` along the screen's long side.

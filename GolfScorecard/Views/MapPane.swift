@@ -11,6 +11,8 @@ struct MapPane: View {
     @Binding var selectedHole: Int
 
     @State private var drawingArea: CGSize = .zero
+    /// While the drawing is zoomed in, it takes the yardages' room too.
+    @State private var zoomed = false
     /// The narrowest the yardage list can be.
     private static let factsWidth: CGFloat = 132
 
@@ -60,20 +62,19 @@ struct MapPane: View {
     }
 
     /// The drawing, with the tee yardages beside it when there's room.
-    @ViewBuilder
     private var drawingAndFacts: some View {
         let drawingWidth = min(drawingArea.width, drawingArea.height * HoleDrawing.aspect(of: hole))
         let spare = drawingArea.width - drawingWidth - 20
-        if let hole, hole.map != nil, spare >= Self.factsWidth {
-            HStack(spacing: 20) {
-                HoleDrawing(hole: hole)
-                    .frame(width: drawingWidth)
+        let showFacts = hole?.map != nil && spare >= Self.factsWidth && !zoomed
+        return HStack(spacing: showFacts ? 20 : 0) {
+            ZoomableHoleDrawing(hole: hole, isZoomed: $zoomed)
+                .frame(width: showFacts ? drawingWidth : drawingArea.width)
+            if showFacts, let hole {
                 TeeYardages(course: course, hole: hole, playedTee: tee)
                     .frame(width: min(spare, 220), alignment: .leading)
             }
-        } else {
-            HoleDrawing(hole: hole)
         }
+        .animation(.spring(duration: 0.3), value: zoomed)
     }
 
     private func details(for hole: Hole) -> String {
@@ -95,8 +96,9 @@ struct HoleDrawing: View {
     }
 
     var body: some View {
-        if let name = hole?.map, let image = UIImage(named: name) {
-            Image(uiImage: image)
+        if let name = hole?.map, UIImage(named: name) != nil {
+            // Drawn from the vector asset, so it stays sharp when zoomed.
+            Image(name)
                 .resizable()
                 .scaledToFit()
                 .accessibilityLabel("Map of hole \(hole?.number ?? 0)")
@@ -104,6 +106,87 @@ struct HoleDrawing: View {
             HolePlaceholder()
         }
     }
+}
+
+/// A hole drawing you can pinch to zoom in and out, drag around while zoomed,
+/// and double tap to zoom in or back out. It zooms back out for the next hole.
+struct ZoomableHoleDrawing: View {
+    let hole: Hole?
+    @Binding var isZoomed: Bool
+
+    @State private var scale: CGFloat = 1
+    @State private var offset: CGSize = .zero
+    @GestureState private var pinch: CGFloat = 1
+    @GestureState private var drag: CGSize = .zero
+
+    private static let maxScale: CGFloat = 5
+    private static let doubleTapScale: CGFloat = 2.5
+
+    var body: some View {
+        GeometryReader { geometry in
+            let size = geometry.size
+            let current = min(Self.maxScale, max(1, scale * pinch))
+            let shift = clamped(offset + drag, scale: current, in: size)
+            HoleDrawing(hole: hole)
+                .frame(width: size.width * current, height: size.height * current)
+                .offset(shift)
+                .frame(width: size.width, height: size.height)
+                .contentShape(Rectangle())
+                .gesture(magnify(in: size).simultaneously(with: pan(in: size)))
+                .onTapGesture(count: 2) {
+                    withAnimation(.spring(duration: 0.3)) {
+                        if scale > 1 { reset() } else { scale = Self.doubleTapScale }
+                    }
+                }
+        }
+        .clipped()
+        .onChange(of: hole?.number) { reset() }
+        .onChange(of: scale) { _, newScale in isZoomed = newScale > 1 }
+        .accessibilityElement(children: .contain)
+        .accessibilityIdentifier("hole-drawing")
+        .accessibilityZoomAction { action in
+            withAnimation {
+                switch action.direction {
+                case .zoomIn: scale = min(Self.maxScale, scale * 1.5)
+                case .zoomOut: scale = max(1, scale / 1.5)
+                }
+                if scale == 1 { offset = .zero }
+            }
+        }
+    }
+
+    private func reset() {
+        scale = 1
+        offset = .zero
+    }
+
+    private func magnify(in size: CGSize) -> some Gesture {
+        MagnifyGesture()
+            .updating($pinch) { value, state, _ in state = value.magnification }
+            .onEnded { value in
+                scale = min(Self.maxScale, max(1, scale * value.magnification))
+                offset = clamped(offset, scale: scale, in: size)
+            }
+    }
+
+    private func pan(in size: CGSize) -> some Gesture {
+        DragGesture(minimumDistance: 4)
+            .updating($drag) { value, state, _ in state = value.translation }
+            .onEnded { value in
+                offset = clamped(offset + value.translation, scale: scale, in: size)
+            }
+    }
+
+    /// Keeps the zoomed drawing covering the frame, so it can't be dragged away.
+    private func clamped(_ offset: CGSize, scale: CGFloat, in size: CGSize) -> CGSize {
+        let maxX = size.width * (scale - 1) / 2
+        let maxY = size.height * (scale - 1) / 2
+        return CGSize(width: min(maxX, max(-maxX, offset.width)), height: min(maxY, max(-maxY, offset.height)))
+    }
+}
+
+private func + (lhs: CGSize, rhs: CGSize) -> CGSize {
+    CGSize(width: lhs.width + rhs.width, height: lhs.height + rhs.height)
 }
 
 struct HolePlaceholder: View {
