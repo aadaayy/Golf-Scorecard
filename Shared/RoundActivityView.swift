@@ -2,13 +2,13 @@ import AppIntents
 import SwiftUI
 
 /// The round's Lock Screen card: the hole you're on, your score, and a
-/// switch to keep the screen on. Tapping anywhere else opens the round at
+/// button to keep the screen on. Tapping anywhere else opens the round at
 /// this hole.
 struct RoundActivityView: View {
     let courseName: String
     let state: RoundActivityAttributes.ContentState
 
-    private static let green = Color(red: 0.30, green: 0.69, blue: 0.36)
+    static let green = Color(red: 0.30, green: 0.69, blue: 0.36)
 
     var body: some View {
         VStack(alignment: .leading, spacing: 10) {
@@ -34,12 +34,7 @@ struct RoundActivityView: View {
                     .padding(.leading, 18)
             }
 
-            Toggle(isOn: state.keepScreenOn, intent: KeepScreenOnIntent(on: !state.keepScreenOn)) {
-                Label("Keep screen on", systemImage: state.keepScreenOn ? "sun.max.fill" : "sun.max")
-                    .font(.subheadline.weight(.medium))
-            }
-            .toggleStyle(.switch)
-            .tint(Self.green)
+            KeepScreenOnButton(isOn: state.keepScreenOn)
         }
         .padding(16)
     }
@@ -49,5 +44,31 @@ struct RoundActivityView: View {
             Text(value).font(.title.bold().monospacedDigit())
             Text(caption).font(.caption).foregroundStyle(.secondary)
         }
+    }
+}
+
+/// Keep screen on, with an On or Off pill. A button rather than a switch,
+/// since Lock Screen cards draw buttons everywhere a switch may not show.
+struct KeepScreenOnButton: View {
+    let isOn: Bool
+
+    var body: some View {
+        Button(intent: KeepScreenOnIntent(on: !isOn)) {
+            HStack {
+                Label("Keep screen on", systemImage: isOn ? "sun.max.fill" : "sun.max")
+                    .font(.subheadline.weight(.medium))
+                Spacer()
+                Text(isOn ? "On" : "Off")
+                    .font(.subheadline.weight(.bold))
+                    .foregroundStyle(isOn ? .black : .white)
+                    .padding(.horizontal, 14)
+                    .padding(.vertical, 5)
+                    .background(isOn ? RoundActivityView.green : Color.white.opacity(0.22), in: Capsule())
+            }
+            .contentShape(Rectangle())
+        }
+        .buttonStyle(.plain)
+        .accessibilityLabel("Keep screen on")
+        .accessibilityValue(isOn ? "On" : "Off")
     }
 }

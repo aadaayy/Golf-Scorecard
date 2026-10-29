@@ -29,10 +29,7 @@ struct RoundLiveActivity: Widget {
                         .font(.headline.monospacedDigit())
                 }
                 DynamicIslandExpandedRegion(.bottom) {
-                    Toggle(isOn: context.state.keepScreenOn, intent: KeepScreenOnIntent(on: !context.state.keepScreenOn)) {
-                        Label("Keep screen on", systemImage: "sun.max")
-                    }
-                    .toggleStyle(.switch)
+                    KeepScreenOnButton(isOn: context.state.keepScreenOn)
                 }
             } compactLeading: {
                 Label("\(context.state.hole)", systemImage: "flag.fill")

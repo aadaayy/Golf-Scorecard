@@ -29,7 +29,7 @@ final class RoundChangesUITests: XCTestCase {
         capture("d1-round-with-delete")
 
         delete.tap()
-        let confirm = app.buttons["Delete Round"]
+        let confirm = app.buttons["Delete Round"].firstMatch
         XCTAssertTrue(confirm.waitForExistence(timeout: 5), "Delete should ask first")
         sleep(1)
         capture("d2-delete-confirm")
@@ -155,6 +155,12 @@ final class RoundChangesUITests: XCTestCase {
         springboard.coordinate(withNormalizedOffset: CGVector(dx: 0.25, dy: 0.002))
             .press(forDuration: 0.1, thenDragTo: springboard.coordinate(withNormalizedOffset: CGVector(dx: 0.25, dy: 0.75)))
         sleep(3)
+        // The first card asks whether to allow Live Activities from Scorecard.
+        let allow = springboard.buttons["Allow"]
+        if allow.waitForExistence(timeout: 3) {
+            allow.tap()
+            sleep(2)
+        }
         capture("l2-lock-screen")
         let card = springboard.descendants(matching: .any).matching(NSPredicate(format: "label CONTAINS 'Hole 1'")).firstMatch
         if card.waitForExistence(timeout: 5) {

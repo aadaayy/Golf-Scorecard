@@ -2,7 +2,7 @@ import ActivityKit
 import AppIntents
 import Foundation
 
-/// The Keep Screen On switch on the round's Lock Screen card.
+/// The Keep screen on button on the round's Lock Screen card.
 ///
 /// As a `LiveActivityIntent` it runs inside the app, not the extension, so it
 /// changes the app's own setting and the open round sees the change at once.
