@@ -35,7 +35,7 @@ struct HomeView: View {
                     list
                 }
             }
-            .navigationTitle(playerName.isEmpty ? "Scorecard" : "Hi, \(playerName)")
+            .navigationTitle(playerName.isEmpty ? "Yardage Book" : "Hi, \(playerName)")
             .navigationBarTitleDisplayMode(isWide ? .inline : .large)
             .navigationDestination(for: Course.self) { course in
                 NewRoundView(course: course) { round in
@@ -76,6 +76,7 @@ struct HomeView: View {
                         ResumeRow(round: round)
                     }
                     .buttonStyle(.plain)
+                    .bookRow()
                     .accessibilityIdentifier("resume-round")
                 }
             }
@@ -95,6 +96,7 @@ struct HomeView: View {
                     Label("Find Courses", systemImage: "magnifyingglass")
                         .font(.headline)
                 }
+                .bookRow()
                 .accessibilityIdentifier("find-courses")
             } header: {
                 Text("Courses")
@@ -104,19 +106,20 @@ struct HomeView: View {
                 }
             }
         }
+        .bookList()
     }
 
     @ViewBuilder
     private func courseRow(_ course: Course) -> some View {
         let label = VStack(alignment: .leading, spacing: 2) {
-            Text(course.name).font(.headline)
+            Text(course.name).font(Book.title(18, relativeTo: .headline))
             Text("\(course.town) · \(course.holes.count) holes · Par \(course.par(holes: 1...course.holes.count))")
                 .font(.subheadline)
-                .foregroundStyle(.secondary)
+                .foregroundStyle(Book.pencil)
             if library.isDownloaded(course.id) {
                 Label("Downloaded", systemImage: "arrow.down.circle.fill")
                     .font(.caption)
-                    .foregroundStyle(.secondary)
+                    .foregroundStyle(Book.leaf)
             }
         }
         if isWide {
@@ -128,16 +131,17 @@ struct HomeView: View {
                     label
                     Spacer()
                     if course.id == previewCourse?.id {
-                        Image(systemName: "chevron.right.circle.fill").foregroundStyle(Color.accentColor)
+                        Image(systemName: "chevron.right.circle.fill").foregroundStyle(Book.red)
                     }
                 }
                 .contentShape(Rectangle())
             }
             .buttonStyle(.plain)
-            .listRowBackground(course.id == previewCourse?.id ? Color.accentColor.opacity(0.12) : nil)
+            .bookRow(marked: course.id == previewCourse?.id)
             .accessibilityIdentifier("course-\(course.id)")
         } else {
             NavigationLink(value: course) { label }
+                .bookRow()
                 .accessibilityIdentifier("course-\(course.id)")
         }
     }
@@ -156,10 +160,10 @@ private struct ResumeRow: View {
         HStack(spacing: 12) {
             Image(systemName: "play.circle.fill")
                 .font(.system(size: 34))
-                .foregroundStyle(Color.accentColor)
+                .foregroundStyle(Book.red)
             VStack(alignment: .leading, spacing: 2) {
-                Text("Resume Round").font(.headline).foregroundStyle(.primary)
-                Text(details).font(.subheadline).foregroundStyle(.secondary)
+                Text("Resume Round").font(Book.title(18, relativeTo: .headline)).foregroundStyle(Book.ink)
+                Text(details).font(.subheadline).foregroundStyle(Book.pencil)
             }
         }
         .padding(.vertical, 4)
@@ -200,8 +204,8 @@ struct CoursePreview: View {
             } else {
                 VStack(spacing: 12) {
                     VStack(spacing: 2) {
-                        Text(course.name).font(.title2.bold()).multilineTextAlignment(.center)
-                        Text(course.town).foregroundStyle(.secondary)
+                        Text(course.name).font(Book.title(24, relativeTo: .title2)).multilineTextAlignment(.center)
+                        Text(course.town).foregroundStyle(Book.pencil)
                     }
                     teeChips
                     ninePicker.frame(maxWidth: 280)
@@ -211,6 +215,7 @@ struct CoursePreview: View {
             }
         }
         .padding()
+        .paperBackground()
         .accessibilityElement(children: .contain)
         .accessibilityIdentifier("course-preview")
     }

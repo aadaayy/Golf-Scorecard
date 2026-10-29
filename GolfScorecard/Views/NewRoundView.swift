@@ -24,6 +24,7 @@ struct NewRoundView: View {
                     ForEach(course.tees, id: \.self) { Text($0).tag($0) }
                 }
                 .pickerStyle(.segmented)
+                .bookRow()
             } header: {
                 Text("Tee")
             } footer: {
@@ -42,12 +43,13 @@ struct NewRoundView: View {
                             Button {
                                 if players.indices.contains(index) { players.remove(at: index) }
                             } label: {
-                                Image(systemName: "minus.circle.fill").foregroundStyle(.red)
+                                Image(systemName: "minus.circle.fill").foregroundStyle(Book.red)
                             }
                             .buttonStyle(.plain)
                             .accessibilityLabel("Remove player \(index + 1)")
                         }
                     }
+                    .bookRow()
                 }
                 if players.count < maxPlayers {
                     Button {
@@ -55,6 +57,7 @@ struct NewRoundView: View {
                     } label: {
                         Label("Add Player", systemImage: "plus.circle")
                     }
+                    .bookRow()
                     .accessibilityIdentifier("add-player")
                 }
             } header: {
@@ -68,12 +71,15 @@ struct NewRoundView: View {
             Section {
                 Button(action: start) {
                     Label("Start Round", systemImage: "flag.fill")
-                        .font(.headline)
+                        .font(Book.title(19, relativeTo: .headline))
+                        .foregroundStyle(Book.paper)
                         .frame(maxWidth: .infinity)
                 }
+                .listRowBackground(Book.ink)
                 .accessibilityIdentifier("start-round")
             }
         }
+        .bookList()
         .navigationTitle(course.name)
         .navigationBarTitleDisplayMode(.inline)
         .onAppear(perform: fillIn)
@@ -98,7 +104,8 @@ struct NewRoundView: View {
                                 .font(.subheadline)
                                 .padding(.horizontal, 10)
                                 .padding(.vertical, 6)
-                                .background(Color.accentColor.opacity(0.12), in: Capsule())
+                                .background(Book.page, in: Capsule())
+                                .overlay(Capsule().stroke(Book.ink.opacity(0.5), lineWidth: 1))
                         }
                         .buttonStyle(.plain)
                         .accessibilityIdentifier("suggested-\(name)")

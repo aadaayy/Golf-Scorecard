@@ -9,7 +9,7 @@ import Foundation
 /// A locked phone asks for Face ID before running it.
 struct KeepScreenOnIntent: LiveActivityIntent {
     static var title: LocalizedStringResource = "Keep Screen On During a Round"
-    static var description = IntentDescription("Keeps the screen on while a round is open in Scorecard, or lets it dim again.")
+    static var description = IntentDescription("Keeps the screen on while a round is open in Yardage Book, or lets it dim again.")
 
     @Parameter(title: "Keep screen on")
     var on: Bool

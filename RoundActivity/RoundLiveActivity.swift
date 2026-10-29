@@ -15,30 +15,32 @@ struct RoundLiveActivity: Widget {
     var body: some WidgetConfiguration {
         ActivityConfiguration(for: RoundActivityAttributes.self) { context in
             RoundActivityView(courseName: context.attributes.courseName, state: context.state)
-                .activityBackgroundTint(Color.black.opacity(0.55))
-                .activitySystemActionForegroundColor(.white)
+                .activityBackgroundTint(Book.paper)
+                .activitySystemActionForegroundColor(Book.ink)
                 .widgetURL(url(context))
         } dynamicIsland: { context in
             DynamicIsland {
                 DynamicIslandExpandedRegion(.leading) {
                     Label("Hole \(context.state.hole)", systemImage: "flag.fill")
-                        .font(.headline)
+                        .font(Book.title(18, relativeTo: .headline))
                 }
                 DynamicIslandExpandedRegion(.trailing) {
                     Text("\(context.state.total) · \(context.state.toParText)")
-                        .font(.headline.monospacedDigit())
+                        .font(Book.mono(17, weight: .semibold))
                 }
                 DynamicIslandExpandedRegion(.bottom) {
-                    KeepScreenOnButton(isOn: context.state.keepScreenOn)
+                    KeepScreenOnButton(isOn: context.state.keepScreenOn, onDark: true)
                 }
             } compactLeading: {
                 Label("\(context.state.hole)", systemImage: "flag.fill")
+                    .foregroundStyle(Book.paper)
             } compactTrailing: {
                 Text(context.state.toParText).monospacedDigit()
             } minimal: {
                 Text("\(context.state.hole)").monospacedDigit()
             }
             .widgetURL(url(context))
+            .keylineTint(Book.red)
         }
     }
 

@@ -24,9 +24,11 @@ struct NinePane: View {
         VStack(spacing: 8) {
             if showsHeader {
                 VStack(spacing: 2) {
-                    Text(onBackNine ? "Back 9" : "Front 9").font(.title2.bold())
+                    Text(onBackNine ? "BACK 9" : "FRONT 9")
+                        .font(Book.title(26, relativeTo: .title2))
+                        .accessibilityLabel(onBackNine ? "Back 9" : "Front 9")
                     Text("Par \(course.par(holes: range)) · \(course.yards(tee: tee, holes: range)) yds")
-                        .foregroundStyle(.secondary)
+                        .foregroundStyle(Book.pencil)
                 }
             }
             Color.clear
@@ -35,6 +37,7 @@ struct NinePane: View {
                 .overlay { tiles }
         }
         .padding(12)
+        .paperBackground()
         .accessibilityElement(children: .contain)
         .accessibilityIdentifier(identifier)
     }
@@ -87,13 +90,13 @@ struct NinePane: View {
         } label: {
             VStack(spacing: 4) {
                 // Drawings sit on their labels, like the strip on a paper card.
-                HoleDrawing(hole: hole)
+                HoleDrawing(hole: hole, detail: .simple)
                     .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottom)
                 VStack(spacing: 0) {
-                    Text("\(hole.number)").font(.headline)
-                    Text("Par \(hole.par)").font(.caption)
+                    Text("\(hole.number)").font(Book.title(18, relativeTo: .headline))
+                    Text("Par \(hole.par)").font(.caption).foregroundStyle(selected ? Book.red : Book.ink)
                     if let yards = hole.yards[tee] {
-                        Text("\(yards)").font(.caption.monospacedDigit()).foregroundStyle(.secondary)
+                        Text("\(yards)").font(.caption).foregroundStyle(Book.pencil)
                     }
                 }
                 .lineLimit(1)
@@ -101,8 +104,8 @@ struct NinePane: View {
                 .frame(height: Self.labelHeight - 4)
             }
             .padding(4)
-            .background(selected ? Color.accentColor.opacity(0.15) : .clear, in: RoundedRectangle(cornerRadius: 10))
-            .overlay(RoundedRectangle(cornerRadius: 10).stroke(selected ? Color.accentColor : .clear, lineWidth: 2))
+            .background(selected ? Book.marked : .clear, in: RoundedRectangle(cornerRadius: 10))
+            .overlay(RoundedRectangle(cornerRadius: 10).stroke(selected ? Book.red : .clear, lineWidth: 1.5))
             .contentShape(Rectangle())
         }
         .buttonStyle(.plain)

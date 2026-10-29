@@ -42,6 +42,7 @@ struct FindCoursesView: View {
         case .notLoaded, .loading:
             ProgressView("Loading courses…")
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
+                .paperBackground()
         case .failed:
             ContentUnavailableView {
                 Label("Can't Reach the Course Library", systemImage: "wifi.slash")
@@ -52,6 +53,7 @@ struct FindCoursesView: View {
                     .buttonStyle(.borderedProminent)
                     .accessibilityIdentifier("library-retry")
             }
+            .paperBackground()
         case .loaded:
             List {
                 Section {
@@ -64,6 +66,7 @@ struct FindCoursesView: View {
                     }
                 }
             }
+            .bookList()
             .refreshable { await catalog.load() }
             .overlay {
                 if results.isEmpty {
@@ -81,14 +84,14 @@ struct FindCoursesView: View {
     private func row(_ entry: CourseIndex.Entry) -> some View {
         let label = HStack(spacing: 12) {
             VStack(alignment: .leading, spacing: 2) {
-                Text(entry.name).font(.headline).foregroundStyle(.primary)
+                Text(entry.name).font(Book.title(18, relativeTo: .headline)).foregroundStyle(Book.ink)
                 Text("\(entry.town) · \(entry.holes) holes · Par \(entry.par)")
                     .font(.subheadline)
-                    .foregroundStyle(.secondary)
+                    .foregroundStyle(Book.pencil)
                 if catalog.failed.contains(entry.id) {
                     Text("Download didn't finish. Tap to try again.")
                         .font(.caption.weight(.semibold))
-                        .foregroundStyle(.orange)
+                        .foregroundStyle(Book.red)
                 }
             }
             Spacer()
@@ -104,10 +107,11 @@ struct FindCoursesView: View {
                     label
                 }
                 .buttonStyle(.plain)
-                .listRowBackground(entry.id == picked?.id ? Color.accentColor.opacity(0.12) : nil)
+                .bookRow(marked: entry.id == picked?.id)
             } else if let course = library.course(id: entry.id), !entry.isNewer(than: course.currentVersion) {
                 // On the phone: straight to starting a round.
                 NavigationLink(value: course) { label }
+                    .bookRow()
             } else {
                 Button {
                     Task { await catalog.download(entry, into: library) }
@@ -116,6 +120,7 @@ struct FindCoursesView: View {
                 }
                 .buttonStyle(.plain)
                 .disabled(catalog.downloading.contains(entry.id))
+                .bookRow()
             }
         }
         .accessibilityIdentifier("library-course-\(entry.id)")
@@ -167,7 +172,7 @@ struct CourseDownloadStatus: View {
                         .accessibilityLabel("On your phone")
                 }
             }
-            .foregroundStyle(.green)
+            .foregroundStyle(Book.leaf)
             .accessibilityIdentifier("downloaded-\(entry.id)")
         } else {
             let isUpdate = installed != nil
@@ -187,7 +192,7 @@ struct CourseDownloadStatus: View {
                 // In a row the whole row is the button, so this is just the sign.
                 Image(systemName: isUpdate ? "arrow.triangle.2.circlepath.circle" : "arrow.down.circle")
                     .font(.title2)
-                    .foregroundStyle(Color.accentColor)
+                    .foregroundStyle(Book.red)
                     .accessibilityLabel(isUpdate ? "Update" : "Download")
             }
         }
@@ -201,13 +206,13 @@ struct LibraryCourseDetail: View {
     var body: some View {
         VStack(spacing: 16) {
             Spacer()
-            Image(systemName: "flag.and.flag.filled.crossed")
+            Image(systemName: "book.pages")
                 .font(.system(size: 56))
-                .foregroundStyle(Color.accentColor)
+                .foregroundStyle(Book.ink)
             VStack(spacing: 4) {
-                Text(entry.name).font(.title2.bold()).multilineTextAlignment(.center)
-                Text(entry.town).foregroundStyle(.secondary)
-                Text("\(entry.holes) holes · Par \(entry.par)").foregroundStyle(.secondary)
+                Text(entry.name).font(Book.title(24, relativeTo: .title2)).multilineTextAlignment(.center)
+                Text(entry.town).foregroundStyle(Book.pencil)
+                Text("\(entry.holes) holes · Par \(entry.par)").foregroundStyle(Book.pencil)
             }
             HStack(spacing: 6) {
                 ForEach(entry.tees, id: \.self) { tee in
@@ -230,11 +235,12 @@ struct LibraryCourseDetail: View {
             CourseDownloadStatus(entry: entry, large: true)
             Text("Once it's downloaded, the course works with no signal.")
                 .font(.footnote)
-                .foregroundStyle(.secondary)
+                .foregroundStyle(Book.pencil)
             Spacer()
         }
         .padding()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .paperBackground()
         .accessibilityElement(children: .contain)
         .accessibilityIdentifier("library-detail")
     }

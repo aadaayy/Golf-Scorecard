@@ -139,7 +139,8 @@ struct RoundView: View {
                 .tint(.red)
                 .accessibilityIdentifier("delete-round")
                 Button("Finish") { showingSummary = true }
-                    .fontWeight(.semibold)
+                    .fontWeight(.bold)
+                    .foregroundStyle(Book.ink)
                     .accessibilityIdentifier("finish-round")
             }
         }
@@ -238,7 +239,7 @@ struct WideRoundLayout<Card: View, Map: View>: View {
     private var sideBySide: some View {
         HStack(spacing: 0) {
             card
-            Divider()
+            Rectangle().fill(Book.ink.opacity(0.5)).frame(width: 1).ignoresSafeArea()
             map
         }
     }

@@ -93,6 +93,7 @@ struct CardPane: View {
             }
         }
         .padding(.vertical, verticalSizeClass == .compact ? 8 : 16)
+        .paperBackground()
         .onAppear { showingBackNine = selectedHole >= 10 }
         .onChange(of: selectedHole) { _, hole in
             showingBackNine = hole >= 10
@@ -113,7 +114,7 @@ struct CardPane: View {
         verticalSizeClass == .compact ? [round.tee] : course.tees
     }
 
-    private var plain: RowStyle { RowStyle(band: Color(.systemBackground), ink: .primary) }
+    private var plain: RowStyle { RowStyle(band: Book.page, ink: Book.ink) }
 
     private var grid: some View {
         Grid(horizontalSpacing: 0, verticalSpacing: 0) {
@@ -217,7 +218,7 @@ struct CardPane: View {
                 Image(systemName: "arrowtriangle.right.fill").font(.system(size: labelSize * 0.55))
             }
             Text(text)
-                .font(.system(size: labelSize, weight: bold ? .bold : .regular, design: .serif))
+                .font(Book.typewriter(labelSize * 1.08, bold: bold))
                 .lineLimit(1)
                 .minimumScaleFactor(0.6)
         }
@@ -231,8 +232,7 @@ struct CardPane: View {
     private func cell(_ text: String, _ style: RowStyle, bold: Bool = false, large: Bool = false, total: Bool = false) -> some View {
         let size = large ? numberSize * 1.18 : numberSize
         return Text(text)
-            .font(.system(size: size, weight: bold ? .semibold : .regular))
-            .monospacedDigit()
+            .font(.system(size: size, weight: bold ? .semibold : .regular, design: .monospaced))
             .lineLimit(1)
             .minimumScaleFactor(0.55)
             .foregroundStyle(style.ink)
@@ -249,34 +249,36 @@ struct RowStyle {
     let ink: Color
 
     /// The hole being looked at, in the HOLE row.
-    var highlighted: RowStyle { RowStyle(band: Color.accentColor.opacity(0.2), ink: ink) }
+    var highlighted: RowStyle { RowStyle(band: Book.markedRow, ink: Book.red) }
     /// The score cell the plus and minus buttons change.
-    var selected: RowStyle { RowStyle(band: Color.accentColor.opacity(0.32), ink: ink) }
+    var selected: RowStyle { RowStyle(band: Color(red: 0.925, green: 0.800, blue: 0.741), ink: Book.ink) }
 }
 
-/// Colors borrowed from paper scorecards.
+/// The card's ink: a solid ink band for par, a shaded band for the
+/// stroke index, and ink rules, like a card printed in a yardage book.
 enum CardColors {
-    static let par = RowStyle(band: Color(red: 0.36, green: 0.38, blue: 0.37), ink: .white)
-    static let handicap = RowStyle(band: Color(red: 0.96, green: 0.86, blue: 0.62), ink: Color(red: 0.25, green: 0.2, blue: 0.1))
-    static let line = Color.secondary.opacity(0.35)
-    static let edge = Color.secondary.opacity(0.6)
+    static let par = RowStyle(band: Book.ink, ink: Book.paper)
+    static let handicap = RowStyle(band: Book.shade, ink: Book.ink)
+    static let line = Book.ink.opacity(0.28)
+    static let edge = Book.ink.opacity(0.85)
 }
 
 /// The colored band a tee's row gets, like the paper card.
 enum TeeStyle {
     static func row(for tee: String) -> RowStyle {
         switch tee.lowercased() {
-        case "gold": RowStyle(band: Color(red: 0.80, green: 0.72, blue: 0.40), ink: .black)
-        case "blue": RowStyle(band: Color(red: 0.49, green: 0.70, blue: 0.89), ink: .black)
-        case "white": RowStyle(band: Color(white: 0.97), ink: .black)
-        case "brown": RowStyle(band: Color(red: 0.36, green: 0.23, blue: 0.16), ink: .white)
-        case "red": RowStyle(band: Color(red: 0.85, green: 0.16, blue: 0.20), ink: .white)
-        case "black": RowStyle(band: Color(white: 0.12), ink: .white)
-        case "green": RowStyle(band: Color(red: 0.20, green: 0.55, blue: 0.30), ink: .white)
-        case "silver": RowStyle(band: Color(white: 0.75), ink: .black)
-        case "yellow": RowStyle(band: Color(red: 0.98, green: 0.85, blue: 0.30), ink: .black)
-        case "orange": RowStyle(band: Color(red: 0.96, green: 0.55, blue: 0.20), ink: .black)
-        default: RowStyle(band: Color(.secondarySystemBackground), ink: .primary)
+        // The card's tee colors, softened a little to sit on the paper.
+        case "gold": RowStyle(band: Color(red: 0.82, green: 0.73, blue: 0.45), ink: Book.ink)
+        case "blue": RowStyle(band: Color(red: 0.58, green: 0.72, blue: 0.85), ink: Book.ink)
+        case "white": RowStyle(band: Book.page, ink: Book.ink)
+        case "brown": RowStyle(band: Color(red: 0.38, green: 0.26, blue: 0.19), ink: Book.paper)
+        case "red": RowStyle(band: Book.red, ink: Book.paper)
+        case "black": RowStyle(band: Book.ink, ink: Book.paper)
+        case "green": RowStyle(band: Book.leaf, ink: Book.paper)
+        case "silver": RowStyle(band: Color(white: 0.78), ink: Book.ink)
+        case "yellow": RowStyle(band: Color(red: 0.94, green: 0.84, blue: 0.42), ink: Book.ink)
+        case "orange": RowStyle(band: Color(red: 0.90, green: 0.60, blue: 0.32), ink: Book.ink)
+        default: RowStyle(band: Book.shade, ink: Book.ink)
         }
     }
 }
@@ -292,10 +294,10 @@ struct ScoreEntryBar: View {
     var body: some View {
         HStack(spacing: 16) {
             VStack(alignment: .leading, spacing: 2) {
-                Text(playerName).font(.headline)
+                Text(playerName).font(Book.title(19, relativeTo: .headline))
                 Text(par.map { "Hole \(hole) · Par \($0)" } ?? "Hole \(hole)")
                     .font(.subheadline)
-                    .foregroundStyle(.secondary)
+                    .foregroundStyle(Book.pencil)
             }
             Spacer()
             Button {
@@ -308,7 +310,7 @@ struct ScoreEntryBar: View {
             .accessibilityIdentifier("score-minus")
 
             Text(strokes > 0 ? "\(strokes)" : "–")
-                .font(.title.monospacedDigit())
+                .font(.title.weight(.bold))
                 .frame(minWidth: 40)
                 .accessibilityIdentifier("score-value")
 
@@ -323,6 +325,7 @@ struct ScoreEntryBar: View {
             .accessibilityIdentifier("score-plus")
         }
         .padding(12)
-        .background(.quaternary, in: RoundedRectangle(cornerRadius: 12))
+        .foregroundStyle(Book.ink)
+        .bookBox()
     }
 }

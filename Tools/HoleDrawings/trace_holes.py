@@ -265,14 +265,16 @@ def main():
             left, right = max(bounds[i] - pad, 0), min(bounds[i + 1] + pad, classes.shape[1])
             svg = svg_for_hole(classes[:, left:right].copy(), number, (bounds[i] - left, bounds[i + 1] - left))
             name = f'{spec["id"]}-{number:02d}'
-            imageset = os.path.join(folder, name + ".imageset")
-            os.makedirs(imageset, exist_ok=True)
-            open(os.path.join(imageset, name + ".svg"), "w").write(svg)
-            with open(os.path.join(imageset, "Contents.json"), "w") as f:
+            # A data set rather than an image set: the app reads the shapes and
+            # draws them in its own yardage book style.
+            dataset = os.path.join(folder, name + ".dataset")
+            os.makedirs(dataset, exist_ok=True)
+            open(os.path.join(dataset, name + ".svg"), "w").write(svg)
+            with open(os.path.join(dataset, "Contents.json"), "w") as f:
                 json.dump({
-                    "images": [{"filename": name + ".svg", "idiom": "universal"}],
+                    "data": [{"filename": name + ".svg", "idiom": "universal",
+                              "universal-type-identifier": "public.svg-image"}],
                     "info": {"author": "xcode", "version": 1},
-                    "properties": {"preserves-vector-representation": True},
                 }, f, indent=2)
             svgs[number] = svg
             print("wrote", name)

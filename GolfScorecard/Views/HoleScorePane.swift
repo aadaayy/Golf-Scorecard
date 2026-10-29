@@ -13,18 +13,24 @@ struct HoleScorePane: View {
     var body: some View {
         VStack(spacing: 16) {
             VStack(spacing: 2) {
-                Text("Hole \(selectedHole)").font(.largeTitle.bold())
+                Text("HOLE \(selectedHole)")
+                    .font(Book.title(34, relativeTo: .largeTitle))
+                    .accessibilityLabel("Hole \(selectedHole)")
                 if let hole {
-                    Text("Par \(hole.par)").font(.title3).foregroundStyle(.secondary)
+                    Text("PAR \(hole.par)")
+                        .font(Book.title(20, relativeTo: .title3))
+                        .foregroundStyle(Book.red)
+                        .accessibilityLabel("Par \(hole.par)")
                 }
             }
             ForEach(round.players.indices, id: \.self) { p in
                 playerScore(p)
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
-                    .background(.quaternary.opacity(0.6), in: RoundedRectangle(cornerRadius: 20))
+                    .bookBox(cornerRadius: 18)
             }
         }
         .padding()
+        .paperBackground()
         .accessibilityElement(children: .contain)
         .accessibilityIdentifier("hole-score-pane")
     }
@@ -46,7 +52,7 @@ struct HoleScorePane: View {
         let buttonSize = min(64, numberSize * 0.55)
         return VStack(spacing: 8) {
             if round.players.count > 1 {
-                Text(round.players[p]).font(.title2.weight(.semibold))
+                Text(round.players[p]).font(Book.title(22, relativeTo: .title2))
             }
             HStack(spacing: 12) {
                 Button {
@@ -62,7 +68,7 @@ struct HoleScorePane: View {
 
                 // One line always: 10 and up shrink to fit rather than wrap.
                 Text(strokes > 0 ? "\(strokes)" : "–")
-                    .font(.system(size: numberSize, weight: .bold, design: .rounded).monospacedDigit())
+                    .font(.system(size: numberSize, weight: .bold, design: .monospaced))
                     .lineLimit(1)
                     .minimumScaleFactor(0.4)
                     .frame(minWidth: numberSize * 0.7, maxWidth: .infinity)
@@ -83,7 +89,7 @@ struct HoleScorePane: View {
             }
             Text(strokes > 0 && par != nil ? Self.scoreName(strokes: strokes, par: par!) : " ")
                 .font(.title3.weight(.medium))
-                .foregroundStyle(.secondary)
+                .foregroundStyle(Book.red)
             Text(totals(player: p, grid: grid, nine: nine))
                 .font(.headline.monospacedDigit())
                 .accessibilityIdentifier("hole-total-\(p)")

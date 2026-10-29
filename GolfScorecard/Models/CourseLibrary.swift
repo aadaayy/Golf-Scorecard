@@ -1,4 +1,5 @@
 import Foundation
+import UIKit
 import Observation
 
 /// The courses on this phone: the ones built into the app, read from the
@@ -102,14 +103,16 @@ final class CourseLibrary {
     }
 }
 
-/// The hole drawings of downloaded courses, found by the hole's `map` name.
-/// Built-in courses' drawings are in the asset catalog and aren't listed here.
+/// The hole drawings, found by the hole's `map` name: downloaded courses'
+/// from their folders, built-in courses' from the asset catalog (kept there
+/// as data, so the app can read the shapes and draw them its own way).
 final class HoleSketches: @unchecked Sendable {
     static let shared = HoleSketches()
 
     private let lock = NSLock()
     private var files: [String: URL] = [:]
     private var cache: [String: HoleSketch] = [:]
+    private var plans: [String: HolePlan] = [:]
 
     func register(_ course: Course, in folder: URL) {
         lock.lock()
@@ -117,6 +120,7 @@ final class HoleSketches: @unchecked Sendable {
         for name in course.holes.compactMap(\.map) {
             files[name] = folder.appendingPathComponent("\(name).svg")
             cache[name] = nil
+            plans[name] = nil
         }
     }
 
@@ -127,17 +131,39 @@ final class HoleSketches: @unchecked Sendable {
         for name in course.holes.compactMap(\.map) {
             files[name] = nil
             cache[name] = nil
+            plans[name] = nil
         }
     }
 
-    /// The drawing, read from its file the first time it's asked for.
+    /// The drawing, read the first time it's asked for. A downloaded copy
+    /// wins over the built-in one, since it's the newer.
     func sketch(named name: String) -> HoleSketch? {
         lock.lock()
         defer { lock.unlock() }
+        return loadSketch(named: name)
+    }
+
+    /// The drawing read as a yardage book page: rough, green, line of play, trees.
+    func plan(named name: String) -> HolePlan? {
+        lock.lock()
+        defer { lock.unlock() }
+        if let plan = plans[name] { return plan }
+        guard let sketch = loadSketch(named: name) else { return nil }
+        let plan = HolePlan(sketch: sketch)
+        plans[name] = plan
+        return plan
+    }
+
+    /// Call with the lock held.
+    private func loadSketch(named name: String) -> HoleSketch? {
         if let sketch = cache[name] { return sketch }
-        guard let file = files[name],
-              let data = try? Data(contentsOf: file),
-              let sketch = try? HoleSketch.parse(data) else { return nil }
+        let data: Data?
+        if let file = files[name] {
+            data = try? Data(contentsOf: file)
+        } else {
+            data = NSDataAsset(name: name)?.data
+        }
+        guard let data, let sketch = try? HoleSketch.parse(data) else { return nil }
         cache[name] = sketch
         return sketch
     }

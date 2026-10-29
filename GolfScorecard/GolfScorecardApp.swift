@@ -12,6 +12,7 @@ struct GolfScorecardApp: App {
     private static let isUITesting = ProcessInfo.processInfo.arguments.contains("-uiTesting")
 
     init() {
+        Book.styleSystemControls()
         let arguments = ProcessInfo.processInfo.arguments
         if Self.isUITesting {
             // No downloaded courses left over from an earlier test.
@@ -59,6 +60,7 @@ struct GolfScorecardApp: App {
             }
             .environment(library)
             .environment(catalog)
+            .bookStyle()
         }
         .modelContainer(container)
     }

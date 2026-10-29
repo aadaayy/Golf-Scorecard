@@ -1,4 +1,6 @@
-# Golf Scorecard
+# Yardage Book
+
+The app shows as **Yardage Book** on the Home Screen (the project and bundle id keep the Golf Scorecard name). It looks like a caddie's yardage book: ink on cream paper, typewriter titles, red marks, and each hole drawn with red arcs every 50 yards to the middle of the green, a close-up of the green, and trees around the edge (the trees are decoration, not surveyed).
 
 A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, or turn any iPhone sideways, and the card sits on the left with the hole you're on at the right; hold a phone upright (or close the Duo) and you switch between them with tabs. No tracking and no accounts. Courses come from a free online course library and, once downloaded, work with no signal.
 
@@ -70,7 +72,7 @@ Phones can only download from a public repository. Before making this one privat
 
 1. Copy `GolfScorecard/Courses/pompano-pines.json` to a new file named after the course id, for example `palm-links.json`.
 2. Fill in the id, name, town, tees and every hole's par, handicap and yardage. If one tee has its own handicap row on the card (often the red tees), add it under `handicaps`, as hole 2 of Pompano Pines does.
-3. Hole drawings: take a straight-on photo of the paper card and run `Tools/HoleDrawings/trace_holes.py` with a small spec file saying where the hole diagrams sit (see `Tools/HoleDrawings/pompano-pines.json`). It redraws each hole as a sharp vector drawing in the app's colors and adds them to `Assets.xcassets`. Put each drawing's name, like `palm-links-01`, in that hole's `map`.
+3. Hole drawings: take a straight-on photo of the paper card and run `Tools/HoleDrawings/trace_holes.py` with a small spec file saying where the hole diagrams sit (see `Tools/HoleDrawings/pompano-pines.json`). It redraws each hole as a sharp vector drawing and adds them to `Assets.xcassets` as data sets, so the app can read the shapes and draw them in the yardage book style. Keep the colors the script uses: the map tells rough, fairway, water, sand, green and tee apart by them. Put each drawing's name, like `palm-links-01`, in that hole's `map`.
 4. Push. The logic tests check the new file for typos such as a missing yardage or a repeated handicap.
 
 ## Layout
@@ -82,7 +84,9 @@ Phones can only download from a public repository. Before making this one privat
 - `RoundActivity`: the widget extension that draws the Lock Screen card
 - `Config`: Info.plist settings that can't be build settings (Live Activities, the `golfscorecard://` link the card opens)
 - `GolfScorecard/Courses`: one JSON file per course (Pompano Beach Pines so far)
+- `Shared/Book.swift`: the yardage book colors, fonts and paper, used by the app and the Lock Screen card
 - `Tools/HoleDrawings`: redraws a card's hole diagrams as vector drawings
+- `Tools/AppIcon`: draws the app icon and the small copy on the welcome page (`python3 Tools/AppIcon/make_icon.py`, needs Pillow)
 - `Tools/CourseLibrary`: checks a course library folder and writes its index
 - `GolfScorecardUITests`: the walk-through used by the automatic checks
 - `Tests/ScorecardCoreTests`: logic tests

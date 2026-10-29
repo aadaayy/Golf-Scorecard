@@ -48,7 +48,7 @@ struct PastRoundsView: View {
                             row(round).contentShape(Rectangle())
                         }
                         .buttonStyle(.plain)
-                        .listRowBackground(round.persistentModelID == picked?.persistentModelID ? Color.accentColor.opacity(0.12) : nil)
+                        .bookRow(marked: round.persistentModelID == picked?.persistentModelID)
                     } else {
                         Button {
                             openRound(round)
@@ -57,11 +57,12 @@ struct PastRoundsView: View {
                                 row(round)
                                 Image(systemName: "chevron.right")
                                     .font(.footnote.weight(.semibold))
-                                    .foregroundStyle(.tertiary)
+                                    .foregroundStyle(Book.pencil)
                             }
                             .contentShape(Rectangle())
                         }
                         .buttonStyle(.plain)
+                        .bookRow()
                     }
                 }
                 .accessibilityIdentifier("past-round-\(index)")
@@ -70,6 +71,7 @@ struct PastRoundsView: View {
                 for index in offsets { modelContext.delete(rounds[index]) }
             }
         }
+        .bookList()
     }
 
     /// The picked round's totals and a button to open its card.
@@ -95,6 +97,7 @@ struct PastRoundsView: View {
                 .frame(maxWidth: 560)
                 .frame(maxWidth: .infinity)
             }
+            .paperBackground()
             .accessibilityElement(children: .contain)
             .accessibilityIdentifier("round-detail")
         } else {
@@ -109,20 +112,20 @@ struct PastRoundsView: View {
         let toPar = library.course(id: round.courseID).flatMap { grid.toPar(player: 0, course: $0) }
         return HStack(spacing: 12) {
             VStack(alignment: .leading, spacing: 3) {
-                Text(round.courseName).font(.headline)
-                Text(subtitle(round)).font(.subheadline).foregroundStyle(.secondary)
+                Text(round.courseName).font(Book.title(18, relativeTo: .headline))
+                Text(subtitle(round)).font(.subheadline).foregroundStyle(Book.pencil)
                 if !round.isFinished {
                     Text(played == 0 ? "Not started" : "Unfinished · thru \(played)")
                         .font(.caption.weight(.semibold))
-                        .foregroundStyle(.orange)
+                        .foregroundStyle(Book.red)
                 }
             }
             Spacer()
             if total > 0 {
                 VStack(alignment: .trailing, spacing: 0) {
-                    Text("\(total)").font(.title2.bold().monospacedDigit())
+                    Text("\(total)").font(.title2.bold())
                     if let toPar {
-                        Text(RoundSummaryView.toParText(toPar)).font(.caption).foregroundStyle(.secondary)
+                        Text(RoundSummaryView.toParText(toPar)).font(.caption).foregroundStyle(Book.pencil)
                     }
                 }
             }

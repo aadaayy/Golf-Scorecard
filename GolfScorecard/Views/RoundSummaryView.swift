@@ -18,7 +18,7 @@ struct RoundSummaryView: View {
                     if onSave != nil, holesMissing > 0 {
                         Text("\(holesMissing) holes have no score yet. You can still save; the totals count the holes you scored.")
                             .font(.footnote)
-                            .foregroundStyle(.secondary)
+                            .foregroundStyle(Book.pencil)
                             .multilineTextAlignment(.center)
                     }
                 }
@@ -26,6 +26,7 @@ struct RoundSummaryView: View {
                 .frame(maxWidth: 560)
                 .frame(maxWidth: .infinity)
             }
+            .paperBackground()
             .navigationTitle(onSave == nil ? "Summary" : "Finish round")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
@@ -68,9 +69,10 @@ struct RoundTotals: View {
     var body: some View {
         VStack(spacing: 16) {
             VStack(spacing: 4) {
-                Text(round.courseName).font(.title2.bold()).multilineTextAlignment(.center)
+                Text(round.courseName).font(Book.title(24, relativeTo: .title2)).multilineTextAlignment(.center)
                 Text("\(round.date.formatted(date: .abbreviated, time: .omitted)) · \(round.tee) tees · Par \(course.par(holes: 1...18))")
-                    .foregroundStyle(.secondary)
+                    .foregroundStyle(Book.pencil)
+                    .multilineTextAlignment(.center)
             }
             .padding(.top, 8)
 
@@ -88,10 +90,10 @@ struct RoundTotals: View {
         let played = grid.holesPlayed(player: p, holes: 1...18)
         return VStack(spacing: 12) {
             HStack(alignment: .firstTextBaseline) {
-                Text(round.players[p]).font(.title3.weight(.semibold))
+                Text(round.players[p]).font(Book.title(21, relativeTo: .title3))
                 Spacer()
                 if played > 0 && played < course.holes.count {
-                    Text("Thru \(played)").foregroundStyle(.secondary)
+                    Text("Thru \(played)").foregroundStyle(Book.pencil)
                 }
             }
             HStack(spacing: 0) {
@@ -107,7 +109,7 @@ struct RoundTotals: View {
             }
         }
         .padding()
-        .background(.quaternary.opacity(0.6), in: RoundedRectangle(cornerRadius: 16))
+        .bookBox(cornerRadius: 16)
     }
 
     /// Gross minus handicap strokes, for a full round or a full nine.
@@ -120,10 +122,11 @@ struct RoundTotals: View {
     private func figure(_ label: String, _ value: String, big: Bool = false) -> some View {
         VStack(spacing: 2) {
             Text(value)
-                .font(.system(size: big ? 40 : 26, weight: .bold, design: .rounded).monospacedDigit())
+                .font(.system(size: big ? 40 : 26, weight: .bold, design: .monospaced))
+                .foregroundStyle(big ? Book.red : Book.ink)
                 .lineLimit(1)
                 .minimumScaleFactor(0.6)
-            Text(label).font(.caption).foregroundStyle(.secondary)
+            Text(label.uppercased()).font(.caption.weight(.semibold)).foregroundStyle(Book.pencil)
         }
         .frame(maxWidth: .infinity)
         .accessibilityElement(children: .combine)

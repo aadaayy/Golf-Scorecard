@@ -58,6 +58,7 @@ struct ProfileView: View {
             }
         }
         .modifier(ExtraSideMargins(isOn: isWide, amount: 24))
+        .bookList()
         .accessibilityIdentifier("profile-sections")
     }
 
@@ -75,13 +76,14 @@ struct ProfileView: View {
                 .contentShape(Rectangle())
             }
             .buttonStyle(.plain)
-            .listRowBackground(picked == section ? Color.accentColor.opacity(0.18) : nil)
+            .bookRow(marked: picked == section)
             .accessibilityAddTraits(picked == section ? .isSelected : [])
             .accessibilityIdentifier("profile-section-\(section.rawValue)")
         } else {
             NavigationLink(value: section) {
                 content()
             }
+            .bookRow()
             .accessibilityIdentifier("profile-section-\(section.rawValue)")
         }
     }
@@ -89,15 +91,16 @@ struct ProfileView: View {
     private var profileHeader: some View {
         HStack(spacing: 14) {
             Text(initials)
-                .font(.title2.weight(.semibold))
-                .foregroundStyle(.white)
+                .font(Book.title(24, relativeTo: .title2))
+                .foregroundStyle(Book.paper)
                 .frame(width: 56, height: 56)
-                .background(Color(red: 0.18, green: 0.49, blue: 0.24), in: Circle())
+                .background(Book.ink, in: Circle())
+                .overlay(Circle().stroke(Book.red, lineWidth: 2).padding(3))
             VStack(alignment: .leading, spacing: 2) {
                 Text(playerName.isEmpty ? "Your name" : playerName)
-                    .font(.title3.weight(.semibold))
-                    .foregroundStyle(playerName.isEmpty ? .secondary : .primary)
-                Text(handicapLine).font(.subheadline).foregroundStyle(.secondary)
+                    .font(Book.title(21, relativeTo: .title3))
+                    .foregroundStyle(playerName.isEmpty ? Book.pencil : Book.ink)
+                Text(handicapLine).font(.subheadline).foregroundStyle(Book.pencil)
             }
         }
         .padding(.vertical, 4)
@@ -118,12 +121,12 @@ struct ProfileView: View {
         page(picked)
             .safeAreaInset(edge: .top, spacing: 0) {
                 Text(picked.title)
-                    .font(.title2.bold())
+                    .font(Book.title(24, relativeTo: .title2))
                     .frame(maxWidth: .infinity, alignment: .leading)
                     .padding(.horizontal, 32)
                     .padding(.top, 12)
                     .padding(.bottom, 4)
-                    .background(Color(.systemGroupedBackground))
+                    .background(Book.paper)
                     .accessibilityIdentifier("profile-page-title")
             }
             .id(picked)
@@ -141,6 +144,7 @@ struct ProfileView: View {
             }
         }
         .modifier(ExtraSideMargins(isOn: isWide, amount: 24))
+        .bookList()
     }
 }
 
@@ -164,19 +168,14 @@ enum ProfileSection: String, CaseIterable, Identifiable, Hashable {
         case .profile: "person.fill"
         case .playing: "flag.fill"
         case .round: "lock.iphone"
-        case .history: "clock.arrow.circlepath"
+        case .history: "book.closed.fill"
         case .about: "info"
         }
     }
 
+    /// The symbol's ink: red for the flag, like the flag on a yardage book page.
     var color: Color {
-        switch self {
-        case .profile: Color(red: 0.18, green: 0.49, blue: 0.24)
-        case .playing: .green
-        case .round: .orange
-        case .history: .blue
-        case .about: .gray
-        }
+        self == .playing ? Book.red : Book.ink
     }
 }
 
@@ -195,16 +194,18 @@ private struct ExtraSideMargins: ViewModifier {
     }
 }
 
-/// A white symbol on a small colored square, like the iPhone's Settings.
+/// A symbol in ink on a small square of paper with an ink edge, like a
+/// stamp in a yardage book.
 private struct SectionIcon: View {
     let section: ProfileSection
 
     var body: some View {
         Image(systemName: section.symbol)
             .font(.system(size: 14, weight: .semibold))
-            .foregroundStyle(.white)
+            .foregroundStyle(section.color)
             .frame(width: 28, height: 28)
-            .background(section.color, in: RoundedRectangle(cornerRadius: 7))
+            .background(Book.shade, in: RoundedRectangle(cornerRadius: 7))
+            .overlay(RoundedRectangle(cornerRadius: 7).stroke(Book.ink, lineWidth: 1))
     }
 }
 
@@ -215,30 +216,33 @@ private struct MyProfilePage: View {
 
     var body: some View {
         Form {
-            Section {
-                LabeledContent {
-                    TextField("Your name", text: $playerName)
-                        .multilineTextAlignment(.trailing)
-                        .textInputAutocapitalization(.words)
-                        .accessibilityIdentifier("profile-name")
-                } label: {
-                    Label("Name", systemImage: "person")
-                }
-                LabeledContent {
-                    TextField("None", text: $handicap)
-                        .multilineTextAlignment(.trailing)
-                        .keyboardType(.numbersAndPunctuation)
-                        .accessibilityIdentifier("profile-handicap")
-                } label: {
-                    Label("Handicap", systemImage: "number")
-                }
-            } footer: {
-                if handicapIsValid {
-                    Text("Your name goes on the card as the first player. Your handicap is only used for your net score when you finish a round.")
-                } else {
-                    Text("Use a number like 14.2, or +1.5 for a plus handicap.").foregroundStyle(.red)
+            Group {
+                Section {
+                    LabeledContent {
+                        TextField("Your name", text: $playerName)
+                            .multilineTextAlignment(.trailing)
+                            .textInputAutocapitalization(.words)
+                            .accessibilityIdentifier("profile-name")
+                    } label: {
+                        Label("Name", systemImage: "person")
+                    }
+                    LabeledContent {
+                        TextField("None", text: $handicap)
+                            .multilineTextAlignment(.trailing)
+                            .keyboardType(.numbersAndPunctuation)
+                            .accessibilityIdentifier("profile-handicap")
+                    } label: {
+                        Label("Handicap", systemImage: "number")
+                    }
+                } footer: {
+                    if handicapIsValid {
+                        Text("Your name goes on the card as the first player. Your handicap is only used for your net score when you finish a round.")
+                    } else {
+                        Text("Use a number like 14.2, or +1.5 for a plus handicap.").foregroundStyle(Book.red)
+                    }
                 }
             }
+            .listRowBackground(Book.page)
         }
     }
 
@@ -255,25 +259,28 @@ private struct PlayingPage: View {
 
     var body: some View {
         Form {
-            Section {
-                Picker(selection: $usualTee) {
-                    ForEach(allTees, id: \.self) { Text($0).tag($0) }
-                } label: {
-                    Label("Usual tee", systemImage: "flag")
+            Group {
+                Section {
+                    Picker(selection: $usualTee) {
+                        ForEach(allTees, id: \.self) { Text($0).tag($0) }
+                    } label: {
+                        Label("Usual tee", systemImage: "flag")
+                    }
+                } footer: {
+                    Text("Picked first when you start a round, if the course has it.")
                 }
-            } footer: {
-                Text("Picked first when you start a round, if the course has it.")
-            }
-            Section {
-                Picker(selection: $openLayout) {
-                    Text("Hole").tag(OpenLayout.hole)
-                    Text("Nine").tag(OpenLayout.nine)
-                } label: {
-                    Label("Open or sideways", systemImage: "rectangle.split.2x1")
+                Section {
+                    Picker(selection: $openLayout) {
+                        Text("Hole").tag(OpenLayout.hole)
+                        Text("Nine").tag(OpenLayout.nine)
+                    } label: {
+                        Label("Open or sideways", systemImage: "rectangle.split.2x1")
+                    }
+                } footer: {
+                    Text("With the Duo open or the phone sideways, Hole shows your score beside the hole you're on, and Nine shows the card beside all nine holes. You can switch during a round too.")
                 }
-            } footer: {
-                Text("With the Duo open or the phone sideways, Hole shows your score beside the hole you're on, and Nine shows the card beside all nine holes. You can switch during a round too.")
             }
+            .listRowBackground(Book.page)
         }
     }
 
@@ -295,26 +302,29 @@ private struct DuringRoundPage: View {
 
     var body: some View {
         Form {
-            Section {
-                Toggle(isOn: $showOnLockScreen) {
-                    Label("Show round on Lock Screen", systemImage: "lock.iphone")
+            Group {
+                Section {
+                    Toggle(isOn: $showOnLockScreen) {
+                        Label("Show round on Lock Screen", systemImage: "lock.iphone")
+                    }
+                    .accessibilityIdentifier("profile-lock-screen")
+                } footer: {
+                    if ActivityAuthorizationInfo().areActivitiesEnabled {
+                        Text("The hole you're on and your score stay on the Lock Screen during a round. Tap it to go straight back to that hole.")
+                    } else {
+                        Text("Live Activities are turned off for Yardage Book. Turn them on in the iPhone's Settings app, under Yardage Book.")
+                    }
                 }
-                .accessibilityIdentifier("profile-lock-screen")
-            } footer: {
-                if ActivityAuthorizationInfo().areActivitiesEnabled {
-                    Text("The hole you're on and your score stay on the Lock Screen during a round. Tap it to go straight back to that hole.")
-                } else {
-                    Text("Live Activities are turned off for Scorecard. Turn them on in the iPhone's Settings app, under Scorecard.")
+                Section {
+                    Toggle(isOn: $keepAwake) {
+                        Label("Keep screen on", systemImage: "sun.max")
+                    }
+                    .accessibilityIdentifier("profile-keep-awake")
+                } footer: {
+                    Text("Stops the screen dimming while a round is open. It uses more battery, so it's off unless you turn it on, here or on the round's Lock Screen card.")
                 }
             }
-            Section {
-                Toggle(isOn: $keepAwake) {
-                    Label("Keep screen on", systemImage: "sun.max")
-                }
-                .accessibilityIdentifier("profile-keep-awake")
-            } footer: {
-                Text("Stops the screen dimming while a round is open. It uses more battery, so it's off unless you turn it on, here or on the round's Lock Screen card.")
-            }
+            .listRowBackground(Book.page)
         }
         .onChange(of: showOnLockScreen) {
             if !showOnLockScreen { LiveRound.end() }
@@ -329,22 +339,25 @@ private struct HistoryPage: View {
 
     var body: some View {
         Form {
-            Section {
-                LabeledContent("Rounds finished", value: "\(finished.count)")
-                LabeledContent("Rounds in progress", value: "\(rounds.count - finished.count)")
-                LabeledContent("Best 18 holes", value: best(holes: 18).map { "\($0)" } ?? "None yet")
-                LabeledContent("Best 9 holes", value: best(holes: 9).map { "\($0)" } ?? "None yet")
-            } footer: {
-                Text("Your own scores, from rounds on this phone.")
-            }
-            Section {
-                Button {
-                    onShowPastRounds()
-                } label: {
-                    Label("See Past Rounds", systemImage: "clock.arrow.circlepath")
+            Group {
+                Section {
+                    LabeledContent("Rounds finished", value: "\(finished.count)")
+                    LabeledContent("Rounds in progress", value: "\(rounds.count - finished.count)")
+                    LabeledContent("Best 18 holes", value: best(holes: 18).map { "\($0)" } ?? "None yet")
+                    LabeledContent("Best 9 holes", value: best(holes: 9).map { "\($0)" } ?? "None yet")
+                } footer: {
+                    Text("Your own scores, from rounds on this phone.")
                 }
-                .accessibilityIdentifier("profile-past-rounds")
+                Section {
+                    Button {
+                        onShowPastRounds()
+                    } label: {
+                        Label("See Past Rounds", systemImage: "clock.arrow.circlepath")
+                    }
+                    .accessibilityIdentifier("profile-past-rounds")
+                }
             }
+            .listRowBackground(Book.page)
         }
     }
 
@@ -370,34 +383,37 @@ private struct AboutPage: View {
 
     var body: some View {
         Form {
-            Section {
-                VStack(spacing: 8) {
-                    AppMark(size: 64)
-                    Text("Scorecard").font(.title3.bold())
-                }
-                .frame(maxWidth: .infinity)
-                .padding(.vertical, 6)
-            }
-            Section {
-                LabeledContent {
-                    Text(Self.version)
-                } label: {
-                    Label("Version", systemImage: "info.circle")
-                }
-                if let url = AppInfo.courseRequestURL, !AppInfo.courseRequestEmail.isEmpty {
-                    Link(destination: url) {
-                        Label("Request a Course", systemImage: "envelope")
+            Group {
+                Section {
+                    VStack(spacing: 8) {
+                        AppMark(size: 64)
+                        Text("Yardage Book").font(Book.title(22, relativeTo: .title3))
                     }
+                    .frame(maxWidth: .infinity)
+                    .padding(.vertical, 6)
                 }
-            } footer: {
-                Text("Don't see your course in Find Courses? Ask for it and it may be added.")
+                Section {
+                    LabeledContent {
+                        Text(Self.version)
+                    } label: {
+                        Label("Version", systemImage: "info.circle")
+                    }
+                    if let url = AppInfo.courseRequestURL, !AppInfo.courseRequestEmail.isEmpty {
+                        Link(destination: url) {
+                            Label("Request a Course", systemImage: "envelope")
+                        }
+                    }
+                } footer: {
+                    Text("Don't see your course in Find Courses? Ask for it and it may be added.")
+                }
+                Section {
+                    Button("Erase Everything", role: .destructive) { confirmingErase = true }
+                        .accessibilityIdentifier("erase-everything")
+                } footer: {
+                    Text("Deletes every round, setting and downloaded course, and starts the app fresh.")
+                }
             }
-            Section {
-                Button("Erase Everything", role: .destructive) { confirmingErase = true }
-                    .accessibilityIdentifier("erase-everything")
-            } footer: {
-                Text("Deletes every round, setting and downloaded course, and starts the app fresh.")
-            }
+            .listRowBackground(Book.page)
         }
         .confirmationDialog("Erase everything?", isPresented: $confirmingErase, titleVisibility: .visible) {
             Button("Erase Everything", role: .destructive, action: eraseEverything)

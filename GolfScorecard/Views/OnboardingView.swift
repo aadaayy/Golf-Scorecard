@@ -58,53 +58,53 @@ struct OnboardingView: View {
             .accessibilityIdentifier(page == 2 ? "onboarding-done" : "onboarding-next")
         }
         .frame(maxWidth: .infinity)
-        .background(Color(.systemBackground))
+        .paperBackground()
     }
 
     private var welcome: some View {
         VStack(spacing: 20) {
             AppMark(size: 120)
-            Text("Scorecard").font(.largeTitle.bold())
-            Text("Your paper scorecard, on your phone. Pick a course, tap in your scores, and keep the card when you're done.")
+            Text("Yardage Book").font(Book.title(36, relativeTo: .largeTitle))
+            Text("Your yardage book and score card in one. Pick a course, see every hole, tap in your scores, and keep the card when you're done.")
                 .font(.title3)
                 .multilineTextAlignment(.center)
-                .foregroundStyle(.secondary)
+                .foregroundStyle(Book.pencil)
         }
     }
 
     private var aboutYou: some View {
         VStack(alignment: .leading, spacing: 20) {
-            Text("Who's playing?").font(.largeTitle.bold())
+            Text("Who's playing?").font(Book.title(32, relativeTo: .largeTitle))
             VStack(alignment: .leading, spacing: 6) {
                 Text("Your name").font(.headline)
                 TextField("Name", text: $playerName)
                     .textContentType(.givenName)
                     .textInputAutocapitalization(.words)
                     .padding(12)
-                    .background(.quaternary.opacity(0.6), in: RoundedRectangle(cornerRadius: 10))
+                    .bookBox(cornerRadius: 10)
                     .accessibilityIdentifier("onboarding-name")
-                Text("Goes on the card as the first player.").font(.footnote).foregroundStyle(.secondary)
+                Text("Goes on the card as the first player.").font(.footnote).foregroundStyle(Book.pencil)
             }
             VStack(alignment: .leading, spacing: 6) {
                 Text("Handicap (optional)").font(.headline)
                 TextField("For example 14.2", text: $handicap)
                     .keyboardType(.numbersAndPunctuation)
                     .padding(12)
-                    .background(.quaternary.opacity(0.6), in: RoundedRectangle(cornerRadius: 10))
+                    .bookBox(cornerRadius: 10)
                     .accessibilityIdentifier("onboarding-handicap")
                 Text(handicapIsValid ? "Only used to show your net score when you finish a round." : "Use a number like 14.2, or +1.5 for a plus handicap.")
                     .font(.footnote)
-                    .foregroundStyle(handicapIsValid ? Color.secondary : Color.red)
+                    .foregroundStyle(handicapIsValid ? Book.pencil : Book.red)
             }
         }
     }
 
     private var openView: some View {
         VStack(spacing: 20) {
-            Text("When the phone is open").font(.largeTitle.bold()).multilineTextAlignment(.center)
+            Text("When the phone is open").font(Book.title(32, relativeTo: .largeTitle)).multilineTextAlignment(.center)
             Text("Open the Duo or turn any iPhone sideways during a round and you get two halves. Pick which you see first. You can switch any time.")
                 .multilineTextAlignment(.center)
-                .foregroundStyle(.secondary)
+                .foregroundStyle(Book.pencil)
             HStack(spacing: 12) {
                 layoutChoice(.hole, title: "Hole", detail: "Big score for the hole you're on, and its map", symbol: "flag.fill")
                 layoutChoice(.nine, title: "Nine", detail: "The whole card, and all nine holes", symbol: "square.grid.3x3.fill")
@@ -118,14 +118,14 @@ struct OnboardingView: View {
             openLayout = layout
         } label: {
             VStack(spacing: 8) {
-                Image(systemName: symbol).font(.system(size: 34))
-                Text(title).font(.title3.bold())
-                Text(detail).font(.footnote).multilineTextAlignment(.center).foregroundStyle(.secondary)
+                Image(systemName: symbol).font(.system(size: 34)).foregroundStyle(picked ? Book.red : Book.ink)
+                Text(title).font(Book.title(22, relativeTo: .title3))
+                Text(detail).font(.footnote).multilineTextAlignment(.center).foregroundStyle(Book.pencil)
             }
             .frame(maxWidth: .infinity, minHeight: 150)
             .padding(12)
-            .background(picked ? Color.accentColor.opacity(0.15) : Color.secondary.opacity(0.08), in: RoundedRectangle(cornerRadius: 16))
-            .overlay(RoundedRectangle(cornerRadius: 16).stroke(picked ? Color.accentColor : .clear, lineWidth: 2))
+            .background(picked ? Book.markedRow : Book.page, in: RoundedRectangle(cornerRadius: 16))
+            .overlay(RoundedRectangle(cornerRadius: 16).stroke(picked ? Book.red : Book.ink.opacity(0.4), lineWidth: picked ? 2 : 1))
         }
         .buttonStyle(.plain)
         .accessibilityAddTraits(picked ? .isSelected : [])
@@ -136,7 +136,7 @@ struct OnboardingView: View {
         HStack(spacing: 8) {
             ForEach(0..<3, id: \.self) { index in
                 Circle()
-                    .fill(index == page ? Color.accentColor : Color.secondary.opacity(0.3))
+                    .fill(index == page ? Book.red : Book.ink.opacity(0.25))
                     .frame(width: 8, height: 8)
             }
         }
@@ -148,24 +148,18 @@ struct OnboardingView: View {
     }
 }
 
-/// The app's mark: a flag on a paper card, as on the app icon.
+/// The app's mark: the app icon's yardage book page, a hole drawn in ink
+/// with a red flag and a yardage arc.
 struct AppMark: View {
     var size: CGFloat
 
     var body: some View {
-        ZStack {
-            RoundedRectangle(cornerRadius: size * 0.22)
-                .fill(Color(red: 0.18, green: 0.49, blue: 0.24))
-            RoundedRectangle(cornerRadius: size * 0.06)
-                .fill(Color(red: 0.98, green: 0.97, blue: 0.92))
-                .frame(width: size * 0.58, height: size * 0.66)
-                .rotationEffect(.degrees(-6))
-            Image(systemName: "flag.fill")
-                .font(.system(size: size * 0.32))
-                .foregroundStyle(Color(red: 0.85, green: 0.16, blue: 0.20))
-                .offset(x: size * 0.03)
-        }
-        .frame(width: size, height: size)
-        .accessibilityHidden(true)
+        Image("BookMark")
+            .resizable()
+            .interpolation(.high)
+            .frame(width: size, height: size)
+            .clipShape(RoundedRectangle(cornerRadius: size * 0.22))
+            .overlay(RoundedRectangle(cornerRadius: size * 0.22).stroke(Book.ink.opacity(0.6), lineWidth: 1))
+            .accessibilityHidden(true)
     }
 }

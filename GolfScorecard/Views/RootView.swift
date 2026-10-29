@@ -22,15 +22,15 @@ struct RootView: View {
 
     var body: some View {
         TabView(selection: $tab) {
-            Tab("Play", systemImage: "figure.golf", value: AppTab.play) {
+            Tab("Play", systemImage: "flag", value: AppTab.play) {
                 HomeView()
             }
-            Tab("Past Rounds", systemImage: "clock.arrow.circlepath", value: AppTab.pastRounds) {
+            Tab("Past Rounds", systemImage: "book.closed", value: AppTab.pastRounds) {
                 NavigationStack {
                     PastRoundsView()
                 }
             }
-            Tab("Profile", systemImage: "person.crop.circle", value: AppTab.profile) {
+            Tab("Profile", systemImage: "person", value: AppTab.profile) {
                 NavigationStack {
                     ProfileView(onErase: {
                         tab = .play

@@ -21,7 +21,7 @@ struct LockScreenCardPreview: View {
                     .font(.system(size: 88, weight: .bold, design: .rounded))
                 Spacer().frame(height: 28)
                 RoundActivityView(courseName: "Pompano Beach Pines Course", state: state)
-                    .background(Color.black.opacity(0.55), in: RoundedRectangle(cornerRadius: 24))
+                    .background(Book.paper, in: RoundedRectangle(cornerRadius: 24))
                     .padding(.horizontal, 12)
                     .accessibilityIdentifier("lock-screen-card")
             }
