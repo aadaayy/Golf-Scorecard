@@ -168,6 +168,8 @@ jobs:
               for a in test.get("attachments", []):
                   try:
                       step = a["suggestedHumanReadableName"].split("_0_")[0]
+                      # Artifact names can't hold quotes, colons and the like (a failed test's own attachments do)
+                      step = "".join(c for c in step if c not in '"<>|*?:\\/\r\n')
                       shutil.copy(f"screenshots/{a['exportedFileName']}", f"publish/{a.get('deviceName', 'iPhone')} - {step}.png")
                   except Exception as error:
                       print(f"::warning title=Screenshot skipped::{error}")

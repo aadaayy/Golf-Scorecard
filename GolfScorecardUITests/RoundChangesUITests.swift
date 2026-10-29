@@ -135,8 +135,8 @@ final class RoundChangesUITests: XCTestCase {
         let preview = XCUIApplication()
         preview.launchArguments = ["-uiTesting", "-skipOnboarding", "-lockScreenPreview"]
         preview.launch()
-        XCTAssertTrue(preview.otherElements["lock-screen-card"].waitForExistence(timeout: 15) || preview.switches.firstMatch.waitForExistence(timeout: 5),
-                      "The Lock Screen card preview is missing")
+        XCTAssertTrue(preview.staticTexts["Hole 9"].waitForExistence(timeout: 15), "The Lock Screen card preview is missing")
+        XCTAssertTrue(preview.buttons["Keep screen on"].exists, "The card is missing Keep screen on")
         sleep(1)
         capture("l1-lock-screen-card-preview")
         preview.terminate()
