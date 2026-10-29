@@ -14,8 +14,7 @@ struct LockScreenCardPreview: View {
 
     var body: some View {
         ZStack(alignment: .top) {
-            LinearGradient(colors: [Color(red: 0.05, green: 0.18, blue: 0.10), .black], startPoint: .top, endPoint: .bottom)
-                .opacity(alwaysOn ? 0.3 : 1)
+            LinearGradient(colors: [alwaysOn ? .black : Color(red: 0.05, green: 0.18, blue: 0.10), .black], startPoint: .top, endPoint: .bottom)
                 .ignoresSafeArea()
             VStack(spacing: 4) {
                 Text(Date.now, format: .dateTime.weekday(.wide).month().day())
