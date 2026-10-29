@@ -8,9 +8,10 @@ A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, o
 2. Three tabs: Play, Past Rounds and Profile. On the iPhone Duo they sit in the strip at the side of the screen, under Back. Play resumes an unfinished round or picks a course; open or sideways, the picked course shows on the right, and Past Rounds and Profile use both halves too.
 3. Find Courses (on Play): search the course library by name or town and download a course. Downloaded courses show on Play, work offline, update themselves when the library has a newer copy, and can be removed with a swipe. Pompano Beach Pines is also built in, so the app works on first launch with no signal.
 4. Start a round: tee, and up to four players (you're first; people you've played with are a tap away).
-5. The round: card and map (see below), then Finish for a summary with Out, In, Total, to par and net.
-6. Past rounds: every round, newest first. Finished cards stay locked until Edit.
-7. Profile & Settings: name, handicap, usual tee, Hole or Nine, keep the screen on, version, and Erase Everything.
+5. The round: card and map (see below), then Finish for a summary with Out, In, Total, to par and net. Delete (in red) throws away a round you have to leave part way through, after asking first.
+6. The Lock Screen card (a Live Activity) during a round: the hole you're on, your score, and a Keep screen on switch. Tap it to go straight back to that hole. It can be turned off in Profile.
+7. Past rounds: every round, newest first. Finished cards stay locked until Edit.
+8. Profile & Settings, laid out like the iPhone's Settings: My Profile (name, handicap), Playing (usual tee, Hole or Nine), During a Round (Lock Screen card, keep the screen on, which starts off to save battery), History, and About (version, Erase Everything). Open or sideways, the sections are on the left and the picked one on the right.
 
 ## Run it on your iPhone Duo (free Apple account)
 
@@ -21,8 +22,8 @@ You need a Mac with Xcode 27.1 or later (macOS Tahoe 26.6 or later). No simulato
 1. In Xcode, choose Integrate > Clone, paste `https://github.com/aadaayy/golf-scorecard`, and pick a folder.
 2. Open `GolfScorecard.xcodeproj` if it doesn't open by itself.
 3. Xcode Settings > Accounts: sign in with your Apple account. A free account works; Xcode calls it a Personal Team.
-4. Click the blue GolfScorecard project at the top of the file list, select the GolfScorecard target, open Signing & Capabilities, and pick your Personal Team.
-5. If Xcode says the bundle identifier is taken, change `com.albertoaday.golfscorecard` to something unique to you.
+4. Click the blue GolfScorecard project at the top of the file list, open Signing & Capabilities, and pick your Personal Team for both targets: GolfScorecard and RoundActivity (the Lock Screen card).
+5. If Xcode says the bundle identifier is taken, change `com.albertoaday.golfscorecard` to something unique to you, and RoundActivity's to the same thing followed by `.RoundActivity`.
 6. Plug the Duo into the Mac with a cable and tap Trust on the phone.
 7. On the Duo: Settings > Privacy & Security > Developer Mode, turn it on and restart when asked.
 8. In Xcode, pick your Duo from the device menu at the top and press Run (the play button).
@@ -77,6 +78,9 @@ Phones can only download from a public repository. Before making this one privat
 - `GolfScorecard/Core`: course format and scoring math (plain Swift, also tested on Linux)
 - `GolfScorecard/Models`: saved rounds (SwiftData, on the phone only), the courses on the phone, and the course library
 - `GolfScorecard/Views`: the screens
+- `Shared`: the round's Lock Screen card and its Keep screen on switch, used by both the app and the RoundActivity extension
+- `RoundActivity`: the widget extension that draws the Lock Screen card
+- `Config`: Info.plist settings that can't be build settings (Live Activities, the `golfscorecard://` link the card opens)
 - `GolfScorecard/Courses`: one JSON file per course (Pompano Beach Pines so far)
 - `Tools/HoleDrawings`: redraws a card's hole diagrams as vector drawings
 - `Tools/CourseLibrary`: checks a course library folder and writes its index

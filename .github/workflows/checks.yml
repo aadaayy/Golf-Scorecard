@@ -173,7 +173,7 @@ jobs:
                       print(f"::warning title=Screenshot skipped::{error}")
           PYNAME
           # Simulator screenshots are always upright; turn the sideways ones
-          for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png publish/*sideways-past-rounds.png publish/*sideways-profile.png publish/*sideways-find-courses.png; do sips -r 270 "$f" >/dev/null || echo "::warning title=Not turned::$f"; done
+          for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png publish/*sideways-past-rounds.png publish/*sideways-profile.png publish/*sideways-find-courses.png publish/*sideways-hole-10.png publish/*sideways-profile-*.png; do sips -r 270 "$f" >/dev/null || echo "::warning title=Not turned::$f"; done
           files=(publish/*.png)
           echo "::notice title=Screenshots::${#files[@]} exported on ${{ matrix.phone }}"
 

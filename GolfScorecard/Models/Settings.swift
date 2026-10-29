@@ -9,10 +9,15 @@ enum SettingsKey {
     static let handicap = "handicap"
     /// The tee picked first when starting a round, if the course has it.
     static let usualTee = "usualTee"
-    static let keepAwake = "keepScreenAwake"
+    /// Keeps the screen from dimming while a round is open. Off unless turned on
+    /// in Profile or on the round's Lock Screen card, to save battery. (A new
+    /// name, so phones that had the old always-on setting start with it off.)
+    static let keepAwake = RoundActivityAttributes.keepScreenOnKey
+    /// Shows the round being played on the Lock Screen (a Live Activity). On unless turned off.
+    static let showOnLockScreen = "showRoundOnLockScreen"
 
     /// Every setting, so "Erase everything" and the UI tests can clear them.
-    static let all = [onboarded, playerName, handicap, usualTee, keepAwake, OpenLayout.storageKey]
+    static let all = [onboarded, playerName, handicap, usualTee, keepAwake, showOnLockScreen, OpenLayout.storageKey]
 
     static func eraseAll() {
         for key in all { UserDefaults.standard.removeObject(forKey: key) }

@@ -92,10 +92,14 @@ final class OutsideRoundUITests: XCTestCase {
         close.tap()
         sleep(1)
 
-        // Profile
+        // Profile: a list of sections, each opening its own page.
         tab("Profile", in: app)
-        XCTAssertTrue(app.buttons["erase-everything"].waitForExistence(timeout: 5), "Profile is missing Erase Everything")
+        let about = app.buttons["profile-section-about"]
+        XCTAssertTrue(about.waitForExistence(timeout: 5), "Profile is missing About")
         capture("h5-profile")
+        about.tap()
+        XCTAssertTrue(app.buttons["erase-everything"].waitForExistence(timeout: 5), "About is missing Erase Everything")
+        back(in: app)
         tab("Play", in: app)
 
         // Pick today's round back up and finish it.
@@ -137,6 +141,9 @@ final class OutsideRoundUITests: XCTestCase {
 
         // Erase everything: the welcome pages come back.
         tab("Profile", in: app)
+        let aboutRow = app.buttons["profile-section-about"]
+        XCTAssertTrue(aboutRow.waitForExistence(timeout: 5), "Profile is missing About")
+        aboutRow.tap()
         let erase = app.buttons["erase-everything"]
         XCTAssertTrue(erase.waitForExistence(timeout: 5))
         erase.tap()
@@ -165,7 +172,7 @@ final class OutsideRoundUITests: XCTestCase {
         capture("h12-open-duo-size-past-rounds")
 
         tab("Profile", in: app)
-        XCTAssertTrue(app.buttons["erase-everything"].waitForExistence(timeout: 5), "Profile is missing Erase Everything")
+        XCTAssertTrue(app.textFields["profile-name"].waitForExistence(timeout: 5), "Open, Profile should show My Profile beside the sections")
         sleep(1)
         capture("h13-open-duo-size-profile")
     }
@@ -175,6 +182,15 @@ final class OutsideRoundUITests: XCTestCase {
         let inBar = app.tabBars.buttons[name]
         let button = inBar.waitForExistence(timeout: 3) ? inBar : app.buttons[name].firstMatch
         XCTAssertTrue(button.waitForExistence(timeout: 5), "The \(name) tab is missing")
+        button.tap()
+        sleep(1)
+    }
+
+    /// The Back button is in the navigation bar on most iPhones and at the side on the Duo.
+    private func back(in app: XCUIApplication) {
+        let side = app.buttons["BackButton"].firstMatch
+        let button = side.exists ? side : app.navigationBars.buttons.element(boundBy: 0)
+        XCTAssertTrue(button.waitForExistence(timeout: 5), "Back is missing")
         button.tap()
         sleep(1)
     }

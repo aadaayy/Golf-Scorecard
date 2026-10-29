@@ -43,12 +43,12 @@ struct HoleScorePane: View {
         let strokes = grid.strokes(player: p, hole: selectedHole)
         let par = hole?.par
         let nine = selectedHole >= 10 ? 10...18 : 1...9
-        let buttonSize = min(72, numberSize * 0.6)
+        let buttonSize = min(64, numberSize * 0.55)
         return VStack(spacing: 8) {
             if round.players.count > 1 {
                 Text(round.players[p]).font(.title2.weight(.semibold))
             }
-            HStack(spacing: 24) {
+            HStack(spacing: 12) {
                 Button {
                     set(max(strokes - 1, 0), player: p)
                 } label: {
@@ -60,9 +60,13 @@ struct HoleScorePane: View {
                 .accessibilityLabel("One less stroke")
                 .accessibilityIdentifier("hole-score-minus-\(p)")
 
+                // One line always: 10 and up shrink to fit rather than wrap.
                 Text(strokes > 0 ? "\(strokes)" : "–")
                     .font(.system(size: numberSize, weight: .bold, design: .rounded).monospacedDigit())
-                    .frame(minWidth: numberSize * 1.2)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.4)
+                    .frame(minWidth: numberSize * 0.7, maxWidth: .infinity)
+                    .layoutPriority(1)
                     .accessibilityIdentifier("hole-score-value-\(p)")
 
                 Button {
