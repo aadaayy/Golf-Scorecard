@@ -107,11 +107,13 @@ struct MapPane: View {
         let underHeight = factsHeight(side: false)
         Group {
             if hasFacts, sideRoom >= Self.sideWidth {
+                // The hole keeps at least half the width, so it stays big enough to read and pinch.
+                let factsWidth = min(sideRoom, 250, max(Self.sideWidth, (drawingArea.width - 20) / 2))
                 HStack(spacing: 20) {
                     ZoomableHoleDrawing(hole: hole, isZoomed: $zoomed)
-                        .frame(width: drawingArea.width - min(sideRoom, 250) - 20)
+                        .frame(width: drawingArea.width - factsWidth - 20)
                     facts(side: true)
-                        .frame(width: min(sideRoom, 250))
+                        .frame(width: factsWidth)
                 }
             } else if hasFacts, drawingArea.height - underHeight >= Self.minDrawingHeight {
                 VStack(spacing: 10) {
