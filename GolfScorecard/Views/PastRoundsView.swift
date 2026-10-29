@@ -91,6 +91,7 @@ struct PastRoundsView: View {
                             .padding(.vertical, 6)
                     }
                     .buttonStyle(.borderedProminent)
+                    .foregroundStyle(Book.paper)
                     .accessibilityIdentifier("open-round")
                 }
                 .padding()

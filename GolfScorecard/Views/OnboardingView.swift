@@ -53,6 +53,7 @@ struct OnboardingView: View {
                     .padding(.vertical, 8)
             }
             .buttonStyle(.borderedProminent)
+            .foregroundStyle(Book.paper)
             .disabled(page == 1 && !handicapIsValid)
             .padding([.horizontal, .bottom], 24)
             .accessibilityIdentifier(page == 2 ? "onboarding-done" : "onboarding-next")

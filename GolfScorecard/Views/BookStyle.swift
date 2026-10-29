@@ -10,15 +10,19 @@ extension Book {
         let titleFont = UIFont(name: "CourierNewPS-BoldMT", size: 19) ?? .monospacedSystemFont(ofSize: 17, weight: .bold)
         let largeFont = UIFont(name: "CourierNewPS-BoldMT", size: 32) ?? .monospacedSystemFont(ofSize: 30, weight: .bold)
 
-        // Navigation bars: solid paper with a thin rule once content scrolls under.
+        // Navigation bars: clear over the paper at the top of a page, then solid
+        // paper with a thin rule once content scrolls under. (An opaque bar at
+        // the top hid the big page titles under a tab bar.)
         let bar = UINavigationBarAppearance()
         bar.configureWithOpaqueBackground()
         bar.backgroundColor = paper
         bar.shadowColor = UIColor(Book.rule)
         bar.titleTextAttributes = [.font: titleFont, .foregroundColor: ink]
         bar.largeTitleTextAttributes = [.font: largeFont, .foregroundColor: ink]
-        let edge = bar.copy()
-        edge.shadowColor = .clear
+        let edge = UINavigationBarAppearance()
+        edge.configureWithTransparentBackground()
+        edge.titleTextAttributes = bar.titleTextAttributes
+        edge.largeTitleTextAttributes = bar.largeTitleTextAttributes
         UINavigationBar.appearance().standardAppearance = bar
         UINavigationBar.appearance().compactAppearance = bar
         UINavigationBar.appearance().scrollEdgeAppearance = edge
@@ -41,17 +45,18 @@ extension Book {
         UITabBar.appearance().scrollEdgeAppearance = tabs
         UITabBar.appearance().tintColor = ink
 
-        // Segmented switches (Front 9 / Back 9, Hole / Nine, Card / Map tees):
-        // the picked side in solid ink, like the mockup's Map button.
+        // Segmented switches (Front 9 / Back 9, Hole / Nine, tees): the picked
+        // side on a lighter sheet in bold ink, readable in the page and in the
+        // glass toolbar alike.
         let segments = UISegmentedControl.appearance()
-        segments.selectedSegmentTintColor = ink
+        segments.selectedSegmentTintColor = UIColor(Book.page)
         segments.backgroundColor = UIColor(Book.shade)
         segments.setTitleTextAttributes([
-            .foregroundColor: paper,
+            .foregroundColor: ink,
             .font: UIFont.monospacedSystemFont(ofSize: 13, weight: .bold),
         ], for: .selected)
         segments.setTitleTextAttributes([
-            .foregroundColor: ink,
+            .foregroundColor: UIColor(Book.pencil),
             .font: UIFont.monospacedSystemFont(ofSize: 13, weight: .medium),
         ], for: .normal)
 

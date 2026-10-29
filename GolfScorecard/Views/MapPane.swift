@@ -98,32 +98,31 @@ struct MapPane: View {
     }
 
     /// The drawing, with the green and the tee yardages beside it or under it
-    /// when there's room for them.
-    @ViewBuilder
+    /// when there's room for them. The drawing stays in one place in the view
+    /// whichever way the facts go, so zooming in (which hides them) keeps its zoom.
     private var drawingAndFacts: some View {
         let aspect = HoleDrawing.aspect(of: hole)
         let sideRoom = drawingArea.width - drawingArea.height * aspect - 20
-        let hasFacts = hole?.map != nil && !zoomed
         let underHeight = factsHeight(side: false)
-        Group {
-            if hasFacts, sideRoom >= Self.sideWidth {
-                // The hole keeps at least half the width, so it stays big enough to read and pinch.
-                let factsWidth = min(sideRoom, 250, max(Self.sideWidth, (drawingArea.width - 20) / 2))
-                HStack(spacing: 20) {
-                    ZoomableHoleDrawing(hole: hole, isZoomed: $zoomed)
-                        .frame(width: drawingArea.width - factsWidth - 20)
+        let hasFacts = hole?.map != nil
+        let beside = hasFacts && sideRoom >= Self.sideWidth
+        let under = hasFacts && !beside && drawingArea.height - underHeight >= Self.minDrawingHeight
+        let showFacts = (beside || under) && !zoomed
+        // The hole keeps at least half the width, so it stays big enough to read and pinch.
+        let factsWidth = min(sideRoom, 250, max(Self.sideWidth, (drawingArea.width - 20) / 2))
+        let layout = beside ? AnyLayout(HStackLayout(spacing: showFacts ? 20 : 0)) : AnyLayout(VStackLayout(spacing: showFacts ? 10 : 0))
+        return layout {
+            ZoomableHoleDrawing(hole: hole, isZoomed: $zoomed)
+                .frame(width: beside && showFacts ? drawingArea.width - factsWidth - 20 : nil)
+            if showFacts {
+                if beside {
                     facts(side: true)
                         .frame(width: factsWidth)
-                }
-            } else if hasFacts, drawingArea.height - underHeight >= Self.minDrawingHeight {
-                VStack(spacing: 10) {
-                    ZoomableHoleDrawing(hole: hole, isZoomed: $zoomed)
+                } else {
                     Rectangle().fill(Book.rule).frame(height: 1)
                     facts(side: false)
                         .frame(height: underHeight - 11)
                 }
-            } else {
-                ZoomableHoleDrawing(hole: hole, isZoomed: $zoomed)
             }
         }
         .animation(.spring(duration: 0.3), value: zoomed)

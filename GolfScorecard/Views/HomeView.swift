@@ -239,6 +239,7 @@ struct CoursePreview: View {
                 .padding(.vertical, 6)
         }
         .buttonStyle(.borderedProminent)
+        .foregroundStyle(Book.paper)
         .accessibilityIdentifier("play-course")
     }
 

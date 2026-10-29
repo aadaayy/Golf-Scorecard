@@ -51,6 +51,7 @@ struct FindCoursesView: View {
             } actions: {
                 Button("Try Again") { Task { await catalog.load() } }
                     .buttonStyle(.borderedProminent)
+                    .foregroundStyle(Book.paper)
                     .accessibilityIdentifier("library-retry")
             }
             .paperBackground()
@@ -187,6 +188,7 @@ struct CourseDownloadStatus: View {
                         .padding(.vertical, 6)
                 }
                 .buttonStyle(.borderedProminent)
+                .foregroundStyle(Book.paper)
                 .accessibilityIdentifier(isUpdate ? "update-\(entry.id)" : "download-\(entry.id)")
             } else {
                 // In a row the whole row is the button, so this is just the sign.
