@@ -87,10 +87,10 @@ final class RoundChangesUITests: XCTestCase {
         XCTAssertTrue(round.waitForExistence(timeout: 5), "Profile is missing During a Round")
         capture("p1-profile")
         round.tap()
-        let keepAwake = app.switches["profile-keep-awake"]
-        XCTAssertTrue(keepAwake.waitForExistence(timeout: 5), "During a Round is missing Keep screen on")
-        XCTAssertEqual(keepAwake.value as? String, "0", "Keep screen on should start off, to save battery")
-        XCTAssertEqual(app.switches["profile-lock-screen"].value as? String, "1", "The Lock Screen card should start on")
+        let lockScreen = app.switches["profile-lock-screen"]
+        XCTAssertTrue(lockScreen.waitForExistence(timeout: 5), "During a Round is missing Show round on Lock Screen")
+        XCTAssertEqual(lockScreen.value as? String, "1", "The Lock Screen card should start on")
+        XCTAssertFalse(app.switches["Keep screen on"].exists, "Keep screen on should be gone from During a Round")
         capture("p2-during-a-round")
         back(in: app)
         app.buttons["profile-section-history"].tap()
@@ -103,7 +103,7 @@ final class RoundChangesUITests: XCTestCase {
         if app.textFields["profile-name"].waitForExistence(timeout: 5) {
             capture("p4-sideways-profile")
             app.buttons["profile-section-round"].tap()
-            XCTAssertTrue(app.switches["profile-keep-awake"].waitForExistence(timeout: 5), "Picking During a Round should show it beside the sections")
+            XCTAssertTrue(app.switches["profile-lock-screen"].waitForExistence(timeout: 5), "Picking During a Round should show it beside the sections")
             capture("p5-sideways-profile-round")
         } else {
             XCTAssertTrue(Self.device.contains("Duo"), "Sideways, Profile should show My Profile beside the sections")
@@ -136,9 +136,15 @@ final class RoundChangesUITests: XCTestCase {
         preview.launchArguments = ["-uiTesting", "-skipOnboarding", "-lockScreenPreview"]
         preview.launch()
         XCTAssertTrue(preview.staticTexts["Hole 9"].waitForExistence(timeout: 15), "The Lock Screen card preview is missing")
-        XCTAssertTrue(preview.buttons["Keep screen on"].exists, "The card is missing Keep screen on")
+        XCTAssertFalse(preview.buttons["Keep screen on"].exists, "The card should no longer have Keep screen on")
         sleep(1)
         capture("l1-lock-screen-card-preview")
+        preview.terminate()
+        preview.launchArguments.append("-alwaysOn")
+        preview.launch()
+        XCTAssertTrue(preview.staticTexts["Hole 9"].waitForExistence(timeout: 15), "The Always-On card preview is missing")
+        sleep(1)
+        capture("l1b-lock-screen-card-always-on")
         preview.terminate()
 
         let app = XCUIApplication()

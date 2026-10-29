@@ -28,9 +28,6 @@ struct RoundLiveActivity: Widget {
                     Text("\(context.state.total) · \(context.state.toParText)")
                         .font(Book.mono(17, weight: .semibold))
                 }
-                DynamicIslandExpandedRegion(.bottom) {
-                    KeepScreenOnButton(isOn: context.state.keepScreenOn, onDark: true)
-                }
             } compactLeading: {
                 Label("\(context.state.hole)", systemImage: "flag.fill")
                     .foregroundStyle(Book.paper)

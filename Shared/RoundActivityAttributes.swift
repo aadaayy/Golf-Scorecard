@@ -17,16 +17,11 @@ struct RoundActivityAttributes: ActivityAttributes {
         var toPar: Int
         /// Holes scored so far.
         var thru: Int
-        var keepScreenOn: Bool
     }
 
     var courseName: String
     /// When the round was started, which tells the app which round to open.
     var roundStart: Double
-
-    /// The setting the Lock Screen toggle changes. The app reads it with
-    /// `@AppStorage(SettingsKey.keepAwake)`.
-    static let keepScreenOnKey = "keepScreenOnDuringRound"
 
     /// Opens the app on this round, at this hole.
     static func openURL(roundStart: Double, hole: Int) -> URL {

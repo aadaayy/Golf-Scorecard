@@ -295,10 +295,9 @@ private struct PlayingPage: View {
     }
 }
 
-/// The round's Lock Screen card and keeping the screen on.
+/// The round's Lock Screen card.
 private struct DuringRoundPage: View {
     @AppStorage(SettingsKey.showOnLockScreen) private var showOnLockScreen = true
-    @AppStorage(SettingsKey.keepAwake) private var keepAwake = false
 
     var body: some View {
         Form {
@@ -314,14 +313,6 @@ private struct DuringRoundPage: View {
                     } else {
                         Text("Live Activities are turned off for Yardage Book. Turn them on in the iPhone's Settings app, under Yardage Book.")
                     }
-                }
-                Section {
-                    Toggle(isOn: $keepAwake) {
-                        Label("Keep screen on", systemImage: "sun.max")
-                    }
-                    .accessibilityIdentifier("profile-keep-awake")
-                } footer: {
-                    Text("Stops the screen dimming while a round is open. It uses more battery, so it's off unless you turn it on, here or on the round's Lock Screen card.")
                 }
             }
             .listRowBackground(Book.page)

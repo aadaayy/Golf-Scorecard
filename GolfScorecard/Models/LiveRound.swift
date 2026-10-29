@@ -58,8 +58,7 @@ enum LiveRound {
             strokes: grid.strokes(player: 0, hole: hole),
             total: grid.total(player: 0, holes: 1...StrokeGrid.holeCount),
             toPar: toPar,
-            thru: thru,
-            keepScreenOn: UserDefaults.standard.bool(forKey: SettingsKey.keepAwake)
+            thru: thru
         )
     }
 }

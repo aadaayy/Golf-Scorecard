@@ -11,9 +11,9 @@ A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, o
 3. Find Courses (on Play): search the course library by name or town and download a course. Downloaded courses show on Play, work offline, update themselves when the library has a newer copy, and can be removed with a swipe. Pompano Beach Pines is also built in, so the app works on first launch with no signal.
 4. Start a round: tee, and up to four players (you're first; people you've played with are a tap away).
 5. The round: card and map (see below), then Finish for a summary with Out, In, Total, to par and net. Delete (in red) throws away a round you have to leave part way through, after asking first.
-6. The Lock Screen card (a Live Activity) during a round: the hole you're on, your score, and a Keep screen on switch. Tap it to go straight back to that hole. It can be turned off in Profile.
+6. The Lock Screen card (a Live Activity) during a round: the hole you're on and your score. Tap it to go straight back to that hole. It can be turned off in Profile.
 7. Past rounds: every round, newest first. Finished cards stay locked until Edit.
-8. Profile & Settings, laid out like the iPhone's Settings: My Profile (name, handicap), Playing (usual tee, Hole or Nine), During a Round (Lock Screen card, keep the screen on, which starts off to save battery), History, and About (version, Erase Everything). Open or sideways, the sections are on the left and the picked one on the right.
+8. Profile & Settings, laid out like the iPhone's Settings: My Profile (name, handicap), Playing (usual tee, Hole or Nine), During a Round (show the round on the Lock Screen), History, and About (version, Erase Everything). Open or sideways, the sections are on the left and the picked one on the right.
 
 ## Run it on your iPhone Duo (free Apple account)
 
@@ -80,7 +80,7 @@ Phones can only download from a public repository. Before making this one privat
 - `GolfScorecard/Core`: course format and scoring math (plain Swift, also tested on Linux)
 - `GolfScorecard/Models`: saved rounds (SwiftData, on the phone only), the courses on the phone, and the course library
 - `GolfScorecard/Views`: the screens
-- `Shared`: the round's Lock Screen card and its Keep screen on switch, used by both the app and the RoundActivity extension
+- `Shared`: the round's Lock Screen card, used by both the app and the RoundActivity extension
 - `RoundActivity`: the widget extension that draws the Lock Screen card
 - `Config`: Info.plist settings that can't be build settings (Live Activities, the `golfscorecard://` link the card opens)
 - `GolfScorecard/Courses`: one JSON file per course (Pompano Beach Pines so far)

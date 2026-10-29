@@ -18,7 +18,6 @@ struct RoundView: View {
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
     @AppStorage(OpenLayout.storageKey) private var openLayout = OpenLayout.nine
-    @AppStorage(SettingsKey.keepAwake) private var keepAwake = false
     @State private var selectedHole = 1
     @State private var selectedPlayer = 0
     /// Finished rounds open locked, so a look at an old card can't change it by accident.
@@ -85,16 +84,14 @@ struct RoundView: View {
             } else if round.lastScoredHole > 0 {
                 selectedHole = round.lastScoredHole
             }
-            updateScreenAndLockScreen()
+            updateLockScreen()
         }
-        .onChange(of: selectedHole) { updateScreenAndLockScreen() }
-        .onChange(of: round.strokes) { updateScreenAndLockScreen() }
-        .onChange(of: keepAwake) { updateScreenAndLockScreen() }
+        .onChange(of: selectedHole) { updateLockScreen() }
+        .onChange(of: round.strokes) { updateLockScreen() }
         .onReceive(NotificationCenter.default.publisher(for: .showLiveRoundHole)) { note in
             if let hole = note.object as? Int { selectedHole = hole }
         }
         .onDisappear {
-            UIApplication.shared.isIdleTimerDisabled = false
             if deleteWhenClosed {
                 modelContext.delete(round)
                 try? modelContext.save()
@@ -102,12 +99,9 @@ struct RoundView: View {
         }
     }
 
-    /// The screen stays on during a round only when the golfer asked for it
-    /// (in Profile or on the Lock Screen card), and the Lock Screen card
-    /// follows the hole and the score.
-    private func updateScreenAndLockScreen() {
+    /// The Lock Screen card follows the hole and the score.
+    private func updateLockScreen() {
         guard !deleteWhenClosed else { return }
-        UIApplication.shared.isIdleTimerDisabled = keepAwake && !round.isFinished
         if !round.isFinished, let course = library.course(id: round.courseID) {
             LiveRound.show(round: round, course: course, hole: selectedHole)
         }
@@ -157,7 +151,6 @@ struct RoundView: View {
     /// Closes the round and deletes it, after the golfer confirmed.
     private func delete() {
         deleteWhenClosed = true
-        UIApplication.shared.isIdleTimerDisabled = false
         LiveRound.end()
         dismiss()
     }
