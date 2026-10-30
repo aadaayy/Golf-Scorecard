@@ -145,8 +145,8 @@ struct FindCoursesView: View {
     @ViewBuilder
     private var map: some View {
         if let index = catalog.index {
+            // Stops above the tab bar, so no dot hides under it.
             CourseMapView(entries: mapEntries, pickedID: $mapPickedID, stackedIDs: $stackedIDs, fitKey: query)
-                .ignoresSafeArea(edges: .bottom)
                 .overlay(alignment: .top) { mapCaption(index) }
                 .overlay {
                     if mapEntries.isEmpty && !query.isEmpty {
