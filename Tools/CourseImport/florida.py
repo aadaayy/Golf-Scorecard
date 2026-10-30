@@ -11,8 +11,7 @@ can run them a little at a time:
               free API allows 1,000 calls a day, so it stops at --limit.
   fetch-osm   Reads the holes, greens, fairways, bunkers, tees and water drawn on
               Florida's golf courses from an OpenStreetMap extract (Geofabrik's
-              Florida file, filtered by osmium) and keeps them in
-              cache/osm-florida.json.gz.
+              Florida file, filtered by osmium) and keeps them in one file.
   build       Turns the cache into course folders in course-library: a course.json
               each, and an SVG drawing per hole where OpenStreetMap has the hole.
               Then run build_index.py to rewrite index.json.
@@ -24,8 +23,8 @@ Only uses the Python standard library.
 
 Usage, from the repository's top folder:
   python3 Tools/CourseImport/florida.py fetch-api --dataset opengolfapi-us.ndjson --limit 900
-  python3 Tools/CourseImport/florida.py fetch-osm golf.geojsonseq   (see course-import.yml for making it)
-  python3 Tools/CourseImport/florida.py build course-library
+  python3 Tools/CourseImport/florida.py fetch-osm golf.geojsonseq osm.json.gz   (course-import.yml makes golf.geojsonseq)
+  python3 Tools/CourseImport/florida.py build course-library --osm osm.json.gz
 """
 import argparse
 import gzip
@@ -44,7 +43,6 @@ import urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(HERE, "cache")
 API_CACHE = os.path.join(CACHE, "api")
-OSM_CACHE = os.path.join(CACHE, "osm-florida.json.gz")
 IDS_FILE = os.path.join(HERE, "florida-ids.json")
 REPORT_FILE = os.path.join(HERE, "florida-report.json")
 
@@ -170,7 +168,7 @@ def fetch_osm(args):
                 continue
             if tags.get("leisure") == "golf_course" and "rings" in item:
                 courses.append(item)
-            elif tags.get("golf"):
+            elif tags.get("golf") in ("hole", "green", "tee", "fairway", "bunker", "water_hazard", "lateral_water_hazard"):
                 golf.append(item)
             elif tags.get("natural") == "water" and "rings" in item:
                 water.append(item)
@@ -193,10 +191,9 @@ def fetch_osm(args):
     elements = sorted(courses + golf + near, key=lambda e: e["id"])
     if len(courses) < 100:
         sys.exit("The extract has under 100 golf courses, which looks wrong; kept the old copy")
-    os.makedirs(CACHE, exist_ok=True)
     data = json.dumps({"attribution": "© OpenStreetMap contributors, ODbL 1.0", "elements": elements},
                       separators=(",", ":"), ensure_ascii=False).encode()
-    with gzip.GzipFile(OSM_CACHE, "wb", mtime=0) as f:
+    with gzip.GzipFile(args.out, "wb", mtime=0) as f:
         f.write(data)
     holes = sum(1 for e in golf if e["tags"].get("golf") == "hole")
     print(f"Kept {len(courses)} golf courses, {holes} holes, {len(golf) - holes} other golf shapes and {len(near)} ponds and lakes")
@@ -372,20 +369,34 @@ class OSM:
         return [(k, r) for k, r, (bs, bw, bn, be) in self.shapes if bs <= n and bn >= s and bw <= e and be >= w]
 
 
-def hole_number(tags):
-    ref = (tags.get("ref") or "").strip()
-    return int(ref) if ref.isdigit() else None
+def hole_label(tags):
+    """(loop, number) from a hole's tags: ref "7", or "Baytree 7", with the loop also
+    taken from a course name tag. The loop is None when the hole doesn't say."""
+    label = (tags.get("ref") or tags.get("name") or "").strip()
+    match = re.match(r"^(.*?)[\s#:-]*(\d{1,2})$", label)
+    if not match:
+        return None, None
+    loop = next((tags[k] for k in ("golf:course:name", "course:name", "course") if tags.get(k)), None) or match[1]
+    return (slug(loop) or None), int(match[2])
 
 
-def hole_course_name(tags):
-    for key in ("golf:course:name", "course:name", "course"):
-        if tags.get(key):
-            return tags[key]
-    return None
+NAME_FILLER = {"golf", "course", "club", "country", "the", "at", "of", "and", "cc", "gc", "g", "c", "nine", "9", "18"}
+
+
+def numbered(holes, count):
+    """{number: hole} when the holes are numbered 1 to count, each once; otherwise None."""
+    by_number = {}
+    for h in holes:
+        n = hole_label(h["tags"])[1]
+        if n is None or n in by_number:
+            return None
+        by_number[n] = h
+    return by_number if sorted(by_number) == list(range(1, count + 1)) else None
 
 
 def osm_holes(osm, record, name, count):
-    """OpenStreetMap's holes for this course, numbered 1 to count, or None."""
+    """OpenStreetMap's holes for this course, numbered 1 to count, or None when
+    there's no clear answer (better no drawing than another course's)."""
     lat, lng = record.get("lat"), record.get("lng")
     if lat is None or lng is None:
         return None
@@ -393,27 +404,41 @@ def osm_holes(osm, record, name, count):
     if index is None:
         return None
     holes = osm.holes_by_outline.get(index, [])
-    groups = {}
+    if not holes:
+        return None
+    words = [w for w in slug(name).split("-") if w not in NAME_FILLER]
+    loops = {}
     for h in holes:
-        groups.setdefault(hole_course_name(h["tags"]), []).append(h)
-    words = set(slug(name).split("-")) - {"golf", "course", "club", "country", "the", "at", "of", "and", "cc", "gc"}
-    candidates = []
-    for group_name, group in groups.items():
-        by_number = {}
-        for h in group:
-            n = hole_number(h["tags"])
-            if n is not None:
-                by_number.setdefault(n, []).append(h)
-        if sorted(by_number) != list(range(1, count + 1)) or any(len(v) != 1 for v in by_number.values()):
-            continue
-        score = len(words & set(slug(group_name or "").split("-"))) if group_name else 0
-        candidates.append((score, group_name is None, {n: v[0] for n, v in by_number.items()}))
+        loops.setdefault(hole_label(h["tags"])[0], []).append(h)
+
+    def score(loop):
+        return sum(1 for w in (loop or "").split("-") if w in words and w not in NAME_FILLER)
+
+    candidates = []  # (score, holes by number)
+    whole = numbered(holes, count)
+    if whole:
+        candidates.append((0, whole))
+    for loop, group in loops.items():
+        if loop is not None and len(loops) > 1:
+            by_number = numbered(group, count)
+            if by_number:
+                candidates.append((score(loop), by_number))
+    if count == 18:
+        # Two named nines played as 18, in the order the course's name gives them.
+        nines = [(loop, numbered(group, 9)) for loop, group in loops.items() if loop and score(loop)]
+        nines = [(loop, n) for loop, n in nines if n]
+        for i, (loop_a, a) in enumerate(nines):
+            for loop_b, b in nines[i + 1:]:
+                first = min(words.index(w) for w in loop_a.split("-") if w in words)
+                second = min(words.index(w) for w in loop_b.split("-") if w in words)
+                front, back = (a, b) if first < second else (b, a)
+                candidates.append((score(loop_a) + score(loop_b), {**front, **{n + 9: h for n, h in back.items()}}))
     if not candidates:
         return None
-    candidates.sort(key=lambda c: (-c[0], not c[1]))
+    candidates.sort(key=lambda c: -c[0])
     if len(candidates) > 1 and candidates[0][0] == candidates[1][0]:
-        return None  # two loops fit equally well; better no drawing than the wrong one
-    return candidates[0][2]
+        return None
+    return candidates[0][1]
 
 
 # MARK: build: drawings
@@ -629,7 +654,7 @@ def build(args):
     courses_folder = os.path.join(library, "courses")
     ids = json.load(open(IDS_FILE)) if os.path.exists(IDS_FILE) else {}
     used = set(ids.values()) | set(SKIP.values())
-    osm = OSM(OSM_CACHE) if os.path.exists(OSM_CACHE) else None
+    osm = OSM(args.osm) if args.osm else None
     report = {"fetched": 0, "added": 0, "with_drawings": 0, "with_yardages": 0, "skipped": {}}
     seen = set()
     records = []
@@ -718,8 +743,10 @@ def main():
     p.add_argument("--pause", type=float, default=0.5, help="seconds between calls")
     p = sub.add_parser("fetch-osm")
     p.add_argument("geojson", help="golf features from osmium export, one GeoJSON feature a line")
+    p.add_argument("out", help="where to keep what the drawings need (.json.gz)")
     p = sub.add_parser("build")
     p.add_argument("library", help="the course-library folder")
+    p.add_argument("--osm", required=True, help="what fetch-osm kept; the hole drawings come from it")
     args = parser.parse_args()
     {"fetch-api": fetch_api, "fetch-osm": fetch_osm, "build": build}[args.command](args)
 

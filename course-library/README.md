@@ -10,11 +10,11 @@ The courses players find and download in Find Courses. The app reads these files
 
 Every Florida course except Pompano Beach Pines comes from open data, put in by `Tools/CourseImport/florida.py` and the **Course import** workflow (`.github/workflows/course-import.yml`), which runs once a day:
 
-- Par, stroke index and tee yardages: the OpenGolfAPI course API (opengolfapi.org). The free API allows 1,000 calls a day, so the first import takes two days; after that a run only refreshes the drawings.
+- Par, stroke index and tee yardages: the OpenGolfAPI course API (opengolfapi.org). The free API allows 1,000 calls a day, so the first import takes a few days; after that the courses are rebuilt every Monday so new OpenStreetMap drawings come in.
 - Hole drawings: OpenStreetMap, for the courses whose holes are mapped there. Courses without mapped holes have no drawings.
 - Yardages that aren't known are left out rather than guessed. A course with none lists no tees.
 
-`Tools/CourseImport/florida-report.json` says how many went in and which courses were left out and why. To fix one of these courses by hand, edit its files as below; the import only rewrites a course when its source data changes, so put a lasting fix into OpenStreetMap or OpenGolfAPI too.
+The map data is fetched fresh each time and not kept in the repository. `Tools/CourseImport/florida-report.json` says how many went in and which courses were left out and why. To fix one of these courses by hand, edit its files as below; the import only rewrites a course when its source data changes, so put a lasting fix into OpenStreetMap or OpenGolfAPI too.
 
 ## Licence
 

@@ -1,7 +1,8 @@
 # Fills the course library with every Florida course from open data
 # (Tools/CourseImport/florida.py). The free course API allows 1,000 calls a day,
 # so this runs once a day and picks up where it stopped, until every course is in.
-# Once they all are, a run only refreshes the hole drawings from OpenStreetMap (Mondays).
+# The courses are rebuilt when new scorecards came in, when asked, and every
+# Monday, so hole drawings follow what's been added to OpenStreetMap.
 name: Course import
 
 on:
@@ -12,8 +13,8 @@ on:
       limit:
         description: Most course API calls this run
         default: '900'
-      drawings:
-        description: Fetch the OpenStreetMap drawings again (yes or no)
+      rebuild:
+        description: Rebuild the courses even with no new scorecards (yes or no)
         default: 'no'
 
 permissions:
@@ -37,42 +38,46 @@ jobs:
           gunzip "$RUNNER_TEMP/opengolfapi-us.ndjson.gz"
 
       - name: Fetch scorecards
-        run: python3 Tools/CourseImport/florida.py fetch-api --dataset "$RUNNER_TEMP/opengolfapi-us.ndjson" --limit "${{ inputs.limit || '900' }}"
+        id: fetch
+        run: |
+          before=$(ls Tools/CourseImport/cache/api 2>/dev/null | wc -l)
+          python3 Tools/CourseImport/florida.py fetch-api --dataset "$RUNNER_TEMP/opengolfapi-us.ndjson" --limit "${{ inputs.limit || '900' }}"
+          after=$(ls Tools/CourseImport/cache/api | wc -l)
+          echo "new=$((after - before))" >> "$GITHUB_OUTPUT"
 
       - name: Save the scorecards
         if: always()
         run: |
           Tools/CourseImport/save.sh "Course import: Florida scorecards" Tools/CourseImport/cache/api
 
-      - name: Fetch hole drawings from OpenStreetMap
-        # When asked, when there's no copy yet, and every Monday. A failure keeps the old copy.
-        # Uses Geofabrik's daily Florida extract of OpenStreetMap, filtered down to golf by osmium.
-        timeout-minutes: 30
-        continue-on-error: true
+      - name: Decide whether to rebuild
+        id: decide
         run: |
-          if [ "${{ inputs.drawings }}" = "yes" ] || [ ! -f Tools/CourseImport/cache/osm-florida.json.gz ] || [ "$(date -u +%u)" = "1" ]; then
-            sudo apt-get update -qq && sudo apt-get install -y -qq osmium-tool > /dev/null
-            curl -fsSL -o "$RUNNER_TEMP/florida.osm.pbf" https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf
-            osmium tags-filter "$RUNNER_TEMP/florida.osm.pbf" nwr/golf nwr/leisure=golf_course nwr/natural=water -o "$RUNNER_TEMP/golf.osm.pbf"
-            osmium export "$RUNNER_TEMP/golf.osm.pbf" -f geojsonseq -a type,id --geometry-types=linestring,polygon -o "$RUNNER_TEMP/golf.geojsonseq"
-            python3 Tools/CourseImport/florida.py fetch-osm "$RUNNER_TEMP/golf.geojsonseq"
+          if [ "${{ steps.fetch.outputs.new }}" != "0" ] || [ "${{ inputs.rebuild }}" = "yes" ] || [ "$(date -u +%u)" = "1" ]; then
+            echo "rebuild=yes" >> "$GITHUB_OUTPUT"
           else
-            echo "Using the OpenStreetMap copy from the last fetch"
+            echo "Nothing new to build"
           fi
+
+      - name: Get the hole drawings from OpenStreetMap
+        # Geofabrik's daily Florida extract of OpenStreetMap, filtered down to golf by osmium.
+        if: steps.decide.outputs.rebuild == 'yes'
+        timeout-minutes: 30
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq osmium-tool > /dev/null
+          curl -fsSL -o "$RUNNER_TEMP/florida.osm.pbf" https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf
+          osmium tags-filter "$RUNNER_TEMP/florida.osm.pbf" nwr/golf nwr/leisure=golf_course nwr/natural=water -o "$RUNNER_TEMP/golf.osm.pbf"
+          osmium export "$RUNNER_TEMP/golf.osm.pbf" -f geojsonseq -a type,id --geometry-types=linestring,polygon -o "$RUNNER_TEMP/golf.geojsonseq"
+          python3 Tools/CourseImport/florida.py fetch-osm "$RUNNER_TEMP/golf.geojsonseq" "$RUNNER_TEMP/osm.json.gz"
 
       - name: Build the courses
-        id: build
+        if: steps.decide.outputs.rebuild == 'yes'
         run: |
-          python3 Tools/CourseImport/florida.py build course-library
+          python3 Tools/CourseImport/florida.py build course-library --osm "$RUNNER_TEMP/osm.json.gz"
           python3 Tools/CourseLibrary/build_index.py course-library
+          python3 Tools/CourseLibrary/build_index.py course-library --check
 
-      - name: Save
-        # Always, so whatever was fetched is kept even if a later step failed.
-        if: always()
+      - name: Save the courses
+        if: steps.decide.outputs.rebuild == 'yes'
         run: |
-          # The courses only when they built cleanly.
-          if [ "${{ steps.build.outcome }}" = "success" ]; then
-            Tools/CourseImport/save.sh "Course import: Florida courses from open data" Tools/CourseImport course-library
-          else
-            Tools/CourseImport/save.sh "Course import: OpenStreetMap copy" Tools/CourseImport/cache
-          fi
+          Tools/CourseImport/save.sh "Course import: Florida courses from open data" Tools/CourseImport course-library
