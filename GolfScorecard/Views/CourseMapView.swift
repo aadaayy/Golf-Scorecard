@@ -91,7 +91,9 @@ struct CourseMapView: UIViewRepresentable {
         if rect.width < least || rect.height < least {
             rect = rect.insetBy(dx: -max(0, least - rect.width) / 2, dy: -max(0, least - rect.height) / 2)
         }
-        map.setVisibleMapRect(rect, edgePadding: UIEdgeInsets(top: 50, left: 40, bottom: 50, right: 40), animated: animated)
+        // Room at the top for the caption, and at the bottom for the Maps
+        // logo and Legal link, so no dot sits on them.
+        map.setVisibleMapRect(rect, edgePadding: UIEdgeInsets(top: 60, left: 40, bottom: 90, right: 40), animated: animated)
     }
 
     @MainActor
