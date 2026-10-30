@@ -258,7 +258,7 @@ final class CourseClusterView: MKAnnotationView {
             let count = (annotation as? MKClusterAnnotation)?.memberAnnotations.count ?? 0
             let side: CGFloat = count < 10 ? 30 : count < 100 ? 38 : 46
             frame = CGRect(x: 0, y: 0, width: side, height: side)
-            accessibilityLabel = "\(count) courses. Tap to zoom in."
+            accessibilityLabel = "\(count) courses. Tap to see them."
             setNeedsDisplay()
         }
     }
