@@ -2,6 +2,10 @@
   "id": "lost-lake-golf-club",
   "name": "Lost Lake Golf Club",
   "town": "Hobe Sound, FL",
+  "location": {
+    "lat": 27.103229,
+    "lng": -80.195436
+  },
   "tees": [
     "Forward/Green"
   ],

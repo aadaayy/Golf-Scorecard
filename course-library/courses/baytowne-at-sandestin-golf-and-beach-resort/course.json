@@ -2,6 +2,10 @@
   "id": "baytowne-at-sandestin-golf-and-beach-resort",
   "name": "Baytowne At Sandestin Golf And Beach Resort",
   "town": "Miramar Beach, FL",
+  "location": {
+    "lat": 30.380004,
+    "lng": -86.330123
+  },
   "tees": [
     "Gold",
     "Blue",

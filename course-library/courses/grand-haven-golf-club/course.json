@@ -2,6 +2,10 @@
   "id": "grand-haven-golf-club",
   "name": "Grand Haven Golf Club",
   "town": "Palm Coast, FL",
+  "location": {
+    "lat": 29.538713,
+    "lng": -81.164483
+  },
   "tees": [
     "Black",
     "Blue",

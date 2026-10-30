@@ -2,6 +2,10 @@
   "id": "sharks-tooth-golf-club",
   "name": "Sharks Tooth Golf Club",
   "town": "Panama City Beach, FL",
+  "location": {
+    "lat": 30.28135,
+    "lng": -85.976977
+  },
   "tees": [
     "Black",
     "Black/Blue",

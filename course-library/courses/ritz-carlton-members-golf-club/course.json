@@ -2,6 +2,10 @@
   "id": "ritz-carlton-members-golf-club",
   "name": "Ritz Carlton Members Golf Club",
   "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.41403,
+    "lng": -82.388382
+  },
   "tees": [
     "Silver",
     "Blue",

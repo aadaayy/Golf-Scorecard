@@ -2,6 +2,10 @@
   "id": "belle-glade-municipal-golf-club",
   "name": "Belle Glade Municipal Golf Club",
   "town": "Belle Glade, FL",
+  "location": {
+    "lat": 26.705708,
+    "lng": -80.701425
+  },
   "tees": [
     "Web",
     "White",

@@ -2,6 +2,10 @@
   "id": "the-club-at-polo-club",
   "name": "The Club At Polo Club",
   "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.419555,
+    "lng": -80.128169
+  },
   "tees": [
     "Gold",
     "Blue",

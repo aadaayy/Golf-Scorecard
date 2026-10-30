@@ -2,6 +2,10 @@
   "id": "twin-rivers-golf-club",
   "name": "Twin Rivers Golf Club",
   "town": "Oviedo, FL",
+  "location": {
+    "lat": 28.644783,
+    "lng": -81.17565
+  },
   "tees": [
     "Knight",
     "Black",

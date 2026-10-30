@@ -2,6 +2,10 @@
   "id": "the-village-of-fenney-gray-fox-course",
   "name": "The Village Of Fenney Gray Fox Course",
   "town": "Wildwood, FL",
+  "location": {
+    "lat": 28.795066,
+    "lng": -82.04396
+  },
   "tees": [],
   "holes": [
     {

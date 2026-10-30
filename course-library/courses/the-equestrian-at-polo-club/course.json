@@ -2,6 +2,10 @@
   "id": "the-equestrian-at-polo-club",
   "name": "The Equestrian At Polo Club",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.9387,
+    "lng": -81.997931
+  },
   "tees": [
     "Gold",
     "Blue",

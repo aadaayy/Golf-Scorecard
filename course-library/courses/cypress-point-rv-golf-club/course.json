@@ -2,6 +2,10 @@
   "id": "cypress-point-rv-golf-club",
   "name": "Cypress Point Rv Golf Club",
   "town": "Osteen, FL",
+  "location": {
+    "lat": 28.848328,
+    "lng": -81.142082
+  },
   "tees": [
     "Blue",
     "White",

@@ -2,6 +2,10 @@
   "id": "boca-west-country-club-palmer-iii",
   "name": "Boca West Country Club Palmer Iii",
   "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.379807,
+    "lng": -80.159912
+  },
   "tees": [
     "Black",
     "Gold",

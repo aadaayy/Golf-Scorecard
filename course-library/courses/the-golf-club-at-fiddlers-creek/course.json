@@ -2,6 +2,10 @@
   "id": "the-golf-club-at-fiddlers-creek",
   "name": "The Golf Club At Fiddlers Creek",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.019821,
+    "lng": -81.657202
+  },
   "tees": [
     "I M",
     "Ii M",

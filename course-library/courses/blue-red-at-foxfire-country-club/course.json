@@ -2,6 +2,10 @@
   "id": "blue-red-at-foxfire-country-club",
   "name": "Blue Red At Foxfire Country Club",
   "town": "East Naples, FL",
+  "location": {
+    "lat": 26.145474,
+    "lng": -81.747373
+  },
   "tees": [
     "#2",
     "#3"

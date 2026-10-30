@@ -2,6 +2,10 @@
   "id": "lily-lake-golf-resort",
   "name": "Lily Lake Golf Resort",
   "town": "Frostproof, FL",
+  "location": {
+    "lat": 27.729784,
+    "lng": -81.566144
+  },
   "tees": [
     "Gold",
     "Blue",

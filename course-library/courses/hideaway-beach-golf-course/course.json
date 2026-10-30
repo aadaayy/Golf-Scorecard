@@ -2,6 +2,10 @@
   "id": "hideaway-beach-golf-course",
   "name": "Hideaway Beach Golf Course",
   "town": "Marco Island, FL",
+  "location": {
+    "lat": 25.96047,
+    "lng": -81.745188
+  },
   "tees": [
     "Forward"
   ],

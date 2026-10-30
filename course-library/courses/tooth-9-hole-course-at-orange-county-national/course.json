@@ -2,6 +2,10 @@
   "id": "tooth-9-hole-course-at-orange-county-national",
   "name": "Tooth 9 Hole Course At Orange County National",
   "town": "Winter Garden, FL",
+  "location": {
+    "lat": 28.44338,
+    "lng": -81.629026
+  },
   "tees": [
     "Blue",
     "White"

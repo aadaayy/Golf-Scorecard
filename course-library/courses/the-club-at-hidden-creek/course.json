@@ -2,6 +2,10 @@
   "id": "the-club-at-hidden-creek",
   "name": "The Club At Hidden Creek",
   "town": "Navarre, FL",
+  "location": {
+    "lat": 30.437728,
+    "lng": -86.924451
+  },
   "tees": [
     "Black/Champ",
     "Gold",

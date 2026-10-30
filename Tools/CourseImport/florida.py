@@ -654,11 +654,24 @@ def drawing(osm, way):
 # MARK: build
 
 def same_course(a, b):
+    """Same holes and drawings. The location only feeds the library's map (index.json),
+    not the phone's copy, so it doesn't count as a new version."""
     strip = dict(a)
-    strip.pop("version", None)
     other = dict(b)
-    other.pop("version", None)
+    for key in ("version", "location"):
+        strip.pop(key, None)
+        other.pop(key, None)
     return strip == other
+
+
+def location(record):
+    """Where the course is, from the course data, for the map in Find Courses. None if unknown."""
+    lat, lng = record.get("lat"), record.get("lng")
+    if not isinstance(lat, (int, float)) or not isinstance(lng, (int, float)):
+        return None
+    if not (-90 <= lat <= 90 and -180 <= lng <= 180) or (lat == 0 and lng == 0):
+        return None
+    return {"lat": round(lat, 6), "lng": round(lng, 6)}
 
 
 def build(args):
@@ -667,7 +680,7 @@ def build(args):
     ids = json.load(open(IDS_FILE)) if os.path.exists(IDS_FILE) else {}
     used = set(ids.values()) | set(SKIP.values())
     osm = OSM(args.osm) if args.osm else None
-    report = {"fetched": 0, "added": 0, "with_drawings": 0, "with_yardages": 0, "skipped": {}}
+    report = {"fetched": 0, "added": 0, "with_drawings": 0, "with_yardages": 0, "with_location": 0, "skipped": {}}
     seen = set()
     records = []
     for name in sorted(os.listdir(API_CACHE)) if os.path.isdir(API_CACHE) else []:
@@ -695,8 +708,12 @@ def build(args):
                     break
             ids[record["id"]] = cid
             used.add(cid)
-        course = {"id": cid, "name": name, "town": f"{city}, FL" if city else "Florida", "tees": card["tees"],
-                  "holes": card["holes"]}
+        course = {"id": cid, "name": name, "town": f"{city}, FL" if city else "Florida"}
+        place = location(record)
+        if place:
+            course["location"] = place
+        course["tees"] = card["tees"]
+        course["holes"] = card["holes"]
         drawings = {}
         if osm:
             holes = osm_holes(osm, record, name, len(card["holes"]))
@@ -734,6 +751,7 @@ def build(args):
         report["added"] += 1
         report["with_drawings"] += bool(drawings)
         report["with_yardages"] += bool(card["tees"])
+        report["with_location"] += bool(place)
     # Courses this import made before but no longer can are left alone; only its own ids are touched.
     with open(IDS_FILE, "w", encoding="utf-8") as f:
         json.dump(dict(sorted(ids.items())), f, indent=1)
@@ -743,7 +761,7 @@ def build(args):
         json.dump(report, f, indent=1, ensure_ascii=False, sort_keys=True)
         f.write("\n")
     print(f"Fetched {report['fetched']}; built {report['added']} courses, {report['with_yardages']} with yardages, "
-          f"{report['with_drawings']} with hole drawings. Skipped: {report['skipped_counts']}")
+          f"{report['with_drawings']} with hole drawings, {report['with_location']} on the map. Skipped: {report['skipped_counts']}")
 
 
 def main():

@@ -2,6 +2,10 @@
   "id": "longleaf-executive-golf-course",
   "name": "Longleaf Executive Golf Course",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.792844,
+    "lng": -82.009834
+  },
   "tees": [
     "Blue",
     "Gold",

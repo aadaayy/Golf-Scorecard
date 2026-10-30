@@ -2,6 +2,10 @@
   "id": "miccosukee-golf-country-club-barracuda-course",
   "name": "Miccosukee Golf Country Club Barracuda Course",
   "town": "Miami, FL",
+  "location": {
+    "lat": 25.706008,
+    "lng": -80.426393
+  },
   "tees": [
     "Blue",
     "White"

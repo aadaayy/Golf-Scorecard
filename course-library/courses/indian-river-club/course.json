@@ -2,6 +2,10 @@
   "id": "indian-river-club",
   "name": "Indian River Club",
   "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.563279,
+    "lng": -80.390571
+  },
   "tees": [
     "Back"
   ],

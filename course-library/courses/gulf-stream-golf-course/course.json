@@ -2,6 +2,10 @@
   "id": "gulf-stream-golf-course",
   "name": "Gulf Stream Golf Course",
   "town": "Delray Beach, FL",
+  "location": {
+    "lat": 26.487,
+    "lng": -80.054347
+  },
   "tees": [],
   "holes": [
     {

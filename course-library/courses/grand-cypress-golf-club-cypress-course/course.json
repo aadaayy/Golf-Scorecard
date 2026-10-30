@@ -2,6 +2,10 @@
   "id": "grand-cypress-golf-club-cypress-course",
   "name": "Grand Cypress Golf Club Cypress Course",
   "town": "Orlando, FL",
+  "location": {
+    "lat": 28.403545,
+    "lng": -81.529966
+  },
   "tees": [
     "Blue",
     "White",

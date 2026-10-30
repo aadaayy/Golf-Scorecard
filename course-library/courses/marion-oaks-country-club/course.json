@@ -2,6 +2,10 @@
   "id": "marion-oaks-country-club",
   "name": "Marion Oaks Country Club",
   "town": "Ocala, FL",
+  "location": {
+    "lat": 28.984507,
+    "lng": -82.193099
+  },
   "tees": [
     "Championship",
     "Middle",

@@ -2,6 +2,10 @@
   "id": "el-rio-golf-club",
   "name": "El Rio Golf Club",
   "town": "North Fort Myers, FL",
+  "location": {
+    "lat": 26.652241,
+    "lng": -81.909955
+  },
   "tees": [
     "Men'S",
     "Ladies'"

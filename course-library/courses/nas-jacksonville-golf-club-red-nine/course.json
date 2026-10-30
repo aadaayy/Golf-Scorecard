@@ -2,6 +2,10 @@
   "id": "nas-jacksonville-golf-club-red-nine",
   "name": "Nas Jacksonville Golf Club Red Nine",
   "town": "Jacksonville, FL",
+  "location": {
+    "lat": 30.214885,
+    "lng": -81.681636
+  },
   "tees": [
     "Black",
     "White",

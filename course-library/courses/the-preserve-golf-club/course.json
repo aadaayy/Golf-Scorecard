@@ -2,6 +2,10 @@
   "id": "the-preserve-golf-club",
   "name": "The Preserve Golf Club",
   "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.431895,
+    "lng": -82.465393
+  },
   "tees": [
     "Eagle",
     "Hawk",

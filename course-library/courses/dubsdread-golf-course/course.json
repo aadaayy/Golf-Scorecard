@@ -2,6 +2,10 @@
   "id": "dubsdread-golf-course",
   "name": "Dubsdread Golf Course",
   "town": "Orlando, FL",
+  "location": {
+    "lat": 28.582734,
+    "lng": -81.387057
+  },
   "tees": [
     "Black",
     "Blue",

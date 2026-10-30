@@ -2,6 +2,10 @@
   "id": "wildcat-run-country-club",
   "name": "Wildcat Run Country Club",
   "town": "Estero, FL",
+  "location": {
+    "lat": 26.436353,
+    "lng": -81.749438
+  },
   "tees": [
     "Blue",
     "Gold",

@@ -2,6 +2,10 @@
   "id": "talis-park-golf-club",
   "name": "Talis Park Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.309679,
+    "lng": -81.749197
+  },
   "tees": [
     "Championship",
     "Back",

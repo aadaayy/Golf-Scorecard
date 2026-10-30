@@ -2,6 +2,10 @@
   "id": "gator-trace-golf-country-club",
   "name": "Gator Trace Golf Country Club",
   "town": "Fort Pierce, FL",
+  "location": {
+    "lat": 27.385215,
+    "lng": -80.315263
+  },
   "tees": [
     "Blue",
     "White",

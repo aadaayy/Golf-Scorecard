@@ -2,6 +2,10 @@
   "id": "the-palencia-club",
   "name": "The Palencia Club",
   "town": "St. Augustine, FL",
+  "location": {
+    "lat": 30.026354,
+    "lng": -81.385205
+  },
   "tees": [
     "Gold",
     "Green",

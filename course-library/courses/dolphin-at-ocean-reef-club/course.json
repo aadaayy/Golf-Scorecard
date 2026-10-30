@@ -2,6 +2,10 @@
   "id": "dolphin-at-ocean-reef-club",
   "name": "Dolphin At Ocean Reef Club",
   "town": "Key Largo, FL",
+  "location": {
+    "lat": 25.312788,
+    "lng": -80.278655
+  },
   "tees": [
     "Gold",
     "Blue",

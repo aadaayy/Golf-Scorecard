@@ -2,6 +2,10 @@
   "id": "victoria-hills-golf-club",
   "name": "Victoria Hills Golf Club",
   "town": "DeLand, FL",
+  "location": {
+    "lat": 28.978907,
+    "lng": -81.270169
+  },
   "tees": [
     "Black",
     "Yellow",

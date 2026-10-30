@@ -2,6 +2,10 @@
   "id": "renaissance-vinoy-resort",
   "name": "Renaissance Vinoy Resort",
   "town": "St. Petersburg, FL",
+  "location": {
+    "lat": 27.778066,
+    "lng": -82.630334
+  },
   "tees": [
     "Black",
     "Gold",

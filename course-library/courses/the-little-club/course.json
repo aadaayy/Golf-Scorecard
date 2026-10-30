@@ -2,6 +2,10 @@
   "id": "the-little-club",
   "name": "The Little Club",
   "town": "Delray Beach, FL",
+  "location": {
+    "lat": 26.983434,
+    "lng": -80.125228
+  },
   "tees": [],
   "holes": [
     {

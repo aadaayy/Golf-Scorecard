@@ -2,6 +2,10 @@
   "id": "mark-bostick-golf-course-at-the-university-of-florida",
   "name": "Mark Bostick Golf Course At The University Of Florida",
   "town": "Gainesville, FL",
+  "location": {
+    "lat": 29.649971,
+    "lng": -82.365172
+  },
   "tees": [
     "Orange",
     "Blue",

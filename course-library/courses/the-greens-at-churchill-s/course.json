@@ -2,6 +2,10 @@
   "id": "the-greens-at-churchill-s",
   "name": "The Greens At Churchill S",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.919859,
+    "lng": -82.018379
+  },
   "tees": [
     "Blue",
     "White",

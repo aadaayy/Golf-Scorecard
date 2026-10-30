@@ -2,6 +2,10 @@
   "id": "the-club-pelican-bay-pelican-bay-course",
   "name": "The Club Pelican Bay Pelican Bay Course",
   "town": "Daytona Beach, FL",
+  "location": {
+    "lat": 29.160735,
+    "lng": -81.051164
+  },
   "tees": [
     "Black",
     "Web",

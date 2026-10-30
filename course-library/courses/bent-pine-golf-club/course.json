@@ -2,6 +2,10 @@
   "id": "bent-pine-golf-club",
   "name": "Bent Pine Golf Club",
   "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.701503,
+    "lng": -80.434078
+  },
   "tees": [
     "Black",
     "Blue",

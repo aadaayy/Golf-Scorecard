@@ -2,6 +2,10 @@
   "id": "moorings-country-club",
   "name": "Moorings Country Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.176914,
+    "lng": -81.805792
+  },
   "tees": [
     "White",
     "Red"

@@ -2,6 +2,10 @@
   "id": "silverado-golf-country-club",
   "name": "Silverado Golf Country Club",
   "town": "Zephyrhills, FL",
+  "location": {
+    "lat": 28.247443,
+    "lng": -82.207088
+  },
   "tees": [
     "Silver",
     "Web"

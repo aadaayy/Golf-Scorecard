@@ -2,6 +2,10 @@
   "id": "golf-hammock-country-club",
   "name": "Golf Hammock Country Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 25.997664,
+    "lng": -81.693771
+  },
   "tees": [
     "Web",
     "Blue",

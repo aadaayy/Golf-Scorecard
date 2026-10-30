@@ -2,6 +2,10 @@
   "id": "par-3-at-hollybrook-golf-tennis-club",
   "name": "Par 3 At Hollybrook Golf Tennis Club",
   "town": "Pembroke Pines, FL",
+  "location": {
+    "lat": 26.000457,
+    "lng": -80.264914
+  },
   "tees": [
     "Forward"
   ],

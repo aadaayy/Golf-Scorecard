@@ -2,6 +2,10 @@
   "id": "south-at-fountains-country-club",
   "name": "South At Fountains Country Club",
   "town": "Greenacres, FL",
+  "location": {
+    "lat": 26.609635,
+    "lng": -80.153326
+  },
   "tees": [
     "Gold",
     "Blue",

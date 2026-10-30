@@ -2,6 +2,10 @@
   "id": "estero-country-club",
   "name": "Estero Country Club",
   "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.456841,
+    "lng": -81.814452
+  },
   "tees": [
     "Green",
     "Blue",

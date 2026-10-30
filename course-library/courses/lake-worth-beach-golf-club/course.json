@@ -2,6 +2,10 @@
   "id": "lake-worth-beach-golf-club",
   "name": "Lake Worth Beach Golf Club",
   "town": "Lake Worth Beach, FL",
+  "location": {
+    "lat": 26.623406,
+    "lng": -80.047143
+  },
   "tees": [
     "Men'S"
   ],

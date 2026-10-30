@@ -2,6 +2,10 @@
   "id": "colliers-reserve-country-club",
   "name": "Colliers Reserve Country Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.281882,
+    "lng": -81.794973
+  },
   "tees": [
     "VI",
     "IV",

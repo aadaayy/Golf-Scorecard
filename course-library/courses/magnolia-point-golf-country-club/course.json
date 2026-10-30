@@ -2,6 +2,10 @@
   "id": "magnolia-point-golf-country-club",
   "name": "Magnolia Point Golf Country Club",
   "town": "Green Cove Springs, FL",
+  "location": {
+    "lat": 30.000228,
+    "lng": -81.709212
+  },
   "tees": [
     "Web",
     "Blue",

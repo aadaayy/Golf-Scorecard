@@ -30,6 +30,10 @@ struct CourseIndex: Codable, Equatable {
         var files: [String]
         /// All the files together, for showing the download size.
         var bytes: Int
+        /// Where the course is, for the map in Find Courses. Missing when the
+        /// course data doesn't say; the course is then only in the list.
+        var lat: Double? = nil
+        var lng: Double? = nil
     }
 
     static func decode(from data: Data) throws -> CourseIndex {
@@ -50,6 +54,11 @@ struct CourseIndex: Codable, Equatable {
 
     func entry(id: String) -> Entry? {
         courses.first { $0.id == id }
+    }
+
+    /// The courses that can go on the map.
+    var mapped: [Entry] {
+        courses.filter(\.hasLocation)
     }
 
     /// Everything wrong with the index, in plain words. Empty means it's good.
@@ -75,6 +84,11 @@ struct CourseIndex: Codable, Equatable {
             if entry.version < 1 {
                 problems.append("\(entry.id): version must be 1 or more")
             }
+            if (entry.lat == nil) != (entry.lng == nil) {
+                problems.append("\(entry.id): has only half a location")
+            } else if let lat = entry.lat, let lng = entry.lng, !((-90...90).contains(lat) && (-180...180).contains(lng)) {
+                problems.append("\(entry.id): location \(lat), \(lng) isn't a real place")
+            }
         }
         return problems
     }
@@ -94,6 +108,8 @@ struct CourseIndex: Codable, Equatable {
 }
 
 extension CourseIndex.Entry {
+    var hasLocation: Bool { lat != nil && lng != nil }
+
     /// True when the library has a newer copy than the one on the phone.
     func isNewer(than installedVersion: Int) -> Bool {
         version > installedVersion

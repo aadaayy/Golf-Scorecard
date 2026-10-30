@@ -2,6 +2,10 @@
   "id": "ymca-par-3-home-of-the-first-tee-of-lakeland",
   "name": "Ymca Par 3 Home Of The First Tee Of Lakeland",
   "town": "Lakeland, FL",
+  "location": {
+    "lat": 28.042301,
+    "lng": -81.983424
+  },
   "tees": [
     "Yellow",
     "Web"

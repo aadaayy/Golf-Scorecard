@@ -2,6 +2,10 @@
   "id": "pelican-golf-club",
   "name": "Pelican Golf Club",
   "town": "Belleair, FL",
+  "location": {
+    "lat": 27.930383,
+    "lng": -82.808303
+  },
   "tees": [
     "Web"
   ],

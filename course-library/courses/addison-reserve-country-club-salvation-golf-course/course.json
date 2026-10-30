@@ -2,6 +2,10 @@
   "id": "addison-reserve-country-club-salvation-golf-course",
   "name": "Addison Reserve Country Club Salvation Golf Course",
   "town": "Delray Beach, FL",
+  "location": {
+    "lat": 26.436331,
+    "lng": -80.15713
+  },
   "tees": [
     "Middle",
     "Forward",

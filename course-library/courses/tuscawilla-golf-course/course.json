@@ -2,6 +2,10 @@
   "id": "tuscawilla-golf-course",
   "name": "Tuscawilla Golf Course",
   "town": "Winter Springs, FL",
+  "location": {
+    "lat": 28.677117,
+    "lng": -81.253625
+  },
   "tees": [
     "Tournament",
     "Joe Lee",

@@ -2,6 +2,10 @@
   "id": "sugarmill-woods-country-club-pine-course",
   "name": "Sugarmill Woods Country Club Pine Course",
   "town": "Homosassa, FL",
+  "location": {
+    "lat": 28.740143,
+    "lng": -82.536319
+  },
   "tees": [
     "Blue",
     "White",

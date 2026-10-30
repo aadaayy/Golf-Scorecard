@@ -106,7 +106,7 @@ final class LibraryTests: XCTestCase {
         {"id": "pompano-pines", "name": "Pompano Beach Pines Course", "town": "Pompano Beach, FL",
          "holes": 18, "par": 72, "tees": ["Blue", "White"], "yards": {"Blue": 6612, "White": 6207},
          "version": 2, "folder": "courses/pompano-pines",
-         "files": ["course.json", "pompano-pines-01.svg"], "bytes": 450000},
+         "files": ["course.json", "pompano-pines-01.svg"], "bytes": 450000, "lat": 26.245107, "lng": -80.102812},
         {"id": "palm-aire", "name": "Palm-Aire Oaks", "town": "Pompano Beach, FL",
          "holes": 18, "par": 72, "tees": ["White"], "yards": {"White": 6000},
          "version": 1, "folder": "courses/palm-aire", "files": ["course.json"], "bytes": 20000},
@@ -132,6 +132,21 @@ final class LibraryTests: XCTestCase {
         XCTAssertEqual(pines.sizeText, "0.5 MB")
     }
 
+    /// Courses with a location go on the map; the rest stay in the list only.
+    func testIndexLocations() throws {
+        var index = try CourseIndex.decode(from: Data(indexJSON.utf8))
+        XCTAssertEqual(index.mapped.map(\.id), ["pompano-pines"])
+        let pines = try XCTUnwrap(index.entry(id: "pompano-pines"))
+        XCTAssertEqual(pines.lat, 26.245107)
+        XCTAssertEqual(pines.lng, -80.102812)
+        XCTAssertNil(index.entry(id: "crandon")?.lat, "An index with no locations still reads")
+
+        index.courses[1].lat = 26.2
+        index.courses[2].lat = 126
+        index.courses[2].lng = -80
+        XCTAssertEqual(index.problems().count, 2, "Half a location, and one off the globe")
+    }
+
     func testIndexProblems() throws {
         var index = try CourseIndex.decode(from: Data(indexJSON.utf8))
         index.courses[0].folder = "../outside"
@@ -155,6 +170,7 @@ final class LibraryTests: XCTestCase {
         let index = try CourseIndex.decode(from: Data(contentsOf: library.appendingPathComponent("index.json")))
         XCTAssertEqual(index.problems(), [])
         XCTAssertNotNil(index.entry(id: "pompano-pines"))
+        XCTAssertNotNil(index.entry(id: "pompano-pines")?.lat, "Pompano Beach Pines should be on the map")
         for entry in index.courses {
             let folder = library.appendingPathComponent(entry.folder)
             let course = try Course.decode(from: Data(contentsOf: folder.appendingPathComponent("course.json")))

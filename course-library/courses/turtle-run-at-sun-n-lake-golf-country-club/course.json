@@ -2,6 +2,10 @@
   "id": "turtle-run-at-sun-n-lake-golf-country-club",
   "name": "Turtle Run At Sun N Lake Golf Country Club",
   "town": "Sebring, FL",
+  "location": {
+    "lat": 27.532303,
+    "lng": -81.518234
+  },
   "tees": [
     "Blue",
     "White",

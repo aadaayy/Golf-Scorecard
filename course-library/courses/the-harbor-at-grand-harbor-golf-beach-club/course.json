@@ -2,6 +2,10 @@
   "id": "the-harbor-at-grand-harbor-golf-beach-club",
   "name": "The Harbor At Grand Harbor Golf Beach Club",
   "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.683091,
+    "lng": -80.3953
+  },
   "tees": [
     "Black",
     "Blue",

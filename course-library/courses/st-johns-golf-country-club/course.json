@@ -2,6 +2,10 @@
   "id": "st-johns-golf-country-club",
   "name": "St Johns Golf Country Club",
   "town": "St. Augustine, FL",
+  "location": {
+    "lat": 30.053777,
+    "lng": -81.509141
+  },
   "tees": [
     "Gold",
     "Web",

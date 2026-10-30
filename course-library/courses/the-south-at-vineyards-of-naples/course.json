@@ -2,6 +2,10 @@
   "id": "the-south-at-vineyards-of-naples",
   "name": "The South At Vineyards Of Naples",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.213353,
+    "lng": -81.727267
+  },
   "tees": [
     "Tee I",
     "Tee Ii",

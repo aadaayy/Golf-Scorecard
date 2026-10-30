@@ -2,6 +2,10 @@
   "id": "bentley-village-golf-club",
   "name": "Bentley Village Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.306347,
+    "lng": -81.806291
+  },
   "tees": [
     "Blue",
     "White"

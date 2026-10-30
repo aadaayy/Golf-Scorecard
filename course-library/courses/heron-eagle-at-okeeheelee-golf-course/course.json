@@ -2,6 +2,10 @@
   "id": "heron-eagle-at-okeeheelee-golf-course",
   "name": "Heron Eagle At Okeeheelee Golf Course",
   "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.656964,
+    "lng": -80.156129
+  },
   "tees": [
     "Black",
     "Gold",

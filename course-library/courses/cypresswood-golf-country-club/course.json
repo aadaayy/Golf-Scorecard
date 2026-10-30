@@ -2,6 +2,10 @@
   "id": "cypresswood-golf-country-club",
   "name": "Cypresswood Golf Country Club",
   "town": "Winter Haven, FL",
+  "location": {
+    "lat": 28.014295,
+    "lng": -81.64869
+  },
   "tees": [
     "Blue",
     "White",

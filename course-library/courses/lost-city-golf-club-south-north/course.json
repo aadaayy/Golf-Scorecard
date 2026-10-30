@@ -2,6 +2,10 @@
   "id": "lost-city-golf-club-south-north",
   "name": "Lost City Golf Club South North",
   "town": "Atlantis, FL",
+  "location": {
+    "lat": 26.594655,
+    "lng": -80.098492
+  },
   "tees": [
     "Gold",
     "Gold/Blue",

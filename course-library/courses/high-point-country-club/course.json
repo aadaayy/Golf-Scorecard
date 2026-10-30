@@ -2,6 +2,10 @@
   "id": "high-point-country-club",
   "name": "High Point Country Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.18613,
+    "lng": -81.797147
+  },
   "tees": [],
   "holes": [
     {

@@ -2,6 +2,10 @@
   "id": "mcarthur-golf-club",
   "name": "Mcarthur Golf Club",
   "town": "Hobe Sound, FL",
+  "location": {
+    "lat": 27.094252,
+    "lng": -80.167528
+  },
   "tees": [
     "Black",
     "Gold",

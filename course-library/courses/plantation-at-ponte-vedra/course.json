@@ -2,6 +2,10 @@
   "id": "plantation-at-ponte-vedra",
   "name": "Plantation At Ponte Vedra",
   "town": "Ponte Vedra Beach, FL",
+  "location": {
+    "lat": 30.173483,
+    "lng": -81.375941
+  },
   "tees": [
     "Black",
     "Blue/Green",

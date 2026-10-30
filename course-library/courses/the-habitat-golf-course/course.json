@@ -2,6 +2,10 @@
   "id": "the-habitat-golf-course",
   "name": "The Habitat Golf Course",
   "town": "Malabar, FL",
+  "location": {
+    "lat": 27.95803,
+    "lng": -80.558555
+  },
   "tees": [
     "Black",
     "Gold",

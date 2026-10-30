@@ -2,6 +2,10 @@
   "id": "miromar-lakes-golf-club",
   "name": "Miromar Lakes Golf Club",
   "town": "Miromar Lakes, FL",
+  "location": {
+    "lat": 26.47093,
+    "lng": -81.787733
+  },
   "tees": [
     "1",
     "2",

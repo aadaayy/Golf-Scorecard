@@ -2,6 +2,10 @@
   "id": "dunedin-golf-club",
   "name": "Dunedin Golf Club",
   "town": "Dunedin, FL",
+  "location": {
+    "lat": 28.042416,
+    "lng": -82.777164
+  },
   "tees": [
     "Silver",
     "Gold"

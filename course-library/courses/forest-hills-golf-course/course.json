@@ -2,6 +2,10 @@
   "id": "forest-hills-golf-course",
   "name": "Forest Hills Golf Course",
   "town": "Holiday, FL",
+  "location": {
+    "lat": 28.176011,
+    "lng": -82.727896
+  },
   "tees": [
     "Blue",
     "White",

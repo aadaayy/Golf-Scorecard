@@ -2,6 +2,10 @@
   "id": "lakes-at-sandridge-golf-club",
   "name": "Lakes At Sandridge Golf Club",
   "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.727447,
+    "lng": -80.439966
+  },
   "tees": [
     "Gold",
     "Blue",

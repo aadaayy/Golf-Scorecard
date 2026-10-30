@@ -2,6 +2,10 @@
   "id": "indian-river-preserve-golf-club",
   "name": "Indian River Preserve Golf Club",
   "town": "Mims, FL",
+  "location": {
+    "lat": 28.691376,
+    "lng": -80.86928
+  },
   "tees": [
     "Black",
     "Gold",

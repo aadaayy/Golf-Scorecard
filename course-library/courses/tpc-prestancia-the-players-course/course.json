@@ -2,6 +2,10 @@
   "id": "tpc-prestancia-the-players-course",
   "name": "Tpc Prestancia The Players Course",
   "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.245665,
+    "lng": -82.480157
+  },
   "tees": [
     "Black",
     "Black/Blue",

@@ -2,6 +2,10 @@
   "id": "indian-spring-country-club-west-course",
   "name": "Indian Spring Country Club West Course",
   "town": "Boynton Beach, FL",
+  "location": {
+    "lat": 26.507124,
+    "lng": -80.136911
+  },
   "tees": [
     "Gold/Championship",
     "Blue/Players",

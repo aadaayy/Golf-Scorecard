@@ -11,9 +11,11 @@ enum SettingsKey {
     static let usualTee = "usualTee"
     /// Shows the round being played on the Lock Screen (a Live Activity). On unless turned off.
     static let showOnLockScreen = "showRoundOnLockScreen"
+    /// Find Courses opens on the map instead of the list, once it was last left on the map.
+    static let findCoursesOnMap = "findCoursesOnMap"
 
     /// Every setting, so "Erase everything" and the UI tests can clear them.
-    static let all = [onboarded, playerName, handicap, usualTee, showOnLockScreen, OpenLayout.storageKey]
+    static let all = [onboarded, playerName, handicap, usualTee, showOnLockScreen, findCoursesOnMap, OpenLayout.storageKey]
 
     static func eraseAll() {
         for key in all { UserDefaults.standard.removeObject(forKey: key) }

@@ -2,6 +2,10 @@
   "id": "tpc-treviso-bay",
   "name": "Tpc Treviso Bay",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.071767,
+    "lng": -81.733539
+  },
   "tees": [
     "Pga Tour",
     "Championship",

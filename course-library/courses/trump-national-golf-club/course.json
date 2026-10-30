@@ -2,6 +2,10 @@
   "id": "trump-national-golf-club",
   "name": "Trump National Golf Club",
   "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.887368,
+    "lng": -80.089473
+  },
   "tees": [
     "Web",
     "Black",

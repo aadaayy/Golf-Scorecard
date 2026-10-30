@@ -2,6 +2,10 @@
   "id": "highlands-reserve-golf-club",
   "name": "Highlands Reserve Golf Club",
   "town": "Davenport, FL",
+  "location": {
+    "lat": 28.302128,
+    "lng": -81.671545
+  },
   "tees": [
     "Black",
     "White",

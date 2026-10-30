@@ -183,6 +183,118 @@ final class FindCoursesUITests: XCTestCase {
         capture("f9-open-duo-size-play")
     }
 
+    /// The map in Find Courses, with the whole Florida library: every course a
+    /// dot, the search zooming in on a town (Tampa, as if you didn't know its
+    /// courses' names), and tapping a dot to see a course and download it.
+    @MainActor
+    func testBrowseMap() throws {
+        let app = try launchWithWholeLibrary()
+        let find = app.buttons["find-courses"]
+        XCTAssertTrue(find.waitForExistence(timeout: 15), "Play should offer Find Courses")
+        find.tap()
+        showMap(in: app)
+
+        let caption = app.staticTexts["map-caption"]
+        XCTAssertTrue(caption.waitForExistence(timeout: 20), "The map should say how many courses are on it")
+        XCTAssertTrue(caption.label.contains("courses"), "The caption reads \(caption.label)")
+        sleep(4)  // the map tiles
+        capture("m1-map-florida")
+
+        // A town you don't know: the dots narrow to it and the map zooms in.
+        let search = app.searchFields.firstMatch
+        XCTAssertTrue(search.waitForExistence(timeout: 5), "The search should stay with the map")
+        search.tap()
+        search.typeText("Tampa\n")
+        XCTAssertTrue(wait(for: caption, label: "found", timeout: 10), "Searching should narrow the map (\(caption.label))")
+        sleep(4)
+        capture("m2-map-tampa")
+
+        // Tap a course's dot: its card, with Download.
+        let dot = element("map-course-carrollwood-country-club-pines-cypress-course", in: app)
+        XCTAssertTrue(dot.waitForExistence(timeout: 10), "Carrollwood should be a dot on the map of Tampa")
+        dot.tap()
+        let card = element("map-course-card", in: app)
+        XCTAssertTrue(card.waitForExistence(timeout: 5), "Tapping a dot should show the course")
+        sleep(1)
+        capture("m3-map-course-card")
+        let download = app.buttons["download-carrollwood-country-club-pines-cypress-course"]
+        XCTAssertTrue(download.waitForExistence(timeout: 5), "The card should have Download")
+        download.tap()
+        XCTAssertTrue(app.buttons["map-play-carrollwood-country-club-pines-cypress-course"].waitForExistence(timeout: 30),
+                      "Once downloaded, the card should offer Play")
+        sleep(1)
+        capture("m4-map-downloaded")
+        app.buttons["map-card-close"].tap()
+        XCTAssertTrue(waitForGone(card), "Close should put the card away")
+
+        // Two courses at one club share a dot: tapping it asks which.
+        let cluster = element("map-cluster", in: app)
+        if cluster.waitForExistence(timeout: 5) {
+            cluster.tap()
+            let north = app.buttons["North At Bay Palms Golf Complex"]
+            XCTAssertTrue(north.waitForExistence(timeout: 5), "Courses at one spot should be listed to pick from")
+            capture("m5-map-two-courses-one-spot")
+            north.tap()
+            XCTAssertTrue(card.waitForExistence(timeout: 5), "Picking one should show it")
+        }
+
+        // Sideways: the map on the left, the picked course on the right.
+        XCUIDevice.shared.orientation = .landscapeLeft
+        sleep(3)
+        capture("m6-sideways-map")
+        XCUIDevice.shared.orientation = .portrait
+        sleep(1)
+    }
+
+    /// The map at the open iPhone Duo's size, drawn on the Pro Max.
+    @MainActor
+    func testOpenDuoMap() throws {
+        let device = ProcessInfo.processInfo.environment["SIMULATOR_DEVICE_NAME"] ?? ""
+        try XCTSkipUnless(device.contains("Pro Max"), "The open Duo pictures are taken on the Pro Max only")
+        XCUIDevice.shared.orientation = .landscapeLeft
+        let app = try launchWithWholeLibrary(["-openDuoPreview", "-home"])
+        let find = app.buttons["find-courses"]
+        XCTAssertTrue(find.waitForExistence(timeout: 15), "Play should offer Find Courses")
+        find.tap()
+        showMap(in: app)
+        XCTAssertTrue(element("map-hint", in: app).waitForExistence(timeout: 20), "The right half should say to tap a course")
+        sleep(4)
+        capture("m7-open-duo-size-map")
+
+        let search = app.searchFields.firstMatch
+        XCTAssertTrue(search.waitForExistence(timeout: 5))
+        search.tap()
+        search.typeText("Tampa\n")
+        let dot = element("map-course-carrollwood-country-club-pines-cypress-course", in: app)
+        XCTAssertTrue(dot.waitForExistence(timeout: 10), "Carrollwood should be a dot on the map of Tampa")
+        sleep(3)
+        dot.tap()
+        XCTAssertTrue(app.otherElements["library-detail"].waitForExistence(timeout: 5),
+                      "The course tapped on the map should show on the right half")
+        sleep(1)
+        capture("m8-open-duo-size-map-course")
+    }
+
+    /// The checks pass the repository's whole course library in WHOLE_COURSE_LIBRARY_URL.
+    private func launchWithWholeLibrary(_ extra: [String] = []) throws -> XCUIApplication {
+        let library = try XCTUnwrap(ProcessInfo.processInfo.environment["WHOLE_COURSE_LIBRARY_URL"],
+                                    "WHOLE_COURSE_LIBRARY_URL isn't set; the checks set it to the repository's course-library folder")
+        let app = XCUIApplication()
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-noBuiltInCourses", "-courseLibraryURL", library] + extra
+        app.launch()
+        return app
+    }
+
+    private func showMap(in app: XCUIApplication) {
+        let mapSide = app.segmentedControls.buttons["Map"].firstMatch
+        XCTAssertTrue(mapSide.waitForExistence(timeout: 20), "Find Courses should have List | Map")
+        mapSide.tap()
+    }
+
+    private func element(_ identifier: String, in app: XCUIApplication) -> XCUIElement {
+        app.descendants(matching: .any).matching(identifier: identifier).firstMatch
+    }
+
     /// The Back button is in the navigation bar on most iPhones and at the side on the Duo.
     private func back(in app: XCUIApplication) {
         let side = app.buttons["BackButton"].firstMatch

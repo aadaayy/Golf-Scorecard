@@ -2,6 +2,10 @@
   "id": "new-smyrna-golf-club",
   "name": "New Smyrna Golf Club",
   "town": "New Smyrna Beach, FL",
+  "location": {
+    "lat": 29.030289,
+    "lng": -80.94125
+  },
   "tees": [
     "Blue",
     "White",

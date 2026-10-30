@@ -2,6 +2,10 @@
   "id": "second-third-at-lake-venice-golf-club",
   "name": "Second Third At Lake Venice Golf Club",
   "town": "Venice, FL",
+  "location": {
+    "lat": 27.064481,
+    "lng": -82.445978
+  },
   "tees": [
     "Blue",
     "White",

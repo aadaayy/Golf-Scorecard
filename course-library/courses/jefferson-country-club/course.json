@@ -2,6 +2,10 @@
   "id": "jefferson-country-club",
   "name": "Jefferson Country Club",
   "town": "Monticello, FL",
+  "location": {
+    "lat": 30.567415,
+    "lng": -83.859428
+  },
   "tees": [
     "White",
     "Red"

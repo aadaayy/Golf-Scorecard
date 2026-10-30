@@ -2,6 +2,10 @@
   "id": "summerglen-golf-club",
   "name": "Summerglen Golf Club",
   "town": "Ocala, FL",
+  "location": {
+    "lat": 28.99061,
+    "lng": -82.150833
+  },
   "tees": [
     "Black",
     "Blue",

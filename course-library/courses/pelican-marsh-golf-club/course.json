@@ -2,6 +2,10 @@
   "id": "pelican-marsh-golf-club",
   "name": "Pelican Marsh Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.252787,
+    "lng": -81.78099
+  },
   "tees": [
     "I",
     "II",

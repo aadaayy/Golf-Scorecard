@@ -2,6 +2,10 @@
   "id": "wildcat-crossing-golf-club",
   "name": "Wildcat Crossing Golf Club",
   "town": "Lehigh Acres, FL",
+  "location": {
+    "lat": 26.574054,
+    "lng": -81.628819
+  },
   "tees": [
     "Blue",
     "White",

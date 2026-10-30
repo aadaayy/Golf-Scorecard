@@ -2,6 +2,10 @@
   "id": "blue-heron-golf-club",
   "name": "Blue Heron Golf Club",
   "town": "Punta Gorda, FL",
+  "location": {
+    "lat": 26.886478,
+    "lng": -81.995114
+  },
   "tees": [
     "Gold",
     "Blue",

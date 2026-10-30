@@ -2,6 +2,10 @@
   "id": "halifax-plantation",
   "name": "Halifax Plantation",
   "town": "Ormond Beach, FL",
+  "location": {
+    "lat": 29.390539,
+    "lng": -81.137131
+  },
   "tees": [
     "Black"
   ],

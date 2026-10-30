@@ -7,6 +7,10 @@ The library is a folder (course-library in the app repository) laid out like thi
   courses/<id>/course.json        the course, in the app's course format
   courses/<id>/<map>.svg          one drawing per hole, named after the hole's "map"
 
+A course.json may say where the course is, as "location": {"lat": 28.05, "lng": -82.46}.
+The index carries it as "lat" and "lng", and Find Courses puts the course on its map.
+Courses with no location still show in the list and the search.
+
 Run it after adding or changing a course, then push:
 
   python3 Tools/CourseLibrary/build_index.py course-library          writes course-library/index.json
@@ -61,6 +65,11 @@ def course_problems(course, folder_name, files):
             maps.append(hole["map"])
             if f"{hole['map']}.svg" not in files:
                 problems.append(f"hole {n}: drawing {hole['map']}.svg is missing")
+    place = course.get("location")
+    if place is not None:
+        lat, lng = (place.get("lat"), place.get("lng")) if isinstance(place, dict) else (None, None)
+        if not isinstance(lat, (int, float)) or not isinstance(lng, (int, float)) or not (-90 <= lat <= 90 and -180 <= lng <= 180):
+            problems.append('location must be {"lat": number, "lng": number} with a real latitude and longitude')
     if len(set(maps)) != len(maps):
         problems.append("two holes use the same drawing")
     handicaps = [h["handicap"] for h in holes if h.get("handicap") is not None]
@@ -123,8 +132,16 @@ def build(library):
             "files": files,
             "bytes": sum(os.path.getsize(os.path.join(folder, f)) for f in files),
         })
+        place = course.get("location")
+        if isinstance(place, dict) and isinstance(place.get("lat"), (int, float)) and isinstance(place.get("lng"), (int, float)):
+            entries[-1]["lat"] = place["lat"]
+            entries[-1]["lng"] = place["lng"]
     entries.sort(key=lambda e: e["name"].lower())
     return {"format": FORMAT, "courses": entries}, problems
+
+
+def on_map(index):
+    return sum(1 for e in index["courses"] if "lat" in e)
 
 
 def main():
@@ -145,11 +162,11 @@ def main():
         if current != text:
             print("index.json is out of date: run Tools/CourseLibrary/build_index.py course-library and push the new index.json", file=sys.stderr)
             sys.exit(1)
-        print(f"index.json is up to date: {len(index['courses'])} courses")
+        print(f"index.json is up to date: {len(index['courses'])} courses, {on_map(index)} on the map")
     else:
         with open(path, "w", encoding="utf-8") as f:
             f.write(text)
-        print(f"Wrote index.json: {len(index['courses'])} courses")
+        print(f"Wrote index.json: {len(index['courses'])} courses, {on_map(index)} on the map")
 
 
 if __name__ == "__main__":

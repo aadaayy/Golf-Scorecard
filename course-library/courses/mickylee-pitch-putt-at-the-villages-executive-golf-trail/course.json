@@ -2,6 +2,10 @@
   "id": "mickylee-pitch-putt-at-the-villages-executive-golf-trail",
   "name": "Mickylee Pitch Putt At The Villages Executive Golf Trail",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.768073,
+    "lng": -81.946152
+  },
   "tees": [
     "Mens",
     "Ladies"

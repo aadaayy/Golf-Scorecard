@@ -2,6 +2,10 @@
   "id": "royal-palm-yacht-country-club",
   "name": "Royal Palm Yacht Country Club",
   "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.326476,
+    "lng": -80.087687
+  },
   "tees": [
     "Black",
     "Gold",

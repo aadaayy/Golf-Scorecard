@@ -2,6 +2,10 @@
   "id": "bay-colony-golf-club",
   "name": "Bay Colony Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.264108,
+    "lng": -81.794928
+  },
   "tees": [
     "Championship",
     "Back",

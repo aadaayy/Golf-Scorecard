@@ -2,6 +2,10 @@
   "id": "south-at-quail-ridge-country-club",
   "name": "South At Quail Ridge Country Club",
   "town": "Boynton Beach, FL",
+  "location": {
+    "lat": 26.506691,
+    "lng": -80.101366
+  },
   "tees": [
     "I",
     "I/Ii",

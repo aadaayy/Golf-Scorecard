@@ -2,6 +2,10 @@
   "id": "leisureville-fairway",
   "name": "Leisureville Fairway",
   "town": "Pompano Beach, FL",
+  "location": {
+    "lat": 26.266832,
+    "lng": -80.125286
+  },
   "tees": [
     "Ladies",
     "Mens"

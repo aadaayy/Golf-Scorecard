@@ -2,6 +2,10 @@
   "id": "the-concession-golf-club-the-gimme-course",
   "name": "The Concession Golf Club The Gimme Course",
   "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.403994,
+    "lng": -82.344749
+  },
   "tees": [
     "Web",
     "White"

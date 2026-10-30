@@ -2,6 +2,10 @@
   "id": "manatee-cove-golf-course",
   "name": "Manatee Cove Golf Course",
   "town": "Patrick Space Force Base, FL",
+  "location": {
+    "lat": 28.214778,
+    "lng": -80.61161
+  },
   "tees": [
     "Sharks",
     "Manatees",

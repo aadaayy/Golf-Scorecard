@@ -2,6 +2,10 @@
   "id": "kelly-plantation-golf-club",
   "name": "Kelly Plantation Golf Club",
   "town": "Destin, FL",
+  "location": {
+    "lat": 30.399941,
+    "lng": -86.437958
+  },
   "tees": [
     "Couples",
     "Plantation",

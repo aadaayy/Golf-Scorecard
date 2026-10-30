@@ -2,6 +2,10 @@
   "id": "penney-farms-retirement-community-golf-course",
   "name": "Penney Farms Retirement Community Golf Course",
   "town": "Green Cove Springs, FL",
+  "location": {
+    "lat": 29.978071,
+    "lng": -81.810068
+  },
   "tees": [
     "White"
   ],

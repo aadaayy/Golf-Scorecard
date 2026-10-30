@@ -2,6 +2,10 @@
   "id": "isleworth-country-club",
   "name": "Isleworth Country Club",
   "town": "Windermere, FL",
+  "location": {
+    "lat": 28.47764,
+    "lng": -81.5275
+  },
   "tees": [
     "Tiger",
     "Palmer",

@@ -2,6 +2,10 @@
   "id": "red-blue-at-westchester-golf-country-club",
   "name": "Red Blue At Westchester Golf Country Club",
   "town": "Boynton Beach, FL",
+  "location": {
+    "lat": 26.495517,
+    "lng": -80.145741
+  },
   "tees": [
     "Gold",
     "Blue",

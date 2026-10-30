@@ -2,6 +2,10 @@
   "id": "waterlefe-golf-river-club",
   "name": "Waterlefe Golf River Club",
   "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.51523,
+    "lng": -82.441954
+  },
   "tees": [
     "Web",
     "Gold",

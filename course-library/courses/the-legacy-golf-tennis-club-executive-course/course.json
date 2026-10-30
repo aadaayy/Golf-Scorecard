@@ -2,6 +2,10 @@
   "id": "the-legacy-golf-tennis-club-executive-course",
   "name": "The Legacy Golf Tennis Club Executive Course",
   "town": "Port St. Lucie, FL",
+  "location": {
+    "lat": 27.328407,
+    "lng": -80.425685
+  },
   "tees": [],
   "holes": [
     {

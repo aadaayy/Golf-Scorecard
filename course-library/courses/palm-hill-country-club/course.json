@@ -2,6 +2,10 @@
   "id": "palm-hill-country-club",
   "name": "Palm Hill Country Club",
   "town": "Largo, FL",
+  "location": {
+    "lat": 27.900131,
+    "lng": -82.789003
+  },
   "tees": [
     "Ladies"
   ],

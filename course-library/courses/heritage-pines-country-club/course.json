@@ -2,6 +2,10 @@
   "id": "heritage-pines-country-club",
   "name": "Heritage Pines Country Club",
   "town": "Trinity, FL",
+  "location": {
+    "lat": 28.178439,
+    "lng": -82.627294
+  },
   "tees": [
     "Gold",
     "White",

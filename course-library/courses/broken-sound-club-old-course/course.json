@@ -2,6 +2,10 @@
   "id": "broken-sound-club-old-course",
   "name": "Broken Sound Club Old Course",
   "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.400698,
+    "lng": -80.129721
+  },
   "tees": [
     "Green"
   ],

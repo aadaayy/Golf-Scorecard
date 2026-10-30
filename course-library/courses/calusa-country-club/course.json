@@ -2,6 +2,10 @@
   "id": "calusa-country-club",
   "name": "Calusa Country Club",
   "town": "Lakewood Ranch, FL",
+  "location": {
+    "lat": 27.438455,
+    "lng": -82.342075
+  },
   "tees": [
     "I",
     "II",

@@ -2,6 +2,10 @@
   "id": "fort-myers-country-club",
   "name": "Fort Myers Country Club",
   "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.610509,
+    "lng": -81.884104
+  },
   "tees": [
     "Black",
     "Blue",

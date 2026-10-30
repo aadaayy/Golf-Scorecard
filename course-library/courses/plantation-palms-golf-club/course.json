@@ -2,6 +2,10 @@
   "id": "plantation-palms-golf-club",
   "name": "Plantation Palms Golf Club",
   "town": "Land O' Lakes, FL",
+  "location": {
+    "lat": 28.206077,
+    "lng": -82.42995
+  },
   "tees": [
     "Blue",
     "White",

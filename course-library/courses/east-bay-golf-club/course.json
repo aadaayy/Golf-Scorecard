@@ -2,6 +2,10 @@
   "id": "east-bay-golf-club",
   "name": "East Bay Golf Club",
   "town": "Largo, FL",
+  "location": {
+    "lat": 27.909374,
+    "lng": -82.767409
+  },
   "tees": [
     "Back",
     "Middle",

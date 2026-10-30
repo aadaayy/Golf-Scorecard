@@ -2,6 +2,10 @@
   "id": "eagle-ridge-golf-club-memorial-course",
   "name": "Eagle Ridge Golf Club Memorial Course",
   "town": "Summerfield, FL",
+  "location": {
+    "lat": 29.025424,
+    "lng": -81.998517
+  },
   "tees": [],
   "holes": [
     {

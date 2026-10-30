@@ -2,6 +2,10 @@
   "id": "ballenisles-country-club-south-course",
   "name": "Ballenisles Country Club South Course",
   "town": "Palm Beach Gardens, FL",
+  "location": {
+    "lat": 26.832116,
+    "lng": -80.116677
+  },
   "tees": [
     "Black",
     "Gold",

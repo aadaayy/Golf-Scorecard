@@ -2,6 +2,10 @@
   "id": "palmetto-golf-course",
   "name": "Palmetto Golf Course",
   "town": "Palmetto Bay, FL",
+  "location": {
+    "lat": 25.628424,
+    "lng": -80.344124
+  },
   "tees": [
     "Blue",
     "White",

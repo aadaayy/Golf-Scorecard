@@ -2,6 +2,10 @@
   "id": "the-first-tee-of-north-florida-brentwood-golf-course",
   "name": "The First Tee Of North Florida Brentwood Golf Course",
   "town": "Jacksonville, FL",
+  "location": {
+    "lat": 30.367847,
+    "lng": -81.674706
+  },
   "tees": [
     "Gold",
     "Web",

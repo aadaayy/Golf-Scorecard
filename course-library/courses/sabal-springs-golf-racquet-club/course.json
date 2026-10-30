@@ -2,6 +2,10 @@
   "id": "sabal-springs-golf-racquet-club",
   "name": "Sabal Springs Golf Racquet Club",
   "town": "North Fort Myers, FL",
+  "location": {
+    "lat": 26.720929,
+    "lng": -81.899635
+  },
   "tees": [
     "Blue",
     "White",

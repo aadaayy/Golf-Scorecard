@@ -2,6 +2,10 @@
   "id": "miami-springs-golf-country-club",
   "name": "Miami Springs Golf Country Club",
   "town": "Miami Springs, FL",
+  "location": {
+    "lat": 25.814427,
+    "lng": -80.288982
+  },
   "tees": [
     "Blue",
     "White",

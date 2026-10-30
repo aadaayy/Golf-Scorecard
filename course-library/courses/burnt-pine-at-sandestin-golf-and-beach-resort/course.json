@@ -2,6 +2,10 @@
   "id": "burnt-pine-at-sandestin-golf-and-beach-resort",
   "name": "Burnt Pine At Sandestin Golf And Beach Resort",
   "town": "Miramar Beach, FL",
+  "location": {
+    "lat": 30.400698,
+    "lng": -86.316243
+  },
   "tees": [
     "#1",
     "#2",

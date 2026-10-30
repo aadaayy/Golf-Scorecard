@@ -2,6 +2,10 @@
   "id": "capital-city-country-club",
   "name": "Capital City Country Club",
   "town": "Tallahassee, FL",
+  "location": {
+    "lat": 30.426292,
+    "lng": -84.27497
+  },
   "tees": [
     "Blue",
     "White",

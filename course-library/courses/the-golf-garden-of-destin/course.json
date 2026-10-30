@@ -2,6 +2,10 @@
   "id": "the-golf-garden-of-destin",
   "name": "The Golf Garden Of Destin",
   "town": "Miramar Beach, FL",
+  "location": {
+    "lat": 30.385617,
+    "lng": -86.388123
+  },
   "tees": [
     "Black",
     "Web",

@@ -2,6 +2,10 @@
   "id": "the-biltmore-golf-course",
   "name": "The Biltmore Golf Course",
   "town": "Coral Gables, FL",
+  "location": {
+    "lat": 25.740544,
+    "lng": -80.280065
+  },
   "tees": [
     "Black",
     "Web",

@@ -2,6 +2,10 @@
   "id": "florida-caverns-golf-course",
   "name": "Florida Caverns Golf Course",
   "town": "Marianna, FL",
+  "location": {
+    "lat": 30.808555,
+    "lng": -85.217243
+  },
   "tees": [
     "Gold",
     "Blue",

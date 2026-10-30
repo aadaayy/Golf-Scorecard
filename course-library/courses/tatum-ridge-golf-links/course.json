@@ -2,6 +2,10 @@
   "id": "tatum-ridge-golf-links",
   "name": "Tatum Ridge Golf Links",
   "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.345147,
+    "lng": -82.416252
+  },
   "tees": [
     "Blue",
     "Gold",

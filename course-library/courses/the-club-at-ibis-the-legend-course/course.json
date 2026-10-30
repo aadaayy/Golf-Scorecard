@@ -2,6 +2,10 @@
   "id": "the-club-at-ibis-the-legend-course",
   "name": "The Club At Ibis The Legend Course",
   "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.797874,
+    "lng": -80.206642
+  },
   "tees": [
     "V",
     "4.5",

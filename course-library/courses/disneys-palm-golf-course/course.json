@@ -2,6 +2,10 @@
   "id": "disneys-palm-golf-course",
   "name": "Disneys Palm Golf Course",
   "town": "Lake Buena Vista, FL",
+  "location": {
+    "lat": 28.403382,
+    "lng": -81.592375
+  },
   "tees": [
     "Blue",
     "White",

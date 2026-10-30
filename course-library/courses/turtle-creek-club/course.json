@@ -2,6 +2,10 @@
   "id": "turtle-creek-club",
   "name": "Turtle Creek Club",
   "town": "Tequesta, FL",
+  "location": {
+    "lat": 26.976309,
+    "lng": -80.117966
+  },
   "tees": [
     "Black",
     "Black/Blue",

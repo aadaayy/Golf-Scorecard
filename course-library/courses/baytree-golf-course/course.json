@@ -2,6 +2,10 @@
   "id": "baytree-golf-course",
   "name": "Baytree Golf Course",
   "town": "Viera, FL",
+  "location": {
+    "lat": 28.21738,
+    "lng": -80.70963
+  },
   "tees": [
     "Blue",
     "White",

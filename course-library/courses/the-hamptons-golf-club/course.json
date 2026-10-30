@@ -2,6 +2,10 @@
   "id": "the-hamptons-golf-club",
   "name": "The Hamptons Golf Club",
   "town": "Auburndale, FL",
+  "location": {
+    "lat": 28.05039,
+    "lng": -81.845616
+  },
   "tees": [
     "Blue",
     "White",

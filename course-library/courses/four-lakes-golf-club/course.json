@@ -2,6 +2,10 @@
   "id": "four-lakes-golf-club",
   "name": "Four Lakes Golf Club",
   "town": "Winter Haven, FL",
+  "location": {
+    "lat": 28.081114,
+    "lng": -81.694511
+  },
   "tees": [
     "Blue",
     "White",

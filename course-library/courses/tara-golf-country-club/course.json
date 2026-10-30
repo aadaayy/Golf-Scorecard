@@ -2,6 +2,10 @@
   "id": "tara-golf-country-club",
   "name": "Tara Golf Country Club",
   "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.439455,
+    "lng": -82.476814
+  },
   "tees": [
     "Tee I",
     "Tee Ii",

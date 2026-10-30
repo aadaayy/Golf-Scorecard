@@ -2,6 +2,10 @@
   "id": "highland-woods-golf-country-club",
   "name": "Highland Woods Golf Country Club",
   "town": "Bonita Springs, FL",
+  "location": {
+    "lat": 26.351455,
+    "lng": -81.800004
+  },
   "tees": [
     "White"
   ],

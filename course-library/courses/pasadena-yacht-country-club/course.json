@@ -2,6 +2,10 @@
   "id": "pasadena-yacht-country-club",
   "name": "Pasadena Yacht Country Club",
   "town": "Gulfport, FL",
+  "location": {
+    "lat": 27.748979,
+    "lng": -82.721809
+  },
   "tees": [
     "Black",
     "White",

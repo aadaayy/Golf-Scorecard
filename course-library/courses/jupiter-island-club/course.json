@@ -2,6 +2,10 @@
   "id": "jupiter-island-club",
   "name": "Jupiter Island Club",
   "town": "Hobe Sound, FL",
+  "location": {
+    "lat": 27.051739,
+    "lng": -80.111331
+  },
   "tees": [
     "Middle"
   ],

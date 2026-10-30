@@ -2,6 +2,10 @@
   "id": "eagle-springs-golf-course",
   "name": "Eagle Springs Golf Course",
   "town": "Defuniak Springs, FL",
+  "location": {
+    "lat": 30.728411,
+    "lng": -86.140213
+  },
   "tees": [
     "Blue",
     "White",

@@ -2,6 +2,10 @@
   "id": "briarwood-at-the-villages-executive-golf-trail",
   "name": "Briarwood At The Villages Executive Golf Trail",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.972604,
+    "lng": -82.011578
+  },
   "tees": [
     "Blue",
     "White",

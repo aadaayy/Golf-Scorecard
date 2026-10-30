@@ -2,6 +2,10 @@
   "id": "sebastian-municipal-golf-course",
   "name": "Sebastian Municipal Golf Course",
   "town": "Sebastian, FL",
+  "location": {
+    "lat": 27.807844,
+    "lng": -80.490024
+  },
   "tees": [
     "Web",
     "Champ",

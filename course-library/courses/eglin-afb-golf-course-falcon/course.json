@@ -2,6 +2,10 @@
   "id": "eglin-afb-golf-course-falcon",
   "name": "Eglin Afb Golf Course Falcon",
   "town": "Niceville, FL",
+  "location": {
+    "lat": 30.527722,
+    "lng": -86.491091
+  },
   "tees": [],
   "holes": [
     {

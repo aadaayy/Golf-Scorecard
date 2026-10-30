@@ -2,6 +2,10 @@
   "id": "glenlakes-country-club",
   "name": "Glenlakes Country Club",
   "town": "Spring Hill, FL",
+  "location": {
+    "lat": 28.567375,
+    "lng": -82.559806
+  },
   "tees": [
     "Black",
     "Blue",

@@ -2,6 +2,10 @@
   "id": "remington-golf-club",
   "name": "Remington Golf Club",
   "town": "Kissimmee, FL",
+  "location": {
+    "lat": 28.290996,
+    "lng": -81.323478
+  },
   "tees": [
     "Black",
     "Blue",

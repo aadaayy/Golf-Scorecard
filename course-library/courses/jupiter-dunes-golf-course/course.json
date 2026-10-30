@@ -2,6 +2,10 @@
   "id": "jupiter-dunes-golf-course",
   "name": "Jupiter Dunes Golf Course",
   "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.938268,
+    "lng": -80.07612
+  },
   "tees": [
     "Middle"
   ],

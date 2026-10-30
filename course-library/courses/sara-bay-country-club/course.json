@@ -2,6 +2,10 @@
   "id": "sara-bay-country-club",
   "name": "Sara Bay Country Club",
   "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.415548,
+    "lng": -82.567445
+  },
   "tees": [
     "Black",
     "Blue",

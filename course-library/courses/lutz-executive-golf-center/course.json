@@ -2,6 +2,10 @@
   "id": "lutz-executive-golf-center",
   "name": "Lutz Executive Golf Center",
   "town": "Lutz, FL",
+  "location": {
+    "lat": 28.166162,
+    "lng": -82.431839
+  },
   "tees": [
     "White"
   ],

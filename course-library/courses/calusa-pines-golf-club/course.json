@@ -2,6 +2,10 @@
   "id": "calusa-pines-golf-club",
   "name": "Calusa Pines Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.263584,
+    "lng": -81.666443
+  },
   "tees": [
     "Gold",
     "Black",

@@ -2,6 +2,10 @@
   "id": "clerbrook-golf-rv-resort",
   "name": "Clerbrook Golf Rv Resort",
   "town": "Clermont, FL",
+  "location": {
+    "lat": 28.63801,
+    "lng": -81.787466
+  },
   "tees": [
     "Blue",
     "White",

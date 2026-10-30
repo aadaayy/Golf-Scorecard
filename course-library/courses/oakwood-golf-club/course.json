@@ -2,6 +2,10 @@
   "id": "oakwood-golf-club",
   "name": "Oakwood Golf Club",
   "town": "Lake Wales, FL",
+  "location": {
+    "lat": 27.907399,
+    "lng": -81.533404
+  },
   "tees": [
     "Black",
     "Gold",

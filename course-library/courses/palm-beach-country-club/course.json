@@ -2,6 +2,10 @@
   "id": "palm-beach-country-club",
   "name": "Palm Beach Country Club",
   "town": "Palm Beach, FL",
+  "location": {
+    "lat": 26.742397,
+    "lng": -80.035593
+  },
   "tees": [
     "White"
   ],

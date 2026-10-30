@@ -2,6 +2,10 @@
   "id": "cypress-run-golf-club",
   "name": "Cypress Run Golf Club",
   "town": "Tarpon Springs, FL",
+  "location": {
+    "lat": 28.158689,
+    "lng": -82.707785
+  },
   "tees": [
     "Gold",
     "Blue",

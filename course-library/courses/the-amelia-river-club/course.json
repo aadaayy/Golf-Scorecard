@@ -2,6 +2,10 @@
   "id": "the-amelia-river-club",
   "name": "The Amelia River Club",
   "town": "Fernandina Beach, FL",
+  "location": {
+    "lat": 30.601111,
+    "lng": -81.466111
+  },
   "tees": [
     "Gold",
     "Blue",

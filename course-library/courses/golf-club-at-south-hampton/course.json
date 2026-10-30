@@ -2,6 +2,10 @@
   "id": "golf-club-at-south-hampton",
   "name": "Golf Club At South Hampton",
   "town": "St. Augustine, FL",
+  "location": {
+    "lat": 30.046596,
+    "lng": -81.547134
+  },
   "tees": [
     "Gold",
     "Web",

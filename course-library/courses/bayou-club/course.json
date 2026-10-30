@@ -2,6 +2,10 @@
   "id": "bayou-club",
   "name": "Bayou Club",
   "town": "Largo, FL",
+  "location": {
+    "lat": 27.863001,
+    "lng": -82.74818
+  },
   "tees": [
     "Gold",
     "Chairman",

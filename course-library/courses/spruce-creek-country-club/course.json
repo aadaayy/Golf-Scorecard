@@ -2,6 +2,10 @@
   "id": "spruce-creek-country-club",
   "name": "Spruce Creek Country Club",
   "town": "Port Orange, FL",
+  "location": {
+    "lat": 29.075589,
+    "lng": -81.048734
+  },
   "tees": [
     "Gold",
     "Blue",

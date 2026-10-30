@@ -2,6 +2,10 @@
   "id": "naples-national-golf-club",
   "name": "Naples National Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.132215,
+    "lng": -81.690198
+  },
   "tees": [
     "Championship",
     "Back",

@@ -2,6 +2,10 @@
   "id": "bobby-jones-golf-club-john-hamilton-gillespie-course",
   "name": "Bobby Jones Golf Club John Hamilton Gillespie Course",
   "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.345541,
+    "lng": -82.488193
+  },
   "tees": [],
   "holes": [
     {

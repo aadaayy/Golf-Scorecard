@@ -2,6 +2,10 @@
   "id": "scepter-golf-club-falcon-ibis-course",
   "name": "Scepter Golf Club Falcon Ibis Course",
   "town": "Sun City Center, FL",
+  "location": {
+    "lat": 27.690897,
+    "lng": -82.376471
+  },
   "tees": [
     "White",
     "Green",

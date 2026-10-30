@@ -2,6 +2,10 @@
   "id": "redtail-golf-club",
   "name": "Redtail Golf Club",
   "town": "Sorrento, FL",
+  "location": {
+    "lat": 28.827629,
+    "lng": -81.525991
+  },
   "tees": [
     "Black",
     "Blue",

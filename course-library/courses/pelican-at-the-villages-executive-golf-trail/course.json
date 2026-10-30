@@ -2,6 +2,10 @@
   "id": "pelican-at-the-villages-executive-golf-trail",
   "name": "Pelican At The Villages Executive Golf Trail",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.901035,
+    "lng": -81.986493
+  },
   "tees": [
     "Blue",
     "Web",

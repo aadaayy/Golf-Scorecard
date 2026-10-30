@@ -2,6 +2,10 @@
   "id": "country-club-of-coral-springs",
   "name": "Country Club Of Coral Springs",
   "town": "Coral Springs, FL",
+  "location": {
+    "lat": 26.27008,
+    "lng": -80.270881
+  },
   "tees": [
     "Black",
     "Blue",

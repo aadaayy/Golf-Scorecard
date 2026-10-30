@@ -2,6 +2,10 @@
   "id": "tiburon-golf-club-the-black-course",
   "name": "Tiburon Golf Club The Black Course",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.247831,
+    "lng": -81.764888
+  },
   "tees": [
     "Gold",
     "Black",

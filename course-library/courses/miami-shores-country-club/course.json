@@ -2,6 +2,10 @@
   "id": "miami-shores-country-club",
   "name": "Miami Shores Country Club",
   "town": "Miami Shores, FL",
+  "location": {
+    "lat": 25.868178,
+    "lng": -80.176199
+  },
   "tees": [
     "Blue",
     "White",

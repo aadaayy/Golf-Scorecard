@@ -2,6 +2,10 @@
   "id": "cooper-colony-country-club",
   "name": "Cooper Colony Country Club",
   "town": "Cooper City, FL",
+  "location": {
+    "lat": 26.057701,
+    "lng": -80.270067
+  },
   "tees": [
     "Ladie'"
   ],

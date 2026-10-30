@@ -2,6 +2,10 @@
   "id": "twin-brooks-golf-course",
   "name": "Twin Brooks Golf Course",
   "town": "Saint Petersburg, FL",
+  "location": {
+    "lat": 27.746868,
+    "lng": -82.686317
+  },
   "tees": [
     "Back",
     "Web",

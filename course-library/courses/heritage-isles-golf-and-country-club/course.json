@@ -2,6 +2,10 @@
   "id": "heritage-isles-golf-and-country-club",
   "name": "Heritage Isles Golf And Country Club",
   "town": "Tampa, FL",
+  "location": {
+    "lat": 28.14735,
+    "lng": -82.29641
+  },
   "tees": [
     "Gold",
     "Blue",

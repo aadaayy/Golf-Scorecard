@@ -2,6 +2,10 @@
   "id": "lakes-at-palm-aire-country-club",
   "name": "Lakes At Palm Aire Country Club",
   "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.405421,
+    "lng": -82.491314
+  },
   "tees": [],
   "holes": [
     {

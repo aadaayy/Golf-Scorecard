@@ -2,6 +2,10 @@
   "id": "pompano-pines",
   "name": "Pompano Beach Pines Course",
   "town": "Pompano Beach, FL",
+  "location": {
+    "lat": 26.245107,
+    "lng": -80.102812
+  },
   "version": 1,
   "tees": [
     "Gold",

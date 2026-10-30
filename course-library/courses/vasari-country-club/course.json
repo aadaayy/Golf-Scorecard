@@ -2,6 +2,10 @@
   "id": "vasari-country-club",
   "name": "Vasari Country Club",
   "town": "Bonita Springs, FL",
+  "location": {
+    "lat": 26.320452,
+    "lng": -81.753361
+  },
   "tees": [],
   "holes": [
     {

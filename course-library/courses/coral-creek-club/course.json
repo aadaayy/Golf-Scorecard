@@ -2,6 +2,10 @@
   "id": "coral-creek-club",
   "name": "Coral Creek Club",
   "town": "Placida, FL",
+  "location": {
+    "lat": 26.839843,
+    "lng": -82.26573
+  },
   "tees": [
     "Medal",
     "Blue",

@@ -2,6 +2,10 @@
   "id": "the-eagles-golf-club-lakes",
   "name": "The Eagles Golf Club Lakes",
   "town": "Odessa, FL",
+  "location": {
+    "lat": 28.102289,
+    "lng": -82.640749
+  },
   "tees": [],
   "holes": [
     {

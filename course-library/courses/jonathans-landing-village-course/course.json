@@ -2,6 +2,10 @@
   "id": "jonathans-landing-village-course",
   "name": "Jonathans Landing Village Course",
   "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.924084,
+    "lng": -80.089157
+  },
   "tees": [],
   "holes": [
     {

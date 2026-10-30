@@ -2,6 +2,10 @@
   "id": "the-resort-at-longboat-key-club-links-on-longboat",
   "name": "The Resort At Longboat Key Club Links On Longboat",
   "town": "Longboat Key, FL",
+  "location": {
+    "lat": 27.330562,
+    "lng": -82.590709
+  },
   "tees": [
     "Blue",
     "White",

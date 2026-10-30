@@ -2,6 +2,10 @@
   "id": "the-bears-club",
   "name": "The Bears Club",
   "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.890535,
+    "lng": -80.08575
+  },
   "tees": [
     "Championship",
     "I Bear",

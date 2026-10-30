@@ -2,6 +2,10 @@
   "id": "juliette-falls",
   "name": "Juliette Falls",
   "town": "Dunnellon, FL",
+  "location": {
+    "lat": 29.117532,
+    "lng": -82.416678
+  },
   "tees": [
     "Viking",
     "Blue",

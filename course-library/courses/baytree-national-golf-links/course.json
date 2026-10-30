@@ -2,6 +2,10 @@
   "id": "baytree-national-golf-links",
   "name": "Baytree National Golf Links",
   "town": "Melbourne, FL",
+  "location": {
+    "lat": 28.216831,
+    "lng": -80.709187
+  },
   "tees": [
     "Black",
     "Gold",

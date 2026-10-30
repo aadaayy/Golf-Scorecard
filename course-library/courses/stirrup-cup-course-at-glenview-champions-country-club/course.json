@@ -2,6 +2,10 @@
   "id": "stirrup-cup-course-at-glenview-champions-country-club",
   "name": "Stirrup Cup Course At Glenview Champions Country Club",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.949329,
+    "lng": -82.006792
+  },
   "tees": [
     "Black",
     "Gold",

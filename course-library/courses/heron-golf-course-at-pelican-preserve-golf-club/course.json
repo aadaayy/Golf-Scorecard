@@ -2,6 +2,10 @@
   "id": "heron-golf-course-at-pelican-preserve-golf-club",
   "name": "Heron Golf Course At Pelican Preserve Golf Club",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.901035,
+    "lng": -81.986493
+  },
   "tees": [
     "Black",
     "Blue",

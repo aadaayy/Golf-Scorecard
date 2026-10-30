@@ -2,6 +2,10 @@
   "id": "magnolia-landing-golf-country-club",
   "name": "Magnolia Landing Golf Country Club",
   "town": "North Fort Myers, FL",
+  "location": {
+    "lat": 26.760333,
+    "lng": -81.897409
+  },
   "tees": [
     "Black",
     "Gold",

@@ -2,6 +2,10 @@
   "id": "card-sound-golf-club",
   "name": "Card Sound Golf Club",
   "town": "Key Largo, FL",
+  "location": {
+    "lat": 25.327164,
+    "lng": -80.281616
+  },
   "tees": [
     "Black",
     "Gold",

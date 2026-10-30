@@ -2,6 +2,10 @@
   "id": "the-old-collier-golf-club",
   "name": "The Old Collier Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.27825,
+    "lng": -81.806287
+  },
   "tees": [
     "Championship",
     "Medal",

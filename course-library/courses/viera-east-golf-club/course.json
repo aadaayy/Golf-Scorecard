@@ -2,6 +2,10 @@
   "id": "viera-east-golf-club",
   "name": "Viera East Golf Club",
   "town": "Rockledge, FL",
+  "location": {
+    "lat": 28.277001,
+    "lng": -80.726051
+  },
   "tees": [
     "Black",
     "Gold",

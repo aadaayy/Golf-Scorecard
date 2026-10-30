@@ -2,6 +2,10 @@
   "id": "carrollwood-country-club-pines-cypress-course",
   "name": "Carrollwood Country Club Pines Cypress Course",
   "town": "Tampa, FL",
+  "location": {
+    "lat": 28.073265,
+    "lng": -82.513487
+  },
   "tees": [
     "Blue",
     "White",

@@ -2,6 +2,10 @@
   "id": "river-dolphin-golf-course-at-cocoa-beach-country-club",
   "name": "River Dolphin Golf Course At Cocoa Beach Country Club",
   "town": "Cocoa Beach, FL",
+  "location": {
+    "lat": 28.312838,
+    "lng": -80.635595
+  },
   "tees": [
     "Gold",
     "Blue",

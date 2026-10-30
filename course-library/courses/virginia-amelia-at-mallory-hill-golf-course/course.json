@@ -2,6 +2,10 @@
   "id": "virginia-amelia-at-mallory-hill-golf-course",
   "name": "Virginia Amelia At Mallory Hill Golf Course",
   "town": "Lady Lake, FL",
+  "location": {
+    "lat": 28.895278,
+    "lng": -81.967586
+  },
   "tees": [
     "Black",
     "Gold",

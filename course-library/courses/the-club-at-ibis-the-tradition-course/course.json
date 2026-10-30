@@ -2,6 +2,10 @@
   "id": "the-club-at-ibis-the-tradition-course",
   "name": "The Club At Ibis The Tradition Course",
   "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.797874,
+    "lng": -80.206642
+  },
   "tees": [
     "Nicklaus",
     "V",

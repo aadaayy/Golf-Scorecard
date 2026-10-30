@@ -2,6 +2,10 @@
   "id": "the-club-renaissance",
   "name": "The Club Renaissance",
   "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.556353,
+    "lng": -81.799698
+  },
   "tees": [
     "Gold",
     "Burgundy",

@@ -2,6 +2,10 @@
   "id": "lake-diamond-golf-country-club",
   "name": "Lake Diamond Golf Country Club",
   "town": "Ocala, FL",
+  "location": {
+    "lat": 29.127478,
+    "lng": -82.016708
+  },
   "tees": [
     "Championship/Gold",
     "Middle/Green",

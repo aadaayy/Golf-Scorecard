@@ -2,6 +2,10 @@
   "id": "lakewood-national-golf-club-commander-course",
   "name": "Lakewood National Golf Club Commander Course",
   "town": "Lakewood Ranch, FL",
+  "location": {
+    "lat": 27.437137,
+    "lng": -82.370681
+  },
   "tees": [
     "King",
     "Arnold",

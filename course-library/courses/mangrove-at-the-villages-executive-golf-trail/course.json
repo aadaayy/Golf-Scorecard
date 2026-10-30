@@ -2,6 +2,10 @@
   "id": "mangrove-at-the-villages-executive-golf-trail",
   "name": "Mangrove At The Villages Executive Golf Trail",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.855853,
+    "lng": -82.011875
+  },
   "tees": [
     "Blue",
     "White",

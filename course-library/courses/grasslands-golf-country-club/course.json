@@ -2,6 +2,10 @@
   "id": "grasslands-golf-country-club",
   "name": "Grasslands Golf Country Club",
   "town": "Lakeland, FL",
+  "location": {
+    "lat": 28.012763,
+    "lng": -81.980078
+  },
   "tees": [
     "Black",
     "Gold",

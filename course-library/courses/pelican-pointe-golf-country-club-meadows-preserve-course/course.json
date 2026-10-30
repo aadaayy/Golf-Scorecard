@@ -2,6 +2,10 @@
   "id": "pelican-pointe-golf-country-club-meadows-preserve-course",
   "name": "Pelican Pointe Golf Country Club Meadows Preserve Course",
   "town": "Venice, FL",
+  "location": {
+    "lat": 27.085422,
+    "lng": -82.402186
+  },
   "tees": [
     "Gold",
     "Blue",

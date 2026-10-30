@@ -2,6 +2,10 @@
   "id": "sound-river-course-at-pelican-sound-golf-river-club",
   "name": "Sound River Course At Pelican Sound Golf River Club",
   "town": "Estero, FL",
+  "location": {
+    "lat": 26.430746,
+    "lng": -81.824781
+  },
   "tees": [],
   "holes": [
     {

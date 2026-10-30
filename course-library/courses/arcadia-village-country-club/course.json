@@ -2,6 +2,10 @@
   "id": "arcadia-village-country-club",
   "name": "Arcadia Village Country Club",
   "town": "Arcadia, FL",
+  "location": {
+    "lat": 27.213588,
+    "lng": -81.829246
+  },
   "tees": [
     "Web",
     "White",

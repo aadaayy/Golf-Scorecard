@@ -2,6 +2,10 @@
   "id": "shallow-creek-golf-club",
   "name": "Shallow Creek Golf Club",
   "town": "Wildwood, FL",
+  "location": {
+    "lat": 28.738869,
+    "lng": -81.999546
+  },
   "tees": [
     "Gold",
     "Web",

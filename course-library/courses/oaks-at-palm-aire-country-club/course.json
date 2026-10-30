@@ -2,6 +2,10 @@
   "id": "oaks-at-palm-aire-country-club",
   "name": "Oaks At Palm Aire Country Club",
   "town": "Pompano Beach, FL",
+  "location": {
+    "lat": 26.219146,
+    "lng": -80.17728
+  },
   "tees": [
     "Blue",
     "Green",

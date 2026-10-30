@@ -2,6 +2,10 @@
   "id": "debary-golf-country-club",
   "name": "Debary Golf Country Club",
   "town": "DeBary, FL",
+  "location": {
+    "lat": 28.901782,
+    "lng": -81.313832
+  },
   "tees": [
     "Blue",
     "White",

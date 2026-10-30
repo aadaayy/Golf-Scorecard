@@ -2,6 +2,10 @@
   "id": "oak-leaf-golf-course",
   "name": "Oak Leaf Golf Course",
   "town": "Okeechobee, FL",
+  "location": {
+    "lat": 27.364903,
+    "lng": -80.819668
+  },
   "tees": [
     "Blue",
     "White",

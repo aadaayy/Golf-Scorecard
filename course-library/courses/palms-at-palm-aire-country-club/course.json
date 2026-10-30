@@ -2,6 +2,10 @@
   "id": "palms-at-palm-aire-country-club",
   "name": "Palms At Palm Aire Country Club",
   "town": "Pompano Beach, FL",
+  "location": {
+    "lat": 26.223732,
+    "lng": -80.157649
+  },
   "tees": [
     "Blue",
     "Green",

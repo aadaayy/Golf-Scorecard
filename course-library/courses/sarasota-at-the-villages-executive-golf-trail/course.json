@@ -2,6 +2,10 @@
   "id": "sarasota-at-the-villages-executive-golf-trail",
   "name": "Sarasota At The Villages Executive Golf Trail",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.860942,
+    "lng": -81.96009
+  },
   "tees": [
     "Black",
     "Web",

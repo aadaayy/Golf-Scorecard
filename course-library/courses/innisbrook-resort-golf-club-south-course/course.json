@@ -2,6 +2,10 @@
   "id": "innisbrook-resort-golf-club-south-course",
   "name": "Innisbrook Resort Golf Club South Course",
   "town": "FL 34683, FL",
+  "location": {
+    "lat": 28.112316,
+    "lng": -82.756941
+  },
   "tees": [
     "Black",
     "Green",

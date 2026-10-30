@@ -2,6 +2,10 @@
   "id": "royal-st-cloud-golf-links-red-white-course",
   "name": "Royal St Cloud Golf Links Red White Course",
   "town": "St Cloud, FL",
+  "location": {
+    "lat": 28.20776,
+    "lng": -81.2784
+  },
   "tees": [
     "Web",
     "Black",

@@ -2,6 +2,10 @@
   "id": "chiefland-golf-country-club",
   "name": "Chiefland Golf Country Club",
   "town": "Chiefland, FL",
+  "location": {
+    "lat": 29.495394,
+    "lng": -82.932938
+  },
   "tees": [],
   "holes": [
     {

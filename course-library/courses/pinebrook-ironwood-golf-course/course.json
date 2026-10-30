@@ -2,6 +2,10 @@
   "id": "pinebrook-ironwood-golf-course",
   "name": "Pinebrook Ironwood Golf Course",
   "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.464179,
+    "lng": -82.608381
+  },
   "tees": [
     "White",
     "Red"

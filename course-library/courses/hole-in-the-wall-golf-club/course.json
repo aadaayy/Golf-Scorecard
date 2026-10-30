@@ -2,6 +2,10 @@
   "id": "hole-in-the-wall-golf-club",
   "name": "Hole In The Wall Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.188154,
+    "lng": -81.790782
+  },
   "tees": [
     "Green",
     "Blue",

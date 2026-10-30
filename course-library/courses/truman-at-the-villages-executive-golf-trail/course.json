@@ -2,6 +2,10 @@
   "id": "truman-at-the-villages-executive-golf-trail",
   "name": "Truman At The Villages Executive Golf Trail",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.867244,
+    "lng": -81.979145
+  },
   "tees": [
     "Blue"
   ],

@@ -2,6 +2,10 @@
   "id": "osprey-point-golf-club-hawk-falcon-course",
   "name": "Osprey Point Golf Club Hawk Falcon Course",
   "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.367421,
+    "lng": -80.244135
+  },
   "tees": [
     "Black",
     "Gold",

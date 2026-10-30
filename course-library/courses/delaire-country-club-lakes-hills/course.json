@@ -2,6 +2,10 @@
   "id": "delaire-country-club-lakes-hills",
   "name": "Delaire Country Club Lakes Hills",
   "town": "Delray Beach, FL",
+  "location": {
+    "lat": 26.428566,
+    "lng": -80.115203
+  },
   "tees": [
     "Black",
     "Blue",

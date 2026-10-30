@@ -2,6 +2,10 @@
   "id": "the-villages-at-country-creek",
   "name": "The Villages At Country Creek",
   "town": "Estero, FL",
+  "location": {
+    "lat": 26.432965,
+    "lng": -81.793373
+  },
   "tees": [
     "Gold",
     "Blue",

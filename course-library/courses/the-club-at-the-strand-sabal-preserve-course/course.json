@@ -2,6 +2,10 @@
   "id": "the-club-at-the-strand-sabal-preserve-course",
   "name": "The Club At The Strand Sabal Preserve Course",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.292532,
+    "lng": -81.747026
+  },
   "tees": [
     "Web",
     "Black",

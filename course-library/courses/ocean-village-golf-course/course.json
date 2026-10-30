@@ -2,6 +2,10 @@
   "id": "ocean-village-golf-course",
   "name": "Ocean Village Golf Course",
   "town": "Fort Pierce, FL",
+  "location": {
+    "lat": 27.441441,
+    "lng": -80.285314
+  },
   "tees": [
     "Ladies",
     "Mens"

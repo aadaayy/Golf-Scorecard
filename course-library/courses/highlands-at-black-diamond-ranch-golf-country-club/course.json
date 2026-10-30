@@ -2,6 +2,10 @@
   "id": "highlands-at-black-diamond-ranch-golf-country-club",
   "name": "Highlands At Black Diamond Ranch Golf Country Club",
   "town": "Lecanto, FL",
+  "location": {
+    "lat": 28.907393,
+    "lng": -82.489858
+  },
   "tees": [
     "Black",
     "Dark Grey",

@@ -2,6 +2,10 @@
   "id": "the-legends-at-orange-lake-resort",
   "name": "The Legends At Orange Lake Resort",
   "town": "Kissimmee, FL",
+  "location": {
+    "lat": 28.368892,
+    "lng": -81.60375
+  },
   "tees": [
     "Green",
     "Web",

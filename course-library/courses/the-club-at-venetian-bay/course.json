@@ -2,6 +2,10 @@
   "id": "the-club-at-venetian-bay",
   "name": "The Club At Venetian Bay",
   "town": "New Smyrna Beach, FL",
+  "location": {
+    "lat": 29.021223,
+    "lng": -81.018854
+  },
   "tees": [
     "Gold",
     "Blue",

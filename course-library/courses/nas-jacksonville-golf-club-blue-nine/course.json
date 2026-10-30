@@ -2,6 +2,10 @@
   "id": "nas-jacksonville-golf-club-blue-nine",
   "name": "Nas Jacksonville Golf Club Blue Nine",
   "town": "Jacksonville, FL",
+  "location": {
+    "lat": 30.345845,
+    "lng": -81.518131
+  },
   "tees": [
     "Black",
     "White",

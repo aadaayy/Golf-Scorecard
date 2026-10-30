@@ -2,6 +2,10 @@
   "id": "the-champions-club-at-summerfield",
   "name": "The Champions Club At Summerfield",
   "town": "Stuart, FL",
+  "location": {
+    "lat": 27.12757,
+    "lng": -80.208121
+  },
   "tees": [
     "Gold",
     "Blue",

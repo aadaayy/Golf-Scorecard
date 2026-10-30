@@ -3,7 +3,7 @@
 The courses players find and download in Find Courses. The app reads these files straight from GitHub (`https://raw.githubusercontent.com/aadaayy/Golf-Scorecard/main/course-library/`), so there's no server and nothing to pay for. This only works while the repository is public; see "Before the repository goes private" in the main README.
 
 - `index.json`: the list Find Courses shows. Written by `Tools/CourseLibrary/build_index.py`, never by hand.
-- `courses/<id>/course.json`: one course, in the app's course format, with a `"version"`.
+- `courses/<id>/course.json`: one course, in the app's course format, with a `"version"`, and, so it shows on the map in Find Courses, its `"location": {"lat": 26.245107, "lng": -80.102812}`. A course with no location is still in the list and the search. The Florida import fills it in from the course data.
 - `courses/<id>/<map>.svg`: one drawing per hole, named after that hole's `map` (for example `pompano-pines-01.svg`).
 
 ## Florida courses from open data

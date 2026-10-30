@@ -101,6 +101,8 @@ jobs:
         env:
           # Passed to the walk-through as COURSE_LIBRARY_URL
           TEST_RUNNER_COURSE_LIBRARY_URL: file://${{ runner.temp }}/course-library/
+          # The whole library in the repository, for the map (WHOLE_COURSE_LIBRARY_URL)
+          TEST_RUNNER_WHOLE_COURSE_LIBRARY_URL: file://${{ github.workspace }}/course-library/
         run: |
           set -o pipefail
           xcodebuild test \
@@ -175,7 +177,7 @@ jobs:
                       print(f"::warning title=Screenshot skipped::{error}")
           PYNAME
           # Simulator screenshots are always upright; turn the sideways ones
-          for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png publish/*sideways-past-rounds.png publish/*sideways-profile.png publish/*sideways-find-courses.png publish/*sideways-hole-10.png publish/*sideways-profile-*.png; do sips -r 270 "$f" >/dev/null || echo "::warning title=Not turned::$f"; done
+          for f in publish/*sideways-card-and-map.png publish/*open-duo-size*.png publish/*sideways-hole-view*.png publish/*sideways-home.png publish/*sideways-past-rounds.png publish/*sideways-profile.png publish/*sideways-find-courses.png publish/*sideways-hole-10.png publish/*sideways-profile-*.png publish/*sideways-map.png; do sips -r 270 "$f" >/dev/null || echo "::warning title=Not turned::$f"; done
           files=(publish/*.png)
           echo "::notice title=Screenshots::${#files[@]} exported on ${{ matrix.phone }}"
 

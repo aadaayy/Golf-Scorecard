@@ -2,6 +2,10 @@
   "id": "grey-oaks-country-club-palm-golf-course",
   "name": "Grey Oaks Country Club Palm Golf Course",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.188596,
+    "lng": -81.759719
+  },
   "tees": [
     "I",
     "II",

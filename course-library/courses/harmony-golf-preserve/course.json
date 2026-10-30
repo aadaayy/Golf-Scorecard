@@ -2,6 +2,10 @@
   "id": "harmony-golf-preserve",
   "name": "Harmony Golf Preserve",
   "town": "Harmony, FL",
+  "location": {
+    "lat": 28.191233,
+    "lng": -81.145201
+  },
   "tees": [
     "Miller",
     "Blue",

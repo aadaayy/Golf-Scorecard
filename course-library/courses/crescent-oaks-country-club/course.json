@@ -2,6 +2,10 @@
   "id": "crescent-oaks-country-club",
   "name": "Crescent Oaks Country Club",
   "town": "Tarpon Springs, FL",
+  "location": {
+    "lat": 28.159418,
+    "lng": -82.68852
+  },
   "tees": [
     "Black",
     "Blue",

@@ -2,6 +2,10 @@
   "id": "emerald-bay-golf-club",
   "name": "Emerald Bay Golf Club",
   "town": "Destin, FL",
+  "location": {
+    "lat": 30.391672,
+    "lng": -86.399
+  },
   "tees": [
     "I",
     "II",

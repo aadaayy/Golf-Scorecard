@@ -2,6 +2,10 @@
   "id": "oak-hills-golf-club",
   "name": "Oak Hills Golf Club",
   "town": "Spring Hill, FL",
+  "location": {
+    "lat": 28.499426,
+    "lng": -82.557034
+  },
   "tees": [
     "Blue",
     "White",

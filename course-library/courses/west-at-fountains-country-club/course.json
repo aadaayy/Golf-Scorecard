@@ -2,6 +2,10 @@
   "id": "west-at-fountains-country-club",
   "name": "West At Fountains Country Club",
   "town": "Greenacres, FL",
+  "location": {
+    "lat": 26.609635,
+    "lng": -80.153326
+  },
   "tees": [
     "Gold",
     "Blue",

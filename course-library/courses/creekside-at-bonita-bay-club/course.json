@@ -2,6 +2,10 @@
   "id": "creekside-at-bonita-bay-club",
   "name": "Creekside At Bonita Bay Club",
   "town": "Bonita Springs, FL",
+  "location": {
+    "lat": 26.3522,
+    "lng": -81.813653
+  },
   "tees": [
     "Tee Iv",
     "Tee Iv-Iii",

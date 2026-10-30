@@ -2,6 +2,10 @@
   "id": "belle-glade-country-club-seminole-course",
   "name": "Belle Glade Country Club Seminole Course",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.844976,
+    "lng": -81.958638
+  },
   "tees": [],
   "holes": [
     {

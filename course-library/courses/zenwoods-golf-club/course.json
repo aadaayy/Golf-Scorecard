@@ -2,6 +2,10 @@
   "id": "zenwoods-golf-club",
   "name": "Zenwoods Golf Club",
   "town": "Inverness, FL",
+  "location": {
+    "lat": 28.860687,
+    "lng": -82.273238
+  },
   "tees": [
     "Tournament",
     "Ladies",

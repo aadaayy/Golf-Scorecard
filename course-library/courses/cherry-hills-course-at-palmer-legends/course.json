@@ -2,6 +2,10 @@
   "id": "cherry-hills-course-at-palmer-legends",
   "name": "Cherry Hills Course At Palmer Legends",
   "town": "The Villages, FL",
+  "location": {
+    "lat": 28.910194,
+    "lng": -81.993289
+  },
   "tees": [
     "Black",
     "Gold",

@@ -2,6 +2,10 @@
   "id": "turnberry-isle-country-club-the-miller-course",
   "name": "Turnberry Isle Country Club The Miller Course",
   "town": "Aventura, FL",
+  "location": {
+    "lat": 25.960639,
+    "lng": -80.137564
+  },
   "tees": [
     "Pebble Beach",
     "Augusta"

@@ -2,6 +2,10 @@
   "id": "the-club-at-grandezza",
   "name": "The Club At Grandezza",
   "town": "Estero, FL",
+  "location": {
+    "lat": 26.43949,
+    "lng": -81.770274
+  },
   "tees": [
     "Web",
     "Black",

@@ -2,6 +2,10 @@
   "id": "lakes-at-boca-woods-country-club",
   "name": "Lakes At Boca Woods Country Club",
   "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.357042,
+    "lng": -80.213572
+  },
   "tees": [
     "Black",
     "Blue",

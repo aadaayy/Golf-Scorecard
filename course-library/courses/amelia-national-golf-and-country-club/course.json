@@ -2,6 +2,10 @@
   "id": "amelia-national-golf-and-country-club",
   "name": "Amelia National Golf And Country Club",
   "town": "Nassauville, FL",
+  "location": {
+    "lat": 30.60063,
+    "lng": -81.539949
+  },
   "tees": [
     "Black",
     "Gold",

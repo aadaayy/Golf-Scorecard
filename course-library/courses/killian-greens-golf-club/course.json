@@ -2,6 +2,10 @@
   "id": "killian-greens-golf-club",
   "name": "Killian Greens Golf Club",
   "town": "Miami, FL",
+  "location": {
+    "lat": 25.672241,
+    "lng": -80.356773
+  },
   "tees": [
     "Blue",
     "White",

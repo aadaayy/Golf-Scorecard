@@ -2,6 +2,10 @@
   "id": "sorrento-par-3-golf-course",
   "name": "Sorrento Par 3 Golf Course",
   "town": "Nokomis, FL",
+  "location": {
+    "lat": 27.151501,
+    "lng": -82.46906
+  },
   "tees": [],
   "holes": [
     {

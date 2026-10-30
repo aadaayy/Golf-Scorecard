@@ -2,6 +2,10 @@
   "id": "bay-point-resort-nicklaus-course",
   "name": "Bay Point Resort Nicklaus Course",
   "town": "Panama City, FL",
+  "location": {
+    "lat": 30.147424,
+    "lng": -85.728054
+  },
   "tees": [
     "#3",
     "#4"

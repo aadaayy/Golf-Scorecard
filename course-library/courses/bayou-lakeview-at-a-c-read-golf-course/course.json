@@ -2,6 +2,10 @@
   "id": "bayou-lakeview-at-a-c-read-golf-course",
   "name": "Bayou Lakeview At A C Read Golf Course",
   "town": "Pensacola, FL",
+  "location": {
+    "lat": 30.364163,
+    "lng": -87.279094
+  },
   "tees": [
     "Black",
     "Blue",

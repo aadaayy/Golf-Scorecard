@@ -2,6 +2,10 @@
   "id": "blackstone-golf-course",
   "name": "Blackstone Golf Course",
   "town": "Defuniak Springs, FL",
+  "location": {
+    "lat": 30.740258,
+    "lng": -86.334983
+  },
   "tees": [
     "Blue",
     "White",

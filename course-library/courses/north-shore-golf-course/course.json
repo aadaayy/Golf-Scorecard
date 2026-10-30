@@ -2,6 +2,10 @@
   "id": "north-shore-golf-course",
   "name": "North Shore Golf Course",
   "town": "Orlando, FL",
+  "location": {
+    "lat": 28.401731,
+    "lng": -81.220812
+  },
   "tees": [
     "Black",
     "Blue",

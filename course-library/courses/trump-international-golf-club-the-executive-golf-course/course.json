@@ -2,6 +2,10 @@
   "id": "trump-international-golf-club-the-executive-golf-course",
   "name": "Trump International Golf Club The Executive Golf Course",
   "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.665965,
+    "lng": -80.098567
+  },
   "tees": [
     "Black",
     "Gold",

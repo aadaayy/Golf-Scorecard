@@ -2,6 +2,10 @@
   "id": "koa-fairways-golf-course",
   "name": "Koa Fairways Golf Course",
   "town": "Okeechobee, FL",
+  "location": {
+    "lat": 27.204898,
+    "lng": -80.82799
+  },
   "tees": [
     "Middle",
     "Forward"

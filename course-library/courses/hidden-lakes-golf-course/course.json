@@ -2,6 +2,10 @@
   "id": "hidden-lakes-golf-course",
   "name": "Hidden Lakes Golf Course",
   "town": "New Smyrna Beach, FL",
+  "location": {
+    "lat": 29.038021,
+    "lng": -80.945395
+  },
   "tees": [
     "Tips/Blue",
     "Web",

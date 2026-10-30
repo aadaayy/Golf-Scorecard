@@ -2,6 +2,10 @@
   "id": "seven-hills-golfers-club",
   "name": "Seven Hills Golfers Club",
   "town": "Spring Hill, FL",
+  "location": {
+    "lat": 28.443503,
+    "lng": -82.54313
+  },
   "tees": [
     "Blue",
     "White",

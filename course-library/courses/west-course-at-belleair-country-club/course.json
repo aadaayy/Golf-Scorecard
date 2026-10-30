@@ -2,6 +2,10 @@
   "id": "west-course-at-belleair-country-club",
   "name": "West Course At Belleair Country Club",
   "town": "Belleair, FL",
+  "location": {
+    "lat": 27.94241,
+    "lng": -82.808473
+  },
   "tees": [
     "Green",
     "Black",

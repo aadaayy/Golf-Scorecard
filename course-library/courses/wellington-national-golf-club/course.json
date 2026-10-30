@@ -2,6 +2,10 @@
   "id": "wellington-national-golf-club",
   "name": "Wellington National Golf Club",
   "town": "Wellington, FL",
+  "location": {
+    "lat": 26.676628,
+    "lng": -80.292715
+  },
   "tees": [
     "Black",
     "Blue",

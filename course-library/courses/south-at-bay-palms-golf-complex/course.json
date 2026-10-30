@@ -2,6 +2,10 @@
   "id": "south-at-bay-palms-golf-complex",
   "name": "South At Bay Palms Golf Complex",
   "town": "Tampa, FL",
+  "location": {
+    "lat": 27.836204,
+    "lng": -82.47151
+  },
   "tees": [
     "Blue",
     "Web",

@@ -2,6 +2,10 @@
   "id": "park-ridge-golf-course",
   "name": "Park Ridge Golf Course",
   "town": "Wellington, FL",
+  "location": {
+    "lat": 26.593072,
+    "lng": -80.193484
+  },
   "tees": [
     "Black",
     "Web",

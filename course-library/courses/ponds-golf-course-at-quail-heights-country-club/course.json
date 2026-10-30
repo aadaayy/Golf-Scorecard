@@ -2,6 +2,10 @@
   "id": "ponds-golf-course-at-quail-heights-country-club",
   "name": "Ponds Golf Course At Quail Heights Country Club",
   "town": "Lake City, FL",
+  "location": {
+    "lat": 30.169127,
+    "lng": -82.675478
+  },
   "tees": [
     "Blue",
     "White",

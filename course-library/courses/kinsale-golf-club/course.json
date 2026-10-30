@@ -2,6 +2,10 @@
   "id": "kinsale-golf-club",
   "name": "Kinsale Golf Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.294982,
+    "lng": -81.813351
+  },
   "tees": [
     "Back",
     "Middle",

@@ -2,6 +2,10 @@
   "id": "the-dunes-golf-tennis-club",
   "name": "The Dunes Golf Tennis Club",
   "town": "Sanibel, FL",
+  "location": {
+    "lat": 26.454512,
+    "lng": -82.042271
+  },
   "tees": [
     "I",
     "II",

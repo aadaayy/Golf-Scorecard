@@ -2,6 +2,10 @@
   "id": "gold-green-at-wyndemere-country-club",
   "name": "Gold Green At Wyndemere Country Club",
   "town": "Naples, FL",
+  "location": {
+    "lat": 26.187655,
+    "lng": -81.744765
+  },
   "tees": [
     "I",
     "II",

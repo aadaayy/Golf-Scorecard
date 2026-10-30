@@ -2,6 +2,10 @@
   "id": "palm-valley-golf-club",
   "name": "Palm Valley Golf Club",
   "town": "Ponte Vedra Beach, FL",
+  "location": {
+    "lat": 30.101723,
+    "lng": -81.436487
+  },
   "tees": [
     "Blue",
     "Red"

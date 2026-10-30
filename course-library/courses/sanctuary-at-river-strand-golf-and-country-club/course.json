@@ -2,6 +2,10 @@
   "id": "sanctuary-at-river-strand-golf-and-country-club",
   "name": "Sanctuary At River Strand Golf And Country Club",
   "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.508617,
+    "lng": -82.468076
+  },
   "tees": [],
   "holes": [
     {

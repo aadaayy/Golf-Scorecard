@@ -2,6 +2,10 @@
   "id": "tampa-bay-golf-country-club-executive-course",
   "name": "Tampa Bay Golf Country Club Executive Course",
   "town": "San Antonio, FL",
+  "location": {
+    "lat": 28.312667,
+    "lng": -82.330534
+  },
   "tees": [],
   "holes": [
     {

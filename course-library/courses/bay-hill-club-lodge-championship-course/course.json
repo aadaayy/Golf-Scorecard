@@ -2,6 +2,10 @@
   "id": "bay-hill-club-lodge-championship-course",
   "name": "Bay Hill Club Lodge Championship Course",
   "town": "Orlando, FL",
+  "location": {
+    "lat": 28.458333,
+    "lng": -81.510556
+  },
   "tees": [
     "Green",
     "Blue",

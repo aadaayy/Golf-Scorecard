@@ -2,6 +2,10 @@
   "id": "cabot-citrus-farms-karoo-course",
   "name": "Cabot Citrus Farms Karoo Course",
   "town": "Brooksville, FL",
+  "location": {
+    "lat": 28.68337,
+    "lng": -82.479932
+  },
   "tees": [
     "Black",
     "Green",

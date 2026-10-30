@@ -2,6 +2,10 @@
   "id": "apollo-beach-golf-sea-club",
   "name": "Apollo Beach Golf Sea Club",
   "town": "Apollo Beach, FL",
+  "location": {
+    "lat": 27.764916,
+    "lng": -82.414504
+  },
   "tees": [
     "Blue",
     "White",

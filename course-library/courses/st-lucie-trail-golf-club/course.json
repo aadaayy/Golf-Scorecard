@@ -2,6 +2,10 @@
   "id": "st-lucie-trail-golf-club",
   "name": "St Lucie Trail Golf Club",
   "town": "Port Saint Lucie, FL",
+  "location": {
+    "lat": 27.309578,
+    "lng": -80.394035
+  },
   "tees": [
     "Medal M",
     "Medal/Tournament M",

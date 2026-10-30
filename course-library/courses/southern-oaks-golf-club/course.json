@@ -2,6 +2,10 @@
   "id": "southern-oaks-golf-club",
   "name": "Southern Oaks Golf Club",
   "town": "FL 34785, FL",
+  "location": {
+    "lat": 28.787873,
+    "lng": -81.967128
+  },
   "tees": [
     "Gold",
     "Blue",
