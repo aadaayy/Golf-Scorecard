@@ -1,0 +1,113 @@
+{
+  "id": "florida-caverns-golf-course",
+  "name": "Florida Caverns Golf Course",
+  "town": "Marianna, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 400,
+        "Blue": 380,
+        "White": 360,
+        "Red": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 315,
+        "Blue": 300,
+        "White": 285,
+        "Red": 265
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Gold": 220,
+        "Blue": 190,
+        "White": 155,
+        "Red": 135
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 470,
+        "Blue": 457,
+        "White": 450,
+        "Red": 390
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 168,
+        "Blue": 145,
+        "White": 125,
+        "Red": 107
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 535,
+        "Blue": 515,
+        "White": 490,
+        "Red": 450
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 400,
+        "Blue": 375,
+        "White": 360,
+        "Red": 315
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 390,
+        "Blue": 377,
+        "White": 365,
+        "Red": 250
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 316,
+        "Blue": 295,
+        "White": 285,
+        "Red": 225
+      }
+    }
+  ],
+  "version": 1
+}

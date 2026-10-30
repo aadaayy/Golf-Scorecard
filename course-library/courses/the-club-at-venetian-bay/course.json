@@ -1,0 +1,287 @@
+{
+  "id": "the-club-at-venetian-bay",
+  "name": "The Club At Venetian Bay",
+  "town": "New Smyrna Beach, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "Tournament",
+    "White",
+    "Combo",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Gold": 528,
+        "Blue": 504,
+        "Tournament": 504,
+        "White": 464,
+        "Combo": 464,
+        "Green": 426,
+        "Red": 385
+      },
+      "map": "the-club-at-venetian-bay-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 447,
+        "Blue": 399,
+        "Tournament": 373,
+        "White": 373,
+        "Combo": 341,
+        "Green": 341,
+        "Red": 302
+      },
+      "map": "the-club-at-venetian-bay-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 214,
+        "Blue": 195,
+        "Tournament": 170,
+        "White": 170,
+        "Combo": 141,
+        "Green": 141,
+        "Red": 111
+      },
+      "map": "the-club-at-venetian-bay-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 413,
+        "Blue": 384,
+        "Tournament": 358,
+        "White": 358,
+        "Combo": 358,
+        "Green": 327,
+        "Red": 272
+      },
+      "map": "the-club-at-venetian-bay-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Gold": 533,
+        "Blue": 492,
+        "Tournament": 492,
+        "White": 464,
+        "Combo": 416,
+        "Green": 416,
+        "Red": 404
+      },
+      "map": "the-club-at-venetian-bay-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 191,
+        "Blue": 165,
+        "Tournament": 150,
+        "White": 150,
+        "Combo": 131,
+        "Green": 131,
+        "Red": 113
+      },
+      "map": "the-club-at-venetian-bay-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 406,
+        "Blue": 384,
+        "Tournament": 353,
+        "White": 353,
+        "Combo": 330,
+        "Green": 330,
+        "Red": 291
+      },
+      "map": "the-club-at-venetian-bay-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 384,
+        "Blue": 353,
+        "Tournament": 353,
+        "White": 324,
+        "Combo": 263,
+        "Green": 263,
+        "Red": 245
+      },
+      "map": "the-club-at-venetian-bay-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 358,
+        "Blue": 322,
+        "Tournament": 322,
+        "White": 308,
+        "Combo": 308,
+        "Green": 274,
+        "Red": 248
+      },
+      "map": "the-club-at-venetian-bay-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 435,
+        "Blue": 410,
+        "Tournament": 387,
+        "White": 387,
+        "Combo": 356,
+        "Green": 356,
+        "Red": 310
+      },
+      "map": "the-club-at-venetian-bay-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Gold": 556,
+        "Blue": 528,
+        "Tournament": 528,
+        "White": 487,
+        "Combo": 487,
+        "Green": 441,
+        "Red": 413
+      },
+      "map": "the-club-at-venetian-bay-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 185,
+        "Blue": 174,
+        "Tournament": 152,
+        "White": 152,
+        "Combo": 136,
+        "Green": 136,
+        "Red": 109
+      },
+      "map": "the-club-at-venetian-bay-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 458,
+        "Blue": 424,
+        "Tournament": 380,
+        "White": 380,
+        "Combo": 369,
+        "Green": 369,
+        "Red": 282
+      },
+      "map": "the-club-at-venetian-bay-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 430,
+        "Blue": 398,
+        "Tournament": 398,
+        "White": 365,
+        "Combo": 322,
+        "Green": 322,
+        "Red": 312
+      },
+      "map": "the-club-at-venetian-bay-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 414,
+        "Blue": 374,
+        "Tournament": 374,
+        "White": 348,
+        "Combo": 348,
+        "Green": 331,
+        "Red": 310
+      },
+      "map": "the-club-at-venetian-bay-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 197,
+        "Blue": 171,
+        "Tournament": 149,
+        "White": 149,
+        "Combo": 128,
+        "Green": 128,
+        "Red": 104
+      },
+      "map": "the-club-at-venetian-bay-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Gold": 510,
+        "Blue": 485,
+        "Tournament": 458,
+        "White": 458,
+        "Combo": 458,
+        "Green": 412,
+        "Red": 396
+      },
+      "map": "the-club-at-venetian-bay-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 413,
+        "Blue": 391,
+        "Tournament": 359,
+        "White": 359,
+        "Combo": 359,
+        "Green": 326,
+        "Red": 269
+      },
+      "map": "the-club-at-venetian-bay-18"
+    }
+  ],
+  "version": 1
+}

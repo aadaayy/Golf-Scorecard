@@ -1,0 +1,250 @@
+{
+  "id": "calusa-country-club",
+  "name": "Calusa Country Club",
+  "town": "Lakewood Ranch, FL",
+  "tees": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 469,
+        "II": 415,
+        "III": 388,
+        "IV": 330,
+        "V": 270,
+        "VI": 200
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "I": 330,
+        "II": 303,
+        "III": 277,
+        "IV": 251,
+        "V": 234,
+        "VI": 190
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "I": 599,
+        "II": 522,
+        "III": 495,
+        "IV": 422,
+        "V": 377,
+        "VI": 280
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "I": 649,
+        "II": 541,
+        "III": 505,
+        "IV": 456,
+        "V": 404,
+        "VI": 350
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "I": 401,
+        "II": 330,
+        "III": 303,
+        "IV": 275,
+        "V": 252,
+        "VI": 210
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I": 257,
+        "II": 213,
+        "III": 181,
+        "IV": 151,
+        "V": 123,
+        "VI": 100
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I": 400,
+        "II": 375,
+        "III": 348,
+        "IV": 315,
+        "V": 264,
+        "VI": 220
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 236,
+        "II": 174,
+        "III": 147,
+        "IV": 112,
+        "V": 92,
+        "VI": 88
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I": 485,
+        "II": 404,
+        "III": 377,
+        "IV": 320,
+        "V": 266,
+        "VI": 240
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 348,
+        "II": 323,
+        "III": 296,
+        "IV": 268,
+        "V": 242,
+        "VI": 200
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "I": 404,
+        "II": 348,
+        "III": 333,
+        "IV": 288,
+        "V": 253,
+        "VI": 210
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "I": 523,
+        "II": 495,
+        "III": 468,
+        "IV": 415,
+        "V": 369,
+        "VI": 300
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 501,
+        "II": 396,
+        "III": 369,
+        "IV": 321,
+        "V": 282,
+        "VI": 230
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "I": 225,
+        "II": 187,
+        "III": 160,
+        "IV": 117,
+        "V": 99,
+        "VI": 70
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "I": 523,
+        "II": 505,
+        "III": 477,
+        "IV": 450,
+        "V": 388,
+        "VI": 340
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "I": 426,
+        "II": 390,
+        "III": 363,
+        "IV": 329,
+        "V": 295,
+        "VI": 250
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 184,
+        "II": 154,
+        "III": 127,
+        "IV": 100,
+        "V": 77,
+        "VI": 90
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "I": 444,
+        "II": 385,
+        "III": 358,
+        "IV": 325,
+        "V": 270,
+        "VI": 230
+      }
+    }
+  ],
+  "version": 1
+}

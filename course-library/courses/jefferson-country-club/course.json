@@ -1,0 +1,93 @@
+{
+  "id": "jefferson-country-club",
+  "name": "Jefferson Country Club",
+  "town": "Monticello, FL",
+  "tees": [
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "White": 364,
+        "Red": 289
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "White": 358,
+        "Red": 252
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "White": 159,
+        "Red": 127
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "White": 330,
+        "Red": 284
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "White": 490,
+        "Red": 387
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "White": 382,
+        "Red": 355
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "White": 524,
+        "Red": 392
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 144,
+        "Red": 126
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "White": 357,
+        "Red": 301
+      }
+    }
+  ],
+  "version": 1
+}

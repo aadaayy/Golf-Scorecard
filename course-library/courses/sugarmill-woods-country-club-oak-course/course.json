@@ -1,0 +1,113 @@
+{
+  "id": "sugarmill-woods-country-club-oak-course",
+  "name": "Sugarmill Woods Country Club Oak Course",
+  "town": "Homosassa, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 409,
+        "White": 364,
+        "Gold": 341,
+        "Red": 289
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 392,
+        "White": 367,
+        "Gold": 347,
+        "Red": 285
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 179,
+        "White": 156,
+        "Gold": 132,
+        "Red": 108
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 489,
+        "White": 476,
+        "Gold": 461,
+        "Red": 441
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 410,
+        "White": 385,
+        "Gold": 360,
+        "Red": 337
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 186,
+        "White": 149,
+        "Gold": 135,
+        "Red": 110
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 396,
+        "White": 370,
+        "Gold": 346,
+        "Red": 322
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 452,
+        "White": 421,
+        "Gold": 391,
+        "Red": 366
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 546,
+        "White": 504,
+        "Gold": 488,
+        "Red": 452
+      }
+    }
+  ],
+  "version": 1
+}

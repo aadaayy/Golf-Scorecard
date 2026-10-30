@@ -1,0 +1,212 @@
+{
+  "id": "apollo-beach-golf-sea-club",
+  "name": "Apollo Beach Golf Sea Club",
+  "town": "Apollo Beach, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 403,
+        "White": 383,
+        "Gold": 362,
+        "Red": 307
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Blue": 498,
+        "White": 445,
+        "Gold": 417,
+        "Red": 379
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 378,
+        "White": 351,
+        "Gold": 321,
+        "Red": 301
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 203,
+        "White": 169,
+        "Gold": 141,
+        "Red": 122
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 437,
+        "White": 393,
+        "Gold": 361,
+        "Red": 297
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 403,
+        "White": 375,
+        "Gold": 347,
+        "Red": 289
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 553,
+        "White": 513,
+        "Gold": 475,
+        "Red": 426
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 192,
+        "White": 158,
+        "Gold": 144,
+        "Red": 121
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 417,
+        "White": 374,
+        "Gold": 354,
+        "Red": 299
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 439,
+        "White": 395,
+        "Gold": 337,
+        "Red": 306
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 528,
+        "White": 488,
+        "Gold": 446,
+        "Red": 420
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 207,
+        "White": 145,
+        "Gold": 128,
+        "Red": 112
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 428,
+        "White": 367,
+        "Gold": 275,
+        "Red": 235
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 400,
+        "White": 365,
+        "Gold": 332,
+        "Red": 266
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 381,
+        "White": 347,
+        "Gold": 301,
+        "Red": 277
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 568,
+        "White": 511,
+        "Gold": 461,
+        "Red": 417
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 199,
+        "White": 165,
+        "Gold": 152,
+        "Red": 140
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 399,
+        "White": 371,
+        "Gold": 347,
+        "Red": 333
+      }
+    }
+  ],
+  "version": 1
+}

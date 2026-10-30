@@ -1,0 +1,269 @@
+{
+  "id": "cypress-run-golf-club",
+  "name": "Cypress Run Golf Club",
+  "town": "Tarpon Springs, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "Member",
+    "White",
+    "Green",
+    "Red",
+    "Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 388,
+        "Blue": 361,
+        "Member": 361,
+        "White": 341,
+        "Green": 325,
+        "Red": 309,
+        "Silver": 250
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 507,
+        "Blue": 496,
+        "Member": 468,
+        "White": 468,
+        "Green": 369,
+        "Red": 363,
+        "Silver": 341
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 190,
+        "Blue": 161,
+        "Member": 161,
+        "White": 143,
+        "Green": 124,
+        "Red": 112,
+        "Silver": 90
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 418,
+        "Blue": 404,
+        "Member": 384,
+        "White": 384,
+        "Green": 364,
+        "Red": 352,
+        "Silver": 302
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 360,
+        "Blue": 349,
+        "Member": 349,
+        "White": 334,
+        "Green": 303,
+        "Red": 291,
+        "Silver": 247
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 539,
+        "Blue": 524,
+        "Member": 502,
+        "White": 502,
+        "Green": 465,
+        "Red": 452,
+        "Silver": 413
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 425,
+        "Blue": 411,
+        "Member": 388,
+        "White": 388,
+        "Green": 359,
+        "Red": 328,
+        "Silver": 295
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 183,
+        "Blue": 172,
+        "Member": 172,
+        "White": 157,
+        "Green": 122,
+        "Red": 109,
+        "Silver": 96
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 404,
+        "Blue": 392,
+        "Member": 392,
+        "White": 378,
+        "Green": 350,
+        "Red": 335,
+        "Silver": 279
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 410,
+        "Blue": 399,
+        "Member": 385,
+        "White": 385,
+        "Green": 362,
+        "Red": 347,
+        "Silver": 285
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 559,
+        "Blue": 535,
+        "Member": 535,
+        "White": 511,
+        "Green": 492,
+        "Red": 477,
+        "Silver": 370
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 361,
+        "Blue": 342,
+        "Member": 342,
+        "White": 301,
+        "Green": 257,
+        "Red": 227,
+        "Silver": 186
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 450,
+        "Blue": 426,
+        "Member": 391,
+        "White": 391,
+        "Green": 373,
+        "Red": 363,
+        "Silver": 330
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 167,
+        "Blue": 144,
+        "Member": 144,
+        "White": 126,
+        "Green": 114,
+        "Red": 110,
+        "Silver": 105
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 390,
+        "Blue": 360,
+        "Member": 325,
+        "White": 325,
+        "Green": 305,
+        "Red": 217,
+        "Silver": 211
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 580,
+        "Blue": 544,
+        "Member": 544,
+        "White": 516,
+        "Green": 503,
+        "Red": 478,
+        "Silver": 387
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 233,
+        "Blue": 212,
+        "Member": 191,
+        "White": 191,
+        "Green": 170,
+        "Red": 146,
+        "Silver": 134
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 438,
+        "Blue": 421,
+        "Member": 396,
+        "White": 396,
+        "Green": 331,
+        "Red": 323,
+        "Silver": 275
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,287 @@
+{
+  "id": "the-biltmore-golf-course",
+  "name": "The Biltmore Golf Course",
+  "town": "Coral Gables, FL",
+  "tees": [
+    "Black",
+    "Web",
+    "Ross",
+    "Blue",
+    "Members",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 506,
+        "Web": 506,
+        "Ross": 506,
+        "Blue": 496,
+        "Members": 496,
+        "White": 483,
+        "Red": 449
+      },
+      "map": "the-biltmore-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 232,
+        "Web": 232,
+        "Ross": 183,
+        "Blue": 183,
+        "Members": 157,
+        "White": 157,
+        "Red": 122
+      },
+      "map": "the-biltmore-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 406,
+        "Web": 406,
+        "Ross": 371,
+        "Blue": 371,
+        "Members": 356,
+        "White": 356,
+        "Red": 296
+      },
+      "map": "the-biltmore-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 350,
+        "Web": 350,
+        "Ross": 350,
+        "Blue": 324,
+        "Members": 324,
+        "White": 316,
+        "Red": 294
+      },
+      "map": "the-biltmore-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 419,
+        "Web": 419,
+        "Ross": 397,
+        "Blue": 397,
+        "Members": 366,
+        "White": 366,
+        "Red": 309
+      },
+      "map": "the-biltmore-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 423,
+        "Web": 423,
+        "Ross": 423,
+        "Blue": 398,
+        "Members": 398,
+        "White": 376,
+        "Red": 317
+      },
+      "map": "the-biltmore-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 463,
+        "Web": 463,
+        "Ross": 390,
+        "Blue": 390,
+        "Members": 366,
+        "White": 366,
+        "Red": 286
+      },
+      "map": "the-biltmore-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 240,
+        "Web": 240,
+        "Ross": 240,
+        "Blue": 199,
+        "Members": 186,
+        "White": 186,
+        "Red": 164
+      },
+      "map": "the-biltmore-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 351,
+        "Web": 351,
+        "Ross": 351,
+        "Blue": 340,
+        "Members": 340,
+        "White": 322,
+        "Red": 306
+      },
+      "map": "the-biltmore-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 426,
+        "Web": 426,
+        "Ross": 426,
+        "Blue": 381,
+        "Members": 352,
+        "White": 352,
+        "Red": 313
+      },
+      "map": "the-biltmore-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 423,
+        "Web": 423,
+        "Ross": 399,
+        "Blue": 399,
+        "Members": 358,
+        "White": 358,
+        "Red": 339
+      },
+      "map": "the-biltmore-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 258,
+        "Web": 258,
+        "Ross": 210,
+        "Blue": 210,
+        "Members": 173,
+        "White": 173,
+        "Red": 137
+      },
+      "map": "the-biltmore-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 465,
+        "Web": 465,
+        "Ross": 447,
+        "Blue": 447,
+        "Members": 447,
+        "White": 419,
+        "Red": 344
+      },
+      "map": "the-biltmore-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 167,
+        "Web": 167,
+        "Ross": 167,
+        "Blue": 148,
+        "Members": 148,
+        "White": 135,
+        "Red": 112
+      },
+      "map": "the-biltmore-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 556,
+        "Web": 556,
+        "Ross": 556,
+        "Blue": 521,
+        "Members": 521,
+        "White": 506,
+        "Red": 446
+      },
+      "map": "the-biltmore-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 394,
+        "Web": 394,
+        "Ross": 394,
+        "Blue": 367,
+        "Members": 367,
+        "White": 352,
+        "Red": 305
+      },
+      "map": "the-biltmore-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 490,
+        "Web": 490,
+        "Ross": 405,
+        "Blue": 405,
+        "Members": 389,
+        "White": 389,
+        "Red": 356
+      },
+      "map": "the-biltmore-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 543,
+        "Web": 543,
+        "Ross": 543,
+        "Blue": 472,
+        "Members": 472,
+        "White": 438,
+        "Red": 393
+      },
+      "map": "the-biltmore-golf-course-18"
+    }
+  ],
+  "version": 1
+}

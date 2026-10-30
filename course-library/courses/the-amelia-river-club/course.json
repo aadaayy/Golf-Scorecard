@@ -1,0 +1,287 @@
+{
+  "id": "the-amelia-river-club",
+  "name": "The Amelia River Club",
+  "town": "Fernandina Beach, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "Blue/Black",
+    "Black",
+    "Black/White",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Gold": 551,
+        "Blue": 521,
+        "Blue/Black": 521,
+        "Black": 469,
+        "Black/White": 428,
+        "White": 428,
+        "Green": 390
+      },
+      "map": "the-amelia-river-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 371,
+        "Blue": 337,
+        "Blue/Black": 337,
+        "Black": 312,
+        "Black/White": 312,
+        "White": 276,
+        "Green": 253
+      },
+      "map": "the-amelia-river-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 385,
+        "Blue": 372,
+        "Blue/Black": 333,
+        "Black": 333,
+        "Black/White": 333,
+        "White": 296,
+        "Green": 266
+      },
+      "map": "the-amelia-river-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 206,
+        "Blue": 176,
+        "Blue/Black": 151,
+        "Black": 151,
+        "Black/White": 119,
+        "White": 119,
+        "Green": 94
+      },
+      "map": "the-amelia-river-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Gold": 557,
+        "Blue": 521,
+        "Blue/Black": 489,
+        "Black": 489,
+        "Black/White": 489,
+        "White": 456,
+        "Green": 436
+      },
+      "map": "the-amelia-river-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 382,
+        "Blue": 356,
+        "Blue/Black": 356,
+        "Black": 337,
+        "Black/White": 301,
+        "White": 301,
+        "Green": 264
+      },
+      "map": "the-amelia-river-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 218,
+        "Blue": 190,
+        "Blue/Black": 164,
+        "Black": 164,
+        "Black/White": 134,
+        "White": 134,
+        "Green": 103
+      },
+      "map": "the-amelia-river-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 396,
+        "Blue": 363,
+        "Blue/Black": 363,
+        "Black": 343,
+        "Black/White": 343,
+        "White": 309,
+        "Green": 284
+      },
+      "map": "the-amelia-river-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 420,
+        "Blue": 389,
+        "Blue/Black": 373,
+        "Black": 373,
+        "Black/White": 340,
+        "White": 340,
+        "Green": 274
+      },
+      "map": "the-amelia-river-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 366,
+        "Blue": 339,
+        "Blue/Black": 339,
+        "Black": 327,
+        "Black/White": 327,
+        "White": 311,
+        "Green": 242
+      },
+      "map": "the-amelia-river-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 384,
+        "Blue": 357,
+        "Blue/Black": 357,
+        "Black": 333,
+        "Black/White": 296,
+        "White": 296,
+        "Green": 259
+      },
+      "map": "the-amelia-river-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 196,
+        "Blue": 160,
+        "Blue/Black": 160,
+        "Black": 135,
+        "Black/White": 120,
+        "White": 120,
+        "Green": 85
+      },
+      "map": "the-amelia-river-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 587,
+        "Blue": 538,
+        "Blue/Black": 493,
+        "Black": 493,
+        "Black/White": 456,
+        "White": 456,
+        "Green": 440
+      },
+      "map": "the-amelia-river-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 360,
+        "Blue": 338,
+        "Blue/Black": 338,
+        "Black": 321,
+        "Black/White": 321,
+        "White": 280,
+        "Green": 266
+      },
+      "map": "the-amelia-river-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 356,
+        "Blue": 325,
+        "Blue/Black": 325,
+        "Black": 309,
+        "Black/White": 309,
+        "White": 282,
+        "Green": 251
+      },
+      "map": "the-amelia-river-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 431,
+        "Blue": 407,
+        "Blue/Black": 383,
+        "Black": 383,
+        "Black/White": 383,
+        "White": 351,
+        "Green": 326
+      },
+      "map": "the-amelia-river-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 164,
+        "Blue": 147,
+        "Blue/Black": 122,
+        "Black": 122,
+        "Black/White": 98,
+        "White": 98,
+        "Green": 75
+      },
+      "map": "the-amelia-river-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 548,
+        "Blue": 513,
+        "Blue/Black": 478,
+        "Black": 478,
+        "Black/White": 437,
+        "White": 437,
+        "Green": 398
+      },
+      "map": "the-amelia-river-club-18"
+    }
+  ],
+  "version": 1
+}

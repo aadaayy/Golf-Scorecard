@@ -1,0 +1,287 @@
+{
+  "id": "the-bears-club",
+  "name": "The Bears Club",
+  "town": "Jupiter, FL",
+  "tees": [
+    "Championship",
+    "I Bear",
+    "Ii Bear",
+    "Option 2",
+    "Iii Bear",
+    "Option 3",
+    "Iv Bear"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship": 464,
+        "I Bear": 425,
+        "Ii Bear": 398,
+        "Option 2": 383,
+        "Iii Bear": 351,
+        "Option 3": 351,
+        "Iv Bear": 328
+      },
+      "map": "the-bears-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 241,
+        "I Bear": 195,
+        "Ii Bear": 170,
+        "Option 2": 170,
+        "Iii Bear": 149,
+        "Option 3": 149,
+        "Iv Bear": 125
+      },
+      "map": "the-bears-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 440,
+        "I Bear": 393,
+        "Ii Bear": 371,
+        "Option 2": 371,
+        "Iii Bear": 321,
+        "Option 3": 321,
+        "Iv Bear": 301
+      },
+      "map": "the-bears-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Championship": 528,
+        "I Bear": 501,
+        "Ii Bear": 489,
+        "Option 2": 461,
+        "Iii Bear": 453,
+        "Option 3": 413,
+        "Iv Bear": 413
+      },
+      "map": "the-bears-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 372,
+        "I Bear": 354,
+        "Ii Bear": 329,
+        "Option 2": 329,
+        "Iii Bear": 290,
+        "Option 3": 290,
+        "Iv Bear": 290
+      },
+      "map": "the-bears-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 435,
+        "I Bear": 399,
+        "Ii Bear": 402,
+        "Option 2": 357,
+        "Iii Bear": 357,
+        "Option 3": 357,
+        "Iv Bear": 281
+      },
+      "map": "the-bears-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 185,
+        "I Bear": 168,
+        "Ii Bear": 137,
+        "Option 2": 137,
+        "Iii Bear": 124,
+        "Option 3": 124,
+        "Iv Bear": 105
+      },
+      "map": "the-bears-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Championship": 538,
+        "I Bear": 507,
+        "Ii Bear": 511,
+        "Option 2": 481,
+        "Iii Bear": 481,
+        "Option 3": 445,
+        "Iv Bear": 396
+      },
+      "map": "the-bears-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 426,
+        "I Bear": 382,
+        "Ii Bear": 380,
+        "Option 2": 347,
+        "Iii Bear": 347,
+        "Option 3": 308,
+        "Iv Bear": 283
+      },
+      "map": "the-bears-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Championship": 519,
+        "I Bear": 482,
+        "Ii Bear": 486,
+        "Option 2": 486,
+        "Iii Bear": 458,
+        "Option 3": 458,
+        "Iv Bear": 432
+      },
+      "map": "the-bears-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 446,
+        "I Bear": 412,
+        "Ii Bear": 398,
+        "Option 2": 378,
+        "Iii Bear": 378,
+        "Option 3": 328,
+        "Iv Bear": 328
+      },
+      "map": "the-bears-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 339,
+        "I Bear": 308,
+        "Ii Bear": 310,
+        "Option 2": 310,
+        "Iii Bear": 282,
+        "Option 3": 282,
+        "Iv Bear": 247
+      },
+      "map": "the-bears-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 440,
+        "I Bear": 380,
+        "Ii Bear": 361,
+        "Option 2": 361,
+        "Iii Bear": 335,
+        "Option 3": 335,
+        "Iv Bear": 304
+      },
+      "map": "the-bears-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 203,
+        "I Bear": 179,
+        "Ii Bear": 165,
+        "Option 2": 165,
+        "Iii Bear": 128,
+        "Option 3": 128,
+        "Iv Bear": 115
+      },
+      "map": "the-bears-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 442,
+        "I Bear": 417,
+        "Ii Bear": 381,
+        "Option 2": 381,
+        "Iii Bear": 366,
+        "Option 3": 325,
+        "Iv Bear": 325
+      },
+      "map": "the-bears-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 185,
+        "I Bear": 156,
+        "Ii Bear": 156,
+        "Option 2": 139,
+        "Iii Bear": 139,
+        "Option 3": 120,
+        "Iv Bear": 120
+      },
+      "map": "the-bears-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 485,
+        "I Bear": 415,
+        "Ii Bear": 417,
+        "Option 2": 389,
+        "Iii Bear": 389,
+        "Option 3": 307,
+        "Iv Bear": 307
+      },
+      "map": "the-bears-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Championship": 573,
+        "I Bear": 527,
+        "Ii Bear": 526,
+        "Option 2": 463,
+        "Iii Bear": 463,
+        "Option 3": 381,
+        "Iv Bear": 381
+      },
+      "map": "the-bears-club-18"
+    }
+  ],
+  "version": 1
+}

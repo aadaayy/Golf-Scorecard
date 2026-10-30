@@ -1,0 +1,325 @@
+{
+  "id": "river-ridge-at-harbour-ridge-yacht-country-club",
+  "name": "River Ridge At Harbour Ridge Yacht Country Club",
+  "town": "Palm City, FL",
+  "tees": [
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Gold/Green",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 380,
+        "Black/Blue": 380,
+        "Blue": 360,
+        "Blue/White": 327,
+        "White": 327,
+        "White/Gold": 280,
+        "Gold": 280,
+        "Gold/Green": 280,
+        "Green": 230
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 208,
+        "Black/Blue": 174,
+        "Blue": 174,
+        "Blue/White": 174,
+        "White": 150,
+        "White/Gold": 135,
+        "Gold": 135,
+        "Gold/Green": 135,
+        "Green": 65
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 425,
+        "Black/Blue": 401,
+        "Blue": 401,
+        "Blue/White": 373,
+        "White": 373,
+        "White/Gold": 346,
+        "Gold": 346,
+        "Gold/Green": 311,
+        "Green": 311
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 420,
+        "Black/Blue": 392,
+        "Blue": 392,
+        "Blue/White": 362,
+        "White": 362,
+        "White/Gold": 318,
+        "Gold": 318,
+        "Gold/Green": 260,
+        "Green": 260
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 523,
+        "Black/Blue": 523,
+        "Blue": 502,
+        "Blue/White": 502,
+        "White": 440,
+        "White/Gold": 440,
+        "Gold": 392,
+        "Gold/Green": 392,
+        "Green": 336
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 515,
+        "Black/Blue": 482,
+        "Blue": 482,
+        "Blue/White": 454,
+        "White": 454,
+        "White/Gold": 454,
+        "Gold": 401,
+        "Gold/Green": 362,
+        "Green": 362
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 154,
+        "Black/Blue": 154,
+        "Blue": 147,
+        "Blue/White": 147,
+        "White": 125,
+        "White/Gold": 125,
+        "Gold": 100,
+        "Gold/Green": 100,
+        "Green": 79
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 435,
+        "Black/Blue": 403,
+        "Blue": 403,
+        "Blue/White": 369,
+        "White": 369,
+        "White/Gold": 323,
+        "Gold": 323,
+        "Gold/Green": 287,
+        "Green": 287
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 383,
+        "Black/Blue": 383,
+        "Blue": 350,
+        "Blue/White": 350,
+        "White": 320,
+        "White/Gold": 320,
+        "Gold": 298,
+        "Gold/Green": 270,
+        "Green": 270
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 363,
+        "Black/Blue": 363,
+        "Blue": 339,
+        "Blue/White": 339,
+        "White": 320,
+        "White/Gold": 282,
+        "Gold": 282,
+        "Gold/Green": 282,
+        "Green": 240
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 366,
+        "Black/Blue": 348,
+        "Blue": 348,
+        "Blue/White": 283,
+        "White": 283,
+        "White/Gold": 283,
+        "Gold": 268,
+        "Gold/Green": 268,
+        "Green": 197
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 206,
+        "Black/Blue": 162,
+        "Blue": 162,
+        "Blue/White": 162,
+        "White": 134,
+        "White/Gold": 134,
+        "Gold": 122,
+        "Gold/Green": 122,
+        "Green": 82
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 324,
+        "Black/Blue": 324,
+        "Blue": 315,
+        "Blue/White": 315,
+        "White": 270,
+        "White/Gold": 270,
+        "Gold": 236,
+        "Gold/Green": 236,
+        "Green": 217
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 165,
+        "Black/Blue": 165,
+        "Blue": 141,
+        "Blue/White": 141,
+        "White": 125,
+        "White/Gold": 125,
+        "Gold": 104,
+        "Gold/Green": 104,
+        "Green": 72
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 556,
+        "Black/Blue": 538,
+        "Blue": 538,
+        "Blue/White": 473,
+        "White": 473,
+        "White/Gold": 441,
+        "Gold": 441,
+        "Gold/Green": 399,
+        "Green": 399
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 295,
+        "Black/Blue": 295,
+        "Blue": 285,
+        "Blue/White": 261,
+        "White": 261,
+        "White/Gold": 226,
+        "Gold": 226,
+        "Gold/Green": 226,
+        "Green": 147
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 434,
+        "Black/Blue": 405,
+        "Blue": 405,
+        "Blue/White": 368,
+        "White": 368,
+        "White/Gold": 339,
+        "Gold": 339,
+        "Gold/Green": 317,
+        "Green": 317
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 490,
+        "Black/Blue": 490,
+        "Blue": 457,
+        "Blue/White": 457,
+        "White": 433,
+        "White/Gold": 401,
+        "Gold": 401,
+        "Gold/Green": 401,
+        "Green": 342
+      },
+      "map": "river-ridge-at-harbour-ridge-yacht-country-club-18"
+    }
+  ],
+  "version": 1
+}

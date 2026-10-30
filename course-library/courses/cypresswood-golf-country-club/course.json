@@ -1,0 +1,249 @@
+{
+  "id": "cypresswood-golf-country-club",
+  "name": "Cypresswood Golf Country Club",
+  "town": "Winter Haven, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red",
+    "Black"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 398,
+        "White": 383,
+        "Gold": 368,
+        "Red": 353,
+        "Black": 323
+      },
+      "map": "cypresswood-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 377,
+        "White": 364,
+        "Gold": 344,
+        "Red": 330,
+        "Black": 265
+      },
+      "map": "cypresswood-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 549,
+        "White": 531,
+        "Gold": 513,
+        "Red": 494,
+        "Black": 391
+      },
+      "map": "cypresswood-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 176,
+        "White": 164,
+        "Gold": 152,
+        "Red": 140,
+        "Black": 89
+      },
+      "map": "cypresswood-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 347,
+        "White": 332,
+        "Gold": 317,
+        "Red": 302,
+        "Black": 247
+      },
+      "map": "cypresswood-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 390,
+        "White": 371,
+        "Gold": 352,
+        "Red": 333,
+        "Black": 265
+      },
+      "map": "cypresswood-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 199,
+        "White": 176,
+        "Gold": 153,
+        "Red": 130,
+        "Black": 86
+      },
+      "map": "cypresswood-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 572,
+        "White": 539,
+        "Gold": 460,
+        "Red": 438,
+        "Black": 370
+      },
+      "map": "cypresswood-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 424,
+        "White": 367,
+        "Gold": 353,
+        "Red": 284,
+        "Black": 229
+      },
+      "map": "cypresswood-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 365,
+        "White": 352,
+        "Gold": 339,
+        "Red": 326,
+        "Black": 269
+      },
+      "map": "cypresswood-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 510,
+        "White": 492,
+        "Gold": 474,
+        "Red": 456,
+        "Black": 394
+      },
+      "map": "cypresswood-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 394,
+        "White": 366,
+        "Gold": 344,
+        "Red": 328,
+        "Black": 267
+      },
+      "map": "cypresswood-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 427,
+        "White": 404,
+        "Gold": 381,
+        "Red": 279,
+        "Black": 259
+      },
+      "map": "cypresswood-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 190,
+        "White": 166,
+        "Gold": 146,
+        "Red": 124,
+        "Black": 95
+      },
+      "map": "cypresswood-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Blue": 510,
+        "White": 491,
+        "Gold": 420,
+        "Red": 415,
+        "Black": 370
+      },
+      "map": "cypresswood-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 180,
+        "White": 164,
+        "Gold": 148,
+        "Red": 132,
+        "Black": 101
+      },
+      "map": "cypresswood-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 393,
+        "White": 376,
+        "Gold": 359,
+        "Red": 342,
+        "Black": 258
+      },
+      "map": "cypresswood-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 415,
+        "White": 402,
+        "Gold": 389,
+        "Red": 347,
+        "Black": 251
+      },
+      "map": "cypresswood-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

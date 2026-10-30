@@ -1,0 +1,212 @@
+{
+  "id": "the-club-at-hidden-creek",
+  "name": "The Club At Hidden Creek",
+  "town": "Navarre, FL",
+  "tees": [
+    "Black/Champ",
+    "Gold",
+    "White",
+    "Coral"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black/Champ": 355,
+        "Gold": 307,
+        "White": 285,
+        "Coral": 230
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black/Champ": 549,
+        "Gold": 508,
+        "White": 469,
+        "Coral": 438
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black/Champ": 371,
+        "Gold": 338,
+        "White": 297,
+        "Coral": 228
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black/Champ": 170,
+        "Gold": 147,
+        "White": 125,
+        "Coral": 115
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black/Champ": 432,
+        "Gold": 397,
+        "White": 363,
+        "Coral": 336
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black/Champ": 394,
+        "Gold": 361,
+        "White": 324,
+        "Coral": 250
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black/Champ": 205,
+        "Gold": 190,
+        "White": 176,
+        "Coral": 126
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black/Champ": 551,
+        "Gold": 515,
+        "White": 490,
+        "Coral": 407
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black/Champ": 399,
+        "Gold": 366,
+        "White": 322,
+        "Coral": 287
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black/Champ": 373,
+        "Gold": 366,
+        "White": 339,
+        "Coral": 281
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black/Champ": 370,
+        "Gold": 357,
+        "White": 319,
+        "Coral": 273
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black/Champ": 535,
+        "Gold": 503,
+        "White": 467,
+        "Coral": 432
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black/Champ": 185,
+        "Gold": 172,
+        "White": 164,
+        "Coral": 106
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black/Champ": 435,
+        "Gold": 406,
+        "White": 371,
+        "Coral": 296
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black/Champ": 566,
+        "Gold": 538,
+        "White": 509,
+        "Coral": 391
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black/Champ": 410,
+        "Gold": 367,
+        "White": 341,
+        "Coral": 297
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black/Champ": 162,
+        "Gold": 150,
+        "White": 143,
+        "Coral": 78
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black/Champ": 361,
+        "Gold": 321,
+        "White": 291,
+        "Coral": 260
+      }
+    }
+  ],
+  "version": 1
+}

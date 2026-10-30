@@ -1,0 +1,307 @@
+{
+  "id": "south-at-hunters-run-golf-course",
+  "name": "South At Hunters Run Golf Course",
+  "town": "Cape Coral, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Green/White",
+    "Green/Red",
+    "Red",
+    "Red/Black",
+    "Black"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 574,
+        "Blue": 565,
+        "Blue/White": 533,
+        "White": 533,
+        "Green/White": 482,
+        "Green/Red": 482,
+        "Red": 473,
+        "Red/Black": 354,
+        "Black": 354
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 359,
+        "Blue": 350,
+        "Blue/White": 350,
+        "White": 331,
+        "Green/White": 315,
+        "Green/Red": 315,
+        "Red": 309,
+        "Red/Black": 228,
+        "Black": 228
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 389,
+        "Blue": 383,
+        "Blue/White": 363,
+        "White": 363,
+        "Green/White": 338,
+        "Green/Red": 305,
+        "Red": 305,
+        "Red/Black": 305,
+        "Black": 218
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 407,
+        "Blue": 387,
+        "Blue/White": 387,
+        "White": 343,
+        "Green/White": 322,
+        "Green/Red": 322,
+        "Red": 309,
+        "Red/Black": 246,
+        "Black": 246
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 433,
+        "Blue": 408,
+        "Blue/White": 399,
+        "White": 399,
+        "Green/White": 376,
+        "Green/Red": 322,
+        "Red": 322,
+        "Red/Black": 322,
+        "Black": 263
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 208,
+        "Blue": 182,
+        "Blue/White": 161,
+        "White": 161,
+        "Green/White": 136,
+        "Green/Red": 112,
+        "Red": 112,
+        "Red/Black": 112,
+        "Black": 53
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 390,
+        "Blue": 383,
+        "Blue/White": 364,
+        "White": 364,
+        "Green/White": 337,
+        "Green/Red": 285,
+        "Red": 285,
+        "Red/Black": 238,
+        "Black": 238
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 187,
+        "Blue": 164,
+        "Blue/White": 164,
+        "White": 145,
+        "Green/White": 119,
+        "Green/Red": 119,
+        "Red": 97,
+        "Red/Black": 97,
+        "Black": 70
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 610,
+        "Blue": 519,
+        "Blue/White": 503,
+        "White": 503,
+        "Green/White": 459,
+        "Green/Red": 439,
+        "Red": 439,
+        "Red/Black": 363,
+        "Black": 363
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 392,
+        "Blue": 383,
+        "Blue/White": 383,
+        "White": 363,
+        "Green/White": 324,
+        "Green/Red": 291,
+        "Red": 291,
+        "Red/Black": 280,
+        "Black": 280
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 389,
+        "Blue": 376,
+        "Blue/White": 376,
+        "White": 330,
+        "Green/White": 319,
+        "Green/Red": 319,
+        "Red": 303,
+        "Red/Black": 303,
+        "Black": 225
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 519,
+        "Blue": 511,
+        "Blue/White": 489,
+        "White": 489,
+        "Green/White": 463,
+        "Green/Red": 463,
+        "Red": 436,
+        "Red/Black": 333,
+        "Black": 333
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 164,
+        "Blue": 158,
+        "Blue/White": 158,
+        "White": 138,
+        "Green/White": 117,
+        "Green/Red": 117,
+        "Red": 107,
+        "Red/Black": 107,
+        "Black": 107
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 554,
+        "Blue": 523,
+        "Blue/White": 508,
+        "White": 508,
+        "Green/White": 499,
+        "Green/Red": 421,
+        "Red": 421,
+        "Red/Black": 411,
+        "Black": 411
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 418,
+        "Blue": 391,
+        "Blue/White": 391,
+        "White": 356,
+        "Green/White": 325,
+        "Green/Red": 325,
+        "Red": 309,
+        "Red/Black": 309,
+        "Black": 240
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 187,
+        "Blue": 162,
+        "Blue/White": 162,
+        "White": 140,
+        "Green/White": 117,
+        "Green/Red": 117,
+        "Red": 110,
+        "Red/Black": 110,
+        "Black": 58
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 405,
+        "Blue": 373,
+        "Blue/White": 373,
+        "White": 348,
+        "Green/White": 319,
+        "Green/Red": 298,
+        "Red": 298,
+        "Red/Black": 231,
+        "Black": 231
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 426,
+        "Blue": 395,
+        "Blue/White": 376,
+        "White": 376,
+        "Green/White": 355,
+        "Green/Red": 329,
+        "Red": 329,
+        "Red/Black": 329,
+        "Black": 280
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,268 @@
+{
+  "id": "reunion-resort-nicklaus-course",
+  "name": "Reunion Resort Nicklaus Course",
+  "town": "Kissimmee, FL",
+  "tees": [
+    "Gold",
+    "Blue/Gold",
+    "Blue/White",
+    "White",
+    "White/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 372,
+        "Blue/Gold": 324,
+        "Blue/White": 324,
+        "White": 311,
+        "White/Red": 311,
+        "Red": 271
+      },
+      "map": "reunion-resort-nicklaus-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 440,
+        "Blue/Gold": 402,
+        "Blue/White": 390,
+        "White": 390,
+        "White/Red": 311,
+        "Red": 311
+      },
+      "map": "reunion-resort-nicklaus-course-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 585,
+        "Blue/Gold": 553,
+        "Blue/White": 536,
+        "White": 536,
+        "White/Red": 459,
+        "Red": 459
+      },
+      "map": "reunion-resort-nicklaus-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 414,
+        "Blue/Gold": 373,
+        "Blue/White": 357,
+        "White": 357,
+        "White/Red": 284,
+        "Red": 284
+      },
+      "map": "reunion-resort-nicklaus-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 223,
+        "Blue/Gold": 196,
+        "Blue/White": 178,
+        "White": 178,
+        "White/Red": 143,
+        "Red": 143
+      },
+      "map": "reunion-resort-nicklaus-course-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 559,
+        "Blue/Gold": 512,
+        "Blue/White": 512,
+        "White": 500,
+        "White/Red": 500,
+        "Red": 425
+      },
+      "map": "reunion-resort-nicklaus-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 372,
+        "Blue/Gold": 349,
+        "Blue/White": 349,
+        "White": 332,
+        "White/Red": 332,
+        "Red": 259
+      },
+      "map": "reunion-resort-nicklaus-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 197,
+        "Blue/Gold": 146,
+        "Blue/White": 146,
+        "White": 127,
+        "White/Red": 127,
+        "Red": 70
+      },
+      "map": "reunion-resort-nicklaus-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 382,
+        "Blue/Gold": 358,
+        "Blue/White": 358,
+        "White": 342,
+        "White/Red": 342,
+        "Red": 269
+      },
+      "map": "reunion-resort-nicklaus-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 461,
+        "Blue/Gold": 408,
+        "Blue/White": 390,
+        "White": 390,
+        "White/Red": 314,
+        "Red": 314
+      },
+      "map": "reunion-resort-nicklaus-course-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 184,
+        "Blue/Gold": 151,
+        "Blue/White": 151,
+        "White": 135,
+        "White/Red": 135,
+        "Red": 108
+      },
+      "map": "reunion-resort-nicklaus-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 433,
+        "Blue/Gold": 368,
+        "Blue/White": 368,
+        "White": 355,
+        "White/Red": 293,
+        "Red": 293
+      },
+      "map": "reunion-resort-nicklaus-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 453,
+        "Blue/Gold": 399,
+        "Blue/White": 383,
+        "White": 383,
+        "White/Red": 290,
+        "Red": 290
+      },
+      "map": "reunion-resort-nicklaus-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 438,
+        "Blue/Gold": 388,
+        "Blue/White": 372,
+        "White": 372,
+        "White/Red": 285,
+        "Red": 285
+      },
+      "map": "reunion-resort-nicklaus-course-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 532,
+        "Blue/Gold": 486,
+        "Blue/White": 486,
+        "White": 472,
+        "White/Red": 472,
+        "Red": 422
+      },
+      "map": "reunion-resort-nicklaus-course-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 210,
+        "Blue/Gold": 177,
+        "Blue/White": 158,
+        "White": 158,
+        "White/Red": 158,
+        "Red": 116
+      },
+      "map": "reunion-resort-nicklaus-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 396,
+        "Blue/Gold": 363,
+        "Blue/White": 363,
+        "White": 347,
+        "White/Red": 347,
+        "Red": 307
+      },
+      "map": "reunion-resort-nicklaus-course-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Gold": 568,
+        "Blue/Gold": 531,
+        "Blue/White": 520,
+        "White": 520,
+        "White/Red": 407,
+        "Red": 407
+      },
+      "map": "reunion-resort-nicklaus-course-18"
+    }
+  ],
+  "version": 1
+}

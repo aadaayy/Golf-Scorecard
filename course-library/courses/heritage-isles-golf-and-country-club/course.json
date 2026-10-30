@@ -1,0 +1,231 @@
+{
+  "id": "heritage-isles-golf-and-country-club",
+  "name": "Heritage Isles Golf And Country Club",
+  "town": "Tampa, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 346,
+        "Blue": 321,
+        "White": 307,
+        "Green": 301,
+        "Red": 284
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 553,
+        "Blue": 492,
+        "White": 479,
+        "Green": 420,
+        "Red": 402
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 430,
+        "Blue": 395,
+        "White": 383,
+        "Green": 312,
+        "Red": 307
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 439,
+        "Blue": 395,
+        "White": 382,
+        "Green": 334,
+        "Red": 324
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 199,
+        "Blue": 174,
+        "White": 144,
+        "Green": 136,
+        "Red": 130
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 348,
+        "Blue": 312,
+        "White": 300,
+        "Green": 247,
+        "Red": 242
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 558,
+        "Blue": 514,
+        "White": 448,
+        "Green": 421,
+        "Red": 405
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 212,
+        "Blue": 187,
+        "White": 136,
+        "Green": 122,
+        "Red": 115
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 334,
+        "Blue": 312,
+        "White": 303,
+        "Green": 260,
+        "Red": 252
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 422,
+        "Blue": 389,
+        "White": 302,
+        "Green": 298,
+        "Red": 292
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 563,
+        "Blue": 481,
+        "White": 465,
+        "Green": 427,
+        "Red": 418
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 381,
+        "Blue": 362,
+        "White": 261,
+        "Green": 225,
+        "Red": 218
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 235,
+        "Blue": 192,
+        "White": 146,
+        "Green": 136,
+        "Red": 123
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 430,
+        "Blue": 397,
+        "White": 365,
+        "Green": 289,
+        "Red": 274
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 548,
+        "Blue": 504,
+        "White": 467,
+        "Green": 420,
+        "Red": 410
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 249,
+        "Blue": 195,
+        "White": 146,
+        "Green": 138,
+        "Red": 129
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 330,
+        "Blue": 288,
+        "White": 271,
+        "Green": 262,
+        "Red": 232
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 399,
+        "Blue": 326,
+        "White": 310,
+        "Green": 285,
+        "Red": 275
+      }
+    }
+  ],
+  "version": 1
+}

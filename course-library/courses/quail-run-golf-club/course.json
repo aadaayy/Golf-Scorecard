@@ -1,0 +1,231 @@
+{
+  "id": "quail-run-golf-club",
+  "name": "Quail Run Golf Club",
+  "town": "Naples, FL",
+  "tees": [
+    "Tee I",
+    "Tee Ii",
+    "Tee Iii",
+    "Tee Iv",
+    "Tee V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tee I": 378,
+        "Tee Ii": 357,
+        "Tee Iii": 347,
+        "Tee Iv": 334,
+        "Tee V": 302
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Tee I": 173,
+        "Tee Ii": 153,
+        "Tee Iii": 144,
+        "Tee Iv": 143,
+        "Tee V": 106
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Tee I": 407,
+        "Tee Ii": 398,
+        "Tee Iii": 376,
+        "Tee Iv": 347,
+        "Tee V": 326
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Tee I": 245,
+        "Tee Ii": 229,
+        "Tee Iii": 217,
+        "Tee Iv": 206,
+        "Tee V": 180
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Tee I": 385,
+        "Tee Ii": 375,
+        "Tee Iii": 355,
+        "Tee Iv": 345,
+        "Tee V": 320
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tee I": 267,
+        "Tee Ii": 259,
+        "Tee Iii": 250,
+        "Tee Iv": 244,
+        "Tee V": 182
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Tee I": 165,
+        "Tee Ii": 155,
+        "Tee Iii": 136,
+        "Tee Iv": 125,
+        "Tee V": 101
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tee I": 349,
+        "Tee Ii": 329,
+        "Tee Iii": 292,
+        "Tee Iv": 288,
+        "Tee V": 249
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Tee I": 175,
+        "Tee Ii": 160,
+        "Tee Iii": 145,
+        "Tee Iv": 134,
+        "Tee V": 107
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tee I": 363,
+        "Tee Ii": 353,
+        "Tee Iii": 346,
+        "Tee Iv": 342,
+        "Tee V": 276
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Tee I": 269,
+        "Tee Ii": 253,
+        "Tee Iii": 216,
+        "Tee Iv": 208,
+        "Tee V": 183
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Tee I": 152,
+        "Tee Ii": 141,
+        "Tee Iii": 127,
+        "Tee Iv": 119,
+        "Tee V": 83
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tee I": 340,
+        "Tee Ii": 327,
+        "Tee Iii": 315,
+        "Tee Iv": 303,
+        "Tee V": 269
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tee I": 268,
+        "Tee Ii": 256,
+        "Tee Iii": 226,
+        "Tee Iv": 218,
+        "Tee V": 186
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Tee I": 442,
+        "Tee Ii": 432,
+        "Tee Iii": 403,
+        "Tee Iv": 376,
+        "Tee V": 318
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Tee I": 200,
+        "Tee Ii": 170,
+        "Tee Iii": 128,
+        "Tee Iv": 125,
+        "Tee V": 107
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Tee I": 362,
+        "Tee Ii": 352,
+        "Tee Iii": 325,
+        "Tee Iv": 316,
+        "Tee V": 292
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Tee I": 161,
+        "Tee Ii": 143,
+        "Tee Iii": 133,
+        "Tee Iv": 127,
+        "Tee V": 98
+      }
+    }
+  ],
+  "version": 1
+}

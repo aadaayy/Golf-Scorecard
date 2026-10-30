@@ -1,0 +1,193 @@
+{
+  "id": "hole-in-the-wall-golf-club",
+  "name": "Hole In The Wall Golf Club",
+  "town": "Naples, FL",
+  "tees": [
+    "Green",
+    "Blue",
+    "White"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Green": 303,
+        "Blue": 292,
+        "White": 288
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Green": 386,
+        "Blue": 350,
+        "White": 320
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Green": 407,
+        "Blue": 356,
+        "White": 340
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Green": 405,
+        "Blue": 362,
+        "White": 325
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Green": 168,
+        "Blue": 159,
+        "White": 140
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Green": 392,
+        "Blue": 357,
+        "White": 336
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Green": 564,
+        "Blue": 528,
+        "White": 475
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Green": 440,
+        "Blue": 375,
+        "White": 350
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Green": 155,
+        "Blue": 140,
+        "White": 135
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Green": 350,
+        "Blue": 340,
+        "White": 335
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Green": 533,
+        "Blue": 510,
+        "White": 452
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Green": 163,
+        "Blue": 155,
+        "White": 138
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Green": 524,
+        "Blue": 503,
+        "White": 455
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Green": 350,
+        "Blue": 340,
+        "White": 315
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Green": 352,
+        "Blue": 332,
+        "White": 315
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Green": 405,
+        "Blue": 367,
+        "White": 343
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Green": 180,
+        "Blue": 167,
+        "White": 159
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Green": 450,
+        "Blue": 370,
+        "White": 350
+      }
+    }
+  ],
+  "version": 1
+}

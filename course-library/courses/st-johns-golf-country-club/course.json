@@ -1,0 +1,344 @@
+{
+  "id": "st-johns-golf-country-club",
+  "name": "St Johns Golf Country Club",
+  "town": "St. Augustine, FL",
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Silver",
+    "Silver",
+    "Silver/Red",
+    "Red",
+    "Family"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 406,
+        "Web": 406,
+        "Blue": 378,
+        "Blue/White": 378,
+        "White": 362,
+        "White/Silver": 362,
+        "Silver": 338,
+        "Silver/Red": 338,
+        "Red": 286,
+        "Family": 102
+      },
+      "map": "st-johns-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Gold": 542,
+        "Web": 542,
+        "Blue": 503,
+        "Blue/White": 493,
+        "White": 493,
+        "White/Silver": 493,
+        "Silver": 456,
+        "Silver/Red": 423,
+        "Red": 423,
+        "Family": 156
+      },
+      "map": "st-johns-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 207,
+        "Web": 207,
+        "Blue": 183,
+        "Blue/White": 183,
+        "White": 167,
+        "White/Silver": 137,
+        "Silver": 137,
+        "Silver/Red": 137,
+        "Red": 116,
+        "Family": 107
+      },
+      "map": "st-johns-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 376,
+        "Web": 376,
+        "Blue": 340,
+        "Blue/White": 340,
+        "White": 325,
+        "White/Silver": 325,
+        "Silver": 306,
+        "Silver/Red": 249,
+        "Red": 249,
+        "Family": 180
+      },
+      "map": "st-johns-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 176,
+        "Web": 176,
+        "Blue": 155,
+        "Blue/White": 155,
+        "White": 143,
+        "White/Silver": 143,
+        "Silver": 123,
+        "Silver/Red": 123,
+        "Red": 109,
+        "Family": 101
+      },
+      "map": "st-johns-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 424,
+        "Web": 424,
+        "Blue": 396,
+        "Blue/White": 365,
+        "White": 365,
+        "White/Silver": 340,
+        "Silver": 340,
+        "Silver/Red": 340,
+        "Red": 305,
+        "Family": 98
+      },
+      "map": "st-johns-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 403,
+        "Web": 403,
+        "Blue": 373,
+        "Blue/White": 373,
+        "White": 350,
+        "White/Silver": 350,
+        "Silver": 328,
+        "Silver/Red": 328,
+        "Red": 287,
+        "Family": 151
+      },
+      "map": "st-johns-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 558,
+        "Web": 558,
+        "Blue": 536,
+        "Blue/White": 501,
+        "White": 501,
+        "White/Silver": 473,
+        "Silver": 473,
+        "Silver/Red": 438,
+        "Red": 438,
+        "Family": 127
+      },
+      "map": "st-johns-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 440,
+        "Web": 440,
+        "Blue": 418,
+        "Blue/White": 389,
+        "White": 389,
+        "White/Silver": 358,
+        "Silver": 358,
+        "Silver/Red": 324,
+        "Red": 324,
+        "Family": 144
+      },
+      "map": "st-johns-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 403,
+        "Web": 403,
+        "Blue": 377,
+        "Blue/White": 341,
+        "White": 341,
+        "White/Silver": 341,
+        "Silver": 326,
+        "Silver/Red": 326,
+        "Red": 283,
+        "Family": 122
+      },
+      "map": "st-johns-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 415,
+        "Web": 415,
+        "Blue": 384,
+        "Blue/White": 384,
+        "White": 360,
+        "White/Silver": 342,
+        "Silver": 342,
+        "Silver/Red": 342,
+        "Red": 295,
+        "Family": 108
+      },
+      "map": "st-johns-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 565,
+        "Web": 565,
+        "Blue": 527,
+        "Blue/White": 507,
+        "White": 507,
+        "White/Silver": 465,
+        "Silver": 465,
+        "Silver/Red": 450,
+        "Red": 450,
+        "Family": 186
+      },
+      "map": "st-johns-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 186,
+        "Web": 186,
+        "Blue": 168,
+        "Blue/White": 168,
+        "White": 153,
+        "White/Silver": 137,
+        "Silver": 137,
+        "Silver/Red": 137,
+        "Red": 105,
+        "Family": 98
+      },
+      "map": "st-johns-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 400,
+        "Web": 400,
+        "Blue": 370,
+        "Blue/White": 370,
+        "White": 346,
+        "White/Silver": 346,
+        "Silver": 326,
+        "Silver/Red": 326,
+        "Red": 286,
+        "Family": 103
+      },
+      "map": "st-johns-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 460,
+        "Web": 460,
+        "Blue": 425,
+        "Blue/White": 393,
+        "White": 393,
+        "White/Silver": 360,
+        "Silver": 360,
+        "Silver/Red": 335,
+        "Red": 335,
+        "Family": 160
+      },
+      "map": "st-johns-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 557,
+        "Web": 557,
+        "Blue": 533,
+        "Blue/White": 533,
+        "White": 493,
+        "White/Silver": 493,
+        "Silver": 480,
+        "Silver/Red": 453,
+        "Red": 453,
+        "Family": 218
+      },
+      "map": "st-johns-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 212,
+        "Web": 212,
+        "Blue": 194,
+        "Blue/White": 184,
+        "White": 184,
+        "White/Silver": 184,
+        "Silver": 174,
+        "Silver/Red": 134,
+        "Red": 134,
+        "Family": 129
+      },
+      "map": "st-johns-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 453,
+        "Web": 453,
+        "Blue": 428,
+        "Blue/White": 401,
+        "White": 401,
+        "White/Silver": 371,
+        "Silver": 371,
+        "Silver/Red": 324,
+        "Red": 324,
+        "Family": 107
+      },
+      "map": "st-johns-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

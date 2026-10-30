@@ -1,0 +1,326 @@
+{
+  "id": "naples-lakes-country-club",
+  "name": "Naples Lakes Country Club",
+  "town": "Naples, FL",
+  "tees": [
+    "I",
+    "II",
+    "Ii-Iii",
+    "III",
+    "Iii-Iv",
+    "IV",
+    "Iv-V",
+    "V",
+    "V-Vi",
+    "VI"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 390,
+        "II": 369,
+        "Ii-Iii": 350,
+        "III": 350,
+        "Iii-Iv": 350,
+        "IV": 305,
+        "Iv-V": 305,
+        "V": 270,
+        "V-Vi": 217,
+        "VI": 217
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "I": 409,
+        "II": 381,
+        "Ii-Iii": 381,
+        "III": 366,
+        "Iii-Iv": 332,
+        "IV": 332,
+        "Iv-V": 293,
+        "V": 293,
+        "V-Vi": 293,
+        "VI": 270
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "I": 516,
+        "II": 513,
+        "Ii-Iii": 513,
+        "III": 477,
+        "Iii-Iv": 477,
+        "IV": 454,
+        "Iv-V": 405,
+        "V": 405,
+        "V-Vi": 349,
+        "VI": 349
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 315,
+        "II": 310,
+        "Ii-Iii": 310,
+        "III": 290,
+        "Iii-Iv": 290,
+        "IV": 269,
+        "Iv-V": 269,
+        "V": 248,
+        "V-Vi": 248,
+        "VI": 224
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 200,
+        "II": 191,
+        "Ii-Iii": 160,
+        "III": 160,
+        "Iii-Iv": 160,
+        "IV": 143,
+        "Iv-V": 143,
+        "V": 128,
+        "V-Vi": 128,
+        "VI": 110
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "I": 573,
+        "II": 540,
+        "Ii-Iii": 500,
+        "III": 500,
+        "Iii-Iv": 470,
+        "IV": 470,
+        "Iv-V": 470,
+        "V": 457,
+        "V-Vi": 394,
+        "VI": 394
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "I": 139,
+        "II": 136,
+        "Ii-Iii": 136,
+        "III": 122,
+        "Iii-Iv": 122,
+        "IV": 115,
+        "Iv-V": 115,
+        "V": 100,
+        "V-Vi": 100,
+        "VI": 83
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "I": 415,
+        "II": 392,
+        "Ii-Iii": 392,
+        "III": 374,
+        "Iii-Iv": 348,
+        "IV": 348,
+        "Iv-V": 301,
+        "V": 301,
+        "V-Vi": 301,
+        "VI": 275
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "I": 432,
+        "II": 422,
+        "Ii-Iii": 385,
+        "III": 385,
+        "Iii-Iv": 361,
+        "IV": 361,
+        "Iv-V": 328,
+        "V": 328,
+        "V-Vi": 263,
+        "VI": 263
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I": 415,
+        "II": 384,
+        "Ii-Iii": 370,
+        "III": 370,
+        "Iii-Iv": 350,
+        "IV": 350,
+        "Iv-V": 308,
+        "V": 308,
+        "V-Vi": 249,
+        "VI": 249
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "I": 519,
+        "II": 484,
+        "Ii-Iii": 484,
+        "III": 457,
+        "Iii-Iv": 457,
+        "IV": 438,
+        "Iv-V": 401,
+        "V": 401,
+        "V-Vi": 401,
+        "VI": 375
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "I": 423,
+        "II": 417,
+        "Ii-Iii": 390,
+        "III": 390,
+        "Iii-Iv": 353,
+        "IV": 353,
+        "Iv-V": 313,
+        "V": 313,
+        "V-Vi": 313,
+        "VI": 291
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "I": 169,
+        "II": 157,
+        "Ii-Iii": 157,
+        "III": 144,
+        "Iii-Iv": 144,
+        "IV": 133,
+        "Iv-V": 133,
+        "V": 119,
+        "V-Vi": 119,
+        "VI": 69
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I": 400,
+        "II": 378,
+        "Ii-Iii": 378,
+        "III": 352,
+        "Iii-Iv": 311,
+        "IV": 311,
+        "Iv-V": 311,
+        "V": 286,
+        "V-Vi": 286,
+        "VI": 250
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 145,
+        "II": 135,
+        "Ii-Iii": 135,
+        "III": 124,
+        "Iii-Iv": 124,
+        "IV": 112,
+        "Iv-V": 112,
+        "V": 93,
+        "V-Vi": 93,
+        "VI": 81
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "I": 307,
+        "II": 293,
+        "Ii-Iii": 293,
+        "III": 278,
+        "Iii-Iv": 278,
+        "IV": 267,
+        "Iv-V": 248,
+        "V": 248,
+        "V-Vi": 209,
+        "VI": 209
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "I": 437,
+        "II": 415,
+        "Ii-Iii": 415,
+        "III": 403,
+        "Iii-Iv": 375,
+        "IV": 375,
+        "Iv-V": 375,
+        "V": 345,
+        "V-Vi": 288,
+        "VI": 288
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "I": 525,
+        "II": 494,
+        "Ii-Iii": 471,
+        "III": 471,
+        "Iii-Iv": 471,
+        "IV": 445,
+        "Iv-V": 445,
+        "V": 416,
+        "V-Vi": 416,
+        "VI": 347
+      }
+    }
+  ],
+  "version": 1
+}

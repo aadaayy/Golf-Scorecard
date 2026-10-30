@@ -1,0 +1,83 @@
+{
+  "id": "palm-hill-country-club",
+  "name": "Palm Hill Country Club",
+  "town": "Largo, FL",
+  "tees": [
+    "Ladies"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Ladies": 185
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Ladies": 230
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Ladies": 70
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Ladies": 85
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Ladies": 60
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Ladies": 65
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Ladies": 105
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Ladies": 200
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Ladies": 115
+      }
+    }
+  ],
+  "version": 1
+}

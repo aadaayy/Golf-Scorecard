@@ -1,0 +1,212 @@
+{
+  "id": "sabal-springs-golf-racquet-club",
+  "name": "Sabal Springs Golf Racquet Club",
+  "town": "North Fort Myers, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 125,
+        "White": 115,
+        "Gold": 90,
+        "Red": 70
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 138,
+        "White": 124,
+        "Gold": 115,
+        "Red": 80
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 210,
+        "White": 210,
+        "Gold": 196,
+        "Red": 196
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 166,
+        "White": 137,
+        "Gold": 105,
+        "Red": 61
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 185,
+        "White": 168,
+        "Gold": 115,
+        "Red": 107
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 240,
+        "White": 201,
+        "Gold": 180,
+        "Red": 136
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 140,
+        "White": 130,
+        "Gold": 105,
+        "Red": 88
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 102,
+        "White": 102,
+        "Gold": 102,
+        "Red": 87
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 124,
+        "White": 124,
+        "Gold": 111,
+        "Red": 111
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 336,
+        "White": 294,
+        "Gold": 220,
+        "Red": 220
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 108,
+        "White": 108,
+        "Gold": 98,
+        "Red": 92
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 195,
+        "White": 175,
+        "Gold": 125,
+        "Red": 93
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 290,
+        "White": 223,
+        "Gold": 185,
+        "Red": 185
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 163,
+        "White": 122,
+        "Gold": 106,
+        "Red": 91
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 233,
+        "White": 206,
+        "Gold": 206,
+        "Red": 196
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 134,
+        "White": 134,
+        "Gold": 112,
+        "Red": 86
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 106,
+        "White": 106,
+        "Gold": 106,
+        "Red": 92
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 279,
+        "White": 279,
+        "Gold": 190,
+        "Red": 180
+      }
+    }
+  ],
+  "version": 1
+}

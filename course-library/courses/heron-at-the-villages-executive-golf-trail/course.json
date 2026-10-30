@@ -1,0 +1,102 @@
+{
+  "id": "heron-at-the-villages-executive-golf-trail",
+  "name": "Heron At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Blue",
+    "White"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 141,
+        "White": 118
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 152,
+        "White": 148
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 142,
+        "White": 116
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 274,
+        "White": 248
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 142,
+        "White": 123
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 144,
+        "White": 117
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 135,
+        "White": 106
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 195,
+        "White": 174
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 143,
+        "White": 132
+      },
+      "map": "heron-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,192 @@
+{
+  "id": "el-rio-golf-club",
+  "name": "El Rio Golf Club",
+  "town": "North Fort Myers, FL",
+  "tees": [
+    "Men'S",
+    "Ladies'"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Men'S": 271,
+        "Ladies'": 227
+      },
+      "map": "el-rio-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Men'S": 179,
+        "Ladies'": 148
+      },
+      "map": "el-rio-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Men'S": 135,
+        "Ladies'": 107
+      },
+      "map": "el-rio-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Men'S": 144,
+        "Ladies'": 122
+      },
+      "map": "el-rio-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Men'S": 201,
+        "Ladies'": 125
+      },
+      "map": "el-rio-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Men'S": 83,
+        "Ladies'": 58
+      },
+      "map": "el-rio-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Men'S": 162,
+        "Ladies'": 118
+      },
+      "map": "el-rio-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Men'S": 160,
+        "Ladies'": 129
+      },
+      "map": "el-rio-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Men'S": 123,
+        "Ladies'": 96
+      },
+      "map": "el-rio-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Men'S": 232,
+        "Ladies'": 197
+      },
+      "map": "el-rio-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Men'S": 161,
+        "Ladies'": 130
+      },
+      "map": "el-rio-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Men'S": 144,
+        "Ladies'": 103
+      },
+      "map": "el-rio-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Men'S": 194,
+        "Ladies'": 163
+      },
+      "map": "el-rio-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Men'S": 188,
+        "Ladies'": 162
+      },
+      "map": "el-rio-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Men'S": 133,
+        "Ladies'": 114
+      },
+      "map": "el-rio-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Men'S": 179,
+        "Ladies'": 147
+      },
+      "map": "el-rio-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Men'S": 162,
+        "Ladies'": 140
+      },
+      "map": "el-rio-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Men'S": 153,
+        "Ladies'": 115
+      },
+      "map": "el-rio-golf-club-18"
+    }
+  ],
+  "version": 1
+}

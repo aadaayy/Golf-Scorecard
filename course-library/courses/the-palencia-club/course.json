@@ -1,0 +1,307 @@
+{
+  "id": "the-palencia-club",
+  "name": "The Palencia Club",
+  "town": "St. Augustine, FL",
+  "tees": [
+    "Gold",
+    "Green",
+    "Green/Black",
+    "Black",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 469,
+        "Green": 452,
+        "Green/Black": 433,
+        "Black": 433,
+        "Blue": 423,
+        "Blue/White": 402,
+        "White": 402,
+        "White/Red": 361,
+        "Red": 361
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 331,
+        "Green": 321,
+        "Green/Black": 321,
+        "Black": 309,
+        "Blue": 300,
+        "Blue/White": 300,
+        "White": 226,
+        "White/Red": 226,
+        "Red": 214
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 216,
+        "Green": 169,
+        "Green/Black": 169,
+        "Black": 160,
+        "Blue": 126,
+        "Blue/White": 126,
+        "White": 101,
+        "White/Red": 101,
+        "Red": 86
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 541,
+        "Green": 504,
+        "Green/Black": 504,
+        "Black": 491,
+        "Blue": 480,
+        "Blue/White": 462,
+        "White": 462,
+        "White/Red": 411,
+        "Red": 412
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 179,
+        "Green": 164,
+        "Green/Black": 152,
+        "Black": 152,
+        "Blue": 133,
+        "Blue/White": 133,
+        "White": 103,
+        "White/Red": 103,
+        "Red": 77
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 408,
+        "Green": 386,
+        "Green/Black": 386,
+        "Black": 362,
+        "Blue": 345,
+        "Blue/White": 320,
+        "White": 320,
+        "White/Red": 320,
+        "Red": 274
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 444,
+        "Green": 397,
+        "Green/Black": 376,
+        "Black": 376,
+        "Blue": 367,
+        "Blue/White": 360,
+        "White": 360,
+        "White/Red": 343,
+        "Red": 343
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 396,
+        "Green": 359,
+        "Green/Black": 359,
+        "Black": 345,
+        "Blue": 326,
+        "Blue/White": 326,
+        "White": 306,
+        "White/Red": 306,
+        "Red": 231
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 542,
+        "Green": 523,
+        "Green/Black": 518,
+        "Black": 518,
+        "Blue": 502,
+        "Blue/White": 454,
+        "White": 454,
+        "White/Red": 418,
+        "Red": 418
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 427,
+        "Green": 402,
+        "Green/Black": 386,
+        "Black": 386,
+        "Blue": 343,
+        "Blue/White": 317,
+        "White": 317,
+        "White/Red": 299,
+        "Red": 299
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 392,
+        "Green": 384,
+        "Green/Black": 384,
+        "Black": 305,
+        "Blue": 300,
+        "Blue/White": 300,
+        "White": 295,
+        "White/Red": 295,
+        "Red": 240
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 185,
+        "Green": 168,
+        "Green/Black": 152,
+        "Black": 152,
+        "Blue": 134,
+        "Blue/White": 125,
+        "White": 125,
+        "White/Red": 110,
+        "Red": 110
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 564,
+        "Green": 537,
+        "Green/Black": 537,
+        "Black": 521,
+        "Blue": 502,
+        "Blue/White": 471,
+        "White": 471,
+        "White/Red": 432,
+        "Red": 432
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 377,
+        "Green": 370,
+        "Green/Black": 359,
+        "Black": 359,
+        "Blue": 348,
+        "Blue/White": 348,
+        "White": 316,
+        "White/Red": 316,
+        "Red": 276
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 171,
+        "Green": 168,
+        "Green/Black": 168,
+        "Black": 152,
+        "Blue": 145,
+        "Blue/White": 145,
+        "White": 122,
+        "White/Red": 122,
+        "Red": 106
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 458,
+        "Green": 443,
+        "Green/Black": 397,
+        "Black": 397,
+        "Blue": 383,
+        "Blue/White": 370,
+        "White": 370,
+        "White/Red": 310,
+        "Red": 310
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 352,
+        "Green": 346,
+        "Green/Black": 346,
+        "Black": 329,
+        "Blue": 315,
+        "Blue/White": 315,
+        "White": 307,
+        "White/Red": 227,
+        "Red": 227
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 571,
+        "Green": 549,
+        "Green/Black": 538,
+        "Black": 538,
+        "Blue": 524,
+        "Blue/White": 504,
+        "White": 504,
+        "White/Red": 423,
+        "Red": 423
+      }
+    }
+  ],
+  "version": 1
+}

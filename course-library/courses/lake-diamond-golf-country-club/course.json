@@ -1,0 +1,230 @@
+{
+  "id": "lake-diamond-golf-country-club",
+  "name": "Lake Diamond Golf Country Club",
+  "town": "Ocala, FL",
+  "tees": [
+    "Championship/Gold",
+    "Middle/Green",
+    "White",
+    "Forward/Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Championship/Gold": 510,
+        "Middle/Green": 488,
+        "White": 470,
+        "Forward/Red": 435
+      },
+      "map": "lake-diamond-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Championship/Gold": 358,
+        "Middle/Green": 335,
+        "White": 315,
+        "Forward/Red": 290
+      },
+      "map": "lake-diamond-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Championship/Gold": 340,
+        "Middle/Green": 324,
+        "White": 311,
+        "Forward/Red": 292
+      },
+      "map": "lake-diamond-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Championship/Gold": 184,
+        "Middle/Green": 156,
+        "White": 136,
+        "Forward/Red": 128
+      },
+      "map": "lake-diamond-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Championship/Gold": 567,
+        "Middle/Green": 543,
+        "White": 522,
+        "Forward/Red": 437
+      },
+      "map": "lake-diamond-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Championship/Gold": 218,
+        "Middle/Green": 192,
+        "White": 166,
+        "Forward/Red": 163
+      },
+      "map": "lake-diamond-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship/Gold": 379,
+        "Middle/Green": 363,
+        "White": 348,
+        "Forward/Red": 325
+      },
+      "map": "lake-diamond-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship/Gold": 385,
+        "Middle/Green": 352,
+        "White": 320,
+        "Forward/Red": 300
+      },
+      "map": "lake-diamond-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship/Gold": 460,
+        "Middle/Green": 427,
+        "White": 389,
+        "Forward/Red": 299
+      },
+      "map": "lake-diamond-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Championship/Gold": 536,
+        "Middle/Green": 487,
+        "White": 464,
+        "Forward/Red": 428
+      },
+      "map": "lake-diamond-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship/Gold": 360,
+        "Middle/Green": 336,
+        "White": 316,
+        "Forward/Red": 294
+      },
+      "map": "lake-diamond-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship/Gold": 127,
+        "Middle/Green": 115,
+        "White": 109,
+        "Forward/Red": 84
+      },
+      "map": "lake-diamond-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship/Gold": 380,
+        "Middle/Green": 355,
+        "White": 334,
+        "Forward/Red": 311
+      },
+      "map": "lake-diamond-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship/Gold": 332,
+        "Middle/Green": 312,
+        "White": 280,
+        "Forward/Red": 262
+      },
+      "map": "lake-diamond-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship/Gold": 187,
+        "Middle/Green": 155,
+        "White": 118,
+        "Forward/Red": 94
+      },
+      "map": "lake-diamond-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship/Gold": 376,
+        "Middle/Green": 350,
+        "White": 304,
+        "Forward/Red": 293
+      },
+      "map": "lake-diamond-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship/Gold": 392,
+        "Middle/Green": 374,
+        "White": 352,
+        "Forward/Red": 273
+      },
+      "map": "lake-diamond-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Championship/Gold": 521,
+        "Middle/Green": 479,
+        "White": 442,
+        "Forward/Red": 413
+      },
+      "map": "lake-diamond-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,174 @@
+{
+  "id": "blue-red-at-foxfire-country-club",
+  "name": "Blue Red At Foxfire Country Club",
+  "town": "East Naples, FL",
+  "tees": [
+    "#2",
+    "#3"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "#2": 367,
+        "#3": 345
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "#2": 144,
+        "#3": 116
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "#2": 343,
+        "#3": 315
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "#2": 309,
+        "#3": 280
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "#2": 288,
+        "#3": 273
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "#2": 351,
+        "#3": 292
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "#2": 511,
+        "#3": 442
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "#2": 154,
+        "#3": 139
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "#2": 465,
+        "#3": 436
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "#2": 361,
+        "#3": 341
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "#2": 158,
+        "#3": 149
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "#2": 518,
+        "#3": 482
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "#2": 315,
+        "#3": 300
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "#2": 502,
+        "#3": 485
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "#2": 324,
+        "#3": 294
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "#2": 179,
+        "#3": 153
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "#2": 330,
+        "#3": 319
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "#2": 280,
+        "#3": 260
+      }
+    }
+  ],
+  "version": 1
+}

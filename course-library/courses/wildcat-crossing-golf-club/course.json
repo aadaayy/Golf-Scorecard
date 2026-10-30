@@ -1,0 +1,231 @@
+{
+  "id": "wildcat-crossing-golf-club",
+  "name": "Wildcat Crossing Golf Club",
+  "town": "Lehigh Acres, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Green",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 382,
+        "White": 362,
+        "Green": 333,
+        "Gold": 312,
+        "Red": 278
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 370,
+        "White": 352,
+        "Green": 337,
+        "Gold": 319,
+        "Red": 258
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 527,
+        "White": 511,
+        "Green": 457,
+        "Gold": 439,
+        "Red": 305
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 384,
+        "White": 369,
+        "Green": 333,
+        "Gold": 285,
+        "Red": 87
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 193,
+        "White": 180,
+        "Green": 138,
+        "Gold": 126,
+        "Red": 256
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 563,
+        "White": 517,
+        "Green": 464,
+        "Gold": 451,
+        "Red": 273
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 192,
+        "White": 158,
+        "Green": 150,
+        "Gold": 108,
+        "Red": 334
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 428,
+        "White": 413,
+        "Green": 365,
+        "Gold": 342,
+        "Red": 94
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 363,
+        "White": 350,
+        "Green": 307,
+        "Gold": 291,
+        "Red": 253
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 369,
+        "White": 348,
+        "Green": 319,
+        "Gold": 290,
+        "Red": 199
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 344,
+        "White": 336,
+        "Green": 304,
+        "Gold": 290,
+        "Red": 237
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 517,
+        "White": 462,
+        "Green": 414,
+        "Gold": 390,
+        "Red": 370
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 215,
+        "White": 180,
+        "Green": 129,
+        "Gold": 102,
+        "Red": 275
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 383,
+        "White": 364,
+        "Green": 303,
+        "Gold": 271,
+        "Red": 115
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 390,
+        "White": 380,
+        "Green": 300,
+        "Gold": 275,
+        "Red": 288
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 499,
+        "White": 479,
+        "Green": 429,
+        "Gold": 350,
+        "Red": 100
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 150,
+        "White": 142,
+        "Green": 127,
+        "Gold": 105,
+        "Red": 276
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 382,
+        "White": 367,
+        "Green": 319,
+        "Gold": 286,
+        "Red": 279
+      }
+    }
+  ],
+  "version": 1
+}

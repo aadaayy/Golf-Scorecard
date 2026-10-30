@@ -1,0 +1,92 @@
+{
+  "id": "roosevelt-course-at-the-villages-executive-golf-trail",
+  "name": "Roosevelt Course At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 147
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 153
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 147
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 177
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 164
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 280
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 318
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 171
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 194
+      },
+      "map": "roosevelt-course-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

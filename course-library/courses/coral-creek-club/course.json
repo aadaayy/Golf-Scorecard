@@ -1,0 +1,250 @@
+{
+  "id": "coral-creek-club",
+  "name": "Coral Creek Club",
+  "town": "Placida, FL",
+  "tees": [
+    "Medal",
+    "Blue",
+    "Gold",
+    "White",
+    "Coral",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Medal": 388,
+        "Blue": 356,
+        "Gold": 356,
+        "White": 323,
+        "Coral": 284,
+        "Green": 253
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Medal": 174,
+        "Blue": 174,
+        "Gold": 154,
+        "White": 134,
+        "Coral": 115,
+        "Green": 111
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Medal": 537,
+        "Blue": 537,
+        "Gold": 498,
+        "White": 462,
+        "Coral": 423,
+        "Green": 418
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Medal": 446,
+        "Blue": 406,
+        "Gold": 376,
+        "White": 376,
+        "Coral": 330,
+        "Green": 326
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Medal": 605,
+        "Blue": 570,
+        "Gold": 539,
+        "White": 539,
+        "Coral": 437,
+        "Green": 437
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Medal": 224,
+        "Blue": 211,
+        "Gold": 163,
+        "White": 163,
+        "Coral": 128,
+        "Green": 93
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Medal": 372,
+        "Blue": 358,
+        "Gold": 336,
+        "White": 336,
+        "Coral": 301,
+        "Green": 228
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Medal": 369,
+        "Blue": 369,
+        "Gold": 346,
+        "White": 287,
+        "Coral": 259,
+        "Green": 255
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Medal": 420,
+        "Blue": 401,
+        "Gold": 380,
+        "White": 380,
+        "Coral": 293,
+        "Green": 264
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Medal": 385,
+        "Blue": 354,
+        "Gold": 344,
+        "White": 320,
+        "Coral": 298,
+        "Green": 257
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Medal": 442,
+        "Blue": 417,
+        "Gold": 392,
+        "White": 392,
+        "Coral": 352,
+        "Green": 313
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Medal": 179,
+        "Blue": 162,
+        "Gold": 162,
+        "White": 134,
+        "Coral": 108,
+        "Green": 104
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Medal": 507,
+        "Blue": 507,
+        "Gold": 483,
+        "White": 461,
+        "Coral": 417,
+        "Green": 400
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Medal": 456,
+        "Blue": 408,
+        "Gold": 391,
+        "White": 391,
+        "Coral": 337,
+        "Green": 312
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Medal": 419,
+        "Blue": 384,
+        "Gold": 384,
+        "White": 356,
+        "Coral": 316,
+        "Green": 316
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Medal": 432,
+        "Blue": 390,
+        "Gold": 390,
+        "White": 361,
+        "Coral": 322,
+        "Green": 318
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Medal": 212,
+        "Blue": 212,
+        "Gold": 202,
+        "White": 192,
+        "Coral": 178,
+        "Green": 86
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Medal": 471,
+        "Blue": 457,
+        "Gold": 436,
+        "White": 418,
+        "Coral": 329,
+        "Green": 329
+      }
+    }
+  ],
+  "version": 1
+}

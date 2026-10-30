@@ -1,0 +1,212 @@
+{
+  "id": "river-dolphin-golf-course-at-cocoa-beach-country-club",
+  "name": "River Dolphin Golf Course At Cocoa Beach Country Club",
+  "town": "Cocoa Beach, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 371,
+        "Blue": 349,
+        "White": 322,
+        "Red": 300
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 181,
+        "Blue": 160,
+        "White": 139,
+        "Red": 99
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 514,
+        "Blue": 490,
+        "White": 460,
+        "Red": 416
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 405,
+        "Blue": 385,
+        "White": 360,
+        "Red": 333
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 411,
+        "Blue": 368,
+        "White": 353,
+        "Red": 317
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 391,
+        "Blue": 371,
+        "White": 349,
+        "Red": 306
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 189,
+        "Blue": 166,
+        "White": 146,
+        "Red": 121
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 534,
+        "Blue": 492,
+        "White": 479,
+        "Red": 435
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 346,
+        "Blue": 324,
+        "White": 304,
+        "Red": 279
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 500,
+        "Blue": 460,
+        "White": 434,
+        "Red": 417
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 152,
+        "Blue": 137,
+        "White": 123,
+        "Red": 101
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 386,
+        "Blue": 359,
+        "White": 303,
+        "Red": 289
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 538,
+        "Blue": 507,
+        "White": 483,
+        "Red": 459
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 166,
+        "Blue": 133,
+        "White": 93,
+        "Red": 78
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 414,
+        "Blue": 382,
+        "White": 367,
+        "Red": 344
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 349,
+        "Blue": 324,
+        "White": 304,
+        "Red": 281
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 157,
+        "Blue": 139,
+        "White": 115,
+        "Red": 93
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 359,
+        "Blue": 344,
+        "White": 325,
+        "Red": 235
+      }
+    }
+  ],
+  "version": 1
+}

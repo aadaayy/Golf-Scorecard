@@ -1,0 +1,268 @@
+{
+  "id": "fort-myers-country-club",
+  "name": "Fort Myers Country Club",
+  "town": "Fort Myers, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 330,
+        "Blue": 320,
+        "White": 300,
+        "Gold": 280,
+        "Red": 260,
+        "Green": 220
+      },
+      "map": "fort-myers-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 450,
+        "Blue": 420,
+        "White": 400,
+        "Gold": 385,
+        "Red": 320,
+        "Green": 300
+      },
+      "map": "fort-myers-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 330,
+        "Blue": 310,
+        "White": 290,
+        "Gold": 270,
+        "Red": 250,
+        "Green": 225
+      },
+      "map": "fort-myers-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 190,
+        "Blue": 175,
+        "White": 160,
+        "Gold": 145,
+        "Red": 135,
+        "Green": 110
+      },
+      "map": "fort-myers-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 370,
+        "Blue": 350,
+        "White": 330,
+        "Gold": 310,
+        "Red": 290,
+        "Green": 250
+      },
+      "map": "fort-myers-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 410,
+        "Blue": 390,
+        "White": 370,
+        "Gold": 350,
+        "Red": 310,
+        "Green": 280
+      },
+      "map": "fort-myers-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 220,
+        "Blue": 200,
+        "White": 175,
+        "Gold": 160,
+        "Red": 145,
+        "Green": 125
+      },
+      "map": "fort-myers-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 560,
+        "Blue": 540,
+        "White": 520,
+        "Gold": 490,
+        "Red": 425,
+        "Green": 350
+      },
+      "map": "fort-myers-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 470,
+        "Blue": 410,
+        "White": 390,
+        "Gold": 385,
+        "Red": 375,
+        "Green": 340
+      },
+      "map": "fort-myers-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 220,
+        "Blue": 190,
+        "White": 180,
+        "Gold": 140,
+        "Red": 130,
+        "Green": 100
+      },
+      "map": "fort-myers-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 560,
+        "Blue": 540,
+        "White": 520,
+        "Gold": 475,
+        "Red": 425,
+        "Green": 415
+      },
+      "map": "fort-myers-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 210,
+        "Blue": 190,
+        "White": 175,
+        "Gold": 165,
+        "Red": 150,
+        "Green": 100
+      },
+      "map": "fort-myers-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 370,
+        "Blue": 350,
+        "White": 340,
+        "Gold": 320,
+        "Red": 300,
+        "Green": 250
+      },
+      "map": "fort-myers-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 175,
+        "Blue": 160,
+        "White": 150,
+        "Gold": 140,
+        "Red": 130,
+        "Green": 100
+      },
+      "map": "fort-myers-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 380,
+        "Blue": 360,
+        "White": 340,
+        "Gold": 320,
+        "Red": 290,
+        "Green": 275
+      },
+      "map": "fort-myers-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 450,
+        "Blue": 420,
+        "White": 375,
+        "Gold": 360,
+        "Red": 310,
+        "Green": 290
+      },
+      "map": "fort-myers-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 445,
+        "Blue": 400,
+        "White": 310,
+        "Gold": 290,
+        "Red": 260,
+        "Green": 245
+      },
+      "map": "fort-myers-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 535,
+        "Blue": 520,
+        "White": 490,
+        "Gold": 475,
+        "Red": 400,
+        "Green": 385
+      },
+      "map": "fort-myers-country-club-18"
+    }
+  ],
+  "version": 1
+}

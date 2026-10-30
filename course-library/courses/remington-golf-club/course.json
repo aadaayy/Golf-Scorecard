@@ -1,0 +1,249 @@
+{
+  "id": "remington-golf-club",
+  "name": "Remington Golf Club",
+  "town": "Kissimmee, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 403,
+        "Blue": 385,
+        "White": 362,
+        "Silver": 349,
+        "Red": 305
+      },
+      "map": "remington-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 192,
+        "Blue": 183,
+        "White": 163,
+        "Silver": 122,
+        "Red": 88
+      },
+      "map": "remington-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 614,
+        "Blue": 587,
+        "White": 571,
+        "Silver": 528,
+        "Red": 486
+      },
+      "map": "remington-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 469,
+        "Blue": 442,
+        "White": 413,
+        "Silver": 408,
+        "Red": 354
+      },
+      "map": "remington-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 222,
+        "Blue": 215,
+        "White": 184,
+        "Silver": 146,
+        "Red": 99
+      },
+      "map": "remington-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 363,
+        "Blue": 334,
+        "White": 311,
+        "Silver": 291,
+        "Red": 257
+      },
+      "map": "remington-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 380,
+        "Blue": 362,
+        "White": 341,
+        "Silver": 316,
+        "Red": 276
+      },
+      "map": "remington-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 402,
+        "Blue": 384,
+        "White": 368,
+        "Silver": 338,
+        "Red": 280
+      },
+      "map": "remington-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 530,
+        "Blue": 517,
+        "White": 498,
+        "Silver": 487,
+        "Red": 424
+      },
+      "map": "remington-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 365,
+        "Blue": 350,
+        "White": 336,
+        "Silver": 305,
+        "Red": 253
+      },
+      "map": "remington-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 374,
+        "Blue": 343,
+        "White": 336,
+        "Silver": 290,
+        "Red": 282
+      },
+      "map": "remington-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 189,
+        "Blue": 170,
+        "White": 133,
+        "Silver": 108,
+        "Red": 93
+      },
+      "map": "remington-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 580,
+        "Blue": 559,
+        "White": 546,
+        "Silver": 503,
+        "Red": 474
+      },
+      "map": "remington-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 206,
+        "Blue": 192,
+        "White": 147,
+        "Silver": 135,
+        "Red": 100
+      },
+      "map": "remington-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 468,
+        "Blue": 440,
+        "White": 394,
+        "Silver": 358,
+        "Red": 309
+      },
+      "map": "remington-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 421,
+        "Blue": 391,
+        "White": 344,
+        "Silver": 337,
+        "Red": 300
+      },
+      "map": "remington-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 381,
+        "Blue": 379,
+        "White": 373,
+        "Silver": 352,
+        "Red": 320
+      },
+      "map": "remington-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 552,
+        "Blue": 536,
+        "White": 508,
+        "Silver": 503,
+        "Red": 478
+      },
+      "map": "remington-golf-club-18"
+    }
+  ],
+  "version": 1
+}

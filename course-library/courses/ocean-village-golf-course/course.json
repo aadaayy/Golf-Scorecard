@@ -1,0 +1,93 @@
+{
+  "id": "ocean-village-golf-course",
+  "name": "Ocean Village Golf Course",
+  "town": "Fort Pierce, FL",
+  "tees": [
+    "Ladies",
+    "Mens"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Ladies": 144,
+        "Mens": 144
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Ladies": 94,
+        "Mens": 94
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Ladies": 146,
+        "Mens": 146
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Ladies": 168,
+        "Mens": 168
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Ladies": 157,
+        "Mens": 157
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Ladies": 126,
+        "Mens": 126
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Ladies": 73,
+        "Mens": 73
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Ladies": 126,
+        "Mens": 126
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Ladies": 86,
+        "Mens": 86
+      }
+    }
+  ],
+  "version": 1
+}

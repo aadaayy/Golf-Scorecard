@@ -1,0 +1,288 @@
+{
+  "id": "the-harbor-at-grand-harbor-golf-beach-club",
+  "name": "The Harbor At Grand Harbor Golf Beach Club",
+  "town": "Vero Beach, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Green",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 370,
+        "Blue": 370,
+        "Blue/White": 370,
+        "White": 328,
+        "White/Gold": 328,
+        "Gold": 297,
+        "Green": 284,
+        "Orange": 180
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 163,
+        "Blue": 156,
+        "Blue/White": 156,
+        "White": 138,
+        "White/Gold": 95,
+        "Gold": 95,
+        "Green": 85,
+        "Orange": 85
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 399,
+        "Blue": 380,
+        "Blue/White": 370,
+        "White": 370,
+        "White/Gold": 370,
+        "Gold": 346,
+        "Green": 334,
+        "Orange": 170
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 364,
+        "Blue": 364,
+        "Blue/White": 364,
+        "White": 321,
+        "White/Gold": 321,
+        "Gold": 283,
+        "Green": 272,
+        "Orange": 190
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 433,
+        "Blue": 433,
+        "Blue/White": 403,
+        "White": 403,
+        "White/Gold": 354,
+        "Gold": 354,
+        "Green": 403,
+        "Orange": 312
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 366,
+        "Blue": 366,
+        "Blue/White": 337,
+        "White": 337,
+        "White/Gold": 337,
+        "Gold": 311,
+        "Green": 301,
+        "Orange": 140
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 173,
+        "Blue": 164,
+        "Blue/White": 143,
+        "White": 143,
+        "White/Gold": 120,
+        "Gold": 120,
+        "Green": 77,
+        "Orange": 77
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 486,
+        "Blue": 477,
+        "Blue/White": 477,
+        "White": 451,
+        "White/Gold": 451,
+        "Gold": 443,
+        "Green": 394,
+        "Orange": 270
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 455,
+        "Blue": 439,
+        "Blue/White": 384,
+        "White": 384,
+        "White/Gold": 257,
+        "Gold": 257,
+        "Green": 252,
+        "Orange": 200
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 332,
+        "Blue": 325,
+        "Blue/White": 325,
+        "White": 302,
+        "White/Gold": 302,
+        "Gold": 290,
+        "Green": 262,
+        "Orange": 160
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 320,
+        "Blue": 310,
+        "Blue/White": 310,
+        "White": 283,
+        "White/Gold": 272,
+        "Gold": 272,
+        "Green": 241,
+        "Orange": 165
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 449,
+        "Blue": 442,
+        "Blue/White": 391,
+        "White": 391,
+        "White/Gold": 391,
+        "Gold": 342,
+        "Green": 340,
+        "Orange": 260
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 354,
+        "Blue": 354,
+        "Blue/White": 354,
+        "White": 314,
+        "White/Gold": 306,
+        "Gold": 306,
+        "Green": 273,
+        "Orange": 180
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 369,
+        "Blue": 360,
+        "Blue/White": 332,
+        "White": 332,
+        "White/Gold": 332,
+        "Gold": 303,
+        "Green": 297,
+        "Orange": 160
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 181,
+        "Blue": 174,
+        "Blue/White": 174,
+        "White": 158,
+        "White/Gold": 158,
+        "Gold": 140,
+        "Green": 134,
+        "Orange": 80
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 538,
+        "Blue": 524,
+        "Blue/White": 488,
+        "White": 488,
+        "White/Gold": 431,
+        "Gold": 431,
+        "Green": 420,
+        "Orange": 240
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 229,
+        "Blue": 212,
+        "Blue/White": 176,
+        "White": 176,
+        "White/Gold": 176,
+        "Gold": 164,
+        "Green": 120,
+        "Orange": 100
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 455,
+        "Blue": 391,
+        "Blue/White": 391,
+        "White": 379,
+        "White/Gold": 338,
+        "Gold": 338,
+        "Green": 280,
+        "Orange": 185
+      }
+    }
+  ],
+  "version": 1
+}

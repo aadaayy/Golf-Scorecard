@@ -1,0 +1,325 @@
+{
+  "id": "trump-national-golf-club",
+  "name": "Trump National Golf Club",
+  "town": "Jupiter, FL",
+  "tees": [
+    "Web",
+    "Black",
+    "Black/Gold",
+    "Gold",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Web": 422,
+        "Black": 421,
+        "Black/Gold": 421,
+        "Gold": 373,
+        "Blue": 349,
+        "Blue/White": 349,
+        "White": 349,
+        "White/Red": 349,
+        "Red": 269
+      },
+      "map": "trump-national-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Web": 578,
+        "Black": 578,
+        "Black/Gold": 522,
+        "Gold": 522,
+        "Blue": 515,
+        "Blue/White": 450,
+        "White": 450,
+        "White/Red": 442,
+        "Red": 442
+      },
+      "map": "trump-national-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 422,
+        "Black": 422,
+        "Black/Gold": 422,
+        "Gold": 368,
+        "Blue": 365,
+        "Blue/White": 312,
+        "White": 312,
+        "White/Red": 263,
+        "Red": 263
+      },
+      "map": "trump-national-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 216,
+        "Black": 213,
+        "Black/Gold": 213,
+        "Gold": 175,
+        "Blue": 157,
+        "Blue/White": 157,
+        "White": 138,
+        "White/Red": 138,
+        "Red": 105
+      },
+      "map": "trump-national-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 491,
+        "Black": 456,
+        "Black/Gold": 388,
+        "Gold": 388,
+        "Blue": 378,
+        "Blue/White": 360,
+        "White": 360,
+        "White/Red": 298,
+        "Red": 298
+      },
+      "map": "trump-national-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Web": 649,
+        "Black": 622,
+        "Black/Gold": 568,
+        "Gold": 568,
+        "Blue": 536,
+        "Blue/White": 473,
+        "White": 473,
+        "White/Red": 430,
+        "Red": 430
+      },
+      "map": "trump-national-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Web": 251,
+        "Black": 250,
+        "Black/Gold": 215,
+        "Gold": 215,
+        "Blue": 190,
+        "Blue/White": 173,
+        "White": 173,
+        "White/Red": 136,
+        "Red": 136
+      },
+      "map": "trump-national-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 448,
+        "Black": 448,
+        "Black/Gold": 431,
+        "Gold": 431,
+        "Blue": 380,
+        "Blue/White": 365,
+        "White": 365,
+        "White/Red": 284,
+        "Red": 284
+      },
+      "map": "trump-national-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 402,
+        "Black": 402,
+        "Black/Gold": 402,
+        "Gold": 361,
+        "Blue": 351,
+        "Blue/White": 351,
+        "White": 345,
+        "White/Red": 345,
+        "Red": 275
+      },
+      "map": "trump-national-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 465,
+        "Black": 465,
+        "Black/Gold": 433,
+        "Gold": 433,
+        "Blue": 399,
+        "Blue/White": 360,
+        "White": 360,
+        "White/Red": 289,
+        "Red": 289
+      },
+      "map": "trump-national-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 168,
+        "Black": 168,
+        "Black/Gold": 168,
+        "Gold": 168,
+        "Blue": 150,
+        "Blue/White": 150,
+        "White": 122,
+        "White/Red": 122,
+        "Red": 88
+      },
+      "map": "trump-national-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 440,
+        "Black": 439,
+        "Black/Gold": 439,
+        "Gold": 396,
+        "Blue": 386,
+        "Blue/White": 386,
+        "White": 375,
+        "White/Red": 375,
+        "Red": 302
+      },
+      "map": "trump-national-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Web": 629,
+        "Black": 608,
+        "Black/Gold": 542,
+        "Gold": 542,
+        "Blue": 511,
+        "Blue/White": 511,
+        "White": 455,
+        "White/Red": 455,
+        "Red": 423
+      },
+      "map": "trump-national-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 230,
+        "Black": 192,
+        "Black/Gold": 173,
+        "Gold": 173,
+        "Blue": 165,
+        "Blue/White": 150,
+        "White": 150,
+        "White/Red": 108,
+        "Red": 108
+      },
+      "map": "trump-national-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 378,
+        "Black": 384,
+        "Black/Gold": 384,
+        "Gold": 348,
+        "Blue": 343,
+        "Blue/White": 306,
+        "White": 306,
+        "White/Red": 254,
+        "Red": 254
+      },
+      "map": "trump-national-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Web": 345,
+        "Black": 339,
+        "Black/Gold": 339,
+        "Gold": 308,
+        "Blue": 303,
+        "Blue/White": 303,
+        "White": 296,
+        "White/Red": 296,
+        "Red": 213
+      },
+      "map": "trump-national-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Web": 546,
+        "Black": 546,
+        "Black/Gold": 546,
+        "Gold": 502,
+        "Blue": 492,
+        "Blue/White": 492,
+        "White": 448,
+        "White/Red": 448,
+        "Red": 402
+      },
+      "map": "trump-national-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 451,
+        "Black": 451,
+        "Black/Gold": 406,
+        "Gold": 406,
+        "Blue": 396,
+        "Blue/White": 369,
+        "White": 369,
+        "White/Red": 344,
+        "Red": 344
+      },
+      "map": "trump-national-golf-club-18"
+    }
+  ],
+  "version": 1
+}

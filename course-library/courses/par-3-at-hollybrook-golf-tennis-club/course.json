@@ -1,0 +1,155 @@
+{
+  "id": "par-3-at-hollybrook-golf-tennis-club",
+  "name": "Par 3 At Hollybrook Golf Tennis Club",
+  "town": "Pembroke Pines, FL",
+  "tees": [
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Forward": 92
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Forward": 86
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Forward": 76
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Forward": 77
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Forward": 80
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Forward": 68
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Forward": 98
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Forward": 86
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Forward": 97
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Forward": 86
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Forward": 104
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Forward": 78
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Forward": 72
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Forward": 97
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Forward": 126
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Forward": 102
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Forward": 75
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Forward": 96
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,288 @@
+{
+  "id": "the-south-at-vineyards-of-naples",
+  "name": "The South At Vineyards Of Naples",
+  "town": "Naples, FL",
+  "tees": [
+    "Tee I",
+    "Tee Ii",
+    "Tee Ii/Iii",
+    "Tee Iii",
+    "Tee Iii/Iv",
+    "Tee Iv",
+    "Tee Iv/V",
+    "Tee V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tee I": 373,
+        "Tee Ii": 348,
+        "Tee Ii/Iii": 348,
+        "Tee Iii": 332,
+        "Tee Iii/Iv": 332,
+        "Tee Iv": 288,
+        "Tee Iv/V": 288,
+        "Tee V": 250
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Tee I": 527,
+        "Tee Ii": 500,
+        "Tee Ii/Iii": 500,
+        "Tee Iii": 486,
+        "Tee Iii/Iv": 443,
+        "Tee Iv": 443,
+        "Tee Iv/V": 413,
+        "Tee V": 413
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tee I": 382,
+        "Tee Ii": 373,
+        "Tee Ii/Iii": 367,
+        "Tee Iii": 367,
+        "Tee Iii/Iv": 367,
+        "Tee Iv": 337,
+        "Tee Iv/V": 337,
+        "Tee V": 293
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tee I": 182,
+        "Tee Ii": 161,
+        "Tee Ii/Iii": 161,
+        "Tee Iii": 142,
+        "Tee Iii/Iv": 142,
+        "Tee Iv": 119,
+        "Tee Iv/V": 98,
+        "Tee V": 98
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Tee I": 361,
+        "Tee Ii": 350,
+        "Tee Ii/Iii": 350,
+        "Tee Iii": 310,
+        "Tee Iii/Iv": 310,
+        "Tee Iv": 288,
+        "Tee Iv/V": 288,
+        "Tee V": 231
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Tee I": 594,
+        "Tee Ii": 569,
+        "Tee Ii/Iii": 527,
+        "Tee Iii": 527,
+        "Tee Iii/Iv": 469,
+        "Tee Iv": 469,
+        "Tee Iv/V": 436,
+        "Tee V": 436
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tee I": 478,
+        "Tee Ii": 392,
+        "Tee Ii/Iii": 358,
+        "Tee Iii": 358,
+        "Tee Iii/Iv": 351,
+        "Tee Iv": 351,
+        "Tee Iv/V": 351,
+        "Tee V": 315
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Tee I": 214,
+        "Tee Ii": 204,
+        "Tee Ii/Iii": 166,
+        "Tee Iii": 166,
+        "Tee Iii/Iv": 133,
+        "Tee Iv": 133,
+        "Tee Iv/V": 103,
+        "Tee V": 103
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tee I": 452,
+        "Tee Ii": 380,
+        "Tee Ii/Iii": 380,
+        "Tee Iii": 343,
+        "Tee Iii/Iv": 343,
+        "Tee Iv": 305,
+        "Tee Iv/V": 305,
+        "Tee V": 258
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Tee I": 538,
+        "Tee Ii": 510,
+        "Tee Ii/Iii": 510,
+        "Tee Iii": 465,
+        "Tee Iii/Iv": 432,
+        "Tee Iv": 432,
+        "Tee Iv/V": 415,
+        "Tee V": 415
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Tee I": 362,
+        "Tee Ii": 336,
+        "Tee Ii/Iii": 336,
+        "Tee Iii": 320,
+        "Tee Iii/Iv": 320,
+        "Tee Iv": 279,
+        "Tee Iv/V": 279,
+        "Tee V": 255
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tee I": 158,
+        "Tee Ii": 148,
+        "Tee Ii/Iii": 148,
+        "Tee Iii": 132,
+        "Tee Iii/Iv": 132,
+        "Tee Iv": 120,
+        "Tee Iv/V": 100,
+        "Tee V": 100
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tee I": 382,
+        "Tee Ii": 356,
+        "Tee Ii/Iii": 346,
+        "Tee Iii": 346,
+        "Tee Iii/Iv": 346,
+        "Tee Iv": 288,
+        "Tee Iv/V": 288,
+        "Tee V": 279
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tee I": 488,
+        "Tee Ii": 453,
+        "Tee Ii/Iii": 388,
+        "Tee Iii": 388,
+        "Tee Iii/Iv": 358,
+        "Tee Iv": 358,
+        "Tee Iv/V": 358,
+        "Tee V": 321
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Tee I": 519,
+        "Tee Ii": 473,
+        "Tee Ii/Iii": 473,
+        "Tee Iii": 470,
+        "Tee Iii/Iv": 425,
+        "Tee Iv": 425,
+        "Tee Iv/V": 392,
+        "Tee V": 392
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Tee I": 427,
+        "Tee Ii": 377,
+        "Tee Ii/Iii": 377,
+        "Tee Iii": 350,
+        "Tee Iii/Iv": 301,
+        "Tee Iv": 301,
+        "Tee Iv/V": 276,
+        "Tee V": 276
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Tee I": 221,
+        "Tee Ii": 189,
+        "Tee Ii/Iii": 180,
+        "Tee Iii": 180,
+        "Tee Iii/Iv": 149,
+        "Tee Iv": 149,
+        "Tee Iv/V": 123,
+        "Tee V": 123
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tee I": 461,
+        "Tee Ii": 438,
+        "Tee Ii/Iii": 355,
+        "Tee Iii": 355,
+        "Tee Iii/Iv": 355,
+        "Tee Iv": 333,
+        "Tee Iv/V": 333,
+        "Tee V": 299
+      }
+    }
+  ],
+  "version": 1
+}

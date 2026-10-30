@@ -1,0 +1,250 @@
+{
+  "id": "the-resort-at-longboat-key-club-links-on-longboat",
+  "name": "The Resort At Longboat Key Club Links On Longboat",
+  "town": "Longboat Key, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Black",
+    "Gold",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 380,
+        "White": 374,
+        "Black": 354,
+        "Gold": 325,
+        "Green": 315,
+        "Red": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 405,
+        "White": 395,
+        "Black": 387,
+        "Gold": 365,
+        "Green": 345,
+        "Red": 317
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 417,
+        "White": 387,
+        "Black": 367,
+        "Gold": 347,
+        "Green": 324,
+        "Red": 315
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 487,
+        "White": 480,
+        "Black": 460,
+        "Gold": 450,
+        "Green": 445,
+        "Red": 345
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 196,
+        "White": 173,
+        "Black": 148,
+        "Gold": 127,
+        "Green": 101,
+        "Red": 95
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 482,
+        "White": 405,
+        "Black": 390,
+        "Gold": 380,
+        "Green": 360,
+        "Red": 360
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 400,
+        "White": 356,
+        "Black": 346,
+        "Gold": 336,
+        "Green": 326,
+        "Red": 310
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 250,
+        "White": 175,
+        "Black": 165,
+        "Gold": 158,
+        "Green": 125,
+        "Red": 125
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 425,
+        "White": 414,
+        "Black": 370,
+        "Gold": 340,
+        "Green": 305,
+        "Red": 280
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 391,
+        "White": 381,
+        "Black": 371,
+        "Gold": 356,
+        "Green": 329,
+        "Red": 325
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 494,
+        "White": 481,
+        "Black": 471,
+        "Gold": 461,
+        "Green": 405,
+        "Red": 360
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 208,
+        "White": 182,
+        "Black": 172,
+        "Gold": 162,
+        "Green": 110,
+        "Red": 85
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 330,
+        "White": 318,
+        "Black": 308,
+        "Gold": 279,
+        "Green": 270,
+        "Red": 260
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 361,
+        "White": 350,
+        "Black": 335,
+        "Gold": 313,
+        "Green": 299,
+        "Red": 280
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 426,
+        "White": 408,
+        "Black": 381,
+        "Gold": 341,
+        "Green": 291,
+        "Red": 291
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 516,
+        "White": 480,
+        "Black": 468,
+        "Gold": 445,
+        "Green": 415,
+        "Red": 350
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 145,
+        "White": 136,
+        "Black": 130,
+        "Gold": 120,
+        "Green": 100,
+        "Red": 95
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 396,
+        "White": 375,
+        "Black": 360,
+        "Gold": 340,
+        "Green": 320,
+        "Red": 300
+      }
+    }
+  ],
+  "version": 1
+}

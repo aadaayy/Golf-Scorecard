@@ -1,0 +1,230 @@
+{
+  "id": "new-smyrna-golf-club",
+  "name": "New Smyrna Golf Club",
+  "town": "New Smyrna Beach, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 394,
+        "White": 376,
+        "Gold": 314,
+        "Red": 263
+      },
+      "map": "new-smyrna-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 379,
+        "White": 357,
+        "Gold": 309,
+        "Red": 280
+      },
+      "map": "new-smyrna-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 165,
+        "White": 151,
+        "Gold": 131,
+        "Red": 94
+      },
+      "map": "new-smyrna-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 392,
+        "White": 335,
+        "Gold": 302,
+        "Red": 264
+      },
+      "map": "new-smyrna-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 153,
+        "White": 140,
+        "Gold": 122,
+        "Red": 104
+      },
+      "map": "new-smyrna-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Blue": 506,
+        "White": 477,
+        "Gold": 427,
+        "Red": 393
+      },
+      "map": "new-smyrna-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 381,
+        "White": 362,
+        "Gold": 316,
+        "Red": 259
+      },
+      "map": "new-smyrna-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 391,
+        "White": 372,
+        "Gold": 330,
+        "Red": 306
+      },
+      "map": "new-smyrna-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 504,
+        "White": 468,
+        "Gold": 407,
+        "Red": 361
+      },
+      "map": "new-smyrna-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 367,
+        "White": 357,
+        "Gold": 326,
+        "Red": 283
+      },
+      "map": "new-smyrna-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 450,
+        "White": 403,
+        "Gold": 365,
+        "Red": 287
+      },
+      "map": "new-smyrna-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 174,
+        "White": 165,
+        "Gold": 153,
+        "Red": 118
+      },
+      "map": "new-smyrna-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 377,
+        "White": 368,
+        "Gold": 358,
+        "Red": 306
+      },
+      "map": "new-smyrna-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 483,
+        "White": 470,
+        "Gold": 419,
+        "Red": 362
+      },
+      "map": "new-smyrna-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 230,
+        "White": 207,
+        "Gold": 165,
+        "Red": 123
+      },
+      "map": "new-smyrna-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 303,
+        "White": 290,
+        "Gold": 246,
+        "Red": 198
+      },
+      "map": "new-smyrna-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 405,
+        "White": 386,
+        "Gold": 354,
+        "Red": 330
+      },
+      "map": "new-smyrna-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Blue": 489,
+        "White": 451,
+        "Gold": 433,
+        "Red": 386
+      },
+      "map": "new-smyrna-golf-club-18"
+    }
+  ],
+  "version": 1
+}

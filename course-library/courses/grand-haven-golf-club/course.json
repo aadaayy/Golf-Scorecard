@@ -1,0 +1,287 @@
+{
+  "id": "grand-haven-golf-club",
+  "name": "Grand Haven Golf Club",
+  "town": "Palm Coast, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "Dark Oak",
+    "White",
+    "Light Oak",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 410,
+        "Blue": 370,
+        "Dark Oak": 370,
+        "White": 307,
+        "Light Oak": 307,
+        "Green": 260,
+        "Red": 200
+      },
+      "map": "grand-haven-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 500,
+        "Blue": 480,
+        "Dark Oak": 471,
+        "White": 471,
+        "Light Oak": 409,
+        "Green": 409,
+        "Red": 334
+      },
+      "map": "grand-haven-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 436,
+        "Blue": 399,
+        "Dark Oak": 399,
+        "White": 357,
+        "Light Oak": 320,
+        "Green": 320,
+        "Red": 271
+      },
+      "map": "grand-haven-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 464,
+        "Blue": 417,
+        "Dark Oak": 376,
+        "White": 376,
+        "Light Oak": 321,
+        "Green": 321,
+        "Red": 272
+      },
+      "map": "grand-haven-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 189,
+        "Blue": 165,
+        "Dark Oak": 165,
+        "White": 144,
+        "Light Oak": 144,
+        "Green": 107,
+        "Red": 107
+      },
+      "map": "grand-haven-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 384,
+        "Blue": 357,
+        "Dark Oak": 357,
+        "White": 261,
+        "Light Oak": 261,
+        "Green": 221,
+        "Red": 175
+      },
+      "map": "grand-haven-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 575,
+        "Blue": 525,
+        "Dark Oak": 525,
+        "White": 494,
+        "Light Oak": 494,
+        "Green": 412,
+        "Red": 330
+      },
+      "map": "grand-haven-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 156,
+        "Blue": 124,
+        "Dark Oak": 124,
+        "White": 103,
+        "Light Oak": 103,
+        "Green": 77,
+        "Red": 77
+      },
+      "map": "grand-haven-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 437,
+        "Blue": 391,
+        "Dark Oak": 370,
+        "White": 370,
+        "Light Oak": 313,
+        "Green": 313,
+        "Red": 265
+      },
+      "map": "grand-haven-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 400,
+        "Blue": 372,
+        "Dark Oak": 372,
+        "White": 342,
+        "Light Oak": 342,
+        "Green": 310,
+        "Red": 238
+      },
+      "map": "grand-haven-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 520,
+        "Blue": 496,
+        "Dark Oak": 496,
+        "White": 486,
+        "Light Oak": 423,
+        "Green": 423,
+        "Red": 334
+      },
+      "map": "grand-haven-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 345,
+        "Blue": 323,
+        "Dark Oak": 323,
+        "White": 279,
+        "Light Oak": 279,
+        "Green": 239,
+        "Red": 170
+      },
+      "map": "grand-haven-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 434,
+        "Blue": 384,
+        "Dark Oak": 384,
+        "White": 351,
+        "Light Oak": 351,
+        "Green": 312,
+        "Red": 254
+      },
+      "map": "grand-haven-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 175,
+        "Blue": 142,
+        "Dark Oak": 142,
+        "White": 120,
+        "Light Oak": 120,
+        "Green": 100,
+        "Red": 100
+      },
+      "map": "grand-haven-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 471,
+        "Blue": 425,
+        "Dark Oak": 375,
+        "White": 375,
+        "Light Oak": 375,
+        "Green": 328,
+        "Red": 274
+      },
+      "map": "grand-haven-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 430,
+        "Blue": 383,
+        "Dark Oak": 343,
+        "White": 343,
+        "Light Oak": 301,
+        "Green": 301,
+        "Red": 251
+      },
+      "map": "grand-haven-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 222,
+        "Blue": 182,
+        "Dark Oak": 157,
+        "White": 157,
+        "Light Oak": 130,
+        "Green": 130,
+        "Red": 103
+      },
+      "map": "grand-haven-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 525,
+        "Blue": 483,
+        "Dark Oak": 483,
+        "White": 466,
+        "Light Oak": 466,
+        "Green": 417,
+        "Red": 339
+      },
+      "map": "grand-haven-golf-club-18"
+    }
+  ],
+  "version": 1
+}

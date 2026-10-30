@@ -1,0 +1,306 @@
+{
+  "id": "the-old-collier-golf-club",
+  "name": "The Old Collier Golf Club",
+  "town": "Naples, FL",
+  "tees": [
+    "Championship",
+    "Medal",
+    "Players",
+    "Club",
+    "Maverick",
+    "Intermediate",
+    "Match",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 354,
+        "Medal": 340,
+        "Players": 340,
+        "Club": 317,
+        "Maverick": 317,
+        "Intermediate": 296,
+        "Match": 296,
+        "Forward": 229
+      },
+      "map": "the-old-collier-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 455,
+        "Medal": 414,
+        "Players": 394,
+        "Club": 394,
+        "Maverick": 362,
+        "Intermediate": 362,
+        "Match": 326,
+        "Forward": 326
+      },
+      "map": "the-old-collier-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 216,
+        "Medal": 190,
+        "Players": 161,
+        "Club": 161,
+        "Maverick": 161,
+        "Intermediate": 150,
+        "Match": 129,
+        "Forward": 129
+      },
+      "map": "the-old-collier-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 384,
+        "Medal": 360,
+        "Players": 360,
+        "Club": 338,
+        "Maverick": 338,
+        "Intermediate": 311,
+        "Match": 311,
+        "Forward": 269
+      },
+      "map": "the-old-collier-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Championship": 535,
+        "Medal": 501,
+        "Players": 501,
+        "Club": 482,
+        "Maverick": 482,
+        "Intermediate": 454,
+        "Match": 454,
+        "Forward": 407
+      },
+      "map": "the-old-collier-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 417,
+        "Medal": 388,
+        "Players": 388,
+        "Club": 373,
+        "Maverick": 336,
+        "Intermediate": 336,
+        "Match": 336,
+        "Forward": 298
+      },
+      "map": "the-old-collier-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 192,
+        "Medal": 177,
+        "Players": 177,
+        "Club": 157,
+        "Maverick": 157,
+        "Intermediate": 152,
+        "Match": 125,
+        "Forward": 125
+      },
+      "map": "the-old-collier-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 471,
+        "Medal": 452,
+        "Players": 423,
+        "Club": 423,
+        "Maverick": 396,
+        "Intermediate": 396,
+        "Match": 352,
+        "Forward": 352
+      },
+      "map": "the-old-collier-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Championship": 533,
+        "Medal": 502,
+        "Players": 502,
+        "Club": 484,
+        "Maverick": 484,
+        "Intermediate": 455,
+        "Match": 455,
+        "Forward": 410
+      },
+      "map": "the-old-collier-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 344,
+        "Medal": 300,
+        "Players": 300,
+        "Club": 292,
+        "Maverick": 237,
+        "Intermediate": 237,
+        "Match": 237,
+        "Forward": 201
+      },
+      "map": "the-old-collier-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Championship": 550,
+        "Medal": 536,
+        "Players": 536,
+        "Club": 512,
+        "Maverick": 512,
+        "Intermediate": 492,
+        "Match": 492,
+        "Forward": 424
+      },
+      "map": "the-old-collier-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 407,
+        "Medal": 374,
+        "Players": 374,
+        "Club": 346,
+        "Maverick": 346,
+        "Intermediate": 305,
+        "Match": 305,
+        "Forward": 276
+      },
+      "map": "the-old-collier-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 437,
+        "Medal": 410,
+        "Players": 382,
+        "Club": 382,
+        "Maverick": 357,
+        "Intermediate": 357,
+        "Match": 302,
+        "Forward": 302
+      },
+      "map": "the-old-collier-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 177,
+        "Medal": 164,
+        "Players": 164,
+        "Club": 151,
+        "Maverick": 151,
+        "Intermediate": 128,
+        "Match": 128,
+        "Forward": 121
+      },
+      "map": "the-old-collier-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 468,
+        "Medal": 427,
+        "Players": 404,
+        "Club": 404,
+        "Maverick": 356,
+        "Intermediate": 356,
+        "Match": 324,
+        "Forward": 324
+      },
+      "map": "the-old-collier-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 186,
+        "Medal": 168,
+        "Players": 168,
+        "Club": 124,
+        "Maverick": 124,
+        "Intermediate": 118,
+        "Match": 118,
+        "Forward": 96
+      },
+      "map": "the-old-collier-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Championship": 518,
+        "Medal": 500,
+        "Players": 472,
+        "Club": 455,
+        "Maverick": 426,
+        "Intermediate": 426,
+        "Match": 426,
+        "Forward": 413
+      },
+      "map": "the-old-collier-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 434,
+        "Medal": 417,
+        "Players": 376,
+        "Club": 376,
+        "Maverick": 376,
+        "Intermediate": 366,
+        "Match": 313,
+        "Forward": 313
+      },
+      "map": "the-old-collier-golf-club-18"
+    }
+  ],
+  "version": 1
+}

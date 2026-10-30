@@ -1,0 +1,133 @@
+{
+  "id": "stirrup-cup-course-at-glenview-champions-country-club",
+  "name": "Stirrup Cup Course At Glenview Champions Country Club",
+  "town": "The Villages, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Geen",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 388,
+        "Gold": 368,
+        "Blue": 355,
+        "White": 323,
+        "Geen": 275,
+        "Friendly": 200
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 389,
+        "Gold": 370,
+        "Blue": 339,
+        "White": 306,
+        "Geen": 274,
+        "Friendly": 184
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 577,
+        "Gold": 566,
+        "Blue": 508,
+        "White": 471,
+        "Geen": 440,
+        "Friendly": 340
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 178,
+        "Gold": 165,
+        "Blue": 152,
+        "White": 135,
+        "Geen": 106,
+        "Friendly": 103
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 394,
+        "Gold": 365,
+        "Blue": 344,
+        "White": 297,
+        "Geen": 279,
+        "Friendly": 275
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 396,
+        "Gold": 372,
+        "Blue": 357,
+        "White": 314,
+        "Geen": 286,
+        "Friendly": 214
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 601,
+        "Gold": 583,
+        "Blue": 525,
+        "White": 480,
+        "Geen": 469,
+        "Friendly": 306
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 216,
+        "Gold": 191,
+        "Blue": 168,
+        "White": 141,
+        "Geen": 111,
+        "Friendly": 108
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 428,
+        "Gold": 411,
+        "Blue": 392,
+        "White": 361,
+        "Geen": 315,
+        "Friendly": 183
+      }
+    }
+  ],
+  "version": 1
+}

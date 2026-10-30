@@ -1,0 +1,93 @@
+{
+  "id": "koa-fairways-golf-course",
+  "name": "Koa Fairways Golf Course",
+  "town": "Okeechobee, FL",
+  "tees": [
+    "Middle",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Middle": 470,
+        "Forward": 418
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Middle": 136,
+        "Forward": 100
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Middle": 372,
+        "Forward": 306
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Middle": 230,
+        "Forward": 150
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Middle": 125,
+        "Forward": 100
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Middle": 307,
+        "Forward": 257
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Middle": 146,
+        "Forward": 115
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Middle": 340,
+        "Forward": 280
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Middle": 302,
+        "Forward": 281
+      }
+    }
+  ],
+  "version": 1
+}

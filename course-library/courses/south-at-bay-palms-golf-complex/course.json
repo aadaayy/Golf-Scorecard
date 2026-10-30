@@ -1,0 +1,231 @@
+{
+  "id": "south-at-bay-palms-golf-complex",
+  "name": "South At Bay Palms Golf Complex",
+  "town": "Tampa, FL",
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 407,
+        "Web": 407,
+        "White": 375,
+        "Gold": 290,
+        "Red": 285
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 395,
+        "Web": 395,
+        "White": 363,
+        "Gold": 307,
+        "Red": 302
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 178,
+        "Web": 178,
+        "White": 160,
+        "Gold": 145,
+        "Red": 102
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 364,
+        "Web": 364,
+        "White": 352,
+        "Gold": 297,
+        "Red": 292
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 383,
+        "Web": 383,
+        "White": 345,
+        "Gold": 333,
+        "Red": 278
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 350,
+        "Web": 350,
+        "White": 337,
+        "Gold": 279,
+        "Red": 274
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 178,
+        "Web": 178,
+        "White": 148,
+        "Gold": 138,
+        "Red": 100
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 355,
+        "Web": 355,
+        "White": 340,
+        "Gold": 288,
+        "Red": 283
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 514,
+        "Web": 514,
+        "White": 479,
+        "Gold": 326,
+        "Red": 321
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 425,
+        "Web": 425,
+        "White": 393,
+        "Gold": 323,
+        "Red": 318
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 394,
+        "Web": 394,
+        "White": 356,
+        "Gold": 290,
+        "Red": 285
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 360,
+        "Web": 360,
+        "White": 338,
+        "Gold": 329,
+        "Red": 292
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 224,
+        "Web": 224,
+        "White": 153,
+        "Gold": 136,
+        "Red": 131
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 574,
+        "Web": 574,
+        "White": 546,
+        "Gold": 479,
+        "Red": 474
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Blue": 528,
+        "Web": 528,
+        "White": 493,
+        "Gold": 430,
+        "Red": 425
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 200,
+        "Web": 200,
+        "White": 179,
+        "Gold": 153,
+        "Red": 148
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 550,
+        "Web": 550,
+        "White": 521,
+        "Gold": 460,
+        "Red": 455
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 389,
+        "Web": 389,
+        "White": 366,
+        "Gold": 314,
+        "Red": 309
+      }
+    }
+  ],
+  "version": 1
+}

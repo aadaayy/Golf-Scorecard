@@ -1,0 +1,325 @@
+{
+  "id": "hammock-dunes-rees-jones-creek-course",
+  "name": "Hammock Dunes Rees Jones Creek Course",
+  "town": "Palm Coast, FL",
+  "tees": [
+    "Championship",
+    "Black",
+    "Silver",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Green",
+    "Green",
+    "Green/Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Championship": 595,
+        "Black": 575,
+        "Silver": 554,
+        "Blue": 520,
+        "Blue/White": 520,
+        "White": 454,
+        "White/Green": 454,
+        "Green": 454,
+        "Green/Red": 415
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Championship": 208,
+        "Black": 192,
+        "Silver": 188,
+        "Blue": 170,
+        "Blue/White": 170,
+        "White": 152,
+        "White/Green": 137,
+        "Green": 137,
+        "Green/Red": 137
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 450,
+        "Black": 436,
+        "Silver": 414,
+        "Blue": 414,
+        "Blue/White": 375,
+        "White": 375,
+        "White/Green": 325,
+        "Green": 325,
+        "Green/Red": 325
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 401,
+        "Black": 384,
+        "Silver": 357,
+        "Blue": 357,
+        "Blue/White": 357,
+        "White": 337,
+        "White/Green": 337,
+        "Green": 210,
+        "Green/Red": 210
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Championship": 380,
+        "Black": 363,
+        "Silver": 340,
+        "Blue": 340,
+        "Blue/White": 340,
+        "White": 313,
+        "White/Green": 313,
+        "Green": 277,
+        "Green/Red": 277
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Championship": 552,
+        "Black": 535,
+        "Silver": 514,
+        "Blue": 494,
+        "Blue/White": 494,
+        "White": 454,
+        "White/Green": 454,
+        "Green": 412,
+        "Green/Red": 412
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Championship": 228,
+        "Black": 219,
+        "Silver": 180,
+        "Blue": 162,
+        "Blue/White": 142,
+        "White": 142,
+        "White/Green": 135,
+        "Green": 135,
+        "Green/Red": 135
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship": 412,
+        "Black": 389,
+        "Silver": 361,
+        "Blue": 351,
+        "Blue/White": 351,
+        "White": 300,
+        "White/Green": 300,
+        "Green": 300,
+        "Green/Red": 287
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 464,
+        "Black": 447,
+        "Silver": 425,
+        "Blue": 393,
+        "Blue/White": 359,
+        "White": 359,
+        "White/Green": 324,
+        "Green": 324,
+        "Green/Red": 293
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Championship": 574,
+        "Black": 549,
+        "Silver": 549,
+        "Blue": 534,
+        "Blue/White": 534,
+        "White": 508,
+        "White/Green": 450,
+        "Green": 450,
+        "Green/Red": 421
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 399,
+        "Black": 388,
+        "Silver": 357,
+        "Blue": 340,
+        "Blue/White": 340,
+        "White": 312,
+        "White/Green": 312,
+        "Green": 273,
+        "Green/Red": 273
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 176,
+        "Black": 161,
+        "Silver": 140,
+        "Blue": 140,
+        "Blue/White": 140,
+        "White": 123,
+        "White/Green": 106,
+        "Green": 106,
+        "Green/Red": 106
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 437,
+        "Black": 423,
+        "Silver": 402,
+        "Blue": 344,
+        "Blue/White": 325,
+        "White": 325,
+        "White/Green": 303,
+        "Green": 303,
+        "Green/Red": 211
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Championship": 586,
+        "Black": 570,
+        "Silver": 552,
+        "Blue": 535,
+        "Blue/White": 535,
+        "White": 466,
+        "White/Green": 387,
+        "Green": 387,
+        "Green/Red": 387
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 392,
+        "Black": 381,
+        "Silver": 327,
+        "Blue": 310,
+        "Blue/White": 310,
+        "White": 267,
+        "White/Green": 250,
+        "Green": 250,
+        "Green/Red": 250
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Championship": 231,
+        "Black": 223,
+        "Silver": 165,
+        "Blue": 138,
+        "Blue/White": 138,
+        "White": 127,
+        "White/Green": 103,
+        "Green": 103,
+        "Green/Red": 103
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Championship": 435,
+        "Black": 425,
+        "Silver": 296,
+        "Blue": 296,
+        "Blue/White": 296,
+        "White": 279,
+        "White/Green": 279,
+        "Green": 266,
+        "Green/Red": 266
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 431,
+        "Black": 425,
+        "Silver": 414,
+        "Blue": 387,
+        "Blue/White": 348,
+        "White": 348,
+        "White/Green": 348,
+        "Green": 274,
+        "Green/Red": 274
+      },
+      "map": "hammock-dunes-rees-jones-creek-course-18"
+    }
+  ],
+  "version": 1
+}

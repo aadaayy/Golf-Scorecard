@@ -1,0 +1,269 @@
+{
+  "id": "pelican-marsh-golf-club",
+  "name": "Pelican Marsh Golf Club",
+  "town": "Naples, FL",
+  "tees": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI",
+    "VII"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "I": 358,
+        "II": 337,
+        "III": 326,
+        "IV": 326,
+        "V": 302,
+        "VI": 251,
+        "VII": 215
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "I": 513,
+        "II": 490,
+        "III": 475,
+        "IV": 449,
+        "V": 433,
+        "VI": 385,
+        "VII": 308
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "I": 431,
+        "II": 418,
+        "III": 396,
+        "IV": 375,
+        "V": 343,
+        "VI": 311,
+        "VII": 248
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 177,
+        "II": 162,
+        "III": 147,
+        "IV": 147,
+        "V": 128,
+        "VI": 103,
+        "VII": 80
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "I": 429,
+        "II": 386,
+        "III": 357,
+        "IV": 357,
+        "V": 315,
+        "VI": 294,
+        "VII": 241
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "I": 581,
+        "II": 554,
+        "III": 518,
+        "IV": 465,
+        "V": 465,
+        "VI": 415,
+        "VII": 340
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I": 396,
+        "II": 392,
+        "III": 369,
+        "IV": 369,
+        "V": 354,
+        "VI": 296,
+        "VII": 227
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I": 190,
+        "II": 177,
+        "III": 167,
+        "IV": 147,
+        "V": 129,
+        "VI": 107,
+        "VII": 97
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 454,
+        "II": 417,
+        "III": 384,
+        "IV": 369,
+        "V": 330,
+        "VI": 304,
+        "VII": 232
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 397,
+        "II": 369,
+        "III": 354,
+        "IV": 339,
+        "V": 327,
+        "VI": 296,
+        "VII": 244
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "I": 441,
+        "II": 406,
+        "III": 394,
+        "IV": 382,
+        "V": 347,
+        "VI": 326,
+        "VII": 239
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "I": 185,
+        "II": 185,
+        "III": 162,
+        "IV": 149,
+        "V": 124,
+        "VI": 109,
+        "VII": 89
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "I": 561,
+        "II": 523,
+        "III": 486,
+        "IV": 448,
+        "V": 448,
+        "VI": 418,
+        "VII": 336
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "I": 407,
+        "II": 379,
+        "III": 346,
+        "IV": 346,
+        "V": 303,
+        "VI": 260,
+        "VII": 219
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "I": 423,
+        "II": 389,
+        "III": 378,
+        "IV": 363,
+        "V": 351,
+        "VI": 304,
+        "VII": 233
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "I": 505,
+        "II": 480,
+        "III": 465,
+        "IV": 452,
+        "V": 420,
+        "VI": 387,
+        "VII": 328
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 156,
+        "II": 156,
+        "III": 146,
+        "IV": 135,
+        "V": 123,
+        "VI": 112,
+        "VII": 107
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 446,
+        "II": 406,
+        "III": 364,
+        "IV": 345,
+        "V": 322,
+        "VI": 281,
+        "VII": 237
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,269 @@
+{
+  "id": "gold-green-at-wyndemere-country-club",
+  "name": "Gold Green At Wyndemere Country Club",
+  "town": "Naples, FL",
+  "tees": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "V/Vi",
+    "VI"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "I": 502,
+        "II": 477,
+        "III": 463,
+        "IV": 410,
+        "V": 402,
+        "V/Vi": 402,
+        "VI": 378
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 384,
+        "II": 358,
+        "III": 308,
+        "IV": 290,
+        "V": 255,
+        "V/Vi": 255,
+        "VI": 247
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "I": 209,
+        "II": 176,
+        "III": 156,
+        "IV": 142,
+        "V": 126,
+        "V/Vi": 95,
+        "VI": 95
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "I": 326,
+        "II": 302,
+        "III": 288,
+        "IV": 254,
+        "V": 243,
+        "V/Vi": 243,
+        "VI": 219
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "I": 434,
+        "II": 391,
+        "III": 368,
+        "IV": 324,
+        "V": 312,
+        "V/Vi": 260,
+        "VI": 260
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I": 368,
+        "II": 347,
+        "III": 332,
+        "IV": 320,
+        "V": 284,
+        "V/Vi": 255,
+        "VI": 255
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I": 395,
+        "II": 363,
+        "III": 349,
+        "IV": 330,
+        "V": 321,
+        "V/Vi": 321,
+        "VI": 273
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 177,
+        "II": 161,
+        "III": 147,
+        "IV": 136,
+        "V": 109,
+        "V/Vi": 105,
+        "VI": 105
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "I": 538,
+        "II": 486,
+        "III": 475,
+        "IV": 459,
+        "V": 449,
+        "V/Vi": 449,
+        "VI": 374
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "I": 463,
+        "II": 399,
+        "III": 366,
+        "IV": 355,
+        "V": 351,
+        "V/Vi": 268,
+        "VI": 268
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "I": 532,
+        "II": 499,
+        "III": 449,
+        "IV": 430,
+        "V": 425,
+        "V/Vi": 425,
+        "VI": 377
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "I": 188,
+        "II": 157,
+        "III": 140,
+        "IV": 126,
+        "V": 105,
+        "V/Vi": 95,
+        "VI": 95
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 358,
+        "II": 325,
+        "III": 309,
+        "IV": 292,
+        "V": 260,
+        "V/Vi": 250,
+        "VI": 250
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "I": 425,
+        "II": 366,
+        "III": 318,
+        "IV": 318,
+        "V": 307,
+        "V/Vi": 307,
+        "VI": 252
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "I": 295,
+        "II": 276,
+        "III": 266,
+        "IV": 258,
+        "V": 246,
+        "V/Vi": 246,
+        "VI": 246
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 413,
+        "II": 388,
+        "III": 370,
+        "IV": 352,
+        "V": 344,
+        "V/Vi": 294,
+        "VI": 294
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 139,
+        "II": 125,
+        "III": 115,
+        "IV": 105,
+        "V": 97,
+        "V/Vi": 97,
+        "VI": 87
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "I": 507,
+        "II": 485,
+        "III": 469,
+        "IV": 434,
+        "V": 422,
+        "V/Vi": 422,
+        "VI": 360
+      }
+    }
+  ],
+  "version": 1
+}

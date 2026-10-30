@@ -1,0 +1,249 @@
+{
+  "id": "oaks-at-palm-aire-country-club",
+  "name": "Oaks At Palm Aire Country Club",
+  "town": "Pompano Beach, FL",
+  "tees": [
+    "Blue",
+    "Green",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 454,
+        "Green": 403,
+        "White": 363,
+        "Gold": 347,
+        "Red": 320
+      },
+      "map": "oaks-at-palm-aire-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 345,
+        "Green": 328,
+        "White": 282,
+        "Gold": 263,
+        "Red": 225
+      },
+      "map": "oaks-at-palm-aire-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 427,
+        "Green": 392,
+        "White": 366,
+        "Gold": 354,
+        "Red": 313
+      },
+      "map": "oaks-at-palm-aire-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 144,
+        "Green": 132,
+        "White": 125,
+        "Gold": 116,
+        "Red": 105
+      },
+      "map": "oaks-at-palm-aire-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 457,
+        "Green": 440,
+        "White": 410,
+        "Gold": 398,
+        "Red": 358
+      },
+      "map": "oaks-at-palm-aire-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 197,
+        "Green": 189,
+        "White": 167,
+        "Gold": 150,
+        "Red": 104
+      },
+      "map": "oaks-at-palm-aire-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 356,
+        "Green": 310,
+        "White": 292,
+        "Gold": 268,
+        "Red": 233
+      },
+      "map": "oaks-at-palm-aire-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 399,
+        "Green": 363,
+        "White": 337,
+        "Gold": 309,
+        "Red": 275
+      },
+      "map": "oaks-at-palm-aire-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 369,
+        "Green": 345,
+        "White": 318,
+        "Gold": 309,
+        "Red": 275
+      },
+      "map": "oaks-at-palm-aire-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 416,
+        "Green": 387,
+        "White": 363,
+        "Gold": 347,
+        "Red": 305
+      },
+      "map": "oaks-at-palm-aire-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 555,
+        "Green": 513,
+        "White": 480,
+        "Gold": 450,
+        "Red": 427
+      },
+      "map": "oaks-at-palm-aire-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 185,
+        "Green": 167,
+        "White": 144,
+        "Gold": 104,
+        "Red": 97
+      },
+      "map": "oaks-at-palm-aire-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 378,
+        "Green": 354,
+        "White": 321,
+        "Gold": 288,
+        "Red": 265
+      },
+      "map": "oaks-at-palm-aire-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 438,
+        "Green": 411,
+        "White": 380,
+        "Gold": 368,
+        "Red": 327
+      },
+      "map": "oaks-at-palm-aire-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 418,
+        "Green": 385,
+        "White": 355,
+        "Gold": 338,
+        "Red": 303
+      },
+      "map": "oaks-at-palm-aire-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 216,
+        "Green": 193,
+        "White": 150,
+        "Gold": 131,
+        "Red": 104
+      },
+      "map": "oaks-at-palm-aire-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 575,
+        "Green": 543,
+        "White": 518,
+        "Gold": 470,
+        "Red": 415
+      },
+      "map": "oaks-at-palm-aire-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 345,
+        "Green": 305,
+        "White": 284,
+        "Gold": 259,
+        "Red": 235
+      },
+      "map": "oaks-at-palm-aire-country-club-18"
+    }
+  ],
+  "version": 1
+}

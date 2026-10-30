@@ -1,0 +1,269 @@
+{
+  "id": "summerglen-golf-club",
+  "name": "Summerglen Golf Club",
+  "town": "Ocala, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "Blue/White",
+    "White/Gold",
+    "Gold",
+    "Red",
+    "Purple"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 346,
+        "Blue": 338,
+        "Blue/White": 338,
+        "White/Gold": 310,
+        "Gold": 272,
+        "Red": 264,
+        "Purple": 264
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 313,
+        "Blue": 291,
+        "Blue/White": 291,
+        "White/Gold": 253,
+        "Gold": 219,
+        "Red": 214,
+        "Purple": 214
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 200,
+        "Blue": 185,
+        "Blue/White": 145,
+        "White/Gold": 145,
+        "Gold": 114,
+        "Red": 109,
+        "Purple": 109
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 523,
+        "Blue": 484,
+        "Blue/White": 446,
+        "White/Gold": 446,
+        "Gold": 439,
+        "Red": 429,
+        "Purple": 320
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 188,
+        "Blue": 179,
+        "Blue/White": 179,
+        "White/Gold": 170,
+        "Gold": 142,
+        "Red": 134,
+        "Purple": 90
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 430,
+        "Blue": 374,
+        "Blue/White": 333,
+        "White/Gold": 333,
+        "Gold": 292,
+        "Red": 285,
+        "Purple": 215
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 386,
+        "Blue": 359,
+        "Blue/White": 321,
+        "White/Gold": 321,
+        "Gold": 298,
+        "Red": 293,
+        "Purple": 214
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 363,
+        "Blue": 323,
+        "Blue/White": 323,
+        "White/Gold": 285,
+        "Gold": 239,
+        "Red": 232,
+        "Purple": 232
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 527,
+        "Blue": 515,
+        "Blue/White": 515,
+        "White/Gold": 483,
+        "Gold": 442,
+        "Red": 438,
+        "Purple": 363
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 385,
+        "Blue": 345,
+        "Blue/White": 333,
+        "White/Gold": 333,
+        "Gold": 289,
+        "Red": 283,
+        "Purple": 205
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 313,
+        "Blue": 281,
+        "Blue/White": 241,
+        "White/Gold": 241,
+        "Gold": 221,
+        "Red": 218,
+        "Purple": 191
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 516,
+        "Blue": 485,
+        "Blue/White": 485,
+        "White/Gold": 460,
+        "Gold": 427,
+        "Red": 422,
+        "Purple": 332
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 188,
+        "Blue": 145,
+        "Blue/White": 145,
+        "White/Gold": 134,
+        "Gold": 109,
+        "Red": 105,
+        "Purple": 105
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 311,
+        "Blue": 296,
+        "Blue/White": 296,
+        "White/Gold": 263,
+        "Gold": 241,
+        "Red": 215,
+        "Purple": 215
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 374,
+        "Blue": 333,
+        "Blue/White": 333,
+        "White/Gold": 293,
+        "Gold": 256,
+        "Red": 251,
+        "Purple": 251
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 391,
+        "Blue": 370,
+        "Blue/White": 330,
+        "White/Gold": 330,
+        "Gold": 275,
+        "Red": 270,
+        "Purple": 270
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 206,
+        "Blue": 197,
+        "Blue/White": 177,
+        "White/Gold": 177,
+        "Gold": 153,
+        "Red": 148,
+        "Purple": 94
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 522,
+        "Blue": 508,
+        "Blue/White": 472,
+        "White/Gold": 472,
+        "Gold": 421,
+        "Red": 414,
+        "Purple": 333
+      }
+    }
+  ],
+  "version": 1
+}

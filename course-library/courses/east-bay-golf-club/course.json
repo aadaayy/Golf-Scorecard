@@ -1,0 +1,211 @@
+{
+  "id": "east-bay-golf-club",
+  "name": "East Bay Golf Club",
+  "town": "Largo, FL",
+  "tees": [
+    "Back",
+    "Middle",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Back": 467,
+        "Middle": 435,
+        "Forward": 385
+      },
+      "map": "east-bay-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Back": 362,
+        "Middle": 327,
+        "Forward": 309
+      },
+      "map": "east-bay-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Back": 339,
+        "Middle": 321,
+        "Forward": 288
+      },
+      "map": "east-bay-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Back": 175,
+        "Middle": 154,
+        "Forward": 138
+      },
+      "map": "east-bay-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Back": 533,
+        "Middle": 506,
+        "Forward": 450
+      },
+      "map": "east-bay-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Back": 432,
+        "Middle": 408,
+        "Forward": 311
+      },
+      "map": "east-bay-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Back": 387,
+        "Middle": 373,
+        "Forward": 277
+      },
+      "map": "east-bay-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Back": 454,
+        "Middle": 386,
+        "Forward": 355
+      },
+      "map": "east-bay-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Back": 197,
+        "Middle": 174,
+        "Forward": 151
+      },
+      "map": "east-bay-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Back": 386,
+        "Middle": 348,
+        "Forward": 321
+      },
+      "map": "east-bay-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Back": 417,
+        "Middle": 390,
+        "Forward": 329
+      },
+      "map": "east-bay-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Back": 153,
+        "Middle": 135,
+        "Forward": 118
+      },
+      "map": "east-bay-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Back": 484,
+        "Middle": 454,
+        "Forward": 443
+      },
+      "map": "east-bay-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Back": 152,
+        "Middle": 136,
+        "Forward": 128
+      },
+      "map": "east-bay-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Back": 389,
+        "Middle": 366,
+        "Forward": 339
+      },
+      "map": "east-bay-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Back": 435,
+        "Middle": 411,
+        "Forward": 389
+      },
+      "map": "east-bay-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Back": 168,
+        "Middle": 145,
+        "Forward": 133
+      },
+      "map": "east-bay-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Back": 521,
+        "Middle": 498,
+        "Forward": 422
+      },
+      "map": "east-bay-golf-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,307 @@
+{
+  "id": "tiburon-golf-club-the-black-course",
+  "name": "Tiburon Golf Club The Black Course",
+  "town": "Naples, FL",
+  "tees": [
+    "Gold",
+    "Black",
+    "Black/White",
+    "White",
+    "White/Blue",
+    "Blue",
+    "Blue/Lavender",
+    "Lavender",
+    "Family"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 376,
+        "Black": 354,
+        "Black/White": 354,
+        "White": 343,
+        "White/Blue": 343,
+        "Blue": 321,
+        "Blue/Lavender": 321,
+        "Lavender": 296,
+        "Family": 236
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 422,
+        "Black": 394,
+        "Black/White": 365,
+        "White": 365,
+        "White/Blue": 350,
+        "Blue": 350,
+        "Blue/Lavender": 306,
+        "Lavender": 306,
+        "Family": 230
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 378,
+        "Black": 366,
+        "Black/White": 366,
+        "White": 325,
+        "White/Blue": 325,
+        "Blue": 282,
+        "Blue/Lavender": 282,
+        "Lavender": 226,
+        "Family": 195
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 201,
+        "Black": 180,
+        "Black/White": 168,
+        "White": 168,
+        "White/Blue": 136,
+        "Blue": 136,
+        "Blue/Lavender": 101,
+        "Lavender": 101,
+        "Family": 80
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 400,
+        "Black": 360,
+        "Black/White": 360,
+        "White": 340,
+        "White/Blue": 340,
+        "Blue": 311,
+        "Blue/Lavender": 311,
+        "Lavender": 277,
+        "Family": 230
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 502,
+        "Black": 481,
+        "Black/White": 465,
+        "White": 465,
+        "White/Blue": 435,
+        "Blue": 435,
+        "Blue/Lavender": 407,
+        "Lavender": 407,
+        "Family": 330
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 160,
+        "Black": 134,
+        "Black/White": 134,
+        "White": 122,
+        "White/Blue": 122,
+        "Blue": 103,
+        "Blue/Lavender": 103,
+        "Lavender": 85,
+        "Family": 80
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 345,
+        "Black": 340,
+        "Black/White": 340,
+        "White": 282,
+        "White/Blue": 282,
+        "Blue": 262,
+        "Blue/Lavender": 262,
+        "Lavender": 247,
+        "Family": 200
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 581,
+        "Black": 541,
+        "Black/White": 517,
+        "White": 517,
+        "White/Blue": 477,
+        "Blue": 477,
+        "Blue/Lavender": 451,
+        "Lavender": 451,
+        "Family": 355
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 188,
+        "Black": 174,
+        "Black/White": 156,
+        "White": 156,
+        "White/Blue": 136,
+        "Blue": 136,
+        "Blue/Lavender": 110,
+        "Lavender": 110,
+        "Family": 100
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 359,
+        "Black": 339,
+        "Black/White": 339,
+        "White": 304,
+        "White/Blue": 304,
+        "Blue": 294,
+        "Blue/Lavender": 294,
+        "Lavender": 238,
+        "Family": 200
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 442,
+        "Black": 406,
+        "Black/White": 406,
+        "White": 380,
+        "White/Blue": 380,
+        "Blue": 351,
+        "Blue/Lavender": 351,
+        "Lavender": 331,
+        "Family": 264
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 220,
+        "Black": 188,
+        "Black/White": 158,
+        "White": 158,
+        "White/Blue": 135,
+        "Blue": 135,
+        "Blue/Lavender": 97,
+        "Lavender": 97,
+        "Family": 80
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 403,
+        "Black": 376,
+        "Black/White": 376,
+        "White": 368,
+        "White/Blue": 368,
+        "Blue": 361,
+        "Blue/Lavender": 361,
+        "Lavender": 290,
+        "Family": 235
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 560,
+        "Black": 517,
+        "Black/White": 517,
+        "White": 506,
+        "White/Blue": 506,
+        "Blue": 463,
+        "Blue/Lavender": 463,
+        "Lavender": 363,
+        "Family": 320
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 414,
+        "Black": 383,
+        "Black/White": 370,
+        "White": 370,
+        "White/Blue": 358,
+        "Blue": 358,
+        "Blue/Lavender": 317,
+        "Lavender": 317,
+        "Family": 255
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 465,
+        "Black": 426,
+        "Black/White": 386,
+        "White": 386,
+        "White/Blue": 372,
+        "Blue": 372,
+        "Blue/Lavender": 323,
+        "Lavender": 323,
+        "Family": 255
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 533,
+        "Black": 506,
+        "Black/White": 494,
+        "White": 494,
+        "White/Blue": 443,
+        "Blue": 443,
+        "Blue/Lavender": 413,
+        "Lavender": 413,
+        "Family": 330
+      }
+    }
+  ],
+  "version": 1
+}

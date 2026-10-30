@@ -1,0 +1,269 @@
+{
+  "id": "kelly-plantation-golf-club",
+  "name": "Kelly Plantation Golf Club",
+  "town": "Destin, FL",
+  "tees": [
+    "Couples",
+    "Plantation",
+    "Combination P/P",
+    "Palmetto",
+    "Combination P/S",
+    "Sterling",
+    "Magnolia"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Couples": 373,
+        "Plantation": 353,
+        "Combination P/P": 353,
+        "Palmetto": 321,
+        "Combination P/S": 321,
+        "Sterling": 290,
+        "Magnolia": 254
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Couples": 560,
+        "Plantation": 530,
+        "Combination P/P": 492,
+        "Palmetto": 492,
+        "Combination P/S": 460,
+        "Sterling": 460,
+        "Magnolia": 428
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Couples": 165,
+        "Plantation": 157,
+        "Combination P/P": 157,
+        "Palmetto": 140,
+        "Combination P/S": 140,
+        "Sterling": 132,
+        "Magnolia": 104
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Couples": 401,
+        "Plantation": 371,
+        "Combination P/P": 319,
+        "Palmetto": 319,
+        "Combination P/S": 301,
+        "Sterling": 301,
+        "Magnolia": 280
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Couples": 443,
+        "Plantation": 390,
+        "Combination P/P": 361,
+        "Palmetto": 361,
+        "Combination P/S": 329,
+        "Sterling": 329,
+        "Magnolia": 322
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Couples": 548,
+        "Plantation": 497,
+        "Combination P/P": 497,
+        "Palmetto": 469,
+        "Combination P/S": 469,
+        "Sterling": 416,
+        "Magnolia": 372
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Couples": 410,
+        "Plantation": 376,
+        "Combination P/P": 376,
+        "Palmetto": 340,
+        "Combination P/S": 340,
+        "Sterling": 312,
+        "Magnolia": 291
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Couples": 194,
+        "Plantation": 165,
+        "Combination P/P": 165,
+        "Palmetto": 155,
+        "Combination P/S": 155,
+        "Sterling": 126,
+        "Magnolia": 120
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Couples": 439,
+        "Plantation": 375,
+        "Combination P/P": 347,
+        "Palmetto": 347,
+        "Combination P/S": 316,
+        "Sterling": 316,
+        "Magnolia": 298
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Couples": 550,
+        "Plantation": 520,
+        "Combination P/P": 455,
+        "Palmetto": 455,
+        "Combination P/S": 425,
+        "Sterling": 425,
+        "Magnolia": 392
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Couples": 411,
+        "Plantation": 387,
+        "Combination P/P": 356,
+        "Palmetto": 356,
+        "Combination P/S": 356,
+        "Sterling": 332,
+        "Magnolia": 311
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Couples": 240,
+        "Plantation": 181,
+        "Combination P/P": 181,
+        "Palmetto": 155,
+        "Combination P/S": 155,
+        "Sterling": 150,
+        "Magnolia": 117
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Couples": 525,
+        "Plantation": 479,
+        "Combination P/P": 479,
+        "Palmetto": 445,
+        "Combination P/S": 445,
+        "Sterling": 437,
+        "Magnolia": 404
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Couples": 446,
+        "Plantation": 421,
+        "Combination P/P": 386,
+        "Palmetto": 386,
+        "Combination P/S": 347,
+        "Sterling": 347,
+        "Magnolia": 328
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Couples": 150,
+        "Plantation": 138,
+        "Combination P/P": 138,
+        "Palmetto": 132,
+        "Combination P/S": 132,
+        "Sterling": 123,
+        "Magnolia": 97
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Couples": 447,
+        "Plantation": 423,
+        "Combination P/P": 382,
+        "Palmetto": 382,
+        "Combination P/S": 330,
+        "Sterling": 330,
+        "Magnolia": 306
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Couples": 207,
+        "Plantation": 183,
+        "Combination P/P": 183,
+        "Palmetto": 173,
+        "Combination P/S": 173,
+        "Sterling": 140,
+        "Magnolia": 128
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Couples": 590,
+        "Plantation": 507,
+        "Combination P/P": 507,
+        "Palmetto": 476,
+        "Combination P/S": 470,
+        "Sterling": 470,
+        "Magnolia": 437
+      }
+    }
+  ],
+  "version": 1
+}

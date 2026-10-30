@@ -1,0 +1,112 @@
+{
+  "id": "addison-reserve-country-club-salvation-golf-course",
+  "name": "Addison Reserve Country Club Salvation Golf Course",
+  "town": "Delray Beach, FL",
+  "tees": [
+    "Middle",
+    "Forward",
+    "Front"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Middle": 342,
+        "Forward": 332,
+        "Front": 287
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Middle": 355,
+        "Forward": 330,
+        "Front": 302
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Middle": 499,
+        "Forward": 484,
+        "Front": 439
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Middle": 166,
+        "Forward": 129,
+        "Front": 114
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Middle": 348,
+        "Forward": 336,
+        "Front": 307
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Middle": 360,
+        "Forward": 347,
+        "Front": 287
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Middle": 166,
+        "Forward": 147,
+        "Front": 118
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Middle": 334,
+        "Forward": 317,
+        "Front": 277
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Middle": 523,
+        "Forward": 500,
+        "Front": 427
+      },
+      "map": "addison-reserve-country-club-salvation-golf-course-09"
+    }
+  ],
+  "version": 1
+}

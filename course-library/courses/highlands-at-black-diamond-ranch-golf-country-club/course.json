@@ -1,0 +1,123 @@
+{
+  "id": "highlands-at-black-diamond-ranch-golf-country-club",
+  "name": "Highlands At Black Diamond Ranch Golf Country Club",
+  "town": "Lecanto, FL",
+  "tees": [
+    "Black",
+    "Dark Grey",
+    "Green",
+    "White",
+    "Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 431,
+        "Dark Grey": 392,
+        "Green": 357,
+        "White": 311,
+        "Silver": 302
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 153,
+        "Dark Grey": 140,
+        "Green": 115,
+        "White": 113,
+        "Silver": 102
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 521,
+        "Dark Grey": 511,
+        "Green": 482,
+        "White": 458,
+        "Silver": 411
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 530,
+        "Dark Grey": 520,
+        "Green": 496,
+        "White": 474,
+        "Silver": 398
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 413,
+        "Dark Grey": 394,
+        "Green": 348,
+        "White": 309,
+        "Silver": 298
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 428,
+        "Dark Grey": 397,
+        "Green": 372,
+        "White": 328,
+        "Silver": 321
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 418,
+        "Dark Grey": 381,
+        "Green": 348,
+        "White": 301,
+        "Silver": 295
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 367,
+        "Dark Grey": 353,
+        "Green": 328,
+        "White": 252,
+        "Silver": 247
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 186,
+        "Dark Grey": 166,
+        "Green": 146,
+        "White": 128,
+        "Silver": 120
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,112 @@
+{
+  "id": "amberwood-at-the-villages-executive-golf-trail",
+  "name": "Amberwood At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 145,
+        "Gold": 126,
+        "Green": 106
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 164,
+        "Gold": 152,
+        "Green": 93
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 171,
+        "Gold": 144,
+        "Green": 92
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 111,
+        "Gold": 104,
+        "Green": 84
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 226,
+        "Gold": 198,
+        "Green": 169
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 402,
+        "Gold": 361,
+        "Green": 302
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 190,
+        "Gold": 155,
+        "Green": 114
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 140,
+        "Gold": 124,
+        "Green": 81
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 161,
+        "Gold": 141,
+        "Green": 122
+      },
+      "map": "amberwood-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

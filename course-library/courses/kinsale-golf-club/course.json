@@ -1,0 +1,193 @@
+{
+  "id": "kinsale-golf-club",
+  "name": "Kinsale Golf Club",
+  "town": "Naples, FL",
+  "tees": [
+    "Back",
+    "Middle",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Back": 588,
+        "Middle": 559,
+        "Forward": 464
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Back": 505,
+        "Middle": 457,
+        "Forward": 388
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Back": 297,
+        "Middle": 277,
+        "Forward": 244
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Back": 221,
+        "Middle": 205,
+        "Forward": 161
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Back": 362,
+        "Middle": 345,
+        "Forward": 320
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Back": 188,
+        "Middle": 175,
+        "Forward": 134
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Back": 430,
+        "Middle": 398,
+        "Forward": 380
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Back": 247,
+        "Middle": 233,
+        "Forward": 201
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Back": 423,
+        "Middle": 418,
+        "Forward": 307
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Back": 317,
+        "Middle": 310,
+        "Forward": 214
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Back": 419,
+        "Middle": 404,
+        "Forward": 288
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Back": 558,
+        "Middle": 523,
+        "Forward": 483
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Back": 167,
+        "Middle": 149,
+        "Forward": 133
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Back": 386,
+        "Middle": 378,
+        "Forward": 324
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Back": 470,
+        "Middle": 438,
+        "Forward": 405
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Back": 154,
+        "Middle": 135,
+        "Forward": 98
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Back": 570,
+        "Middle": 556,
+        "Forward": 534
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Back": 500,
+        "Middle": 448,
+        "Forward": 298
+      }
+    }
+  ],
+  "version": 1
+}

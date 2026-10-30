@@ -1,0 +1,155 @@
+{
+  "id": "casselberry-golf-club",
+  "name": "Casselberry Golf Club",
+  "town": "Casselberry, FL",
+  "tees": [
+    "Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 426
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 262
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 340
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 334
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 99
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 474
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 333
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 151
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 280
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 241
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 162
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 301
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 247
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 324
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 159
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 248
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 287
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 127
+      }
+    }
+  ],
+  "version": 1
+}

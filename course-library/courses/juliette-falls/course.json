@@ -1,0 +1,249 @@
+{
+  "id": "juliette-falls",
+  "name": "Juliette Falls",
+  "town": "Dunnellon, FL",
+  "tees": [
+    "Viking",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Viking": 382,
+        "Blue": 344,
+        "White": 334,
+        "Green": 297,
+        "Red": 267
+      },
+      "map": "juliette-falls-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Viking": 530,
+        "Blue": 507,
+        "White": 466,
+        "Green": 450,
+        "Red": 428
+      },
+      "map": "juliette-falls-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Viking": 239,
+        "Blue": 220,
+        "White": 181,
+        "Green": 162,
+        "Red": 126
+      },
+      "map": "juliette-falls-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Viking": 436,
+        "Blue": 425,
+        "White": 378,
+        "Green": 336,
+        "Red": 285
+      },
+      "map": "juliette-falls-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Viking": 442,
+        "Blue": 397,
+        "White": 378,
+        "Green": 348,
+        "Red": 314
+      },
+      "map": "juliette-falls-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Viking": 575,
+        "Blue": 530,
+        "White": 517,
+        "Green": 482,
+        "Red": 404
+      },
+      "map": "juliette-falls-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Viking": 210,
+        "Blue": 191,
+        "White": 164,
+        "Green": 137,
+        "Red": 113
+      },
+      "map": "juliette-falls-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Viking": 446,
+        "Blue": 424,
+        "White": 392,
+        "Green": 377,
+        "Red": 326
+      },
+      "map": "juliette-falls-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Viking": 355,
+        "Blue": 320,
+        "White": 306,
+        "Green": 278,
+        "Red": 241
+      },
+      "map": "juliette-falls-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Viking": 407,
+        "Blue": 368,
+        "White": 358,
+        "Green": 319,
+        "Red": 292
+      },
+      "map": "juliette-falls-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Viking": 520,
+        "Blue": 502,
+        "White": 465,
+        "Green": 450,
+        "Red": 409
+      },
+      "map": "juliette-falls-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Viking": 455,
+        "Blue": 408,
+        "White": 382,
+        "Green": 355,
+        "Red": 286
+      },
+      "map": "juliette-falls-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Viking": 189,
+        "Blue": 168,
+        "White": 147,
+        "Green": 126,
+        "Red": 104
+      },
+      "map": "juliette-falls-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Viking": 595,
+        "Blue": 574,
+        "White": 526,
+        "Green": 492,
+        "Red": 466
+      },
+      "map": "juliette-falls-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Viking": 374,
+        "Blue": 338,
+        "White": 322,
+        "Green": 280,
+        "Red": 242
+      },
+      "map": "juliette-falls-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Viking": 208,
+        "Blue": 194,
+        "White": 183,
+        "Green": 158,
+        "Red": 145
+      },
+      "map": "juliette-falls-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Viking": 415,
+        "Blue": 375,
+        "White": 362,
+        "Green": 327,
+        "Red": 280
+      },
+      "map": "juliette-falls-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Viking": 458,
+        "Blue": 444,
+        "White": 408,
+        "Green": 373,
+        "Red": 343
+      },
+      "map": "juliette-falls-18"
+    }
+  ],
+  "version": 1
+}

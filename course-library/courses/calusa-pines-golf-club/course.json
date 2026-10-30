@@ -1,0 +1,249 @@
+{
+  "id": "calusa-pines-golf-club",
+  "name": "Calusa Pines Golf Club",
+  "town": "Naples, FL",
+  "tees": [
+    "Gold",
+    "Black",
+    "CP",
+    "Blue",
+    "White"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 421,
+        "Black": 389,
+        "CP": 389,
+        "Blue": 360,
+        "White": 302
+      },
+      "map": "calusa-pines-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 574,
+        "Black": 551,
+        "CP": 551,
+        "Blue": 515,
+        "White": 494
+      },
+      "map": "calusa-pines-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 155,
+        "Black": 135,
+        "CP": 135,
+        "Blue": 135,
+        "White": 103
+      },
+      "map": "calusa-pines-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 464,
+        "Black": 409,
+        "CP": 357,
+        "Blue": 357,
+        "White": 290
+      },
+      "map": "calusa-pines-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 460,
+        "Black": 414,
+        "CP": 378,
+        "Blue": 378,
+        "White": 321
+      },
+      "map": "calusa-pines-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 545,
+        "Black": 513,
+        "CP": 513,
+        "Blue": 485,
+        "White": 440
+      },
+      "map": "calusa-pines-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 250,
+        "Black": 226,
+        "CP": 186,
+        "Blue": 186,
+        "White": 149
+      },
+      "map": "calusa-pines-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 299,
+        "Black": 280,
+        "CP": 280,
+        "Blue": 256,
+        "White": 230
+      },
+      "map": "calusa-pines-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 468,
+        "Black": 421,
+        "CP": 394,
+        "Blue": 394,
+        "White": 349
+      },
+      "map": "calusa-pines-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 428,
+        "Black": 376,
+        "CP": 376,
+        "Blue": 339,
+        "White": 281
+      },
+      "map": "calusa-pines-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 197,
+        "Black": 171,
+        "CP": 171,
+        "Blue": 150,
+        "White": 135
+      },
+      "map": "calusa-pines-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 468,
+        "Black": 419,
+        "CP": 395,
+        "Blue": 395,
+        "White": 355
+      },
+      "map": "calusa-pines-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 627,
+        "Black": 586,
+        "CP": 554,
+        "Blue": 554,
+        "White": 513
+      },
+      "map": "calusa-pines-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 344,
+        "Black": 293,
+        "CP": 293,
+        "Blue": 265,
+        "White": 246
+      },
+      "map": "calusa-pines-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 451,
+        "Black": 414,
+        "CP": 374,
+        "Blue": 374,
+        "White": 336
+      },
+      "map": "calusa-pines-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 185,
+        "Black": 161,
+        "CP": 161,
+        "Blue": 161,
+        "White": 134
+      },
+      "map": "calusa-pines-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 436,
+        "Black": 390,
+        "CP": 373,
+        "Blue": 373,
+        "White": 350
+      },
+      "map": "calusa-pines-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 512,
+        "Black": 487,
+        "CP": 487,
+        "Blue": 463,
+        "White": 426
+      },
+      "map": "calusa-pines-golf-club-18"
+    }
+  ],
+  "version": 1
+}

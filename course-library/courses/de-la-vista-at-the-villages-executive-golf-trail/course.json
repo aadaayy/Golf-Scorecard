@@ -1,0 +1,113 @@
+{
+  "id": "de-la-vista-at-the-villages-executive-golf-trail",
+  "name": "De La Vista At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 128,
+        "Web": 128,
+        "White": 102,
+        "Red": 86
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 147,
+        "Web": 147,
+        "White": 119,
+        "Red": 97
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 167,
+        "Web": 167,
+        "White": 143,
+        "Red": 122
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 144,
+        "Web": 144,
+        "White": 125,
+        "Red": 107
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 354,
+        "Web": 354,
+        "White": 326,
+        "Red": 270
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 171,
+        "Web": 171,
+        "White": 149,
+        "Red": 124
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 295,
+        "Web": 295,
+        "White": 264,
+        "Red": 236
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 100,
+        "Web": 100,
+        "White": 94,
+        "Red": 87
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 139,
+        "Web": 139,
+        "White": 136,
+        "Red": 114
+      }
+    }
+  ],
+  "version": 1
+}

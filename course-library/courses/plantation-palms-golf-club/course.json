@@ -1,0 +1,212 @@
+{
+  "id": "plantation-palms-golf-club",
+  "name": "Plantation Palms Golf Club",
+  "town": "Land O' Lakes, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 525,
+        "White": 496,
+        "Gold": 472,
+        "Red": 367
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 379,
+        "White": 353,
+        "Gold": 330,
+        "Red": 258
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 338,
+        "White": 327,
+        "Gold": 316,
+        "Red": 300
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 188,
+        "White": 172,
+        "Gold": 158,
+        "Red": 140
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 364,
+        "White": 353,
+        "Gold": 342,
+        "Red": 328
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 364,
+        "White": 338,
+        "Gold": 325,
+        "Red": 230
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 191,
+        "White": 177,
+        "Gold": 163,
+        "Red": 112
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 412,
+        "White": 370,
+        "Gold": 346,
+        "Red": 281
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 477,
+        "White": 440,
+        "Gold": 404,
+        "Red": 373
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 327,
+        "White": 310,
+        "Gold": 302,
+        "Red": 278
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Blue": 470,
+        "White": 443,
+        "Gold": 410,
+        "Red": 361
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 175,
+        "White": 161,
+        "Gold": 153,
+        "Red": 132
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 352,
+        "White": 323,
+        "Gold": 293,
+        "Red": 246
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 488,
+        "White": 474,
+        "Gold": 441,
+        "Red": 386
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 321,
+        "White": 304,
+        "Gold": 274,
+        "Red": 226
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 400,
+        "White": 382,
+        "Gold": 359,
+        "Red": 278
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 160,
+        "White": 145,
+        "Gold": 138,
+        "Red": 109
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 384,
+        "White": 376,
+        "Gold": 337,
+        "Red": 286
+      }
+    }
+  ],
+  "version": 1
+}

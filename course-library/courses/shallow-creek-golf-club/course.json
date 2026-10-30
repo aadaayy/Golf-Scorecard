@@ -1,0 +1,250 @@
+{
+  "id": "shallow-creek-golf-club",
+  "name": "Shallow Creek Golf Club",
+  "town": "Wildwood, FL",
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 501,
+        "Web": 501,
+        "Blue": 469,
+        "White": 455,
+        "Green": 390,
+        "Friendly": 370
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 160,
+        "Web": 160,
+        "Blue": 140,
+        "White": 128,
+        "Green": 108,
+        "Friendly": 90
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 391,
+        "Web": 391,
+        "Blue": 365,
+        "White": 350,
+        "Green": 321,
+        "Friendly": 273
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 385,
+        "Web": 385,
+        "Blue": 297,
+        "White": 262,
+        "Green": 255,
+        "Friendly": 236
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 220,
+        "Web": 220,
+        "Blue": 180,
+        "White": 119,
+        "Green": 100,
+        "Friendly": 100
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 423,
+        "Web": 423,
+        "Blue": 374,
+        "White": 310,
+        "Green": 265,
+        "Friendly": 250
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 557,
+        "Web": 557,
+        "Blue": 511,
+        "White": 473,
+        "Green": 426,
+        "Friendly": 340
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 157,
+        "Web": 157,
+        "Blue": 141,
+        "White": 130,
+        "Green": 110,
+        "Friendly": 97
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 429,
+        "Web": 429,
+        "Blue": 393,
+        "White": 352,
+        "Green": 320,
+        "Friendly": 200
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 381,
+        "Web": 381,
+        "Blue": 349,
+        "White": 327,
+        "Green": 254,
+        "Friendly": 236
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 180,
+        "Web": 180,
+        "Blue": 140,
+        "White": 123,
+        "Green": 106,
+        "Friendly": 85
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 388,
+        "Web": 388,
+        "Blue": 355,
+        "White": 324,
+        "Green": 290,
+        "Friendly": 219
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 523,
+        "Web": 523,
+        "Blue": 495,
+        "White": 462,
+        "Green": 400,
+        "Friendly": 315
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 210,
+        "Web": 210,
+        "Blue": 178,
+        "White": 146,
+        "Green": 125,
+        "Friendly": 117
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 403,
+        "Web": 403,
+        "Blue": 373,
+        "White": 339,
+        "Green": 285,
+        "Friendly": 275
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 163,
+        "Web": 163,
+        "Blue": 147,
+        "White": 137,
+        "Green": 114,
+        "Friendly": 99
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 466,
+        "Web": 466,
+        "Blue": 397,
+        "White": 322,
+        "Green": 292,
+        "Friendly": 225
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Gold": 531,
+        "Web": 531,
+        "Blue": 490,
+        "White": 450,
+        "Green": 415,
+        "Friendly": 315
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,249 @@
+{
+  "id": "indian-river-preserve-golf-club",
+  "name": "Indian River Preserve Golf Club",
+  "town": "Mims, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 396,
+        "Gold": 343,
+        "Blue": 330,
+        "White": 296,
+        "Red": 284
+      },
+      "map": "indian-river-preserve-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 208,
+        "Gold": 185,
+        "Blue": 167,
+        "White": 144,
+        "Red": 117
+      },
+      "map": "indian-river-preserve-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 468,
+        "Gold": 434,
+        "Blue": 420,
+        "White": 360,
+        "Red": 340
+      },
+      "map": "indian-river-preserve-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 589,
+        "Gold": 554,
+        "Blue": 510,
+        "White": 493,
+        "Red": 438
+      },
+      "map": "indian-river-preserve-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 402,
+        "Gold": 394,
+        "Blue": 370,
+        "White": 332,
+        "Red": 299
+      },
+      "map": "indian-river-preserve-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 168,
+        "Gold": 155,
+        "Blue": 120,
+        "White": 105,
+        "Red": 77
+      },
+      "map": "indian-river-preserve-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 388,
+        "Gold": 357,
+        "Blue": 329,
+        "White": 278,
+        "Red": 237
+      },
+      "map": "indian-river-preserve-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 558,
+        "Gold": 526,
+        "Blue": 487,
+        "White": 476,
+        "Red": 422
+      },
+      "map": "indian-river-preserve-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 445,
+        "Gold": 416,
+        "Blue": 366,
+        "White": 339,
+        "Red": 306
+      },
+      "map": "indian-river-preserve-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 435,
+        "Gold": 400,
+        "Blue": 370,
+        "White": 329,
+        "Red": 299
+      },
+      "map": "indian-river-preserve-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Black": 557,
+        "Gold": 493,
+        "Blue": 485,
+        "White": 454,
+        "Red": 421
+      },
+      "map": "indian-river-preserve-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 187,
+        "Gold": 179,
+        "Blue": 171,
+        "White": 162,
+        "Red": 75
+      },
+      "map": "indian-river-preserve-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 455,
+        "Gold": 412,
+        "Blue": 404,
+        "White": 354,
+        "Red": 327
+      },
+      "map": "indian-river-preserve-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 335,
+        "Gold": 326,
+        "Blue": 306,
+        "White": 289,
+        "Red": 220
+      },
+      "map": "indian-river-preserve-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 377,
+        "Gold": 365,
+        "Blue": 314,
+        "White": 273,
+        "Red": 260
+      },
+      "map": "indian-river-preserve-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 214,
+        "Gold": 197,
+        "Blue": 179,
+        "White": 126,
+        "Red": 112
+      },
+      "map": "indian-river-preserve-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 401,
+        "Gold": 393,
+        "Blue": 347,
+        "White": 296,
+        "Red": 223
+      },
+      "map": "indian-river-preserve-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 563,
+        "Gold": 542,
+        "Blue": 499,
+        "White": 487,
+        "Red": 416
+      },
+      "map": "indian-river-preserve-golf-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,325 @@
+{
+  "id": "sara-bay-country-club",
+  "name": "Sara Bay Country Club",
+  "town": "Sarasota, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "White/Silver",
+    "Silver",
+    "Gold",
+    "Red",
+    "Red/Orange",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 429,
+        "Blue": 420,
+        "White": 395,
+        "White/Silver": 373,
+        "Silver": 373,
+        "Gold": 333,
+        "Red": 325,
+        "Red/Orange": 265,
+        "Orange": 265
+      },
+      "map": "sara-bay-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 458,
+        "Blue": 448,
+        "White": 399,
+        "White/Silver": 355,
+        "Silver": 355,
+        "Gold": 327,
+        "Red": 319,
+        "Red/Orange": 319,
+        "Orange": 256
+      },
+      "map": "sara-bay-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 389,
+        "Blue": 382,
+        "White": 361,
+        "White/Silver": 361,
+        "Silver": 347,
+        "Gold": 310,
+        "Red": 310,
+        "Red/Orange": 310,
+        "Orange": 267
+      },
+      "map": "sara-bay-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 148,
+        "Blue": 148,
+        "White": 138,
+        "White/Silver": 138,
+        "Silver": 112,
+        "Gold": 112,
+        "Red": 93,
+        "Red/Orange": 93,
+        "Orange": 93
+      },
+      "map": "sara-bay-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 401,
+        "Blue": 401,
+        "White": 373,
+        "White/Silver": 373,
+        "Silver": 335,
+        "Gold": 324,
+        "Red": 315,
+        "Red/Orange": 241,
+        "Orange": 241
+      },
+      "map": "sara-bay-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 399,
+        "Blue": 399,
+        "White": 334,
+        "White/Silver": 321,
+        "Silver": 321,
+        "Gold": 321,
+        "Red": 275,
+        "Red/Orange": 275,
+        "Orange": 245
+      },
+      "map": "sara-bay-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 588,
+        "Blue": 528,
+        "White": 517,
+        "White/Silver": 517,
+        "Silver": 466,
+        "Gold": 437,
+        "Red": 424,
+        "Red/Orange": 385,
+        "Orange": 385
+      },
+      "map": "sara-bay-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 198,
+        "Blue": 185,
+        "White": 164,
+        "White/Silver": 164,
+        "Silver": 156,
+        "Gold": 148,
+        "Red": 127,
+        "Red/Orange": 127,
+        "Orange": 103
+      },
+      "map": "sara-bay-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 506,
+        "Blue": 497,
+        "White": 480,
+        "White/Silver": 480,
+        "Silver": 459,
+        "Gold": 418,
+        "Red": 387,
+        "Red/Orange": 357,
+        "Orange": 357
+      },
+      "map": "sara-bay-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 424,
+        "Blue": 417,
+        "White": 399,
+        "White/Silver": 373,
+        "Silver": 373,
+        "Gold": 305,
+        "Red": 305,
+        "Red/Orange": 265,
+        "Orange": 265
+      },
+      "map": "sara-bay-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 452,
+        "Blue": 396,
+        "White": 387,
+        "White/Silver": 354,
+        "Silver": 354,
+        "Gold": 342,
+        "Red": 304,
+        "Red/Orange": 304,
+        "Orange": 272
+      },
+      "map": "sara-bay-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 378,
+        "Blue": 378,
+        "White": 351,
+        "White/Silver": 351,
+        "Silver": 343,
+        "Gold": 300,
+        "Red": 300,
+        "Red/Orange": 267,
+        "Orange": 267
+      },
+      "map": "sara-bay-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 244,
+        "Blue": 218,
+        "White": 193,
+        "White/Silver": 193,
+        "Silver": 181,
+        "Gold": 166,
+        "Red": 155,
+        "Red/Orange": 155,
+        "Orange": 114
+      },
+      "map": "sara-bay-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 411,
+        "Blue": 368,
+        "White": 351,
+        "White/Silver": 334,
+        "Silver": 334,
+        "Gold": 323,
+        "Red": 269,
+        "Red/Orange": 269,
+        "Orange": 217
+      },
+      "map": "sara-bay-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 449,
+        "Blue": 395,
+        "White": 385,
+        "White/Silver": 385,
+        "Silver": 351,
+        "Gold": 343,
+        "Red": 334,
+        "Red/Orange": 294,
+        "Orange": 294
+      },
+      "map": "sara-bay-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 194,
+        "Blue": 188,
+        "White": 176,
+        "White/Silver": 176,
+        "Silver": 158,
+        "Gold": 158,
+        "Red": 151,
+        "Red/Orange": 151,
+        "Orange": 114
+      },
+      "map": "sara-bay-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 518,
+        "Blue": 505,
+        "White": 466,
+        "White/Silver": 466,
+        "Silver": 457,
+        "Gold": 411,
+        "Red": 411,
+        "Red/Orange": 411,
+        "Orange": 374
+      },
+      "map": "sara-bay-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 515,
+        "Blue": 515,
+        "White": 475,
+        "White/Silver": 475,
+        "Silver": 463,
+        "Gold": 423,
+        "Red": 410,
+        "Red/Orange": 376,
+        "Orange": 376
+      },
+      "map": "sara-bay-country-club-18"
+    }
+  ],
+  "version": 1
+}

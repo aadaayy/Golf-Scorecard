@@ -1,0 +1,382 @@
+{
+  "id": "wildcat-run-country-club",
+  "name": "Wildcat Run Country Club",
+  "town": "Estero, FL",
+  "tees": [
+    "Blue",
+    "Gold",
+    "Gold (W)",
+    "Green (W)",
+    "White (W)",
+    "Silver",
+    "Silver (W)",
+    "Copper",
+    "Copper (W)",
+    "Red",
+    "Red (W)",
+    "Yellow (W)"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 380,
+        "Gold": 318,
+        "Gold (W)": 318,
+        "Green (W)": 318,
+        "White (W)": 289,
+        "Silver": 273,
+        "Silver (W)": 273,
+        "Copper": 252,
+        "Copper (W)": 252,
+        "Red": 252,
+        "Red (W)": 252,
+        "Yellow (W)": 213
+      },
+      "map": "wildcat-run-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 443,
+        "Gold": 400,
+        "Gold (W)": 400,
+        "Green (W)": 364,
+        "White (W)": 364,
+        "Silver": 317,
+        "Silver (W)": 317,
+        "Copper": 309,
+        "Copper (W)": 309,
+        "Red": 267,
+        "Red (W)": 267,
+        "Yellow (W)": 267
+      },
+      "map": "wildcat-run-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 193,
+        "Gold": 178,
+        "Gold (W)": 178,
+        "Green (W)": 160,
+        "White (W)": 160,
+        "Silver": 130,
+        "Silver (W)": 130,
+        "Copper": 120,
+        "Copper (W)": 120,
+        "Red": 120,
+        "Red (W)": 120,
+        "Yellow (W)": 96
+      },
+      "map": "wildcat-run-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 537,
+        "Gold": 513,
+        "Gold (W)": 513,
+        "Green (W)": 491,
+        "White (W)": 491,
+        "Silver": 468,
+        "Silver (W)": 468,
+        "Copper": 423,
+        "Copper (W)": 423,
+        "Red": 423,
+        "Red (W)": 423,
+        "Yellow (W)": 380
+      },
+      "map": "wildcat-run-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 361,
+        "Gold": 338,
+        "Gold (W)": 338,
+        "Green (W)": 338,
+        "White (W)": 311,
+        "Silver": 302,
+        "Silver (W)": 302,
+        "Copper": 283,
+        "Copper (W)": 283,
+        "Red": 283,
+        "Red (W)": 283,
+        "Yellow (W)": 221
+      },
+      "map": "wildcat-run-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 163,
+        "Gold": 141,
+        "Gold (W)": 141,
+        "Green (W)": 141,
+        "White (W)": 133,
+        "Silver": 121,
+        "Silver (W)": 121,
+        "Copper": 115,
+        "Copper (W)": 115,
+        "Red": 92,
+        "Red (W)": 92,
+        "Yellow (W)": 92
+      },
+      "map": "wildcat-run-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 516,
+        "Gold": 495,
+        "Gold (W)": 495,
+        "Green (W)": 495,
+        "White (W)": 456,
+        "Silver": 442,
+        "Silver (W)": 442,
+        "Copper": 436,
+        "Copper (W)": 436,
+        "Red": 367,
+        "Red (W)": 367,
+        "Yellow (W)": 367
+      },
+      "map": "wildcat-run-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 443,
+        "Gold": 408,
+        "Gold (W)": 408,
+        "Green (W)": 376,
+        "White (W)": 376,
+        "Silver": 306,
+        "Silver (W)": 306,
+        "Copper": 299,
+        "Copper (W)": 299,
+        "Red": 299,
+        "Red (W)": 299,
+        "Yellow (W)": 278
+      },
+      "map": "wildcat-run-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 438,
+        "Gold": 412,
+        "Gold (W)": 412,
+        "Green (W)": 389,
+        "White (W)": 389,
+        "Silver": 321,
+        "Silver (W)": 321,
+        "Copper": 321,
+        "Copper (W)": 321,
+        "Red": 268,
+        "Red (W)": 268,
+        "Yellow (W)": 268
+      },
+      "map": "wildcat-run-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 388,
+        "Gold": 360,
+        "Gold (W)": 360,
+        "Green (W)": 351,
+        "White (W)": 351,
+        "Silver": 300,
+        "Silver (W)": 300,
+        "Copper": 291,
+        "Copper (W)": 291,
+        "Red": 291,
+        "Red (W)": 291,
+        "Yellow (W)": 265
+      },
+      "map": "wildcat-run-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 176,
+        "Gold": 159,
+        "Gold (W)": 159,
+        "Green (W)": 159,
+        "White (W)": 124,
+        "Silver": 113,
+        "Silver (W)": 113,
+        "Copper": 102,
+        "Copper (W)": 102,
+        "Red": 102,
+        "Red (W)": 102,
+        "Yellow (W)": 80
+      },
+      "map": "wildcat-run-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 556,
+        "Gold": 498,
+        "Gold (W)": 498,
+        "Green (W)": 474,
+        "White (W)": 474,
+        "Silver": 454,
+        "Silver (W)": 454,
+        "Copper": 429,
+        "Copper (W)": 429,
+        "Red": 345,
+        "Red (W)": 345,
+        "Yellow (W)": 345
+      },
+      "map": "wildcat-run-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 382,
+        "Gold": 360,
+        "Gold (W)": 360,
+        "Green (W)": 360,
+        "White (W)": 337,
+        "Silver": 337,
+        "Silver (W)": 337,
+        "Copper": 310,
+        "Copper (W)": 310,
+        "Red": 310,
+        "Red (W)": 310,
+        "Yellow (W)": 250
+      },
+      "map": "wildcat-run-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 438,
+        "Gold": 406,
+        "Gold (W)": 406,
+        "Green (W)": 367,
+        "White (W)": 367,
+        "Silver": 342,
+        "Silver (W)": 342,
+        "Copper": 330,
+        "Copper (W)": 330,
+        "Red": 301,
+        "Red (W)": 301,
+        "Yellow (W)": 301
+      },
+      "map": "wildcat-run-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 399,
+        "Gold": 370,
+        "Gold (W)": 370,
+        "Green (W)": 370,
+        "White (W)": 338,
+        "Silver": 306,
+        "Silver (W)": 306,
+        "Copper": 296,
+        "Copper (W)": 296,
+        "Red": 246,
+        "Red (W)": 246,
+        "Yellow (W)": 246
+      },
+      "map": "wildcat-run-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 214,
+        "Gold": 171,
+        "Gold (W)": 171,
+        "Green (W)": 156,
+        "White (W)": 156,
+        "Silver": 134,
+        "Silver (W)": 134,
+        "Copper": 117,
+        "Copper (W)": 117,
+        "Red": 101,
+        "Red (W)": 101,
+        "Yellow (W)": 101
+      },
+      "map": "wildcat-run-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 399,
+        "Gold": 374,
+        "Gold (W)": 374,
+        "Green (W)": 374,
+        "White (W)": 338,
+        "Silver": 317,
+        "Silver (W)": 317,
+        "Copper": 303,
+        "Copper (W)": 303,
+        "Red": 303,
+        "Red (W)": 303,
+        "Yellow (W)": 237
+      },
+      "map": "wildcat-run-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 486,
+        "Gold": 465,
+        "Gold (W)": 465,
+        "Green (W)": 465,
+        "White (W)": 443,
+        "Silver": 433,
+        "Silver (W)": 433,
+        "Copper": 384,
+        "Copper (W)": 384,
+        "Red": 335,
+        "Red (W)": 335,
+        "Yellow (W)": 335
+      },
+      "map": "wildcat-run-country-club-18"
+    }
+  ],
+  "version": 1
+}

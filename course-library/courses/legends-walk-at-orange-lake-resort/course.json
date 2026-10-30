@@ -1,0 +1,103 @@
+{
+  "id": "legends-walk-at-orange-lake-resort",
+  "name": "Legends Walk At Orange Lake Resort",
+  "town": "Four Corners, FL",
+  "tees": [
+    "Teal",
+    "White",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Teal": 158,
+        "White": 139,
+        "Yellow": 118
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Teal": 197,
+        "White": 148,
+        "Yellow": 98
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Teal": 193,
+        "White": 150,
+        "Yellow": 100
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Teal": 222,
+        "White": 191,
+        "Yellow": 130
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Teal": 187,
+        "White": 158,
+        "Yellow": 116
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Teal": 120,
+        "White": 115,
+        "Yellow": 89
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Teal": 147,
+        "White": 132,
+        "Yellow": 104
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Teal": 156,
+        "White": 99,
+        "Yellow": 85
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Teal": 201,
+        "White": 170,
+        "Yellow": 124
+      }
+    }
+  ],
+  "version": 1
+}

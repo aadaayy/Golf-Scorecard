@@ -1,0 +1,269 @@
+{
+  "id": "golf-club-at-south-hampton",
+  "name": "Golf Club At South Hampton",
+  "town": "St. Augustine, FL",
+  "tees": [
+    "Gold",
+    "Web",
+    "Black",
+    "Blue",
+    "White",
+    "Green",
+    "Burgundy"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 412,
+        "Web": 412,
+        "Black": 395,
+        "Blue": 377,
+        "White": 344,
+        "Green": 300,
+        "Burgundy": 171
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 411,
+        "Web": 411,
+        "Black": 348,
+        "Blue": 332,
+        "White": 297,
+        "Green": 231,
+        "Burgundy": 156
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 183,
+        "Web": 183,
+        "Black": 167,
+        "Blue": 145,
+        "White": 124,
+        "Green": 89,
+        "Burgundy": 67
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 359,
+        "Web": 359,
+        "Black": 325,
+        "Blue": 313,
+        "White": 265,
+        "Green": 255,
+        "Burgundy": 161
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 426,
+        "Web": 426,
+        "Black": 385,
+        "Blue": 375,
+        "White": 338,
+        "Green": 302,
+        "Burgundy": 183
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 555,
+        "Web": 555,
+        "Black": 505,
+        "Blue": 489,
+        "White": 451,
+        "Green": 409,
+        "Burgundy": 196
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 212,
+        "Web": 212,
+        "Black": 191,
+        "Blue": 156,
+        "White": 144,
+        "Green": 122,
+        "Burgundy": 93
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 439,
+        "Web": 439,
+        "Black": 388,
+        "Blue": 374,
+        "White": 315,
+        "Green": 275,
+        "Burgundy": 149
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 556,
+        "Web": 556,
+        "Black": 505,
+        "Blue": 470,
+        "White": 459,
+        "Green": 399,
+        "Burgundy": 192
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 378,
+        "Web": 378,
+        "Black": 369,
+        "Blue": 335,
+        "White": 303,
+        "Green": 264,
+        "Burgundy": 183
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 401,
+        "Web": 401,
+        "Black": 365,
+        "Blue": 358,
+        "White": 329,
+        "Green": 291,
+        "Burgundy": 152
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 181,
+        "Web": 181,
+        "Black": 163,
+        "Blue": 121,
+        "White": 108,
+        "Green": 99,
+        "Burgundy": 63
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 497,
+        "Web": 497,
+        "Black": 466,
+        "Blue": 460,
+        "White": 426,
+        "Green": 370,
+        "Burgundy": 206
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 440,
+        "Web": 440,
+        "Black": 388,
+        "Blue": 379,
+        "White": 345,
+        "Green": 299,
+        "Burgundy": 161
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 218,
+        "Web": 218,
+        "Black": 201,
+        "Blue": 178,
+        "White": 170,
+        "Green": 138,
+        "Burgundy": 109
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 376,
+        "Web": 376,
+        "Black": 369,
+        "Blue": 343,
+        "White": 278,
+        "Green": 236,
+        "Burgundy": 194
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 571,
+        "Web": 571,
+        "Black": 526,
+        "Blue": 491,
+        "White": 458,
+        "Green": 419,
+        "Burgundy": 234
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 413,
+        "Web": 413,
+        "Black": 396,
+        "Blue": 381,
+        "White": 295,
+        "Green": 288,
+        "Burgundy": 176
+      }
+    }
+  ],
+  "version": 1
+}

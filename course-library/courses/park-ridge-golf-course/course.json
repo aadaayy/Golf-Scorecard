@@ -1,0 +1,287 @@
+{
+  "id": "park-ridge-golf-course",
+  "name": "Park Ridge Golf Course",
+  "town": "Wellington, FL",
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Blue",
+    "White",
+    "Silver",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 597,
+        "Web": 597,
+        "Gold": 566,
+        "Blue": 529,
+        "White": 498,
+        "Silver": 465,
+        "Green": 461
+      },
+      "map": "park-ridge-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 184,
+        "Web": 184,
+        "Gold": 166,
+        "Blue": 143,
+        "White": 112,
+        "Silver": 104,
+        "Green": 97
+      },
+      "map": "park-ridge-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 419,
+        "Web": 419,
+        "Gold": 394,
+        "Blue": 364,
+        "White": 320,
+        "Silver": 296,
+        "Green": 290
+      },
+      "map": "park-ridge-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 522,
+        "Web": 522,
+        "Gold": 499,
+        "Blue": 470,
+        "White": 427,
+        "Silver": 404,
+        "Green": 400
+      },
+      "map": "park-ridge-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 350,
+        "Web": 350,
+        "Gold": 331,
+        "Blue": 322,
+        "White": 297,
+        "Silver": 270,
+        "Green": 263
+      },
+      "map": "park-ridge-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 375,
+        "Web": 375,
+        "Gold": 349,
+        "Blue": 320,
+        "White": 285,
+        "Silver": 259,
+        "Green": 255
+      },
+      "map": "park-ridge-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 159,
+        "Web": 159,
+        "Gold": 129,
+        "Blue": 122,
+        "White": 109,
+        "Silver": 105,
+        "Green": 89
+      },
+      "map": "park-ridge-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 439,
+        "Web": 439,
+        "Gold": 420,
+        "Blue": 384,
+        "White": 339,
+        "Silver": 300,
+        "Green": 300
+      },
+      "map": "park-ridge-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 237,
+        "Web": 237,
+        "Gold": 175,
+        "Blue": 146,
+        "White": 110,
+        "Silver": 93,
+        "Green": 87
+      },
+      "map": "park-ridge-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 544,
+        "Web": 544,
+        "Gold": 524,
+        "Blue": 496,
+        "White": 466,
+        "Silver": 447,
+        "Green": 440
+      },
+      "map": "park-ridge-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 238,
+        "Web": 238,
+        "Gold": 199,
+        "Blue": 183,
+        "White": 155,
+        "Silver": 113,
+        "Green": 104
+      },
+      "map": "park-ridge-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 524,
+        "Web": 524,
+        "Gold": 474,
+        "Blue": 433,
+        "White": 413,
+        "Silver": 332,
+        "Green": 329
+      },
+      "map": "park-ridge-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 310,
+        "Web": 310,
+        "Gold": 296,
+        "Blue": 269,
+        "White": 258,
+        "Silver": 234,
+        "Green": 227
+      },
+      "map": "park-ridge-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 134,
+        "Web": 134,
+        "Gold": 124,
+        "Blue": 109,
+        "White": 93,
+        "Silver": 79,
+        "Green": 77
+      },
+      "map": "park-ridge-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 537,
+        "Web": 537,
+        "Gold": 510,
+        "Blue": 471,
+        "White": 434,
+        "Silver": 405,
+        "Green": 402
+      },
+      "map": "park-ridge-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 166,
+        "Web": 166,
+        "Gold": 150,
+        "Blue": 127,
+        "White": 100,
+        "Silver": 87,
+        "Green": 81
+      },
+      "map": "park-ridge-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 432,
+        "Web": 432,
+        "Gold": 398,
+        "Blue": 364,
+        "White": 309,
+        "Silver": 276,
+        "Green": 269
+      },
+      "map": "park-ridge-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 540,
+        "Web": 540,
+        "Gold": 520,
+        "Blue": 493,
+        "White": 457,
+        "Silver": 431,
+        "Green": 427
+      },
+      "map": "park-ridge-golf-course-18"
+    }
+  ],
+  "version": 1
+}

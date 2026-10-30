@@ -1,0 +1,193 @@
+{
+  "id": "marion-oaks-country-club",
+  "name": "Marion Oaks Country Club",
+  "town": "Ocala, FL",
+  "tees": [
+    "Championship",
+    "Middle",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 433,
+        "Middle": 406,
+        "Forward": 300
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 178,
+        "Middle": 162,
+        "Forward": 144
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 421,
+        "Middle": 395,
+        "Forward": 293
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Championship": 515,
+        "Middle": 491,
+        "Forward": 397
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 434,
+        "Middle": 401,
+        "Forward": 307
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 173,
+        "Middle": 150,
+        "Forward": 125
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 412,
+        "Middle": 382,
+        "Forward": 272
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Championship": 505,
+        "Middle": 467,
+        "Forward": 420
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 407,
+        "Middle": 383,
+        "Forward": 280
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 424,
+        "Middle": 371,
+        "Forward": 306
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Championship": 520,
+        "Middle": 493,
+        "Forward": 435
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 397,
+        "Middle": 362,
+        "Forward": 336
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 208,
+        "Middle": 186,
+        "Forward": 169
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 422,
+        "Middle": 380,
+        "Forward": 283
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Championship": 525,
+        "Middle": 490,
+        "Forward": 413
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 418,
+        "Middle": 373,
+        "Forward": 331
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 208,
+        "Middle": 179,
+        "Forward": 153
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 431,
+        "Middle": 398,
+        "Forward": 334
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,307 @@
+{
+  "id": "golden-marsh-at-harbour-ridge-yacht-country-club",
+  "name": "Golden Marsh At Harbour Ridge Yacht Country Club",
+  "town": "Palm City, FL",
+  "tees": [
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Gold/Green",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 400,
+        "Black/Blue": 386,
+        "Blue": 386,
+        "Blue/White": 376,
+        "White": 376,
+        "White/Gold": 319,
+        "Gold": 319,
+        "Gold/Green": 272,
+        "Green": 272
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 518,
+        "Black/Blue": 518,
+        "Blue": 502,
+        "Blue/White": 502,
+        "White": 490,
+        "White/Gold": 427,
+        "Gold": 427,
+        "Gold/Green": 427,
+        "Green": 368
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 382,
+        "Black/Blue": 382,
+        "Blue": 367,
+        "Blue/White": 358,
+        "White": 358,
+        "White/Gold": 319,
+        "Gold": 319,
+        "Gold/Green": 258,
+        "Green": 258
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 164,
+        "Black/Blue": 153,
+        "Blue": 153,
+        "Blue/White": 153,
+        "White": 143,
+        "White/Gold": 143,
+        "Gold": 120,
+        "Gold/Green": 120,
+        "Green": 95
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 418,
+        "Black/Blue": 392,
+        "Blue": 392,
+        "Blue/White": 378,
+        "White": 378,
+        "White/Gold": 318,
+        "Gold": 318,
+        "Gold/Green": 263,
+        "Green": 263
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 332,
+        "Black/Blue": 332,
+        "Blue": 318,
+        "Blue/White": 318,
+        "White": 308,
+        "White/Gold": 308,
+        "Gold": 285,
+        "Gold/Green": 285,
+        "Green": 220
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 425,
+        "Black/Blue": 394,
+        "Blue": 394,
+        "Blue/White": 368,
+        "White": 368,
+        "White/Gold": 347,
+        "Gold": 347,
+        "Gold/Green": 285,
+        "Green": 285
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 195,
+        "Black/Blue": 195,
+        "Blue": 170,
+        "Blue/White": 170,
+        "White": 155,
+        "White/Gold": 155,
+        "Gold": 134,
+        "Gold/Green": 134,
+        "Green": 125
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 500,
+        "Black/Blue": 500,
+        "Blue": 486,
+        "Blue/White": 486,
+        "White": 479,
+        "White/Gold": 436,
+        "Gold": 436,
+        "Gold/Green": 436,
+        "Green": 400
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 389,
+        "Black/Blue": 389,
+        "Blue": 372,
+        "Blue/White": 331,
+        "White": 331,
+        "White/Gold": 236,
+        "Gold": 236,
+        "Gold/Green": 236,
+        "Green": 216
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 145,
+        "Black/Blue": 145,
+        "Blue": 135,
+        "Blue/White": 135,
+        "White": 125,
+        "White/Gold": 125,
+        "Gold": 110,
+        "Gold/Green": 110,
+        "Green": 101
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 380,
+        "Black/Blue": 380,
+        "Blue": 342,
+        "Blue/White": 342,
+        "White": 324,
+        "White/Gold": 279,
+        "Gold": 279,
+        "Gold/Green": 232,
+        "Green": 232
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 512,
+        "Black/Blue": 512,
+        "Blue": 494,
+        "Blue/White": 494,
+        "White": 481,
+        "White/Gold": 414,
+        "Gold": 414,
+        "Gold/Green": 414,
+        "Green": 371
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 202,
+        "Black/Blue": 187,
+        "Blue": 187,
+        "Blue/White": 173,
+        "White": 173,
+        "White/Gold": 173,
+        "Gold": 159,
+        "Gold/Green": 118,
+        "Green": 118
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 524,
+        "Black/Blue": 508,
+        "Blue": 508,
+        "Blue/White": 508,
+        "White": 472,
+        "White/Gold": 421,
+        "Gold": 421,
+        "Gold/Green": 355,
+        "Green": 355
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 387,
+        "Black/Blue": 387,
+        "Blue": 368,
+        "Blue/White": 359,
+        "White": 359,
+        "White/Gold": 359,
+        "Gold": 334,
+        "Gold/Green": 270,
+        "Green": 270
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 347,
+        "Black/Blue": 347,
+        "Blue": 336,
+        "Blue/White": 336,
+        "White": 310,
+        "White/Gold": 310,
+        "Gold": 293,
+        "Gold/Green": 293,
+        "Green": 262
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 416,
+        "Black/Blue": 402,
+        "Blue": 402,
+        "Blue/White": 389,
+        "White": 389,
+        "White/Gold": 363,
+        "Gold": 363,
+        "Gold/Green": 282,
+        "Green": 282
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,250 @@
+{
+  "id": "turtle-run-at-sun-n-lake-golf-country-club",
+  "name": "Turtle Run At Sun N Lake Golf Country Club",
+  "town": "Sebring, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red",
+    "Red/Aqua",
+    "Aqua"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 505,
+        "White": 486,
+        "Gold": 406,
+        "Red": 399,
+        "Red/Aqua": 376,
+        "Aqua": 374
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 197,
+        "White": 166,
+        "Gold": 148,
+        "Red": 112,
+        "Red/Aqua": 124,
+        "Aqua": 107
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 355,
+        "White": 331,
+        "Gold": 294,
+        "Red": 287,
+        "Red/Aqua": 257,
+        "Aqua": 255
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 345,
+        "White": 318,
+        "Gold": 293,
+        "Red": 286,
+        "Red/Aqua": 284,
+        "Aqua": 250
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 362,
+        "White": 321,
+        "Gold": 313,
+        "Red": 231,
+        "Red/Aqua": 233,
+        "Aqua": 231
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 166,
+        "White": 157,
+        "Gold": 108,
+        "Red": 99,
+        "Red/Aqua": 113,
+        "Aqua": 69
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 362,
+        "White": 350,
+        "Gold": 324,
+        "Red": 319,
+        "Red/Aqua": 281,
+        "Aqua": 280
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 340,
+        "White": 313,
+        "Gold": 274,
+        "Red": 254,
+        "Red/Aqua": 254,
+        "Aqua": 229
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 521,
+        "White": 502,
+        "Gold": 447,
+        "Red": 439,
+        "Red/Aqua": 391,
+        "Aqua": 374
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 439,
+        "White": 419,
+        "Gold": 346,
+        "Red": 338,
+        "Red/Aqua": 286,
+        "Aqua": 293
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 339,
+        "White": 325,
+        "Gold": 307,
+        "Red": 279,
+        "Red/Aqua": 276,
+        "Aqua": 235
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 213,
+        "White": 187,
+        "Gold": 161,
+        "Red": 148,
+        "Red/Aqua": 150,
+        "Aqua": 124
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 338,
+        "White": 322,
+        "Gold": 291,
+        "Red": 285,
+        "Red/Aqua": 280,
+        "Aqua": 251
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 501,
+        "White": 473,
+        "Gold": 393,
+        "Red": 387,
+        "Red/Aqua": 387,
+        "Aqua": 387
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 177,
+        "White": 156,
+        "Gold": 149,
+        "Red": 129,
+        "Red/Aqua": 130,
+        "Aqua": 108
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 369,
+        "White": 359,
+        "Gold": 348,
+        "Red": 319,
+        "Red/Aqua": 277,
+        "Aqua": 272
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 322,
+        "White": 307,
+        "Gold": 294,
+        "Red": 269,
+        "Red/Aqua": 262,
+        "Aqua": 239
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 499,
+        "White": 473,
+        "Gold": 458,
+        "Red": 389,
+        "Red/Aqua": 389,
+        "Aqua": 351
+      }
+    }
+  ],
+  "version": 1
+}

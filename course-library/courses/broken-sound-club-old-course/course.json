@@ -1,0 +1,155 @@
+{
+  "id": "broken-sound-club-old-course",
+  "name": "Broken Sound Club Old Course",
+  "town": "Boca Raton, FL",
+  "tees": [
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Green": 465
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Green": 355
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Green": 115
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Green": 285
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Green": 327
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Green": 450
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Green": 250
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Green": 125
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Green": 340
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Green": 455
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Green": 300
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Green": 140
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Green": 335
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Green": 120
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Green": 350
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Green": 430
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 325
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Green": 330
+      }
+    }
+  ],
+  "version": 1
+}

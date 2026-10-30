@@ -1,0 +1,288 @@
+{
+  "id": "tpc-treviso-bay",
+  "name": "Tpc Treviso Bay",
+  "town": "Naples, FL",
+  "tees": [
+    "Pga Tour",
+    "Championship",
+    "Tournament",
+    "Member",
+    "Players",
+    "Club",
+    "Treviso",
+    "Bay"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Pga Tour": 420,
+        "Championship": 390,
+        "Tournament": 358,
+        "Member": 318,
+        "Players": 318,
+        "Club": 280,
+        "Treviso": 225,
+        "Bay": 225
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Pga Tour": 511,
+        "Championship": 470,
+        "Tournament": 442,
+        "Member": 442,
+        "Players": 416,
+        "Club": 410,
+        "Treviso": 410,
+        "Bay": 317
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Pga Tour": 180,
+        "Championship": 167,
+        "Tournament": 148,
+        "Member": 129,
+        "Players": 129,
+        "Club": 114,
+        "Treviso": 114,
+        "Bay": 75
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Pga Tour": 594,
+        "Championship": 553,
+        "Tournament": 542,
+        "Member": 500,
+        "Players": 500,
+        "Club": 455,
+        "Treviso": 391,
+        "Bay": 391
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Pga Tour": 349,
+        "Championship": 317,
+        "Tournament": 306,
+        "Member": 306,
+        "Players": 274,
+        "Club": 236,
+        "Treviso": 236,
+        "Bay": 181
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Pga Tour": 395,
+        "Championship": 363,
+        "Tournament": 339,
+        "Member": 339,
+        "Players": 324,
+        "Club": 279,
+        "Treviso": 240,
+        "Bay": 240
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Pga Tour": 241,
+        "Championship": 203,
+        "Tournament": 167,
+        "Member": 167,
+        "Players": 141,
+        "Club": 131,
+        "Treviso": 108,
+        "Bay": 108
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Pga Tour": 464,
+        "Championship": 423,
+        "Tournament": 395,
+        "Member": 395,
+        "Players": 345,
+        "Club": 304,
+        "Treviso": 229,
+        "Bay": 229
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Pga Tour": 392,
+        "Championship": 373,
+        "Tournament": 346,
+        "Member": 303,
+        "Players": 303,
+        "Club": 274,
+        "Treviso": 274,
+        "Bay": 237
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Pga Tour": 467,
+        "Championship": 415,
+        "Tournament": 376,
+        "Member": 341,
+        "Players": 341,
+        "Club": 328,
+        "Treviso": 328,
+        "Bay": 277
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Pga Tour": 354,
+        "Championship": 341,
+        "Tournament": 329,
+        "Member": 329,
+        "Players": 290,
+        "Club": 228,
+        "Treviso": 228,
+        "Bay": 199
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Pga Tour": 612,
+        "Championship": 578,
+        "Tournament": 564,
+        "Member": 491,
+        "Players": 491,
+        "Club": 481,
+        "Treviso": 368,
+        "Bay": 368
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Pga Tour": 406,
+        "Championship": 357,
+        "Tournament": 329,
+        "Member": 329,
+        "Players": 280,
+        "Club": 269,
+        "Treviso": 216,
+        "Bay": 216
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Pga Tour": 229,
+        "Championship": 194,
+        "Tournament": 175,
+        "Member": 155,
+        "Players": 155,
+        "Club": 125,
+        "Treviso": 125,
+        "Bay": 107
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Pga Tour": 471,
+        "Championship": 427,
+        "Tournament": 385,
+        "Member": 353,
+        "Players": 353,
+        "Club": 338,
+        "Treviso": 338,
+        "Bay": 258
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Pga Tour": 493,
+        "Championship": 455,
+        "Tournament": 435,
+        "Member": 411,
+        "Players": 411,
+        "Club": 363,
+        "Treviso": 286,
+        "Bay": 286
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Pga Tour": 211,
+        "Championship": 179,
+        "Tournament": 156,
+        "Member": 156,
+        "Players": 135,
+        "Club": 122,
+        "Treviso": 111,
+        "Bay": 111
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Pga Tour": 576,
+        "Championship": 539,
+        "Tournament": 513,
+        "Member": 513,
+        "Players": 471,
+        "Club": 416,
+        "Treviso": 416,
+        "Bay": 365
+      }
+    }
+  ],
+  "version": 1
+}

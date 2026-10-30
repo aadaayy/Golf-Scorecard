@@ -1,0 +1,231 @@
+{
+  "id": "deer-run-at-sun-n-lake-golf-country-club",
+  "name": "Deer Run At Sun N Lake Golf Country Club",
+  "town": "Sebring, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 410,
+        "Blue": 379,
+        "White": 363,
+        "Gold": 337,
+        "Red": 291
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 209,
+        "Blue": 185,
+        "White": 162,
+        "Gold": 148,
+        "Red": 134
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 427,
+        "Blue": 403,
+        "White": 381,
+        "Gold": 329,
+        "Red": 277
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Black": 523,
+        "Blue": 501,
+        "White": 473,
+        "Gold": 396,
+        "Red": 380
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 366,
+        "Blue": 350,
+        "White": 332,
+        "Gold": 310,
+        "Red": 274
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 428,
+        "Blue": 404,
+        "White": 380,
+        "Gold": 318,
+        "Red": 302
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 363,
+        "Blue": 343,
+        "White": 323,
+        "Gold": 313,
+        "Red": 293
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 228,
+        "Blue": 192,
+        "White": 164,
+        "Gold": 154,
+        "Red": 134
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 601,
+        "Blue": 569,
+        "White": 515,
+        "Gold": 450,
+        "Red": 408
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 328,
+        "Blue": 318,
+        "White": 313,
+        "Gold": 308,
+        "Red": 277
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 532,
+        "Blue": 512,
+        "White": 492,
+        "Gold": 431,
+        "Red": 413
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 416,
+        "Blue": 403,
+        "White": 376,
+        "Gold": 346,
+        "Red": 302
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 171,
+        "Blue": 158,
+        "White": 151,
+        "Gold": 144,
+        "Red": 133
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 531,
+        "Blue": 516,
+        "White": 497,
+        "Gold": 428,
+        "Red": 409
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 410,
+        "Blue": 376,
+        "White": 360,
+        "Gold": 335,
+        "Red": 295
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 399,
+        "Blue": 385,
+        "White": 358,
+        "Gold": 288,
+        "Red": 268
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 458,
+        "Blue": 426,
+        "White": 392,
+        "Gold": 370,
+        "Red": 301
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 174,
+        "Blue": 154,
+        "White": 124,
+        "Gold": 112,
+        "Red": 102
+      }
+    }
+  ],
+  "version": 1
+}

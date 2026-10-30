@@ -1,0 +1,113 @@
+{
+  "id": "sarasota-at-the-villages-executive-golf-trail",
+  "name": "Sarasota At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 115,
+        "Web": 115,
+        "Gold": 96,
+        "Green": 76
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 132,
+        "Web": 132,
+        "Gold": 90,
+        "Green": 66
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 160,
+        "Web": 160,
+        "Gold": 128,
+        "Green": 105
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 115,
+        "Web": 115,
+        "Gold": 108,
+        "Green": 96
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 110,
+        "Web": 110,
+        "Gold": 88,
+        "Green": 60
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 110,
+        "Web": 110,
+        "Gold": 108,
+        "Green": 95
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 158,
+        "Web": 158,
+        "Gold": 135,
+        "Green": 98
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 122,
+        "Web": 122,
+        "Gold": 90,
+        "Green": 90
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 158,
+        "Web": 158,
+        "Gold": 136,
+        "Green": 105
+      }
+    }
+  ],
+  "version": 1
+}

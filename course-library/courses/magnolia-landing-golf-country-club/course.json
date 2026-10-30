@@ -1,0 +1,231 @@
+{
+  "id": "magnolia-landing-golf-country-club",
+  "name": "Magnolia Landing Golf Country Club",
+  "town": "North Fort Myers, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Green",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 423,
+        "Gold": 382,
+        "Green": 362,
+        "White": 331,
+        "Red": 293
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 356,
+        "Gold": 356,
+        "Green": 300,
+        "White": 275,
+        "Red": 243
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 364,
+        "Gold": 358,
+        "Green": 284,
+        "White": 255,
+        "Red": 216
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 618,
+        "Gold": 539,
+        "Green": 501,
+        "White": 450,
+        "Red": 388
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 432,
+        "Gold": 370,
+        "Green": 357,
+        "White": 312,
+        "Red": 271
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 199,
+        "Gold": 171,
+        "Green": 147,
+        "White": 126,
+        "Red": 106
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 396,
+        "Gold": 377,
+        "Green": 352,
+        "White": 316,
+        "Red": 251
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 214,
+        "Gold": 178,
+        "Green": 153,
+        "White": 134,
+        "Red": 97
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 601,
+        "Gold": 515,
+        "Green": 495,
+        "White": 477,
+        "Red": 412
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 321,
+        "Gold": 315,
+        "Green": 299,
+        "White": 274,
+        "Red": 254
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 510,
+        "Gold": 435,
+        "Green": 412,
+        "White": 316,
+        "Red": 288
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 203,
+        "Gold": 185,
+        "Green": 178,
+        "White": 158,
+        "Red": 114
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 576,
+        "Gold": 512,
+        "Green": 484,
+        "White": 450,
+        "Red": 353
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 411,
+        "Gold": 358,
+        "Green": 333,
+        "White": 306,
+        "Red": 237
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 193,
+        "Gold": 187,
+        "Green": 153,
+        "White": 137,
+        "Red": 81
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 407,
+        "Gold": 357,
+        "Green": 328,
+        "White": 293,
+        "Red": 260
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 484,
+        "Gold": 383,
+        "Green": 319,
+        "White": 286,
+        "Red": 246
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 527,
+        "Gold": 493,
+        "Green": 471,
+        "White": 449,
+        "Red": 396
+      }
+    }
+  ],
+  "version": 1
+}

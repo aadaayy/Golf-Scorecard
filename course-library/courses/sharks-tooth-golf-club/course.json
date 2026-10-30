@@ -1,0 +1,325 @@
+{
+  "id": "sharks-tooth-golf-club",
+  "name": "Sharks Tooth Golf Club",
+  "town": "Panama City Beach, FL",
+  "tees": [
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Gold/Burgundy",
+    "Burgundy"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 408,
+        "Black/Blue": 408,
+        "Blue": 371,
+        "Blue/White": 371,
+        "White": 356,
+        "White/Gold": 356,
+        "Gold": 322,
+        "Gold/Burgundy": 322,
+        "Burgundy": 250
+      },
+      "map": "sharks-tooth-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 190,
+        "Black/Blue": 179,
+        "Blue": 179,
+        "Blue/White": 169,
+        "White": 169,
+        "White/Gold": 115,
+        "Gold": 115,
+        "Gold/Burgundy": 104,
+        "Burgundy": 104
+      },
+      "map": "sharks-tooth-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 545,
+        "Black/Blue": 545,
+        "Blue": 510,
+        "Blue/White": 510,
+        "White": 494,
+        "White/Gold": 494,
+        "Gold": 458,
+        "Gold/Burgundy": 458,
+        "Burgundy": 423
+      },
+      "map": "sharks-tooth-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 425,
+        "Black/Blue": 384,
+        "Blue": 384,
+        "Blue/White": 355,
+        "White": 355,
+        "White/Gold": 355,
+        "Gold": 350,
+        "Gold/Burgundy": 300,
+        "Burgundy": 300
+      },
+      "map": "sharks-tooth-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 225,
+        "Black/Blue": 202,
+        "Blue": 202,
+        "Blue/White": 167,
+        "White": 167,
+        "White/Gold": 154,
+        "Gold": 154,
+        "Gold/Burgundy": 138,
+        "Burgundy": 138
+      },
+      "map": "sharks-tooth-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 524,
+        "Black/Blue": 524,
+        "Blue": 514,
+        "Blue/White": 514,
+        "White": 504,
+        "White/Gold": 504,
+        "Gold": 482,
+        "Gold/Burgundy": 482,
+        "Burgundy": 407
+      },
+      "map": "sharks-tooth-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 485,
+        "Black/Blue": 397,
+        "Blue": 397,
+        "Blue/White": 354,
+        "White": 354,
+        "White/Gold": 345,
+        "Gold": 345,
+        "Gold/Burgundy": 327,
+        "Burgundy": 327
+      },
+      "map": "sharks-tooth-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 370,
+        "Black/Blue": 370,
+        "Blue": 316,
+        "Blue/White": 316,
+        "White": 283,
+        "White/Gold": 283,
+        "Gold": 268,
+        "Gold/Burgundy": 268,
+        "Burgundy": 243
+      },
+      "map": "sharks-tooth-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 423,
+        "Black/Blue": 389,
+        "Blue": 389,
+        "Blue/White": 389,
+        "White": 368,
+        "White/Gold": 368,
+        "Gold": 361,
+        "Gold/Burgundy": 337,
+        "Burgundy": 337
+      },
+      "map": "sharks-tooth-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 430,
+        "Black/Blue": 398,
+        "Blue": 398,
+        "Blue/White": 398,
+        "White": 377,
+        "White/Gold": 362,
+        "Gold": 362,
+        "Gold/Burgundy": 328,
+        "Burgundy": 328
+      },
+      "map": "sharks-tooth-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 193,
+        "Black/Blue": 180,
+        "Blue": 180,
+        "Blue/White": 180,
+        "White": 173,
+        "White/Gold": 158,
+        "Gold": 158,
+        "Gold/Burgundy": 136,
+        "Burgundy": 136
+      },
+      "map": "sharks-tooth-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 422,
+        "Black/Blue": 422,
+        "Blue": 408,
+        "Blue/White": 395,
+        "White": 395,
+        "White/Gold": 395,
+        "Gold": 286,
+        "Gold/Burgundy": 286,
+        "Burgundy": 271
+      },
+      "map": "sharks-tooth-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 531,
+        "Black/Blue": 531,
+        "Blue": 487,
+        "Blue/White": 477,
+        "White": 477,
+        "White/Gold": 477,
+        "Gold": 468,
+        "Gold/Burgundy": 468,
+        "Burgundy": 440
+      },
+      "map": "sharks-tooth-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 216,
+        "Black/Blue": 174,
+        "Blue": 174,
+        "Blue/White": 174,
+        "White": 162,
+        "White/Gold": 162,
+        "Gold": 154,
+        "Gold/Burgundy": 154,
+        "Burgundy": 127
+      },
+      "map": "sharks-tooth-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 420,
+        "Black/Blue": 420,
+        "Blue": 379,
+        "Blue/White": 346,
+        "White": 346,
+        "White/Gold": 338,
+        "Gold": 338,
+        "Gold/Burgundy": 308,
+        "Burgundy": 308
+      },
+      "map": "sharks-tooth-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 362,
+        "Black/Blue": 362,
+        "Blue": 330,
+        "Blue/White": 311,
+        "White": 311,
+        "White/Gold": 311,
+        "Gold": 286,
+        "Gold/Burgundy": 286,
+        "Burgundy": 263
+      },
+      "map": "sharks-tooth-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 570,
+        "Black/Blue": 536,
+        "Blue": 536,
+        "Blue/White": 536,
+        "White": 470,
+        "White/Gold": 458,
+        "Gold": 458,
+        "Gold/Burgundy": 432,
+        "Burgundy": 432
+      },
+      "map": "sharks-tooth-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 460,
+        "Black/Blue": 404,
+        "Blue": 404,
+        "Blue/White": 356,
+        "White": 356,
+        "White/Gold": 346,
+        "Gold": 346,
+        "Gold/Burgundy": 315,
+        "Burgundy": 315
+      },
+      "map": "sharks-tooth-golf-club-18"
+    }
+  ],
+  "version": 1
+}

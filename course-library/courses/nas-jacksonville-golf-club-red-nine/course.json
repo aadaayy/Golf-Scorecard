@@ -1,0 +1,113 @@
+{
+  "id": "nas-jacksonville-golf-club-red-nine",
+  "name": "Nas Jacksonville Golf Club Red Nine",
+  "town": "Jacksonville, FL",
+  "tees": [
+    "Black",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 525,
+        "White": 504,
+        "Gold": 446,
+        "Red": 383
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 435,
+        "White": 375,
+        "Gold": 340,
+        "Red": 340
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 185,
+        "White": 156,
+        "Gold": 146,
+        "Red": 132
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 415,
+        "White": 355,
+        "Gold": 280,
+        "Red": 280
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 566,
+        "White": 512,
+        "Gold": 429,
+        "Red": 429
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 415,
+        "White": 385,
+        "Gold": 335,
+        "Red": 335
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 220,
+        "White": 195,
+        "Gold": 155,
+        "Red": 155
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 326,
+        "White": 304,
+        "Gold": 280,
+        "Red": 226
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 370,
+        "White": 343,
+        "Gold": 323,
+        "Red": 285
+      }
+    }
+  ],
+  "version": 1
+}

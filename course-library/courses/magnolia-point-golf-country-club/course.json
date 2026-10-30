@@ -1,0 +1,269 @@
+{
+  "id": "magnolia-point-golf-country-club",
+  "name": "Magnolia Point Golf Country Club",
+  "town": "Green Cove Springs, FL",
+  "tees": [
+    "Web",
+    "Blue",
+    "White",
+    "Green",
+    "Red",
+    "Combo",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 455,
+        "Blue": 452,
+        "White": 414,
+        "Green": 375,
+        "Red": 364,
+        "Combo": 300,
+        "Yellow": 300
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 135,
+        "Blue": 132,
+        "White": 123,
+        "Green": 114,
+        "Red": 112,
+        "Combo": 112,
+        "Yellow": 103
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 376,
+        "Blue": 371,
+        "White": 337,
+        "Green": 308,
+        "Red": 301,
+        "Combo": 301,
+        "Yellow": 295
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Web": 526,
+        "Blue": 528,
+        "White": 494,
+        "Green": 432,
+        "Red": 427,
+        "Combo": 427,
+        "Yellow": 402
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Web": 419,
+        "Blue": 419,
+        "White": 387,
+        "Green": 364,
+        "Red": 356,
+        "Combo": 286,
+        "Yellow": 286
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Web": 201,
+        "Blue": 206,
+        "White": 169,
+        "Green": 145,
+        "Red": 141,
+        "Combo": 141,
+        "Yellow": 109
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Web": 419,
+        "Blue": 430,
+        "White": 398,
+        "Green": 371,
+        "Red": 366,
+        "Combo": 331,
+        "Yellow": 331
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Web": 551,
+        "Blue": 566,
+        "White": 521,
+        "Green": 454,
+        "Red": 449,
+        "Combo": 409,
+        "Yellow": 409
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 395,
+        "Blue": 390,
+        "White": 370,
+        "Green": 343,
+        "Red": 341,
+        "Combo": 341,
+        "Yellow": 268
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 410,
+        "Blue": 406,
+        "White": 382,
+        "Green": 356,
+        "Red": 354,
+        "Combo": 306,
+        "Yellow": 306
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Web": 388,
+        "Blue": 388,
+        "White": 339,
+        "Green": 329,
+        "Red": 321,
+        "Combo": 276,
+        "Yellow": 276
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Web": 510,
+        "Blue": 509,
+        "White": 470,
+        "Green": 463,
+        "Red": 428,
+        "Combo": 428,
+        "Yellow": 413
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Web": 375,
+        "Blue": 375,
+        "White": 334,
+        "Green": 327,
+        "Red": 294,
+        "Combo": 294,
+        "Yellow": 289
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Web": 169,
+        "Blue": 174,
+        "White": 155,
+        "Green": 142,
+        "Red": 101,
+        "Combo": 101,
+        "Yellow": 98
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Web": 542,
+        "Blue": 545,
+        "White": 500,
+        "Green": 464,
+        "Red": 455,
+        "Combo": 400,
+        "Yellow": 400
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 386,
+        "Blue": 358,
+        "White": 338,
+        "Green": 325,
+        "Red": 319,
+        "Combo": 285,
+        "Yellow": 285
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 155,
+        "Blue": 155,
+        "White": 131,
+        "Green": 111,
+        "Red": 110,
+        "Combo": 110,
+        "Yellow": 101
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Web": 390,
+        "Blue": 392,
+        "White": 368,
+        "Green": 328,
+        "Red": 319,
+        "Combo": 319,
+        "Yellow": 313
+      }
+    }
+  ],
+  "version": 1
+}

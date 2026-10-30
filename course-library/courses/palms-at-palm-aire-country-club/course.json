@@ -1,0 +1,249 @@
+{
+  "id": "palms-at-palm-aire-country-club",
+  "name": "Palms At Palm Aire Country Club",
+  "town": "Pompano Beach, FL",
+  "tees": [
+    "Blue",
+    "Green",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 405,
+        "Green": 384,
+        "White": 376,
+        "Gold": 363,
+        "Red": 325
+      },
+      "map": "palms-at-palm-aire-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 511,
+        "Green": 497,
+        "White": 479,
+        "Gold": 400,
+        "Red": 393
+      },
+      "map": "palms-at-palm-aire-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 399,
+        "Green": 381,
+        "White": 370,
+        "Gold": 359,
+        "Red": 281
+      },
+      "map": "palms-at-palm-aire-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 200,
+        "Green": 187,
+        "White": 174,
+        "Gold": 118,
+        "Red": 111
+      },
+      "map": "palms-at-palm-aire-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 494,
+        "Green": 481,
+        "White": 472,
+        "Gold": 429,
+        "Red": 420
+      },
+      "map": "palms-at-palm-aire-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 426,
+        "Green": 400,
+        "White": 394,
+        "Gold": 376,
+        "Red": 371
+      },
+      "map": "palms-at-palm-aire-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 189,
+        "Green": 172,
+        "White": 153,
+        "Gold": 132,
+        "Red": 127
+      },
+      "map": "palms-at-palm-aire-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 416,
+        "Green": 400,
+        "White": 383,
+        "Gold": 352,
+        "Red": 345
+      },
+      "map": "palms-at-palm-aire-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 437,
+        "Green": 396,
+        "White": 390,
+        "Gold": 283,
+        "Red": 278
+      },
+      "map": "palms-at-palm-aire-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 416,
+        "Green": 402,
+        "White": 395,
+        "Gold": 356,
+        "Red": 352
+      },
+      "map": "palms-at-palm-aire-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 525,
+        "Green": 510,
+        "White": 497,
+        "Gold": 454,
+        "Red": 429
+      },
+      "map": "palms-at-palm-aire-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 382,
+        "Green": 348,
+        "White": 340,
+        "Gold": 310,
+        "Red": 304
+      },
+      "map": "palms-at-palm-aire-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 182,
+        "Green": 173,
+        "White": 165,
+        "Gold": 136,
+        "Red": 132
+      },
+      "map": "palms-at-palm-aire-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 539,
+        "Green": 503,
+        "White": 493,
+        "Gold": 429,
+        "Red": 422
+      },
+      "map": "palms-at-palm-aire-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 405,
+        "Green": 392,
+        "White": 377,
+        "Gold": 310,
+        "Red": 305
+      },
+      "map": "palms-at-palm-aire-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 203,
+        "Green": 186,
+        "White": 160,
+        "Gold": 137,
+        "Red": 130
+      },
+      "map": "palms-at-palm-aire-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 395,
+        "Green": 362,
+        "White": 355,
+        "Gold": 320,
+        "Red": 280
+      },
+      "map": "palms-at-palm-aire-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 420,
+        "Green": 412,
+        "White": 390,
+        "Gold": 318,
+        "Red": 313
+      },
+      "map": "palms-at-palm-aire-country-club-18"
+    }
+  ],
+  "version": 1
+}

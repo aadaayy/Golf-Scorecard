@@ -1,0 +1,231 @@
+{
+  "id": "naples-national-golf-club",
+  "name": "Naples National Golf Club",
+  "town": "Naples, FL",
+  "tees": [
+    "Championship",
+    "Back",
+    "Member",
+    "Middle",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 385,
+        "Back": 361,
+        "Member": 348,
+        "Middle": 329,
+        "Forward": 319
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Championship": 582,
+        "Back": 541,
+        "Member": 515,
+        "Middle": 486,
+        "Forward": 427
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 197,
+        "Back": 174,
+        "Member": 162,
+        "Middle": 127,
+        "Forward": 92
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Championship": 553,
+        "Back": 541,
+        "Member": 507,
+        "Middle": 465,
+        "Forward": 417
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 407,
+        "Back": 397,
+        "Member": 344,
+        "Middle": 313,
+        "Forward": 301
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 134,
+        "Back": 121,
+        "Member": 121,
+        "Middle": 94,
+        "Forward": 82
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship": 406,
+        "Back": 399,
+        "Member": 372,
+        "Middle": 362,
+        "Forward": 330
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 490,
+        "Back": 463,
+        "Member": 432,
+        "Middle": 385,
+        "Forward": 366
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 383,
+        "Back": 369,
+        "Member": 360,
+        "Middle": 346,
+        "Forward": 337
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 429,
+        "Back": 420,
+        "Member": 386,
+        "Middle": 376,
+        "Forward": 330
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 387,
+        "Back": 372,
+        "Member": 362,
+        "Middle": 349,
+        "Forward": 339
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 226,
+        "Back": 217,
+        "Member": 146,
+        "Middle": 140,
+        "Forward": 128
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 397,
+        "Back": 390,
+        "Member": 362,
+        "Middle": 337,
+        "Forward": 321
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 293,
+        "Back": 279,
+        "Member": 279,
+        "Middle": 247,
+        "Forward": 235
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Championship": 578,
+        "Back": 560,
+        "Member": 532,
+        "Middle": 491,
+        "Forward": 450
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 465,
+        "Back": 430,
+        "Member": 395,
+        "Middle": 385,
+        "Forward": 321
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 187,
+        "Back": 178,
+        "Member": 165,
+        "Middle": 148,
+        "Forward": 108
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Championship": 568,
+        "Back": 514,
+        "Member": 466,
+        "Middle": 450,
+        "Forward": 403
+      }
+    }
+  ],
+  "version": 1
+}

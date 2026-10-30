@@ -1,0 +1,230 @@
+{
+  "id": "burnt-pine-at-sandestin-golf-and-beach-resort",
+  "name": "Burnt Pine At Sandestin Golf And Beach Resort",
+  "town": "Miramar Beach, FL",
+  "tees": [
+    "#1",
+    "#2",
+    "#3",
+    "#4"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "#1": 395,
+        "#2": 355,
+        "#3": 302,
+        "#4": 270
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "#1": 569,
+        "#2": 543,
+        "#3": 519,
+        "#4": 445
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "#1": 185,
+        "#2": 160,
+        "#3": 132,
+        "#4": 93
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "#1": 448,
+        "#2": 420,
+        "#3": 389,
+        "#4": 339
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "#1": 542,
+        "#2": 504,
+        "#3": 466,
+        "#4": 424
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "#1": 202,
+        "#2": 188,
+        "#3": 171,
+        "#4": 137
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "#1": 427,
+        "#2": 404,
+        "#3": 379,
+        "#4": 345
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "#1": 348,
+        "#2": 323,
+        "#3": 298,
+        "#4": 247
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "#1": 403,
+        "#2": 369,
+        "#3": 322,
+        "#4": 291
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "#1": 405,
+        "#2": 376,
+        "#3": 342,
+        "#4": 268
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "#1": 371,
+        "#2": 339,
+        "#3": 311,
+        "#4": 289
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "#1": 153,
+        "#2": 141,
+        "#3": 125,
+        "#4": 98
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "#1": 425,
+        "#2": 398,
+        "#3": 370,
+        "#4": 335
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "#1": 214,
+        "#2": 197,
+        "#3": 165,
+        "#4": 116
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "#1": 423,
+        "#2": 350,
+        "#3": 320,
+        "#4": 284
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "#1": 511,
+        "#2": 483,
+        "#3": 455,
+        "#4": 403
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "#1": 383,
+        "#2": 358,
+        "#3": 339,
+        "#4": 291
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "#1": 576,
+        "#2": 545,
+        "#3": 505,
+        "#4": 440
+      },
+      "map": "burnt-pine-at-sandestin-golf-and-beach-resort-18"
+    }
+  ],
+  "version": 1
+}

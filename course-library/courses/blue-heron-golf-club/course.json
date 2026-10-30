@@ -1,0 +1,212 @@
+{
+  "id": "blue-heron-golf-club",
+  "name": "Blue Heron Golf Club",
+  "town": "Punta Gorda, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 417,
+        "Blue": 408,
+        "White": 381,
+        "Red": 353
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 367,
+        "Blue": 356,
+        "White": 298,
+        "Red": 215
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 570,
+        "Blue": 551,
+        "White": 533,
+        "Red": 244
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 491,
+        "Blue": 467,
+        "White": 430,
+        "Red": 414
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 157,
+        "Blue": 147,
+        "White": 138,
+        "Red": 127
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 312,
+        "Blue": 294,
+        "White": 279,
+        "Red": 206
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 131,
+        "Blue": 111,
+        "White": 100,
+        "Red": 72
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 524,
+        "Blue": 500,
+        "White": 487,
+        "Red": 458
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 173,
+        "Blue": 162,
+        "White": 151,
+        "Red": 136
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 330,
+        "Blue": 320,
+        "White": 303,
+        "Red": 240
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Gold": 93,
+        "Blue": 89,
+        "White": 85,
+        "Red": 74
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 150,
+        "Blue": 146,
+        "White": 141,
+        "Red": 109
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 305,
+        "Blue": 253,
+        "White": 236,
+        "Red": 206
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 240,
+        "Blue": 234,
+        "White": 225,
+        "Red": 215
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 127,
+        "Blue": 120,
+        "White": 93,
+        "Red": 73
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 402,
+        "Blue": 391,
+        "White": 380,
+        "Red": 300
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 240,
+        "Blue": 230,
+        "White": 212,
+        "Red": 159
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 539,
+        "Blue": 513,
+        "White": 499,
+        "Red": 385
+      }
+    }
+  ],
+  "version": 1
+}

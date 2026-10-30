@@ -1,0 +1,193 @@
+{
+  "id": "palmetto-golf-course",
+  "name": "Palmetto Golf Course",
+  "town": "Palmetto Bay, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 536,
+        "White": 489,
+        "Red": 399
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 420,
+        "White": 405,
+        "Red": 299
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 427,
+        "White": 412,
+        "Red": 325
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 317,
+        "White": 292,
+        "Red": 193
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 188,
+        "White": 165,
+        "Red": 115
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 364,
+        "White": 338,
+        "Red": 260
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 171,
+        "White": 155,
+        "Red": 108
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 431,
+        "White": 385,
+        "Red": 311
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 523,
+        "White": 504,
+        "Red": 388
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 399,
+        "White": 387,
+        "Red": 303
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 197,
+        "White": 181,
+        "Red": 120
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 444,
+        "White": 412,
+        "Red": 310
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 377,
+        "White": 357,
+        "Red": 280
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 355,
+        "White": 330,
+        "Red": 235
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 397,
+        "White": 386,
+        "Red": 278
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 384,
+        "White": 364,
+        "Red": 307
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 172,
+        "White": 150,
+        "Red": 104
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 430,
+        "White": 412,
+        "Red": 295
+      }
+    }
+  ],
+  "version": 1
+}

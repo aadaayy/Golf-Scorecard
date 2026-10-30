@@ -1,0 +1,212 @@
+{
+  "id": "north-at-bay-palms-golf-complex",
+  "name": "North At Bay Palms Golf Complex",
+  "town": "Tampa, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Blue": 503,
+        "White": 493,
+        "Gold": 402,
+        "Red": 397
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 160,
+        "White": 150,
+        "Gold": 145,
+        "Red": 140
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 496,
+        "White": 476,
+        "Gold": 467,
+        "Red": 462
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 400,
+        "White": 392,
+        "Gold": 378,
+        "Red": 373
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 170,
+        "White": 164,
+        "Gold": 152,
+        "Red": 147
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 315,
+        "White": 305,
+        "Gold": 292,
+        "Red": 285
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 348,
+        "White": 338,
+        "Gold": 330,
+        "Red": 325
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 383,
+        "White": 375,
+        "Gold": 368,
+        "Red": 363
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 388,
+        "White": 371,
+        "Gold": 293,
+        "Red": 288
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 506,
+        "White": 481,
+        "Gold": 418,
+        "Red": 410
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 397,
+        "White": 380,
+        "Gold": 370,
+        "Red": 365
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 354,
+        "White": 340,
+        "Gold": 325,
+        "Red": 320
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Blue": 484,
+        "White": 466,
+        "Gold": 451,
+        "Red": 396
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 162,
+        "White": 145,
+        "Gold": 126,
+        "Red": 121
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 368,
+        "White": 353,
+        "Gold": 336,
+        "Red": 331
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 388,
+        "White": 373,
+        "Gold": 275,
+        "Red": 269
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 210,
+        "White": 189,
+        "Gold": 115,
+        "Red": 110
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 414,
+        "White": 392,
+        "Gold": 304,
+        "Red": 299
+      }
+    }
+  ],
+  "version": 1
+}

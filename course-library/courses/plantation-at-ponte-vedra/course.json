@@ -1,0 +1,269 @@
+{
+  "id": "plantation-at-ponte-vedra",
+  "name": "Plantation At Ponte Vedra",
+  "town": "Ponte Vedra Beach, FL",
+  "tees": [
+    "Black",
+    "Blue/Green",
+    "Green",
+    "Green/Gold",
+    "Gold",
+    "Silver",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 539,
+        "Blue/Green": 510,
+        "Green": 485,
+        "Green/Gold": 446,
+        "Gold": 446,
+        "Silver": 406,
+        "Forward": 337
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 435,
+        "Blue/Green": 387,
+        "Green": 351,
+        "Green/Gold": 351,
+        "Gold": 338,
+        "Silver": 296,
+        "Forward": 243
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 206,
+        "Blue/Green": 166,
+        "Green": 145,
+        "Green/Gold": 145,
+        "Gold": 112,
+        "Silver": 94,
+        "Forward": 90
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 486,
+        "Blue/Green": 407,
+        "Green": 370,
+        "Green/Gold": 356,
+        "Gold": 356,
+        "Silver": 300,
+        "Forward": 271
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 540,
+        "Blue/Green": 515,
+        "Green": 492,
+        "Green/Gold": 492,
+        "Gold": 470,
+        "Silver": 417,
+        "Forward": 384
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 426,
+        "Blue/Green": 402,
+        "Green": 390,
+        "Green/Gold": 337,
+        "Gold": 337,
+        "Silver": 327,
+        "Forward": 305
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 178,
+        "Blue/Green": 170,
+        "Green": 159,
+        "Green/Gold": 145,
+        "Gold": 145,
+        "Silver": 123,
+        "Forward": 91
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 479,
+        "Blue/Green": 421,
+        "Green": 385,
+        "Green/Gold": 342,
+        "Gold": 342,
+        "Silver": 311,
+        "Forward": 279
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 390,
+        "Blue/Green": 380,
+        "Green": 365,
+        "Green/Gold": 365,
+        "Gold": 337,
+        "Silver": 295,
+        "Forward": 268
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 408,
+        "Blue/Green": 385,
+        "Green": 350,
+        "Green/Gold": 350,
+        "Gold": 325,
+        "Silver": 295,
+        "Forward": 286
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 382,
+        "Blue/Green": 364,
+        "Green": 352,
+        "Green/Gold": 352,
+        "Gold": 337,
+        "Silver": 324,
+        "Forward": 297
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 200,
+        "Blue/Green": 181,
+        "Green": 149,
+        "Green/Gold": 130,
+        "Gold": 130,
+        "Silver": 110,
+        "Forward": 104
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 421,
+        "Blue/Green": 407,
+        "Green": 380,
+        "Green/Gold": 337,
+        "Gold": 337,
+        "Silver": 300,
+        "Forward": 270
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 563,
+        "Blue/Green": 532,
+        "Green": 503,
+        "Green/Gold": 482,
+        "Gold": 482,
+        "Silver": 413,
+        "Forward": 377
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 382,
+        "Blue/Green": 340,
+        "Green": 315,
+        "Green/Gold": 315,
+        "Gold": 283,
+        "Silver": 235,
+        "Forward": 210
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 206,
+        "Blue/Green": 168,
+        "Green": 142,
+        "Green/Gold": 142,
+        "Gold": 122,
+        "Silver": 89,
+        "Forward": 96
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 407,
+        "Blue/Green": 375,
+        "Green": 360,
+        "Green/Gold": 326,
+        "Gold": 326,
+        "Silver": 277,
+        "Forward": 256
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 493,
+        "Blue/Green": 488,
+        "Green": 465,
+        "Green/Gold": 465,
+        "Gold": 441,
+        "Silver": 407,
+        "Forward": 401
+      }
+    }
+  ],
+  "version": 1
+}

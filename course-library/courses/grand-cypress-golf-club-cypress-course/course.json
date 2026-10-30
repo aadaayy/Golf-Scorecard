@@ -1,0 +1,212 @@
+{
+  "id": "grand-cypress-golf-club-cypress-course",
+  "name": "Grand Cypress Golf Club Cypress Course",
+  "town": "Orlando, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Blended 2",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 362,
+        "White": 347,
+        "Blended 2": 347,
+        "Red": 332
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 514,
+        "White": 456,
+        "Blended 2": 456,
+        "Red": 383
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 179,
+        "White": 147,
+        "Blended 2": 147,
+        "Red": 116
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 440,
+        "White": 406,
+        "Blended 2": 329,
+        "Red": 329
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 393,
+        "White": 368,
+        "Blended 2": 368,
+        "Red": 304
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 496,
+        "White": 465,
+        "Blended 2": 427,
+        "Red": 427
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 182,
+        "White": 164,
+        "Blended 2": 132,
+        "Red": 132
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 440,
+        "White": 425,
+        "Blended 2": 340,
+        "Red": 340
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 382,
+        "White": 322,
+        "Blended 2": 322,
+        "Red": 309
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 330,
+        "White": 275,
+        "Blended 2": 275,
+        "Red": 252
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 430,
+        "White": 387,
+        "Blended 2": 387,
+        "Red": 301
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 207,
+        "White": 189,
+        "Blended 2": 158,
+        "Red": 158
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 431,
+        "White": 389,
+        "Blended 2": 296,
+        "Red": 296
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 371,
+        "White": 323,
+        "Blended 2": 323,
+        "Red": 291
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 570,
+        "White": 544,
+        "Blended 2": 491,
+        "Red": 491
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 190,
+        "White": 171,
+        "Blended 2": 136,
+        "Red": 136
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 485,
+        "White": 453,
+        "Blended 2": 453,
+        "Red": 410
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 371,
+        "White": 350,
+        "Blended 2": 350,
+        "Red": 307
+      }
+    }
+  ],
+  "version": 1
+}

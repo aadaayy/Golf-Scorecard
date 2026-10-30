@@ -1,0 +1,103 @@
+{
+  "id": "belmont-at-the-villages-executive-golf-trail",
+  "name": "Belmont At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 151,
+        "Gold": 116,
+        "Green": 95
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 170,
+        "Gold": 158,
+        "Green": 132
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 121,
+        "Gold": 85,
+        "Green": 67
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 371,
+        "Gold": 304,
+        "Green": 267
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 168,
+        "Gold": 149,
+        "Green": 109
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 158,
+        "Gold": 108,
+        "Green": 69
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 215,
+        "Gold": 170,
+        "Green": 136
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 186,
+        "Gold": 147,
+        "Green": 117
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 152,
+        "Gold": 121,
+        "Green": 71
+      }
+    }
+  ],
+  "version": 1
+}

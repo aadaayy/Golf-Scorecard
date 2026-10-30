@@ -1,0 +1,103 @@
+{
+  "id": "cypress-point-rv-golf-club",
+  "name": "Cypress Point Rv Golf Club",
+  "town": "Osteen, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 296,
+        "White": 245,
+        "Red": 220
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 109,
+        "White": 104,
+        "Red": 100
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 256,
+        "White": 245,
+        "Red": 235
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 238,
+        "White": 230,
+        "Red": 205
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 245,
+        "White": 230,
+        "Red": 205
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 118,
+        "White": 115,
+        "Red": 100
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 143,
+        "White": 130,
+        "Red": 125
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 276,
+        "White": 231,
+        "Red": 225
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 295,
+        "White": 282,
+        "Red": 228
+      }
+    }
+  ],
+  "version": 1
+}

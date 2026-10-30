@@ -1,0 +1,287 @@
+{
+  "id": "tuscawilla-golf-course",
+  "name": "Tuscawilla Golf Course",
+  "town": "Winter Springs, FL",
+  "tees": [
+    "Tournament",
+    "Joe Lee",
+    "Member",
+    "Member/Club",
+    "Club",
+    "Club/Forward",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tournament": 405,
+        "Joe Lee": 382,
+        "Member": 368,
+        "Member/Club": 368,
+        "Club": 354,
+        "Club/Forward": 286,
+        "Forward": 286
+      },
+      "map": "tuscawilla-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Tournament": 537,
+        "Joe Lee": 524,
+        "Member": 505,
+        "Member/Club": 452,
+        "Club": 452,
+        "Club/Forward": 452,
+        "Forward": 318
+      },
+      "map": "tuscawilla-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tournament": 145,
+        "Joe Lee": 136,
+        "Member": 125,
+        "Member/Club": 125,
+        "Club": 114,
+        "Club/Forward": 114,
+        "Forward": 93
+      },
+      "map": "tuscawilla-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tournament": 394,
+        "Joe Lee": 384,
+        "Member": 371,
+        "Member/Club": 358,
+        "Club": 358,
+        "Club/Forward": 266,
+        "Forward": 266
+      },
+      "map": "tuscawilla-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Tournament": 355,
+        "Joe Lee": 344,
+        "Member": 329,
+        "Member/Club": 329,
+        "Club": 314,
+        "Club/Forward": 314,
+        "Forward": 253
+      },
+      "map": "tuscawilla-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Tournament": 187,
+        "Joe Lee": 164,
+        "Member": 148,
+        "Member/Club": 148,
+        "Club": 136,
+        "Club/Forward": 126,
+        "Forward": 126
+      },
+      "map": "tuscawilla-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Tournament": 529,
+        "Joe Lee": 511,
+        "Member": 491,
+        "Member/Club": 491,
+        "Club": 406,
+        "Club/Forward": 406,
+        "Forward": 362
+      },
+      "map": "tuscawilla-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tournament": 415,
+        "Joe Lee": 386,
+        "Member": 373,
+        "Member/Club": 360,
+        "Club": 360,
+        "Club/Forward": 246,
+        "Forward": 246
+      },
+      "map": "tuscawilla-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tournament": 392,
+        "Joe Lee": 383,
+        "Member": 371,
+        "Member/Club": 359,
+        "Club": 359,
+        "Club/Forward": 283,
+        "Forward": 283
+      },
+      "map": "tuscawilla-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tournament": 405,
+        "Joe Lee": 355,
+        "Member": 339,
+        "Member/Club": 339,
+        "Club": 260,
+        "Club/Forward": 260,
+        "Forward": 178
+      },
+      "map": "tuscawilla-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Tournament": 528,
+        "Joe Lee": 492,
+        "Member": 474,
+        "Member/Club": 474,
+        "Club": 416,
+        "Club/Forward": 416,
+        "Forward": 411
+      },
+      "map": "tuscawilla-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tournament": 380,
+        "Joe Lee": 368,
+        "Member": 352,
+        "Member/Club": 352,
+        "Club": 336,
+        "Club/Forward": 280,
+        "Forward": 280
+      },
+      "map": "tuscawilla-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Tournament": 210,
+        "Joe Lee": 191,
+        "Member": 167,
+        "Member/Club": 167,
+        "Club": 134,
+        "Club/Forward": 134,
+        "Forward": 103
+      },
+      "map": "tuscawilla-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tournament": 416,
+        "Joe Lee": 381,
+        "Member": 363,
+        "Member/Club": 325,
+        "Club": 325,
+        "Club/Forward": 325,
+        "Forward": 296
+      },
+      "map": "tuscawilla-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Tournament": 336,
+        "Joe Lee": 326,
+        "Member": 313,
+        "Member/Club": 313,
+        "Club": 300,
+        "Club/Forward": 300,
+        "Forward": 232
+      },
+      "map": "tuscawilla-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tournament": 190,
+        "Joe Lee": 180,
+        "Member": 168,
+        "Member/Club": 168,
+        "Club": 155,
+        "Club/Forward": 110,
+        "Forward": 110
+      },
+      "map": "tuscawilla-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Tournament": 570,
+        "Joe Lee": 545,
+        "Member": 530,
+        "Member/Club": 414,
+        "Club": 414,
+        "Club/Forward": 414,
+        "Forward": 407
+      },
+      "map": "tuscawilla-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tournament": 403,
+        "Joe Lee": 388,
+        "Member": 366,
+        "Member/Club": 312,
+        "Club": 312,
+        "Club/Forward": 312,
+        "Forward": 250
+      },
+      "map": "tuscawilla-golf-course-18"
+    }
+  ],
+  "version": 1
+}

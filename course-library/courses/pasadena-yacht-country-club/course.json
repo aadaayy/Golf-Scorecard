@@ -1,0 +1,268 @@
+{
+  "id": "pasadena-yacht-country-club",
+  "name": "Pasadena Yacht Country Club",
+  "town": "Gulfport, FL",
+  "tees": [
+    "Black",
+    "White",
+    "Gold",
+    "Red",
+    "Red/Green",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 429,
+        "White": 395,
+        "Gold": 374,
+        "Red": 370,
+        "Red/Green": 370,
+        "Green": 212
+      },
+      "map": "pasadena-yacht-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 135,
+        "White": 127,
+        "Gold": 127,
+        "Red": 121,
+        "Red/Green": 121,
+        "Green": 66
+      },
+      "map": "pasadena-yacht-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 485,
+        "White": 475,
+        "Gold": 415,
+        "Red": 366,
+        "Red/Green": 278,
+        "Green": 278
+      },
+      "map": "pasadena-yacht-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 429,
+        "White": 395,
+        "Gold": 372,
+        "Red": 305,
+        "Red/Green": 224,
+        "Green": 224
+      },
+      "map": "pasadena-yacht-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 578,
+        "White": 515,
+        "Gold": 426,
+        "Red": 411,
+        "Red/Green": 411,
+        "Green": 274
+      },
+      "map": "pasadena-yacht-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 375,
+        "White": 346,
+        "Gold": 346,
+        "Red": 319,
+        "Red/Green": 213,
+        "Green": 213
+      },
+      "map": "pasadena-yacht-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 435,
+        "White": 370,
+        "Gold": 338,
+        "Red": 328,
+        "Red/Green": 328,
+        "Green": 211
+      },
+      "map": "pasadena-yacht-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 154,
+        "White": 124,
+        "Gold": 124,
+        "Red": 104,
+        "Red/Green": 104,
+        "Green": 68
+      },
+      "map": "pasadena-yacht-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 301,
+        "White": 284,
+        "Gold": 284,
+        "Red": 273,
+        "Red/Green": 210,
+        "Green": 210
+      },
+      "map": "pasadena-yacht-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 330,
+        "White": 275,
+        "Gold": 275,
+        "Red": 265,
+        "Red/Green": 265,
+        "Green": 194
+      },
+      "map": "pasadena-yacht-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 135,
+        "White": 122,
+        "Gold": 122,
+        "Red": 112,
+        "Red/Green": 112,
+        "Green": 61
+      },
+      "map": "pasadena-yacht-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 495,
+        "White": 472,
+        "Gold": 472,
+        "Red": 426,
+        "Red/Green": 285,
+        "Green": 285
+      },
+      "map": "pasadena-yacht-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 440,
+        "White": 370,
+        "Gold": 355,
+        "Red": 340,
+        "Red/Green": 218,
+        "Green": 218
+      },
+      "map": "pasadena-yacht-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 519,
+        "White": 449,
+        "Gold": 414,
+        "Red": 385,
+        "Red/Green": 385,
+        "Green": 258
+      },
+      "map": "pasadena-yacht-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 330,
+        "White": 309,
+        "Gold": 309,
+        "Red": 300,
+        "Red/Green": 300,
+        "Green": 216
+      },
+      "map": "pasadena-yacht-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 155,
+        "White": 138,
+        "Gold": 138,
+        "Red": 122,
+        "Red/Green": 82,
+        "Green": 82
+      },
+      "map": "pasadena-yacht-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 350,
+        "White": 329,
+        "Gold": 329,
+        "Red": 317,
+        "Red/Green": 218,
+        "Green": 218
+      },
+      "map": "pasadena-yacht-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 407,
+        "White": 362,
+        "Gold": 289,
+        "Red": 283,
+        "Red/Green": 283,
+        "Green": 183
+      },
+      "map": "pasadena-yacht-country-club-18"
+    }
+  ],
+  "version": 1
+}

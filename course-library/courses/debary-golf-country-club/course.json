@@ -1,0 +1,230 @@
+{
+  "id": "debary-golf-country-club",
+  "name": "Debary Golf Country Club",
+  "town": "DeBary, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Grey",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 507,
+        "White": 486,
+        "Grey": 460,
+        "Red": 400
+      },
+      "map": "debary-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 178,
+        "White": 161,
+        "Grey": 150,
+        "Red": 130
+      },
+      "map": "debary-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 372,
+        "White": 341,
+        "Grey": 327,
+        "Red": 262
+      },
+      "map": "debary-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 367,
+        "White": 328,
+        "Grey": 307,
+        "Red": 252
+      },
+      "map": "debary-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 415,
+        "White": 387,
+        "Grey": 357,
+        "Red": 297
+      },
+      "map": "debary-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 542,
+        "White": 514,
+        "Grey": 496,
+        "Red": 440
+      },
+      "map": "debary-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 179,
+        "White": 154,
+        "Grey": 139,
+        "Red": 100
+      },
+      "map": "debary-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 362,
+        "White": 336,
+        "Grey": 321,
+        "Red": 263
+      },
+      "map": "debary-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 382,
+        "White": 365,
+        "Grey": 354,
+        "Red": 310
+      },
+      "map": "debary-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 394,
+        "White": 369,
+        "Grey": 350,
+        "Red": 310
+      },
+      "map": "debary-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 523,
+        "White": 492,
+        "Grey": 475,
+        "Red": 427
+      },
+      "map": "debary-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 183,
+        "White": 160,
+        "Grey": 144,
+        "Red": 116
+      },
+      "map": "debary-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 383,
+        "White": 357,
+        "Grey": 333,
+        "Red": 299
+      },
+      "map": "debary-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 417,
+        "White": 395,
+        "Grey": 369,
+        "Red": 304
+      },
+      "map": "debary-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 373,
+        "White": 340,
+        "Grey": 307,
+        "Red": 274
+      },
+      "map": "debary-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 536,
+        "White": 511,
+        "Grey": 480,
+        "Red": 437
+      },
+      "map": "debary-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 174,
+        "White": 156,
+        "Grey": 140,
+        "Red": 115
+      },
+      "map": "debary-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 414,
+        "White": 390,
+        "Grey": 367,
+        "Red": 342
+      },
+      "map": "debary-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

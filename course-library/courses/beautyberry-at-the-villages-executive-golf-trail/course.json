@@ -1,0 +1,103 @@
+{
+  "id": "beautyberry-at-the-villages-executive-golf-trail",
+  "name": "Beautyberry At The Villages Executive Golf Trail",
+  "town": "Wildwood, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 134,
+        "Gold": 104,
+        "Green": 76
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 152,
+        "Gold": 124,
+        "Green": 92
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 396,
+        "Gold": 358,
+        "Green": 312
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 357,
+        "Gold": 320,
+        "Green": 259
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 165,
+        "Gold": 122,
+        "Green": 87
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 199,
+        "Gold": 176,
+        "Green": 144
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 170,
+        "Gold": 142,
+        "Green": 111
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 162,
+        "Gold": 132,
+        "Green": 99
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 155,
+        "Gold": 130,
+        "Green": 97
+      }
+    }
+  ],
+  "version": 1
+}

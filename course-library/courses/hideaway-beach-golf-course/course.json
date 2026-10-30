@@ -1,0 +1,83 @@
+{
+  "id": "hideaway-beach-golf-course",
+  "name": "Hideaway Beach Golf Course",
+  "town": "Marco Island, FL",
+  "tees": [
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Forward": 78
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Forward": 199
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Forward": 97
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Forward": 244
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Forward": 209
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Forward": 250
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Forward": 102
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Forward": 232
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Forward": 92
+      }
+    }
+  ],
+  "version": 1
+}

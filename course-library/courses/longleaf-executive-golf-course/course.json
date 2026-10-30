@@ -1,0 +1,103 @@
+{
+  "id": "longleaf-executive-golf-course",
+  "name": "Longleaf Executive Golf Course",
+  "town": "The Villages, FL",
+  "tees": [
+    "Blue",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 163,
+        "Gold": 142,
+        "Red": 100
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 138,
+        "Gold": 114,
+        "Red": 93
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 366,
+        "Gold": 358,
+        "Red": 299
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 152,
+        "Gold": 130,
+        "Red": 79
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 166,
+        "Gold": 151,
+        "Red": 97
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 153,
+        "Gold": 132,
+        "Red": 77
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 189,
+        "Gold": 159,
+        "Red": 78
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 167,
+        "Gold": 146,
+        "Red": 98
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 167,
+        "Gold": 143,
+        "Red": 62
+      }
+    }
+  ],
+  "version": 1
+}

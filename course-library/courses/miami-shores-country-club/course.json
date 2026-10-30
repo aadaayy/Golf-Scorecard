@@ -1,0 +1,230 @@
+{
+  "id": "miami-shores-country-club",
+  "name": "Miami Shores Country Club",
+  "town": "Miami Shores, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 530,
+        "White": 520,
+        "Gold": 461,
+        "Red": 400
+      },
+      "map": "miami-shores-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 155,
+        "White": 145,
+        "Gold": 115,
+        "Red": 100
+      },
+      "map": "miami-shores-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 365,
+        "White": 355,
+        "Gold": 317,
+        "Red": 257
+      },
+      "map": "miami-shores-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 380,
+        "White": 370,
+        "Gold": 330,
+        "Red": 320
+      },
+      "map": "miami-shores-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 432,
+        "White": 422,
+        "Gold": 372,
+        "Red": 362
+      },
+      "map": "miami-shores-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 422,
+        "White": 412,
+        "Gold": 363,
+        "Red": 288
+      },
+      "map": "miami-shores-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 598,
+        "White": 515,
+        "Gold": 438,
+        "Red": 400
+      },
+      "map": "miami-shores-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 186,
+        "White": 160,
+        "Gold": 143,
+        "Red": 133
+      },
+      "map": "miami-shores-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 155,
+        "White": 145,
+        "Gold": 116,
+        "Red": 108
+      },
+      "map": "miami-shores-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 328,
+        "White": 318,
+        "Gold": 300,
+        "Red": 292
+      },
+      "map": "miami-shores-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 391,
+        "White": 317,
+        "Gold": 310,
+        "Red": 300
+      },
+      "map": "miami-shores-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 361,
+        "White": 332,
+        "Gold": 268,
+        "Red": 250
+      },
+      "map": "miami-shores-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 502,
+        "White": 492,
+        "Gold": 435,
+        "Red": 384
+      },
+      "map": "miami-shores-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 417,
+        "White": 407,
+        "Gold": 348,
+        "Red": 320
+      },
+      "map": "miami-shores-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 419,
+        "White": 409,
+        "Gold": 324,
+        "Red": 310
+      },
+      "map": "miami-shores-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 416,
+        "White": 406,
+        "Gold": 358,
+        "Red": 348
+      },
+      "map": "miami-shores-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 233,
+        "White": 180,
+        "Gold": 155,
+        "Red": 149
+      },
+      "map": "miami-shores-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 415,
+        "White": 405,
+        "Gold": 358,
+        "Red": 310
+      },
+      "map": "miami-shores-country-club-18"
+    }
+  ],
+  "version": 1
+}

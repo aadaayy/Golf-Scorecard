@@ -1,0 +1,112 @@
+{
+  "id": "sweetgum-at-the-villages-executive-golf-trail",
+  "name": "Sweetgum At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 174,
+        "Gold": 149,
+        "Green": 124
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 166,
+        "Gold": 162,
+        "Green": 135
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 114,
+        "Gold": 85,
+        "Green": 68
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 158,
+        "Gold": 135,
+        "Green": 112
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 367,
+        "Gold": 340,
+        "Green": 316
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 132,
+        "Gold": 102,
+        "Green": 90
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 141,
+        "Gold": 130,
+        "Green": 99
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 198,
+        "Gold": 174,
+        "Green": 164
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 132,
+        "Gold": 100,
+        "Green": 76
+      },
+      "map": "sweetgum-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

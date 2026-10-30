@@ -1,0 +1,231 @@
+{
+  "id": "north-at-fountains-country-club",
+  "name": "North At Fountains Country Club",
+  "town": "Greenacres, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Black",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 522,
+        "Blue": 502,
+        "White": 471,
+        "Black": 378,
+        "Red": 367
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 391,
+        "Blue": 372,
+        "White": 343,
+        "Black": 319,
+        "Red": 305
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 548,
+        "Blue": 524,
+        "White": 495,
+        "Black": 403,
+        "Red": 374
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 442,
+        "Blue": 419,
+        "White": 389,
+        "Black": 320,
+        "Red": 305
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 180,
+        "Blue": 165,
+        "White": 145,
+        "Black": 127,
+        "Red": 115
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 433,
+        "Blue": 396,
+        "White": 372,
+        "Black": 341,
+        "Red": 328
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 396,
+        "Blue": 371,
+        "White": 347,
+        "Black": 324,
+        "Red": 308
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 200,
+        "Blue": 177,
+        "White": 156,
+        "Black": 135,
+        "Red": 122
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 441,
+        "Blue": 415,
+        "White": 384,
+        "Black": 340,
+        "Red": 326
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 413,
+        "Blue": 395,
+        "White": 374,
+        "Black": 356,
+        "Red": 345
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 468,
+        "Blue": 450,
+        "White": 433,
+        "Black": 415,
+        "Red": 404
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 179,
+        "Blue": 161,
+        "White": 145,
+        "Black": 128,
+        "Red": 117
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 411,
+        "Blue": 394,
+        "White": 374,
+        "Black": 370,
+        "Red": 359
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 427,
+        "Blue": 410,
+        "White": 389,
+        "Black": 285,
+        "Red": 270
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 412,
+        "Blue": 385,
+        "White": 364,
+        "Black": 348,
+        "Red": 334
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 442,
+        "Blue": 418,
+        "White": 395,
+        "Black": 360,
+        "Red": 375
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 387,
+        "Blue": 370,
+        "White": 355,
+        "Black": 335,
+        "Red": 322
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 184,
+        "Blue": 167,
+        "White": 147,
+        "Black": 129,
+        "Red": 118
+      }
+    }
+  ],
+  "version": 1
+}

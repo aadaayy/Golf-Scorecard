@@ -1,0 +1,103 @@
+{
+  "id": "the-greens-at-churchill-s",
+  "name": "The Greens At Churchill S",
+  "town": "The Villages, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 482,
+        "White": 475,
+        "Red": 430
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 151,
+        "White": 141,
+        "Red": 109
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 354,
+        "White": 349,
+        "Red": 345
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 489,
+        "White": 484,
+        "Red": 373
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 158,
+        "White": 149,
+        "Red": 112
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 441,
+        "White": 435,
+        "Red": 427
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 342,
+        "White": 337,
+        "Red": 274
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 294,
+        "White": 289,
+        "Red": 284
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 356,
+        "White": 350,
+        "Red": 343
+      }
+    }
+  ],
+  "version": 1
+}

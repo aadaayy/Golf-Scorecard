@@ -1,0 +1,231 @@
+{
+  "id": "bay-hill-club-lodge-championship-course",
+  "name": "Bay Hill Club Lodge Championship Course",
+  "town": "Orlando, FL",
+  "tees": [
+    "Green",
+    "Blue",
+    "Yellow",
+    "Red",
+    "White"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Green": 459,
+        "Blue": 436,
+        "Yellow": 413,
+        "Red": 380,
+        "White": 360
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Green": 230,
+        "Blue": 218,
+        "Yellow": 198,
+        "Red": 183,
+        "White": 149
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Green": 435,
+        "Blue": 404,
+        "Yellow": 371,
+        "Red": 321,
+        "White": 232
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Green": 569,
+        "Blue": 496,
+        "Yellow": 466,
+        "Red": 441,
+        "White": 398
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Green": 384,
+        "Blue": 364,
+        "Yellow": 346,
+        "Red": 328,
+        "White": 314
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Green": 589,
+        "Blue": 542,
+        "Yellow": 504,
+        "Red": 445,
+        "White": 398
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Green": 196,
+        "Blue": 181,
+        "Yellow": 160,
+        "Red": 134,
+        "White": 104
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Green": 456,
+        "Blue": 406,
+        "Yellow": 369,
+        "Red": 343,
+        "White": 263
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Green": 481,
+        "Blue": 447,
+        "Yellow": 412,
+        "Red": 395,
+        "White": 363
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Green": 397,
+        "Blue": 382,
+        "Yellow": 359,
+        "Red": 332,
+        "White": 291
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Green": 436,
+        "Blue": 406,
+        "Yellow": 394,
+        "Red": 368,
+        "White": 319
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Green": 573,
+        "Blue": 563,
+        "Yellow": 537,
+        "Red": 490,
+        "White": 435
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Green": 371,
+        "Blue": 355,
+        "Yellow": 335,
+        "Red": 315,
+        "White": 255
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Green": 216,
+        "Blue": 180,
+        "Yellow": 163,
+        "Red": 139,
+        "White": 122
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Green": 427,
+        "Blue": 412,
+        "Yellow": 391,
+        "Red": 337,
+        "White": 318
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Green": 510,
+        "Blue": 491,
+        "Yellow": 454,
+        "Red": 400,
+        "White": 354
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Green": 220,
+        "Blue": 174,
+        "Yellow": 163,
+        "Red": 149,
+        "White": 144
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 460,
+        "Blue": 440,
+        "Yellow": 406,
+        "Red": 349,
+        "White": 312
+      }
+    }
+  ],
+  "version": 1
+}

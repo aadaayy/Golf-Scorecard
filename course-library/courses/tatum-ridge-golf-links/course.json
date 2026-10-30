@@ -1,0 +1,268 @@
+{
+  "id": "tatum-ridge-golf-links",
+  "name": "Tatum Ridge Golf Links",
+  "town": "Sarasota, FL",
+  "tees": [
+    "Blue",
+    "Gold",
+    "Gold/White",
+    "White",
+    "White/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 344,
+        "Gold": 327,
+        "Gold/White": 327,
+        "White": 292,
+        "White/Red": 292,
+        "Red": 226
+      },
+      "map": "tatum-ridge-golf-links-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 367,
+        "Gold": 330,
+        "Gold/White": 330,
+        "White": 319,
+        "White/Red": 218,
+        "Red": 218
+      },
+      "map": "tatum-ridge-golf-links-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 136,
+        "Gold": 118,
+        "Gold/White": 118,
+        "White": 113,
+        "White/Red": 113,
+        "Red": 79
+      },
+      "map": "tatum-ridge-golf-links-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Blue": 488,
+        "Gold": 473,
+        "Gold/White": 430,
+        "White": 430,
+        "White/Red": 430,
+        "Red": 353
+      },
+      "map": "tatum-ridge-golf-links-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 400,
+        "Gold": 373,
+        "Gold/White": 334,
+        "White": 334,
+        "White/Red": 334,
+        "Red": 238
+      },
+      "map": "tatum-ridge-golf-links-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Blue": 493,
+        "Gold": 468,
+        "Gold/White": 468,
+        "White": 416,
+        "White/Red": 416,
+        "Red": 303
+      },
+      "map": "tatum-ridge-golf-links-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 166,
+        "Gold": 154,
+        "Gold/White": 154,
+        "White": 122,
+        "White/Red": 102,
+        "Red": 102
+      },
+      "map": "tatum-ridge-golf-links-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 367,
+        "Gold": 333,
+        "Gold/White": 333,
+        "White": 281,
+        "White/Red": 221,
+        "Red": 221
+      },
+      "map": "tatum-ridge-golf-links-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 415,
+        "Gold": 395,
+        "Gold/White": 356,
+        "White": 356,
+        "White/Red": 256,
+        "Red": 256
+      },
+      "map": "tatum-ridge-golf-links-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 389,
+        "Gold": 361,
+        "Gold/White": 361,
+        "White": 345,
+        "White/Red": 220,
+        "Red": 220
+      },
+      "map": "tatum-ridge-golf-links-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 173,
+        "Gold": 158,
+        "Gold/White": 120,
+        "White": 120,
+        "White/Red": 99,
+        "Red": 99
+      },
+      "map": "tatum-ridge-golf-links-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 380,
+        "Gold": 325,
+        "Gold/White": 325,
+        "White": 287,
+        "White/Red": 287,
+        "Red": 276
+      },
+      "map": "tatum-ridge-golf-links-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 522,
+        "Gold": 475,
+        "Gold/White": 475,
+        "White": 438,
+        "White/Red": 438,
+        "Red": 355
+      },
+      "map": "tatum-ridge-golf-links-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 323,
+        "Gold": 302,
+        "Gold/White": 302,
+        "White": 288,
+        "White/Red": 288,
+        "Red": 211
+      },
+      "map": "tatum-ridge-golf-links-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 531,
+        "Gold": 473,
+        "Gold/White": 449,
+        "White": 449,
+        "White/Red": 449,
+        "Red": 322
+      },
+      "map": "tatum-ridge-golf-links-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 404,
+        "Gold": 393,
+        "Gold/White": 326,
+        "White": 326,
+        "White/Red": 326,
+        "Red": 259
+      },
+      "map": "tatum-ridge-golf-links-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 211,
+        "Gold": 162,
+        "Gold/White": 162,
+        "White": 136,
+        "White/Red": 97,
+        "Red": 97
+      },
+      "map": "tatum-ridge-golf-links-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 415,
+        "Gold": 406,
+        "Gold/White": 369,
+        "White": 369,
+        "White/Red": 278,
+        "Red": 278
+      },
+      "map": "tatum-ridge-golf-links-18"
+    }
+  ],
+  "version": 1
+}

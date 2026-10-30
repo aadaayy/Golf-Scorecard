@@ -1,0 +1,326 @@
+{
+  "id": "twineagles-golf-country-club-talon-course",
+  "name": "Twineagles Golf Country Club Talon Course",
+  "town": "Naples, FL",
+  "tees": [
+    "Talon M",
+    "Tee I",
+    "Tee I/Ii",
+    "Tee Ii",
+    "Tee Ii/Iii",
+    "Tee Iii",
+    "Tee Iii/Iv",
+    "Tee Iv",
+    "Tee Iv/V",
+    "Tee V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Talon M": 426,
+        "Tee I": 391,
+        "Tee I/Ii": 391,
+        "Tee Ii": 362,
+        "Tee Ii/Iii": 362,
+        "Tee Iii": 325,
+        "Tee Iii/Iv": 300,
+        "Tee Iv": 300,
+        "Tee Iv/V": 249,
+        "Tee V": 249
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Talon M": 212,
+        "Tee I": 190,
+        "Tee I/Ii": 166,
+        "Tee Ii": 166,
+        "Tee Ii/Iii": 151,
+        "Tee Iii": 151,
+        "Tee Iii/Iv": 140,
+        "Tee Iv": 140,
+        "Tee Iv/V": 129,
+        "Tee V": 129
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Talon M": 574,
+        "Tee I": 540,
+        "Tee I/Ii": 491,
+        "Tee Ii": 491,
+        "Tee Ii/Iii": 491,
+        "Tee Iii": 447,
+        "Tee Iii/Iv": 422,
+        "Tee Iv": 422,
+        "Tee Iv/V": 392,
+        "Tee V": 392
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Talon M": 413,
+        "Tee I": 363,
+        "Tee I/Ii": 363,
+        "Tee Ii": 340,
+        "Tee Ii/Iii": 340,
+        "Tee Iii": 327,
+        "Tee Iii/Iv": 327,
+        "Tee Iv": 293,
+        "Tee Iv/V": 293,
+        "Tee V": 213
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Talon M": 176,
+        "Tee I": 166,
+        "Tee I/Ii": 166,
+        "Tee Ii": 152,
+        "Tee Ii/Iii": 138,
+        "Tee Iii": 138,
+        "Tee Iii/Iv": 138,
+        "Tee Iv": 120,
+        "Tee Iv/V": 108,
+        "Tee V": 108
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Talon M": 613,
+        "Tee I": 550,
+        "Tee I/Ii": 513,
+        "Tee Ii": 513,
+        "Tee Ii/Iii": 513,
+        "Tee Iii": 467,
+        "Tee Iii/Iv": 467,
+        "Tee Iv": 435,
+        "Tee Iv/V": 406,
+        "Tee V": 406
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Talon M": 435,
+        "Tee I": 378,
+        "Tee I/Ii": 378,
+        "Tee Ii": 353,
+        "Tee Ii/Iii": 353,
+        "Tee Iii": 323,
+        "Tee Iii/Iv": 323,
+        "Tee Iv": 293,
+        "Tee Iv/V": 293,
+        "Tee V": 232
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Talon M": 450,
+        "Tee I": 428,
+        "Tee I/Ii": 382,
+        "Tee Ii": 382,
+        "Tee Ii/Iii": 355,
+        "Tee Iii": 355,
+        "Tee Iii/Iv": 287,
+        "Tee Iv": 287,
+        "Tee Iv/V": 287,
+        "Tee V": 244
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Talon M": 440,
+        "Tee I": 412,
+        "Tee I/Ii": 393,
+        "Tee Ii": 393,
+        "Tee Ii/Iii": 353,
+        "Tee Iii": 353,
+        "Tee Iii/Iv": 353,
+        "Tee Iv": 312,
+        "Tee Iv/V": 312,
+        "Tee V": 278
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Talon M": 392,
+        "Tee I": 357,
+        "Tee I/Ii": 357,
+        "Tee Ii": 340,
+        "Tee Ii/Iii": 340,
+        "Tee Iii": 300,
+        "Tee Iii/Iv": 300,
+        "Tee Iv": 267,
+        "Tee Iv/V": 267,
+        "Tee V": 228
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Talon M": 442,
+        "Tee I": 380,
+        "Tee I/Ii": 380,
+        "Tee Ii": 360,
+        "Tee Ii/Iii": 334,
+        "Tee Iii": 334,
+        "Tee Iii/Iv": 334,
+        "Tee Iv": 303,
+        "Tee Iv/V": 303,
+        "Tee V": 246
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Talon M": 224,
+        "Tee I": 203,
+        "Tee I/Ii": 176,
+        "Tee Ii": 176,
+        "Tee Ii/Iii": 160,
+        "Tee Iii": 160,
+        "Tee Iii/Iv": 139,
+        "Tee Iv": 139,
+        "Tee Iv/V": 119,
+        "Tee V": 119
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Talon M": 571,
+        "Tee I": 514,
+        "Tee I/Ii": 514,
+        "Tee Ii": 488,
+        "Tee Ii/Iii": 488,
+        "Tee Iii": 474,
+        "Tee Iii/Iv": 431,
+        "Tee Iv": 431,
+        "Tee Iv/V": 394,
+        "Tee V": 394
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Talon M": 438,
+        "Tee I": 408,
+        "Tee I/Ii": 384,
+        "Tee Ii": 384,
+        "Tee Ii/Iii": 362,
+        "Tee Iii": 362,
+        "Tee Iii/Iv": 316,
+        "Tee Iv": 316,
+        "Tee Iv/V": 316,
+        "Tee V": 272
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Talon M": 388,
+        "Tee I": 355,
+        "Tee I/Ii": 355,
+        "Tee Ii": 340,
+        "Tee Ii/Iii": 340,
+        "Tee Iii": 314,
+        "Tee Iii/Iv": 314,
+        "Tee Iv": 286,
+        "Tee Iv/V": 228,
+        "Tee V": 228
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Talon M": 173,
+        "Tee I": 144,
+        "Tee I/Ii": 144,
+        "Tee Ii": 135,
+        "Tee Ii/Iii": 135,
+        "Tee Iii": 125,
+        "Tee Iii/Iv": 125,
+        "Tee Iv": 109,
+        "Tee Iv/V": 109,
+        "Tee V": 100
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Talon M": 572,
+        "Tee I": 538,
+        "Tee I/Ii": 538,
+        "Tee Ii": 505,
+        "Tee Ii/Iii": 505,
+        "Tee Iii": 475,
+        "Tee Iii/Iv": 475,
+        "Tee Iv": 441,
+        "Tee Iv/V": 379,
+        "Tee V": 379
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Talon M": 481,
+        "Tee I": 430,
+        "Tee I/Ii": 430,
+        "Tee Ii": 411,
+        "Tee Ii/Iii": 388,
+        "Tee Iii": 388,
+        "Tee Iii/Iv": 388,
+        "Tee Iv": 338,
+        "Tee Iv/V": 286,
+        "Tee V": 286
+      }
+    }
+  ],
+  "version": 1
+}

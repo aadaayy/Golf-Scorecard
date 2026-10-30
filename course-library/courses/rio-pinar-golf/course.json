@@ -1,0 +1,231 @@
+{
+  "id": "rio-pinar-golf",
+  "name": "Rio Pinar Golf",
+  "town": "Orlando, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Black": 516,
+        "Gold": 466,
+        "Blue": 454,
+        "White": 421,
+        "Red": 412
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 421,
+        "Gold": 400,
+        "Blue": 374,
+        "White": 338,
+        "Red": 326
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 153,
+        "Gold": 138,
+        "Blue": 132,
+        "White": 97,
+        "Red": 86
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 359,
+        "Gold": 346,
+        "Blue": 334,
+        "White": 308,
+        "Red": 299
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 400,
+        "Gold": 388,
+        "Blue": 365,
+        "White": 305,
+        "Red": 293
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 496,
+        "Gold": 478,
+        "Blue": 469,
+        "White": 423,
+        "Red": 407
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 193,
+        "Gold": 182,
+        "Blue": 172,
+        "White": 160,
+        "Red": 147
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 358,
+        "Gold": 339,
+        "Blue": 327,
+        "White": 316,
+        "Red": 279
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 404,
+        "Gold": 397,
+        "Blue": 384,
+        "White": 307,
+        "Red": 294
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 552,
+        "Gold": 535,
+        "Blue": 521,
+        "White": 491,
+        "Red": 454
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 382,
+        "Gold": 369,
+        "Blue": 350,
+        "White": 307,
+        "Red": 301
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 410,
+        "Gold": 399,
+        "Blue": 388,
+        "White": 311,
+        "Red": 304
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 191,
+        "Gold": 177,
+        "Blue": 161,
+        "White": 150,
+        "Red": 141
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 392,
+        "Gold": 363,
+        "Blue": 345,
+        "White": 327,
+        "Red": 315
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 432,
+        "Gold": 410,
+        "Blue": 380,
+        "White": 366,
+        "Red": 326
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 564,
+        "Gold": 546,
+        "Blue": 528,
+        "White": 470,
+        "Red": 460
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 204,
+        "Gold": 170,
+        "Blue": 172,
+        "White": 145,
+        "Red": 128
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 428,
+        "Gold": 404,
+        "Blue": 413,
+        "White": 389,
+        "Red": 354
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,212 @@
+{
+  "id": "cabot-citrus-farms-the-roost-course",
+  "name": "Cabot Citrus Farms The Roost Course",
+  "town": "Brooksville, FL",
+  "tees": [
+    "Black",
+    "Green",
+    "Tangerine",
+    "Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 430,
+        "Green": 420,
+        "Tangerine": 377,
+        "Silver": 292
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 210,
+        "Green": 190,
+        "Tangerine": 175,
+        "Silver": 140
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 601,
+        "Green": 542,
+        "Tangerine": 513,
+        "Silver": 437
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 420,
+        "Green": 387,
+        "Tangerine": 379,
+        "Silver": 290
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 460,
+        "Green": 440,
+        "Tangerine": 415,
+        "Silver": 345
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 330,
+        "Green": 308,
+        "Tangerine": 290,
+        "Silver": 248
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 418,
+        "Green": 388,
+        "Tangerine": 373,
+        "Silver": 351
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 231,
+        "Green": 206,
+        "Tangerine": 197,
+        "Silver": 150
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 585,
+        "Green": 540,
+        "Tangerine": 473,
+        "Silver": 390
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 371,
+        "Green": 332,
+        "Tangerine": 321,
+        "Silver": 315
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 616,
+        "Green": 568,
+        "Tangerine": 515,
+        "Silver": 415
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 537,
+        "Green": 467,
+        "Tangerine": 430,
+        "Silver": 406
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 478,
+        "Green": 429,
+        "Tangerine": 398,
+        "Silver": 334
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 165,
+        "Green": 149,
+        "Tangerine": 128,
+        "Silver": 80
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 437,
+        "Green": 383,
+        "Tangerine": 360,
+        "Silver": 319
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 510,
+        "Green": 494,
+        "Tangerine": 464,
+        "Silver": 420
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 206,
+        "Green": 178,
+        "Tangerine": 171,
+        "Silver": 120
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 538,
+        "Green": 510,
+        "Tangerine": 440,
+        "Silver": 370
+      }
+    }
+  ],
+  "version": 1
+}

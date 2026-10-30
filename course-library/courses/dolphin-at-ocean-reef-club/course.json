@@ -1,0 +1,212 @@
+{
+  "id": "dolphin-at-ocean-reef-club",
+  "name": "Dolphin At Ocean Reef Club",
+  "town": "Key Largo, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 428,
+        "Blue": 406,
+        "White": 389,
+        "Red": 348
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 431,
+        "Blue": 398,
+        "White": 380,
+        "Red": 340
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 390,
+        "Blue": 368,
+        "White": 358,
+        "Red": 334
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 391,
+        "Blue": 369,
+        "White": 348,
+        "Red": 319
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 149,
+        "Blue": 129,
+        "White": 119,
+        "Red": 98
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 547,
+        "Blue": 483,
+        "White": 474,
+        "Red": 411
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 366,
+        "Blue": 360,
+        "White": 347,
+        "Red": 304
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 506,
+        "Blue": 490,
+        "White": 468,
+        "Red": 438
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 152,
+        "Blue": 143,
+        "White": 122,
+        "Red": 93
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 413,
+        "Blue": 384,
+        "White": 363,
+        "Red": 319
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 147,
+        "Blue": 142,
+        "White": 130,
+        "Red": 103
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 444,
+        "Blue": 422,
+        "White": 365,
+        "Red": 331
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 341,
+        "Blue": 332,
+        "White": 321,
+        "Red": 283
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 511,
+        "Blue": 491,
+        "White": 469,
+        "Red": 412
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 456,
+        "Blue": 398,
+        "White": 376,
+        "Red": 327
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 160,
+        "Blue": 150,
+        "White": 139,
+        "Red": 122
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 496,
+        "Blue": 471,
+        "White": 461,
+        "Red": 424
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 219,
+        "Blue": 195,
+        "White": 161,
+        "Red": 144
+      }
+    }
+  ],
+  "version": 1
+}

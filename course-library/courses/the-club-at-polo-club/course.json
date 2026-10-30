@@ -1,0 +1,250 @@
+{
+  "id": "the-club-at-polo-club",
+  "name": "The Club At Polo Club",
+  "town": "Boca Raton, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Black",
+    "Geen",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 562,
+        "Blue": 537,
+        "White": 480,
+        "Black": 436,
+        "Geen": 436,
+        "Red": 398
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 223,
+        "Blue": 196,
+        "White": 161,
+        "Black": 135,
+        "Geen": 135,
+        "Red": 109
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 413,
+        "Blue": 365,
+        "White": 339,
+        "Black": 293,
+        "Geen": 293,
+        "Red": 268
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 186,
+        "Blue": 165,
+        "White": 143,
+        "Black": 123,
+        "Geen": 123,
+        "Red": 101
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 382,
+        "Blue": 356,
+        "White": 324,
+        "Black": 293,
+        "Geen": 293,
+        "Red": 266
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 592,
+        "Blue": 560,
+        "White": 511,
+        "Black": 455,
+        "Geen": 455,
+        "Red": 422
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 358,
+        "Blue": 330,
+        "White": 330,
+        "Black": 263,
+        "Geen": 263,
+        "Red": 237
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 408,
+        "Blue": 378,
+        "White": 346,
+        "Black": 313,
+        "Geen": 313,
+        "Red": 286
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 403,
+        "Blue": 386,
+        "White": 352,
+        "Black": 320,
+        "Geen": 320,
+        "Red": 288
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 178,
+        "Blue": 158,
+        "White": 138,
+        "Black": 138,
+        "Geen": 120,
+        "Red": 104
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 403,
+        "Blue": 365,
+        "White": 311,
+        "Black": 311,
+        "Geen": 284,
+        "Red": 256
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 195,
+        "Blue": 178,
+        "White": 153,
+        "Black": 153,
+        "Geen": 131,
+        "Red": 112
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 520,
+        "Blue": 501,
+        "White": 475,
+        "Black": 475,
+        "Geen": 419,
+        "Red": 394
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 354,
+        "Blue": 338,
+        "White": 323,
+        "Black": 323,
+        "Geen": 299,
+        "Red": 269
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 424,
+        "Blue": 408,
+        "White": 383,
+        "Black": 383,
+        "Geen": 357,
+        "Red": 324
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 489,
+        "Blue": 465,
+        "White": 443,
+        "Black": 443,
+        "Geen": 417,
+        "Red": 400
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 379,
+        "Blue": 344,
+        "White": 319,
+        "Black": 319,
+        "Geen": 292,
+        "Red": 267
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 360,
+        "Blue": 336,
+        "White": 306,
+        "Black": 306,
+        "Geen": 276,
+        "Red": 234
+      }
+    }
+  ],
+  "version": 1
+}

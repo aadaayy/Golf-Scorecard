@@ -1,0 +1,268 @@
+{
+  "id": "crown-colony-golf-country-club",
+  "name": "Crown Colony Golf Country Club",
+  "town": "Fort Myers, FL",
+  "tees": [
+    "Black",
+    "Purple",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 422,
+        "Purple": 397,
+        "White": 367,
+        "White/Gold": 367,
+        "Gold": 355,
+        "Green": 304
+      },
+      "map": "crown-colony-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 392,
+        "Purple": 378,
+        "White": 359,
+        "White/Gold": 343,
+        "Gold": 343,
+        "Green": 298
+      },
+      "map": "crown-colony-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 189,
+        "Purple": 182,
+        "White": 157,
+        "White/Gold": 157,
+        "Gold": 134,
+        "Green": 124
+      },
+      "map": "crown-colony-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 409,
+        "Purple": 400,
+        "White": 382,
+        "White/Gold": 349,
+        "Gold": 349,
+        "Green": 302
+      },
+      "map": "crown-colony-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 528,
+        "Purple": 505,
+        "White": 494,
+        "White/Gold": 494,
+        "Gold": 460,
+        "Green": 414
+      },
+      "map": "crown-colony-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 417,
+        "Purple": 403,
+        "White": 368,
+        "White/Gold": 350,
+        "Gold": 350,
+        "Green": 318
+      },
+      "map": "crown-colony-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 183,
+        "Purple": 171,
+        "White": 160,
+        "White/Gold": 160,
+        "Gold": 145,
+        "Green": 127
+      },
+      "map": "crown-colony-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 346,
+        "Purple": 346,
+        "White": 337,
+        "White/Gold": 337,
+        "Gold": 286,
+        "Green": 252
+      },
+      "map": "crown-colony-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 552,
+        "Purple": 522,
+        "White": 508,
+        "White/Gold": 508,
+        "Gold": 452,
+        "Green": 387
+      },
+      "map": "crown-colony-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 339,
+        "Purple": 329,
+        "White": 322,
+        "White/Gold": 322,
+        "Gold": 304,
+        "Green": 273
+      },
+      "map": "crown-colony-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 353,
+        "Purple": 353,
+        "White": 331,
+        "White/Gold": 313,
+        "Gold": 313,
+        "Green": 271
+      },
+      "map": "crown-colony-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 518,
+        "Purple": 501,
+        "White": 472,
+        "White/Gold": 453,
+        "Gold": 453,
+        "Green": 404
+      },
+      "map": "crown-colony-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 337,
+        "Purple": 316,
+        "White": 291,
+        "White/Gold": 291,
+        "Gold": 276,
+        "Green": 242
+      },
+      "map": "crown-colony-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 200,
+        "Purple": 194,
+        "White": 178,
+        "White/Gold": 178,
+        "Gold": 131,
+        "Green": 123
+      },
+      "map": "crown-colony-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 422,
+        "Purple": 403,
+        "White": 379,
+        "White/Gold": 356,
+        "Gold": 356,
+        "Green": 335
+      },
+      "map": "crown-colony-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 474,
+        "Purple": 454,
+        "White": 418,
+        "White/Gold": 400,
+        "Gold": 400,
+        "Green": 365
+      },
+      "map": "crown-colony-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 196,
+        "Purple": 181,
+        "White": 166,
+        "White/Gold": 166,
+        "Gold": 151,
+        "Green": 129
+      },
+      "map": "crown-colony-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 538,
+        "Purple": 520,
+        "White": 502,
+        "White/Gold": 473,
+        "Gold": 473,
+        "Green": 423
+      },
+      "map": "crown-colony-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,231 @@
+{
+  "id": "mcarthur-golf-club",
+  "name": "Mcarthur Golf Club",
+  "town": "Hobe Sound, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 413,
+        "Gold": 397,
+        "Blue": 365,
+        "White": 300,
+        "Green": 297
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 447,
+        "Gold": 401,
+        "Blue": 354,
+        "White": 340,
+        "Green": 280
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 150,
+        "Gold": 140,
+        "Blue": 129,
+        "White": 120,
+        "Green": 108
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 417,
+        "Gold": 385,
+        "Blue": 358,
+        "White": 349,
+        "Green": 212
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 594,
+        "Gold": 560,
+        "Blue": 484,
+        "White": 460,
+        "Green": 404
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 383,
+        "Gold": 362,
+        "Blue": 341,
+        "White": 320,
+        "Green": 247
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 397,
+        "Gold": 378,
+        "Blue": 361,
+        "White": 350,
+        "Green": 325
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 214,
+        "Gold": 191,
+        "Blue": 166,
+        "White": 150,
+        "Green": 144
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 533,
+        "Gold": 502,
+        "Blue": 491,
+        "White": 484,
+        "Green": 325
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 546,
+        "Gold": 557,
+        "Blue": 490,
+        "White": 435,
+        "Green": 430
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 460,
+        "Gold": 436,
+        "Blue": 400,
+        "White": 356,
+        "Green": 340
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 439,
+        "Gold": 409,
+        "Blue": 388,
+        "White": 346,
+        "Green": 346
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 188,
+        "Gold": 164,
+        "Blue": 147,
+        "White": 120,
+        "Green": 120
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 384,
+        "Gold": 366,
+        "Blue": 339,
+        "White": 313,
+        "Green": 275
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 542,
+        "Gold": 520,
+        "Blue": 500,
+        "White": 464,
+        "Green": 417
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 426,
+        "Gold": 407,
+        "Blue": 375,
+        "White": 342,
+        "Green": 296
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 198,
+        "Gold": 180,
+        "Blue": 156,
+        "White": 150,
+        "Green": 132
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 474,
+        "Gold": 428,
+        "Blue": 399,
+        "White": 381,
+        "Green": 305
+      }
+    }
+  ],
+  "version": 1
+}

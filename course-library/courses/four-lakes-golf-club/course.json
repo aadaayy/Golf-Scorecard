@@ -1,0 +1,212 @@
+{
+  "id": "four-lakes-golf-club",
+  "name": "Four Lakes Golf Club",
+  "town": "Winter Haven, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 391,
+        "White": 314,
+        "Gold": 279,
+        "Red": 260
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 363,
+        "White": 320,
+        "Gold": 282,
+        "Red": 278
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 358,
+        "White": 298,
+        "Gold": 282,
+        "Red": 247
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 297,
+        "White": 281,
+        "Gold": 271,
+        "Red": 241
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 389,
+        "White": 310,
+        "Gold": 298,
+        "Red": 284
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 239,
+        "White": 223,
+        "Gold": 217,
+        "Red": 180
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 301,
+        "White": 276,
+        "Gold": 268,
+        "Red": 211
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 197,
+        "White": 163,
+        "Gold": 111,
+        "Red": 85
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 500,
+        "White": 469,
+        "Gold": 455,
+        "Red": 389
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 259,
+        "White": 245,
+        "Gold": 230,
+        "Red": 210
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 380,
+        "White": 339,
+        "Gold": 320,
+        "Red": 320
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 402,
+        "White": 394,
+        "Gold": 350,
+        "Red": 336
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 143,
+        "White": 143,
+        "Gold": 131,
+        "Red": 119
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 385,
+        "White": 352,
+        "Gold": 336,
+        "Red": 281
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 270,
+        "White": 259,
+        "Gold": 225,
+        "Red": 225
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 197,
+        "White": 177,
+        "Gold": 166,
+        "Red": 148
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 520,
+        "White": 480,
+        "Gold": 471,
+        "Red": 471
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 399,
+        "White": 355,
+        "Gold": 347,
+        "Red": 309
+      }
+    }
+  ],
+  "version": 1
+}

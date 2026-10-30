@@ -1,0 +1,113 @@
+{
+  "id": "ponds-golf-course-at-quail-heights-country-club",
+  "name": "Ponds Golf Course At Quail Heights Country Club",
+  "town": "Lake City, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 335,
+        "White": 296,
+        "Green": 285,
+        "Red": 278
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 403,
+        "White": 357,
+        "Green": 357,
+        "Red": 309
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 193,
+        "White": 164,
+        "Green": 148,
+        "Red": 144
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 373,
+        "White": 346,
+        "Green": 276,
+        "Red": 250
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 161,
+        "White": 134,
+        "Green": 134,
+        "Red": 124
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 483,
+        "White": 438,
+        "Green": 426,
+        "Red": 414
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 420,
+        "White": 384,
+        "Green": 323,
+        "Red": 295
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 379,
+        "White": 361,
+        "Green": 308,
+        "Red": 304
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 513,
+        "White": 483,
+        "Green": 442,
+        "Red": 437
+      }
+    }
+  ],
+  "version": 1
+}

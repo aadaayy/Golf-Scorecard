@@ -1,0 +1,123 @@
+{
+  "id": "heron-golf-course-at-pelican-preserve-golf-club",
+  "name": "Heron Golf Course At Pelican Preserve Golf Club",
+  "town": "The Villages, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 375,
+        "Blue": 351,
+        "White": 330,
+        "Gold": 301,
+        "Red": 278
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 341,
+        "Blue": 328,
+        "White": 308,
+        "Gold": 282,
+        "Red": 256
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 164,
+        "Blue": 152,
+        "White": 138,
+        "Gold": 130,
+        "Red": 120
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 423,
+        "Blue": 399,
+        "White": 374,
+        "Gold": 340,
+        "Red": 317
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 354,
+        "Blue": 332,
+        "White": 312,
+        "Gold": 283,
+        "Red": 256
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 195,
+        "Blue": 169,
+        "White": 155,
+        "Gold": 141,
+        "Red": 114
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 505,
+        "Blue": 481,
+        "White": 471,
+        "Gold": 400,
+        "Red": 388
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 419,
+        "Blue": 395,
+        "White": 365,
+        "Gold": 335,
+        "Red": 306
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 611,
+        "Blue": 564,
+        "White": 530,
+        "Gold": 458,
+        "Red": 426
+      }
+    }
+  ],
+  "version": 1
+}

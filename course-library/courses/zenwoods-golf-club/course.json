@@ -1,0 +1,103 @@
+{
+  "id": "zenwoods-golf-club",
+  "name": "Zenwoods Golf Club",
+  "town": "Inverness, FL",
+  "tees": [
+    "Tournament",
+    "Ladies",
+    "Member"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Tournament": 126,
+        "Ladies": 97,
+        "Member": 97
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Tournament": 115,
+        "Ladies": 64,
+        "Member": 64
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Tournament": 123,
+        "Ladies": 93,
+        "Member": 93
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Tournament": 140,
+        "Ladies": 117,
+        "Member": 117
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Tournament": 115,
+        "Ladies": 75,
+        "Member": 75
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Tournament": 106,
+        "Ladies": 83,
+        "Member": 83
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Tournament": 100,
+        "Ladies": 86,
+        "Member": 86
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Tournament": 144,
+        "Ladies": 113,
+        "Member": 113
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Tournament": 136,
+        "Ladies": 99,
+        "Member": 99
+      }
+    }
+  ],
+  "version": 1
+}

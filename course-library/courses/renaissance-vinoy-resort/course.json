@@ -1,0 +1,231 @@
+{
+  "id": "renaissance-vinoy-resort",
+  "name": "Renaissance Vinoy Resort",
+  "town": "St. Petersburg, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 326,
+        "Gold": 326,
+        "Blue": 313,
+        "White": 300,
+        "Red": 209
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 187,
+        "Gold": 180,
+        "Blue": 173,
+        "White": 166,
+        "Red": 116
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 346,
+        "Gold": 346,
+        "Blue": 333,
+        "White": 320,
+        "Red": 277
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 389,
+        "Gold": 372,
+        "Blue": 355,
+        "White": 338,
+        "Red": 278
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 375,
+        "Gold": 375,
+        "Blue": 349,
+        "White": 325,
+        "Red": 251
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 388,
+        "Gold": 376,
+        "Blue": 364,
+        "White": 352,
+        "Red": 285
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 501,
+        "Gold": 469,
+        "Blue": 444,
+        "White": 419,
+        "Red": 394
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 226,
+        "Gold": 215,
+        "Blue": 204,
+        "White": 182,
+        "Red": 149
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 475,
+        "Gold": 444,
+        "Blue": 416,
+        "White": 384,
+        "Red": 366
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 401,
+        "Gold": 385,
+        "Blue": 371,
+        "White": 357,
+        "Red": 351
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 409,
+        "Gold": 393,
+        "Blue": 377,
+        "White": 323,
+        "Red": 316
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 355,
+        "Gold": 343,
+        "Blue": 331,
+        "White": 288,
+        "Red": 257
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 170,
+        "Gold": 160,
+        "Blue": 150,
+        "White": 136,
+        "Red": 125
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 369,
+        "Gold": 362,
+        "Blue": 333,
+        "White": 310,
+        "Red": 262
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 336,
+        "Gold": 322,
+        "Blue": 308,
+        "White": 295,
+        "Red": 236
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 567,
+        "Gold": 554,
+        "Blue": 532,
+        "White": 485,
+        "Red": 462
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 148,
+        "Gold": 140,
+        "Blue": 128,
+        "White": 116,
+        "Red": 104
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 509,
+        "Gold": 493,
+        "Blue": 457,
+        "White": 437,
+        "Red": 401
+      }
+    }
+  ],
+  "version": 1
+}

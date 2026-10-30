@@ -1,0 +1,231 @@
+{
+  "id": "indian-spring-country-club-west-course",
+  "name": "Indian Spring Country Club West Course",
+  "town": "Boynton Beach, FL",
+  "tees": [
+    "Gold/Championship",
+    "Blue/Players",
+    "White/Members",
+    "Green/Middle",
+    "Black/Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Gold/Championship": 497,
+        "Blue/Players": 466,
+        "White/Members": 423,
+        "Green/Middle": 377,
+        "Black/Forward": 351
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold/Championship": 163,
+        "Blue/Players": 151,
+        "White/Members": 142,
+        "Green/Middle": 137,
+        "Black/Forward": 132
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold/Championship": 376,
+        "Blue/Players": 353,
+        "White/Members": 307,
+        "Green/Middle": 291,
+        "Black/Forward": 268
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold/Championship": 380,
+        "Blue/Players": 343,
+        "White/Members": 308,
+        "Green/Middle": 271,
+        "Black/Forward": 259
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold/Championship": 420,
+        "Blue/Players": 373,
+        "White/Members": 332,
+        "Green/Middle": 279,
+        "Black/Forward": 239
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold/Championship": 187,
+        "Blue/Players": 174,
+        "White/Members": 146,
+        "Green/Middle": 129,
+        "Black/Forward": 116
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold/Championship": 544,
+        "Blue/Players": 515,
+        "White/Members": 453,
+        "Green/Middle": 425,
+        "Black/Forward": 400
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold/Championship": 181,
+        "Blue/Players": 166,
+        "White/Members": 155,
+        "Green/Middle": 143,
+        "Black/Forward": 127
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold/Championship": 439,
+        "Blue/Players": 414,
+        "White/Members": 364,
+        "Green/Middle": 340,
+        "Black/Forward": 314
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold/Championship": 528,
+        "Blue/Players": 509,
+        "White/Members": 505,
+        "Green/Middle": 464,
+        "Black/Forward": 412
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold/Championship": 366,
+        "Blue/Players": 348,
+        "White/Members": 320,
+        "Green/Middle": 257,
+        "Black/Forward": 206
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold/Championship": 189,
+        "Blue/Players": 171,
+        "White/Members": 163,
+        "Green/Middle": 145,
+        "Black/Forward": 144
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold/Championship": 342,
+        "Blue/Players": 332,
+        "White/Members": 305,
+        "Green/Middle": 272,
+        "Black/Forward": 259
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold/Championship": 423,
+        "Blue/Players": 390,
+        "White/Members": 344,
+        "Green/Middle": 275,
+        "Black/Forward": 265
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold/Championship": 328,
+        "Blue/Players": 312,
+        "White/Members": 269,
+        "Green/Middle": 264,
+        "Black/Forward": 240
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold/Championship": 443,
+        "Blue/Players": 420,
+        "White/Members": 405,
+        "Green/Middle": 325,
+        "Black/Forward": 244
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold/Championship": 186,
+        "Blue/Players": 167,
+        "White/Members": 167,
+        "Green/Middle": 147,
+        "Black/Forward": 104
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold/Championship": 563,
+        "Blue/Players": 540,
+        "White/Members": 504,
+        "Green/Middle": 452,
+        "Black/Forward": 384
+      }
+    }
+  ],
+  "version": 1
+}

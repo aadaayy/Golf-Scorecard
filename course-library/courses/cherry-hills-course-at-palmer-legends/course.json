@@ -1,0 +1,133 @@
+{
+  "id": "cherry-hills-course-at-palmer-legends",
+  "name": "Cherry Hills Course At Palmer Legends",
+  "town": "The Villages, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 534,
+        "Gold": 508,
+        "Blue": 486,
+        "White": 392,
+        "Green": 388,
+        "Friendly": 327
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 430,
+        "Gold": 400,
+        "Blue": 377,
+        "White": 340,
+        "Green": 308,
+        "Friendly": 221
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 402,
+        "Gold": 379,
+        "Blue": 340,
+        "White": 318,
+        "Green": 271,
+        "Friendly": 198
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 418,
+        "Gold": 383,
+        "Blue": 352,
+        "White": 314,
+        "Green": 283,
+        "Friendly": 251
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 169,
+        "Gold": 146,
+        "Blue": 138,
+        "White": 113,
+        "Green": 104,
+        "Friendly": 74
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 451,
+        "Gold": 388,
+        "Blue": 350,
+        "White": 319,
+        "Green": 312,
+        "Friendly": 242
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 358,
+        "Gold": 331,
+        "Blue": 302,
+        "White": 275,
+        "Green": 251,
+        "Friendly": 187
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 209,
+        "Gold": 183,
+        "Blue": 157,
+        "White": 134,
+        "Green": 112,
+        "Friendly": 112
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 570,
+        "Gold": 519,
+        "Blue": 484,
+        "White": 458,
+        "Green": 452,
+        "Friendly": 314
+      }
+    }
+  ],
+  "version": 1
+}

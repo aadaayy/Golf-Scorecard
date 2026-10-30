@@ -1,0 +1,103 @@
+{
+  "id": "walnut-grove-at-the-villages-executive-golf-trail",
+  "name": "Walnut Grove At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 165,
+        "Gold": 131,
+        "Green": 98
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 171,
+        "Gold": 149,
+        "Green": 116
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 153,
+        "Gold": 124,
+        "Green": 91
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 176,
+        "Gold": 146,
+        "Green": 122
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 158,
+        "Gold": 128,
+        "Green": 103
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 184,
+        "Gold": 162,
+        "Green": 130
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 181,
+        "Gold": 160,
+        "Green": 116
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 153,
+        "Gold": 130,
+        "Green": 113
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 188,
+        "Gold": 162,
+        "Green": 141
+      }
+    }
+  ],
+  "version": 1
+}

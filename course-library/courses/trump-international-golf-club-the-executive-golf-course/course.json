@@ -1,0 +1,133 @@
+{
+  "id": "trump-international-golf-club-the-executive-golf-course",
+  "name": "Trump International Golf Club The Executive Golf Course",
+  "town": "West Palm Beach, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Silver",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 575,
+        "Gold": 550,
+        "Blue": 521,
+        "White": 505,
+        "Silver": 475,
+        "Green": 445
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 326,
+        "Gold": 308,
+        "Blue": 294,
+        "White": 280,
+        "Silver": 262,
+        "Green": 245
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 625,
+        "Gold": 558,
+        "Blue": 521,
+        "White": 480,
+        "Silver": 460,
+        "Green": 440
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 356,
+        "Gold": 348,
+        "Blue": 321,
+        "White": 304,
+        "Silver": 278,
+        "Green": 249
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 235,
+        "Gold": 207,
+        "Blue": 192,
+        "White": 170,
+        "Silver": 142,
+        "Green": 109
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 439,
+        "Gold": 424,
+        "Blue": 404,
+        "White": 385,
+        "Silver": 351,
+        "Green": 339
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 431,
+        "Gold": 409,
+        "Blue": 382,
+        "White": 360,
+        "Silver": 350,
+        "Green": 334
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 153,
+        "Gold": 134,
+        "Blue": 120,
+        "White": 106,
+        "Silver": 87,
+        "Green": 85
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 465,
+        "Gold": 450,
+        "Blue": 425,
+        "White": 384,
+        "Silver": 355,
+        "Green": 345
+      }
+    }
+  ],
+  "version": 1
+}

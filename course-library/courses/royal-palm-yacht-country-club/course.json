@@ -1,0 +1,250 @@
+{
+  "id": "royal-palm-yacht-country-club",
+  "name": "Royal Palm Yacht Country Club",
+  "town": "Boca Raton, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 440,
+        "Gold": 420,
+        "Blue": 400,
+        "White": 380,
+        "Green": 362,
+        "Red": 341
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 404,
+        "Gold": 395,
+        "Blue": 378,
+        "White": 355,
+        "Green": 336,
+        "Red": 281
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 428,
+        "Gold": 420,
+        "Blue": 402,
+        "White": 388,
+        "Green": 337,
+        "Red": 326
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 540,
+        "Gold": 521,
+        "Blue": 510,
+        "White": 486,
+        "Green": 461,
+        "Red": 448
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 360,
+        "Gold": 344,
+        "Blue": 330,
+        "White": 316,
+        "Green": 299,
+        "Red": 282
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 211,
+        "Gold": 199,
+        "Blue": 187,
+        "White": 168,
+        "Green": 141,
+        "Red": 117
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 344,
+        "Gold": 333,
+        "Blue": 322,
+        "White": 308,
+        "Green": 278,
+        "Red": 233
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 175,
+        "Gold": 165,
+        "Blue": 139,
+        "White": 129,
+        "Green": 120,
+        "Red": 100
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 542,
+        "Gold": 528,
+        "Blue": 519,
+        "White": 502,
+        "Green": 476,
+        "Red": 458
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 520,
+        "Gold": 510,
+        "Blue": 498,
+        "White": 483,
+        "Green": 466,
+        "Red": 438
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 415,
+        "Gold": 398,
+        "Blue": 375,
+        "White": 355,
+        "Green": 329,
+        "Red": 310
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 401,
+        "Gold": 392,
+        "Blue": 370,
+        "White": 352,
+        "Green": 340,
+        "Red": 281
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 410,
+        "Gold": 391,
+        "Blue": 373,
+        "White": 348,
+        "Green": 333,
+        "Red": 264
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 188,
+        "Gold": 174,
+        "Blue": 157,
+        "White": 144,
+        "Green": 127,
+        "Red": 94
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 448,
+        "Gold": 435,
+        "Blue": 423,
+        "White": 407,
+        "Green": 356,
+        "Red": 332
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 195,
+        "Gold": 184,
+        "Blue": 168,
+        "White": 157,
+        "Green": 134,
+        "Red": 108
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 606,
+        "Gold": 593,
+        "Blue": 565,
+        "White": 542,
+        "Green": 500,
+        "Red": 470
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 405,
+        "Gold": 394,
+        "Blue": 375,
+        "White": 346,
+        "Green": 332,
+        "Red": 301
+      }
+    }
+  ],
+  "version": 1
+}

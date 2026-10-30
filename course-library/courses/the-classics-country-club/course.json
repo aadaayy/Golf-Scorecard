@@ -1,0 +1,269 @@
+{
+  "id": "the-classics-country-club",
+  "name": "The Classics Country Club",
+  "town": "Naples, FL",
+  "tees": [
+    "Black",
+    "Green",
+    "Green/White",
+    "White",
+    "Red",
+    "Red/Aqua",
+    "Aqua"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 380,
+        "Green": 352,
+        "Green/White": 352,
+        "White": 325,
+        "Red": 312,
+        "Red/Aqua": 312,
+        "Aqua": 276
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 377,
+        "Green": 369,
+        "Green/White": 330,
+        "White": 330,
+        "Red": 297,
+        "Red/Aqua": 297,
+        "Aqua": 262
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 581,
+        "Green": 544,
+        "Green/White": 506,
+        "White": 506,
+        "Red": 450,
+        "Red/Aqua": 443,
+        "Aqua": 443
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 179,
+        "Green": 164,
+        "Green/White": 150,
+        "White": 150,
+        "Red": 130,
+        "Red/Aqua": 90,
+        "Aqua": 90
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 373,
+        "Green": 347,
+        "Green/White": 347,
+        "White": 317,
+        "Red": 316,
+        "Red/Aqua": 260,
+        "Aqua": 260
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 178,
+        "Green": 160,
+        "Green/White": 160,
+        "White": 148,
+        "Red": 137,
+        "Red/Aqua": 96,
+        "Aqua": 96
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 511,
+        "Green": 492,
+        "Green/White": 492,
+        "White": 454,
+        "Red": 448,
+        "Red/Aqua": 379,
+        "Aqua": 379
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 399,
+        "Green": 344,
+        "Green/White": 344,
+        "White": 305,
+        "Red": 292,
+        "Red/Aqua": 292,
+        "Aqua": 237
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 431,
+        "Green": 401,
+        "Green/White": 375,
+        "White": 375,
+        "Red": 349,
+        "Red/Aqua": 309,
+        "Aqua": 309
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 419,
+        "Green": 387,
+        "Green/White": 353,
+        "White": 353,
+        "Red": 301,
+        "Red/Aqua": 290,
+        "Aqua": 290
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 525,
+        "Green": 479,
+        "Green/White": 479,
+        "White": 431,
+        "Red": 419,
+        "Red/Aqua": 419,
+        "Aqua": 384
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 156,
+        "Green": 144,
+        "Green/White": 144,
+        "White": 132,
+        "Red": 102,
+        "Red/Aqua": 98,
+        "Aqua": 98
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 348,
+        "Green": 298,
+        "Green/White": 298,
+        "White": 279,
+        "Red": 264,
+        "Red/Aqua": 264,
+        "Aqua": 219
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 387,
+        "Green": 371,
+        "Green/White": 354,
+        "White": 354,
+        "Red": 346,
+        "Red/Aqua": 285,
+        "Aqua": 285
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 366,
+        "Green": 346,
+        "Green/White": 346,
+        "White": 315,
+        "Red": 263,
+        "Red/Aqua": 229,
+        "Aqua": 229
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 190,
+        "Green": 174,
+        "Green/White": 145,
+        "White": 145,
+        "Red": 134,
+        "Red/Aqua": 134,
+        "Aqua": 120
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 506,
+        "Green": 490,
+        "Green/White": 475,
+        "White": 475,
+        "Red": 443,
+        "Red/Aqua": 374,
+        "Aqua": 374
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 408,
+        "Green": 377,
+        "Green/White": 356,
+        "White": 356,
+        "Red": 342,
+        "Red/Aqua": 272,
+        "Aqua": 272
+      }
+    }
+  ],
+  "version": 1
+}

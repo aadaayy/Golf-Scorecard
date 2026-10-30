@@ -1,0 +1,212 @@
+{
+  "id": "mayfair-country-club",
+  "name": "Mayfair Country Club",
+  "town": "Sanford, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 372,
+        "White": 363,
+        "Gold": 346,
+        "Red": 325
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 434,
+        "White": 416,
+        "Gold": 358,
+        "Red": 336
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 325,
+        "White": 306,
+        "Gold": 302,
+        "Red": 257
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 388,
+        "White": 373,
+        "Gold": 344,
+        "Red": 322
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 173,
+        "White": 156,
+        "Gold": 137,
+        "Red": 96
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 364,
+        "White": 326,
+        "Gold": 297,
+        "Red": 266
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 192,
+        "White": 160,
+        "Gold": 124,
+        "Red": 101
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 516,
+        "White": 491,
+        "Gold": 450,
+        "Red": 433
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 410,
+        "White": 336,
+        "Gold": 246,
+        "Red": 225
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 206,
+        "White": 185,
+        "Gold": 132,
+        "Red": 124
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 387,
+        "White": 375,
+        "Gold": 296,
+        "Red": 263
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 416,
+        "White": 400,
+        "Gold": 324,
+        "Red": 299
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 373,
+        "White": 360,
+        "Gold": 263,
+        "Red": 241
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 521,
+        "White": 484,
+        "Gold": 379,
+        "Red": 359
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 335,
+        "White": 324,
+        "Gold": 289,
+        "Red": 271
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 152,
+        "White": 143,
+        "Gold": 118,
+        "Red": 110
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 377,
+        "White": 345,
+        "Gold": 264,
+        "Red": 245
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 429,
+        "White": 391,
+        "Gold": 342,
+        "Red": 295
+      }
+    }
+  ],
+  "version": 1
+}

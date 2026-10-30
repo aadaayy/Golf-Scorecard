@@ -1,0 +1,269 @@
+{
+  "id": "the-club-at-grandezza",
+  "name": "The Club At Grandezza",
+  "town": "Estero, FL",
+  "tees": [
+    "Web",
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Green",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 384,
+        "Black": 386,
+        "Blue": 367,
+        "White": 354,
+        "Gold": 316,
+        "Green": 276,
+        "Orange": 247
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Web": 535,
+        "Black": 537,
+        "Blue": 488,
+        "White": 477,
+        "Gold": 445,
+        "Green": 411,
+        "Orange": 405
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 388,
+        "Black": 390,
+        "Blue": 364,
+        "White": 351,
+        "Gold": 328,
+        "Green": 316,
+        "Orange": 279
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 438,
+        "Black": 443,
+        "Blue": 417,
+        "White": 365,
+        "Gold": 321,
+        "Green": 314,
+        "Orange": 275
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Web": 139,
+        "Black": 138,
+        "Blue": 125,
+        "White": 114,
+        "Gold": 95,
+        "Green": 85,
+        "Orange": 70
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Web": 368,
+        "Black": 364,
+        "Blue": 360,
+        "White": 325,
+        "Gold": 307,
+        "Green": 280,
+        "Orange": 261
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Web": 542,
+        "Black": 549,
+        "Blue": 525,
+        "White": 510,
+        "Gold": 491,
+        "Green": 448,
+        "Orange": 412
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 177,
+        "Black": 170,
+        "Blue": 160,
+        "White": 147,
+        "Gold": 137,
+        "Green": 113,
+        "Orange": 102
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Web": 450,
+        "Black": 454,
+        "Blue": 416,
+        "White": 376,
+        "Gold": 320,
+        "Green": 313,
+        "Orange": 289
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Web": 410,
+        "Black": 410,
+        "Blue": 391,
+        "White": 377,
+        "Gold": 351,
+        "Green": 311,
+        "Orange": 283
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Web": 567,
+        "Black": 567,
+        "Blue": 541,
+        "White": 502,
+        "Gold": 469,
+        "Green": 462,
+        "Orange": 438
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 156,
+        "Black": 155,
+        "Blue": 155,
+        "White": 132,
+        "Gold": 120,
+        "Green": 99,
+        "Orange": 95
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 337,
+        "Black": 340,
+        "Blue": 321,
+        "White": 308,
+        "Gold": 278,
+        "Green": 236,
+        "Orange": 227
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Web": 382,
+        "Black": 361,
+        "Blue": 355,
+        "White": 331,
+        "Gold": 288,
+        "Green": 274,
+        "Orange": 247
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 406,
+        "Black": 409,
+        "Blue": 372,
+        "White": 354,
+        "Gold": 326,
+        "Green": 301,
+        "Orange": 264
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 205,
+        "Black": 203,
+        "Blue": 193,
+        "White": 175,
+        "Gold": 151,
+        "Green": 118,
+        "Orange": 112
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Web": 400,
+        "Black": 401,
+        "Blue": 381,
+        "White": 358,
+        "Gold": 333,
+        "Green": 303,
+        "Orange": 269
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Web": 538,
+        "Black": 541,
+        "Blue": 511,
+        "White": 481,
+        "Gold": 466,
+        "Green": 426,
+        "Orange": 414
+      }
+    }
+  ],
+  "version": 1
+}

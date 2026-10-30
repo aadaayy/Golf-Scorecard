@@ -1,0 +1,230 @@
+{
+  "id": "eagle-springs-golf-course",
+  "name": "Eagle Springs Golf Course",
+  "town": "Defuniak Springs, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 431,
+        "White": 404,
+        "Gold": 284,
+        "Red": 281
+      },
+      "map": "eagle-springs-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 205,
+        "White": 171,
+        "Gold": 165,
+        "Red": 160
+      },
+      "map": "eagle-springs-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 190,
+        "White": 157,
+        "Gold": 110,
+        "Red": 107
+      },
+      "map": "eagle-springs-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 407,
+        "White": 385,
+        "Gold": 247,
+        "Red": 244
+      },
+      "map": "eagle-springs-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 525,
+        "White": 510,
+        "Gold": 447,
+        "Red": 442
+      },
+      "map": "eagle-springs-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 327,
+        "White": 321,
+        "Gold": 312,
+        "Red": 309
+      },
+      "map": "eagle-springs-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 430,
+        "White": 390,
+        "Gold": 325,
+        "Red": 322
+      },
+      "map": "eagle-springs-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Blue": 490,
+        "White": 475,
+        "Gold": 413,
+        "Red": 411
+      },
+      "map": "eagle-springs-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 390,
+        "White": 371,
+        "Gold": 306,
+        "Red": 304
+      },
+      "map": "eagle-springs-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 545,
+        "White": 486,
+        "Gold": 420,
+        "Red": 411
+      },
+      "map": "eagle-springs-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 185,
+        "White": 156,
+        "Gold": 102,
+        "Red": 95
+      },
+      "map": "eagle-springs-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 350,
+        "White": 333,
+        "Gold": 217,
+        "Red": 208
+      },
+      "map": "eagle-springs-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 190,
+        "White": 145,
+        "Gold": 93,
+        "Red": 90
+      },
+      "map": "eagle-springs-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 320,
+        "White": 287,
+        "Gold": 262,
+        "Red": 260
+      },
+      "map": "eagle-springs-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 400,
+        "White": 340,
+        "Gold": 317,
+        "Red": 315
+      },
+      "map": "eagle-springs-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 170,
+        "White": 154,
+        "Gold": 120,
+        "Red": 110
+      },
+      "map": "eagle-springs-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 350,
+        "White": 330,
+        "Gold": 250,
+        "Red": 200
+      },
+      "map": "eagle-springs-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 530,
+        "White": 480,
+        "Gold": 440,
+        "Red": 437
+      },
+      "map": "eagle-springs-golf-course-18"
+    }
+  ],
+  "version": 1
+}

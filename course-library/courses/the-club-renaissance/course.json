@@ -1,0 +1,269 @@
+{
+  "id": "the-club-renaissance",
+  "name": "The Club Renaissance",
+  "town": "Fort Myers, FL",
+  "tees": [
+    "Gold",
+    "Burgundy",
+    "Blue",
+    "White",
+    "Green",
+    "Red",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 390,
+        "Burgundy": 360,
+        "Blue": 340,
+        "White": 317,
+        "Green": 291,
+        "Red": 261,
+        "Orange": 222
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 429,
+        "Burgundy": 401,
+        "Blue": 374,
+        "White": 351,
+        "Green": 315,
+        "Red": 284,
+        "Orange": 223
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 512,
+        "Burgundy": 504,
+        "Blue": 476,
+        "White": 463,
+        "Green": 418,
+        "Red": 393,
+        "Orange": 322
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 187,
+        "Burgundy": 181,
+        "Blue": 152,
+        "White": 143,
+        "Green": 134,
+        "Red": 120,
+        "Orange": 97
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 418,
+        "Burgundy": 389,
+        "Blue": 371,
+        "White": 342,
+        "Green": 309,
+        "Red": 276,
+        "Orange": 232
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 397,
+        "Burgundy": 367,
+        "Blue": 343,
+        "White": 323,
+        "Green": 294,
+        "Red": 268,
+        "Orange": 241
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 206,
+        "Burgundy": 200,
+        "Blue": 181,
+        "White": 154,
+        "Green": 138,
+        "Red": 121,
+        "Orange": 93
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 559,
+        "Burgundy": 532,
+        "Blue": 504,
+        "White": 449,
+        "Green": 423,
+        "Red": 404,
+        "Orange": 344
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 422,
+        "Burgundy": 392,
+        "Blue": 377,
+        "White": 344,
+        "Green": 309,
+        "Red": 279,
+        "Orange": 265
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 485,
+        "Burgundy": 478,
+        "Blue": 451,
+        "White": 444,
+        "Green": 413,
+        "Red": 389,
+        "Orange": 345
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 350,
+        "Burgundy": 324,
+        "Blue": 317,
+        "White": 289,
+        "Green": 254,
+        "Red": 243,
+        "Orange": 183
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 164,
+        "Burgundy": 164,
+        "Blue": 149,
+        "White": 139,
+        "Green": 122,
+        "Red": 114,
+        "Orange": 114
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 336,
+        "Burgundy": 335,
+        "Blue": 323,
+        "White": 288,
+        "Green": 264,
+        "Red": 240,
+        "Orange": 209
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 159,
+        "Burgundy": 159,
+        "Blue": 152,
+        "White": 134,
+        "Green": 122,
+        "Red": 103,
+        "Orange": 95
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 398,
+        "Burgundy": 373,
+        "Blue": 363,
+        "White": 338,
+        "Green": 312,
+        "Red": 278,
+        "Orange": 231
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 502,
+        "Burgundy": 493,
+        "Blue": 481,
+        "White": 462,
+        "Green": 401,
+        "Red": 392,
+        "Orange": 335
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 374,
+        "Burgundy": 352,
+        "Blue": 342,
+        "White": 317,
+        "Green": 284,
+        "Red": 253,
+        "Orange": 204
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 373,
+        "Burgundy": 367,
+        "Blue": 327,
+        "White": 287,
+        "Green": 267,
+        "Red": 227,
+        "Orange": 227
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,307 @@
+{
+  "id": "the-club-at-ibis-the-tradition-course",
+  "name": "The Club At Ibis The Tradition Course",
+  "town": "West Palm Beach, FL",
+  "tees": [
+    "Nicklaus",
+    "V",
+    "Tee 4.5",
+    "IV",
+    "Tee 3.5",
+    "III",
+    "Tee 2.5",
+    "II",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Nicklaus": 389,
+        "V": 372,
+        "Tee 4.5": 372,
+        "IV": 357,
+        "Tee 3.5": 320,
+        "III": 320,
+        "Tee 2.5": 320,
+        "II": 297,
+        "Forward": 190
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Nicklaus": 163,
+        "V": 137,
+        "Tee 4.5": 142,
+        "IV": 142,
+        "Tee 3.5": 142,
+        "III": 130,
+        "Tee 2.5": 130,
+        "II": 104,
+        "Forward": 54
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Nicklaus": 442,
+        "V": 428,
+        "Tee 4.5": 405,
+        "IV": 405,
+        "Tee 3.5": 361,
+        "III": 361,
+        "Tee 2.5": 310,
+        "II": 310,
+        "Forward": 200
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Nicklaus": 592,
+        "V": 563,
+        "Tee 4.5": 555,
+        "IV": 555,
+        "Tee 3.5": 524,
+        "III": 524,
+        "Tee 2.5": 461,
+        "II": 461,
+        "Forward": 310
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Nicklaus": 433,
+        "V": 397,
+        "Tee 4.5": 397,
+        "IV": 383,
+        "Tee 3.5": 353,
+        "III": 353,
+        "Tee 2.5": 353,
+        "II": 312,
+        "Forward": 212
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Nicklaus": 208,
+        "V": 181,
+        "Tee 4.5": 164,
+        "IV": 164,
+        "Tee 3.5": 164,
+        "III": 144,
+        "Tee 2.5": 144,
+        "II": 126,
+        "Forward": 57
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Nicklaus": 447,
+        "V": 412,
+        "Tee 4.5": 412,
+        "IV": 394,
+        "Tee 3.5": 355,
+        "III": 355,
+        "Tee 2.5": 322,
+        "II": 322,
+        "Forward": 222
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Nicklaus": 534,
+        "V": 509,
+        "Tee 4.5": 509,
+        "IV": 493,
+        "Tee 3.5": 493,
+        "III": 459,
+        "Tee 2.5": 423,
+        "II": 423,
+        "Forward": 330
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Nicklaus": 429,
+        "V": 401,
+        "Tee 4.5": 387,
+        "IV": 387,
+        "Tee 3.5": 350,
+        "III": 350,
+        "Tee 2.5": 311,
+        "II": 311,
+        "Forward": 211
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Nicklaus": 408,
+        "V": 384,
+        "Tee 4.5": 384,
+        "IV": 368,
+        "Tee 3.5": 332,
+        "III": 332,
+        "Tee 2.5": 303,
+        "II": 303,
+        "Forward": 230
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Nicklaus": 189,
+        "V": 177,
+        "Tee 4.5": 177,
+        "IV": 157,
+        "Tee 3.5": 157,
+        "III": 127,
+        "Tee 2.5": 127,
+        "II": 108,
+        "Forward": 100
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Nicklaus": 521,
+        "V": 496,
+        "Tee 4.5": 496,
+        "IV": 479,
+        "Tee 3.5": 450,
+        "III": 450,
+        "Tee 2.5": 450,
+        "II": 413,
+        "Forward": 340
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Nicklaus": 406,
+        "V": 384,
+        "Tee 4.5": 374,
+        "IV": 374,
+        "Tee 3.5": 347,
+        "III": 347,
+        "Tee 2.5": 313,
+        "II": 313,
+        "Forward": 235
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Nicklaus": 428,
+        "V": 399,
+        "Tee 4.5": 385,
+        "IV": 385,
+        "Tee 3.5": 385,
+        "III": 336,
+        "Tee 2.5": 336,
+        "II": 309,
+        "Forward": 250
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Nicklaus": 520,
+        "V": 511,
+        "Tee 4.5": 482,
+        "IV": 482,
+        "Tee 3.5": 482,
+        "III": 467,
+        "Tee 2.5": 407,
+        "II": 407,
+        "Forward": 350
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Nicklaus": 387,
+        "V": 358,
+        "Tee 4.5": 358,
+        "IV": 339,
+        "Tee 3.5": 339,
+        "III": 309,
+        "Tee 2.5": 309,
+        "II": 258,
+        "Forward": 200
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Nicklaus": 172,
+        "V": 150,
+        "Tee 4.5": 137,
+        "IV": 137,
+        "Tee 3.5": 137,
+        "III": 119,
+        "Tee 2.5": 99,
+        "II": 99,
+        "Forward": 51
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Nicklaus": 462,
+        "V": 430,
+        "Tee 4.5": 419,
+        "IV": 419,
+        "Tee 3.5": 399,
+        "III": 399,
+        "Tee 2.5": 366,
+        "II": 366,
+        "Forward": 250
+      }
+    }
+  ],
+  "version": 1
+}

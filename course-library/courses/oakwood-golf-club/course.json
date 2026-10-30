@@ -1,0 +1,231 @@
+{
+  "id": "oakwood-golf-club",
+  "name": "Oakwood Golf Club",
+  "town": "Lake Wales, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "Silver",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 425,
+        "Gold": 403,
+        "Blue": 354,
+        "Silver": 321,
+        "Green": 321
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 547,
+        "Gold": 500,
+        "Blue": 474,
+        "Silver": 439,
+        "Green": 439
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 184,
+        "Gold": 184,
+        "Blue": 167,
+        "Silver": 115,
+        "Green": 115
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 414,
+        "Gold": 382,
+        "Blue": 361,
+        "Silver": 351,
+        "Green": 326
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 220,
+        "Gold": 212,
+        "Blue": 193,
+        "Silver": 162,
+        "Green": 138
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 384,
+        "Gold": 364,
+        "Blue": 319,
+        "Silver": 296,
+        "Green": 296
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 195,
+        "Gold": 153,
+        "Blue": 145,
+        "Silver": 112,
+        "Green": 112
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 538,
+        "Gold": 515,
+        "Blue": 505,
+        "Silver": 430,
+        "Green": 430
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 425,
+        "Gold": 400,
+        "Blue": 379,
+        "Silver": 359,
+        "Green": 302
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 383,
+        "Gold": 361,
+        "Blue": 323,
+        "Silver": 276,
+        "Green": 276
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 184,
+        "Gold": 184,
+        "Blue": 169,
+        "Silver": 120,
+        "Green": 120
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 417,
+        "Gold": 390,
+        "Blue": 356,
+        "Silver": 323,
+        "Green": 323
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 368,
+        "Gold": 353,
+        "Blue": 335,
+        "Silver": 314,
+        "Green": 271
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 518,
+        "Gold": 468,
+        "Blue": 437,
+        "Silver": 402,
+        "Green": 384
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 524,
+        "Gold": 486,
+        "Blue": 460,
+        "Silver": 430,
+        "Green": 410
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 192,
+        "Gold": 180,
+        "Blue": 154,
+        "Silver": 133,
+        "Green": 133
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 358,
+        "Gold": 344,
+        "Blue": 290,
+        "Silver": 246,
+        "Green": 220
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 405,
+        "Gold": 383,
+        "Blue": 365,
+        "Silver": 305,
+        "Green": 290
+      }
+    }
+  ],
+  "version": 1
+}

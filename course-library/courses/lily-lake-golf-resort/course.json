@@ -1,0 +1,103 @@
+{
+  "id": "lily-lake-golf-resort",
+  "name": "Lily Lake Golf Resort",
+  "town": "Frostproof, FL",
+  "tees": [
+    "Gold",
+    "Blue",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 214,
+        "Blue": 192,
+        "Red": 174
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 244,
+        "Blue": 234,
+        "Red": 193
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 123,
+        "Blue": 107,
+        "Red": 74
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Gold": 170,
+        "Blue": 142,
+        "Red": 135
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 311,
+        "Blue": 273,
+        "Red": 240
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Gold": 159,
+        "Blue": 124,
+        "Red": 98
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 302,
+        "Blue": 224,
+        "Red": 214
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 107,
+        "Blue": 84,
+        "Red": 75
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 320,
+        "Blue": 288,
+        "Red": 250
+      }
+    }
+  ],
+  "version": 1
+}

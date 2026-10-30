@@ -1,0 +1,268 @@
+{
+  "id": "emerald-bay-golf-club",
+  "name": "Emerald Bay Golf Club",
+  "town": "Destin, FL",
+  "tees": [
+    "I",
+    "II",
+    "III",
+    "Combo",
+    "IV",
+    "V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I": 427,
+        "II": 405,
+        "III": 376,
+        "Combo": 311,
+        "IV": 311,
+        "V": 267
+      },
+      "map": "emerald-bay-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I": 424,
+        "II": 390,
+        "III": 378,
+        "Combo": 353,
+        "IV": 353,
+        "V": 304
+      },
+      "map": "emerald-bay-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I": 164,
+        "II": 150,
+        "III": 138,
+        "Combo": 138,
+        "IV": 115,
+        "V": 91
+      },
+      "map": "emerald-bay-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "I": 313,
+        "II": 296,
+        "III": 284,
+        "Combo": 284,
+        "IV": 264,
+        "V": 227
+      },
+      "map": "emerald-bay-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "I": 399,
+        "II": 385,
+        "III": 365,
+        "Combo": 339,
+        "IV": 339,
+        "V": 298
+      },
+      "map": "emerald-bay-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 430,
+        "II": 410,
+        "III": 380,
+        "Combo": 321,
+        "IV": 321,
+        "V": 289
+      },
+      "map": "emerald-bay-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "I": 562,
+        "II": 554,
+        "III": 515,
+        "Combo": 463,
+        "IV": 463,
+        "V": 387
+      },
+      "map": "emerald-bay-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "I": 232,
+        "II": 162,
+        "III": 152,
+        "Combo": 152,
+        "IV": 140,
+        "V": 85
+      },
+      "map": "emerald-bay-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "I": 529,
+        "II": 505,
+        "III": 485,
+        "Combo": 485,
+        "IV": 418,
+        "V": 378
+      },
+      "map": "emerald-bay-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "I": 474,
+        "II": 455,
+        "III": 395,
+        "Combo": 332,
+        "IV": 332,
+        "V": 291
+      },
+      "map": "emerald-bay-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 362,
+        "II": 348,
+        "III": 330,
+        "Combo": 330,
+        "IV": 302,
+        "V": 277
+      },
+      "map": "emerald-bay-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "I": 246,
+        "II": 215,
+        "III": 202,
+        "Combo": 202,
+        "IV": 181,
+        "V": 107
+      },
+      "map": "emerald-bay-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "I": 605,
+        "II": 580,
+        "III": 555,
+        "Combo": 504,
+        "IV": 504,
+        "V": 483
+      },
+      "map": "emerald-bay-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "I": 372,
+        "II": 352,
+        "III": 325,
+        "Combo": 261,
+        "IV": 261,
+        "V": 146
+      },
+      "map": "emerald-bay-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 449,
+        "II": 409,
+        "III": 382,
+        "Combo": 313,
+        "IV": 313,
+        "V": 285
+      },
+      "map": "emerald-bay-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "I": 204,
+        "II": 178,
+        "III": 152,
+        "Combo": 152,
+        "IV": 128,
+        "V": 114
+      },
+      "map": "emerald-bay-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "I": 331,
+        "II": 318,
+        "III": 308,
+        "Combo": 308,
+        "IV": 290,
+        "V": 210
+      },
+      "map": "emerald-bay-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "I": 527,
+        "II": 508,
+        "III": 487,
+        "Combo": 487,
+        "IV": 446,
+        "V": 416
+      },
+      "map": "emerald-bay-golf-club-18"
+    }
+  ],
+  "version": 1
+}

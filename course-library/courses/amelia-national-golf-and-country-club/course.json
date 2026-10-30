@@ -1,0 +1,231 @@
+{
+  "id": "amelia-national-golf-and-country-club",
+  "name": "Amelia National Golf And Country Club",
+  "town": "Nassauville, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 411,
+        "Gold": 390,
+        "Blue": 383,
+        "White": 359,
+        "Red": 317
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 367,
+        "Gold": 356,
+        "Blue": 347,
+        "White": 337,
+        "Red": 288
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 177,
+        "Gold": 165,
+        "Blue": 155,
+        "White": 135,
+        "Red": 117
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 423,
+        "Gold": 398,
+        "Blue": 393,
+        "White": 350,
+        "Red": 319
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 403,
+        "Gold": 393,
+        "Blue": 369,
+        "White": 341,
+        "Red": 301
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 201,
+        "Gold": 192,
+        "Blue": 173,
+        "White": 148,
+        "Red": 96
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 574,
+        "Gold": 561,
+        "Blue": 468,
+        "White": 463,
+        "Red": 440
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 445,
+        "Gold": 434,
+        "Blue": 410,
+        "White": 387,
+        "Red": 345
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 547,
+        "Gold": 514,
+        "Blue": 504,
+        "White": 450,
+        "Red": 400
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 383,
+        "Gold": 353,
+        "Blue": 343,
+        "White": 315,
+        "Red": 287
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 603,
+        "Gold": 560,
+        "Blue": 538,
+        "White": 501,
+        "Red": 456
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 233,
+        "Gold": 215,
+        "Blue": 185,
+        "White": 170,
+        "Red": 155
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 424,
+        "Gold": 407,
+        "Blue": 368,
+        "White": 320,
+        "Red": 299
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 465,
+        "Gold": 428,
+        "Blue": 397,
+        "White": 365,
+        "Red": 344
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 533,
+        "Gold": 520,
+        "Blue": 475,
+        "White": 428,
+        "Red": 373
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 335,
+        "Gold": 325,
+        "Blue": 315,
+        "White": 302,
+        "Red": 191
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 132,
+        "Gold": 128,
+        "Blue": 121,
+        "White": 103,
+        "Red": 94
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 457,
+        "Gold": 439,
+        "Blue": 422,
+        "White": 402,
+        "Red": 354
+      }
+    }
+  ],
+  "version": 1
+}

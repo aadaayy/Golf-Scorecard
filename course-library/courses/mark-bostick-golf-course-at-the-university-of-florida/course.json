@@ -1,0 +1,230 @@
+{
+  "id": "mark-bostick-golf-course-at-the-university-of-florida",
+  "name": "Mark Bostick Golf Course At The University Of Florida",
+  "town": "Gainesville, FL",
+  "tees": [
+    "Orange",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Orange": 361,
+        "Blue": 354,
+        "White": 336,
+        "Red": 313
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Orange": 157,
+        "Blue": 150,
+        "White": 128,
+        "Red": 115
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Orange": 538,
+        "Blue": 529,
+        "White": 502,
+        "Red": 435
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Orange": 409,
+        "Blue": 399,
+        "White": 366,
+        "Red": 327
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Orange": 437,
+        "Blue": 422,
+        "White": 396,
+        "Red": 366
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Orange": 187,
+        "Blue": 178,
+        "White": 162,
+        "Red": 130
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Orange": 543,
+        "Blue": 526,
+        "White": 506,
+        "Red": 454
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Orange": 168,
+        "Blue": 157,
+        "White": 132,
+        "Red": 92
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Orange": 355,
+        "Blue": 339,
+        "White": 328,
+        "Red": 293
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Orange": 408,
+        "Blue": 402,
+        "White": 381,
+        "Red": 338
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Orange": 133,
+        "Blue": 116,
+        "White": 109,
+        "Red": 89
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Orange": 506,
+        "Blue": 477,
+        "White": 411,
+        "Red": 338
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Orange": 431,
+        "Blue": 401,
+        "White": 357,
+        "Red": 315
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Orange": 355,
+        "Blue": 342,
+        "White": 342,
+        "Red": 266
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Orange": 182,
+        "Blue": 163,
+        "White": 141,
+        "Red": 93
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Orange": 442,
+        "Blue": 413,
+        "White": 381,
+        "Red": 355
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Orange": 299,
+        "Blue": 285,
+        "White": 264,
+        "Red": 242
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Orange": 410,
+        "Blue": 399,
+        "White": 372,
+        "Red": 320
+      },
+      "map": "mark-bostick-golf-course-at-the-university-of-florida-18"
+    }
+  ],
+  "version": 1
+}

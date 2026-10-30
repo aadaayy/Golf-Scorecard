@@ -1,0 +1,102 @@
+{
+  "id": "chula-vista-at-the-villages-executive-golf-trail",
+  "name": "Chula Vista At The Villages Executive Golf Trail",
+  "town": "Lady Lake, FL",
+  "tees": [
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 148,
+        "Red": 118
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 152,
+        "Red": 118
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "White": 151,
+        "Red": 130
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "White": 125,
+        "Red": 110
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "White": 150,
+        "Red": 131
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "White": 140,
+        "Red": 129
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "White": 143,
+        "Red": 131
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "White": 338,
+        "Red": 273
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "White": 160,
+        "Red": 148
+      },
+      "map": "chula-vista-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

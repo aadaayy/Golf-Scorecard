@@ -1,0 +1,344 @@
+{
+  "id": "turtle-creek-club",
+  "name": "Turtle Creek Club",
+  "town": "Tequesta, FL",
+  "tees": [
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Gold/Green",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 576,
+        "Black/Blue": 576,
+        "Blue": 533,
+        "Blue/White": 509,
+        "White": 509,
+        "White/Gold": 483,
+        "Gold": 483,
+        "Gold/Green": 395,
+        "Green": 395,
+        "Red": 312
+      },
+      "map": "turtle-creek-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 419,
+        "Black/Blue": 419,
+        "Blue": 399,
+        "Blue/White": 379,
+        "White": 379,
+        "White/Gold": 321,
+        "Gold": 321,
+        "Gold/Green": 289,
+        "Green": 289,
+        "Red": 212
+      },
+      "map": "turtle-creek-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 148,
+        "Black/Blue": 148,
+        "Blue": 142,
+        "Blue/White": 142,
+        "White": 133,
+        "White/Gold": 133,
+        "Gold": 123,
+        "Gold/Green": 123,
+        "Green": 114,
+        "Red": 114
+      },
+      "map": "turtle-creek-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 364,
+        "Black/Blue": 364,
+        "Blue": 355,
+        "Blue/White": 355,
+        "White": 334,
+        "White/Gold": 334,
+        "Gold": 269,
+        "Gold/Green": 269,
+        "Green": 234,
+        "Red": 214
+      },
+      "map": "turtle-creek-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 386,
+        "Black/Blue": 386,
+        "Blue": 372,
+        "Blue/White": 372,
+        "White": 331,
+        "White/Gold": 331,
+        "Gold": 268,
+        "Gold/Green": 268,
+        "Green": 261,
+        "Red": 210
+      },
+      "map": "turtle-creek-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 412,
+        "Black/Blue": 412,
+        "Blue": 385,
+        "Blue/White": 363,
+        "White": 363,
+        "White/Gold": 343,
+        "Gold": 343,
+        "Gold/Green": 280,
+        "Green": 280,
+        "Red": 218
+      },
+      "map": "turtle-creek-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 626,
+        "Black/Blue": 542,
+        "Blue": 542,
+        "Blue/White": 513,
+        "White": 513,
+        "White/Gold": 509,
+        "Gold": 416,
+        "Gold/Green": 411,
+        "Green": 411,
+        "Red": 324
+      },
+      "map": "turtle-creek-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 195,
+        "Black/Blue": 178,
+        "Blue": 178,
+        "Blue/White": 178,
+        "White": 149,
+        "White/Gold": 149,
+        "Gold": 140,
+        "Gold/Green": 116,
+        "Green": 116,
+        "Red": 116
+      },
+      "map": "turtle-creek-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 438,
+        "Black/Blue": 394,
+        "Blue": 394,
+        "Blue/White": 346,
+        "White": 346,
+        "White/Gold": 346,
+        "Gold": 306,
+        "Gold/Green": 306,
+        "Green": 281,
+        "Red": 203
+      },
+      "map": "turtle-creek-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 433,
+        "Black/Blue": 421,
+        "Blue": 421,
+        "Blue/White": 395,
+        "White": 395,
+        "White/Gold": 381,
+        "Gold": 381,
+        "Gold/Green": 330,
+        "Green": 330,
+        "Red": 230
+      },
+      "map": "turtle-creek-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 403,
+        "Black/Blue": 403,
+        "Blue": 384,
+        "Blue/White": 332,
+        "White": 332,
+        "White/Gold": 332,
+        "Gold": 301,
+        "Gold/Green": 301,
+        "Green": 292,
+        "Red": 207
+      },
+      "map": "turtle-creek-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 432,
+        "Black/Blue": 416,
+        "Blue": 416,
+        "Blue/White": 387,
+        "White": 387,
+        "White/Gold": 326,
+        "Gold": 326,
+        "Gold/Green": 322,
+        "Green": 322,
+        "Red": 238
+      },
+      "map": "turtle-creek-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 583,
+        "Black/Blue": 506,
+        "Blue": 506,
+        "Blue/White": 506,
+        "White": 489,
+        "White/Gold": 459,
+        "Gold": 459,
+        "Gold/Green": 433,
+        "Green": 433,
+        "Red": 335
+      },
+      "map": "turtle-creek-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 164,
+        "Black/Blue": 164,
+        "Blue": 147,
+        "Blue/White": 147,
+        "White": 119,
+        "White/Gold": 119,
+        "Gold": 110,
+        "Gold/Green": 110,
+        "Green": 90,
+        "Red": 90
+      },
+      "map": "turtle-creek-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 362,
+        "Black/Blue": 362,
+        "Blue": 344,
+        "Blue/White": 344,
+        "White": 333,
+        "White/Gold": 333,
+        "Gold": 293,
+        "Gold/Green": 266,
+        "Green": 266,
+        "Red": 212
+      },
+      "map": "turtle-creek-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 550,
+        "Black/Blue": 493,
+        "Blue": 493,
+        "Blue/White": 444,
+        "White": 444,
+        "White/Gold": 444,
+        "Gold": 403,
+        "Gold/Green": 403,
+        "Green": 344,
+        "Red": 320
+      },
+      "map": "turtle-creek-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 195,
+        "Black/Blue": 181,
+        "Blue": 181,
+        "Blue/White": 167,
+        "White": 167,
+        "White/Gold": 167,
+        "Gold": 152,
+        "Gold/Green": 140,
+        "Green": 138,
+        "Red": 138
+      },
+      "map": "turtle-creek-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 440,
+        "Black/Blue": 391,
+        "Blue": 391,
+        "Blue/White": 370,
+        "White": 370,
+        "White/Gold": 370,
+        "Gold": 308,
+        "Gold/Green": 299,
+        "Green": 299,
+        "Red": 217
+      },
+      "map": "turtle-creek-club-18"
+    }
+  ],
+  "version": 1
+}

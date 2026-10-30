@@ -1,0 +1,122 @@
+{
+  "id": "the-first-tee-of-north-florida-brentwood-golf-course",
+  "name": "The First Tee Of North Florida Brentwood Golf Course",
+  "town": "Jacksonville, FL",
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 263,
+        "Web": 263,
+        "Blue": 245,
+        "Green": 186
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 335,
+        "Web": 335,
+        "Blue": 316,
+        "Green": 273
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 494,
+        "Web": 494,
+        "Blue": 481,
+        "Green": 453
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 303,
+        "Web": 303,
+        "Blue": 262,
+        "Green": 219
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 144,
+        "Web": 144,
+        "Blue": 118,
+        "Green": 82
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 373,
+        "Web": 373,
+        "Blue": 355,
+        "Green": 274
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 127,
+        "Web": 127,
+        "Blue": 116,
+        "Green": 89
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 338,
+        "Web": 338,
+        "Blue": 328,
+        "Green": 249
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 137,
+        "Web": 137,
+        "Blue": 126,
+        "Green": 102
+      },
+      "map": "the-first-tee-of-north-florida-brentwood-golf-course-09"
+    }
+  ],
+  "version": 1
+}

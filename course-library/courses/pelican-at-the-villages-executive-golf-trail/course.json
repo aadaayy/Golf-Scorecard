@@ -1,0 +1,122 @@
+{
+  "id": "pelican-at-the-villages-executive-golf-trail",
+  "name": "Pelican At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 155,
+        "Web": 155,
+        "White": 151,
+        "Yellow": 147
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 166,
+        "Web": 166,
+        "White": 156,
+        "Yellow": 144
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 186,
+        "Web": 186,
+        "White": 165,
+        "Yellow": 141
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 310,
+        "Web": 310,
+        "White": 282,
+        "Yellow": 244
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 152,
+        "Web": 152,
+        "White": 130,
+        "Yellow": 86
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 320,
+        "Web": 320,
+        "White": 309,
+        "Yellow": 300
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 128,
+        "Web": 128,
+        "White": 116,
+        "Yellow": 102
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 157,
+        "Web": 157,
+        "White": 137,
+        "Yellow": 120
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 203,
+        "Web": 203,
+        "White": 159,
+        "Yellow": 136
+      },
+      "map": "pelican-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,123 @@
+{
+  "id": "sugarmill-woods-country-club-pine-course",
+  "name": "Sugarmill Woods Country Club Pine Course",
+  "town": "Homosassa, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 520,
+        "White": 502,
+        "Gold": 488,
+        "Green": 390,
+        "Red": 384
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 374,
+        "White": 350,
+        "Gold": 332,
+        "Green": 228,
+        "Red": 225
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 174,
+        "White": 161,
+        "Gold": 153,
+        "Green": 146,
+        "Red": 143
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 410,
+        "White": 380,
+        "Gold": 360,
+        "Green": 295,
+        "Red": 292
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 398,
+        "White": 365,
+        "Gold": 340,
+        "Green": 275,
+        "Red": 272
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 199,
+        "White": 174,
+        "Gold": 163,
+        "Green": 152,
+        "Red": 149
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 395,
+        "White": 388,
+        "Gold": 374,
+        "Green": 304,
+        "Red": 301
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 536,
+        "White": 515,
+        "Gold": 504,
+        "Green": 450,
+        "Red": 447
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 395,
+        "White": 362,
+        "Gold": 347,
+        "Green": 332,
+        "Red": 329
+      }
+    }
+  ],
+  "version": 1
+}

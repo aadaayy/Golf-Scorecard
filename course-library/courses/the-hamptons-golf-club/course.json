@@ -1,0 +1,212 @@
+{
+  "id": "the-hamptons-golf-club",
+  "name": "The Hamptons Golf Club",
+  "town": "Auburndale, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 208,
+        "White": 197,
+        "Gold": 187,
+        "Red": 174
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 140,
+        "White": 130,
+        "Gold": 120,
+        "Red": 120
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 150,
+        "White": 139,
+        "Gold": 125,
+        "Red": 116
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 301,
+        "White": 270,
+        "Gold": 208,
+        "Red": 147
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 120,
+        "White": 113,
+        "Gold": 107,
+        "Red": 105
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 186,
+        "White": 157,
+        "Gold": 120,
+        "Red": 109
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 140,
+        "White": 115,
+        "Gold": 100,
+        "Red": 80
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 307,
+        "White": 261,
+        "Gold": 199,
+        "Red": 189
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 227,
+        "White": 219,
+        "Gold": 213,
+        "Red": 208
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 275,
+        "White": 258,
+        "Gold": 225,
+        "Red": 185
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 135,
+        "White": 130,
+        "Gold": 125,
+        "Red": 95
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 120,
+        "White": 113,
+        "Gold": 100,
+        "Red": 95
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 113,
+        "White": 104,
+        "Gold": 90,
+        "Red": 84
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 280,
+        "White": 232,
+        "Gold": 205,
+        "Red": 195
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 118,
+        "White": 110,
+        "Gold": 100,
+        "Red": 78
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 191,
+        "White": 148,
+        "Gold": 133,
+        "Red": 101
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 120,
+        "White": 115,
+        "Gold": 110,
+        "Red": 90
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 293,
+        "White": 275,
+        "Gold": 230,
+        "Red": 190
+      }
+    }
+  ],
+  "version": 1
+}

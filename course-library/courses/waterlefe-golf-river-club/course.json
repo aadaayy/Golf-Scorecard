@@ -1,0 +1,307 @@
+{
+  "id": "waterlefe-golf-river-club",
+  "name": "Waterlefe Golf River Club",
+  "town": "Bradenton, FL",
+  "tees": [
+    "Web",
+    "Gold",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Silver",
+    "Green",
+    "Red",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Web": 547,
+        "Gold": 554,
+        "Blue": 491,
+        "Blue/White": 491,
+        "White": 426,
+        "Silver": 405,
+        "Green": 405,
+        "Red": 372,
+        "Orange": 317
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 406,
+        "Gold": 404,
+        "Blue": 388,
+        "Blue/White": 361,
+        "White": 361,
+        "Silver": 325,
+        "Green": 285,
+        "Red": 285,
+        "Orange": 198
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 353,
+        "Gold": 348,
+        "Blue": 333,
+        "Blue/White": 333,
+        "White": 311,
+        "Silver": 280,
+        "Green": 280,
+        "Red": 255,
+        "Orange": 220
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 199,
+        "Gold": 198,
+        "Blue": 165,
+        "Blue/White": 165,
+        "White": 141,
+        "Silver": 117,
+        "Green": 101,
+        "Red": 92,
+        "Orange": 84
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 406,
+        "Gold": 385,
+        "Blue": 379,
+        "Blue/White": 349,
+        "White": 349,
+        "Silver": 275,
+        "Green": 275,
+        "Red": 253,
+        "Orange": 245
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Web": 541,
+        "Gold": 545,
+        "Blue": 504,
+        "Blue/White": 504,
+        "White": 494,
+        "Silver": 455,
+        "Green": 455,
+        "Red": 417,
+        "Orange": 373
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Web": 447,
+        "Gold": 448,
+        "Blue": 414,
+        "Blue/White": 389,
+        "White": 389,
+        "Silver": 363,
+        "Green": 363,
+        "Red": 336,
+        "Orange": 268
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 382,
+        "Gold": 383,
+        "Blue": 367,
+        "Blue/White": 367,
+        "White": 331,
+        "Silver": 313,
+        "Green": 313,
+        "Red": 286,
+        "Orange": 249
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Web": 231,
+        "Gold": 231,
+        "Blue": 198,
+        "Blue/White": 154,
+        "White": 154,
+        "Silver": 147,
+        "Green": 147,
+        "Red": 119,
+        "Orange": 94
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Web": 557,
+        "Gold": 561,
+        "Blue": 542,
+        "Blue/White": 475,
+        "White": 475,
+        "Silver": 463,
+        "Green": 463,
+        "Red": 406,
+        "Orange": 347
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 199,
+        "Gold": 199,
+        "Blue": 182,
+        "Blue/White": 170,
+        "White": 170,
+        "Silver": 149,
+        "Green": 149,
+        "Red": 123,
+        "Orange": 83
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Web": 417,
+        "Gold": 413,
+        "Blue": 392,
+        "Blue/White": 392,
+        "White": 360,
+        "Silver": 324,
+        "Green": 324,
+        "Red": 292,
+        "Orange": 229
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 398,
+        "Gold": 399,
+        "Blue": 375,
+        "Blue/White": 375,
+        "White": 353,
+        "Silver": 325,
+        "Green": 325,
+        "Red": 295,
+        "Orange": 217
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Web": 484,
+        "Gold": 484,
+        "Blue": 462,
+        "Blue/White": 462,
+        "White": 449,
+        "Silver": 421,
+        "Green": 421,
+        "Red": 382,
+        "Orange": 293
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 173,
+        "Gold": 176,
+        "Blue": 161,
+        "Blue/White": 149,
+        "White": 149,
+        "Silver": 138,
+        "Green": 90,
+        "Red": 82,
+        "Orange": 75
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 353,
+        "Gold": 351,
+        "Blue": 340,
+        "Blue/White": 340,
+        "White": 323,
+        "Silver": 305,
+        "Green": 228,
+        "Red": 228,
+        "Orange": 222
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Web": 386,
+        "Gold": 391,
+        "Blue": 377,
+        "Blue/White": 364,
+        "White": 364,
+        "Silver": 348,
+        "Green": 268,
+        "Red": 268,
+        "Orange": 214
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Web": 429,
+        "Gold": 427,
+        "Blue": 392,
+        "Blue/White": 352,
+        "White": 352,
+        "Silver": 321,
+        "Green": 321,
+        "Red": 291,
+        "Orange": 233
+      }
+    }
+  ],
+  "version": 1
+}

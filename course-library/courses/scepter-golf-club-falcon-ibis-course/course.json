@@ -1,0 +1,231 @@
+{
+  "id": "scepter-golf-club-falcon-ibis-course",
+  "name": "Scepter Golf Club Falcon Ibis Course",
+  "town": "Sun City Center, FL",
+  "tees": [
+    "White",
+    "Green",
+    "Red",
+    "Yellow",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "White": 327,
+        "Green": 314,
+        "Red": 299,
+        "Yellow": 223,
+        "Orange": 202
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "White": 257,
+        "Green": 231,
+        "Red": 211,
+        "Yellow": 205,
+        "Orange": 184
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "White": 165,
+        "Green": 150,
+        "Red": 146,
+        "Yellow": 142,
+        "Orange": 84
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "White": 341,
+        "Green": 325,
+        "Red": 299,
+        "Yellow": 299,
+        "Orange": 217
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "White": 315,
+        "Green": 298,
+        "Red": 259,
+        "Yellow": 259,
+        "Orange": 189
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "White": 469,
+        "Green": 452,
+        "Red": 374,
+        "Yellow": 369,
+        "Orange": 310
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "White": 324,
+        "Green": 308,
+        "Red": 253,
+        "Yellow": 253,
+        "Orange": 195
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "White": 144,
+        "Green": 131,
+        "Red": 120,
+        "Yellow": 113,
+        "Orange": 100
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "White": 479,
+        "Green": 453,
+        "Red": 440,
+        "Yellow": 405,
+        "Orange": 272
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "White": 348,
+        "Green": 305,
+        "Red": 305,
+        "Yellow": 281,
+        "Orange": 210
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "White": 153,
+        "Green": 136,
+        "Red": 131,
+        "Yellow": 121,
+        "Orange": 95
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "White": 334,
+        "Green": 285,
+        "Red": 263,
+        "Yellow": 263,
+        "Orange": 177
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "White": 454,
+        "Green": 417,
+        "Red": 396,
+        "Yellow": 396,
+        "Orange": 285
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "White": 349,
+        "Green": 305,
+        "Red": 291,
+        "Yellow": 283,
+        "Orange": 203
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "White": 135,
+        "Green": 123,
+        "Red": 112,
+        "Yellow": 103,
+        "Orange": 86
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "White": 464,
+        "Green": 424,
+        "Red": 424,
+        "Yellow": 395,
+        "Orange": 292
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "White": 390,
+        "Green": 340,
+        "Red": 340,
+        "Yellow": 307,
+        "Orange": 242
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "White": 352,
+        "Green": 334,
+        "Red": 294,
+        "Yellow": 271,
+        "Orange": 174
+      }
+    }
+  ],
+  "version": 1
+}

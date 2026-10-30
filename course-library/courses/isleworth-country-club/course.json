@@ -1,0 +1,268 @@
+{
+  "id": "isleworth-country-club",
+  "name": "Isleworth Country Club",
+  "town": "Windermere, FL",
+  "tees": [
+    "Tiger",
+    "Palmer",
+    "Lewis",
+    "Chase",
+    "Deacon",
+    "Isleworth"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tiger": 396,
+        "Palmer": 386,
+        "Lewis": 366,
+        "Chase": 334,
+        "Deacon": 298,
+        "Isleworth": 264
+      },
+      "map": "isleworth-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Tiger": 260,
+        "Palmer": 228,
+        "Lewis": 196,
+        "Chase": 160,
+        "Deacon": 139,
+        "Isleworth": 119
+      },
+      "map": "isleworth-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Tiger": 610,
+        "Palmer": 568,
+        "Lewis": 524,
+        "Chase": 490,
+        "Deacon": 423,
+        "Isleworth": 394
+      },
+      "map": "isleworth-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tiger": 473,
+        "Palmer": 462,
+        "Lewis": 416,
+        "Chase": 366,
+        "Deacon": 331,
+        "Isleworth": 305
+      },
+      "map": "isleworth-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tiger": 231,
+        "Palmer": 226,
+        "Lewis": 206,
+        "Chase": 180,
+        "Deacon": 166,
+        "Isleworth": 114
+      },
+      "map": "isleworth-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tiger": 402,
+        "Palmer": 372,
+        "Lewis": 340,
+        "Chase": 327,
+        "Deacon": 271,
+        "Isleworth": 243
+      },
+      "map": "isleworth-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Tiger": 557,
+        "Palmer": 527,
+        "Lewis": 516,
+        "Chase": 480,
+        "Deacon": 439,
+        "Isleworth": 410
+      },
+      "map": "isleworth-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tiger": 456,
+        "Palmer": 425,
+        "Lewis": 404,
+        "Chase": 374,
+        "Deacon": 289,
+        "Isleworth": 281
+      },
+      "map": "isleworth-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tiger": 434,
+        "Palmer": 420,
+        "Lewis": 400,
+        "Chase": 362,
+        "Deacon": 332,
+        "Isleworth": 275
+      },
+      "map": "isleworth-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tiger": 394,
+        "Palmer": 386,
+        "Lewis": 364,
+        "Chase": 344,
+        "Deacon": 282,
+        "Isleworth": 250
+      },
+      "map": "isleworth-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Tiger": 178,
+        "Palmer": 170,
+        "Lewis": 148,
+        "Chase": 122,
+        "Deacon": 110,
+        "Isleworth": 84
+      },
+      "map": "isleworth-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tiger": 453,
+        "Palmer": 421,
+        "Lewis": 387,
+        "Chase": 355,
+        "Deacon": 290,
+        "Isleworth": 273
+      },
+      "map": "isleworth-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Tiger": 560,
+        "Palmer": 537,
+        "Lewis": 524,
+        "Chase": 518,
+        "Deacon": 485,
+        "Isleworth": 352
+      },
+      "map": "isleworth-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tiger": 457,
+        "Palmer": 390,
+        "Lewis": 374,
+        "Chase": 359,
+        "Deacon": 332,
+        "Isleworth": 301
+      },
+      "map": "isleworth-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tiger": 221,
+        "Palmer": 187,
+        "Lewis": 180,
+        "Chase": 164,
+        "Deacon": 129,
+        "Isleworth": 105
+      },
+      "map": "isleworth-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Tiger": 393,
+        "Palmer": 336,
+        "Lewis": 322,
+        "Chase": 290,
+        "Deacon": 254,
+        "Isleworth": 225
+      },
+      "map": "isleworth-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Tiger": 586,
+        "Palmer": 549,
+        "Lewis": 529,
+        "Chase": 514,
+        "Deacon": 426,
+        "Isleworth": 374
+      },
+      "map": "isleworth-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tiger": 516,
+        "Palmer": 488,
+        "Lewis": 424,
+        "Chase": 390,
+        "Deacon": 381,
+        "Isleworth": 349
+      },
+      "map": "isleworth-country-club-18"
+    }
+  ],
+  "version": 1
+}

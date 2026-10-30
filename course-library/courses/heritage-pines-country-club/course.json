@@ -1,0 +1,193 @@
+{
+  "id": "heritage-pines-country-club",
+  "name": "Heritage Pines Country Club",
+  "town": "Trinity, FL",
+  "tees": [
+    "Gold",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 310,
+        "White": 284,
+        "Green": 270
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 490,
+        "White": 454,
+        "Green": 421
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 183,
+        "White": 176,
+        "Green": 150
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 337,
+        "White": 314,
+        "Green": 302
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 432,
+        "White": 391,
+        "Green": 370
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 182,
+        "White": 167,
+        "Green": 148
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 551,
+        "White": 524,
+        "Green": 451
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 357,
+        "White": 318,
+        "Green": 298
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 319,
+        "White": 309,
+        "Green": 282
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 311,
+        "White": 287,
+        "Green": 252
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 459,
+        "White": 427,
+        "Green": 380
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 165,
+        "White": 151,
+        "Green": 127
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 381,
+        "White": 351,
+        "Green": 321
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 279,
+        "White": 255,
+        "Green": 215
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 441,
+        "White": 416,
+        "Green": 371
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 381,
+        "White": 349,
+        "Green": 319
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 198,
+        "White": 157,
+        "Green": 141
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 372,
+        "White": 368,
+        "Green": 252
+      }
+    }
+  ],
+  "version": 1
+}

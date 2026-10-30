@@ -1,0 +1,325 @@
+{
+  "id": "victoria-hills-golf-club",
+  "name": "Victoria Hills Golf Club",
+  "town": "DeLand, FL",
+  "tees": [
+    "Black",
+    "Yellow",
+    "Blue",
+    "Blue/Green",
+    "Green (W)",
+    "Green/White",
+    "Green/White (W)",
+    "White",
+    "White (W)"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 449,
+        "Yellow": 387,
+        "Blue": 362,
+        "Blue/Green": 329,
+        "Green (W)": 329,
+        "Green/White": 295,
+        "Green/White (W)": 295,
+        "White": 295,
+        "White (W)": 295
+      },
+      "map": "victoria-hills-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 453,
+        "Yellow": 400,
+        "Blue": 380,
+        "Blue/Green": 344,
+        "Green (W)": 344,
+        "Green/White": 314,
+        "Green/White (W)": 314,
+        "White": 314,
+        "White (W)": 314
+      },
+      "map": "victoria-hills-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 226,
+        "Yellow": 204,
+        "Blue": 186,
+        "Blue/Green": 186,
+        "Green (W)": 160,
+        "Green/White": 160,
+        "Green/White (W)": 160,
+        "White": 127,
+        "White (W)": 127
+      },
+      "map": "victoria-hills-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 434,
+        "Yellow": 392,
+        "Blue": 359,
+        "Blue/Green": 330,
+        "Green (W)": 330,
+        "Green/White": 300,
+        "Green/White (W)": 300,
+        "White": 300,
+        "White (W)": 300
+      },
+      "map": "victoria-hills-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 585,
+        "Yellow": 558,
+        "Blue": 517,
+        "Blue/Green": 486,
+        "Green (W)": 486,
+        "Green/White": 458,
+        "Green/White (W)": 458,
+        "White": 458,
+        "White (W)": 458
+      },
+      "map": "victoria-hills-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 380,
+        "Yellow": 334,
+        "Blue": 309,
+        "Blue/Green": 309,
+        "Green (W)": 281,
+        "Green/White": 281,
+        "Green/White (W)": 281,
+        "White": 241,
+        "White (W)": 241
+      },
+      "map": "victoria-hills-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 181,
+        "Yellow": 158,
+        "Blue": 144,
+        "Blue/Green": 144,
+        "Green (W)": 133,
+        "Green/White": 133,
+        "Green/White (W)": 133,
+        "White": 111,
+        "White (W)": 111
+      },
+      "map": "victoria-hills-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 380,
+        "Yellow": 369,
+        "Blue": 344,
+        "Blue/Green": 344,
+        "Green (W)": 300,
+        "Green/White": 300,
+        "Green/White (W)": 300,
+        "White": 262,
+        "White (W)": 262
+      },
+      "map": "victoria-hills-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 549,
+        "Yellow": 532,
+        "Blue": 505,
+        "Blue/Green": 441,
+        "Green (W)": 441,
+        "Green/White": 433,
+        "Green/White (W)": 433,
+        "White": 433,
+        "White (W)": 433
+      },
+      "map": "victoria-hills-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 440,
+        "Yellow": 408,
+        "Blue": 370,
+        "Blue/Green": 339,
+        "Green (W)": 339,
+        "Green/White": 331,
+        "Green/White (W)": 331,
+        "White": 331,
+        "White (W)": 331
+      },
+      "map": "victoria-hills-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 187,
+        "Yellow": 155,
+        "Blue": 139,
+        "Blue/Green": 139,
+        "Green (W)": 125,
+        "Green/White": 125,
+        "Green/White (W)": 125,
+        "White": 106,
+        "White (W)": 106
+      },
+      "map": "victoria-hills-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 365,
+        "Yellow": 324,
+        "Blue": 286,
+        "Blue/Green": 286,
+        "Green (W)": 264,
+        "Green/White": 256,
+        "Green/White (W)": 256,
+        "White": 256,
+        "White (W)": 256
+      },
+      "map": "victoria-hills-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 401,
+        "Yellow": 373,
+        "Blue": 335,
+        "Blue/Green": 335,
+        "Green (W)": 308,
+        "Green/White": 308,
+        "Green/White (W)": 308,
+        "White": 276,
+        "White (W)": 276
+      },
+      "map": "victoria-hills-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 215,
+        "Yellow": 207,
+        "Blue": 124,
+        "Blue/Green": 124,
+        "Green (W)": 108,
+        "Green/White": 108,
+        "Green/White (W)": 108,
+        "White": 92,
+        "White (W)": 92
+      },
+      "map": "victoria-hills-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 523,
+        "Yellow": 487,
+        "Blue": 473,
+        "Blue/Green": 436,
+        "Green (W)": 436,
+        "Green/White": 417,
+        "Green/White (W)": 417,
+        "White": 417,
+        "White (W)": 417
+      },
+      "map": "victoria-hills-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 433,
+        "Yellow": 356,
+        "Blue": 321,
+        "Blue/Green": 287,
+        "Green (W)": 287,
+        "Green/White": 287,
+        "Green/White (W)": 287,
+        "White": 200,
+        "White (W)": 200
+      },
+      "map": "victoria-hills-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 369,
+        "Yellow": 335,
+        "Blue": 306,
+        "Blue/Green": 306,
+        "Green (W)": 289,
+        "Green/White": 289,
+        "Green/White (W)": 289,
+        "White": 257,
+        "White (W)": 257
+      },
+      "map": "victoria-hills-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 560,
+        "Yellow": 519,
+        "Blue": 483,
+        "Blue/Green": 458,
+        "Green (W)": 458,
+        "Green/White": 417,
+        "Green/White (W)": 417,
+        "White": 417,
+        "White (W)": 417
+      },
+      "map": "victoria-hills-golf-club-18"
+    }
+  ],
+  "version": 1
+}

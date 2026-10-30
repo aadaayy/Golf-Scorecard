@@ -1,0 +1,268 @@
+{
+  "id": "the-legends-at-orange-lake-resort",
+  "name": "The Legends At Orange Lake Resort",
+  "town": "Kissimmee, FL",
+  "tees": [
+    "Green",
+    "Web",
+    "Black",
+    "Blue (W)",
+    "White (W)",
+    "Yellow (W)"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Green": 392,
+        "Web": 392,
+        "Black": 361,
+        "Blue (W)": 332,
+        "White (W)": 325,
+        "Yellow (W)": 276
+      },
+      "map": "the-legends-at-orange-lake-resort-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Green": 540,
+        "Web": 540,
+        "Black": 517,
+        "Blue (W)": 489,
+        "White (W)": 450,
+        "Yellow (W)": 400
+      },
+      "map": "the-legends-at-orange-lake-resort-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Green": 224,
+        "Web": 224,
+        "Black": 212,
+        "Blue (W)": 200,
+        "White (W)": 181,
+        "Yellow (W)": 158
+      },
+      "map": "the-legends-at-orange-lake-resort-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Green": 610,
+        "Web": 610,
+        "Black": 595,
+        "Blue (W)": 565,
+        "White (W)": 530,
+        "Yellow (W)": 470
+      },
+      "map": "the-legends-at-orange-lake-resort-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Green": 425,
+        "Web": 425,
+        "Black": 410,
+        "Blue (W)": 371,
+        "White (W)": 317,
+        "Yellow (W)": 289
+      },
+      "map": "the-legends-at-orange-lake-resort-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Green": 186,
+        "Web": 186,
+        "Black": 180,
+        "Blue (W)": 160,
+        "White (W)": 130,
+        "Yellow (W)": 120
+      },
+      "map": "the-legends-at-orange-lake-resort-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Green": 450,
+        "Web": 450,
+        "Black": 427,
+        "Blue (W)": 405,
+        "White (W)": 370,
+        "Yellow (W)": 330
+      },
+      "map": "the-legends-at-orange-lake-resort-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Green": 553,
+        "Web": 553,
+        "Black": 520,
+        "Blue (W)": 496,
+        "White (W)": 479,
+        "Yellow (W)": 420
+      },
+      "map": "the-legends-at-orange-lake-resort-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Green": 420,
+        "Web": 420,
+        "Black": 394,
+        "Blue (W)": 365,
+        "White (W)": 325,
+        "Yellow (W)": 305
+      },
+      "map": "the-legends-at-orange-lake-resort-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 425,
+        "Web": 425,
+        "Black": 394,
+        "Blue (W)": 372,
+        "White (W)": 334,
+        "Yellow (W)": 298
+      },
+      "map": "the-legends-at-orange-lake-resort-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Green": 532,
+        "Web": 532,
+        "Black": 515,
+        "Blue (W)": 496,
+        "White (W)": 475,
+        "Yellow (W)": 425
+      },
+      "map": "the-legends-at-orange-lake-resort-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Green": 165,
+        "Web": 165,
+        "Black": 154,
+        "Blue (W)": 143,
+        "White (W)": 130,
+        "Yellow (W)": 110
+      },
+      "map": "the-legends-at-orange-lake-resort-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Green": 432,
+        "Web": 432,
+        "Black": 398,
+        "Blue (W)": 375,
+        "White (W)": 346,
+        "Yellow (W)": 318
+      },
+      "map": "the-legends-at-orange-lake-resort-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Green": 398,
+        "Web": 398,
+        "Black": 370,
+        "Blue (W)": 341,
+        "White (W)": 325,
+        "Yellow (W)": 305
+      },
+      "map": "the-legends-at-orange-lake-resort-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Green": 153,
+        "Web": 153,
+        "Black": 137,
+        "Blue (W)": 121,
+        "White (W)": 113,
+        "Yellow (W)": 90
+      },
+      "map": "the-legends-at-orange-lake-resort-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Green": 400,
+        "Web": 400,
+        "Black": 368,
+        "Blue (W)": 357,
+        "White (W)": 315,
+        "Yellow (W)": 288
+      },
+      "map": "the-legends-at-orange-lake-resort-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Green": 327,
+        "Web": 327,
+        "Black": 296,
+        "Blue (W)": 275,
+        "White (W)": 250,
+        "Yellow (W)": 241
+      },
+      "map": "the-legends-at-orange-lake-resort-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Green": 440,
+        "Web": 440,
+        "Black": 417,
+        "Blue (W)": 400,
+        "White (W)": 385,
+        "Yellow (W)": 345
+      },
+      "map": "the-legends-at-orange-lake-resort-18"
+    }
+  ],
+  "version": 1
+}

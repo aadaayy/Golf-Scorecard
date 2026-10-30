@@ -1,0 +1,212 @@
+{
+  "id": "wellington-national-golf-club",
+  "name": "Wellington National Golf Club",
+  "town": "Wellington, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 355,
+        "Blue": 342,
+        "White": 312,
+        "Green": 284
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 555,
+        "Blue": 518,
+        "White": 490,
+        "Green": 453
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 211,
+        "Blue": 173,
+        "White": 140,
+        "Green": 105
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 361,
+        "Blue": 355,
+        "White": 347,
+        "Green": 250
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 409,
+        "Blue": 386,
+        "White": 363,
+        "Green": 334
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 517,
+        "Blue": 475,
+        "White": 433,
+        "Green": 399
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 221,
+        "Blue": 191,
+        "White": 163,
+        "Green": 109
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 474,
+        "Blue": 393,
+        "White": 355,
+        "Green": 315
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 485,
+        "Blue": 465,
+        "White": 432,
+        "Green": 392
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 402,
+        "Blue": 366,
+        "White": 330,
+        "Green": 288
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 432,
+        "Blue": 385,
+        "White": 348,
+        "Green": 309
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 555,
+        "Blue": 517,
+        "White": 484,
+        "Green": 460
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 243,
+        "Blue": 197,
+        "White": 154,
+        "Green": 89
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 404,
+        "Blue": 374,
+        "White": 342,
+        "Green": 275
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 394,
+        "Blue": 350,
+        "White": 322,
+        "Green": 287
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 138,
+        "Blue": 141,
+        "White": 116,
+        "Green": 72
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 563,
+        "Blue": 530,
+        "White": 465,
+        "Green": 425
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 406,
+        "Blue": 380,
+        "White": 344,
+        "Green": 312
+      }
+    }
+  ],
+  "version": 1
+}

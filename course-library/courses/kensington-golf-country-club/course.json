@@ -1,0 +1,155 @@
+{
+  "id": "kensington-golf-country-club",
+  "name": "Kensington Golf Country Club",
+  "town": "Naples, FL",
+  "tees": [
+    "Iii/Iv"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Iii/Iv": 343
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Iii/Iv": 306
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Iii/Iv": 104
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Iii/Iv": 500
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Iii/Iv": 125
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Iii/Iv": 358
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Iii/Iv": 358
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Iii/Iv": 150
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Iii/Iv": 519
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Iii/Iv": 272
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Iii/Iv": 164
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Iii/Iv": 457
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Iii/Iv": 307
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Iii/Iv": 156
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Iii/Iv": 361
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Iii/Iv": 518
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Iii/Iv": 366
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Iii/Iv": 367
+      }
+    }
+  ],
+  "version": 1
+}

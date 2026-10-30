@@ -1,0 +1,230 @@
+{
+  "id": "hidden-lakes-golf-course",
+  "name": "Hidden Lakes Golf Course",
+  "town": "New Smyrna Beach, FL",
+  "tees": [
+    "Tips/Blue",
+    "Web",
+    "Champion/White",
+    "Challenger/Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Tips/Blue": 325,
+        "Web": 325,
+        "Champion/White": 305,
+        "Challenger/Gold": 285
+      },
+      "map": "hidden-lakes-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tips/Blue": 135,
+        "Web": 135,
+        "Champion/White": 125,
+        "Challenger/Gold": 100
+      },
+      "map": "hidden-lakes-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tips/Blue": 360,
+        "Web": 360,
+        "Champion/White": 335,
+        "Challenger/Gold": 320
+      },
+      "map": "hidden-lakes-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tips/Blue": 350,
+        "Web": 350,
+        "Champion/White": 330,
+        "Challenger/Gold": 315
+      },
+      "map": "hidden-lakes-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Tips/Blue": 190,
+        "Web": 190,
+        "Champion/White": 165,
+        "Challenger/Gold": 150
+      },
+      "map": "hidden-lakes-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tips/Blue": 300,
+        "Web": 300,
+        "Champion/White": 282,
+        "Challenger/Gold": 265
+      },
+      "map": "hidden-lakes-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Tips/Blue": 479,
+        "Web": 479,
+        "Champion/White": 469,
+        "Challenger/Gold": 400
+      },
+      "map": "hidden-lakes-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tips/Blue": 205,
+        "Web": 205,
+        "Champion/White": 155,
+        "Challenger/Gold": 115
+      },
+      "map": "hidden-lakes-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Tips/Blue": 195,
+        "Web": 195,
+        "Champion/White": 170,
+        "Challenger/Gold": 155
+      },
+      "map": "hidden-lakes-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tips/Blue": 285,
+        "Web": 285,
+        "Champion/White": 265,
+        "Challenger/Gold": 250
+      },
+      "map": "hidden-lakes-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tips/Blue": 145,
+        "Web": 145,
+        "Champion/White": 115,
+        "Challenger/Gold": 105
+      },
+      "map": "hidden-lakes-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tips/Blue": 400,
+        "Web": 400,
+        "Champion/White": 380,
+        "Challenger/Gold": 365
+      },
+      "map": "hidden-lakes-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tips/Blue": 205,
+        "Web": 205,
+        "Champion/White": 145,
+        "Challenger/Gold": 125
+      },
+      "map": "hidden-lakes-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Tips/Blue": 445,
+        "Web": 445,
+        "Champion/White": 435,
+        "Challenger/Gold": 355
+      },
+      "map": "hidden-lakes-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Tips/Blue": 470,
+        "Web": 470,
+        "Champion/White": 450,
+        "Challenger/Gold": 415
+      },
+      "map": "hidden-lakes-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tips/Blue": 355,
+        "Web": 355,
+        "Champion/White": 340,
+        "Challenger/Gold": 330
+      },
+      "map": "hidden-lakes-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tips/Blue": 240,
+        "Web": 240,
+        "Champion/White": 225,
+        "Challenger/Gold": 190
+      },
+      "map": "hidden-lakes-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tips/Blue": 370,
+        "Web": 370,
+        "Champion/White": 350,
+        "Challenger/Gold": 335
+      },
+      "map": "hidden-lakes-golf-course-18"
+    }
+  ],
+  "version": 1
+}

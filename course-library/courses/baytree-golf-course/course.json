@@ -1,0 +1,193 @@
+{
+  "id": "baytree-golf-course",
+  "name": "Baytree Golf Course",
+  "town": "Viera, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 261,
+        "White": 261,
+        "Red": 246
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 299,
+        "White": 264,
+        "Red": 231
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 258,
+        "White": 258,
+        "Red": 240
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 163,
+        "White": 137,
+        "Red": 126
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 150,
+        "White": 150,
+        "Red": 137
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 282,
+        "White": 252,
+        "Red": 243
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 102,
+        "White": 94,
+        "Red": 85
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 152,
+        "White": 152,
+        "Red": 134
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 150,
+        "White": 134,
+        "Red": 120
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 177,
+        "White": 168,
+        "Red": 156
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 234,
+        "White": 207,
+        "Red": 195
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 133,
+        "White": 133,
+        "Red": 114
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 201,
+        "White": 188,
+        "Red": 149
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 128,
+        "White": 128,
+        "Red": 120
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 206,
+        "White": 166,
+        "Red": 138
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 277,
+        "White": 277,
+        "Red": 267
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 245,
+        "White": 232,
+        "Red": 210
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 334,
+        "White": 302,
+        "Red": 292
+      }
+    }
+  ],
+  "version": 1
+}

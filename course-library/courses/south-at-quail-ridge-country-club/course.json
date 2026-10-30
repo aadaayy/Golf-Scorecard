@@ -1,0 +1,307 @@
+{
+  "id": "south-at-quail-ridge-country-club",
+  "name": "South At Quail Ridge Country Club",
+  "town": "Boynton Beach, FL",
+  "tees": [
+    "I",
+    "I/Ii",
+    "II",
+    "Ii/Iii",
+    "III",
+    "Iii/Iv",
+    "IV",
+    "Iv/V",
+    "V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "I": 372,
+        "I/Ii": 372,
+        "II": 352,
+        "Ii/Iii": 352,
+        "III": 318,
+        "Iii/Iv": 318,
+        "IV": 284,
+        "Iv/V": 284,
+        "V": 253
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 395,
+        "I/Ii": 350,
+        "II": 350,
+        "Ii/Iii": 350,
+        "III": 312,
+        "Iii/Iv": 312,
+        "IV": 278,
+        "Iv/V": 278,
+        "V": 251
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "I": 517,
+        "I/Ii": 517,
+        "II": 480,
+        "Ii/Iii": 480,
+        "III": 462,
+        "Iii/Iv": 462,
+        "IV": 413,
+        "Iv/V": 372,
+        "V": 372
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "I": 238,
+        "I/Ii": 192,
+        "II": 192,
+        "Ii/Iii": 165,
+        "III": 165,
+        "Iii/Iv": 134,
+        "IV": 134,
+        "Iv/V": 127,
+        "V": 127
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "I": 468,
+        "I/Ii": 411,
+        "II": 411,
+        "Ii/Iii": 363,
+        "III": 363,
+        "Iii/Iv": 300,
+        "IV": 300,
+        "Iv/V": 300,
+        "V": 246
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "I": 522,
+        "I/Ii": 522,
+        "II": 473,
+        "Ii/Iii": 473,
+        "III": 449,
+        "Iii/Iv": 449,
+        "IV": 391,
+        "Iv/V": 324,
+        "V": 324
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 416,
+        "I/Ii": 374,
+        "II": 374,
+        "Ii/Iii": 328,
+        "III": 328,
+        "Iii/Iv": 300,
+        "IV": 300,
+        "Iv/V": 300,
+        "V": 276
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "I": 213,
+        "I/Ii": 177,
+        "II": 177,
+        "Ii/Iii": 177,
+        "III": 154,
+        "Iii/Iv": 143,
+        "IV": 143,
+        "Iv/V": 111,
+        "V": 111
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "I": 435,
+        "I/Ii": 382,
+        "II": 382,
+        "Ii/Iii": 343,
+        "III": 343,
+        "Iii/Iv": 309,
+        "IV": 309,
+        "Iv/V": 309,
+        "V": 274
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "I": 404,
+        "I/Ii": 404,
+        "II": 352,
+        "Ii/Iii": 352,
+        "III": 306,
+        "Iii/Iv": 306,
+        "IV": 279,
+        "Iv/V": 279,
+        "V": 250
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 371,
+        "I/Ii": 371,
+        "II": 324,
+        "Ii/Iii": 324,
+        "III": 292,
+        "Iii/Iv": 292,
+        "IV": 278,
+        "Iv/V": 278,
+        "V": 253
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 155,
+        "I/Ii": 155,
+        "II": 142,
+        "Ii/Iii": 142,
+        "III": 133,
+        "Iii/Iv": 133,
+        "IV": 121,
+        "Iv/V": 121,
+        "V": 112
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "I": 540,
+        "I/Ii": 540,
+        "II": 495,
+        "Ii/Iii": 455,
+        "III": 455,
+        "Iii/Iv": 455,
+        "IV": 423,
+        "Iv/V": 379,
+        "V": 379
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "I": 421,
+        "I/Ii": 379,
+        "II": 379,
+        "Ii/Iii": 339,
+        "III": 339,
+        "Iii/Iv": 287,
+        "IV": 287,
+        "Iv/V": 287,
+        "V": 258
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "I": 212,
+        "I/Ii": 190,
+        "II": 190,
+        "Ii/Iii": 173,
+        "III": 173,
+        "Iii/Iv": 147,
+        "IV": 147,
+        "Iv/V": 133,
+        "V": 133
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "I": 393,
+        "I/Ii": 393,
+        "II": 364,
+        "Ii/Iii": 364,
+        "III": 328,
+        "Iii/Iv": 328,
+        "IV": 286,
+        "Iv/V": 286,
+        "V": 263
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "I": 353,
+        "I/Ii": 353,
+        "II": 316,
+        "Ii/Iii": 316,
+        "III": 283,
+        "Iii/Iv": 283,
+        "IV": 242,
+        "Iv/V": 217,
+        "V": 217
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "I": 544,
+        "I/Ii": 544,
+        "II": 483,
+        "Ii/Iii": 483,
+        "III": 433,
+        "Iii/Iv": 403,
+        "IV": 403,
+        "Iv/V": 336,
+        "V": 336
+      }
+    }
+  ],
+  "version": 1
+}

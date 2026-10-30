@@ -1,0 +1,231 @@
+{
+  "id": "glenlakes-country-club",
+  "name": "Glenlakes Country Club",
+  "town": "Spring Hill, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 362,
+        "Blue": 355,
+        "White": 327,
+        "Gold": 297,
+        "Red": 258
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 392,
+        "Blue": 366,
+        "White": 346,
+        "Gold": 320,
+        "Red": 288
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 359,
+        "Blue": 342,
+        "White": 313,
+        "Gold": 296,
+        "Red": 253
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 157,
+        "Blue": 145,
+        "White": 138,
+        "Gold": 126,
+        "Red": 112
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 540,
+        "Blue": 516,
+        "White": 502,
+        "Gold": 488,
+        "Red": 457
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 381,
+        "Blue": 356,
+        "White": 340,
+        "Gold": 317,
+        "Red": 298
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 189,
+        "Blue": 181,
+        "White": 171,
+        "Gold": 163,
+        "Red": 133
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 415,
+        "Blue": 385,
+        "White": 365,
+        "Gold": 345,
+        "Red": 316
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 469,
+        "Blue": 469,
+        "White": 456,
+        "Gold": 434,
+        "Red": 389
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 530,
+        "Blue": 502,
+        "White": 473,
+        "Gold": 439,
+        "Red": 381
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 207,
+        "Blue": 183,
+        "White": 174,
+        "Gold": 156,
+        "Red": 147
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 366,
+        "Blue": 358,
+        "White": 334,
+        "Gold": 304,
+        "Red": 269
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 370,
+        "Blue": 361,
+        "White": 341,
+        "Gold": 305,
+        "Red": 260
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 349,
+        "Blue": 330,
+        "White": 317,
+        "Gold": 284,
+        "Red": 255
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 419,
+        "Blue": 383,
+        "White": 370,
+        "Gold": 327,
+        "Red": 318
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 193,
+        "Blue": 177,
+        "White": 169,
+        "Gold": 161,
+        "Red": 132
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 426,
+        "Blue": 391,
+        "White": 380,
+        "Gold": 349,
+        "Red": 328
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 535,
+        "Blue": 509,
+        "White": 496,
+        "Gold": 465,
+        "Red": 376
+      }
+    }
+  ],
+  "version": 1
+}

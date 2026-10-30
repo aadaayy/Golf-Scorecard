@@ -1,0 +1,231 @@
+{
+  "id": "baytree-national-golf-links",
+  "name": "Baytree National Golf Links",
+  "town": "Melbourne, FL",
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 416,
+        "Gold": 386,
+        "Blue": 349,
+        "White": 286,
+        "Red": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 187,
+        "Gold": 179,
+        "Blue": 154,
+        "White": 126,
+        "Red": 77
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 361,
+        "Gold": 333,
+        "Blue": 308,
+        "White": 277,
+        "Red": 221
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 208,
+        "Gold": 192,
+        "Blue": 177,
+        "White": 124,
+        "Red": 108
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 548,
+        "Gold": 528,
+        "Blue": 488,
+        "White": 458,
+        "Red": 399
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 361,
+        "Gold": 328,
+        "Blue": 313,
+        "White": 274,
+        "Red": 238
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 407,
+        "Gold": 386,
+        "Blue": 365,
+        "White": 349,
+        "Red": 311
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 546,
+        "Gold": 498,
+        "Blue": 471,
+        "White": 424,
+        "Red": 384
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 400,
+        "Gold": 372,
+        "Blue": 352,
+        "White": 326,
+        "Red": 290
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 386,
+        "Gold": 369,
+        "Blue": 354,
+        "White": 282,
+        "Red": 254
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 363,
+        "Gold": 339,
+        "Blue": 313,
+        "White": 274,
+        "Red": 250
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 189,
+        "Gold": 166,
+        "Blue": 142,
+        "White": 128,
+        "Red": 114
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 544,
+        "Gold": 538,
+        "Blue": 520,
+        "White": 427,
+        "Red": 415
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 399,
+        "Gold": 355,
+        "Blue": 320,
+        "White": 293,
+        "Red": 275
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 442,
+        "Gold": 410,
+        "Blue": 374,
+        "White": 335,
+        "Red": 292
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 532,
+        "Gold": 519,
+        "Blue": 478,
+        "White": 429,
+        "Red": 407
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 201,
+        "Gold": 185,
+        "Blue": 148,
+        "White": 119,
+        "Red": 68
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 382,
+        "Gold": 363,
+        "Blue": 338,
+        "White": 311,
+        "Red": 286
+      }
+    }
+  ],
+  "version": 1
+}

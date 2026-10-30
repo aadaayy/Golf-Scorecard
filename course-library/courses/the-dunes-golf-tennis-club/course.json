@@ -1,0 +1,250 @@
+{
+  "id": "the-dunes-golf-tennis-club",
+  "name": "The Dunes Golf Tennis Club",
+  "town": "Sanibel, FL",
+  "tees": [
+    "I",
+    "II",
+    "III",
+    "Iii/Iv",
+    "IV",
+    "V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "I": 316,
+        "II": 308,
+        "III": 291,
+        "Iii/Iv": 291,
+        "IV": 226,
+        "V": 177
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 101,
+        "II": 91,
+        "III": 82,
+        "Iii/Iv": 82,
+        "IV": 72,
+        "V": 66
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "I": 463,
+        "II": 435,
+        "III": 410,
+        "Iii/Iv": 410,
+        "IV": 358,
+        "V": 271
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "I": 293,
+        "II": 287,
+        "III": 278,
+        "Iii/Iv": 278,
+        "IV": 260,
+        "V": 175
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "I": 361,
+        "II": 331,
+        "III": 303,
+        "Iii/Iv": 250,
+        "IV": 250,
+        "V": 142
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "I": 151,
+        "II": 133,
+        "III": 115,
+        "Iii/Iv": 115,
+        "IV": 89,
+        "V": 85
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "I": 414,
+        "II": 363,
+        "III": 343,
+        "Iii/Iv": 271,
+        "IV": 271,
+        "V": 226
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "I": 270,
+        "II": 265,
+        "III": 247,
+        "Iii/Iv": 171,
+        "IV": 171,
+        "V": 152
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "I": 131,
+        "II": 124,
+        "III": 111,
+        "Iii/Iv": 111,
+        "IV": 98,
+        "V": 97
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "I": 398,
+        "II": 390,
+        "III": 367,
+        "Iii/Iv": 322,
+        "IV": 322,
+        "V": 236
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 153,
+        "II": 142,
+        "III": 127,
+        "Iii/Iv": 127,
+        "IV": 109,
+        "V": 89
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "I": 310,
+        "II": 284,
+        "III": 279,
+        "Iii/Iv": 205,
+        "IV": 205,
+        "V": 157
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "I": 381,
+        "II": 369,
+        "III": 345,
+        "Iii/Iv": 345,
+        "IV": 255,
+        "V": 201
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 442,
+        "II": 364,
+        "III": 352,
+        "Iii/Iv": 352,
+        "IV": 310,
+        "V": 269
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "I": 301,
+        "II": 274,
+        "III": 266,
+        "Iii/Iv": 266,
+        "IV": 240,
+        "V": 207
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "I": 478,
+        "II": 465,
+        "III": 407,
+        "Iii/Iv": 376,
+        "IV": 376,
+        "V": 301
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I": 185,
+        "II": 172,
+        "III": 151,
+        "Iii/Iv": 151,
+        "IV": 77,
+        "V": 77
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "I": 458,
+        "II": 452,
+        "III": 439,
+        "Iii/Iv": 308,
+        "IV": 308,
+        "V": 276
+      }
+    }
+  ],
+  "version": 1
+}

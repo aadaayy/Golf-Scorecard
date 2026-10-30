@@ -1,0 +1,174 @@
+{
+  "id": "silverado-golf-country-club",
+  "name": "Silverado Golf Country Club",
+  "town": "Zephyrhills, FL",
+  "tees": [
+    "Silver",
+    "Web"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Silver": 361,
+        "Web": 346
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Silver": 510,
+        "Web": 515
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Silver": 402,
+        "Web": 370
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Silver": 193,
+        "Web": 176
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Silver": 406,
+        "Web": 392
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Silver": 507,
+        "Web": 485
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Silver": 186,
+        "Web": 166
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Silver": 409,
+        "Web": 386
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Silver": 302,
+        "Web": 270
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Silver": 442,
+        "Web": 423
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Silver": 377,
+        "Web": 353
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Silver": 477,
+        "Web": 426
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Silver": 168,
+        "Web": 154
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Silver": 360,
+        "Web": 329
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Silver": 392,
+        "Web": 363
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Silver": 440,
+        "Web": 419
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Silver": 174,
+        "Web": 153
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Silver": 565,
+        "Web": 536
+      }
+    }
+  ],
+  "version": 1
+}

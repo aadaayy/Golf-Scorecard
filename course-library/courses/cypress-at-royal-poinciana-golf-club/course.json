@@ -1,0 +1,231 @@
+{
+  "id": "cypress-at-royal-poinciana-golf-club",
+  "name": "Cypress At Royal Poinciana Golf Club",
+  "town": "Naples, FL",
+  "tees": [
+    "I",
+    "II",
+    "IV",
+    "Iv/V",
+    "V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "I": 473,
+        "II": 465,
+        "IV": 414,
+        "Iv/V": 414,
+        "V": 380
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 397,
+        "II": 380,
+        "IV": 310,
+        "Iv/V": 310,
+        "V": 291
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "I": 403,
+        "II": 388,
+        "IV": 336,
+        "Iv/V": 310,
+        "V": 310
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I": 328,
+        "II": 320,
+        "IV": 279,
+        "Iv/V": 279,
+        "V": 260
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 165,
+        "II": 160,
+        "IV": 130,
+        "Iv/V": 130,
+        "V": 93
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "I": 365,
+        "II": 351,
+        "IV": 305,
+        "Iv/V": 305,
+        "V": 250
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "I": 495,
+        "II": 480,
+        "IV": 410,
+        "Iv/V": 410,
+        "V": 376
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I": 190,
+        "II": 180,
+        "IV": 135,
+        "Iv/V": 135,
+        "V": 118
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I": 412,
+        "II": 400,
+        "IV": 334,
+        "Iv/V": 310,
+        "V": 310
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "I": 420,
+        "II": 395,
+        "IV": 350,
+        "Iv/V": 328,
+        "V": 328
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "I": 366,
+        "II": 352,
+        "IV": 312,
+        "Iv/V": 318,
+        "V": 278
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "I": 159,
+        "II": 138,
+        "IV": 104,
+        "Iv/V": 110,
+        "V": 85
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "I": 490,
+        "II": 474,
+        "IV": 434,
+        "Iv/V": 429,
+        "V": 396
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 171,
+        "II": 161,
+        "IV": 121,
+        "Iv/V": 141,
+        "V": 106
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 326,
+        "II": 313,
+        "IV": 270,
+        "Iv/V": 253,
+        "V": 224
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 361,
+        "II": 347,
+        "IV": 316,
+        "Iv/V": 290,
+        "V": 281
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "I": 388,
+        "II": 360,
+        "IV": 320,
+        "Iv/V": 296,
+        "V": 294
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "I": 496,
+        "II": 475,
+        "IV": 439,
+        "Iv/V": 430,
+        "V": 407
+      }
+    }
+  ],
+  "version": 1
+}

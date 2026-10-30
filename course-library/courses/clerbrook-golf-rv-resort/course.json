@@ -1,0 +1,212 @@
+{
+  "id": "clerbrook-golf-rv-resort",
+  "name": "Clerbrook Golf Rv Resort",
+  "town": "Clermont, FL",
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 222,
+        "White": 214,
+        "Gold": 200,
+        "Red": 193
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 234,
+        "White": 221,
+        "Gold": 196,
+        "Red": 190
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 350,
+        "White": 322,
+        "Gold": 314,
+        "Red": 268
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 155,
+        "White": 147,
+        "Gold": 109,
+        "Red": 98
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 314,
+        "White": 304,
+        "Gold": 281,
+        "Red": 239
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 367,
+        "White": 354,
+        "Gold": 277,
+        "Red": 270
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 175,
+        "White": 169,
+        "Gold": 136,
+        "Red": 96
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 147,
+        "White": 143,
+        "Gold": 111,
+        "Red": 90
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 458,
+        "White": 434,
+        "Gold": 387,
+        "Red": 371
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 212,
+        "White": 200,
+        "Gold": 179,
+        "Red": 165
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 368,
+        "White": 333,
+        "Gold": 312,
+        "Red": 292
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 337,
+        "White": 327,
+        "Gold": 281,
+        "Red": 257
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 159,
+        "White": 150,
+        "Gold": 139,
+        "Red": 116
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 474,
+        "White": 449,
+        "Gold": 419,
+        "Red": 375
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 383,
+        "White": 370,
+        "Gold": 318,
+        "Red": 311
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 155,
+        "White": 144,
+        "Gold": 133,
+        "Red": 117
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 285,
+        "White": 245,
+        "Gold": 212,
+        "Red": 180
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 302,
+        "White": 291,
+        "Gold": 271,
+        "Red": 265
+      }
+    }
+  ],
+  "version": 1
+}

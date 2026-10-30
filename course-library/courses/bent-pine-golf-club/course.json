@@ -1,0 +1,250 @@
+{
+  "id": "bent-pine-golf-club",
+  "name": "Bent Pine Golf Club",
+  "town": "Vero Beach, FL",
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red",
+    "Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 566,
+        "Blue": 510,
+        "White": 492,
+        "Gold": 414,
+        "Red": 409,
+        "Silver": 409
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 427,
+        "Blue": 376,
+        "White": 362,
+        "Gold": 287,
+        "Red": 282,
+        "Silver": 282
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 188,
+        "Blue": 172,
+        "White": 157,
+        "Gold": 157,
+        "Red": 115,
+        "Silver": 115
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 602,
+        "Blue": 555,
+        "White": 520,
+        "Gold": 450,
+        "Red": 448,
+        "Silver": 400
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 201,
+        "Blue": 171,
+        "White": 163,
+        "Gold": 130,
+        "Red": 113,
+        "Silver": 90
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 456,
+        "Blue": 413,
+        "White": 365,
+        "Gold": 365,
+        "Red": 326,
+        "Silver": 326
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 401,
+        "Blue": 355,
+        "White": 346,
+        "Gold": 346,
+        "Red": 339,
+        "Silver": 289
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 355,
+        "Blue": 320,
+        "White": 308,
+        "Gold": 306,
+        "Red": 296,
+        "Silver": 244
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 408,
+        "Blue": 377,
+        "White": 361,
+        "Gold": 301,
+        "Red": 295,
+        "Silver": 295
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 407,
+        "Blue": 386,
+        "White": 362,
+        "Gold": 305,
+        "Red": 299,
+        "Silver": 299
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 414,
+        "Blue": 390,
+        "White": 382,
+        "Gold": 365,
+        "Red": 357,
+        "Silver": 317
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 410,
+        "Blue": 394,
+        "White": 375,
+        "Gold": 317,
+        "Red": 311,
+        "Silver": 311
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 157,
+        "Blue": 138,
+        "White": 125,
+        "Gold": 125,
+        "Red": 118,
+        "Silver": 118
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 493,
+        "Blue": 470,
+        "White": 454,
+        "Gold": 434,
+        "Red": 429,
+        "Silver": 384
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 319,
+        "Blue": 305,
+        "White": 290,
+        "Gold": 290,
+        "Red": 285,
+        "Silver": 260
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 192,
+        "Blue": 167,
+        "White": 135,
+        "Gold": 135,
+        "Red": 129,
+        "Silver": 129
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 432,
+        "Blue": 405,
+        "White": 365,
+        "Gold": 365,
+        "Red": 324,
+        "Silver": 324
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 563,
+        "Blue": 531,
+        "White": 515,
+        "Gold": 465,
+        "Red": 406,
+        "Silver": 406
+      }
+    }
+  ],
+  "version": 1
+}

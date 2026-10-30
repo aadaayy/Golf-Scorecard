@@ -1,0 +1,249 @@
+{
+  "id": "sebastian-municipal-golf-course",
+  "name": "Sebastian Municipal Golf Course",
+  "town": "Sebastian, FL",
+  "tees": [
+    "Web",
+    "Champ",
+    "Back",
+    "Middle",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Web": 380,
+        "Champ": 384,
+        "Back": 344,
+        "Middle": 324,
+        "Forward": 322
+      },
+      "map": "sebastian-municipal-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 152,
+        "Champ": 152,
+        "Back": 150,
+        "Middle": 128,
+        "Forward": 122
+      },
+      "map": "sebastian-municipal-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 410,
+        "Champ": 394,
+        "Back": 376,
+        "Middle": 335,
+        "Forward": 330
+      },
+      "map": "sebastian-municipal-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Web": 534,
+        "Champ": 518,
+        "Back": 482,
+        "Middle": 417,
+        "Forward": 410
+      },
+      "map": "sebastian-municipal-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 184,
+        "Champ": 180,
+        "Back": 163,
+        "Middle": 143,
+        "Forward": 136
+      },
+      "map": "sebastian-municipal-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 422,
+        "Champ": 413,
+        "Back": 371,
+        "Middle": 321,
+        "Forward": 307
+      },
+      "map": "sebastian-municipal-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Web": 526,
+        "Champ": 515,
+        "Back": 493,
+        "Middle": 461,
+        "Forward": 452
+      },
+      "map": "sebastian-municipal-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Web": 355,
+        "Champ": 338,
+        "Back": 307,
+        "Middle": 230,
+        "Forward": 219
+      },
+      "map": "sebastian-municipal-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Web": 369,
+        "Champ": 367,
+        "Back": 352,
+        "Middle": 325,
+        "Forward": 318
+      },
+      "map": "sebastian-municipal-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Web": 511,
+        "Champ": 508,
+        "Back": 475,
+        "Middle": 453,
+        "Forward": 447
+      },
+      "map": "sebastian-municipal-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 344,
+        "Champ": 334,
+        "Back": 305,
+        "Middle": 295,
+        "Forward": 275
+      },
+      "map": "sebastian-municipal-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Web": 372,
+        "Champ": 367,
+        "Back": 338,
+        "Middle": 321,
+        "Forward": 317
+      },
+      "map": "sebastian-municipal-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 424,
+        "Champ": 404,
+        "Back": 379,
+        "Middle": 348,
+        "Forward": 338
+      },
+      "map": "sebastian-municipal-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Web": 180,
+        "Champ": 176,
+        "Back": 153,
+        "Middle": 137,
+        "Forward": 107
+      },
+      "map": "sebastian-municipal-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Web": 546,
+        "Champ": 514,
+        "Back": 474,
+        "Middle": 397,
+        "Forward": 381
+      },
+      "map": "sebastian-municipal-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 420,
+        "Champ": 424,
+        "Back": 399,
+        "Middle": 340,
+        "Forward": 289
+      },
+      "map": "sebastian-municipal-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 156,
+        "Champ": 152,
+        "Back": 136,
+        "Middle": 117,
+        "Forward": 111
+      },
+      "map": "sebastian-municipal-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 430,
+        "Champ": 423,
+        "Back": 401,
+        "Middle": 374,
+        "Forward": 314
+      },
+      "map": "sebastian-municipal-golf-course-18"
+    }
+  ],
+  "version": 1
+}
