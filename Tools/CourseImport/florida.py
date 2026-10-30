@@ -70,9 +70,53 @@ def florida_courses(dataset):
                 continue
             lng, lat = (feature.get("geometry") or {}).get("coordinates", [None, None])
             courses.append({"id": p["id"], "name": p.get("name") or "", "city": p.get("city") or "",
-                            "lat": lat, "lng": lng, "holes": p.get("holes"), "par": p.get("par")})
-    courses.sort(key=lambda c: c["id"])
+                            "lat": lat, "lng": lng, "holes": p.get("holes"), "par": p.get("par"),
+                            "zip": p.get("postal_code") or ""})
+    # Fetch order: Miami-Dade, Broward and Palm Beach first, then the rest of
+    # Florida in bands working south to north (the Keys first, the Panhandle last).
+    courses.sort(key=lambda c: (region(c)[0], c["lat"] if c["lat"] is not None else 99, c["id"]))
     return courses
+
+
+# Bands of Florida for the fetch order, south to north, after the three counties.
+REGIONS = [
+    (0, "Miami-Dade, Broward and Palm Beach"),
+    (1, "South Florida (the Keys, Naples, Fort Myers)"),
+    (2, "South Central (Sarasota, Sebring, Port St. Lucie)"),
+    (3, "Central (Tampa, Orlando, Melbourne)"),
+    (4, "North Central (Ocala, Gainesville, Daytona)"),
+    (5, "North and the Panhandle (Jacksonville, Tallahassee, Pensacola)"),
+]
+
+
+def south_florida_county(code, lat, lng):
+    """Miami-Dade, Broward or Palm Beach from the zip code, or None."""
+    if len(code) >= 5 and code[:5].isdigit():
+        z = int(code[:5])
+        if 33010 <= z <= 33018 or 33030 <= z <= 33035 or z == 33039 or 33054 <= z <= 33056 or 33100 <= z <= 33299:
+            return "Miami-Dade"
+        if z in (33004, 33009, 33441, 33442) or 33019 <= z <= 33029 or 33060 <= z <= 33084 or 33300 <= z <= 33399:
+            return "Broward"
+        if 33400 <= z <= 33499 and z not in (33440, 33455, 33471, 33475):
+            return "Palm Beach"
+        return None
+    # No zip code: the strip of the east coast the three counties cover.
+    if lat is not None and lng is not None and 25.2 <= lat <= 26.98 and -80.9 <= lng <= -79.9:
+        return "South Florida"
+    return None
+
+
+def region(course):
+    """(band number, name) of a course for the fetch order."""
+    lat = course.get("lat")
+    if south_florida_county(course.get("zip", ""), lat, course.get("lng")):
+        return REGIONS[0]
+    if lat is None:
+        return REGIONS[-1]
+    for number, top in ((1, 27.0), (2, 28.0), (3, 29.0), (4, 30.0)):
+        if lat < top:
+            return REGIONS[number]
+    return REGIONS[5]
 
 
 def trim_detail(course, detail):
@@ -105,6 +149,8 @@ def fetch_api(args):
     courses = [c for c in florida_courses(args.dataset) if c["id"] not in SKIP]
     todo = [c for c in courses if not os.path.exists(os.path.join(API_CACHE, c["id"] + ".json"))]
     print(f"{len(courses)} Florida courses; {len(courses) - len(todo)} already fetched, {len(todo)} to go", flush=True)
+    for number, name in REGIONS:
+        print(f"  {name}: {sum(1 for c in todo if region(c)[0] == number)} to go", flush=True)
     # Stay under the API's daily allowance however often this runs: count calls per UTC day.
     today = time.strftime("%Y-%m-%d", time.gmtime())
     usage = json.load(open(USAGE_FILE)) if os.path.exists(USAGE_FILE) else {}
