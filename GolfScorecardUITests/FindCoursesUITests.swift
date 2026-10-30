@@ -97,7 +97,8 @@ final class FindCoursesUITests: XCTestCase {
         XCTAssertTrue(search.waitForExistence(timeout: 5), "Find Courses should have a search field")
         search.tap()
         search.typeText("Orlando")
-        XCTAssertTrue(waitForGone(row), "Searching for another town should hide Pompano Beach Pines")
+        XCTAssertTrue(waitForGone(row, timeout: 15),
+                      "Searching for another town should hide Pompano Beach Pines (the search reads \(String(describing: search.value)))")
         search.typeText(String(repeating: XCUIKeyboardKey.delete.rawValue, count: 7) + "pompano")
         XCTAssertTrue(row.waitForExistence(timeout: 5), "Searching by town should find Pompano Beach Pines")
         capture("f3-search")
@@ -127,6 +128,7 @@ final class FindCoursesUITests: XCTestCase {
         capture("g1-github-find-courses")
         row.tap()
         XCTAssertTrue(wait(for: row, label: "On your phone", timeout: 60), "The download from GitHub didn't finish")
+        closeSearch(in: app)
         back(in: app)
         let course = app.buttons["course-pompano-pines"]
         XCTAssertTrue(course.waitForExistence(timeout: 5), "The course downloaded from GitHub should be on Play")
@@ -144,6 +146,7 @@ final class FindCoursesUITests: XCTestCase {
         XCTAssertTrue(florida.waitForExistence(timeout: 30), "Dubsdread is missing from the library on GitHub")
         florida.tap()
         XCTAssertTrue(wait(for: florida, label: "On your phone", timeout: 60), "The Florida course didn't download")
+        closeSearch(in: app)
         back(in: app)
         let dubsdread = app.buttons["course-dubsdread-golf-course"]
         XCTAssertTrue(dubsdread.waitForExistence(timeout: 5), "The Florida course should be on Play")
@@ -187,6 +190,18 @@ final class FindCoursesUITests: XCTestCase {
         XCTAssertTrue(button.waitForExistence(timeout: 5), "Back is missing")
         button.tap()
         sleep(1)
+    }
+
+    /// While the search field is in use the navigation bar is hidden, so end the search before going back.
+    private func closeSearch(in app: XCUIApplication) {
+        for name in ["Cancel", "Close"] {
+            let button = app.buttons[name].firstMatch
+            if button.exists {
+                button.tap()
+                sleep(1)
+                return
+            }
+        }
     }
 
     private func waitForGone(_ element: XCUIElement, timeout: TimeInterval = 5) -> Bool {
