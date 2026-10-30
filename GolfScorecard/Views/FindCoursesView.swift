@@ -1,4 +1,5 @@
 import SwiftUI
+import UIKit
 
 /// Find Courses: search the online course library by name or town and
 /// download a course onto the phone, where it then works with no signal.
@@ -41,14 +42,14 @@ struct FindCoursesView: View {
                 if isWide {
                     WideRoundLayout(card: map.paperBackground(), map: mapSide)
                 } else {
-                    map
-                        .safeAreaInset(edge: .bottom, spacing: 0) {
-                            if let entry = mapPicked {
-                                MapCourseCard(entry: entry) { mapPickedID = nil }
-                                    .padding(.top, 12)
-                            }
+                    VStack(spacing: 0) {
+                        map
+                        if let entry = mapPicked {
+                            MapCourseCard(entry: entry) { mapPickedID = nil }
+                                .padding(.top, 12)
                         }
-                        .paperBackground()
+                    }
+                    .paperBackground()
                 }
             } else if isWide, let entry = picked {
                 WideRoundLayout(card: list, map: detail(entry))
@@ -68,6 +69,10 @@ struct FindCoursesView: View {
             }
         }
         .onChange(of: query) { mapPickedID = nil }
+        .onChange(of: mapPickedID) {
+            // The card came or went: VoiceOver should look again.
+            UIAccessibility.post(notification: .layoutChanged, argument: nil)
+        }
         .confirmationDialog("Courses at This Spot", isPresented: Binding(
             get: { !stackedIDs.isEmpty },
             set: { if !$0 { stackedIDs = [] } }
