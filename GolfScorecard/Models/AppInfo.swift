@@ -30,4 +30,9 @@ enum AppInfo {
         ]
         return components.url
     }
+
+    /// The credit the course data's licence (ODbL 1.0) asks for wherever it's shown.
+    static let courseDataCredit = "Course data © OpenStreetMap contributors (ODbL 1.0) via OpenGolfAPI. Contains data from OpenGolfAPI (opengolfapi.org)."
+
+    static let openStreetMapCopyrightURL = URL(string: "https://www.openstreetmap.org/copyright")!
 }

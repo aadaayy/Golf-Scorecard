@@ -148,6 +148,41 @@ final class LibraryTests: XCTestCase {
         XCTAssertFalse(CourseIndex.isSafeFileName("a/b.svg"))
     }
 
+    /// Every course in the course library folder loads, passes every check and
+    /// matches its index entry, and every hole drawing reads as a yardage book page.
+    func testEveryLibraryCourseIsValid() throws {
+        let library = repo.appendingPathComponent("course-library")
+        let index = try CourseIndex.decode(from: Data(contentsOf: library.appendingPathComponent("index.json")))
+        XCTAssertEqual(index.problems(), [])
+        XCTAssertNotNil(index.entry(id: "pompano-pines"))
+        for entry in index.courses {
+            let folder = library.appendingPathComponent(entry.folder)
+            let course = try Course.decode(from: Data(contentsOf: folder.appendingPathComponent("course.json")))
+            XCTAssertEqual(course.problems(), [], entry.id)
+            XCTAssertEqual(course.id, entry.id)
+            XCTAssertEqual(course.holes.count, entry.holes, entry.id)
+            XCTAssertEqual(course.tees, entry.tees, entry.id)
+            for name in course.holes.compactMap(\.map) {
+                let plan = HolePlan(sketch: try HoleSketch.parse(Data(contentsOf: folder.appendingPathComponent("\(name).svg"))))
+                XCTAssertNotNil(plan.pin, "\(name) has no pin")
+                XCTAssertGreaterThanOrEqual(plan.playLine.count, 2, "\(name) has no line of play")
+            }
+        }
+    }
+
+    /// A course whose yardages aren't known yet lists no tees, and is still good.
+    func testCourseWithoutYardages() throws {
+        let holes = (1...9).map { Hole(number: $0, par: 4, handicap: $0, yards: [:]) }
+        let course = Course(id: "no-yards", name: "No Yards Yet", town: "Somewhere, FL", tees: [], holes: holes)
+        XCTAssertEqual(course.problems(), [])
+        XCTAssertEqual(course.par(holes: 1...9), 36)
+        XCTAssertEqual(course.yards(tee: "", holes: 1...9), 0)
+
+        var listed = course
+        listed.tees = ["White"]
+        XCTAssertFalse(listed.problems().isEmpty, "A listed tee still needs a yardage on every hole")
+    }
+
     /// Course files without a version count as version 1.
     func testCourseVersion() throws {
         let file = repo.appendingPathComponent("GolfScorecard/Courses/pompano-pines.json")

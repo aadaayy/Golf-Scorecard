@@ -111,7 +111,7 @@ struct CardPane: View {
     /// Tee rows to show: all of them like the paper card, or only the one being
     /// played when the phone is sideways and height is scarce.
     private var teeRows: [String] {
-        verticalSizeClass == .compact ? [round.tee] : course.tees
+        verticalSizeClass == .compact ? course.tees.filter { $0 == round.tee } : course.tees
     }
 
     private var plain: RowStyle { RowStyle(band: Book.page, ink: Book.ink) }

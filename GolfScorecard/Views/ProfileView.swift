@@ -398,6 +398,14 @@ private struct AboutPage: View {
                     Text("Don't see your course in Find Courses? Ask for it and it may be added.")
                 }
                 Section {
+                    Link(destination: AppInfo.openStreetMapCopyrightURL) {
+                        Label("Course data", systemImage: "map")
+                    }
+                    .accessibilityIdentifier("course-data-credit")
+                } footer: {
+                    Text(AppInfo.courseDataCredit)
+                }
+                Section {
                     Button("Erase Everything", role: .destructive) { confirmingErase = true }
                         .accessibilityIdentifier("erase-everything")
                 } footer: {

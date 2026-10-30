@@ -8,6 +8,7 @@ struct Course: Codable, Identifiable, Hashable {
     var id: String
     var name: String
     var town: String
+    /// Tee names, longest first. Empty when the course's yardages aren't known yet.
     var tees: [String]
     var holes: [Hole]
     /// Goes up by one each time the course file or its drawings change.
@@ -69,9 +70,6 @@ extension Course {
         }
         if let version, version < 1 {
             problems.append("version must be 1 or more")
-        }
-        if tees.isEmpty {
-            problems.append("no tees listed")
         }
         if holes.count != 9 && holes.count != 18 {
             problems.append("has \(holes.count) holes; expected 9 or 18")

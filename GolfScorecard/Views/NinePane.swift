@@ -27,7 +27,7 @@ struct NinePane: View {
                     Text(onBackNine ? "BACK 9" : "FRONT 9")
                         .font(Book.title(26, relativeTo: .title2))
                         .accessibilityLabel(onBackNine ? "Back 9" : "Front 9")
-                    Text("Par \(course.par(holes: range)) · \(course.yards(tee: tee, holes: range)) yds")
+                    Text(course.tees.contains(tee) ? "Par \(course.par(holes: range)) · \(course.yards(tee: tee, holes: range)) yds" : "Par \(course.par(holes: range))")
                         .foregroundStyle(Book.pencil)
                 }
             }

@@ -70,7 +70,7 @@ struct RoundTotals: View {
         VStack(spacing: 16) {
             VStack(spacing: 4) {
                 Text(round.courseName).font(Book.title(24, relativeTo: .title2)).multilineTextAlignment(.center)
-                Text("\(round.date.formatted(date: .abbreviated, time: .omitted)) · \(round.tee) tees · Par \(course.par(holes: 1...18))")
+                Text("\(round.date.formatted(date: .abbreviated, time: .omitted))\(round.tee.isEmpty ? "" : " · \(round.tee) tees") · Par \(course.par(holes: 1...18))")
                     .foregroundStyle(Book.pencil)
                     .multilineTextAlignment(.center)
             }

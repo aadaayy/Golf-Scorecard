@@ -185,7 +185,7 @@ struct CoursePreview: View {
     @State private var previewHole = 1
 
     private var tee: String {
-        course.tees.contains(usualTee) ? usualTee : course.tees[course.tees.count / 2]
+        course.tees.contains(usualTee) ? usualTee : course.tees[safe: course.tees.count / 2] ?? ""
     }
 
     var body: some View {

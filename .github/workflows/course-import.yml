@@ -1,7 +1,7 @@
 # Fills the course library with every Florida course from open data
 # (Tools/CourseImport/florida.py). The free course API allows 1,000 calls a day,
 # so this runs once a day and picks up where it stopped, until every course is in.
-# Once they all are, a run only refreshes the hole drawings from OpenStreetMap.
+# Once they all are, a run only refreshes the hole drawings from OpenStreetMap (Mondays).
 name: Course import
 
 on:
@@ -40,23 +40,30 @@ jobs:
         run: python3 Tools/CourseImport/florida.py fetch-api --dataset "$RUNNER_TEMP/opengolfapi-us.ndjson" --limit "${{ inputs.limit || '900' }}"
 
       - name: Fetch hole drawings from OpenStreetMap
-        if: inputs.drawings == 'yes' || hashFiles('Tools/CourseImport/cache/osm-florida.json.gz') == '' || github.event_name == 'schedule'
-        run: python3 Tools/CourseImport/florida.py fetch-osm
-
-      - name: Build the courses
-        if: hashFiles('Tools/CourseImport/florida.py') != ''
+        # When asked, when there's no copy yet, and every Monday. A failure keeps the old copy.
+        continue-on-error: true
         run: |
-          if grep -q '"build"' Tools/CourseImport/florida.py; then
-            python3 Tools/CourseImport/florida.py build course-library
-            python3 Tools/CourseLibrary/build_index.py course-library
-            python3 Tools/CourseLibrary/build_index.py course-library --check
+          if [ "${{ inputs.drawings }}" = "yes" ] || [ ! -f Tools/CourseImport/cache/osm-florida.json.gz ] || [ "$(date -u +%u)" = "1" ]; then
+            python3 Tools/CourseImport/florida.py fetch-osm
+          else
+            echo "Using the OpenStreetMap copy from the last fetch"
           fi
 
+      - name: Build the courses
+        id: build
+        run: |
+          python3 Tools/CourseImport/florida.py build course-library
+          python3 Tools/CourseLibrary/build_index.py course-library
+
       - name: Save
+        # Always, so the scorecards fetched so far are kept even if a later step failed.
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Tools/CourseImport course-library
+          git add Tools/CourseImport/cache
+          # The courses only when they built cleanly.
+          if [ "${{ steps.build.outcome }}" = "success" ]; then git add Tools/CourseImport course-library; fi
           if git diff --cached --quiet; then
             echo "Nothing new"
             exit 0

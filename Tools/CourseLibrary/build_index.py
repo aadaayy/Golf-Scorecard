@@ -38,9 +38,8 @@ def course_problems(course, folder_name, files):
         problems.append(f"the folder should be named after the id, {cid}")
     if not str(course.get("name", "")).strip():
         problems.append("name is empty")
+    # A course with no yardages yet lists no tees.
     tees = course.get("tees") or []
-    if not tees:
-        problems.append("no tees listed")
     version = course.get("version", 1)
     if not isinstance(version, int) or version < 1:
         problems.append("version must be a whole number, 1 or more")

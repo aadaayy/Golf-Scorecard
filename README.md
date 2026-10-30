@@ -64,7 +64,7 @@ The app downloads every file of a course, checks them, and only then saves the c
 Phones can only download from a public repository. Before making this one private:
 
 1. Create an empty public repository for the library, for example `golf-course-library`.
-2. Move the contents of `course-library/` to it, plus `Tools/CourseLibrary/build_index.py` and the check in `.github/workflows/course-library.yml`.
+2. Move the contents of `course-library/` to it, plus `Tools/CourseLibrary/build_index.py`, the check in `.github/workflows/course-library.yml`, and the Florida import (`Tools/CourseImport/` and `.github/workflows/course-import.yml`). The Florida courses are open data under ODbL, which requires the library to stay public.
 3. Change `AppInfo.courseLibraryURL` to `https://raw.githubusercontent.com/aadaayy/<new repo>/main/`.
 4. Ship that app update before going private. Copies of the app that still point here stop finding new courses once it's private, but courses already downloaded keep working.
 

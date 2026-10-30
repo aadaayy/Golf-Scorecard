@@ -63,7 +63,11 @@ struct FindCoursesView: View {
                     }
                 } footer: {
                     if !results.isEmpty {
-                        Text("Downloaded courses work with no signal.")
+                        VStack(alignment: .leading, spacing: 6) {
+                            Text("Downloaded courses work with no signal.")
+                            Text(AppInfo.courseDataCredit)
+                                .accessibilityIdentifier("library-credit")
+                        }
                     }
                 }
             }
@@ -234,6 +238,11 @@ struct LibraryCourseDetail: View {
             }
             .lineLimit(1)
             .minimumScaleFactor(0.7)
+            if entry.tees.isEmpty {
+                Text("No tee yardages for this course yet")
+                    .font(.footnote)
+                    .foregroundStyle(Book.pencil)
+            }
             CourseDownloadStatus(entry: entry, large: true)
             Text("Once it's downloaded, the course works with no signal.")
                 .font(.footnote)

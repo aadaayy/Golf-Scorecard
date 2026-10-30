@@ -19,17 +19,27 @@ struct NewRoundView: View {
 
     var body: some View {
         Form {
-            Section {
-                Picker("Tee", selection: $tee) {
-                    ForEach(course.tees, id: \.self) { Text($0).tag($0) }
+            if course.tees.isEmpty {
+                Section {
+                    Text("Par \(course.par(holes: 1...course.holes.count)) · no tee yardages for this course yet")
+                        .foregroundStyle(Book.pencil)
+                        .bookRow()
+                } header: {
+                    Text("Tee")
                 }
-                .pickerStyle(.segmented)
-                .bookRow()
-            } header: {
-                Text("Tee")
-            } footer: {
-                if !tee.isEmpty {
-                    Text("\(tee) tees · \(course.yards(tee: tee, holes: 1...course.holes.count)) yards · Par \(course.par(holes: 1...course.holes.count))")
+            } else {
+                Section {
+                    Picker("Tee", selection: $tee) {
+                        ForEach(course.tees, id: \.self) { Text($0).tag($0) }
+                    }
+                    .pickerStyle(.segmented)
+                    .bookRow()
+                } header: {
+                    Text("Tee")
+                } footer: {
+                    if !tee.isEmpty {
+                        Text("\(tee) tees · \(course.yards(tee: tee, holes: 1...course.holes.count)) yards · Par \(course.par(holes: 1...course.holes.count))")
+                    }
                 }
             }
 
@@ -156,6 +166,6 @@ struct NewRoundView: View {
     }
 }
 
-private extension Array {
+extension Array {
     subscript(safe index: Int) -> Element? { indices.contains(index) ? self[index] : nil }
 }

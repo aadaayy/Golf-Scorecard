@@ -52,7 +52,7 @@ struct OpenDuoPreview: View {
     /// A round on the first course with the first hole scored.
     private func makeRound() {
         guard !showsHome, round == nil, let course = library.course(id: "pompano-pines") ?? library.courses.first else { return }
-        let tee = course.tees.contains("White") ? "White" : course.tees[course.tees.count / 2]
+        let tee = course.tees.contains("White") ? "White" : course.tees[safe: course.tees.count / 2] ?? ""
         let newRound = Round(course: course, tee: tee, players: ["Me"])
         var grid = newRound.grid
         grid.setStrokes(6, player: 0, hole: 1)
