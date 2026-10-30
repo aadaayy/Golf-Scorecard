@@ -1,0 +1,129 @@
+{
+ "city": "The Villages",
+ "club_name": "Sweetgum At The Villages Executive Golf Trail",
+ "course_name": "Sweetgum At The Villages Executive Golf Trail",
+ "dataset_name": "Sweetgum At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "Black": 174,
+    "Gold": 149,
+    "Green": 124
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 166,
+    "Gold": 162,
+    "Green": 135
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 114,
+    "Gold": 85,
+    "Green": 68
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 158,
+    "Gold": 135,
+    "Green": 112
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 367,
+    "Gold": 340,
+    "Green": 316
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 132,
+    "Gold": 102,
+    "Green": 90
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 141,
+    "Gold": 130,
+    "Green": 99
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 198,
+    "Gold": 174,
+    "Green": 164
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Black": 132,
+    "Gold": 100,
+    "Green": 76
+   }
+  }
+ ],
+ "id": "13ae3689-f58f-449c-9da6-0a125e70985d",
+ "lat": 28.8558467,
+ "lng": -82.0118977,
+ "par": 28,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1582
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1377
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 1184
+  }
+ ]
+}

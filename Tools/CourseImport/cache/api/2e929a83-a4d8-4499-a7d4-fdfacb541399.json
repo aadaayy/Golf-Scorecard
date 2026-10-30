@@ -1,0 +1,349 @@
+{
+ "city": "Bradenton",
+ "club_name": "The Preserve Golf Club",
+ "course_name": "The Preserve Golf Club",
+ "dataset_name": "The Preserve Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Combo": 330,
+    "Eagle": 400,
+    "Forward": 255,
+    "Hawk": 365,
+    "Heron": 330,
+    "Hummingbird": 255,
+    "Legacy": 295,
+    "Oriole": 295
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Combo": 130,
+    "Eagle": 170,
+    "Forward": 95,
+    "Hawk": 145,
+    "Heron": 130,
+    "Hummingbird": 95,
+    "Legacy": 95,
+    "Oriole": 130
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Combo": 345,
+    "Eagle": 440,
+    "Forward": 265,
+    "Hawk": 415,
+    "Heron": 390,
+    "Hummingbird": 265,
+    "Legacy": 345,
+    "Oriole": 345
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Combo": 340,
+    "Eagle": 415,
+    "Forward": 250,
+    "Hawk": 390,
+    "Heron": 350,
+    "Hummingbird": 295,
+    "Legacy": 295,
+    "Oriole": 340
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Combo": 450,
+    "Eagle": 515,
+    "Forward": 390,
+    "Hawk": 470,
+    "Heron": 450,
+    "Hummingbird": 390,
+    "Legacy": 390,
+    "Oriole": 440
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Combo": 330,
+    "Eagle": 380,
+    "Forward": 245,
+    "Hawk": 355,
+    "Heron": 330,
+    "Hummingbird": 245,
+    "Legacy": 245,
+    "Oriole": 330
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Combo": 340,
+    "Eagle": 395,
+    "Forward": 300,
+    "Hawk": 365,
+    "Heron": 340,
+    "Hummingbird": 300,
+    "Legacy": 300,
+    "Oriole": 330
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Combo": 150,
+    "Eagle": 240,
+    "Forward": 116,
+    "Hawk": 210,
+    "Heron": 180,
+    "Hummingbird": 150,
+    "Legacy": 150,
+    "Oriole": 150
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Combo": 475,
+    "Eagle": 580,
+    "Forward": 382,
+    "Hawk": 550,
+    "Heron": 525,
+    "Hummingbird": 445,
+    "Legacy": 475,
+    "Oriole": 475
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Combo": 440,
+    "Eagle": 500,
+    "Forward": 370,
+    "Hawk": 470,
+    "Heron": 440,
+    "Hummingbird": 370,
+    "Legacy": 370,
+    "Oriole": 440
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Combo": 305,
+    "Eagle": 440,
+    "Forward": 293,
+    "Hawk": 405,
+    "Heron": 385,
+    "Hummingbird": 305,
+    "Legacy": 305,
+    "Oriole": 305
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Combo": 120,
+    "Eagle": 155,
+    "Forward": 100,
+    "Hawk": 140,
+    "Heron": 120,
+    "Hummingbird": 100,
+    "Legacy": 100,
+    "Oriole": 120
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Combo": 315,
+    "Eagle": 380,
+    "Forward": 255,
+    "Hawk": 360,
+    "Heron": 315,
+    "Hummingbird": 255,
+    "Legacy": 255,
+    "Oriole": 315
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Combo": 345,
+    "Eagle": 400,
+    "Forward": 248,
+    "Hawk": 370,
+    "Heron": 345,
+    "Hummingbird": 310,
+    "Legacy": 310,
+    "Oriole": 310
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Combo": 350,
+    "Eagle": 410,
+    "Forward": 270,
+    "Hawk": 385,
+    "Heron": 350,
+    "Hummingbird": 270,
+    "Legacy": 315,
+    "Oriole": 315
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Combo": 430,
+    "Eagle": 520,
+    "Forward": 390,
+    "Hawk": 490,
+    "Heron": 460,
+    "Hummingbird": 390,
+    "Legacy": 390,
+    "Oriole": 430
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Combo": 185,
+    "Eagle": 220,
+    "Forward": 110,
+    "Hawk": 205,
+    "Heron": 185,
+    "Hummingbird": 110,
+    "Legacy": 110,
+    "Oriole": 185
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Combo": 320,
+    "Eagle": 440,
+    "Forward": 275,
+    "Hawk": 410,
+    "Heron": 380,
+    "Hummingbird": 320,
+    "Legacy": 320,
+    "Oriole": 320
+   }
+  }
+ ],
+ "id": "2e929a83-a4d8-4499-a7d4-fdfacb541399",
+ "lat": 27.4318947,
+ "lng": -82.4653927,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "eagle-male",
+   "tee_name": "Eagle",
+   "yardage": 7000
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "hawk-male",
+   "tee_name": "Hawk",
+   "yardage": 6500
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "heron-male",
+   "tee_name": "Heron",
+   "yardage": 6005
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 5700
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "oriole-male",
+   "tee_name": "Oriole",
+   "yardage": 5575
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "legacy-male",
+   "tee_name": "Legacy",
+   "yardage": 5065
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "hummingbird-female",
+   "tee_name": "Hummingbird",
+   "yardage": 4870
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4609
+  }
+ ]
+}

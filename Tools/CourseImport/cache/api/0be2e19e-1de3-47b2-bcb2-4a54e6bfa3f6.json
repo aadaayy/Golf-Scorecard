@@ -1,0 +1,129 @@
+{
+ "city": "The Villages",
+ "club_name": "Belmont At The Villages Executive Golf Trail",
+ "course_name": "Belmont At The Villages Executive Golf Trail",
+ "dataset_name": "Belmont At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "black": 151,
+    "gold": 116,
+    "green": 95
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 170,
+    "gold": 158,
+    "green": 132
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 121,
+    "gold": 85,
+    "green": 67
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 371,
+    "gold": 304,
+    "green": 267
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 168,
+    "gold": 149,
+    "green": 109
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 158,
+    "gold": 108,
+    "green": 69
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 215,
+    "gold": 170,
+    "green": 136
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 186,
+    "gold": 147,
+    "green": 117
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 152,
+    "gold": 121,
+    "green": 71
+   }
+  }
+ ],
+ "id": "0be2e19e-1de3-47b2-bcb2-4a54e6bfa3f6",
+ "lat": 28.9198585,
+ "lng": -82.0183792,
+ "par": 28,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1692
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1358
+  },
+  {
+   "gender": "Female",
+   "par": 28,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 1063
+  }
+ ]
+}

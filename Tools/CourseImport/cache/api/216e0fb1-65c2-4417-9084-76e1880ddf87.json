@@ -1,0 +1,277 @@
+{
+ "city": "Patrick Space Force Base",
+ "club_name": "Manatee Cove Golf Course",
+ "course_name": "Manatee Cove Golf Course",
+ "dataset_name": "Manatee Cove Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "dolphins": 272,
+    "manatees": 369,
+    "marlins": 326,
+    "sharks": 394
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "dolphins": 395,
+    "manatees": 514,
+    "marlins": 457,
+    "sharks": 553
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "dolphins": 282,
+    "manatees": 331,
+    "marlins": 303,
+    "sharks": 348
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "dolphins": 146,
+    "manatees": 191,
+    "marlins": 170,
+    "sharks": 203
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "dolphins": 299,
+    "manatees": 355,
+    "marlins": 328,
+    "sharks": 373
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "dolphins": 413,
+    "manatees": 494,
+    "marlins": 459,
+    "sharks": 517
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "dolphins": 121,
+    "manatees": 159,
+    "marlins": 146,
+    "sharks": 174
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "dolphins": 257,
+    "manatees": 345,
+    "marlins": 293,
+    "sharks": 382
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "dolphins": 348,
+    "manatees": 405,
+    "marlins": 378,
+    "sharks": 428
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "dolphins": 301,
+    "manatees": 329,
+    "marlins": 312,
+    "sharks": 341
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "dolphins": 251,
+    "manatees": 343,
+    "marlins": 329,
+    "sharks": 360
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "dolphins": 107,
+    "manatees": 182,
+    "marlins": 159,
+    "sharks": 212
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "dolphins": 435,
+    "manatees": 527,
+    "marlins": 484,
+    "sharks": 552
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "dolphins": 122,
+    "manatees": 156,
+    "marlins": 139,
+    "sharks": 185
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "dolphins": 320,
+    "manatees": 445,
+    "marlins": 361,
+    "sharks": 466
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "dolphins": 283,
+    "manatees": 367,
+    "marlins": 327,
+    "sharks": 390
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "dolphins": 396,
+    "manatees": 479,
+    "marlins": 431,
+    "sharks": 500
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "dolphins": 307,
+    "manatees": 387,
+    "marlins": 350,
+    "sharks": 432
+   }
+  }
+ ],
+ "id": "216e0fb1-65c2-4417-9084-76e1880ddf87",
+ "lat": 28.2147777,
+ "lng": -80.61161,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "sharks-male",
+   "tee_name": "Sharks",
+   "yardage": 6655
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "sharks-female",
+   "tee_name": "Sharks",
+   "yardage": 6655
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "manatees-female",
+   "tee_name": "Manatees",
+   "yardage": 6346
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "manatees-male",
+   "tee_name": "Manatees",
+   "yardage": 6346
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "marlins-female",
+   "tee_name": "Marlins",
+   "yardage": 5749
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "marlins-male",
+   "tee_name": "Marlins",
+   "yardage": 5749
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "dolphins-male",
+   "tee_name": "Dolphins",
+   "yardage": 5022
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "dolphins-female",
+   "tee_name": "Dolphins",
+   "yardage": 5022
+  }
+ ]
+}

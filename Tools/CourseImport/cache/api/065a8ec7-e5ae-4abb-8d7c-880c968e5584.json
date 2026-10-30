@@ -1,0 +1,237 @@
+{
+ "city": "New Smyrna Beach",
+ "club_name": "Hidden Lakes Golf Course",
+ "course_name": "Hidden Lakes Golf Course",
+ "dataset_name": "Hidden Lakes Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 285,
+    "champion/white": 305,
+    "tips/blue": 325,
+    "web": 325
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "challenger/gold": 100,
+    "champion/white": 125,
+    "tips/blue": 135,
+    "web": 135
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 320,
+    "champion/white": 335,
+    "tips/blue": 360,
+    "web": 360
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 315,
+    "champion/white": 330,
+    "tips/blue": 350,
+    "web": 350
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "challenger/gold": 150,
+    "champion/white": 165,
+    "tips/blue": 190,
+    "web": 190
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 265,
+    "champion/white": 282,
+    "tips/blue": 300,
+    "web": 300
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "challenger/gold": 400,
+    "champion/white": 469,
+    "tips/blue": 479,
+    "web": 479
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "challenger/gold": 115,
+    "champion/white": 155,
+    "tips/blue": 205,
+    "web": 205
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "challenger/gold": 155,
+    "champion/white": 170,
+    "tips/blue": 195,
+    "web": 195
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 250,
+    "champion/white": 265,
+    "tips/blue": 285,
+    "web": 285
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "challenger/gold": 105,
+    "champion/white": 115,
+    "tips/blue": 145,
+    "web": 145
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 365,
+    "champion/white": 380,
+    "tips/blue": 400,
+    "web": 400
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "challenger/gold": 125,
+    "champion/white": 145,
+    "tips/blue": 205,
+    "web": 205
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "challenger/gold": 355,
+    "champion/white": 435,
+    "tips/blue": 445,
+    "web": 445
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "challenger/gold": 415,
+    "champion/white": 450,
+    "tips/blue": 470,
+    "web": 470
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 330,
+    "champion/white": 340,
+    "tips/blue": 355,
+    "web": 355
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 190,
+    "champion/white": 225,
+    "tips/blue": 240,
+    "web": 240
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "challenger/gold": 335,
+    "champion/white": 350,
+    "tips/blue": 370,
+    "web": 370
+   }
+  }
+ ],
+ "id": "065a8ec7-e5ae-4abb-8d7c-880c968e5584",
+ "lat": 29.0380211,
+ "lng": -80.9453953,
+ "par": 69,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 69,
+   "tee_color": "blue",
+   "tee_key": "tips-blue-male",
+   "tee_name": "Tips/Blue",
+   "yardage": 5454
+  },
+  {
+   "gender": "Male",
+   "par": 69,
+   "tee_color": "white",
+   "tee_key": "champion-white-male",
+   "tee_name": "Champion/White",
+   "yardage": 5041
+  },
+  {
+   "gender": "Male",
+   "par": 69,
+   "tee_color": "gold",
+   "tee_key": "challenger-gold-male",
+   "tee_name": "Challenger/Gold",
+   "yardage": 4575
+  }
+ ]
+}

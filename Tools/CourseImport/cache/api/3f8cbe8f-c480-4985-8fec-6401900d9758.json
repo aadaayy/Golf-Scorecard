@@ -1,0 +1,279 @@
+{
+ "city": "North Fort Myers",
+ "club_name": "Magnolia Landing Golf Country Club",
+ "course_name": "Magnolia Landing Golf Country Club",
+ "dataset_name": "Magnolia Landing Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 423,
+    "gold": 382,
+    "green": 362,
+    "red": 293,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 356,
+    "gold": 356,
+    "green": 300,
+    "red": 243,
+    "white": 275
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 364,
+    "gold": 358,
+    "green": 284,
+    "red": 216,
+    "white": 255
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 618,
+    "gold": 539,
+    "green": 501,
+    "red": 388,
+    "white": 450
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 432,
+    "gold": 370,
+    "green": 357,
+    "red": 271,
+    "white": 312
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 199,
+    "gold": 171,
+    "green": 147,
+    "red": 106,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "gold": 377,
+    "green": 352,
+    "red": 251,
+    "white": 316
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 214,
+    "gold": 178,
+    "green": 153,
+    "red": 97,
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 601,
+    "gold": 515,
+    "green": 495,
+    "red": 412,
+    "white": 477
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 321,
+    "gold": 315,
+    "green": 299,
+    "red": 254,
+    "white": 274
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 510,
+    "gold": 435,
+    "green": 412,
+    "red": 288,
+    "white": 316
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 203,
+    "gold": 185,
+    "green": 178,
+    "red": 114,
+    "white": 158
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 576,
+    "gold": 512,
+    "green": 484,
+    "red": 353,
+    "white": 450
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 411,
+    "gold": 358,
+    "green": 333,
+    "red": 237,
+    "white": 306
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 193,
+    "gold": 187,
+    "green": 153,
+    "red": 81,
+    "white": 137
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 407,
+    "gold": 357,
+    "green": 328,
+    "red": 260,
+    "white": 293
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 484,
+    "gold": 383,
+    "green": 319,
+    "red": 246,
+    "white": 286
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 527,
+    "gold": 493,
+    "green": 471,
+    "red": 396,
+    "white": 449
+   }
+  }
+ ],
+ "id": "3f8cbe8f-c480-4985-8fec-6401900d9758",
+ "lat": 26.7603332,
+ "lng": -81.8974093,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7265
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6525
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6017
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5439
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5356
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4741
+  }
+ ]
+}

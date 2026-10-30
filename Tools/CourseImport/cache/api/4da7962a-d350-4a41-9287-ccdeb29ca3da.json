@@ -1,0 +1,363 @@
+{
+ "city": "Fort Myers",
+ "club_name": "The Club Renaissance",
+ "course_name": "The Club Renaissance",
+ "dataset_name": "The Club Renaissance",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 340,
+    "Burgundy": 360,
+    "Gold": 390,
+    "Green": 291,
+    "Orange": 222,
+    "Red": 261,
+    "White": 317
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 374,
+    "Burgundy": 401,
+    "Gold": 429,
+    "Green": 315,
+    "Orange": 223,
+    "Red": 284,
+    "White": 351
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Blue": 476,
+    "Burgundy": 504,
+    "Gold": 512,
+    "Green": 418,
+    "Orange": 322,
+    "Red": 393,
+    "White": 463
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Blue": 152,
+    "Burgundy": 181,
+    "Gold": 187,
+    "Green": 134,
+    "Orange": 97,
+    "Red": 120,
+    "White": 143
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 371,
+    "Burgundy": 389,
+    "Gold": 418,
+    "Green": 309,
+    "Orange": 232,
+    "Red": 276,
+    "White": 342
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 343,
+    "Burgundy": 367,
+    "Gold": 397,
+    "Green": 294,
+    "Orange": 241,
+    "Red": 268,
+    "White": 323
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 181,
+    "Burgundy": 200,
+    "Gold": 206,
+    "Green": 138,
+    "Orange": 93,
+    "Red": 121,
+    "White": 154
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue": 504,
+    "Burgundy": 532,
+    "Gold": 559,
+    "Green": 423,
+    "Orange": 344,
+    "Red": 404,
+    "White": 449
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 377,
+    "Burgundy": 392,
+    "Gold": 422,
+    "Green": 309,
+    "Orange": 265,
+    "Red": 279,
+    "White": 344
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Blue": 451,
+    "Burgundy": 478,
+    "Gold": 485,
+    "Green": 413,
+    "Orange": 345,
+    "Red": 389,
+    "White": 444
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 317,
+    "Burgundy": 324,
+    "Gold": 350,
+    "Green": 254,
+    "Orange": 183,
+    "Red": 243,
+    "White": 289
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 149,
+    "Burgundy": 164,
+    "Gold": 164,
+    "Green": 122,
+    "Orange": 114,
+    "Red": 114,
+    "White": 139
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 323,
+    "Burgundy": 335,
+    "Gold": 336,
+    "Green": 264,
+    "Orange": 209,
+    "Red": 240,
+    "White": 288
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 152,
+    "Burgundy": 159,
+    "Gold": 159,
+    "Green": 122,
+    "Orange": 95,
+    "Red": 103,
+    "White": 134
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 363,
+    "Burgundy": 373,
+    "Gold": 398,
+    "Green": 312,
+    "Orange": 231,
+    "Red": 278,
+    "White": 338
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Blue": 481,
+    "Burgundy": 493,
+    "Gold": 502,
+    "Green": 401,
+    "Orange": 335,
+    "Red": 392,
+    "White": 462
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Burgundy": 352,
+    "Gold": 374,
+    "Green": 284,
+    "Orange": 204,
+    "Red": 253,
+    "White": 317
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 327,
+    "Burgundy": 367,
+    "Gold": 373,
+    "Green": 267,
+    "Orange": 227,
+    "Red": 227,
+    "White": 287
+   }
+  }
+ ],
+ "id": "4da7962a-d350-4a41-9287-ccdeb29ca3da",
+ "lat": 26.5563526,
+ "lng": -81.7996981,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6661
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Burgundy",
+   "tee_key": "burgundy-male",
+   "tee_name": "Burgundy",
+   "yardage": 6371
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6023
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6023
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5584
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5584
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5070
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5070
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4645
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4645
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Orange",
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 3982
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Orange",
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 3982
+  }
+ ]
+}

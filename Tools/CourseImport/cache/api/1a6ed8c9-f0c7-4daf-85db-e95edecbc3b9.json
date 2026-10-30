@@ -1,0 +1,179 @@
+{
+ "city": "Stuart",
+ "club_name": "Sailfish Sands Golf Course Sailfish Course",
+ "course_name": "Sailfish Sands Golf Course Sailfish Course",
+ "dataset_name": "Sailfish Sands Golf Course Sailfish Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "back": 150,
+    "forward": 115,
+    "other": 120
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "back": 330,
+    "forward": 277,
+    "other": 277
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "back": 385,
+    "forward": 261,
+    "other": 265
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "back": 509,
+    "forward": 401,
+    "other": 405
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "back": 180,
+    "forward": 101,
+    "other": 105
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back": 316,
+    "forward": 290,
+    "other": 295
+   }
+  }
+ ],
+ "id": "1a6ed8c9-f0c7-4daf-85db-e95edecbc3b9",
+ "lat": 27.1797591,
+ "lng": -80.204542,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6214
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5618
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "other-male",
+   "tee_name": "Other",
+   "yardage": 5097
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4976
+  }
+ ]
+}

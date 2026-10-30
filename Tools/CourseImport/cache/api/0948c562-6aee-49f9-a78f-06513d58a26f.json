@@ -1,0 +1,235 @@
+{
+ "city": "Summerfield",
+ "club_name": "Stonecrest Golf Club",
+ "course_name": "Stonecrest Golf Club",
+ "dataset_name": "Stonecrest Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 333,
+    "Blue": 293,
+    "Blue/White": 293,
+    "Gold": 229,
+    "Red": 246,
+    "Red/Gold": 246,
+    "White": 277
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 370,
+    "Blue": 343,
+    "Blue/White": 343,
+    "Gold": 289,
+    "Red": 289,
+    "Red/Gold": 289,
+    "White": 329
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 143,
+    "Blue": 124,
+    "Blue/White": 124,
+    "Gold": 101,
+    "Red": 101,
+    "Red/Gold": 101,
+    "White": 112
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 381,
+    "Blue": 348,
+    "Blue/White": 335,
+    "Gold": 237,
+    "Red": 286,
+    "Red/Gold": 286,
+    "White": 335
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 498,
+    "Blue": 470,
+    "Blue/White": 459,
+    "Gold": 349,
+    "Red": 428,
+    "Red/Gold": 349,
+    "White": 459
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 334,
+    "Blue": 286,
+    "Blue/White": 272,
+    "Gold": 234,
+    "Red": 234,
+    "Red/Gold": 234,
+    "White": 272
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Blue": 352,
+    "Blue/White": 352,
+    "Gold": 285,
+    "Red": 292,
+    "Red/Gold": 292,
+    "White": 336
+   }
+  }
+ ],
+ "id": "0948c562-6aee-49f9-a78f-06513d58a26f",
+ "lat": 28.9663089,
+ "lng": -81.9607231,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6460
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5920
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 5731
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5532
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4857
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-gold-male",
+   "tee_name": "Red/Gold",
+   "yardage": 4523
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4406
+  }
+ ]
+}

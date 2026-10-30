@@ -1,0 +1,447 @@
+{
+ "city": "Boynton Beach",
+ "club_name": "South At Quail Ridge Country Club",
+ "course_name": "South At Quail Ridge Country Club",
+ "dataset_name": "South At Quail Ridge Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "i": 372,
+    "i/ii": 372,
+    "ii": 352,
+    "ii/iii": 352,
+    "iii": 318,
+    "iii/iv": 318,
+    "iv": 284,
+    "iv/v": 284,
+    "v": 253
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "i": 395,
+    "i/ii": 350,
+    "ii": 350,
+    "ii/iii": 350,
+    "iii": 312,
+    "iii/iv": 312,
+    "iv": 278,
+    "iv/v": 278,
+    "v": 251
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "i": 517,
+    "i/ii": 517,
+    "ii": 480,
+    "ii/iii": 480,
+    "iii": 462,
+    "iii/iv": 462,
+    "iv": 413,
+    "iv/v": 372,
+    "v": 372
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "i": 238,
+    "i/ii": 192,
+    "ii": 192,
+    "ii/iii": 165,
+    "iii": 165,
+    "iii/iv": 134,
+    "iv": 134,
+    "iv/v": 127,
+    "v": 127
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "i": 468,
+    "i/ii": 411,
+    "ii": 411,
+    "ii/iii": 363,
+    "iii": 363,
+    "iii/iv": 300,
+    "iv": 300,
+    "iv/v": 300,
+    "v": 246
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "i": 522,
+    "i/ii": 522,
+    "ii": 473,
+    "ii/iii": 473,
+    "iii": 449,
+    "iii/iv": 449,
+    "iv": 391,
+    "iv/v": 324,
+    "v": 324
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "i": 416,
+    "i/ii": 374,
+    "ii": 374,
+    "ii/iii": 328,
+    "iii": 328,
+    "iii/iv": 300,
+    "iv": 300,
+    "iv/v": 300,
+    "v": 276
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "i": 213,
+    "i/ii": 177,
+    "ii": 177,
+    "ii/iii": 177,
+    "iii": 154,
+    "iii/iv": 143,
+    "iv": 143,
+    "iv/v": 111,
+    "v": 111
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "i": 435,
+    "i/ii": 382,
+    "ii": 382,
+    "ii/iii": 343,
+    "iii": 343,
+    "iii/iv": 309,
+    "iv": 309,
+    "iv/v": 309,
+    "v": 274
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 404,
+    "i/ii": 404,
+    "ii": 352,
+    "ii/iii": 352,
+    "iii": 306,
+    "iii/iv": 306,
+    "iv": 279,
+    "iv/v": 279,
+    "v": 250
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "i": 371,
+    "i/ii": 371,
+    "ii": 324,
+    "ii/iii": 324,
+    "iii": 292,
+    "iii/iv": 292,
+    "iv": 278,
+    "iv/v": 278,
+    "v": 253
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "i": 155,
+    "i/ii": 155,
+    "ii": 142,
+    "ii/iii": 142,
+    "iii": 133,
+    "iii/iv": 133,
+    "iv": 121,
+    "iv/v": 121,
+    "v": 112
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "i": 540,
+    "i/ii": 540,
+    "ii": 495,
+    "ii/iii": 455,
+    "iii": 455,
+    "iii/iv": 455,
+    "iv": 423,
+    "iv/v": 379,
+    "v": 379
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "i": 421,
+    "i/ii": 379,
+    "ii": 379,
+    "ii/iii": 339,
+    "iii": 339,
+    "iii/iv": 287,
+    "iv": 287,
+    "iv/v": 287,
+    "v": 258
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "i": 212,
+    "i/ii": 190,
+    "ii": 190,
+    "ii/iii": 173,
+    "iii": 173,
+    "iii/iv": 147,
+    "iv": 147,
+    "iv/v": 133,
+    "v": 133
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "i": 393,
+    "i/ii": 393,
+    "ii": 364,
+    "ii/iii": 364,
+    "iii": 328,
+    "iii/iv": 328,
+    "iv": 286,
+    "iv/v": 286,
+    "v": 263
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "i": 353,
+    "i/ii": 353,
+    "ii": 316,
+    "ii/iii": 316,
+    "iii": 283,
+    "iii/iv": 283,
+    "iv": 242,
+    "iv/v": 217,
+    "v": 217
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "i": 544,
+    "i/ii": 544,
+    "ii": 483,
+    "ii/iii": 483,
+    "iii": 433,
+    "iii/iv": 403,
+    "iv": 403,
+    "iv/v": 336,
+    "v": 336
+   }
+  }
+ ],
+ "id": "3784fbb9-958b-41c7-98b0-b28b8d8c48f5",
+ "lat": 26.5066913,
+ "lng": -80.1013664,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6989
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-female",
+   "tee_name": "I",
+   "yardage": 6989
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-ii-male",
+   "tee_name": "I/II",
+   "yardage": 6626
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-ii-female",
+   "tee_name": "I/II",
+   "yardage": 6626
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6256
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 6256
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-iii-female",
+   "tee_name": "II/III",
+   "yardage": 5979
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-iii-male",
+   "tee_name": "II/III",
+   "yardage": 5979
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 5670
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5670
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-iv-female",
+   "tee_name": "III/IV",
+   "yardage": 5382
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-iv-male",
+   "tee_name": "III/IV",
+   "yardage": 5382
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5052
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5052
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-v-female",
+   "tee_name": "IV/V",
+   "yardage": 4755
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-v-male",
+   "tee_name": "IV/V",
+   "yardage": 4755
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 4435
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 4435
+  }
+ ]
+}

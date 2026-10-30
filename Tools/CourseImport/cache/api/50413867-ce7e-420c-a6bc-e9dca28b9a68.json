@@ -1,0 +1,323 @@
+{
+ "city": "Green Cove Springs",
+ "club_name": "Magnolia Point Golf Country Club",
+ "course_name": "Magnolia Point Golf Country Club",
+ "dataset_name": "Magnolia Point Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 452,
+    "combo": 300,
+    "green": 375,
+    "red": 364,
+    "web": 455,
+    "white": 414,
+    "yellow": 300
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 132,
+    "combo": 112,
+    "green": 114,
+    "red": 112,
+    "web": 135,
+    "white": 123,
+    "yellow": 103
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 371,
+    "combo": 301,
+    "green": 308,
+    "red": 301,
+    "web": 376,
+    "white": 337,
+    "yellow": 295
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 528,
+    "combo": 427,
+    "green": 432,
+    "red": 427,
+    "web": 526,
+    "white": 494,
+    "yellow": 402
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 419,
+    "combo": 286,
+    "green": 364,
+    "red": 356,
+    "web": 419,
+    "white": 387,
+    "yellow": 286
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 206,
+    "combo": 141,
+    "green": 145,
+    "red": 141,
+    "web": 201,
+    "white": 169,
+    "yellow": 109
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 430,
+    "combo": 331,
+    "green": 371,
+    "red": 366,
+    "web": 419,
+    "white": 398,
+    "yellow": 331
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 566,
+    "combo": 409,
+    "green": 454,
+    "red": 449,
+    "web": 551,
+    "white": 521,
+    "yellow": 409
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 390,
+    "combo": 341,
+    "green": 343,
+    "red": 341,
+    "web": 395,
+    "white": 370,
+    "yellow": 268
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 406,
+    "combo": 306,
+    "green": 356,
+    "red": 354,
+    "web": 410,
+    "white": 382,
+    "yellow": 306
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 388,
+    "combo": 276,
+    "green": 329,
+    "red": 321,
+    "web": 388,
+    "white": 339,
+    "yellow": 276
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "blue": 509,
+    "combo": 428,
+    "green": 463,
+    "red": 428,
+    "web": 510,
+    "white": 470,
+    "yellow": 413
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 375,
+    "combo": 294,
+    "green": 327,
+    "red": 294,
+    "web": 375,
+    "white": 334,
+    "yellow": 289
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 174,
+    "combo": 101,
+    "green": 142,
+    "red": 101,
+    "web": 169,
+    "white": 155,
+    "yellow": 98
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 545,
+    "combo": 400,
+    "green": 464,
+    "red": 455,
+    "web": 542,
+    "white": 500,
+    "yellow": 400
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 358,
+    "combo": 285,
+    "green": 325,
+    "red": 319,
+    "web": 386,
+    "white": 338,
+    "yellow": 285
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 155,
+    "combo": 110,
+    "green": 111,
+    "red": 110,
+    "web": 155,
+    "white": 131,
+    "yellow": 101
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "combo": 319,
+    "green": 328,
+    "red": 319,
+    "web": 390,
+    "white": 368,
+    "yellow": 313
+   }
+  }
+ ],
+ "id": "50413867-ce7e-420c-a6bc-e9dca28b9a68",
+ "lat": 30.0002284,
+ "lng": -81.7092118,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6796
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 6523
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6230
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5751
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5558
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-female",
+   "tee_name": "Combo",
+   "yardage": 5167
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 4984
+  }
+ ]
+}

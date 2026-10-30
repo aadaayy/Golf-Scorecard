@@ -1,0 +1,138 @@
+{
+ "city": "The Villages",
+ "club_name": "Sarasota At The Villages Executive Golf Trail",
+ "course_name": "Sarasota At The Villages Executive Golf Trail",
+ "dataset_name": "Sarasota At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "Black": 115,
+    "Gold": 96,
+    "Green": 76,
+    "web": 115
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 132,
+    "Gold": 90,
+    "Green": 66,
+    "web": 132
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 160,
+    "Gold": 128,
+    "Green": 105,
+    "web": 160
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 115,
+    "Gold": 108,
+    "Green": 96,
+    "web": 115
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 110,
+    "Gold": 88,
+    "Green": 60,
+    "web": 110
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 110,
+    "Gold": 108,
+    "Green": 95,
+    "web": 110
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 158,
+    "Gold": 135,
+    "Green": 98,
+    "web": 158
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 122,
+    "Gold": 90,
+    "Green": 90,
+    "web": 122
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Black": 158,
+    "Gold": 136,
+    "Green": 105,
+    "web": 158
+   }
+  }
+ ],
+ "id": "227f764f-2c1f-44d2-bdd4-a9f1285958cc",
+ "lat": 28.8609417,
+ "lng": -81.9600899,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1180
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 979
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 791
+  }
+ ]
+}

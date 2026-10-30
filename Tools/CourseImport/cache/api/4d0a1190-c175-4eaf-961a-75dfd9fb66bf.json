@@ -1,0 +1,227 @@
+{
+ "city": "Largo",
+ "club_name": "East Bay Golf Club",
+ "course_name": "East Bay Golf Club",
+ "dataset_name": "East Bay Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "back": 467,
+    "forward": 385,
+    "middle": 435
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "back": 362,
+    "forward": 309,
+    "middle": 327
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "back": 339,
+    "forward": 288,
+    "middle": 321
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "back": 175,
+    "forward": 138,
+    "middle": 154
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "back": 533,
+    "forward": 450,
+    "middle": 506
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back": 432,
+    "forward": 311,
+    "middle": 408
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "back": 387,
+    "forward": 277,
+    "middle": 373
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "back": 454,
+    "forward": 355,
+    "middle": 386
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "back": 197,
+    "forward": 151,
+    "middle": 174
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "back": 386,
+    "forward": 321,
+    "middle": 348
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "back": 417,
+    "forward": 329,
+    "middle": 390
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back": 153,
+    "forward": 118,
+    "middle": 135
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "back": 484,
+    "forward": 443,
+    "middle": 454
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "back": 152,
+    "forward": 128,
+    "middle": 136
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "back": 389,
+    "forward": 339,
+    "middle": 366
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "back": 435,
+    "forward": 389,
+    "middle": 411
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "back": 168,
+    "forward": 133,
+    "middle": 145
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "back": 521,
+    "forward": 422,
+    "middle": 498
+   }
+  }
+ ],
+ "id": "4d0a1190-c175-4eaf-961a-75dfd9fb66bf",
+ "lat": 27.9093744,
+ "lng": -82.7674085,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6451
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5967
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 5286
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 5286
+  }
+ ]
+}

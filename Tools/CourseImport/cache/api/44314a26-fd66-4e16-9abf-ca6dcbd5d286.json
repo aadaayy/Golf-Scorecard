@@ -1,0 +1,245 @@
+{
+ "city": "Venice",
+ "club_name": "Second Third At Lake Venice Golf Club",
+ "course_name": "Second Third At Lake Venice Golf Club",
+ "dataset_name": "Second Third At Lake Venice Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 2,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 486,
+    "Gold": 428,
+    "Red": 397,
+    "White": 469
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 329,
+    "Gold": 280,
+    "Red": 215,
+    "White": 306
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Gold": 321,
+    "Red": 290,
+    "White": 331
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Blue": 151,
+    "Gold": 135,
+    "Red": 119,
+    "White": 143
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Blue": 476,
+    "Gold": 408,
+    "Red": 402,
+    "White": 453
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 372,
+    "Gold": 326,
+    "Red": 289,
+    "White": 354
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 383,
+    "Gold": 329,
+    "Red": 271,
+    "White": 370
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 403,
+    "Gold": 341,
+    "Red": 298,
+    "White": 366
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Blue": 190,
+    "Gold": 145,
+    "Red": 130,
+    "White": 170
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 341,
+    "Gold": 256,
+    "Red": 225,
+    "White": 303
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 177,
+    "Gold": 109,
+    "Red": 96,
+    "White": 137
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 510,
+    "Gold": 390,
+    "Red": 354,
+    "White": 439
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 368,
+    "Gold": 259,
+    "Red": 226,
+    "White": 298
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 330,
+    "Gold": 292,
+    "Red": 233,
+    "White": 310
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 369,
+    "Gold": 273,
+    "Red": 226,
+    "White": 324
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 183,
+    "Gold": 142,
+    "Red": 130,
+    "White": 154
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Blue": 472,
+    "Gold": 337,
+    "Red": 295,
+    "White": 371
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 303,
+    "Gold": 242,
+    "Red": 220,
+    "White": 272
+   }
+  }
+ ],
+ "id": "44314a26-fd66-4e16-9abf-ca6dcbd5d286",
+ "lat": 27.0644814,
+ "lng": -82.4459784,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6185
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5570
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5013
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4416
+  }
+ ]
+}

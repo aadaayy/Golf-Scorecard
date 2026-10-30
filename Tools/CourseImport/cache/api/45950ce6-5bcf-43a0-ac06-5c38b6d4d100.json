@@ -1,0 +1,305 @@
+{
+ "city": "Naples",
+ "club_name": "Hibiscus Golf Club",
+ "course_name": "Hibiscus Golf Club",
+ "dataset_name": "Hibiscus Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 410,
+    "gold": 337,
+    "green": 373,
+    "green/gold": 337,
+    "red": 293,
+    "white": 393
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "blue": 520,
+    "gold": 433,
+    "green": 491,
+    "green/gold": 491,
+    "red": 417,
+    "white": 507
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 176,
+    "gold": 134,
+    "green": 147,
+    "green/gold": 134,
+    "red": 120,
+    "white": 161
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 394,
+    "gold": 305,
+    "green": 341,
+    "green/gold": 341,
+    "red": 295,
+    "white": 349
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 351,
+    "gold": 242,
+    "green": 301,
+    "green/gold": 301,
+    "red": 232,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 348,
+    "gold": 275,
+    "green": 322,
+    "green/gold": 322,
+    "red": 269,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 394,
+    "gold": 326,
+    "green": 379,
+    "green/gold": 326,
+    "red": 316,
+    "white": 388
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 194,
+    "gold": 150,
+    "green": 162,
+    "green/gold": 150,
+    "red": 94,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 368,
+    "gold": 274,
+    "green": 308,
+    "green/gold": 308,
+    "red": 261,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 444,
+    "gold": 407,
+    "green": 413,
+    "green/gold": 413,
+    "red": 395,
+    "white": 429
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 369,
+    "gold": 304,
+    "green": 348,
+    "green/gold": 304,
+    "red": 294,
+    "white": 364
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 198,
+    "gold": 137,
+    "green": 176,
+    "green/gold": 137,
+    "red": 129,
+    "white": 187
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 364,
+    "gold": 298,
+    "green": 343,
+    "green/gold": 298,
+    "red": 284,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 521,
+    "gold": 437,
+    "green": 462,
+    "green/gold": 437,
+    "red": 429,
+    "white": 502
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 380,
+    "gold": 307,
+    "green": 347,
+    "green/gold": 307,
+    "red": 299,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 184,
+    "gold": 156,
+    "green": 169,
+    "green/gold": 156,
+    "red": 148,
+    "white": 176
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 332,
+    "gold": 264,
+    "green": 303,
+    "green/gold": 303,
+    "red": 254,
+    "white": 316
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 370,
+    "gold": 286,
+    "green": 339,
+    "green/gold": 286,
+    "red": 276,
+    "white": 356
+   }
+  }
+ ],
+ "id": "45950ce6-5bcf-43a0-ac06-5c38b6d4d100",
+ "lat": 26.1076661,
+ "lng": -81.7383629,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6317
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6027
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5724
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "green-gold-male",
+   "tee_name": "Green/Gold",
+   "yardage": 5351
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5072
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5072
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4805
+  }
+ ]
+}

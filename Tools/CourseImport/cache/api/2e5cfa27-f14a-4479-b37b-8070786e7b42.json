@@ -1,0 +1,129 @@
+{
+ "city": "Holiday",
+ "club_name": "Forest Hills Golf Course",
+ "course_name": "Forest Hills Golf Course",
+ "dataset_name": "Forest Hills Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 372,
+    "red": 350,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 290,
+    "red": 240,
+    "white": 250
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "red": 380,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 117,
+    "red": 100,
+    "white": 110
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 410,
+    "red": 290,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 550,
+    "red": 475,
+    "white": 500
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 385,
+    "red": 360,
+    "white": 367
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 182,
+    "red": 134,
+    "white": 174
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 330,
+    "red": 245,
+    "white": 325
+   }
+  }
+ ],
+ "id": "2e5cfa27-f14a-4479-b37b-8070786e7b42",
+ "lat": 28.1760112,
+ "lng": -82.7278963,
+ "par": 35,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3046
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2806
+  },
+  {
+   "gender": "Female",
+   "par": 37,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2564
+  }
+ ]
+}

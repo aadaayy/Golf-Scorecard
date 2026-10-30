@@ -1,0 +1,271 @@
+{
+ "city": "Boynton Beach",
+ "club_name": "Indian Spring Country Club West Course",
+ "course_name": "Indian Spring Country Club West Course",
+ "dataset_name": "Indian Spring Country Club West Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black/forward": 351,
+    "blue/players": 466,
+    "gold/championship": 497,
+    "green/middle": 377,
+    "white/members": 423
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black/forward": 132,
+    "blue/players": 151,
+    "gold/championship": 163,
+    "green/middle": 137,
+    "white/members": 142
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black/forward": 268,
+    "blue/players": 353,
+    "gold/championship": 376,
+    "green/middle": 291,
+    "white/members": 307
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black/forward": 259,
+    "blue/players": 343,
+    "gold/championship": 380,
+    "green/middle": 271,
+    "white/members": 308
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black/forward": 239,
+    "blue/players": 373,
+    "gold/championship": 420,
+    "green/middle": 279,
+    "white/members": 332
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black/forward": 116,
+    "blue/players": 174,
+    "gold/championship": 187,
+    "green/middle": 129,
+    "white/members": 146
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black/forward": 400,
+    "blue/players": 515,
+    "gold/championship": 544,
+    "green/middle": 425,
+    "white/members": 453
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black/forward": 127,
+    "blue/players": 166,
+    "gold/championship": 181,
+    "green/middle": 143,
+    "white/members": 155
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black/forward": 314,
+    "blue/players": 414,
+    "gold/championship": 439,
+    "green/middle": 340,
+    "white/members": 364
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black/forward": 412,
+    "blue/players": 509,
+    "gold/championship": 528,
+    "green/middle": 464,
+    "white/members": 505
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black/forward": 206,
+    "blue/players": 348,
+    "gold/championship": 366,
+    "green/middle": 257,
+    "white/members": 320
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black/forward": 144,
+    "blue/players": 171,
+    "gold/championship": 189,
+    "green/middle": 145,
+    "white/members": 163
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black/forward": 259,
+    "blue/players": 332,
+    "gold/championship": 342,
+    "green/middle": 272,
+    "white/members": 305
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black/forward": 265,
+    "blue/players": 390,
+    "gold/championship": 423,
+    "green/middle": 275,
+    "white/members": 344
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black/forward": 240,
+    "blue/players": 312,
+    "gold/championship": 328,
+    "green/middle": 264,
+    "white/members": 269
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black/forward": 244,
+    "blue/players": 420,
+    "gold/championship": 443,
+    "green/middle": 325,
+    "white/members": 405
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black/forward": 104,
+    "blue/players": 167,
+    "gold/championship": 186,
+    "green/middle": 147,
+    "white/members": 167
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black/forward": 384,
+    "blue/players": 540,
+    "gold/championship": 563,
+    "green/middle": 452,
+    "white/members": 504
+   }
+  }
+ ],
+ "id": "127be590-b5a4-44f9-bfbd-bb61ee396397",
+ "lat": 26.507124,
+ "lng": -80.136911,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-championship-male",
+   "tee_name": "Gold/Championship",
+   "yardage": 6555
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-players-male",
+   "tee_name": "Blue/Players",
+   "yardage": 6105
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-members-male",
+   "tee_name": "White/Members",
+   "yardage": 5563
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-middle-male",
+   "tee_name": "Green/Middle",
+   "yardage": 4991
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-forward-male",
+   "tee_name": "Black/Forward",
+   "yardage": 4472
+  }
+ ]
+}

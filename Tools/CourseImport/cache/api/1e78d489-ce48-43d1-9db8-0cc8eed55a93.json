@@ -1,0 +1,289 @@
+{
+ "city": "Wildwood",
+ "club_name": "Shallow Creek Golf Club",
+ "course_name": "Shallow Creek Golf Club",
+ "dataset_name": "Shallow Creek Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 469,
+    "Friendly": 370,
+    "Gold": 501,
+    "Green": 390,
+    "White": 455,
+    "web": 501
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Blue": 140,
+    "Friendly": 90,
+    "Gold": 160,
+    "Green": 108,
+    "White": 128,
+    "web": 160
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 365,
+    "Friendly": 273,
+    "Gold": 391,
+    "Green": 321,
+    "White": 350,
+    "web": 391
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 297,
+    "Friendly": 236,
+    "Gold": 385,
+    "Green": 255,
+    "White": 262,
+    "web": 385
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 180,
+    "Friendly": 100,
+    "Gold": 220,
+    "Green": 100,
+    "White": 119,
+    "web": 220
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 374,
+    "Friendly": 250,
+    "Gold": 423,
+    "Green": 265,
+    "White": 310,
+    "web": 423
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Blue": 511,
+    "Friendly": 340,
+    "Gold": 557,
+    "Green": 426,
+    "White": 473,
+    "web": 557
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 141,
+    "Friendly": 97,
+    "Gold": 157,
+    "Green": 110,
+    "White": 130,
+    "web": 157
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 393,
+    "Friendly": 200,
+    "Gold": 429,
+    "Green": 320,
+    "White": 352,
+    "web": 429
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 349,
+    "Friendly": 236,
+    "Gold": 381,
+    "Green": 254,
+    "White": 327,
+    "web": 381
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 140,
+    "Friendly": 85,
+    "Gold": 180,
+    "Green": 106,
+    "White": 123,
+    "web": 180
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 355,
+    "Friendly": 219,
+    "Gold": 388,
+    "Green": 290,
+    "White": 324,
+    "web": 388
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Blue": 495,
+    "Friendly": 315,
+    "Gold": 523,
+    "Green": 400,
+    "White": 462,
+    "web": 523
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 178,
+    "Friendly": 117,
+    "Gold": 210,
+    "Green": 125,
+    "White": 146,
+    "web": 210
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 373,
+    "Friendly": 275,
+    "Gold": 403,
+    "Green": 285,
+    "White": 339,
+    "web": 403
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 147,
+    "Friendly": 99,
+    "Gold": 163,
+    "Green": 114,
+    "White": 137,
+    "web": 163
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 397,
+    "Friendly": 225,
+    "Gold": 466,
+    "Green": 292,
+    "White": 322,
+    "web": 466
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 490,
+    "Friendly": 315,
+    "Gold": 531,
+    "Green": 415,
+    "White": 450,
+    "web": 531
+   }
+  }
+ ],
+ "id": "1e78d489-ce48-43d1-9db8-0cc8eed55a93",
+ "lat": 28.7388691,
+ "lng": -81.9995465,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6468
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5794
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5209
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4576
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3842
+  }
+ ]
+}

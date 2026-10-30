@@ -1,0 +1,211 @@
+{
+ "city": "Tallahassee",
+ "club_name": "Golden Eagle Country Club",
+ "course_name": "Golden Eagle Country Club",
+ "dataset_name": "Golden Eagle Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "bald_eagle": 375,
+    "blue_heron": 298,
+    "cardinal": 338,
+    "golden_eagle": 380,
+    "talon": 392
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "bald_eagle": 99,
+    "blue_heron": 86,
+    "cardinal": 86,
+    "golden_eagle": 118,
+    "talon": 132
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "bald_eagle": 338,
+    "blue_heron": 273,
+    "cardinal": 273,
+    "golden_eagle": 392,
+    "talon": 403
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "bald_eagle": 395,
+    "blue_heron": 290,
+    "cardinal": 340,
+    "golden_eagle": 419,
+    "talon": 436
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "bald_eagle": 497,
+    "blue_heron": 399,
+    "cardinal": 438,
+    "golden_eagle": 503,
+    "talon": 521
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "bald_eagle": 332,
+    "blue_heron": 268,
+    "cardinal": 325,
+    "golden_eagle": 372,
+    "talon": 392
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "bald_eagle": 186,
+    "blue_heron": 153,
+    "cardinal": 153,
+    "golden_eagle": 201,
+    "talon": 218
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "bald_eagle": 484,
+    "blue_heron": 399,
+    "cardinal": 399,
+    "golden_eagle": 499,
+    "talon": 518
+   }
+  }
+ ],
+ "id": "055913ce-4447-49eb-8bfe-8d3569b1f76e",
+ "lat": 30.5950881,
+ "lng": -84.2353556,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "talon-male",
+   "tee_name": "Talon",
+   "yardage": 6916
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "golden-eagle-male",
+   "tee_name": "Golden Eagle",
+   "yardage": 6563
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bald-eagle-male",
+   "tee_name": "Bald Eagle",
+   "yardage": 6081
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "cardinal-male",
+   "tee_name": "Cardinal",
+   "yardage": 5327
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-heron-male",
+   "tee_name": "Blue Heron",
+   "yardage": 4959
+  }
+ ]
+}

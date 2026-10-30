@@ -1,0 +1,373 @@
+{
+ "city": "Naples",
+ "club_name": "White Gold At Wyndemere Country Club",
+ "course_name": "White Gold At Wyndemere Country Club",
+ "dataset_name": "White Gold At Wyndemere Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "I": 339,
+    "II": 327,
+    "II/III": 327,
+    "III": 314,
+    "IV": 285,
+    "V": 275,
+    "V/VI": 275,
+    "VI": 246
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "I": 444,
+    "II": 395,
+    "II/III": 365,
+    "III": 365,
+    "IV": 349,
+    "V": 320,
+    "V/VI": 246,
+    "VI": 246
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "I": 520,
+    "II": 501,
+    "II/III": 501,
+    "III": 485,
+    "IV": 466,
+    "V": 419,
+    "V/VI": 419,
+    "VI": 361
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "I": 167,
+    "II": 149,
+    "II/III": 149,
+    "III": 136,
+    "IV": 130,
+    "V": 120,
+    "V/VI": 97,
+    "VI": 97
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "I": 387,
+    "II": 352,
+    "II/III": 306,
+    "III": 306,
+    "IV": 286,
+    "V": 269,
+    "V/VI": 230,
+    "VI": 230
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "I": 491,
+    "II": 464,
+    "II/III": 464,
+    "III": 447,
+    "IV": 417,
+    "V": 390,
+    "V/VI": 390,
+    "VI": 367
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "I": 176,
+    "II": 164,
+    "II/III": 164,
+    "III": 153,
+    "IV": 134,
+    "V": 126,
+    "V/VI": 114,
+    "VI": 114
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "I": 449,
+    "II": 414,
+    "II/III": 384,
+    "III": 384,
+    "IV": 343,
+    "V": 332,
+    "V/VI": 302,
+    "VI": 302
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "I": 366,
+    "II": 344,
+    "II/III": 344,
+    "III": 326,
+    "IV": 309,
+    "V": 293,
+    "V/VI": 293,
+    "VI": 282
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "I": 492,
+    "II": 472,
+    "II/III": 472,
+    "III": 459,
+    "IV": 415,
+    "V": 404,
+    "V/VI": 404,
+    "VI": 382
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "I": 383,
+    "II": 360,
+    "II/III": 306,
+    "III": 306,
+    "IV": 296,
+    "V": 256,
+    "V/VI": 256,
+    "VI": 247
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "I": 197,
+    "II": 175,
+    "II/III": 175,
+    "III": 158,
+    "IV": 143,
+    "V": 129,
+    "V/VI": 97,
+    "VI": 97
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "I": 325,
+    "II": 309,
+    "II/III": 309,
+    "III": 294,
+    "IV": 257,
+    "V": 246,
+    "V/VI": 246,
+    "VI": 225
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "I": 421,
+    "II": 383,
+    "II/III": 363,
+    "III": 363,
+    "IV": 320,
+    "V": 309,
+    "V/VI": 256,
+    "VI": 256
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "I": 365,
+    "II": 348,
+    "II/III": 348,
+    "III": 335,
+    "IV": 318,
+    "V": 282,
+    "V/VI": 250,
+    "VI": 250
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "I": 390,
+    "II": 367,
+    "II/III": 352,
+    "III": 352,
+    "IV": 329,
+    "V": 318,
+    "V/VI": 318,
+    "VI": 271
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "I": 168,
+    "II": 158,
+    "II/III": 158,
+    "III": 145,
+    "IV": 130,
+    "V": 107,
+    "V/VI": 101,
+    "VI": 101
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "I": 523,
+    "II": 487,
+    "II/III": 487,
+    "III": 469,
+    "IV": 448,
+    "V": 438,
+    "V/VI": 438,
+    "VI": 367
+   }
+  }
+ ],
+ "id": "05fb9d1e-15aa-41b1-ba0f-fbb691ebecbc",
+ "lat": 26.1876551,
+ "lng": -81.7447652,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6603
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6169
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-iii-male",
+   "tee_name": "II/III",
+   "yardage": 5974
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5797
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5375
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5375
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 5033
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5033
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-vi-female",
+   "tee_name": "V/VI",
+   "yardage": 4732
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 4441
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 4441
+  }
+ ]
+}

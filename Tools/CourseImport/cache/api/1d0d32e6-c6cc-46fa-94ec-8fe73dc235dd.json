@@ -1,0 +1,297 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Club At Polo Club The",
+ "course_name": "Club At Polo Club The",
+ "dataset_name": "Club At Polo Club The",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 436,
+    "blue": 537,
+    "geen": 436,
+    "gold": 562,
+    "red": 398,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 135,
+    "blue": 196,
+    "geen": 135,
+    "gold": 223,
+    "red": 109,
+    "white": 161
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 293,
+    "blue": 365,
+    "geen": 293,
+    "gold": 413,
+    "red": 268,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 123,
+    "blue": 165,
+    "geen": 123,
+    "gold": 186,
+    "red": 101,
+    "white": 143
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 293,
+    "blue": 356,
+    "geen": 293,
+    "gold": 382,
+    "red": 266,
+    "white": 324
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 455,
+    "blue": 560,
+    "geen": 455,
+    "gold": 592,
+    "red": 422,
+    "white": 511
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 263,
+    "blue": 330,
+    "geen": 263,
+    "gold": 358,
+    "red": 237,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 313,
+    "blue": 378,
+    "geen": 313,
+    "gold": 408,
+    "red": 286,
+    "white": 346
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 320,
+    "blue": 386,
+    "geen": 320,
+    "gold": 403,
+    "red": 288,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "black": 138,
+    "blue": 158,
+    "geen": 120,
+    "gold": 178,
+    "red": 104,
+    "white": 138
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 311,
+    "blue": 365,
+    "geen": 284,
+    "gold": 403,
+    "red": 256,
+    "white": 311
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 153,
+    "blue": 178,
+    "geen": 131,
+    "gold": 195,
+    "red": 112,
+    "white": 153
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 475,
+    "blue": 501,
+    "geen": 419,
+    "gold": 520,
+    "red": 394,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 323,
+    "blue": 338,
+    "geen": 299,
+    "gold": 354,
+    "red": 269,
+    "white": 323
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 383,
+    "blue": 408,
+    "geen": 357,
+    "gold": 424,
+    "red": 324,
+    "white": 383
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 443,
+    "blue": 465,
+    "geen": 417,
+    "gold": 489,
+    "red": 400,
+    "white": 443
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 319,
+    "blue": 344,
+    "geen": 292,
+    "gold": 379,
+    "red": 267,
+    "white": 319
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 306,
+    "blue": 336,
+    "geen": 276,
+    "gold": 360,
+    "red": 234,
+    "white": 306
+   }
+  }
+ ],
+ "id": "1d0d32e6-c6cc-46fa-94ec-8fe73dc235dd",
+ "lat": 26.4195549,
+ "lng": -80.1281689,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6829
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6366
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5807
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5482
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "geen-male",
+   "tee_name": "Geen",
+   "yardage": 5226
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4735
+  }
+ ]
+}

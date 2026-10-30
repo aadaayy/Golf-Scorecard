@@ -1,0 +1,381 @@
+{
+ "city": "Palm Beach Gardens",
+ "club_name": "Ballenisles Country Club East Course",
+ "course_name": "Ballenisles Country Club East Course",
+ "dataset_name": "Ballenisles Country Club East Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 433,
+    "blue": 330,
+    "blue/white": 330,
+    "gold": 390,
+    "gold/blue": 370,
+    "green": 278,
+    "white": 310,
+    "white/green": 310
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 455,
+    "blue": 335,
+    "blue/white": 335,
+    "gold": 420,
+    "gold/blue": 405,
+    "green": 300,
+    "white": 325,
+    "white/green": 300
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 600,
+    "blue": 475,
+    "blue/white": 450,
+    "gold": 570,
+    "gold/blue": 540,
+    "green": 420,
+    "white": 450,
+    "white/green": 420
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "blue": 130,
+    "blue/white": 130,
+    "gold": 150,
+    "gold/blue": 140,
+    "green": 100,
+    "white": 120,
+    "white/green": 120
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 340,
+    "blue": 275,
+    "blue/white": 275,
+    "gold": 310,
+    "gold/blue": 300,
+    "green": 220,
+    "white": 250,
+    "white/green": 220
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 205,
+    "blue": 160,
+    "blue/white": 160,
+    "gold": 190,
+    "gold/blue": 175,
+    "green": 120,
+    "white": 135,
+    "white/green": 135
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 560,
+    "blue": 460,
+    "blue/white": 440,
+    "gold": 525,
+    "gold/blue": 515,
+    "green": 410,
+    "white": 440,
+    "white/green": 410
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 455,
+    "blue": 365,
+    "blue/white": 340,
+    "gold": 445,
+    "gold/blue": 420,
+    "green": 330,
+    "white": 340,
+    "white/green": 340
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 350,
+    "blue": 285,
+    "blue/white": 385,
+    "gold": 340,
+    "gold/blue": 315,
+    "green": 240,
+    "white": 275,
+    "white/green": 275
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 455,
+    "blue": 365,
+    "blue/white": 365,
+    "gold": 430,
+    "gold/blue": 400,
+    "green": 315,
+    "white": 350,
+    "white/green": 315
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 245,
+    "blue": 185,
+    "blue/white": 150,
+    "gold": 220,
+    "gold/blue": 205,
+    "green": 145,
+    "white": 150,
+    "white/green": 150
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 510,
+    "blue": 440,
+    "blue/white": 425,
+    "gold": 495,
+    "gold/blue": 475,
+    "green": 335,
+    "white": 425,
+    "white/green": 425
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "blue": 320,
+    "blue/white": 320,
+    "gold": 360,
+    "gold/blue": 350,
+    "green": 255,
+    "white": 300,
+    "white/green": 300
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 470,
+    "blue": 380,
+    "blue/white": 360,
+    "gold": 460,
+    "gold/blue": 440,
+    "green": 340,
+    "white": 360,
+    "white/green": 340
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 325,
+    "blue": 250,
+    "blue/white": 250,
+    "gold": 285,
+    "gold/blue": 270,
+    "green": 210,
+    "white": 230,
+    "white/green": 230
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 210,
+    "blue": 160,
+    "blue/white": 160,
+    "gold": 190,
+    "gold/blue": 170,
+    "green": 130,
+    "white": 135,
+    "white/green": 135
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 550,
+    "blue": 500,
+    "blue/white": 460,
+    "gold": 550,
+    "gold/blue": 530,
+    "green": 425,
+    "white": 460,
+    "white/green": 425
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 464,
+    "blue": 340,
+    "blue/white": 305,
+    "gold": 415,
+    "gold/blue": 380,
+    "green": 270,
+    "white": 305,
+    "white/green": 270
+   }
+  }
+ ],
+ "id": "2c92528d-0446-42a2-a5a1-341719507095",
+ "lat": 26.8321158,
+ "lng": -80.116677,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7189
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6634
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "gold-blue-male",
+   "tee_name": "Gold/Blue",
+   "yardage": 6405
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6216
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 5790
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5485
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5485
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-green-female",
+   "tee_name": "White/Green",
+   "yardage": 5255
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4986
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4986
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "short-male",
+   "tee_name": "Short",
+   "yardage": 4479
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "short-female",
+   "tee_name": "Short",
+   "yardage": 4479
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "city": "New Smyrna Beach",
+ "club_name": "The Club At Venetian Bay",
+ "course_name": "The Club At Venetian Bay",
+ "dataset_name": "The Club At Venetian Bay",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 504,
+    "Combo": 464,
+    "Gold": 528,
+    "Green": 426,
+    "Red": 385,
+    "Tournament": 504,
+    "White": 464
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 399,
+    "Combo": 341,
+    "Gold": 447,
+    "Green": 341,
+    "Red": 302,
+    "Tournament": 373,
+    "White": 373
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 195,
+    "Combo": 141,
+    "Gold": 214,
+    "Green": 141,
+    "Red": 111,
+    "Tournament": 170,
+    "White": 170
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 384,
+    "Combo": 358,
+    "Gold": 413,
+    "Green": 327,
+    "Red": 272,
+    "Tournament": 358,
+    "White": 358
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Blue": 492,
+    "Combo": 416,
+    "Gold": 533,
+    "Green": 416,
+    "Red": 404,
+    "Tournament": 492,
+    "White": 464
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 165,
+    "Combo": 131,
+    "Gold": 191,
+    "Green": 131,
+    "Red": 113,
+    "Tournament": 150,
+    "White": 150
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 384,
+    "Combo": 330,
+    "Gold": 406,
+    "Green": 330,
+    "Red": 291,
+    "Tournament": 353,
+    "White": 353
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 353,
+    "Combo": 263,
+    "Gold": 384,
+    "Green": 263,
+    "Red": 245,
+    "Tournament": 353,
+    "White": 324
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 322,
+    "Combo": 308,
+    "Gold": 358,
+    "Green": 274,
+    "Red": 248,
+    "Tournament": 322,
+    "White": 308
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 410,
+    "Combo": 356,
+    "Gold": 435,
+    "Green": 356,
+    "Red": 310,
+    "Tournament": 387,
+    "White": 387
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Blue": 528,
+    "Combo": 487,
+    "Gold": 556,
+    "Green": 441,
+    "Red": 413,
+    "Tournament": 528,
+    "White": 487
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 174,
+    "Combo": 136,
+    "Gold": 185,
+    "Green": 136,
+    "Red": 109,
+    "Tournament": 152,
+    "White": 152
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 424,
+    "Combo": 369,
+    "Gold": 458,
+    "Green": 369,
+    "Red": 282,
+    "Tournament": 380,
+    "White": 380
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 398,
+    "Combo": 322,
+    "Gold": 430,
+    "Green": 322,
+    "Red": 312,
+    "Tournament": 398,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 374,
+    "Combo": 348,
+    "Gold": 414,
+    "Green": 331,
+    "Red": 310,
+    "Tournament": 374,
+    "White": 348
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 171,
+    "Combo": 128,
+    "Gold": 197,
+    "Green": 128,
+    "Red": 104,
+    "Tournament": 149,
+    "White": 149
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Blue": 485,
+    "Combo": 458,
+    "Gold": 510,
+    "Green": 412,
+    "Red": 396,
+    "Tournament": 458,
+    "White": 458
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 391,
+    "Combo": 359,
+    "Gold": 413,
+    "Green": 326,
+    "Red": 269,
+    "Tournament": 359,
+    "White": 359
+   }
+  }
+ ],
+ "id": "4acabde2-9acb-4a07-b2cc-e6d9f5135201",
+ "lat": 29.0212225,
+ "lng": -81.0188538,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7072
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6553
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6260
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6032
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 5715
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5297
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4876
+  }
+ ]
+}

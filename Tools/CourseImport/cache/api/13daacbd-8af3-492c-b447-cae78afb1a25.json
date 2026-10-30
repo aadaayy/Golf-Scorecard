@@ -1,0 +1,457 @@
+{
+ "city": "St. Augustine",
+ "club_name": "St Johns Golf Country Club",
+ "course_name": "St Johns Golf Country Club",
+ "dataset_name": "St Johns Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 378,
+    "Blue/White": 378,
+    "Family": 102,
+    "Gold": 406,
+    "Red": 286,
+    "Silver": 338,
+    "Silver/Red": 338,
+    "White": 362,
+    "White/Silver": 362,
+    "web": 406
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Blue": 503,
+    "Blue/White": 493,
+    "Family": 156,
+    "Gold": 542,
+    "Red": 423,
+    "Silver": 456,
+    "Silver/Red": 423,
+    "White": 493,
+    "White/Silver": 493,
+    "web": 542
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 183,
+    "Blue/White": 183,
+    "Family": 107,
+    "Gold": 207,
+    "Red": 116,
+    "Silver": 137,
+    "Silver/Red": 137,
+    "White": 167,
+    "White/Silver": 137,
+    "web": 207
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 340,
+    "Blue/White": 340,
+    "Family": 180,
+    "Gold": 376,
+    "Red": 249,
+    "Silver": 306,
+    "Silver/Red": 249,
+    "White": 325,
+    "White/Silver": 325,
+    "web": 376
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 155,
+    "Blue/White": 155,
+    "Family": 101,
+    "Gold": 176,
+    "Red": 109,
+    "Silver": 123,
+    "Silver/Red": 123,
+    "White": 143,
+    "White/Silver": 143,
+    "web": 176
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 396,
+    "Blue/White": 365,
+    "Family": 98,
+    "Gold": 424,
+    "Red": 305,
+    "Silver": 340,
+    "Silver/Red": 340,
+    "White": 365,
+    "White/Silver": 340,
+    "web": 424
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 373,
+    "Blue/White": 373,
+    "Family": 151,
+    "Gold": 403,
+    "Red": 287,
+    "Silver": 328,
+    "Silver/Red": 328,
+    "White": 350,
+    "White/Silver": 350,
+    "web": 403
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue": 536,
+    "Blue/White": 501,
+    "Family": 127,
+    "Gold": 558,
+    "Red": 438,
+    "Silver": 473,
+    "Silver/Red": 438,
+    "White": 501,
+    "White/Silver": 473,
+    "web": 558
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 418,
+    "Blue/White": 389,
+    "Family": 144,
+    "Gold": 440,
+    "Red": 324,
+    "Silver": 358,
+    "Silver/Red": 324,
+    "White": 389,
+    "White/Silver": 358,
+    "web": 440
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 377,
+    "Blue/White": 341,
+    "Family": 122,
+    "Gold": 403,
+    "Red": 283,
+    "Silver": 326,
+    "Silver/Red": 326,
+    "White": 341,
+    "White/Silver": 341,
+    "web": 403
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 384,
+    "Blue/White": 384,
+    "Family": 108,
+    "Gold": 415,
+    "Red": 295,
+    "Silver": 342,
+    "Silver/Red": 342,
+    "White": 360,
+    "White/Silver": 342,
+    "web": 415
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 527,
+    "Blue/White": 507,
+    "Family": 186,
+    "Gold": 565,
+    "Red": 450,
+    "Silver": 465,
+    "Silver/Red": 450,
+    "White": 507,
+    "White/Silver": 465,
+    "web": 565
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 168,
+    "Blue/White": 168,
+    "Family": 98,
+    "Gold": 186,
+    "Red": 105,
+    "Silver": 137,
+    "Silver/Red": 137,
+    "White": 153,
+    "White/Silver": 137,
+    "web": 186
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 370,
+    "Blue/White": 370,
+    "Family": 103,
+    "Gold": 400,
+    "Red": 286,
+    "Silver": 326,
+    "Silver/Red": 326,
+    "White": 346,
+    "White/Silver": 346,
+    "web": 400
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 425,
+    "Blue/White": 393,
+    "Family": 160,
+    "Gold": 460,
+    "Red": 335,
+    "Silver": 360,
+    "Silver/Red": 335,
+    "White": 393,
+    "White/Silver": 360,
+    "web": 460
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Blue": 533,
+    "Blue/White": 533,
+    "Family": 218,
+    "Gold": 557,
+    "Red": 453,
+    "Silver": 480,
+    "Silver/Red": 453,
+    "White": 493,
+    "White/Silver": 493,
+    "web": 557
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 194,
+    "Blue/White": 184,
+    "Family": 129,
+    "Gold": 212,
+    "Red": 134,
+    "Silver": 174,
+    "Silver/Red": 134,
+    "White": 184,
+    "White/Silver": 184,
+    "web": 212
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 428,
+    "Blue/White": 401,
+    "Family": 107,
+    "Gold": 453,
+    "Red": 324,
+    "Silver": 371,
+    "Silver/Red": 324,
+    "White": 401,
+    "White/Silver": 371,
+    "web": 453
+   }
+  }
+ ],
+ "id": "13daacbd-8af3-492c-b447-cae78afb1a25",
+ "lat": 30.0537775,
+ "lng": -81.5091415,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7183
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 7183
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6688
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6688
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue/White",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6458
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Blue/White",
+   "tee_key": "blue-white-female",
+   "tee_name": "Blue/White",
+   "yardage": 6458
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6273
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6273
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White/Silver",
+   "tee_key": "white-silver-female",
+   "tee_name": "White/Silver",
+   "yardage": 6020
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White/Silver",
+   "tee_key": "white-silver-male",
+   "tee_name": "White/Silver",
+   "yardage": 6020
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Silver",
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5840
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Silver",
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5840
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Silver/Red",
+   "tee_key": "silver-red-male",
+   "tee_name": "Silver/Red",
+   "yardage": 5527
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Silver/Red",
+   "tee_key": "silver-red-female",
+   "tee_name": "Silver/Red",
+   "yardage": 5527
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5202
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5202
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Family",
+   "tee_key": "family-female",
+   "tee_name": "Family",
+   "yardage": 2397
+  }
+ ]
+}

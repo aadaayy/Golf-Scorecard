@@ -1,0 +1,295 @@
+{
+ "city": "Stuart",
+ "club_name": "The Champions Club At Summerfield",
+ "course_name": "The Champions Club At Summerfield",
+ "dataset_name": "The Champions Club At Summerfield",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 349,
+    "Gold": 378,
+    "Green": 259,
+    "White": 323,
+    "White/Green": 323
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Blue": 177,
+    "Gold": 197,
+    "Green": 85,
+    "White": 134,
+    "White/Green": 134
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 401,
+    "Gold": 432,
+    "Green": 294,
+    "White": 308,
+    "White/Green": 294
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Blue": 469,
+    "Gold": 523,
+    "Green": 422,
+    "White": 428,
+    "White/Green": 428
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 405,
+    "Gold": 436,
+    "Green": 317,
+    "White": 389,
+    "White/Green": 317
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 116,
+    "Gold": 149,
+    "Green": 88,
+    "White": 106,
+    "White/Green": 106
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 347,
+    "Gold": 385,
+    "Green": 263,
+    "White": 318,
+    "White/Green": 318
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue": 478,
+    "Gold": 528,
+    "Green": 329,
+    "White": 467,
+    "White/Green": 329
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 367,
+    "Gold": 393,
+    "Green": 319,
+    "White": 343,
+    "White/Green": 319
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 361,
+    "Gold": 396,
+    "Green": 277,
+    "White": 339,
+    "White/Green": 339
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 309,
+    "Gold": 345,
+    "Green": 248,
+    "White": 282,
+    "White/Green": 282
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 196,
+    "Gold": 216,
+    "Green": 149,
+    "White": 174,
+    "White/Green": 149
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Blue": 521,
+    "Gold": 552,
+    "Green": 431,
+    "White": 495,
+    "White/Green": 431
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 362,
+    "Gold": 387,
+    "Green": 297,
+    "White": 327,
+    "White/Green": 297
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 344,
+    "Gold": 367,
+    "Green": 265,
+    "White": 316,
+    "White/Green": 316
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 397,
+    "Gold": 434,
+    "Green": 338,
+    "White": 368,
+    "White/Green": 338
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 182,
+    "Gold": 210,
+    "Green": 131,
+    "White": 150,
+    "White/Green": 131
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 532,
+    "Gold": 562,
+    "Green": 465,
+    "White": 504,
+    "White/Green": 465
+   }
+  }
+ ],
+ "id": "2b2aa040-e7b1-42c9-a7c9-ea72daff55ed",
+ "lat": 27.12757,
+ "lng": -80.208121,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6890
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6313
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5771
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5771
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 5316
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-green-female",
+   "tee_name": "White/Green",
+   "yardage": 5316
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4977
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4977
+  }
+ ]
+}

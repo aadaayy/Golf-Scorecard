@@ -1,0 +1,331 @@
+{
+ "city": "Estero",
+ "club_name": "The Club At Grandezza",
+ "course_name": "The Club At Grandezza",
+ "dataset_name": "The Club At Grandezza",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 386,
+    "blue": 367,
+    "gold": 316,
+    "green": 276,
+    "orange": 247,
+    "web": 384,
+    "white": 354
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 537,
+    "blue": 488,
+    "gold": 445,
+    "green": 411,
+    "orange": 405,
+    "web": 535,
+    "white": 477
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "blue": 364,
+    "gold": 328,
+    "green": 316,
+    "orange": 279,
+    "web": 388,
+    "white": 351
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 443,
+    "blue": 417,
+    "gold": 321,
+    "green": 314,
+    "orange": 275,
+    "web": 438,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 138,
+    "blue": 125,
+    "gold": 95,
+    "green": 85,
+    "orange": 70,
+    "web": 139,
+    "white": 114
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 364,
+    "blue": 360,
+    "gold": 307,
+    "green": 280,
+    "orange": 261,
+    "web": 368,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 549,
+    "blue": 525,
+    "gold": 491,
+    "green": 448,
+    "orange": 412,
+    "web": 542,
+    "white": 510
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 170,
+    "blue": 160,
+    "gold": 137,
+    "green": 113,
+    "orange": 102,
+    "web": 177,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 454,
+    "blue": 416,
+    "gold": 320,
+    "green": 313,
+    "orange": 289,
+    "web": 450,
+    "white": 376
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "blue": 391,
+    "gold": 351,
+    "green": 311,
+    "orange": 283,
+    "web": 410,
+    "white": 377
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 567,
+    "blue": 541,
+    "gold": 469,
+    "green": 462,
+    "orange": 438,
+    "web": 567,
+    "white": 502
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 155,
+    "blue": 155,
+    "gold": 120,
+    "green": 99,
+    "orange": 95,
+    "web": 156,
+    "white": 132
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 340,
+    "blue": 321,
+    "gold": 278,
+    "green": 236,
+    "orange": 227,
+    "web": 337,
+    "white": 308
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 361,
+    "blue": 355,
+    "gold": 288,
+    "green": 274,
+    "orange": 247,
+    "web": 382,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 409,
+    "blue": 372,
+    "gold": 326,
+    "green": 301,
+    "orange": 264,
+    "web": 406,
+    "white": 354
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 203,
+    "blue": 193,
+    "gold": 151,
+    "green": 118,
+    "orange": 112,
+    "web": 205,
+    "white": 175
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "blue": 381,
+    "gold": 333,
+    "green": 303,
+    "orange": 269,
+    "web": 400,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 541,
+    "blue": 511,
+    "gold": 466,
+    "green": 426,
+    "orange": 414,
+    "web": 538,
+    "white": 481
+   }
+  }
+ ],
+ "id": "4b544584-86a1-4240-8bdf-c175556310de",
+ "lat": 26.4394903,
+ "lng": -81.7702735,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6818
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6442
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6037
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5542
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5086
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5086
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 4689
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pink-female",
+   "tee_name": "Pink",
+   "yardage": 4011
+  }
+ ]
+}

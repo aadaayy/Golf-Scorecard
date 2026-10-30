@@ -1,0 +1,120 @@
+{
+ "city": "Lakeland",
+ "club_name": "Ymca Par 3 Home Of The First Tee Of Lakeland",
+ "course_name": "Ymca Par 3 Home Of The First Tee Of Lakeland",
+ "dataset_name": "Ymca Par 3 Home Of The First Tee Of Lakeland",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "web": 106,
+    "yellow": 75
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "web": 68,
+    "yellow": 121
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "web": 126,
+    "yellow": 101
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "web": 80,
+    "yellow": 109
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "web": 92,
+    "yellow": 93
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "web": 77,
+    "yellow": 92
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "web": 131,
+    "yellow": 126
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "web": 80,
+    "yellow": 75
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "web": 94,
+    "yellow": 114
+   }
+  }
+ ],
+ "id": "152c0ccf-8c97-4dbf-b632-07a65bb0fa12",
+ "lat": 28.0423007,
+ "lng": -81.9834235,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 953
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 953
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "front-female",
+   "tee_name": "Front",
+   "yardage": 622
+  }
+ ]
+}

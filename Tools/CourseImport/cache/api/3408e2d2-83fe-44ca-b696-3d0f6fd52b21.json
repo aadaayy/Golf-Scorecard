@@ -1,0 +1,313 @@
+{
+ "city": "Bradenton",
+ "club_name": "Ritz Carlton Members Golf Club",
+ "course_name": "Ritz Carlton Members Golf Club",
+ "dataset_name": "Ritz Carlton Members Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 369,
+    "green": 314,
+    "members": 369,
+    "red": 301,
+    "silver": 395,
+    "white": 346
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 407,
+    "green": 357,
+    "members": 381,
+    "red": 327,
+    "silver": 429,
+    "white": 381
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 161,
+    "green": 133,
+    "members": 161,
+    "red": 117,
+    "silver": 181,
+    "white": 141
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 489,
+    "green": 441,
+    "members": 489,
+    "red": 427,
+    "silver": 520,
+    "white": 465
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 291,
+    "green": 248,
+    "members": 291,
+    "red": 182,
+    "silver": 306,
+    "white": 268
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 510,
+    "green": 453,
+    "members": 510,
+    "red": 420,
+    "silver": 540,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 151,
+    "green": 112,
+    "members": 151,
+    "red": 98,
+    "silver": 177,
+    "white": 136
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "green": 360,
+    "members": 377,
+    "red": 340,
+    "silver": 426,
+    "white": 377
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 427,
+    "green": 399,
+    "members": 415,
+    "red": 373,
+    "silver": 449,
+    "white": 415
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 391,
+    "green": 366,
+    "members": 391,
+    "red": 302,
+    "silver": 418,
+    "white": 381
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 533,
+    "green": 486,
+    "members": 533,
+    "red": 453,
+    "silver": 560,
+    "white": 515
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "green": 347,
+    "members": 381,
+    "red": 322,
+    "silver": 427,
+    "white": 381
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 173,
+    "green": 129,
+    "members": 173,
+    "red": 110,
+    "silver": 193,
+    "white": 144
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 332,
+    "green": 297,
+    "members": 332,
+    "red": 264,
+    "silver": 359,
+    "white": 319
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 510,
+    "green": 454,
+    "members": 510,
+    "red": 381,
+    "silver": 543,
+    "white": 478
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "green": 141,
+    "members": 180,
+    "red": 106,
+    "silver": 216,
+    "white": 164
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 432,
+    "green": 394,
+    "members": 421,
+    "red": 336,
+    "silver": 457,
+    "white": 421
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 411,
+    "green": 360,
+    "members": 391,
+    "red": 316,
+    "silver": 437,
+    "white": 391
+   }
+  }
+ ],
+ "id": "3408e2d2-83fe-44ca-b696-3d0f6fd52b21",
+ "lat": 27.41403,
+ "lng": -82.3883819,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 7033
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6557
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "members-male",
+   "tee_name": "Members",
+   "yardage": 6456
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6198
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6198
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5791
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5791
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5175
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "city": "Sebastian",
+ "club_name": "Sebastian Municipal Golf Course",
+ "course_name": "Sebastian Municipal Golf Course",
+ "dataset_name": "Sebastian Municipal Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Back": 344,
+    "Champ": 384,
+    "Forward": 322,
+    "Middle": 324,
+    "web": 380
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Back": 150,
+    "Champ": 152,
+    "Forward": 122,
+    "Middle": 128,
+    "web": 152
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Back": 376,
+    "Champ": 394,
+    "Forward": 330,
+    "Middle": 335,
+    "web": 410
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Back": 482,
+    "Champ": 518,
+    "Forward": 410,
+    "Middle": 417,
+    "web": 534
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Back": 163,
+    "Champ": 180,
+    "Forward": 136,
+    "Middle": 143,
+    "web": 184
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Back": 371,
+    "Champ": 413,
+    "Forward": 307,
+    "Middle": 321,
+    "web": 422
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Back": 493,
+    "Champ": 515,
+    "Forward": 452,
+    "Middle": 461,
+    "web": 526
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Back": 307,
+    "Champ": 338,
+    "Forward": 219,
+    "Middle": 230,
+    "web": 355
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Back": 352,
+    "Champ": 367,
+    "Forward": 318,
+    "Middle": 325,
+    "web": 369
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Back": 475,
+    "Champ": 508,
+    "Forward": 447,
+    "Middle": 453,
+    "web": 511
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Back": 305,
+    "Champ": 334,
+    "Forward": 275,
+    "Middle": 295,
+    "web": 344
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Back": 338,
+    "Champ": 367,
+    "Forward": 317,
+    "Middle": 321,
+    "web": 372
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Back": 379,
+    "Champ": 404,
+    "Forward": 338,
+    "Middle": 348,
+    "web": 424
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Back": 153,
+    "Champ": 176,
+    "Forward": 107,
+    "Middle": 137,
+    "web": 180
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Back": 474,
+    "Champ": 514,
+    "Forward": 381,
+    "Middle": 397,
+    "web": 546
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Back": 399,
+    "Champ": 424,
+    "Forward": 289,
+    "Middle": 340,
+    "web": 420
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Back": 136,
+    "Champ": 152,
+    "Forward": 111,
+    "Middle": 117,
+    "web": 156
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Back": 401,
+    "Champ": 423,
+    "Forward": 314,
+    "Middle": 374,
+    "web": 430
+   }
+  }
+ ],
+ "id": "1f1f7783-80e7-4335-ae6b-e129a654c98b",
+ "lat": 27.8078439,
+ "lng": -80.4900241,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champ-male",
+   "tee_name": "Champ",
+   "yardage": 6563
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-female",
+   "tee_name": "Back",
+   "yardage": 6098
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6098
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-female",
+   "tee_name": "Middle",
+   "yardage": 5466
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5466
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 5195
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 5195
+  }
+ ]
+}

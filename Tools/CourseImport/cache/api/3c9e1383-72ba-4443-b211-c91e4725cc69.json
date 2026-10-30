@@ -1,0 +1,347 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Boca West Country Club Palmer Iii",
+ "course_name": "Boca West Country Club Palmer Iii",
+ "dataset_name": "Boca West Country Club Palmer Iii",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 380,
+    "blue": 365,
+    "gold": 380,
+    "green": 290,
+    "red": 235,
+    "silver": 309,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 503,
+    "blue": 485,
+    "gold": 503,
+    "green": 353,
+    "red": 324,
+    "silver": 402,
+    "white": 451
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 430,
+    "blue": 395,
+    "gold": 415,
+    "green": 322,
+    "red": 247,
+    "silver": 347,
+    "white": 348
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 355,
+    "blue": 335,
+    "gold": 355,
+    "green": 260,
+    "red": 190,
+    "silver": 288,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 405,
+    "blue": 375,
+    "gold": 390,
+    "green": 262,
+    "red": 233,
+    "silver": 321,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 168,
+    "blue": 155,
+    "gold": 168,
+    "green": 117,
+    "red": 89,
+    "silver": 131,
+    "white": 140
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 356,
+    "blue": 330,
+    "gold": 356,
+    "green": 262,
+    "red": 242,
+    "silver": 290,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 183,
+    "blue": 162,
+    "gold": 170,
+    "green": 120,
+    "red": 83,
+    "silver": 143,
+    "white": 145
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "blue": 385,
+    "gold": 401,
+    "green": 302,
+    "red": 231,
+    "silver": 320,
+    "white": 333
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 335,
+    "blue": 320,
+    "gold": 335,
+    "green": 249,
+    "red": 220,
+    "silver": 277,
+    "white": 303
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 220,
+    "blue": 175,
+    "gold": 195,
+    "green": 127,
+    "red": 94,
+    "silver": 141,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "blue": 365,
+    "gold": 390,
+    "green": 297,
+    "red": 275,
+    "silver": 319,
+    "white": 346
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 392,
+    "blue": 380,
+    "gold": 392,
+    "green": 283,
+    "red": 249,
+    "silver": 313,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 190,
+    "blue": 162,
+    "gold": 170,
+    "green": 117,
+    "red": 80,
+    "silver": 131,
+    "white": 140
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 585,
+    "blue": 520,
+    "gold": 565,
+    "green": 454,
+    "red": 415,
+    "silver": 463,
+    "white": 470
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 370,
+    "blue": 345,
+    "gold": 370,
+    "green": 262,
+    "red": 225,
+    "silver": 292,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "blue": 380,
+    "gold": 395,
+    "green": 306,
+    "red": 286,
+    "silver": 312,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 490,
+    "blue": 472,
+    "gold": 490,
+    "green": 374,
+    "red": 350,
+    "silver": 415,
+    "white": 445
+   }
+  }
+ ],
+ "id": "3c9e1383-72ba-4443-b211-c91e4725cc69",
+ "lat": 26.3798065,
+ "lng": -80.1599122,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6753
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6449
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6128
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5707
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5707
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5214
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5214
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4757
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4757
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4096
+  }
+ ]
+}

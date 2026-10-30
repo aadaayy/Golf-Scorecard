@@ -1,0 +1,401 @@
+{
+ "city": "DeLand",
+ "club_name": "Victoria Hills Golf Club",
+ "course_name": "Victoria Hills Golf Club",
+ "dataset_name": "Victoria Hills Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 449,
+    "Blue": 362,
+    "Blue/Green": 329,
+    "Green": 329,
+    "Green (W)": 329,
+    "Green/White": 295,
+    "Green/White (W)": 295,
+    "White": 295,
+    "White (W)": 295,
+    "Yellow": 387
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 453,
+    "Blue": 380,
+    "Blue/Green": 344,
+    "Green": 344,
+    "Green (W)": 344,
+    "Green/White": 314,
+    "Green/White (W)": 314,
+    "White": 314,
+    "White (W)": 314,
+    "Yellow": 400
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 226,
+    "Blue": 186,
+    "Blue/Green": 186,
+    "Green": 160,
+    "Green (W)": 160,
+    "Green/White": 160,
+    "Green/White (W)": 160,
+    "White": 127,
+    "White (W)": 127,
+    "Yellow": 204
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 434,
+    "Blue": 359,
+    "Blue/Green": 330,
+    "Green": 330,
+    "Green (W)": 330,
+    "Green/White": 300,
+    "Green/White (W)": 300,
+    "White": 300,
+    "White (W)": 300,
+    "Yellow": 392
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 585,
+    "Blue": 517,
+    "Blue/Green": 486,
+    "Green": 486,
+    "Green (W)": 486,
+    "Green/White": 458,
+    "Green/White (W)": 458,
+    "White": 458,
+    "White (W)": 458,
+    "Yellow": 558
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 380,
+    "Blue": 309,
+    "Blue/Green": 309,
+    "Green": 281,
+    "Green (W)": 281,
+    "Green/White": 281,
+    "Green/White (W)": 281,
+    "White": 241,
+    "White (W)": 241,
+    "Yellow": 334
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 181,
+    "Blue": 144,
+    "Blue/Green": 144,
+    "Green": 133,
+    "Green (W)": 133,
+    "Green/White": 133,
+    "Green/White (W)": 133,
+    "White": 111,
+    "White (W)": 111,
+    "Yellow": 158
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 380,
+    "Blue": 344,
+    "Blue/Green": 344,
+    "Green": 300,
+    "Green (W)": 300,
+    "Green/White": 300,
+    "Green/White (W)": 300,
+    "White": 262,
+    "White (W)": 262,
+    "Yellow": 369
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 549,
+    "Blue": 505,
+    "Blue/Green": 441,
+    "Green": 441,
+    "Green (W)": 441,
+    "Green/White": 433,
+    "Green/White (W)": 433,
+    "White": 433,
+    "White (W)": 433,
+    "Yellow": 532
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 440,
+    "Blue": 370,
+    "Blue/Green": 339,
+    "Green": 339,
+    "Green (W)": 339,
+    "Green/White": 331,
+    "Green/White (W)": 331,
+    "White": 331,
+    "White (W)": 331,
+    "Yellow": 408
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 187,
+    "Blue": 139,
+    "Blue/Green": 139,
+    "Green": 125,
+    "Green (W)": 125,
+    "Green/White": 125,
+    "Green/White (W)": 125,
+    "White": 106,
+    "White (W)": 106,
+    "Yellow": 155
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 365,
+    "Blue": 286,
+    "Blue/Green": 286,
+    "Green": 264,
+    "Green (W)": 264,
+    "Green/White": 256,
+    "Green/White (W)": 256,
+    "White": 256,
+    "White (W)": 256,
+    "Yellow": 324
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 401,
+    "Blue": 335,
+    "Blue/Green": 335,
+    "Green": 308,
+    "Green (W)": 308,
+    "Green/White": 308,
+    "Green/White (W)": 308,
+    "White": 276,
+    "White (W)": 276,
+    "Yellow": 373
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 215,
+    "Blue": 124,
+    "Blue/Green": 124,
+    "Green": 108,
+    "Green (W)": 108,
+    "Green/White": 108,
+    "Green/White (W)": 108,
+    "White": 92,
+    "White (W)": 92,
+    "Yellow": 207
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 523,
+    "Blue": 473,
+    "Blue/Green": 436,
+    "Green": 436,
+    "Green (W)": 436,
+    "Green/White": 417,
+    "Green/White (W)": 417,
+    "White": 417,
+    "White (W)": 417,
+    "Yellow": 487
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 433,
+    "Blue": 321,
+    "Blue/Green": 287,
+    "Green": 287,
+    "Green (W)": 287,
+    "Green/White": 287,
+    "Green/White (W)": 287,
+    "White": 200,
+    "White (W)": 200,
+    "Yellow": 356
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 369,
+    "Blue": 306,
+    "Blue/Green": 306,
+    "Green": 289,
+    "Green (W)": 289,
+    "Green/White": 289,
+    "Green/White (W)": 289,
+    "White": 257,
+    "White (W)": 257,
+    "Yellow": 335
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 560,
+    "Blue": 483,
+    "Blue/Green": 458,
+    "Green": 458,
+    "Green (W)": 458,
+    "Green/White": 417,
+    "Green/White (W)": 417,
+    "White": 417,
+    "White (W)": 417,
+    "Yellow": 519
+   }
+  }
+ ],
+ "id": "2533743d-dc3d-4ae2-a95c-75c2b07436d4",
+ "lat": 28.9789073,
+ "lng": -81.2701688,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7130
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Yellow",
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 6498
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5943
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue/Green",
+   "tee_key": "blue-green-male",
+   "tee_name": "Blue/Green",
+   "yardage": 5623
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-w-female",
+   "tee_name": "Green (W)",
+   "yardage": 5418
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5418
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Green/White",
+   "tee_key": "green-white-w-female",
+   "tee_name": "Green/White (W)",
+   "yardage": 5212
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green/White",
+   "tee_key": "green-white-male",
+   "tee_name": "Green/White",
+   "yardage": 5212
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 4893
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-w-female",
+   "tee_name": "White (W)",
+   "yardage": 4893
+  }
+ ]
+}

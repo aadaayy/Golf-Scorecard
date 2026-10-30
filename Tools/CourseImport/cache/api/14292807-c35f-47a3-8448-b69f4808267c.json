@@ -1,0 +1,355 @@
+{
+ "city": "Coral Gables",
+ "club_name": "The Biltmore Golf Course",
+ "course_name": "The Biltmore Golf Course",
+ "dataset_name": "The Biltmore Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 16,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 506,
+    "Blue": 496,
+    "Members": 496,
+    "Red": 449,
+    "Ross": 506,
+    "White": 483,
+    "web": 506
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 232,
+    "Blue": 183,
+    "Members": 157,
+    "Red": 122,
+    "Ross": 183,
+    "White": 157,
+    "web": 232
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 406,
+    "Blue": 371,
+    "Members": 356,
+    "Red": 296,
+    "Ross": 371,
+    "White": 356,
+    "web": 406
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 350,
+    "Blue": 324,
+    "Members": 324,
+    "Red": 294,
+    "Ross": 350,
+    "White": 316,
+    "web": 350
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 419,
+    "Blue": 397,
+    "Members": 366,
+    "Red": 309,
+    "Ross": 397,
+    "White": 366,
+    "web": 419
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 423,
+    "Blue": 398,
+    "Members": 398,
+    "Red": 317,
+    "Ross": 423,
+    "White": 376,
+    "web": 423
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 463,
+    "Blue": 390,
+    "Members": 366,
+    "Red": 286,
+    "Ross": 390,
+    "White": 366,
+    "web": 463
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 240,
+    "Blue": 199,
+    "Members": 186,
+    "Red": 164,
+    "Ross": 240,
+    "White": 186,
+    "web": 240
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 351,
+    "Blue": 340,
+    "Members": 340,
+    "Red": 306,
+    "Ross": 351,
+    "White": 322,
+    "web": 351
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 426,
+    "Blue": 381,
+    "Members": 352,
+    "Red": 313,
+    "Ross": 426,
+    "White": 352,
+    "web": 426
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 423,
+    "Blue": 399,
+    "Members": 358,
+    "Red": 339,
+    "Ross": 399,
+    "White": 358,
+    "web": 423
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 258,
+    "Blue": 210,
+    "Members": 173,
+    "Red": 137,
+    "Ross": 210,
+    "White": 173,
+    "web": 258
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 465,
+    "Blue": 447,
+    "Members": 447,
+    "Red": 344,
+    "Ross": 447,
+    "White": 419,
+    "web": 465
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 167,
+    "Blue": 148,
+    "Members": 148,
+    "Red": 112,
+    "Ross": 167,
+    "White": 135,
+    "web": 167
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 556,
+    "Blue": 521,
+    "Members": 521,
+    "Red": 446,
+    "Ross": 556,
+    "White": 506,
+    "web": 556
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 394,
+    "Blue": 367,
+    "Members": 367,
+    "Red": 305,
+    "Ross": 394,
+    "White": 352,
+    "web": 394
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 490,
+    "Blue": 405,
+    "Members": 389,
+    "Red": 356,
+    "Ross": 405,
+    "White": 389,
+    "web": 490
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 543,
+    "Blue": 472,
+    "Members": 472,
+    "Red": 393,
+    "Ross": 543,
+    "White": 438,
+    "web": 543
+   }
+  }
+ ],
+ "id": "14292807-c35f-47a3-8448-b69f4808267c",
+ "lat": 25.7405442,
+ "lng": -80.2800652,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7112
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "ross-female",
+   "tee_name": "Ross",
+   "yardage": 6758
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "ross-male",
+   "tee_name": "Ross",
+   "yardage": 6758
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6448
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6448
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "members-female",
+   "tee_name": "Members",
+   "yardage": 6216
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "members-male",
+   "tee_name": "Members",
+   "yardage": 6216
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6050
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6050
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5288
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5288
+  }
+ ]
+}

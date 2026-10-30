@@ -1,0 +1,245 @@
+{
+ "city": "Winter Haven",
+ "club_name": "Willowbrook Golf Course",
+ "course_name": "Willowbrook Golf Course",
+ "dataset_name": "Willowbrook Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 501,
+    "Gold": 471,
+    "Red": 464,
+    "White": 483
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 413,
+    "Gold": 345,
+    "Red": 339,
+    "White": 388
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 168,
+    "Gold": 123,
+    "Red": 110,
+    "White": 143
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 398,
+    "Gold": 359,
+    "Red": 348,
+    "White": 386
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 124,
+    "Gold": 106,
+    "Red": 103,
+    "White": 115
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 389,
+    "Gold": 305,
+    "Red": 295,
+    "White": 360
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 366,
+    "Gold": 322,
+    "Red": 259,
+    "White": 355
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 317,
+    "Gold": 280,
+    "Red": 271,
+    "White": 304
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Blue": 465,
+    "Gold": 445,
+    "Red": 435,
+    "White": 452
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 335,
+    "Gold": 287,
+    "Red": 280,
+    "White": 322
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Blue": 476,
+    "Gold": 413,
+    "Red": 405,
+    "White": 453
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 152,
+    "Gold": 141,
+    "Red": 139,
+    "White": 147
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 404,
+    "Gold": 332,
+    "Red": 277,
+    "White": 384
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 327,
+    "Gold": 262,
+    "Red": 253,
+    "White": 308
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 199,
+    "Gold": 146,
+    "Red": 139,
+    "White": 180
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 423,
+    "Gold": 384,
+    "Red": 361,
+    "White": 409
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Blue": 508,
+    "Gold": 422,
+    "Red": 390,
+    "White": 497
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 405,
+    "Gold": 331,
+    "Red": 323,
+    "White": 391
+   }
+  }
+ ],
+ "id": "4fdcd96f-08f5-4c06-ad50-586c50556200",
+ "lat": 28.0674939,
+ "lng": -81.7025728,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6370
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6077
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5474
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5191
+  }
+ ]
+}

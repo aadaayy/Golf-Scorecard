@@ -1,0 +1,175 @@
+{
+ "city": "Cooper City",
+ "club_name": "Cooper Colony Country Club",
+ "course_name": "Cooper Colony Country Club",
+ "dataset_name": "Cooper Colony Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 0,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "ladie'": 335
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "ladie'": 110
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "ladie'": 315
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "ladie'": 120
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "ladie'": 95
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "ladie'": 330
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "ladie'": 160
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "ladie'": 130
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "ladie'": 145
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "ladie'": 325
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "ladie'": 105
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "ladie'": 140
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "ladie'": 270
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "ladie'": 130
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "ladie'": 125
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "ladie'": 155
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "ladie'": 120
+   }
+  },
+  {
+   "handicap_index": 0,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "ladie'": 250
+   }
+  }
+ ],
+ "id": "3673698d-17de-4ac3-88c2-683a4b63a5aa",
+ "lat": 26.0577009,
+ "lng": -80.2700675,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "men-s-male",
+   "tee_name": "Men's",
+   "yardage": 3820
+  },
+  {
+   "gender": "Male",
+   "par": 64,
+   "tee_color": null,
+   "tee_key": "ladie-male",
+   "tee_name": "Ladie'",
+   "yardage": 3360
+  }
+ ]
+}

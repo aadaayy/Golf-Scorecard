@@ -1,0 +1,317 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Woodfield Country Club",
+ "course_name": "Woodfield Country Club",
+ "dataset_name": "Woodfield Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 250,
+    "Black/Gold": 205,
+    "Blue": 172,
+    "Blue/White": 154,
+    "Gold": 205,
+    "Gold/Blue": 172,
+    "Orange": 119,
+    "Red": 109,
+    "White": 154,
+    "White/Orange": 154
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 401,
+    "Black/Gold": 401,
+    "Blue": 325,
+    "Blue/White": 325,
+    "Gold": 386,
+    "Gold/Blue": 386,
+    "Orange": 311,
+    "Red": 276,
+    "White": 325,
+    "White/Orange": 325
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 552,
+    "Black/Gold": 552,
+    "Blue": 485,
+    "Blue/White": 485,
+    "Gold": 531,
+    "Gold/Blue": 504,
+    "Orange": 447,
+    "Red": 389,
+    "White": 485,
+    "White/Orange": 447
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 462,
+    "Black/Gold": 425,
+    "Blue": 310,
+    "Blue/White": 310,
+    "Gold": 425,
+    "Gold/Blue": 390,
+    "Orange": 289,
+    "Red": 230,
+    "White": 310,
+    "White/Orange": 310
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 231,
+    "Black/Gold": 155,
+    "Blue": 130,
+    "Blue/White": 121,
+    "Gold": 155,
+    "Gold/Blue": 155,
+    "Orange": 114,
+    "Red": 73,
+    "White": 121,
+    "White/Orange": 121
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 440,
+    "Black/Gold": 411,
+    "Blue": 333,
+    "Blue/White": 333,
+    "Gold": 411,
+    "Gold/Blue": 369,
+    "Orange": 289,
+    "Red": 281,
+    "White": 333,
+    "White/Orange": 333
+   }
+  }
+ ],
+ "id": "1102af3b-5a4f-43a0-9f3f-d718ff897e15",
+ "lat": 26.4007641,
+ "lng": -80.1617844,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7237
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black/Gold",
+   "tee_key": "black-gold-male",
+   "tee_name": "Black/Gold",
+   "yardage": 6870
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6683
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold/Blue",
+   "tee_key": "gold-blue-male",
+   "tee_name": "Gold/Blue",
+   "yardage": 6406
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5994
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5994
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Blue/White",
+   "tee_key": "blue-white-female",
+   "tee_name": "Blue/White",
+   "yardage": 5735
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue/White",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 5735
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5591
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5591
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White/Orange",
+   "tee_key": "white-orange-female",
+   "tee_name": "White/Orange",
+   "yardage": 5450
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White/Orange",
+   "tee_key": "white-orange-male",
+   "tee_name": "White/Orange",
+   "yardage": 5450
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Orange",
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 5111
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Orange",
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 5111
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4523
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4523
+  }
+ ]
+}

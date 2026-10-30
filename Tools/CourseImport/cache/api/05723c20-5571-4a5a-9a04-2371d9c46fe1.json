@@ -1,0 +1,355 @@
+{
+ "city": "Estero",
+ "club_name": "West Bay Golf Club",
+ "course_name": "West Bay Golf Club",
+ "dataset_name": "West Bay Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "I": 193,
+    "II": 166,
+    "II W": 166,
+    "III": 158,
+    "III W": 158,
+    "IV": 133,
+    "IV W": 133,
+    "V": 123,
+    "V W": 123,
+    "VI": 105,
+    "VI W": 105,
+    "VII": 101,
+    "VII W": 101,
+    "VIII": 96,
+    "VIII W": 96
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "I": 334,
+    "II": 320,
+    "II W": 320,
+    "III": 300,
+    "III W": 300,
+    "IV": 269,
+    "IV W": 269,
+    "V": 262,
+    "V W": 262,
+    "VI": 240,
+    "VI W": 240,
+    "VII": 233,
+    "VII W": 233,
+    "VIII": 213,
+    "VIII W": 213
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "I": 446,
+    "II": 427,
+    "II W": 427,
+    "III": 373,
+    "III W": 373,
+    "IV": 350,
+    "IV W": 350,
+    "V": 311,
+    "V W": 311,
+    "VI": 299,
+    "VI W": 299,
+    "VII": 249,
+    "VII W": 249,
+    "VIII": 246,
+    "VIII W": 246
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "I": 549,
+    "II": 525,
+    "II W": 525,
+    "III": 494,
+    "III W": 494,
+    "IV": 485,
+    "IV W": 485,
+    "V": 453,
+    "V W": 453,
+    "VI": 413,
+    "VI W": 413,
+    "VII": 408,
+    "VII W": 408,
+    "VIII": 367,
+    "VIII W": 367
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "I": 173,
+    "II": 154,
+    "II W": 154,
+    "III": 144,
+    "III W": 144,
+    "IV": 131,
+    "IV W": 131,
+    "V": 120,
+    "V W": 120,
+    "VI": 98,
+    "VI W": 98,
+    "VII": 90,
+    "VII W": 90,
+    "VIII": 81,
+    "VIII W": 81
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "I": 512,
+    "II": 490,
+    "II W": 490,
+    "III": 469,
+    "III W": 469,
+    "IV": 458,
+    "IV W": 458,
+    "V": 432,
+    "V W": 432,
+    "VI": 427,
+    "VI W": 427,
+    "VII": 390,
+    "VII W": 390,
+    "VIII": 381,
+    "VIII W": 381
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "I": 413,
+    "II": 376,
+    "II W": 376,
+    "III": 363,
+    "III W": 363,
+    "IV": 332,
+    "IV W": 332,
+    "V": 321,
+    "V W": 321,
+    "VI": 287,
+    "VI W": 287,
+    "VII": 250,
+    "VII W": 250,
+    "VIII": 246,
+    "VIII W": 246
+   }
+  }
+ ],
+ "id": "05723c20-5571-4a5a-9a04-2371d9c46fe1",
+ "lat": 26.4231265,
+ "lng": -81.8350323,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6960
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6511
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-w-female",
+   "tee_name": "II W",
+   "yardage": 6511
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-w-female",
+   "tee_name": "III W",
+   "yardage": 6061
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6061
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5676
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-w-female",
+   "tee_name": "IV W",
+   "yardage": 5676
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-w-female",
+   "tee_name": "V W",
+   "yardage": 5358
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5358
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-w-female",
+   "tee_name": "VI W",
+   "yardage": 4891
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 4891
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vii-w-female",
+   "tee_name": "VII W",
+   "yardage": 4479
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vii-male",
+   "tee_name": "VII",
+   "yardage": 4479
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "viii-w-female",
+   "tee_name": "VIII W",
+   "yardage": 4176
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "viii-male",
+   "tee_name": "VIII",
+   "yardage": 4176
+  }
+ ]
+}

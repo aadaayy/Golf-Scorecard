@@ -1,0 +1,355 @@
+{
+ "city": "Naples",
+ "club_name": "Pelican Marsh Golf Club",
+ "course_name": "Pelican Marsh Golf Club",
+ "dataset_name": "Pelican Marsh Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "i": 358,
+    "ii": 337,
+    "iii": 326,
+    "iv": 326,
+    "v": 302,
+    "vi": 251,
+    "vii": 215
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "i": 513,
+    "ii": 490,
+    "iii": 475,
+    "iv": 449,
+    "v": 433,
+    "vi": 385,
+    "vii": 308
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "i": 431,
+    "ii": 418,
+    "iii": 396,
+    "iv": 375,
+    "v": 343,
+    "vi": 311,
+    "vii": 248
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "i": 177,
+    "ii": 162,
+    "iii": 147,
+    "iv": 147,
+    "v": 128,
+    "vi": 103,
+    "vii": 80
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "i": 429,
+    "ii": 386,
+    "iii": 357,
+    "iv": 357,
+    "v": 315,
+    "vi": 294,
+    "vii": 241
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "i": 581,
+    "ii": 554,
+    "iii": 518,
+    "iv": 465,
+    "v": 465,
+    "vi": 415,
+    "vii": 340
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "i": 396,
+    "ii": 392,
+    "iii": 369,
+    "iv": 369,
+    "v": 354,
+    "vi": 296,
+    "vii": 227
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "i": 190,
+    "ii": 177,
+    "iii": 167,
+    "iv": 147,
+    "v": 129,
+    "vi": 107,
+    "vii": 97
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "i": 454,
+    "ii": 417,
+    "iii": 384,
+    "iv": 369,
+    "v": 330,
+    "vi": 304,
+    "vii": 232
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 397,
+    "ii": 369,
+    "iii": 354,
+    "iv": 339,
+    "v": 327,
+    "vi": 296,
+    "vii": 244
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "i": 441,
+    "ii": 406,
+    "iii": 394,
+    "iv": 382,
+    "v": 347,
+    "vi": 326,
+    "vii": 239
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "i": 185,
+    "ii": 185,
+    "iii": 162,
+    "iv": 149,
+    "v": 124,
+    "vi": 109,
+    "vii": 89
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "i": 561,
+    "ii": 523,
+    "iii": 486,
+    "iv": 448,
+    "v": 448,
+    "vi": 418,
+    "vii": 336
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "i": 407,
+    "ii": 379,
+    "iii": 346,
+    "iv": 346,
+    "v": 303,
+    "vi": 260,
+    "vii": 219
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "i": 423,
+    "ii": 389,
+    "iii": 378,
+    "iv": 363,
+    "v": 351,
+    "vi": 304,
+    "vii": 233
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "i": 505,
+    "ii": 480,
+    "iii": 465,
+    "iv": 452,
+    "v": 420,
+    "vi": 387,
+    "vii": 328
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "i": 156,
+    "ii": 156,
+    "iii": 146,
+    "iv": 135,
+    "v": 123,
+    "vi": 112,
+    "vii": 107
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "i": 446,
+    "ii": 406,
+    "iii": 364,
+    "iv": 345,
+    "v": 322,
+    "vi": 281,
+    "vii": 237
+   }
+  }
+ ],
+ "id": "06817184-bd8c-4efd-bc1c-f7181e624e09",
+ "lat": 26.2527872,
+ "lng": -81.7809898,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 7050
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6626
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6234
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5963
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5963
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 5564
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5564
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 4959
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 4959
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vii-female",
+   "tee_name": "VII",
+   "yardage": 4020
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vii-male",
+   "tee_name": "VII",
+   "yardage": 4020
+  }
+ ]
+}

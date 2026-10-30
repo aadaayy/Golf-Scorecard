@@ -1,0 +1,297 @@
+{
+ "city": "Key Largo",
+ "club_name": "Card Sound Golf Club",
+ "course_name": "Card Sound Golf Club",
+ "dataset_name": "Card Sound Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 528,
+    "blue": 487,
+    "gold": 496,
+    "green": 451,
+    "red": 424,
+    "white": 469
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 192,
+    "blue": 163,
+    "gold": 174,
+    "green": 139,
+    "red": 131,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 358,
+    "blue": 326,
+    "gold": 336,
+    "green": 305,
+    "red": 284,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 398,
+    "blue": 349,
+    "gold": 358,
+    "green": 290,
+    "red": 278,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 183,
+    "blue": 161,
+    "gold": 172,
+    "green": 139,
+    "red": 127,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 426,
+    "blue": 373,
+    "gold": 387,
+    "green": 310,
+    "red": 277,
+    "white": 343
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 377,
+    "blue": 342,
+    "gold": 353,
+    "green": 316,
+    "red": 276,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 420,
+    "blue": 353,
+    "gold": 386,
+    "green": 321,
+    "red": 300,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 537,
+    "blue": 498,
+    "gold": 509,
+    "green": 467,
+    "red": 434,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 507,
+    "blue": 487,
+    "gold": 497,
+    "green": 410,
+    "red": 400,
+    "white": 477
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 370,
+    "gold": 385,
+    "green": 320,
+    "red": 297,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 164,
+    "blue": 129,
+    "gold": 145,
+    "green": 108,
+    "red": 94,
+    "white": 120
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 321,
+    "blue": 302,
+    "gold": 311,
+    "green": 277,
+    "red": 283,
+    "white": 292
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 356,
+    "blue": 332,
+    "gold": 344,
+    "green": 308,
+    "red": 288,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 142,
+    "blue": 125,
+    "gold": 134,
+    "green": 110,
+    "red": 103,
+    "white": 117
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 420,
+    "blue": 379,
+    "gold": 390,
+    "green": 345,
+    "red": 320,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 185,
+    "blue": 152,
+    "gold": 163,
+    "green": 121,
+    "red": 113,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 560,
+    "blue": 524,
+    "gold": 554,
+    "green": 475,
+    "red": 441,
+    "white": 511
+   }
+  }
+ ],
+ "id": "4b5383b2-0d3d-4687-bfd3-67253a31edfd",
+ "lat": 25.3271642,
+ "lng": -80.2816157,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6578
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6121
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5816
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5490
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5085
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4944
+  }
+ ]
+}

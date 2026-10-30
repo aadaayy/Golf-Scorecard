@@ -1,0 +1,22 @@
+{
+ "city": "Leesburg",
+ "club_name": "Lakes At Leesburg",
+ "course_name": "Lakes At Leesburg",
+ "dataset_name": "Lakes At Leesburg",
+ "holes": 18,
+ "holes_data": [],
+ "id": "42114cb3-af59-425f-9640-26465c00de36",
+ "lat": 28.823994,
+ "lng": -81.7794273,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 1132
+  }
+ ]
+}

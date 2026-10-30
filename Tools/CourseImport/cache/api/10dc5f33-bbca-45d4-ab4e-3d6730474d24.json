@@ -1,0 +1,245 @@
+{
+ "city": "Spring Hill",
+ "club_name": "Oak Hills Golf Club",
+ "course_name": "Oak Hills Golf Club",
+ "dataset_name": "Oak Hills Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 341,
+    "red": 242,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 184,
+    "gold": 148,
+    "red": 115,
+    "white": 166
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 378,
+    "gold": 348,
+    "red": 238,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 512,
+    "gold": 399,
+    "red": 306,
+    "white": 436
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 415,
+    "gold": 354,
+    "red": 264,
+    "white": 398
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 173,
+    "gold": 155,
+    "red": 146,
+    "white": 164
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 406,
+    "gold": 356,
+    "red": 256,
+    "white": 381
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 470,
+    "gold": 402,
+    "red": 342,
+    "white": 450
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 413,
+    "gold": 285,
+    "red": 251,
+    "white": 381
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "gold": 353,
+    "red": 253,
+    "white": 374
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 495,
+    "gold": 414,
+    "red": 345,
+    "white": 476
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 366,
+    "red": 295,
+    "white": 379
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 159,
+    "gold": 135,
+    "red": 105,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 378,
+    "gold": 273,
+    "red": 242,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 518,
+    "gold": 360,
+    "red": 319,
+    "white": 458
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 382,
+    "gold": 294,
+    "red": 256,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 198,
+    "gold": 153,
+    "red": 119,
+    "white": 185
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 355,
+    "gold": 279,
+    "red": 219,
+    "white": 339
+   }
+  }
+ ],
+ "id": "10dc5f33-bbca-45d4-ab4e-3d6730474d24",
+ "lat": 28.4994255,
+ "lng": -82.5570341,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6935
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6442
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5724
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5441
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "city": "Orlando",
+ "club_name": "Grand Cypress Golf Club Cypress Course",
+ "course_name": "Grand Cypress Golf Club Cypress Course",
+ "dataset_name": "Grand Cypress Golf Club Cypress Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blended_2": 347,
+    "blue": 362,
+    "red": 332,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "blended_2": 456,
+    "blue": 514,
+    "red": 383,
+    "white": 456
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blended_2": 147,
+    "blue": 179,
+    "red": 116,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blended_2": 329,
+    "blue": 440,
+    "red": 329,
+    "white": 406
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blended_2": 368,
+    "blue": 393,
+    "red": 304,
+    "white": 368
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blended_2": 427,
+    "blue": 496,
+    "red": 427,
+    "white": 465
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blended_2": 132,
+    "blue": 182,
+    "red": 132,
+    "white": 164
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blended_2": 340,
+    "blue": 440,
+    "red": 340,
+    "white": 425
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blended_2": 322,
+    "blue": 382,
+    "red": 309,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blended_2": 275,
+    "blue": 330,
+    "red": 252,
+    "white": 275
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blended_2": 387,
+    "blue": 430,
+    "red": 301,
+    "white": 387
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blended_2": 158,
+    "blue": 207,
+    "red": 158,
+    "white": 189
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blended_2": 296,
+    "blue": 431,
+    "red": 296,
+    "white": 389
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blended_2": 323,
+    "blue": 371,
+    "red": 291,
+    "white": 323
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blended_2": 491,
+    "blue": 570,
+    "red": 491,
+    "white": 544
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blended_2": 136,
+    "blue": 190,
+    "red": 136,
+    "white": 171
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blended_2": 453,
+    "blue": 485,
+    "red": 410,
+    "white": 453
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blended_2": 350,
+    "blue": 371,
+    "red": 307,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "231a8ce1-b311-45ff-a3d1-0fb75d33afbb",
+ "lat": 28.4035455,
+ "lng": -81.5299663,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6773
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blended-1-female",
+   "tee_name": "Blended 1",
+   "yardage": 6394
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blended-1-male",
+   "tee_name": "Blended 1",
+   "yardage": 6394
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6098
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6098
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blended-2-female",
+   "tee_name": "Blended 2",
+   "yardage": 5718
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blended-2-male",
+   "tee_name": "Blended 2",
+   "yardage": 5718
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5218
+  }
+ ]
+}

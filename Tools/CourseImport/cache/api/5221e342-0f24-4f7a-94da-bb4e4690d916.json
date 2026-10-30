@@ -1,0 +1,138 @@
+{
+ "city": "The Villages",
+ "club_name": "Hawkes Bay At The Villages Executive Golf Trail",
+ "course_name": "Hawkes Bay At The Villages Executive Golf Trail",
+ "dataset_name": "Hawkes Bay At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "black": 151,
+    "gold": 126,
+    "green": 98,
+    "web": 151
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 136,
+    "gold": 98,
+    "green": 70,
+    "web": 136
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 127,
+    "gold": 103,
+    "green": 81,
+    "web": 127
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 124,
+    "gold": 103,
+    "green": 86,
+    "web": 124
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 127,
+    "gold": 108,
+    "green": 90,
+    "web": 127
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 140,
+    "gold": 115,
+    "green": 85,
+    "web": 140
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 190,
+    "gold": 153,
+    "green": 124,
+    "web": 190
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "gold": 133,
+    "green": 102,
+    "web": 163
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 178,
+    "gold": 149,
+    "green": 113,
+    "web": 178
+   }
+  }
+ ],
+ "id": "5221e342-0f24-4f7a-94da-bb4e4690d916",
+ "lat": 28.9301706,
+ "lng": -82.004179,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1336
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1088
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 849
+  }
+ ]
+}

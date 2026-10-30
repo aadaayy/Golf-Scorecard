@@ -1,0 +1,137 @@
+{
+ "city": "The Villages",
+ "club_name": "Longleaf Executive Golf Course",
+ "course_name": "Longleaf Executive Golf Course",
+ "dataset_name": "Longleaf Executive Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "blue": 163,
+    "gold": 142,
+    "red": 100
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 138,
+    "gold": 114,
+    "red": 93
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 366,
+    "gold": 358,
+    "red": 299
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 152,
+    "gold": 130,
+    "red": 79
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 166,
+    "gold": 151,
+    "red": 97
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 153,
+    "gold": 132,
+    "red": 77
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 189,
+    "gold": 159,
+    "red": 78
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 167,
+    "gold": 146,
+    "red": 98
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "blue": 167,
+    "gold": 143,
+    "red": 62
+   }
+  }
+ ],
+ "id": "276ce7fd-769f-4fd5-9e03-24ba164dd435",
+ "lat": 28.7928435,
+ "lng": -82.0098345,
+ "par": 28,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": null
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 1661
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1475
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1211
+  }
+ ]
+}

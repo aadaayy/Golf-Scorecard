@@ -1,0 +1,283 @@
+{
+ "city": "Atlantic Beach",
+ "club_name": "Atlantic Beach Country Club",
+ "course_name": "Atlantic Beach Country Club",
+ "dataset_name": "Atlantic Beach Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "flatback": 436,
+    "flatback/leatherback": 395,
+    "green": 301,
+    "green/hawksbill": 279,
+    "hawksbill": 279,
+    "leatherback": 395,
+    "loggerhead": 356,
+    "loggerhead/green": 301
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "flatback": 161,
+    "flatback/leatherback": 161,
+    "green": 102,
+    "green/hawksbill": 102,
+    "hawksbill": 99,
+    "leatherback": 147,
+    "loggerhead": 125,
+    "loggerhead/green": 125
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "flatback": 407,
+    "flatback/leatherback": 407,
+    "green": 319,
+    "green/hawksbill": 319,
+    "hawksbill": 293,
+    "leatherback": 375,
+    "loggerhead": 345,
+    "loggerhead/green": 345
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "flatback": 399,
+    "flatback/leatherback": 399,
+    "green": 287,
+    "green/hawksbill": 287,
+    "hawksbill": 246,
+    "leatherback": 351,
+    "loggerhead": 322,
+    "loggerhead/green": 322
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "flatback": 176,
+    "flatback/leatherback": 176,
+    "green": 125,
+    "green/hawksbill": 125,
+    "hawksbill": 105,
+    "leatherback": 158,
+    "loggerhead": 145,
+    "loggerhead/green": 145
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "flatback": 456,
+    "flatback/leatherback": 430,
+    "green": 363,
+    "green/hawksbill": 301,
+    "hawksbill": 301,
+    "leatherback": 430,
+    "loggerhead": 405,
+    "loggerhead/green": 363
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "flatback": 330,
+    "flatback/leatherback": 309,
+    "green": 255,
+    "green/hawksbill": 215,
+    "hawksbill": 215,
+    "leatherback": 309,
+    "loggerhead": 282,
+    "loggerhead/green": 255
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "flatback": 528,
+    "flatback/leatherback": 528,
+    "green": 433,
+    "green/hawksbill": 433,
+    "hawksbill": 375,
+    "leatherback": 517,
+    "loggerhead": 458,
+    "loggerhead/green": 458
+   }
+  }
+ ],
+ "id": "253704d9-4284-4638-bece-59e148d2441d",
+ "lat": 30.3409611,
+ "lng": -81.4047754,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "flatback-male",
+   "tee_name": "Flatback",
+   "yardage": 6815
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "flatback-leatherback-male",
+   "tee_name": "Flatback/Leatherback",
+   "yardage": 6669
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "leatherback-male",
+   "tee_name": "Leatherback",
+   "yardage": 6373
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "leatherback-loggerhead-male",
+   "tee_name": "Leatherback/Loggerhead",
+   "yardage": 6153
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "loggerhead-male",
+   "tee_name": "Loggerhead",
+   "yardage": 5871
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "loggerhead-green-male",
+   "tee_name": "Loggerhead/Green",
+   "yardage": 5608
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5232
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5232
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-hawksbill-female",
+   "tee_name": "Green/Hawksbill",
+   "yardage": 4913
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "hawksbill-male",
+   "tee_name": "Hawksbill",
+   "yardage": 4705
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "hawksbill-female",
+   "tee_name": "Hawksbill",
+   "yardage": 4705
+  }
+ ]
+}

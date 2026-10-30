@@ -1,0 +1,399 @@
+{
+ "city": "Ponte Vedra Beach",
+ "club_name": "Plantation At Ponte Vedra",
+ "course_name": "Plantation At Ponte Vedra",
+ "dataset_name": "Plantation At Ponte Vedra",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 539,
+    "blue": 510,
+    "blue/green": 485,
+    "family": 304,
+    "forward": 337,
+    "gold": 446,
+    "green": 485,
+    "green/gold": 446,
+    "silver": 406
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 435,
+    "blue": 387,
+    "blue/green": 387,
+    "family": 208,
+    "forward": 243,
+    "gold": 338,
+    "green": 351,
+    "green/gold": 351,
+    "silver": 296
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 206,
+    "blue": 166,
+    "blue/green": 145,
+    "family": 44,
+    "forward": 90,
+    "gold": 112,
+    "green": 145,
+    "green/gold": 145,
+    "silver": 94
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 486,
+    "blue": 407,
+    "blue/green": 407,
+    "family": 257,
+    "forward": 271,
+    "gold": 356,
+    "green": 370,
+    "green/gold": 356,
+    "silver": 300
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 540,
+    "blue": 515,
+    "blue/green": 515,
+    "family": 338,
+    "forward": 384,
+    "gold": 470,
+    "green": 492,
+    "green/gold": 492,
+    "silver": 417
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 426,
+    "blue": 402,
+    "blue/green": 390,
+    "family": 229,
+    "forward": 305,
+    "gold": 337,
+    "green": 390,
+    "green/gold": 337,
+    "silver": 327
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 178,
+    "blue": 170,
+    "blue/green": 170,
+    "family": 83,
+    "forward": 91,
+    "gold": 145,
+    "green": 159,
+    "green/gold": 145,
+    "silver": 123
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 479,
+    "blue": 421,
+    "blue/green": 385,
+    "family": 255,
+    "forward": 279,
+    "gold": 342,
+    "green": 385,
+    "green/gold": 342,
+    "silver": 311
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "blue": 380,
+    "blue/green": 365,
+    "family": 254,
+    "forward": 268,
+    "gold": 337,
+    "green": 365,
+    "green/gold": 365,
+    "silver": 295
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 408,
+    "blue": 385,
+    "blue/green": 350,
+    "family": 252,
+    "forward": 286,
+    "gold": 325,
+    "green": 350,
+    "green/gold": 350,
+    "silver": 295
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "blue": 364,
+    "blue/green": 352,
+    "family": 231,
+    "forward": 297,
+    "gold": 337,
+    "green": 352,
+    "green/gold": 352,
+    "silver": 324
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 200,
+    "blue": 181,
+    "blue/green": 181,
+    "family": 93,
+    "forward": 104,
+    "gold": 130,
+    "green": 149,
+    "green/gold": 130,
+    "silver": 110
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "blue": 407,
+    "blue/green": 380,
+    "family": 222,
+    "forward": 270,
+    "gold": 337,
+    "green": 380,
+    "green/gold": 337,
+    "silver": 300
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 563,
+    "blue": 532,
+    "blue/green": 532,
+    "family": 346,
+    "forward": 377,
+    "gold": 482,
+    "green": 503,
+    "green/gold": 482,
+    "silver": 413
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "blue": 340,
+    "blue/green": 340,
+    "family": 182,
+    "forward": 210,
+    "gold": 283,
+    "green": 315,
+    "green/gold": 315,
+    "silver": 235
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 206,
+    "blue": 168,
+    "blue/green": 142,
+    "family": 96,
+    "forward": 96,
+    "gold": 122,
+    "green": 142,
+    "green/gold": 142,
+    "silver": 89
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 407,
+    "blue": 375,
+    "blue/green": 375,
+    "family": 222,
+    "forward": 256,
+    "gold": 326,
+    "green": 360,
+    "green/gold": 326,
+    "silver": 277
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 493,
+    "blue": 488,
+    "blue/green": 488,
+    "family": 306,
+    "forward": 401,
+    "gold": 441,
+    "green": 465,
+    "green/gold": 465,
+    "silver": 407
+   }
+  }
+ ],
+ "id": "0d242bd0-cfd0-4363-948e-cdede024e1b2",
+ "lat": 30.1734832,
+ "lng": -81.3759415,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7141
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-green-male",
+   "tee_name": "Blue/Green",
+   "yardage": 6689
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6598
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6158
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5878
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "green-gold-male",
+   "tee_name": "Green/Gold",
+   "yardage": 5878
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5666
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5019
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5019
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 4566
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4566
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "family-female",
+   "tee_name": "Family",
+   "yardage": 3922
+  }
+ ]
+}

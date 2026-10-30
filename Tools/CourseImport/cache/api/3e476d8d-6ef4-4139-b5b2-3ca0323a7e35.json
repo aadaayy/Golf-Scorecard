@@ -1,0 +1,349 @@
+{
+ "city": "Largo",
+ "club_name": "Bayou Club",
+ "course_name": "Bayou Club",
+ "dataset_name": "Bayou Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 438,
+    "chairman": 438,
+    "gold": 467,
+    "green": 374,
+    "mga": 410,
+    "red": 374,
+    "sr._chairman": 374,
+    "white": 410
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 337,
+    "chairman": 337,
+    "gold": 365,
+    "green": 306,
+    "mga": 337,
+    "red": 300,
+    "sr._chairman": 306,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 137,
+    "chairman": 163,
+    "gold": 163,
+    "green": 106,
+    "mga": 137,
+    "red": 101,
+    "sr._chairman": 131,
+    "white": 131
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 437,
+    "chairman": 437,
+    "gold": 446,
+    "green": 378,
+    "mga": 409,
+    "red": 378,
+    "sr._chairman": 378,
+    "white": 409
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 182,
+    "chairman": 203,
+    "gold": 203,
+    "green": 118,
+    "mga": 165,
+    "red": 110,
+    "sr._chairman": 165,
+    "white": 165
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 495,
+    "chairman": 513,
+    "gold": 513,
+    "green": 408,
+    "mga": 495,
+    "red": 408,
+    "sr._chairman": 472,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 507,
+    "chairman": 524,
+    "gold": 524,
+    "green": 409,
+    "mga": 479,
+    "red": 409,
+    "sr._chairman": 479,
+    "white": 479
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 420,
+    "chairman": 420,
+    "gold": 455,
+    "green": 349,
+    "mga": 420,
+    "red": 349,
+    "sr._chairman": 349,
+    "white": 428
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "chairman": 392,
+    "gold": 416,
+    "green": 323,
+    "mga": 379,
+    "red": 323,
+    "sr._chairman": 323,
+    "white": 379
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 537,
+    "chairman": 555,
+    "gold": 555,
+    "green": 392,
+    "mga": 515,
+    "red": 392,
+    "sr._chairman": 515,
+    "white": 515
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 337,
+    "chairman": 337,
+    "gold": 357,
+    "green": 314,
+    "mga": 337,
+    "red": 306,
+    "sr._chairman": 314,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 361,
+    "chairman": 361,
+    "gold": 391,
+    "green": 309,
+    "mga": 361,
+    "red": 270,
+    "sr._chairman": 309,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 348,
+    "chairman": 348,
+    "gold": 384,
+    "green": 307,
+    "mga": 315,
+    "red": 280,
+    "sr._chairman": 307,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 366,
+    "chairman": 366,
+    "gold": 416,
+    "green": 319,
+    "mga": 366,
+    "red": 275,
+    "sr._chairman": 319,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 154,
+    "chairman": 158,
+    "gold": 158,
+    "green": 144,
+    "mga": 154,
+    "red": 114,
+    "sr._chairman": 149,
+    "white": 149
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 199,
+    "chairman": 213,
+    "gold": 213,
+    "green": 124,
+    "mga": 165,
+    "red": 87,
+    "sr._chairman": 141,
+    "white": 165
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blue": 509,
+    "chairman": 519,
+    "gold": 519,
+    "green": 458,
+    "mga": 509,
+    "red": 400,
+    "sr._chairman": 458,
+    "white": 476
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 428,
+    "chairman": 428,
+    "gold": 464,
+    "green": 334,
+    "mga": 400,
+    "red": 334,
+    "sr._chairman": 334,
+    "white": 400
+   }
+  }
+ ],
+ "id": "3e476d8d-6ef4-4139-b5b2-3ca0323a7e35",
+ "lat": 27.8630014,
+ "lng": -82.7481802,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7009
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "chairman-male",
+   "tee_name": "Chairman",
+   "yardage": 6712
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6584
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "mga-male",
+   "tee_name": "MGA",
+   "yardage": 6353
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6223
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "sr-chairman-male",
+   "tee_name": "Sr. Chairman",
+   "yardage": 5823
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5472
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5210
+  }
+ ]
+}

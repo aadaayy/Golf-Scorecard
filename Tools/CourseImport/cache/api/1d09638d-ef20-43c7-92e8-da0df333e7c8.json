@@ -1,0 +1,277 @@
+{
+ "city": "Harmony",
+ "club_name": "Harmony Golf Preserve",
+ "course_name": "Harmony Golf Preserve",
+ "dataset_name": "Harmony Golf Preserve",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 422,
+    "jade": 321,
+    "miller": 444,
+    "white": 383
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 366,
+    "jade": 309,
+    "miller": 403,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 169,
+    "jade": 108,
+    "miller": 181,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 394,
+    "jade": 305,
+    "miller": 407,
+    "white": 364
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "blue": 607,
+    "jade": 494,
+    "miller": 622,
+    "white": 569
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 214,
+    "jade": 142,
+    "miller": 239,
+    "white": 194
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 415,
+    "jade": 312,
+    "miller": 431,
+    "white": 390
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 541,
+    "jade": 444,
+    "miller": 576,
+    "white": 499
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 418,
+    "jade": 353,
+    "miller": 450,
+    "white": 390
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 381,
+    "jade": 318,
+    "miller": 386,
+    "white": 354
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 403,
+    "jade": 320,
+    "miller": 438,
+    "white": 364
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 195,
+    "jade": 125,
+    "miller": 222,
+    "white": 165
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 410,
+    "jade": 298,
+    "miller": 432,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 533,
+    "jade": 444,
+    "miller": 564,
+    "white": 492
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 365,
+    "jade": 280,
+    "miller": 380,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 517,
+    "jade": 415,
+    "miller": 544,
+    "white": 492
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 146,
+    "jade": 84,
+    "miller": 156,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 442,
+    "jade": 318,
+    "miller": 468,
+    "white": 404
+   }
+  }
+ ],
+ "id": "1d09638d-ef20-43c7-92e8-da0df333e7c8",
+ "lat": 28.1912333,
+ "lng": -81.1452007,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "miller-male",
+   "tee_name": "Miller",
+   "yardage": 7428
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6977
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6413
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6413
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5975
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5975
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-female",
+   "tee_name": "Jade",
+   "yardage": 5408
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-male",
+   "tee_name": "Jade",
+   "yardage": 5408
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "city": "Wildwood",
+ "club_name": "Beautyberry At The Villages Executive Golf Trail",
+ "course_name": "Beautyberry At The Villages Executive Golf Trail",
+ "dataset_name": "Beautyberry At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "black": 134,
+    "gold": 104,
+    "green": 76
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 152,
+    "gold": 124,
+    "green": 92
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "gold": 358,
+    "green": 312
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 357,
+    "gold": 320,
+    "green": 259
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 165,
+    "gold": 122,
+    "green": 87
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 199,
+    "gold": 176,
+    "green": 144
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 170,
+    "gold": 142,
+    "green": 111
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 162,
+    "gold": 132,
+    "green": 99
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 155,
+    "gold": 130,
+    "green": 97
+   }
+  }
+ ],
+ "id": "03d525c0-d571-4348-921b-b6d9556a1494",
+ "lat": 28.7475541,
+ "lng": -81.9722919,
+ "par": 29,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1890
+  },
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1608
+  },
+  {
+   "gender": "Female",
+   "par": 29,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 1277
+  }
+ ]
+}

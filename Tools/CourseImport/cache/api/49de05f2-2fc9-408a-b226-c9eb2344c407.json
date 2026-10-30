@@ -1,0 +1,389 @@
+{
+ "city": "Rockledge",
+ "club_name": "Viera East Golf Club",
+ "course_name": "Viera East Golf Club",
+ "dataset_name": "Viera East Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 519,
+    "Blue": 504,
+    "Blue/Green": 504,
+    "Gold": 510,
+    "Green": 495,
+    "Green/Sky": 495,
+    "Lime": 354,
+    "Sky": 404
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 389,
+    "Blue": 363,
+    "Blue/Green": 322,
+    "Gold": 376,
+    "Green": 322,
+    "Green/Sky": 312,
+    "Lime": 277,
+    "Sky": 312
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 385,
+    "Blue": 365,
+    "Blue/Green": 365,
+    "Gold": 375,
+    "Green": 330,
+    "Green/Sky": 321,
+    "Lime": 289,
+    "Sky": 321
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 166,
+    "Blue": 140,
+    "Blue/Green": 140,
+    "Gold": 157,
+    "Green": 127,
+    "Green/Sky": 127,
+    "Lime": 84,
+    "Sky": 108
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 516,
+    "Blue": 490,
+    "Blue/Green": 438,
+    "Gold": 503,
+    "Green": 438,
+    "Green/Sky": 438,
+    "Lime": 305,
+    "Sky": 355
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 409,
+    "Blue": 385,
+    "Blue/Green": 347,
+    "Gold": 397,
+    "Green": 347,
+    "Green/Sky": 281,
+    "Lime": 241,
+    "Sky": 281
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 190,
+    "Blue": 166,
+    "Blue/Green": 166,
+    "Gold": 178,
+    "Green": 148,
+    "Green/Sky": 148,
+    "Lime": 82,
+    "Sky": 107
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 372,
+    "Blue": 346,
+    "Blue/Green": 346,
+    "Gold": 359,
+    "Green": 291,
+    "Green/Sky": 277,
+    "Lime": 232,
+    "Sky": 277
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 389,
+    "Blue": 365,
+    "Blue/Green": 353,
+    "Gold": 377,
+    "Green": 331,
+    "Green/Sky": 288,
+    "Lime": 238,
+    "Sky": 288
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 407,
+    "Blue": 380,
+    "Blue/Green": 345,
+    "Gold": 394,
+    "Green": 345,
+    "Green/Sky": 285,
+    "Lime": 245,
+    "Sky": 285
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Black": 538,
+    "Blue": 503,
+    "Blue/Green": 503,
+    "Gold": 520,
+    "Green": 446,
+    "Green/Sky": 424,
+    "Lime": 330,
+    "Sky": 380
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 355,
+    "Blue": 331,
+    "Blue/Green": 331,
+    "Gold": 343,
+    "Green": 317,
+    "Green/Sky": 306,
+    "Lime": 262,
+    "Sky": 306
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 203,
+    "Blue": 178,
+    "Blue/Green": 167,
+    "Gold": 196,
+    "Green": 167,
+    "Green/Sky": 112,
+    "Lime": 87,
+    "Sky": 112
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 524,
+    "Blue": 493,
+    "Blue/Green": 420,
+    "Gold": 509,
+    "Green": 420,
+    "Green/Sky": 409,
+    "Lime": 359,
+    "Sky": 409
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 373,
+    "Blue": 358,
+    "Blue/Green": 358,
+    "Gold": 366,
+    "Green": 351,
+    "Green/Sky": 351,
+    "Lime": 261,
+    "Sky": 301
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 186,
+    "Blue": 153,
+    "Blue/Green": 153,
+    "Gold": 164,
+    "Green": 136,
+    "Green/Sky": 128,
+    "Lime": 103,
+    "Sky": 128
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 345,
+    "Blue": 334,
+    "Blue/Green": 334,
+    "Gold": 335,
+    "Green": 323,
+    "Green/Sky": 323,
+    "Lime": 190,
+    "Sky": 220
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 403,
+    "Blue": 377,
+    "Blue/Green": 338,
+    "Gold": 390,
+    "Green": 338,
+    "Green/Sky": 338,
+    "Lime": 240,
+    "Sky": 290
+   }
+  }
+ ],
+ "id": "49de05f2-2fc9-408a-b226-c9eb2344c407",
+ "lat": 28.2770012,
+ "lng": -80.7260508,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6669
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6449
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6231
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-green-female",
+   "tee_name": "Blue/Green",
+   "yardage": 5930
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-green-male",
+   "tee_name": "Blue/Green",
+   "yardage": 5930
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5672
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5672
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-sky-male",
+   "tee_name": "Green/Sky",
+   "yardage": 5363
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-sky-female",
+   "tee_name": "Green/Sky",
+   "yardage": 5363
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "sky-female",
+   "tee_name": "Sky",
+   "yardage": 4884
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "sky-male",
+   "tee_name": "Sky",
+   "yardage": 4884
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "lime-male",
+   "tee_name": "Lime",
+   "yardage": 4179
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "lime-female",
+   "tee_name": "Lime",
+   "yardage": 4179
+  }
+ ]
+}

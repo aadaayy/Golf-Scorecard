@@ -1,0 +1,339 @@
+{
+ "city": "Miromar Lakes",
+ "club_name": "Miromar Lakes Golf Club",
+ "course_name": "Miromar Lakes Golf Club",
+ "dataset_name": "Miromar Lakes Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 14,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "1": 407,
+    "2": 380,
+    "3": 343,
+    "3/4": 343,
+    "4": 306,
+    "5": 262,
+    "6": 258
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "1": 467,
+    "2": 447,
+    "3": 406,
+    "3/4": 363,
+    "4": 363,
+    "5": 325,
+    "6": 274
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "1": 176,
+    "2": 166,
+    "3": 142,
+    "3/4": 142,
+    "4": 131,
+    "5": 112,
+    "6": 101
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "1": 397,
+    "2": 364,
+    "3": 332,
+    "3/4": 306,
+    "4": 306,
+    "5": 292,
+    "6": 222
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "1": 537,
+    "2": 506,
+    "3": 492,
+    "3/4": 492,
+    "4": 459,
+    "5": 414,
+    "6": 388
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "1": 409,
+    "2": 384,
+    "3": 372,
+    "3/4": 342,
+    "4": 342,
+    "5": 289,
+    "6": 252
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "1": 185,
+    "2": 162,
+    "3": 151,
+    "3/4": 151,
+    "4": 140,
+    "5": 116,
+    "6": 83
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "1": 551,
+    "2": 517,
+    "3": 479,
+    "3/4": 479,
+    "4": 435,
+    "5": 389,
+    "6": 381
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "1": 434,
+    "2": 392,
+    "3": 381,
+    "3/4": 381,
+    "4": 336,
+    "5": 291,
+    "6": 283
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "1": 429,
+    "2": 379,
+    "3": 368,
+    "3/4": 368,
+    "4": 347,
+    "5": 289,
+    "6": 236
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "1": 347,
+    "2": 324,
+    "3": 298,
+    "3/4": 298,
+    "4": 271,
+    "5": 264,
+    "6": 245
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "1": 425,
+    "2": 390,
+    "3": 382,
+    "3/4": 340,
+    "4": 340,
+    "5": 285,
+    "6": 281
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "1": 208,
+    "2": 187,
+    "3": 170,
+    "3/4": 170,
+    "4": 155,
+    "5": 144,
+    "6": 124
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "1": 448,
+    "2": 418,
+    "3": 389,
+    "3/4": 351,
+    "4": 351,
+    "5": 320,
+    "6": 285
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "1": 528,
+    "2": 501,
+    "3": 465,
+    "3/4": 465,
+    "4": 454,
+    "5": 404,
+    "6": 354
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "1": 510,
+    "2": 494,
+    "3": 445,
+    "3/4": 445,
+    "4": 400,
+    "5": 392,
+    "6": 358
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "1": 208,
+    "2": 195,
+    "3": 164,
+    "3/4": 164,
+    "4": 152,
+    "5": 124,
+    "6": 120
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "1": 425,
+    "2": 393,
+    "3": 381,
+    "3/4": 381,
+    "4": 341,
+    "5": 298,
+    "6": 252
+   }
+  }
+ ],
+ "id": "36191289-d910-4701-abaa-b826892dbae3",
+ "lat": 26.4709296,
+ "lng": -81.7877331,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "1-male",
+   "tee_name": "1",
+   "yardage": 7091
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "2-male",
+   "tee_name": "2",
+   "yardage": 6599
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "3-male",
+   "tee_name": "3",
+   "yardage": 6160
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "3-4-male",
+   "tee_name": "3/4",
+   "yardage": 5984
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "4-male",
+   "tee_name": "4",
+   "yardage": 5629
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "4-female",
+   "tee_name": "4",
+   "yardage": 5629
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "5-male",
+   "tee_name": "5",
+   "yardage": 5010
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "5-female",
+   "tee_name": "5",
+   "yardage": 5010
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "6-female",
+   "tee_name": "6",
+   "yardage": 4497
+  }
+ ]
+}

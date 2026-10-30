@@ -1,0 +1,30 @@
+{
+ "city": "Dade City",
+ "club_name": "Travelers Rest Rv Resort Golf Course",
+ "course_name": "Travelers Rest Rv Resort Golf Course",
+ "dataset_name": "Travelers Rest Rv Resort Golf Course",
+ "holes": 18,
+ "holes_data": [],
+ "id": "4dce65ed-9142-4c69-be70-3a1071b56dc4",
+ "lat": 28.4069882,
+ "lng": -82.3342896,
+ "par": 34,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 2081
+  },
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": null,
+   "tee_key": "front-male",
+   "tee_name": "Front",
+   "yardage": 1822
+  }
+ ]
+}

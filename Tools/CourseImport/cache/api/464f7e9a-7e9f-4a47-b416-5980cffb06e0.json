@@ -1,0 +1,111 @@
+{
+ "city": "Marco Island",
+ "club_name": "Hideaway Beach Golf Course",
+ "course_name": "Hideaway Beach Golf Course",
+ "dataset_name": "Hideaway Beach Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "forward": 78
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "forward": 199
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "forward": 97
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "forward": 244
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "forward": 209
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "forward": 250
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "forward": 102
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "forward": 232
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "forward": 92
+   }
+  }
+ ],
+ "id": "464f7e9a-7e9f-4a47-b416-5980cffb06e0",
+ "lat": 25.9604701,
+ "lng": -81.7451876,
+ "par": 32,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 32,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 1844
+  },
+  {
+   "gender": "Male",
+   "par": 32,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 1738
+  },
+  {
+   "gender": "Male",
+   "par": 32,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 1538
+  }
+ ]
+}

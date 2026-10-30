@@ -1,0 +1,339 @@
+{
+ "city": "Wellington",
+ "club_name": "Park Ridge Golf Course",
+ "course_name": "Park Ridge Golf Course",
+ "dataset_name": "Park Ridge Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 597,
+    "blue": 529,
+    "gold": 566,
+    "green": 461,
+    "silver": 465,
+    "web": 597,
+    "white": 498
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 184,
+    "blue": 143,
+    "gold": 166,
+    "green": 97,
+    "silver": 104,
+    "web": 184,
+    "white": 112
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 419,
+    "blue": 364,
+    "gold": 394,
+    "green": 290,
+    "silver": 296,
+    "web": 419,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 522,
+    "blue": 470,
+    "gold": 499,
+    "green": 400,
+    "silver": 404,
+    "web": 522,
+    "white": 427
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 350,
+    "blue": 322,
+    "gold": 331,
+    "green": 263,
+    "silver": 270,
+    "web": 350,
+    "white": 297
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 375,
+    "blue": 320,
+    "gold": 349,
+    "green": 255,
+    "silver": 259,
+    "web": 375,
+    "white": 285
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 159,
+    "blue": 122,
+    "gold": 129,
+    "green": 89,
+    "silver": 105,
+    "web": 159,
+    "white": 109
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 439,
+    "blue": 384,
+    "gold": 420,
+    "green": 300,
+    "silver": 300,
+    "web": 439,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 237,
+    "blue": 146,
+    "gold": 175,
+    "green": 87,
+    "silver": 93,
+    "web": 237,
+    "white": 110
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 544,
+    "blue": 496,
+    "gold": 524,
+    "green": 440,
+    "silver": 447,
+    "web": 544,
+    "white": 466
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 238,
+    "blue": 183,
+    "gold": 199,
+    "green": 104,
+    "silver": 113,
+    "web": 238,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 524,
+    "blue": 433,
+    "gold": 474,
+    "green": 329,
+    "silver": 332,
+    "web": 524,
+    "white": 413
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 310,
+    "blue": 269,
+    "gold": 296,
+    "green": 227,
+    "silver": 234,
+    "web": 310,
+    "white": 258
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 134,
+    "blue": 109,
+    "gold": 124,
+    "green": 77,
+    "silver": 79,
+    "web": 134,
+    "white": 93
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 537,
+    "blue": 471,
+    "gold": 510,
+    "green": 402,
+    "silver": 405,
+    "web": 537,
+    "white": 434
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 166,
+    "blue": 127,
+    "gold": 150,
+    "green": 81,
+    "silver": 87,
+    "web": 166,
+    "white": 100
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 432,
+    "blue": 364,
+    "gold": 398,
+    "green": 269,
+    "silver": 276,
+    "web": 432,
+    "white": 309
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 540,
+    "blue": 493,
+    "gold": 520,
+    "green": 427,
+    "silver": 431,
+    "web": 540,
+    "white": 457
+   }
+  }
+ ],
+ "id": "35faaeb3-180d-46c6-9f33-b6e5ce0527b3",
+ "lat": 26.5930715,
+ "lng": -80.193484,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6707
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6224
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5745
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5745
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5182
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5182
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 4700
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 4700
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4598
+  }
+ ]
+}

@@ -1,0 +1,355 @@
+{
+ "city": "Greenacres",
+ "club_name": "South At Fountains Country Club",
+ "course_name": "South At Fountains Country Club",
+ "dataset_name": "South At Fountains Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 418,
+    "Blue": 516,
+    "Blue/White": 495,
+    "Gold": 525,
+    "Red": 410,
+    "White": 495,
+    "White/Black": 418
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 111,
+    "Blue": 139,
+    "Blue/White": 139,
+    "Gold": 164,
+    "Red": 107,
+    "White": 126,
+    "White/Black": 126
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 316,
+    "Blue": 357,
+    "Blue/White": 344,
+    "Gold": 392,
+    "Red": 312,
+    "White": 344,
+    "White/Black": 344
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 311,
+    "Blue": 365,
+    "Blue/White": 365,
+    "Gold": 410,
+    "Red": 303,
+    "White": 351,
+    "White/Black": 311
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 434,
+    "Blue": 494,
+    "Blue/White": 494,
+    "Gold": 530,
+    "Red": 430,
+    "White": 483,
+    "White/Black": 483
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 264,
+    "Blue": 374,
+    "Blue/White": 357,
+    "Gold": 384,
+    "Red": 256,
+    "White": 357,
+    "White/Black": 357
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 140,
+    "Blue": 169,
+    "Blue/White": 153,
+    "Gold": 183,
+    "Red": 135,
+    "White": 153,
+    "White/Black": 153
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 326,
+    "Blue": 360,
+    "Blue/White": 360,
+    "Gold": 373,
+    "Red": 321,
+    "White": 345,
+    "White/Black": 345
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 320,
+    "Blue": 346,
+    "Blue/White": 346,
+    "Gold": 369,
+    "Red": 315,
+    "White": 333,
+    "White/Black": 333
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 286,
+    "Blue": 352,
+    "Blue/White": 352,
+    "Gold": 375,
+    "Red": 279,
+    "White": 342,
+    "White/Black": 342
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 248,
+    "Blue": 318,
+    "Blue/White": 318,
+    "Gold": 349,
+    "Red": 240,
+    "White": 308,
+    "White/Black": 308
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 407,
+    "Blue": 502,
+    "Blue/White": 479,
+    "Gold": 534,
+    "Red": 398,
+    "White": 479,
+    "White/Black": 407
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 100,
+    "Blue": 157,
+    "Blue/White": 157,
+    "Gold": 166,
+    "Red": 95,
+    "White": 133,
+    "White/Black": 133
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 307,
+    "Blue": 373,
+    "Blue/White": 357,
+    "Gold": 399,
+    "Red": 297,
+    "White": 357,
+    "White/Black": 307
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 444,
+    "Blue": 509,
+    "Blue/White": 509,
+    "Gold": 526,
+    "Red": 437,
+    "White": 486,
+    "White/Black": 444
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 348,
+    "Blue": 390,
+    "Blue/White": 363,
+    "Gold": 409,
+    "Red": 340,
+    "White": 363,
+    "White/Black": 363
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 132,
+    "Blue": 183,
+    "Blue/White": 162,
+    "Gold": 200,
+    "Red": 128,
+    "White": 162,
+    "White/Black": 162
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 317,
+    "Blue": 389,
+    "Blue/White": 389,
+    "Gold": 412,
+    "Red": 307,
+    "White": 368,
+    "White/Black": 368
+   }
+  }
+ ],
+ "id": "02b1d0cf-9c6f-4706-ace6-bd9fa1e23c7f",
+ "lat": 26.6096349,
+ "lng": -80.1533261,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6700
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6293
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6139
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5985
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5985
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-black-male",
+   "tee_name": "White/Black",
+   "yardage": 5704
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-black-female",
+   "tee_name": "White/Black",
+   "yardage": 5704
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 5229
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5229
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5110
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5110
+  }
+ ]
+}

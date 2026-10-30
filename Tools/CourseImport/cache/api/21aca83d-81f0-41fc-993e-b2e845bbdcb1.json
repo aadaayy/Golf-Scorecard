@@ -1,0 +1,225 @@
+{
+ "city": "Jacksonville",
+ "club_name": "Cimarrone Golf Club",
+ "course_name": "Cimarrone Golf Club",
+ "dataset_name": "Cimarrone Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "red": 424,
+    "senior/junior": 465
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "red": 113,
+    "senior/junior": 144
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "red": 245,
+    "senior/junior": 292
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "red": 273,
+    "senior/junior": 350
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "red": 400,
+    "senior/junior": 444
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "red": 250,
+    "senior/junior": 288
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "red": 283,
+    "senior/junior": 331
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "red": 253,
+    "senior/junior": 303
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "red": 97,
+    "senior/junior": 114
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "red": 278,
+    "senior/junior": 328
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "red": 98,
+    "senior/junior": 137
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "red": 295,
+    "senior/junior": 332
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "red": 370,
+    "senior/junior": 443
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "red": 400,
+    "senior/junior": 445
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "red": 289,
+    "senior/junior": 330
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "red": 265,
+    "senior/junior": 303
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "red": 80,
+    "senior/junior": 114
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "red": 301,
+    "senior/junior": 352
+   }
+  }
+ ],
+ "id": "21aca83d-81f0-41fc-993e-b2e845bbdcb1",
+ "lat": 30.060731,
+ "lng": -81.5447528,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6891
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "challenge-male",
+   "tee_name": "Challenge",
+   "yardage": 6553
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "members-male",
+   "tee_name": "Members",
+   "yardage": 6103
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "senior-junior-male",
+   "tee_name": "Senior/Junior",
+   "yardage": 5474
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "senior-junior-female",
+   "tee_name": "Senior/Junior",
+   "yardage": 5474
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4704
+  }
+ ]
+}

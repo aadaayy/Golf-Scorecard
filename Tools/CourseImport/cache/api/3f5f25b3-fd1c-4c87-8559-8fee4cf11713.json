@@ -1,0 +1,143 @@
+{
+ "city": "Wildwood",
+ "club_name": "Loblolly Executive Golf Course",
+ "course_name": "Loblolly Executive Golf Course",
+ "dataset_name": "Loblolly Executive Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 161,
+    "friendly": 101,
+    "gold": 136,
+    "green": 126
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 177,
+    "friendly": 82,
+    "gold": 134,
+    "green": 100
+   }
+  }
+ ],
+ "id": "3f5f25b3-fd1c-4c87-8559-8fee4cf11713",
+ "lat": 28.793306,
+ "lng": -82.0098871,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 1452
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1452
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 1228
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1228
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 1024
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 1024
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 896
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 896
+  }
+ ]
+}

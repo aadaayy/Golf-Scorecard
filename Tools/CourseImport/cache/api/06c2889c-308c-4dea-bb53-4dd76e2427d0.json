@@ -1,0 +1,295 @@
+{
+ "city": "Naples",
+ "club_name": "Cypress At Royal Poinciana Golf Club",
+ "course_name": "Cypress At Royal Poinciana Golf Club",
+ "dataset_name": "Cypress At Royal Poinciana Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "i": 473,
+    "ii": 465,
+    "iv": 414,
+    "iv/v": 414,
+    "v": 380
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "i": 397,
+    "ii": 380,
+    "iv": 310,
+    "iv/v": 310,
+    "v": 291
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "i": 403,
+    "ii": 388,
+    "iv": 336,
+    "iv/v": 310,
+    "v": 310
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "i": 328,
+    "ii": 320,
+    "iv": 279,
+    "iv/v": 279,
+    "v": 260
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "i": 165,
+    "ii": 160,
+    "iv": 130,
+    "iv/v": 130,
+    "v": 93
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "i": 365,
+    "ii": 351,
+    "iv": 305,
+    "iv/v": 305,
+    "v": 250
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "i": 495,
+    "ii": 480,
+    "iv": 410,
+    "iv/v": 410,
+    "v": 376
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "i": 190,
+    "ii": 180,
+    "iv": 135,
+    "iv/v": 135,
+    "v": 118
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "i": 412,
+    "ii": 400,
+    "iv": 334,
+    "iv/v": 310,
+    "v": 310
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 420,
+    "ii": 395,
+    "iv": 350,
+    "iv/v": 328,
+    "v": 328
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "i": 366,
+    "ii": 352,
+    "iv": 312,
+    "iv/v": 318,
+    "v": 278
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "i": 159,
+    "ii": 138,
+    "iv": 104,
+    "iv/v": 110,
+    "v": 85
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "i": 490,
+    "ii": 474,
+    "iv": 434,
+    "iv/v": 429,
+    "v": 396
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "i": 171,
+    "ii": 161,
+    "iv": 121,
+    "iv/v": 141,
+    "v": 106
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "i": 326,
+    "ii": 313,
+    "iv": 270,
+    "iv/v": 253,
+    "v": 224
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "i": 361,
+    "ii": 347,
+    "iv": 316,
+    "iv/v": 290,
+    "v": 281
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "i": 388,
+    "ii": 360,
+    "iv": 320,
+    "iv/v": 296,
+    "v": 294
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "i": 496,
+    "ii": 475,
+    "iv": 439,
+    "iv/v": 430,
+    "v": 407
+   }
+  }
+ ],
+ "id": "06c2889c-308c-4dea-bb53-4dd76e2427d0",
+ "lat": 26.1965228,
+ "lng": -81.7795811,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6405
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6135
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5787
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5319
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5319
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-v-male",
+   "tee_name": "IV/V",
+   "yardage": 5186
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 4787
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 4787
+  }
+ ]
+}

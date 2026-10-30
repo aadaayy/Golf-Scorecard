@@ -1,0 +1,349 @@
+{
+ "city": "Naples",
+ "club_name": "South At Vineyards Of Naples The",
+ "course_name": "South At Vineyards Of Naples The",
+ "dataset_name": "South At Vineyards Of Naples The",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Tee I": 373,
+    "Tee II": 348,
+    "Tee II/III": 348,
+    "Tee III": 332,
+    "Tee III/IV": 332,
+    "Tee IV": 288,
+    "Tee IV/V": 288,
+    "Tee V": 250
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Tee I": 527,
+    "Tee II": 500,
+    "Tee II/III": 500,
+    "Tee III": 486,
+    "Tee III/IV": 443,
+    "Tee IV": 443,
+    "Tee IV/V": 413,
+    "Tee V": 413
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Tee I": 382,
+    "Tee II": 373,
+    "Tee II/III": 367,
+    "Tee III": 367,
+    "Tee III/IV": 367,
+    "Tee IV": 337,
+    "Tee IV/V": 337,
+    "Tee V": 293
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Tee I": 182,
+    "Tee II": 161,
+    "Tee II/III": 161,
+    "Tee III": 142,
+    "Tee III/IV": 142,
+    "Tee IV": 119,
+    "Tee IV/V": 98,
+    "Tee V": 98
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Tee I": 361,
+    "Tee II": 350,
+    "Tee II/III": 350,
+    "Tee III": 310,
+    "Tee III/IV": 310,
+    "Tee IV": 288,
+    "Tee IV/V": 288,
+    "Tee V": 231
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Tee I": 594,
+    "Tee II": 569,
+    "Tee II/III": 527,
+    "Tee III": 527,
+    "Tee III/IV": 469,
+    "Tee IV": 469,
+    "Tee IV/V": 436,
+    "Tee V": 436
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Tee I": 478,
+    "Tee II": 392,
+    "Tee II/III": 358,
+    "Tee III": 358,
+    "Tee III/IV": 351,
+    "Tee IV": 351,
+    "Tee IV/V": 351,
+    "Tee V": 315
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Tee I": 214,
+    "Tee II": 204,
+    "Tee II/III": 166,
+    "Tee III": 166,
+    "Tee III/IV": 133,
+    "Tee IV": 133,
+    "Tee IV/V": 103,
+    "Tee V": 103
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Tee I": 452,
+    "Tee II": 380,
+    "Tee II/III": 380,
+    "Tee III": 343,
+    "Tee III/IV": 343,
+    "Tee IV": 305,
+    "Tee IV/V": 305,
+    "Tee V": 258
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Tee I": 538,
+    "Tee II": 510,
+    "Tee II/III": 510,
+    "Tee III": 465,
+    "Tee III/IV": 432,
+    "Tee IV": 432,
+    "Tee IV/V": 415,
+    "Tee V": 415
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Tee I": 362,
+    "Tee II": 336,
+    "Tee II/III": 336,
+    "Tee III": 320,
+    "Tee III/IV": 320,
+    "Tee IV": 279,
+    "Tee IV/V": 279,
+    "Tee V": 255
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Tee I": 158,
+    "Tee II": 148,
+    "Tee II/III": 148,
+    "Tee III": 132,
+    "Tee III/IV": 132,
+    "Tee IV": 120,
+    "Tee IV/V": 100,
+    "Tee V": 100
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Tee I": 382,
+    "Tee II": 356,
+    "Tee II/III": 346,
+    "Tee III": 346,
+    "Tee III/IV": 346,
+    "Tee IV": 288,
+    "Tee IV/V": 288,
+    "Tee V": 279
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Tee I": 488,
+    "Tee II": 453,
+    "Tee II/III": 388,
+    "Tee III": 388,
+    "Tee III/IV": 358,
+    "Tee IV": 358,
+    "Tee IV/V": 358,
+    "Tee V": 321
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Tee I": 519,
+    "Tee II": 473,
+    "Tee II/III": 473,
+    "Tee III": 470,
+    "Tee III/IV": 425,
+    "Tee IV": 425,
+    "Tee IV/V": 392,
+    "Tee V": 392
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Tee I": 427,
+    "Tee II": 377,
+    "Tee II/III": 377,
+    "Tee III": 350,
+    "Tee III/IV": 301,
+    "Tee IV": 301,
+    "Tee IV/V": 276,
+    "Tee V": 276
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Tee I": 221,
+    "Tee II": 189,
+    "Tee II/III": 180,
+    "Tee III": 180,
+    "Tee III/IV": 149,
+    "Tee IV": 149,
+    "Tee IV/V": 123,
+    "Tee V": 123
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Tee I": 461,
+    "Tee II": 438,
+    "Tee II/III": 355,
+    "Tee III": 355,
+    "Tee III/IV": 355,
+    "Tee IV": 333,
+    "Tee IV/V": 333,
+    "Tee V": 299
+   }
+  }
+ ],
+ "id": "0a3a6fc3-30a2-45e4-8d38-92986576c8f2",
+ "lat": 26.2133528,
+ "lng": -81.7272672,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-i-male",
+   "tee_name": "Tee I",
+   "yardage": 7119
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 6557
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-iii-male",
+   "tee_name": "Tee II/III",
+   "yardage": 6270
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 6037
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-iv-male",
+   "tee_name": "Tee III/IV",
+   "yardage": 5708
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-male",
+   "tee_name": "Tee IV",
+   "yardage": 5418
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-v-male",
+   "tee_name": "Tee IV/V",
+   "yardage": 5183
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-male",
+   "tee_name": "Tee V",
+   "yardage": 4857
+  }
+ ]
+}

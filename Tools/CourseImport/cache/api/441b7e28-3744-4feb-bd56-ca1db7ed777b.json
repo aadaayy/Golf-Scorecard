@@ -1,0 +1,167 @@
+{
+ "city": "Sarasota",
+ "club_name": "Village Green Golf Club",
+ "course_name": "Village Green Golf Club",
+ "dataset_name": "Village Green Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Red": 150,
+    "White": 165,
+    "web": 165
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Red": 250,
+    "White": 270,
+    "web": 270
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Red": 140,
+    "White": 150,
+    "web": 150
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Red": 145,
+    "White": 155,
+    "web": 155
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Red": 105,
+    "White": 130,
+    "web": 130
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Red": 100,
+    "White": 120,
+    "web": 120
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Red": 225,
+    "White": 245,
+    "web": 245
+   }
+  }
+ ],
+ "id": "441b7e28-3744-4feb-bd56-ca1db7ed777b",
+ "lat": 27.3023643,
+ "lng": -82.499721,
+ "par": 58,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2810
+  },
+  {
+   "gender": "Female",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2525
+  }
+ ]
+}

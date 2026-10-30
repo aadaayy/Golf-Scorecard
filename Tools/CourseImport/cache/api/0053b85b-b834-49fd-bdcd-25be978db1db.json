@@ -1,0 +1,30 @@
+{
+ "city": "Okeechobee",
+ "club_name": "Blue Cypress Golf Rv Resort",
+ "course_name": "Blue Cypress Golf Rv Resort",
+ "dataset_name": "Blue Cypress Golf Rv Resort",
+ "holes": 18,
+ "holes_data": [],
+ "id": "0053b85b-b834-49fd-bdcd-25be978db1db",
+ "lat": 27.129764,
+ "lng": -80.6837056,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 1300
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 1098
+  }
+ ]
+}

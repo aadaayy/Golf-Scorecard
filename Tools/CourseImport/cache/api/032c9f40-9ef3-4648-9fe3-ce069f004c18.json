@@ -1,0 +1,175 @@
+{
+ "city": "Jupiter",
+ "club_name": "Jupiter Dunes Golf Course",
+ "course_name": "Jupiter Dunes Golf Course",
+ "dataset_name": "Jupiter Dunes Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "middle": 100
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "middle": 73
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "middle": 70
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "middle": 90
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "middle": 82
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "middle": 65
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "middle": 95
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "middle": 96
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "middle": 67
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "middle": 150
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "middle": 98
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "middle": 97
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "middle": 125
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "middle": 108
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "middle": 103
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "middle": 100
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "middle": 81
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "middle": 132
+   }
+  }
+ ],
+ "id": "032c9f40-9ef3-4648-9fe3-ce069f004c18",
+ "lat": 26.9382679,
+ "lng": -80.0761195,
+ "par": 54,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 1962
+  },
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 1777
+  }
+ ]
+}

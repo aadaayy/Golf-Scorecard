@@ -1,0 +1,253 @@
+{
+ "city": "DeBary",
+ "club_name": "Debary Golf Country Club",
+ "course_name": "Debary Golf Country Club",
+ "dataset_name": "Debary Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 507,
+    "grey": 460,
+    "red": 400,
+    "white": 486
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 178,
+    "grey": 150,
+    "red": 130,
+    "white": 161
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 372,
+    "grey": 327,
+    "red": 262,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 367,
+    "grey": 307,
+    "red": 252,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 415,
+    "grey": 357,
+    "red": 297,
+    "white": 387
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 542,
+    "grey": 496,
+    "red": 440,
+    "white": 514
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 179,
+    "grey": 139,
+    "red": 100,
+    "white": 154
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 362,
+    "grey": 321,
+    "red": 263,
+    "white": 336
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 382,
+    "grey": 354,
+    "red": 310,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 394,
+    "grey": 350,
+    "red": 310,
+    "white": 369
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 523,
+    "grey": 475,
+    "red": 427,
+    "white": 492
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 183,
+    "grey": 144,
+    "red": 116,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 383,
+    "grey": 333,
+    "red": 299,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 417,
+    "grey": 369,
+    "red": 304,
+    "white": 395
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 373,
+    "grey": 307,
+    "red": 274,
+    "white": 340
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 536,
+    "grey": 480,
+    "red": 437,
+    "white": 511
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 174,
+    "grey": 140,
+    "red": 115,
+    "white": 156
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 414,
+    "grey": 367,
+    "red": 342,
+    "white": 390
+   }
+  }
+ ],
+ "id": "02ebc4b1-4c22-4f27-8f34-883d8fd0ce61",
+ "lat": 28.901782,
+ "lng": -81.3138324,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6776
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6234
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "grey-male",
+   "tee_name": "Grey",
+   "yardage": 5862
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "grey-female",
+   "tee_name": "Grey",
+   "yardage": 5862
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5060
+  }
+ ]
+}

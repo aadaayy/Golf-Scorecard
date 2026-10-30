@@ -1,0 +1,231 @@
+{
+ "city": "Bonita Springs",
+ "club_name": "Bonita National Golf Country Club",
+ "course_name": "Bonita National Golf Country Club",
+ "dataset_name": "Bonita National Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "championship": 196,
+    "ladies'_cluv/ladies'_forward": 108,
+    "ladies'_forward": 108,
+    "men's_club": 128,
+    "national": 149
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "championship": 525,
+    "ladies'_cluv/ladies'_forward": 405,
+    "ladies'_forward": 405,
+    "men's_club": 429,
+    "national": 488
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "championship": 194,
+    "ladies'_cluv/ladies'_forward": 142,
+    "ladies'_forward": 126,
+    "men's_club": 142,
+    "national": 158
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "championship": 494,
+    "ladies'_cluv/ladies'_forward": 435,
+    "ladies'_forward": 417,
+    "men's_club": 435,
+    "national": 454
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "championship": 389,
+    "ladies'_cluv/ladies'_forward": 315,
+    "ladies'_forward": 283,
+    "men's_club": 315,
+    "national": 342
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "championship": 464,
+    "ladies'_cluv/ladies'_forward": 298,
+    "ladies'_forward": 298,
+    "men's_club": 346,
+    "national": 376
+   }
+  }
+ ],
+ "id": "3cb5c6ed-20fd-4ac0-a6f3-8ccb0886c794",
+ "lat": 26.3268775,
+ "lng": -81.663681,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7019
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6549
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-national-male",
+   "tee_name": "Tournament/National",
+   "yardage": 6291
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "national-male",
+   "tee_name": "National",
+   "yardage": 6020
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "national-men-s-club-male",
+   "tee_name": "National/Men's Club",
+   "yardage": 5776
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "men-s-club-male",
+   "tee_name": "Men's Club",
+   "yardage": 5506
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ladies-club-male",
+   "tee_name": "Ladies' Club",
+   "yardage": 5506
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ladies-cluv-ladies-forward-male",
+   "tee_name": "Ladies' Cluv/Ladies' Forward",
+   "yardage": 5253
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ladies-forward-male",
+   "tee_name": "Ladies' Forward",
+   "yardage": 5030
+  }
+ ]
+}

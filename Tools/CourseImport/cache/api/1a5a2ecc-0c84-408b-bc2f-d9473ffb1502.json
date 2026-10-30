@@ -1,0 +1,245 @@
+{
+ "city": "Winter Haven",
+ "club_name": "Four Lakes Golf Club",
+ "course_name": "Four Lakes Golf Club",
+ "dataset_name": "Four Lakes Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 391,
+    "gold": 279,
+    "red": 260,
+    "white": 314
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 363,
+    "gold": 282,
+    "red": 278,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 358,
+    "gold": 282,
+    "red": 247,
+    "white": 298
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 297,
+    "gold": 271,
+    "red": 241,
+    "white": 281
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 389,
+    "gold": 298,
+    "red": 284,
+    "white": 310
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 239,
+    "gold": 217,
+    "red": 180,
+    "white": 223
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 301,
+    "gold": 268,
+    "red": 211,
+    "white": 276
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 197,
+    "gold": 111,
+    "red": 85,
+    "white": 163
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 500,
+    "gold": 455,
+    "red": 389,
+    "white": 469
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 259,
+    "gold": 230,
+    "red": 210,
+    "white": 245
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 380,
+    "gold": 320,
+    "red": 320,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "blue": 402,
+    "gold": 350,
+    "red": 336,
+    "white": 394
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 143,
+    "gold": 131,
+    "red": 119,
+    "white": 143
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 385,
+    "gold": 336,
+    "red": 281,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 270,
+    "gold": 225,
+    "red": 225,
+    "white": 259
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 197,
+    "gold": 166,
+    "red": 148,
+    "white": 177
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blue": 520,
+    "gold": 471,
+    "red": 471,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 399,
+    "gold": 347,
+    "red": 309,
+    "white": 355
+   }
+  }
+ ],
+ "id": "1a5a2ecc-0c84-408b-bc2f-d9473ffb1502",
+ "lat": 28.0811142,
+ "lng": -81.6945109,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6031
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5376
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4933
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4490
+  }
+ ]
+}

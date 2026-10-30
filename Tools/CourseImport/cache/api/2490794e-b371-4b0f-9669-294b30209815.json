@@ -1,0 +1,138 @@
+{
+ "city": "Jacksonville",
+ "club_name": "The First Tee Of North Florida Brentwood Golf Course",
+ "course_name": "The First Tee Of North Florida Brentwood Golf Course",
+ "dataset_name": "The First Tee Of North Florida Brentwood Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 245,
+    "gold": 263,
+    "green": 186,
+    "web": 263
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 316,
+    "gold": 335,
+    "green": 273,
+    "web": 335
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "blue": 481,
+    "gold": 494,
+    "green": 453,
+    "web": 494
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 262,
+    "gold": 303,
+    "green": 219,
+    "web": 303
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 118,
+    "gold": 144,
+    "green": 82,
+    "web": 144
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 355,
+    "gold": 373,
+    "green": 274,
+    "web": 373
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 116,
+    "gold": 127,
+    "green": 89,
+    "web": 127
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 328,
+    "gold": 338,
+    "green": 249,
+    "web": 338
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "blue": 126,
+    "gold": 137,
+    "green": 102,
+    "web": 137
+   }
+  }
+ ],
+ "id": "2490794e-b371-4b0f-9669-294b30209815",
+ "lat": 30.3678474,
+ "lng": -81.6747055,
+ "par": 34,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2514
+  },
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 2347
+  },
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 1927
+  }
+ ]
+}

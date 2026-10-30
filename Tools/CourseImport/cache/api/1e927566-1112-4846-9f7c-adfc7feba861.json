@@ -1,0 +1,459 @@
+{
+ "city": "Naples",
+ "club_name": "The Club At The Strand Sabal Preserve Course",
+ "course_name": "The Club At The Strand Sabal Preserve Course",
+ "dataset_name": "The Club At The Strand Sabal Preserve Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 473,
+    "Blue": 463,
+    "Gold": 398,
+    "Gold/Red": 360,
+    "Green": 448,
+    "Green/White": 448,
+    "Red": 360,
+    "Scoring": 270,
+    "White": 417,
+    "White/Gold": 417,
+    "web": 477
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 369,
+    "Blue": 355,
+    "Gold": 286,
+    "Gold/Red": 286,
+    "Green": 330,
+    "Green/White": 330,
+    "Red": 262,
+    "Scoring": 262,
+    "White": 323,
+    "White/Gold": 286,
+    "web": 371
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 333,
+    "Blue": 312,
+    "Gold": 267,
+    "Gold/Red": 252,
+    "Green": 308,
+    "Green/White": 308,
+    "Red": 252,
+    "Scoring": 252,
+    "White": 294,
+    "White/Gold": 294,
+    "web": 335
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 463,
+    "Blue": 443,
+    "Gold": 337,
+    "Gold/Red": 299,
+    "Green": 399,
+    "Green/White": 355,
+    "Red": 299,
+    "Scoring": 220,
+    "White": 355,
+    "White/Gold": 337,
+    "web": 451
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 250,
+    "Blue": 215,
+    "Gold": 124,
+    "Gold/Red": 91,
+    "Green": 171,
+    "Green/White": 158,
+    "Red": 91,
+    "Scoring": 91,
+    "White": 158,
+    "White/Gold": 158,
+    "web": 245
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 469,
+    "Blue": 386,
+    "Gold": 307,
+    "Gold/Red": 290,
+    "Green": 360,
+    "Green/White": 360,
+    "Red": 290,
+    "Scoring": 270,
+    "White": 338,
+    "White/Gold": 338,
+    "web": 476
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Black": 572,
+    "Blue": 514,
+    "Gold": 424,
+    "Gold/Red": 424,
+    "Green": 497,
+    "Green/White": 442,
+    "Red": 403,
+    "Scoring": 220,
+    "White": 442,
+    "White/Gold": 424,
+    "web": 576
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 233,
+    "Blue": 202,
+    "Gold": 121,
+    "Gold/Red": 82,
+    "Green": 149,
+    "Green/White": 135,
+    "Red": 82,
+    "Scoring": 82,
+    "White": 135,
+    "White/Gold": 135,
+    "web": 235
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 422,
+    "Blue": 384,
+    "Gold": 317,
+    "Gold/Red": 263,
+    "Green": 368,
+    "Green/White": 368,
+    "Red": 263,
+    "Scoring": 263,
+    "White": 328,
+    "White/Gold": 317,
+    "web": 412
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 396,
+    "Blue": 383,
+    "Gold": 305,
+    "Gold/Red": 305,
+    "Green": 365,
+    "Green/White": 320,
+    "Red": 248,
+    "Scoring": 248,
+    "White": 320,
+    "White/Gold": 320,
+    "web": 400
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Black": 578,
+    "Blue": 535,
+    "Gold": 397,
+    "Gold/Red": 388,
+    "Green": 507,
+    "Green/White": 447,
+    "Red": 388,
+    "Scoring": 222,
+    "White": 447,
+    "White/Gold": 447,
+    "web": 580
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 531,
+    "Blue": 518,
+    "Gold": 435,
+    "Gold/Red": 376,
+    "Green": 491,
+    "Green/White": 491,
+    "Red": 376,
+    "Scoring": 230,
+    "White": 454,
+    "White/Gold": 435,
+    "web": 536
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 233,
+    "Blue": 194,
+    "Gold": 139,
+    "Gold/Red": 139,
+    "Green": 174,
+    "Green/White": 149,
+    "Red": 105,
+    "Scoring": 105,
+    "White": 149,
+    "White/Gold": 149,
+    "web": 235
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 191,
+    "Blue": 173,
+    "Gold": 90,
+    "Gold/Red": 90,
+    "Green": 147,
+    "Green/White": 147,
+    "Red": 71,
+    "Scoring": 71,
+    "White": 120,
+    "White/Gold": 90,
+    "web": 190
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 468,
+    "Blue": 427,
+    "Gold": 346,
+    "Gold/Red": 262,
+    "Green": 376,
+    "Green/White": 363,
+    "Red": 262,
+    "Scoring": 262,
+    "White": 363,
+    "White/Gold": 346,
+    "web": 471
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Blue": 353,
+    "Gold": 273,
+    "Gold/Red": 273,
+    "Green": 333,
+    "Green/White": 333,
+    "Red": 251,
+    "Scoring": 251,
+    "White": 298,
+    "White/Gold": 298,
+    "web": 383
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 353,
+    "Blue": 340,
+    "Gold": 262,
+    "Gold/Red": 262,
+    "Green": 311,
+    "Green/White": 311,
+    "Red": 235,
+    "Scoring": 235,
+    "White": 289,
+    "White/Gold": 289,
+    "web": 351
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 458,
+    "Blue": 436,
+    "Gold": 296,
+    "Gold/Red": 265,
+    "Green": 371,
+    "Green/White": 371,
+    "Red": 265,
+    "Scoring": 205,
+    "White": 360,
+    "White/Gold": 296,
+    "web": 460
+   }
+  }
+ ],
+ "id": "1e927566-1112-4846-9f7c-adfc7feba861",
+ "lat": 26.2925319,
+ "lng": -81.7470256,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7170
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6633
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6105
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-white-male",
+   "tee_name": "Green/White",
+   "yardage": 5836
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5590
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5590
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-gold-female",
+   "tee_name": "White/Gold",
+   "yardage": 5376
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-gold-male",
+   "tee_name": "White/Gold",
+   "yardage": 5376
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5124
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5124
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-red-female",
+   "tee_name": "Gold/Red",
+   "yardage": 4707
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-red-male",
+   "tee_name": "Gold/Red",
+   "yardage": 4707
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4503
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "scoring-female",
+   "tee_name": "Scoring",
+   "yardage": 3759
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "scoring-male",
+   "tee_name": "Scoring",
+   "yardage": 3759
+  }
+ ]
+}

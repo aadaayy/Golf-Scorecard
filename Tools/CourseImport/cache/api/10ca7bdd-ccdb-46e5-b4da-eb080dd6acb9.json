@@ -1,0 +1,239 @@
+{
+ "city": "Four Corners",
+ "club_name": "Legends Walk At Orange Lake Resort",
+ "course_name": "Legends Walk At Orange Lake Resort",
+ "dataset_name": "Legends Walk At Orange Lake Resort",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "teal": 158,
+    "white": 139,
+    "yellow": 118
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "teal": 197,
+    "white": 148,
+    "yellow": 98
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "teal": 193,
+    "white": 150,
+    "yellow": 100
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "teal": 222,
+    "white": 191,
+    "yellow": 130
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "teal": 187,
+    "white": 158,
+    "yellow": 116
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "teal": 120,
+    "white": 115,
+    "yellow": 89
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "teal": 147,
+    "white": 132,
+    "yellow": 104
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "teal": 156,
+    "white": 99,
+    "yellow": 85
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "teal": 201,
+    "white": 170,
+    "yellow": 124
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 24,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 25,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 26,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "10ca7bdd-ccdb-46e5-b4da-eb080dd6acb9",
+ "lat": 28.3688919,
+ "lng": -81.60375,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "teal-male",
+   "tee_name": "Teal",
+   "yardage": 1581
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1302
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 964
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 964
+  }
+ ]
+}

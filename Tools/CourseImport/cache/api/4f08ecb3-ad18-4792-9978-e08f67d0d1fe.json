@@ -1,0 +1,187 @@
+{
+ "city": "Tampa",
+ "club_name": "Babe Zaharias Golf Course",
+ "course_name": "Babe Zaharias Golf Course",
+ "dataset_name": "Babe Zaharias Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 16,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 392,
+    "green": 316,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 486,
+    "green": 460,
+    "white": 473
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "green": 384,
+    "white": 399
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 306,
+    "green": 252,
+    "white": 279
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 142,
+    "green": 115,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 432,
+    "green": 371,
+    "white": 412
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 173,
+    "green": 133,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 412,
+    "green": 358,
+    "white": 399
+   }
+  }
+ ],
+ "id": "4f08ecb3-ad18-4792-9978-e08f67d0d1fe",
+ "lat": 28.052082,
+ "lng": -82.4729012,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6020
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5531
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5306
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 4808
+  }
+ ]
+}

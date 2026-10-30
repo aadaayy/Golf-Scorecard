@@ -1,0 +1,193 @@
+{
+ "city": "Clearwater",
+ "club_name": "Lake Pine Golf Course At Countryside Country Club",
+ "course_name": "Lake Pine Golf Course At Countryside Country Club",
+ "dataset_name": "Lake Pine Golf Course At Countryside Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 14,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 348,
+    "gold": 365,
+    "red": 308,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 132,
+    "gold": 141,
+    "red": 107,
+    "white": 123
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 526,
+    "gold": 544,
+    "red": 470,
+    "white": 511
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 388,
+    "gold": 408,
+    "red": 351,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 189,
+    "gold": 201,
+    "red": 154,
+    "white": 177
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 410,
+    "gold": 435,
+    "red": 334,
+    "white": 390
+   }
+  }
+ ],
+ "id": "3c66a050-097f-4642-acad-5bc67db03eaf",
+ "lat": 28.0294431,
+ "lng": -82.725641,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6815
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6493
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6043
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6043
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5380
+  }
+ ]
+}

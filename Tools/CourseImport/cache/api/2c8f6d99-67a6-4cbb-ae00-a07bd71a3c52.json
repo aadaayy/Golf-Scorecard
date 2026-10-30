@@ -1,0 +1,298 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Shell Point Golf Club",
+ "course_name": "Shell Point Golf Club",
+ "dataset_name": "Shell Point Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 181,
+    "Blue": 159,
+    "Red": 101,
+    "White": 148,
+    "White/Red": 101,
+    "Yellow": 172,
+    "Yellow/Blue": 172,
+    "web": 181
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Black": 558,
+    "Blue": 465,
+    "Red": 403,
+    "White": 447,
+    "White/Red": 447,
+    "Yellow": 486,
+    "Yellow/Blue": 486,
+    "web": 558
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 401,
+    "Blue": 334,
+    "Red": 268,
+    "White": 308,
+    "White/Red": 268,
+    "Yellow": 364,
+    "Yellow/Blue": 334,
+    "web": 401
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 381,
+    "Blue": 327,
+    "Red": 233,
+    "White": 307,
+    "White/Red": 233,
+    "Yellow": 360,
+    "Yellow/Blue": 327,
+    "web": 381
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 172,
+    "Blue": 126,
+    "Red": 92,
+    "White": 110,
+    "White/Red": 110,
+    "Yellow": 135,
+    "Yellow/Blue": 135,
+    "web": 172
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 315,
+    "Blue": 300,
+    "Red": 214,
+    "White": 283,
+    "White/Red": 283,
+    "Yellow": 305,
+    "Yellow/Blue": 305,
+    "web": 315
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 301,
+    "Blue": 279,
+    "Red": 211,
+    "White": 251,
+    "White/Red": 251,
+    "Yellow": 290,
+    "Yellow/Blue": 290,
+    "web": 301
+   }
+  }
+ ],
+ "id": "2c8f6d99-67a6-4cbb-ae00-a07bd71a3c52",
+ "lat": 26.5018108,
+ "lng": -81.9861857,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "Black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 6427
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "Black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6427
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "Yellow",
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 5928
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "Yellow",
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 5928
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "Yellow/Blue",
+   "tee_key": "yellow-blue-female",
+   "tee_name": "Yellow/Blue",
+   "yardage": 5735
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "Yellow/Blue",
+   "tee_key": "yellow-blue-male",
+   "tee_name": "Yellow/Blue",
+   "yardage": 5735
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5504
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "Blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5504
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5071
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5071
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "White/Red",
+   "tee_key": "white-red-male",
+   "tee_name": "White/Red",
+   "yardage": 4641
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "White/Red",
+   "tee_key": "white-red-female",
+   "tee_name": "White/Red",
+   "yardage": 4641
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4262
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "Red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4262
+  }
+ ]
+}

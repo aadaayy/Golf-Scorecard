@@ -1,0 +1,415 @@
+{
+ "city": "Panama City Beach",
+ "club_name": "Sharks Tooth Golf Club",
+ "course_name": "Sharks Tooth Golf Club",
+ "dataset_name": "Sharks Tooth Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 408,
+    "Black/Blue": 408,
+    "Blue": 371,
+    "Blue/White": 371,
+    "Burgundy": 250,
+    "Gold": 322,
+    "Gold/Burgundy": 322,
+    "White": 356,
+    "White/Gold": 356
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 190,
+    "Black/Blue": 179,
+    "Blue": 179,
+    "Blue/White": 169,
+    "Burgundy": 104,
+    "Gold": 115,
+    "Gold/Burgundy": 104,
+    "White": 169,
+    "White/Gold": 115
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Black": 545,
+    "Black/Blue": 545,
+    "Blue": 510,
+    "Blue/White": 510,
+    "Burgundy": 423,
+    "Gold": 458,
+    "Gold/Burgundy": 458,
+    "White": 494,
+    "White/Gold": 494
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 425,
+    "Black/Blue": 384,
+    "Blue": 384,
+    "Blue/White": 355,
+    "Burgundy": 300,
+    "Gold": 350,
+    "Gold/Burgundy": 300,
+    "White": 355,
+    "White/Gold": 355
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 225,
+    "Black/Blue": 202,
+    "Blue": 202,
+    "Blue/White": 167,
+    "Burgundy": 138,
+    "Gold": 154,
+    "Gold/Burgundy": 138,
+    "White": 167,
+    "White/Gold": 154
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Black": 524,
+    "Black/Blue": 524,
+    "Blue": 514,
+    "Blue/White": 514,
+    "Burgundy": 407,
+    "Gold": 482,
+    "Gold/Burgundy": 482,
+    "White": 504,
+    "White/Gold": 504
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 485,
+    "Black/Blue": 397,
+    "Blue": 397,
+    "Blue/White": 354,
+    "Burgundy": 327,
+    "Gold": 345,
+    "Gold/Burgundy": 327,
+    "White": 354,
+    "White/Gold": 345
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 370,
+    "Black/Blue": 370,
+    "Blue": 316,
+    "Blue/White": 316,
+    "Burgundy": 243,
+    "Gold": 268,
+    "Gold/Burgundy": 268,
+    "White": 283,
+    "White/Gold": 283
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 423,
+    "Black/Blue": 389,
+    "Blue": 389,
+    "Blue/White": 389,
+    "Burgundy": 337,
+    "Gold": 361,
+    "Gold/Burgundy": 337,
+    "White": 368,
+    "White/Gold": 368
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 430,
+    "Black/Blue": 398,
+    "Blue": 398,
+    "Blue/White": 398,
+    "Burgundy": 328,
+    "Gold": 362,
+    "Gold/Burgundy": 328,
+    "White": 377,
+    "White/Gold": 362
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 193,
+    "Black/Blue": 180,
+    "Blue": 180,
+    "Blue/White": 180,
+    "Burgundy": 136,
+    "Gold": 158,
+    "Gold/Burgundy": 136,
+    "White": 173,
+    "White/Gold": 158
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 422,
+    "Black/Blue": 422,
+    "Blue": 408,
+    "Blue/White": 395,
+    "Burgundy": 271,
+    "Gold": 286,
+    "Gold/Burgundy": 286,
+    "White": 395,
+    "White/Gold": 395
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Black": 531,
+    "Black/Blue": 531,
+    "Blue": 487,
+    "Blue/White": 477,
+    "Burgundy": 440,
+    "Gold": 468,
+    "Gold/Burgundy": 468,
+    "White": 477,
+    "White/Gold": 477
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 216,
+    "Black/Blue": 174,
+    "Blue": 174,
+    "Blue/White": 174,
+    "Burgundy": 127,
+    "Gold": 154,
+    "Gold/Burgundy": 154,
+    "White": 162,
+    "White/Gold": 162
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 420,
+    "Black/Blue": 420,
+    "Blue": 379,
+    "Blue/White": 346,
+    "Burgundy": 308,
+    "Gold": 338,
+    "Gold/Burgundy": 308,
+    "White": 346,
+    "White/Gold": 338
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 362,
+    "Black/Blue": 362,
+    "Blue": 330,
+    "Blue/White": 311,
+    "Burgundy": 263,
+    "Gold": 286,
+    "Gold/Burgundy": 286,
+    "White": 311,
+    "White/Gold": 311
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Black": 570,
+    "Black/Blue": 536,
+    "Blue": 536,
+    "Blue/White": 536,
+    "Burgundy": 432,
+    "Gold": 458,
+    "Gold/Burgundy": 432,
+    "White": 470,
+    "White/Gold": 458
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 460,
+    "Black/Blue": 404,
+    "Blue": 404,
+    "Blue/White": 356,
+    "Burgundy": 315,
+    "Gold": 346,
+    "Gold/Burgundy": 315,
+    "White": 356,
+    "White/Gold": 346
+   }
+  }
+ ],
+ "id": "260fd709-4057-4b5e-9ebe-bd87ac4b4bdd",
+ "lat": 30.28135,
+ "lng": -85.9769765,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7199
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black/Blue",
+   "tee_key": "black-blue-male",
+   "tee_name": "Black/Blue",
+   "yardage": 6825
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6558
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue/White",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6318
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6117
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6117
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White/Gold",
+   "tee_key": "white-gold-female",
+   "tee_name": "White/Gold",
+   "yardage": 5981
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White/Gold",
+   "tee_key": "white-gold-male",
+   "tee_name": "White/Gold",
+   "yardage": 5981
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5711
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5711
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Gold/Burgundy",
+   "tee_key": "gold-burgundy-female",
+   "tee_name": "Gold/Burgundy",
+   "yardage": 5449
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold/Burgundy",
+   "tee_key": "gold-burgundy-male",
+   "tee_name": "Gold/Burgundy",
+   "yardage": 5449
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Burgundy",
+   "tee_key": "burgundy-female",
+   "tee_name": "Burgundy",
+   "yardage": 5149
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Burgundy",
+   "tee_key": "burgundy-male",
+   "tee_name": "Burgundy",
+   "yardage": 5149
+  }
+ ]
+}

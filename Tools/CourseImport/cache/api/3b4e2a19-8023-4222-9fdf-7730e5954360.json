@@ -1,0 +1,243 @@
+{
+ "city": "Winter Haven",
+ "club_name": "Lake Ashton Golf Club The East Course",
+ "course_name": "Lake Ashton Golf Club The East Course",
+ "dataset_name": "Lake Ashton Golf Club The East Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 330,
+    "gold": 391,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 146,
+    "gold": 176,
+    "white": 159
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 315,
+    "gold": 362,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 389,
+    "gold": 477,
+    "white": 421
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 231,
+    "gold": 290,
+    "white": 290
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 250,
+    "gold": 273,
+    "white": 257
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 195,
+    "gold": 268,
+    "white": 200
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 92,
+    "gold": 166,
+    "white": 92
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 270,
+    "gold": 301,
+    "white": 278
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 278,
+    "gold": 335,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 274,
+    "gold": 329,
+    "white": 298
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "blue": 400,
+    "gold": 511,
+    "white": 400
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 105,
+    "gold": 108,
+    "white": 108
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 198,
+    "gold": 284,
+    "white": 255
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 284,
+    "gold": 322,
+    "white": 316
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 270,
+    "gold": 355,
+    "white": 283
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 130,
+    "gold": 142,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 311,
+    "gold": 360,
+    "white": 345
+   }
+  }
+ ],
+ "id": "3b4e2a19-8023-4222-9fdf-7730e5954360",
+ "lat": 27.9504604,
+ "lng": -81.6607208,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6316
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5719
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "maroon-white-male",
+   "tee_name": "Maroon White",
+   "yardage": 5246
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "maroon-white-female",
+   "tee_name": "Maroon White",
+   "yardage": 5182
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "maroon-female",
+   "tee_name": "Maroon",
+   "yardage": 4501
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 3665
+  }
+ ]
+}

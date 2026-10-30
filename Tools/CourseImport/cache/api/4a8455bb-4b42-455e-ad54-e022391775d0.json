@@ -1,0 +1,313 @@
+{
+ "city": "Destin",
+ "club_name": "Emerald Bay Golf Club",
+ "course_name": "Emerald Bay Golf Club",
+ "dataset_name": "Emerald Bay Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "combo": 311,
+    "i": 427,
+    "ii": 405,
+    "iii": 376,
+    "iv": 311,
+    "v": 267
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "combo": 353,
+    "i": 424,
+    "ii": 390,
+    "iii": 378,
+    "iv": 353,
+    "v": 304
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "combo": 138,
+    "i": 164,
+    "ii": 150,
+    "iii": 138,
+    "iv": 115,
+    "v": 91
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "combo": 284,
+    "i": 313,
+    "ii": 296,
+    "iii": 284,
+    "iv": 264,
+    "v": 227
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "combo": 339,
+    "i": 399,
+    "ii": 385,
+    "iii": 365,
+    "iv": 339,
+    "v": 298
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "combo": 321,
+    "i": 430,
+    "ii": 410,
+    "iii": 380,
+    "iv": 321,
+    "v": 289
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "combo": 463,
+    "i": 562,
+    "ii": 554,
+    "iii": 515,
+    "iv": 463,
+    "v": 387
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "combo": 152,
+    "i": 232,
+    "ii": 162,
+    "iii": 152,
+    "iv": 140,
+    "v": 85
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "combo": 485,
+    "i": 529,
+    "ii": 505,
+    "iii": 485,
+    "iv": 418,
+    "v": 378
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "combo": 332,
+    "i": 474,
+    "ii": 455,
+    "iii": 395,
+    "iv": 332,
+    "v": 291
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "combo": 330,
+    "i": 362,
+    "ii": 348,
+    "iii": 330,
+    "iv": 302,
+    "v": 277
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "combo": 202,
+    "i": 246,
+    "ii": 215,
+    "iii": 202,
+    "iv": 181,
+    "v": 107
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "combo": 504,
+    "i": 605,
+    "ii": 580,
+    "iii": 555,
+    "iv": 504,
+    "v": 483
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "combo": 261,
+    "i": 372,
+    "ii": 352,
+    "iii": 325,
+    "iv": 261,
+    "v": 146
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "combo": 313,
+    "i": 449,
+    "ii": 409,
+    "iii": 382,
+    "iv": 313,
+    "v": 285
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "combo": 152,
+    "i": 204,
+    "ii": 178,
+    "iii": 152,
+    "iv": 128,
+    "v": 114
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "combo": 308,
+    "i": 331,
+    "ii": 318,
+    "iii": 308,
+    "iv": 290,
+    "v": 210
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "combo": 487,
+    "i": 527,
+    "ii": 508,
+    "iii": 487,
+    "iv": 446,
+    "v": 416
+   }
+  }
+ ],
+ "id": "4a8455bb-4b42-455e-ad54-e022391775d0",
+ "lat": 30.3916725,
+ "lng": -86.3990001,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 7050
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6620
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6209
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 5735
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5481
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5481
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 4655
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 4655
+  }
+ ]
+}

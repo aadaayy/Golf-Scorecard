@@ -1,0 +1,22 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Alico Family Golf Short Course",
+ "course_name": "Alico Family Golf Short Course",
+ "dataset_name": "Alico Family Golf Short Course",
+ "holes": 18,
+ "holes_data": [],
+ "id": "3bbbfd98-6ee5-48ef-807f-32152a5048c4",
+ "lat": 26.4970075,
+ "lng": -81.8146252,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "temporary-male",
+   "tee_name": "Temporary",
+   "yardage": 1800
+  }
+ ]
+}

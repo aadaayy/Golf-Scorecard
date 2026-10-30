@@ -1,0 +1,331 @@
+{
+ "city": "St. Augustine",
+ "club_name": "Golf Club At South Hampton",
+ "course_name": "Golf Club At South Hampton",
+ "dataset_name": "Golf Club At South Hampton",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 395,
+    "blue": 377,
+    "burgundy": 171,
+    "gold": 412,
+    "green": 300,
+    "web": 412,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 348,
+    "blue": 332,
+    "burgundy": 156,
+    "gold": 411,
+    "green": 231,
+    "web": 411,
+    "white": 297
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 167,
+    "blue": 145,
+    "burgundy": 67,
+    "gold": 183,
+    "green": 89,
+    "web": 183,
+    "white": 124
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 325,
+    "blue": 313,
+    "burgundy": 161,
+    "gold": 359,
+    "green": 255,
+    "web": 359,
+    "white": 265
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 385,
+    "blue": 375,
+    "burgundy": 183,
+    "gold": 426,
+    "green": 302,
+    "web": 426,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 505,
+    "blue": 489,
+    "burgundy": 196,
+    "gold": 555,
+    "green": 409,
+    "web": 555,
+    "white": 451
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 191,
+    "blue": 156,
+    "burgundy": 93,
+    "gold": 212,
+    "green": 122,
+    "web": 212,
+    "white": 144
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "blue": 374,
+    "burgundy": 149,
+    "gold": 439,
+    "green": 275,
+    "web": 439,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 505,
+    "blue": 470,
+    "burgundy": 192,
+    "gold": 556,
+    "green": 399,
+    "web": 556,
+    "white": 459
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "blue": 335,
+    "burgundy": 183,
+    "gold": 378,
+    "green": 264,
+    "web": 378,
+    "white": 303
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 365,
+    "blue": 358,
+    "burgundy": 152,
+    "gold": 401,
+    "green": 291,
+    "web": 401,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "blue": 121,
+    "burgundy": 63,
+    "gold": 181,
+    "green": 99,
+    "web": 181,
+    "white": 108
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 466,
+    "blue": 460,
+    "burgundy": 206,
+    "gold": 497,
+    "green": 370,
+    "web": 497,
+    "white": 426
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "blue": 379,
+    "burgundy": 161,
+    "gold": 440,
+    "green": 299,
+    "web": 440,
+    "white": 345
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 201,
+    "blue": 178,
+    "burgundy": 109,
+    "gold": 218,
+    "green": 138,
+    "web": 218,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "blue": 343,
+    "burgundy": 194,
+    "gold": 376,
+    "green": 236,
+    "web": 376,
+    "white": 278
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 526,
+    "blue": 491,
+    "burgundy": 234,
+    "gold": 571,
+    "green": 419,
+    "web": 571,
+    "white": 458
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "blue": 381,
+    "burgundy": 176,
+    "gold": 413,
+    "green": 288,
+    "web": 413,
+    "white": 295
+   }
+  }
+ ],
+ "id": "43c65e9b-54e1-41dc-8f0c-5cee9fe846e5",
+ "lat": 30.0465965,
+ "lng": -81.5471344,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7028
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6452
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6077
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5449
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5449
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4786
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4786
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "burgundy-male",
+   "tee_name": "Burgundy",
+   "yardage": 2846
+  }
+ ]
+}

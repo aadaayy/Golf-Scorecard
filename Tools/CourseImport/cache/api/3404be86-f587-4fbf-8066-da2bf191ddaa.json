@@ -1,0 +1,174 @@
+{
+ "city": "Stuart",
+ "club_name": "Ocean Club At The Hutchinson Island Beach Resort And Marina",
+ "course_name": "Ocean Club At The Hutchinson Island Beach Resort And Marina",
+ "dataset_name": "Ocean Club At The Hutchinson Island Beach Resort And Marina",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "blue": 139,
+    "red": 114
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 396,
+    "red": 333
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 162,
+    "red": 122
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 141,
+    "red": 95
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 194,
+    "red": 149
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 356,
+    "red": 305
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 136,
+    "red": 94
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 143,
+    "red": 117
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 499,
+    "red": 437
+   }
+  }
+ ],
+ "id": "3404be86-f587-4fbf-8066-da2bf191ddaa",
+ "lat": 27.2106539,
+ "lng": -80.1821334,
+ "par": 61,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 61,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 4048
+  },
+  {
+   "gender": "Male",
+   "par": 61,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3569
+  },
+  {
+   "gender": "Female",
+   "par": 61,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 3162
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "city": "Coral Springs",
+ "club_name": "Country Club Of Coral Springs",
+ "course_name": "Country Club Of Coral Springs",
+ "dataset_name": "Country Club Of Coral Springs",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 446,
+    "blue": 443,
+    "combo": 430,
+    "green": 426,
+    "red": 359,
+    "white": 430
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 180,
+    "blue": 171,
+    "combo": 171,
+    "green": 149,
+    "red": 130,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 543,
+    "blue": 514,
+    "combo": 495,
+    "green": 421,
+    "red": 415,
+    "white": 495
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 438,
+    "blue": 411,
+    "combo": 411,
+    "green": 371,
+    "red": 347,
+    "white": 402
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 354,
+    "blue": 339,
+    "combo": 328,
+    "green": 316,
+    "red": 304,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 465,
+    "blue": 459,
+    "combo": 459,
+    "green": 419,
+    "red": 407,
+    "white": 447
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 155,
+    "blue": 142,
+    "combo": 142,
+    "green": 123,
+    "red": 118,
+    "white": 128
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 393,
+    "blue": 381,
+    "combo": 365,
+    "green": 350,
+    "red": 335,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 189,
+    "blue": 155,
+    "combo": 131,
+    "green": 125,
+    "red": 98,
+    "white": 131
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 271,
+    "blue": 245,
+    "combo": 245,
+    "green": 219,
+    "red": 179,
+    "white": 224
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 205,
+    "blue": 176,
+    "combo": 152,
+    "green": 127,
+    "red": 122,
+    "white": 152
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 443,
+    "blue": 418,
+    "combo": 412,
+    "green": 393,
+    "red": 334,
+    "white": 412
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 407,
+    "blue": 393,
+    "combo": 375,
+    "green": 294,
+    "red": 260,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 541,
+    "blue": 535,
+    "combo": 535,
+    "green": 460,
+    "red": 421,
+    "white": 517
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 174,
+    "blue": 164,
+    "combo": 164,
+    "green": 148,
+    "red": 142,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 569,
+    "blue": 545,
+    "combo": 545,
+    "green": 473,
+    "red": 466,
+    "white": 534
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "blue": 369,
+    "combo": 369,
+    "green": 321,
+    "red": 317,
+    "white": 351
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 318,
+    "blue": 287,
+    "combo": 261,
+    "green": 250,
+    "red": 189,
+    "white": 261
+   }
+  }
+ ],
+ "id": "29ca44fc-52a7-43e8-a11d-042d4a805c85",
+ "lat": 26.2700801,
+ "lng": -80.2708805,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6505
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6147
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 5875
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5852
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5319
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5319
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4943
+  }
+ ]
+}

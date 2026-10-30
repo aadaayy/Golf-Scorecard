@@ -1,0 +1,252 @@
+{
+ "city": "The Villages",
+ "club_name": "Stirrup Cup Course At Glenview Champions Country Club",
+ "course_name": "Stirrup Cup Course At Glenview Champions Country Club",
+ "dataset_name": "Stirrup Cup Course At Glenview Champions Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "blue": 355,
+    "friendly": 200,
+    "geen": 275,
+    "gold": 368,
+    "white": 323
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 389,
+    "blue": 339,
+    "friendly": 184,
+    "geen": 274,
+    "gold": 370,
+    "white": 306
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 577,
+    "blue": 508,
+    "friendly": 340,
+    "geen": 440,
+    "gold": 566,
+    "white": 471
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 178,
+    "blue": 152,
+    "friendly": 103,
+    "geen": 106,
+    "gold": 165,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 394,
+    "blue": 344,
+    "friendly": 275,
+    "geen": 279,
+    "gold": 365,
+    "white": 297
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "blue": 357,
+    "friendly": 214,
+    "geen": 286,
+    "gold": 372,
+    "white": 314
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 601,
+    "blue": 525,
+    "friendly": 306,
+    "geen": 469,
+    "gold": 583,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 216,
+    "blue": 168,
+    "friendly": 108,
+    "geen": 111,
+    "gold": 191,
+    "white": 141
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 428,
+    "blue": 392,
+    "friendly": 183,
+    "geen": 315,
+    "gold": 411,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "32735178-0329-47ad-bd42-edd3652a4d0c",
+ "lat": 28.9493285,
+ "lng": -82.0067922,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3567
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 3391
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3140
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2828
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "geen-male",
+   "tee_name": "Geen",
+   "yardage": 2555
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 1913
+  }
+ ]
+}

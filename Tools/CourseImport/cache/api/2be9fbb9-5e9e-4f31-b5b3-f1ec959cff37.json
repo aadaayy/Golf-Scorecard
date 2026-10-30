@@ -1,0 +1,305 @@
+{
+ "city": "Lakewood Ranch",
+ "club_name": "Lakewood National Golf Club Commander Course",
+ "course_name": "Lakewood National Golf Club Commander Course",
+ "dataset_name": "Lakewood National Golf Club Commander Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "arnold": 529,
+    "friendly": 475,
+    "king": 550,
+    "national": 506,
+    "palmer": 491,
+    "winnie": 439
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "arnold": 349,
+    "friendly": 282,
+    "king": 362,
+    "national": 328,
+    "palmer": 299,
+    "winnie": 262
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "arnold": 449,
+    "friendly": 390,
+    "king": 470,
+    "national": 424,
+    "palmer": 401,
+    "winnie": 339
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "arnold": 178,
+    "friendly": 123,
+    "king": 185,
+    "national": 159,
+    "palmer": 137,
+    "winnie": 114
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "arnold": 545,
+    "friendly": 463,
+    "king": 570,
+    "national": 511,
+    "palmer": 488,
+    "winnie": 419
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "arnold": 140,
+    "friendly": 110,
+    "king": 163,
+    "national": 124,
+    "palmer": 116,
+    "winnie": 103
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "arnold": 547,
+    "friendly": 480,
+    "king": 563,
+    "national": 515,
+    "palmer": 495,
+    "winnie": 467
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "arnold": 203,
+    "friendly": 155,
+    "king": 215,
+    "national": 186,
+    "palmer": 168,
+    "winnie": 125
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "arnold": 434,
+    "friendly": 359,
+    "king": 473,
+    "national": 419,
+    "palmer": 388,
+    "winnie": 332
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "arnold": 416,
+    "friendly": 358,
+    "king": 448,
+    "national": 393,
+    "palmer": 373,
+    "winnie": 336
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "arnold": 464,
+    "friendly": 400,
+    "king": 491,
+    "national": 439,
+    "palmer": 419,
+    "winnie": 341
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "arnold": 223,
+    "friendly": 157,
+    "king": 253,
+    "national": 207,
+    "palmer": 177,
+    "winnie": 147
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "arnold": 298,
+    "friendly": 234,
+    "king": 318,
+    "national": 283,
+    "palmer": 260,
+    "winnie": 214
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "arnold": 388,
+    "friendly": 335,
+    "king": 400,
+    "national": 375,
+    "palmer": 358,
+    "winnie": 325
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "arnold": 532,
+    "friendly": 479,
+    "king": 563,
+    "national": 515,
+    "palmer": 498,
+    "winnie": 464
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "arnold": 129,
+    "friendly": 88,
+    "king": 155,
+    "national": 122,
+    "palmer": 107,
+    "winnie": 70
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "arnold": 398,
+    "friendly": 284,
+    "king": 421,
+    "national": 322,
+    "palmer": 298,
+    "winnie": 268
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "arnold": 559,
+    "friendly": 513,
+    "king": 581,
+    "national": 546,
+    "palmer": 523,
+    "winnie": 435
+   }
+  }
+ ],
+ "id": "2be9fbb9-5e9e-4f31-b5b3-f1ec959cff37",
+ "lat": 27.4371366,
+ "lng": -82.3706811,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "king-male",
+   "tee_name": "King",
+   "yardage": 7184
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "arnold-male",
+   "tee_name": "Arnold",
+   "yardage": 6791
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "national-male",
+   "tee_name": "National",
+   "yardage": 6374
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "palmer-male",
+   "tee_name": "Palmer",
+   "yardage": 5988
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 5685
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 5685
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "winnie-male",
+   "tee_name": "Winnie",
+   "yardage": 5194
+  }
+ ]
+}

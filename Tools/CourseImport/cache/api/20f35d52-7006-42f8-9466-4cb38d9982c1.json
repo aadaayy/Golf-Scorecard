@@ -1,0 +1,269 @@
+{
+ "city": "Brooksville",
+ "club_name": "Cabot Citrus Farms The Roost Course",
+ "course_name": "Cabot Citrus Farms The Roost Course",
+ "dataset_name": "Cabot Citrus Farms The Roost Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 430,
+    "green": 420,
+    "silver": 292,
+    "tangerine": 377
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 210,
+    "green": 190,
+    "silver": 140,
+    "tangerine": 175
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 601,
+    "green": 542,
+    "silver": 437,
+    "tangerine": 513
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 420,
+    "green": 387,
+    "silver": 290,
+    "tangerine": 379
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 460,
+    "green": 440,
+    "silver": 345,
+    "tangerine": 415
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 330,
+    "green": 308,
+    "silver": 248,
+    "tangerine": 290
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 418,
+    "green": 388,
+    "silver": 351,
+    "tangerine": 373
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 231,
+    "green": 206,
+    "silver": 150,
+    "tangerine": 197
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 585,
+    "green": 540,
+    "silver": 390,
+    "tangerine": 473
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 371,
+    "green": 332,
+    "silver": 315,
+    "tangerine": 321
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 616,
+    "green": 568,
+    "silver": 415,
+    "tangerine": 515
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 537,
+    "green": 467,
+    "silver": 406,
+    "tangerine": 430
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 478,
+    "green": 429,
+    "silver": 334,
+    "tangerine": 398
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 165,
+    "green": 149,
+    "silver": 80,
+    "tangerine": 128
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 437,
+    "green": 383,
+    "silver": 319,
+    "tangerine": 360
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 510,
+    "green": 494,
+    "silver": 420,
+    "tangerine": 464
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 206,
+    "green": 178,
+    "silver": 120,
+    "tangerine": 171
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 538,
+    "green": 510,
+    "silver": 370,
+    "tangerine": 440
+   }
+  }
+ ],
+ "id": "20f35d52-7006-42f8-9466-4cb38d9982c1",
+ "lat": 28.6833699,
+ "lng": -82.4799318,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7333
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6873
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tangerine-male",
+   "tee_name": "Tangerine",
+   "yardage": 6438
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5943
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5943
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "royal-blue-male",
+   "tee_name": "Royal Blue",
+   "yardage": 5011
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "royal-blue-female",
+   "tee_name": "Royal Blue",
+   "yardage": 5011
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "city": "Nassauville",
+ "club_name": "Amelia National Golf And Country Club",
+ "course_name": "Amelia National Golf And Country Club",
+ "dataset_name": "Amelia National Golf And Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 411,
+    "blue": 383,
+    "gold": 390,
+    "red": 317,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 367,
+    "blue": 347,
+    "gold": 356,
+    "red": 288,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 177,
+    "blue": 155,
+    "gold": 165,
+    "red": 117,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 423,
+    "blue": 393,
+    "gold": 398,
+    "red": 319,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 403,
+    "blue": 369,
+    "gold": 393,
+    "red": 301,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 201,
+    "blue": 173,
+    "gold": 192,
+    "red": 96,
+    "white": 148
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 574,
+    "blue": 468,
+    "gold": 561,
+    "red": 440,
+    "white": 463
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 445,
+    "blue": 410,
+    "gold": 434,
+    "red": 345,
+    "white": 387
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 547,
+    "blue": 504,
+    "gold": 514,
+    "red": 400,
+    "white": 450
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 383,
+    "blue": 343,
+    "gold": 353,
+    "red": 287,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 603,
+    "blue": 538,
+    "gold": 560,
+    "red": 456,
+    "white": 501
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 233,
+    "blue": 185,
+    "gold": 215,
+    "red": 155,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 424,
+    "blue": 368,
+    "gold": 407,
+    "red": 299,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 465,
+    "blue": 397,
+    "gold": 428,
+    "red": 344,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 533,
+    "blue": 475,
+    "gold": 520,
+    "red": 373,
+    "white": 428
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 335,
+    "blue": 315,
+    "gold": 325,
+    "red": 191,
+    "white": 302
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 132,
+    "blue": 121,
+    "gold": 128,
+    "red": 94,
+    "white": 103
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 457,
+    "blue": 422,
+    "gold": 439,
+    "red": 354,
+    "white": 402
+   }
+  }
+ ],
+ "id": "0122f028-908a-4667-a72c-445fe5981e74",
+ "lat": 30.6006301,
+ "lng": -81.5399491,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7166
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6846
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6440
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5947
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5198
+  }
+ ]
+}

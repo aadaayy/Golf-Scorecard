@@ -1,0 +1,195 @@
+{
+ "city": "Delray Beach",
+ "club_name": "Kings Point Executive Course",
+ "course_name": "Kings Point Executive Course",
+ "dataset_name": "Kings Point Executive Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 154,
+    "red": 63,
+    "white": 151,
+    "yellow": 157
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 168,
+    "red": 137,
+    "white": 146,
+    "yellow": 179
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 144,
+    "red": 117,
+    "white": 127,
+    "yellow": 181
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 322,
+    "red": 293,
+    "white": 310,
+    "yellow": 348
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 143,
+    "red": 111,
+    "white": 133,
+    "yellow": 151
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 115,
+    "red": 81,
+    "white": 104,
+    "yellow": 122
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 309,
+    "red": 197,
+    "white": 267,
+    "yellow": 331
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "blue": 112,
+    "red": 74,
+    "white": 102,
+    "yellow": 123
+   }
+  }
+ ],
+ "id": "52fe36e5-ece5-485b-9473-b12cb4884c9c",
+ "lat": 26.4434978,
+ "lng": -80.1385236,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 3756
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3609
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3390
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 2809
+  }
+ ]
+}

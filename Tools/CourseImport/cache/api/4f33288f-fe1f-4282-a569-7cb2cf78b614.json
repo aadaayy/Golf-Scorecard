@@ -1,0 +1,329 @@
+{
+ "city": "Lady Lake",
+ "club_name": "Virginia Amelia At Mallory Hill Golf Course",
+ "course_name": "Virginia Amelia At Mallory Hill Golf Course",
+ "dataset_name": "Virginia Amelia At Mallory Hill Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 363,
+    "Blue": 295,
+    "Friendly": 168,
+    "Gold": 328,
+    "Green": 251,
+    "White": 285
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 496,
+    "Blue": 392,
+    "Friendly": 223,
+    "Gold": 440,
+    "Green": 331,
+    "White": 372
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 368,
+    "Blue": 314,
+    "Friendly": 204,
+    "Gold": 335,
+    "Green": 257,
+    "White": 293
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 380,
+    "Blue": 303,
+    "Friendly": 201,
+    "Gold": 364,
+    "Green": 216,
+    "White": 240
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 200,
+    "Blue": 148,
+    "Friendly": 89,
+    "Gold": 181,
+    "Green": 89,
+    "White": 127
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Black": 585,
+    "Blue": 523,
+    "Friendly": 320,
+    "Gold": 538,
+    "Green": 444,
+    "White": 477
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 190,
+    "Blue": 153,
+    "Friendly": 71,
+    "Gold": 175,
+    "Green": 71,
+    "White": 109
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Black": 529,
+    "Blue": 486,
+    "Friendly": 320,
+    "Gold": 497,
+    "Green": 397,
+    "White": 461
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 440,
+    "Blue": 365,
+    "Friendly": 202,
+    "Gold": 407,
+    "Green": 303,
+    "White": 351
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 402,
+    "Blue": 353,
+    "Friendly": 181,
+    "Gold": 376,
+    "Green": 286,
+    "White": 324
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Black": 524,
+    "Blue": 446,
+    "Friendly": 312,
+    "Gold": 480,
+    "Green": 382,
+    "White": 416
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 168,
+    "Blue": 129,
+    "Friendly": 91,
+    "Gold": 145,
+    "Green": 91,
+    "White": 123
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 351,
+    "Blue": 283,
+    "Friendly": 211,
+    "Gold": 313,
+    "Green": 211,
+    "White": 261
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 442,
+    "Blue": 369,
+    "Friendly": 190,
+    "Gold": 401,
+    "Green": 300,
+    "White": 342
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 547,
+    "Blue": 481,
+    "Friendly": 290,
+    "Gold": 513,
+    "Green": 401,
+    "White": 447
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 377,
+    "Blue": 333,
+    "Friendly": 205,
+    "Gold": 355,
+    "Green": 246,
+    "White": 306
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 178,
+    "Blue": 125,
+    "Friendly": 75,
+    "Gold": 150,
+    "Green": 75,
+    "White": 100
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 416,
+    "Blue": 356,
+    "Friendly": 200,
+    "Gold": 392,
+    "Green": 272,
+    "White": 327
+   }
+  }
+ ],
+ "id": "4f33288f-fe1f-4282-a569-7cb2cf78b614",
+ "lat": 28.8952781,
+ "lng": -81.9675856,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6956
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6390
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5854
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5854
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5361
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5361
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4623
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4623
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3553
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 3553
+  }
+ ]
+}

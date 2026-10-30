@@ -1,0 +1,313 @@
+{
+ "city": "Windermere",
+ "club_name": "Isleworth Country Club",
+ "course_name": "Isleworth Country Club",
+ "dataset_name": "Isleworth Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "chase": 334,
+    "deacon": 298,
+    "isleworth": 264,
+    "lewis": 366,
+    "palmer": 386,
+    "tiger": 396
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "chase": 160,
+    "deacon": 139,
+    "isleworth": 119,
+    "lewis": 196,
+    "palmer": 228,
+    "tiger": 260
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "chase": 490,
+    "deacon": 423,
+    "isleworth": 394,
+    "lewis": 524,
+    "palmer": 568,
+    "tiger": 610
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "chase": 366,
+    "deacon": 331,
+    "isleworth": 305,
+    "lewis": 416,
+    "palmer": 462,
+    "tiger": 473
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "chase": 180,
+    "deacon": 166,
+    "isleworth": 114,
+    "lewis": 206,
+    "palmer": 226,
+    "tiger": 231
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "chase": 327,
+    "deacon": 271,
+    "isleworth": 243,
+    "lewis": 340,
+    "palmer": 372,
+    "tiger": 402
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "chase": 480,
+    "deacon": 439,
+    "isleworth": 410,
+    "lewis": 516,
+    "palmer": 527,
+    "tiger": 557
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "chase": 374,
+    "deacon": 289,
+    "isleworth": 281,
+    "lewis": 404,
+    "palmer": 425,
+    "tiger": 456
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "chase": 362,
+    "deacon": 332,
+    "isleworth": 275,
+    "lewis": 400,
+    "palmer": 420,
+    "tiger": 434
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "chase": 344,
+    "deacon": 282,
+    "isleworth": 250,
+    "lewis": 364,
+    "palmer": 386,
+    "tiger": 394
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "chase": 122,
+    "deacon": 110,
+    "isleworth": 84,
+    "lewis": 148,
+    "palmer": 170,
+    "tiger": 178
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "chase": 355,
+    "deacon": 290,
+    "isleworth": 273,
+    "lewis": 387,
+    "palmer": 421,
+    "tiger": 453
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "chase": 518,
+    "deacon": 485,
+    "isleworth": 352,
+    "lewis": 524,
+    "palmer": 537,
+    "tiger": 560
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "chase": 359,
+    "deacon": 332,
+    "isleworth": 301,
+    "lewis": 374,
+    "palmer": 390,
+    "tiger": 457
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "chase": 164,
+    "deacon": 129,
+    "isleworth": 105,
+    "lewis": 180,
+    "palmer": 187,
+    "tiger": 221
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "chase": 290,
+    "deacon": 254,
+    "isleworth": 225,
+    "lewis": 322,
+    "palmer": 336,
+    "tiger": 393
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "chase": 514,
+    "deacon": 426,
+    "isleworth": 374,
+    "lewis": 529,
+    "palmer": 549,
+    "tiger": 586
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "chase": 390,
+    "deacon": 381,
+    "isleworth": 349,
+    "lewis": 424,
+    "palmer": 488,
+    "tiger": 516
+   }
+  }
+ ],
+ "id": "2c240366-33b1-4a61-9872-8c2483118b2b",
+ "lat": 28.4776397,
+ "lng": -81.5274998,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tiger-male",
+   "tee_name": "Tiger",
+   "yardage": 7544
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "palmer-male",
+   "tee_name": "Palmer",
+   "yardage": 7069
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "lewis-male",
+   "tee_name": "Lewis",
+   "yardage": 6765
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "chase-male",
+   "tee_name": "Chase",
+   "yardage": 6409
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "deacon-male",
+   "tee_name": "Deacon",
+   "yardage": 5774
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "deacon-female",
+   "tee_name": "Deacon",
+   "yardage": 5747
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "isleworth-female",
+   "tee_name": "Isleworth",
+   "yardage": 5052
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "isleworth-male",
+   "tee_name": "Isleworth",
+   "yardage": 5052
+  }
+ ]
+}

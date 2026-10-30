@@ -1,0 +1,925 @@
+{
+ "city": "Port Saint Lucie",
+ "club_name": "St Lucie Trail Golf Club",
+ "course_name": "St Lucie Trail Golf Club",
+ "dataset_name": "St Lucie Trail Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Forward M": 412,
+    "Forward W": 412,
+    "Forward/Short M": 412,
+    "Forward/Short W": 412,
+    "Medal M": 515,
+    "Medal/Tournament M": 515,
+    "Middle M": 452,
+    "Middle W": 452,
+    "Middle/Forward M": 452,
+    "Middle/Forward W": 452,
+    "Short M": 265,
+    "Short W": 265,
+    "Standard M": 475,
+    "Standard W": 475,
+    "Standard/Middle M": 475,
+    "Standard/Middle W": 475,
+    "Tournament M": 500,
+    "Tournament W": 500,
+    "Tournament/Standard M": 500,
+    "Tournament/Standard W": 500
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Forward M": 117,
+    "Forward W": 117,
+    "Forward/Short M": 115,
+    "Forward/Short W": 115,
+    "Medal M": 220,
+    "Medal/Tournament M": 188,
+    "Middle M": 147,
+    "Middle W": 147,
+    "Middle/Forward M": 117,
+    "Middle/Forward W": 117,
+    "Short M": 115,
+    "Short W": 115,
+    "Standard M": 172,
+    "Standard W": 172,
+    "Standard/Middle M": 147,
+    "Standard/Middle W": 147,
+    "Tournament M": 188,
+    "Tournament W": 188,
+    "Tournament/Standard M": 172,
+    "Tournament/Standard W": 172
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Forward M": 282,
+    "Forward W": 282,
+    "Forward/Short M": 282,
+    "Forward/Short W": 282,
+    "Medal M": 458,
+    "Medal/Tournament M": 389,
+    "Middle M": 321,
+    "Middle W": 321,
+    "Middle/Forward M": 321,
+    "Middle/Forward W": 321,
+    "Short M": 220,
+    "Short W": 220,
+    "Standard M": 359,
+    "Standard W": 359,
+    "Standard/Middle M": 359,
+    "Standard/Middle W": 359,
+    "Tournament M": 389,
+    "Tournament W": 389,
+    "Tournament/Standard M": 359,
+    "Tournament/Standard W": 359
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Forward M": 290,
+    "Forward W": 290,
+    "Forward/Short M": 290,
+    "Forward/Short W": 290,
+    "Medal M": 374,
+    "Medal/Tournament M": 374,
+    "Middle M": 302,
+    "Middle W": 302,
+    "Middle/Forward M": 302,
+    "Middle/Forward W": 302,
+    "Short M": 225,
+    "Short W": 225,
+    "Standard M": 320,
+    "Standard W": 320,
+    "Standard/Middle M": 320,
+    "Standard/Middle W": 320,
+    "Tournament M": 350,
+    "Tournament W": 350,
+    "Tournament/Standard M": 350,
+    "Tournament/Standard W": 350
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Forward M": 280,
+    "Forward W": 280,
+    "Forward/Short M": 195,
+    "Forward/Short W": 195,
+    "Medal M": 415,
+    "Medal/Tournament M": 390,
+    "Middle M": 325,
+    "Middle W": 325,
+    "Middle/Forward M": 280,
+    "Middle/Forward W": 280,
+    "Short M": 195,
+    "Short W": 195,
+    "Standard M": 370,
+    "Standard W": 370,
+    "Standard/Middle M": 325,
+    "Standard/Middle W": 325,
+    "Tournament M": 390,
+    "Tournament W": 390,
+    "Tournament/Standard M": 370,
+    "Tournament/Standard W": 370
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Forward M": 316,
+    "Forward W": 316,
+    "Forward/Short M": 210,
+    "Forward/Short W": 210,
+    "Medal M": 418,
+    "Medal/Tournament M": 408,
+    "Middle M": 355,
+    "Middle W": 355,
+    "Middle/Forward M": 316,
+    "Middle/Forward W": 316,
+    "Short M": 210,
+    "Short W": 210,
+    "Standard M": 370,
+    "Standard W": 370,
+    "Standard/Middle M": 355,
+    "Standard/Middle W": 355,
+    "Tournament M": 408,
+    "Tournament W": 408,
+    "Tournament/Standard M": 370,
+    "Tournament/Standard W": 370
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Forward M": 127,
+    "Forward W": 127,
+    "Forward/Short M": 90,
+    "Forward/Short W": 90,
+    "Medal M": 197,
+    "Medal/Tournament M": 187,
+    "Middle M": 158,
+    "Middle W": 158,
+    "Middle/Forward M": 127,
+    "Middle/Forward W": 127,
+    "Short M": 90,
+    "Short W": 90,
+    "Standard M": 166,
+    "Standard W": 166,
+    "Standard/Middle M": 158,
+    "Standard/Middle W": 158,
+    "Tournament M": 187,
+    "Tournament W": 187,
+    "Tournament/Standard M": 166,
+    "Tournament/Standard W": 166
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Forward M": 395,
+    "Forward W": 395,
+    "Forward/Short M": 395,
+    "Forward/Short W": 395,
+    "Medal M": 510,
+    "Medal/Tournament M": 510,
+    "Middle M": 428,
+    "Middle W": 428,
+    "Middle/Forward M": 428,
+    "Middle/Forward W": 428,
+    "Short M": 280,
+    "Short W": 280,
+    "Standard M": 438,
+    "Standard W": 438,
+    "Standard/Middle M": 438,
+    "Standard/Middle W": 438,
+    "Tournament M": 491,
+    "Tournament W": 491,
+    "Tournament/Standard M": 491,
+    "Tournament/Standard W": 491
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Forward M": 289,
+    "Forward W": 289,
+    "Forward/Short M": 200,
+    "Forward/Short W": 200,
+    "Medal M": 407,
+    "Medal/Tournament M": 407,
+    "Middle M": 355,
+    "Middle W": 355,
+    "Middle/Forward M": 289,
+    "Middle/Forward W": 289,
+    "Short M": 200,
+    "Short W": 200,
+    "Standard M": 368,
+    "Standard W": 368,
+    "Standard/Middle M": 355,
+    "Standard/Middle W": 355,
+    "Tournament M": 389,
+    "Tournament W": 389,
+    "Tournament/Standard M": 368,
+    "Tournament/Standard W": 368
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Forward M": 279,
+    "Forward W": 279,
+    "Forward/Short M": 279,
+    "Forward/Short W": 279,
+    "Medal M": 384,
+    "Medal/Tournament M": 384,
+    "Middle M": 325,
+    "Middle W": 325,
+    "Middle/Forward M": 325,
+    "Middle/Forward W": 325,
+    "Short M": 220,
+    "Short W": 220,
+    "Standard M": 330,
+    "Standard W": 330,
+    "Standard/Middle M": 330,
+    "Standard/Middle W": 330,
+    "Tournament M": 349,
+    "Tournament W": 349,
+    "Tournament/Standard M": 349,
+    "Tournament/Standard W": 349
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Forward M": 412,
+    "Forward W": 412,
+    "Forward/Short M": 260,
+    "Forward/Short W": 260,
+    "Medal M": 549,
+    "Medal/Tournament M": 534,
+    "Middle M": 460,
+    "Middle W": 460,
+    "Middle/Forward M": 412,
+    "Middle/Forward W": 412,
+    "Short M": 260,
+    "Short W": 260,
+    "Standard M": 501,
+    "Standard W": 501,
+    "Standard/Middle M": 460,
+    "Standard/Middle W": 460,
+    "Tournament M": 534,
+    "Tournament W": 534,
+    "Tournament/Standard M": 501,
+    "Tournament/Standard W": 501
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Forward M": 123,
+    "Forward W": 123,
+    "Forward/Short M": 123,
+    "Forward/Short W": 123,
+    "Medal M": 176,
+    "Medal/Tournament M": 176,
+    "Middle M": 140,
+    "Middle W": 140,
+    "Middle/Forward M": 140,
+    "Middle/Forward W": 140,
+    "Short M": 105,
+    "Short W": 105,
+    "Standard M": 154,
+    "Standard W": 154,
+    "Standard/Middle M": 154,
+    "Standard/Middle W": 154,
+    "Tournament M": 165,
+    "Tournament W": 165,
+    "Tournament/Standard M": 165,
+    "Tournament/Standard W": 165
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Forward M": 320,
+    "Forward W": 320,
+    "Forward/Short M": 320,
+    "Forward/Short W": 320,
+    "Medal M": 409,
+    "Medal/Tournament M": 409,
+    "Middle M": 330,
+    "Middle W": 330,
+    "Middle/Forward M": 330,
+    "Middle/Forward W": 330,
+    "Short M": 210,
+    "Short W": 210,
+    "Standard M": 341,
+    "Standard W": 341,
+    "Standard/Middle M": 341,
+    "Standard/Middle W": 341,
+    "Tournament M": 389,
+    "Tournament W": 389,
+    "Tournament/Standard M": 389,
+    "Tournament/Standard W": 389
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Forward M": 273,
+    "Forward W": 273,
+    "Forward/Short M": 273,
+    "Forward/Short W": 273,
+    "Medal M": 368,
+    "Medal/Tournament M": 368,
+    "Middle M": 305,
+    "Middle W": 305,
+    "Middle/Forward M": 305,
+    "Middle/Forward W": 305,
+    "Short M": 230,
+    "Short W": 230,
+    "Standard M": 320,
+    "Standard W": 320,
+    "Standard/Middle M": 320,
+    "Standard/Middle W": 320,
+    "Tournament M": 332,
+    "Tournament W": 332,
+    "Tournament/Standard M": 332,
+    "Tournament/Standard W": 332
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Forward M": 333,
+    "Forward W": 333,
+    "Forward/Short M": 215,
+    "Forward/Short W": 215,
+    "Medal M": 425,
+    "Medal/Tournament M": 395,
+    "Middle M": 346,
+    "Middle W": 346,
+    "Middle/Forward M": 333,
+    "Middle/Forward W": 333,
+    "Short M": 215,
+    "Short W": 215,
+    "Standard M": 354,
+    "Standard W": 354,
+    "Standard/Middle M": 346,
+    "Standard/Middle W": 346,
+    "Tournament M": 395,
+    "Tournament W": 395,
+    "Tournament/Standard M": 354,
+    "Tournament/Standard W": 354
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Forward M": 238,
+    "Forward W": 238,
+    "Forward/Short M": 238,
+    "Forward/Short W": 238,
+    "Medal M": 342,
+    "Medal/Tournament M": 342,
+    "Middle M": 276,
+    "Middle W": 276,
+    "Middle/Forward M": 276,
+    "Middle/Forward W": 276,
+    "Short M": 215,
+    "Short W": 215,
+    "Standard M": 295,
+    "Standard W": 295,
+    "Standard/Middle M": 295,
+    "Standard/Middle W": 295,
+    "Tournament M": 325,
+    "Tournament W": 325,
+    "Tournament/Standard M": 325,
+    "Tournament/Standard W": 325
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Forward M": 111,
+    "Forward W": 111,
+    "Forward/Short M": 111,
+    "Forward/Short W": 111,
+    "Medal M": 184,
+    "Medal/Tournament M": 154,
+    "Middle M": 123,
+    "Middle W": 123,
+    "Middle/Forward M": 123,
+    "Middle/Forward W": 123,
+    "Short M": 109,
+    "Short W": 109,
+    "Standard M": 140,
+    "Standard W": 140,
+    "Standard/Middle M": 140,
+    "Standard/Middle W": 140,
+    "Tournament M": 154,
+    "Tournament W": 154,
+    "Tournament/Standard M": 154,
+    "Tournament/Standard W": 154
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Forward M": 415,
+    "Forward W": 415,
+    "Forward/Short M": 275,
+    "Forward/Short W": 275,
+    "Medal M": 550,
+    "Medal/Tournament M": 535,
+    "Middle M": 460,
+    "Middle W": 460,
+    "Middle/Forward M": 415,
+    "Middle/Forward W": 415,
+    "Short M": 275,
+    "Short W": 275,
+    "Standard M": 473,
+    "Standard W": 473,
+    "Standard/Middle M": 460,
+    "Standard/Middle W": 460,
+    "Tournament M": 535,
+    "Tournament W": 535,
+    "Tournament/Standard M": 473,
+    "Tournament/Standard W": 473
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 24,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 25,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 26,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 27,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 28,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 29,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 30,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 31,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 32,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 33,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 34,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 35,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 36,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 37,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 38,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 39,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 40,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 41,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 42,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 43,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 44,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 45,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 46,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 47,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 48,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 49,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 50,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 51,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 52,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 53,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 54,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 55,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 56,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 57,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 58,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 59,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 60,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 61,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 62,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "24ec4ab6-023c-452d-9d9e-e6b4414c10f8",
+ "lat": 27.3095779,
+ "lng": -80.3940349,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-m-male",
+   "tee_name": "Medal M",
+   "yardage": 6901
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-tournament-m-male",
+   "tee_name": "Medal/Tournament M",
+   "yardage": 6665
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-m-male",
+   "tee_name": "Tournament M",
+   "yardage": 6470
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-w-female",
+   "tee_name": "Tournament W",
+   "yardage": 6470
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-standard-w-female",
+   "tee_name": "Tournament/Standard W",
+   "yardage": 6188
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-standard-m-male",
+   "tee_name": "Tournament/Standard M",
+   "yardage": 6188
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-w-female",
+   "tee_name": "Standard W",
+   "yardage": 5946
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-m-male",
+   "tee_name": "Standard M",
+   "yardage": 5946
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-middle-w-female",
+   "tee_name": "Standard/Middle W",
+   "yardage": 5778
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-middle-m-male",
+   "tee_name": "Standard/Middle M",
+   "yardage": 5778
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-m-male",
+   "tee_name": "Middle M",
+   "yardage": 5608
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-w-female",
+   "tee_name": "Middle W",
+   "yardage": 5608
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-forward-m-male",
+   "tee_name": "Middle/Forward M",
+   "yardage": 5291
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-forward-w-female",
+   "tee_name": "Middle/Forward W",
+   "yardage": 5291
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-m-male",
+   "tee_name": "Forward M",
+   "yardage": 5012
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-w-female",
+   "tee_name": "Forward W",
+   "yardage": 5012
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-short-w-female",
+   "tee_name": "Forward/Short W",
+   "yardage": 4283
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-short-m-male",
+   "tee_name": "Forward/Short M",
+   "yardage": 4283
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "short-m-male",
+   "tee_name": "Short M",
+   "yardage": 3639
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "short-w-female",
+   "tee_name": "Short W",
+   "yardage": 3639
+  }
+ ]
+}

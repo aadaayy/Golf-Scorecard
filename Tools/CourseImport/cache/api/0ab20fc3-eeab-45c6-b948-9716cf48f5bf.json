@@ -1,0 +1,253 @@
+{
+ "city": "Navarre",
+ "club_name": "Club At Hidden Creek The",
+ "course_name": "Club At Hidden Creek The",
+ "dataset_name": "Club At Hidden Creek The",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black/champ": 355,
+    "coral": 230,
+    "gold": 307,
+    "white": 285
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black/champ": 549,
+    "coral": 438,
+    "gold": 508,
+    "white": 469
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black/champ": 371,
+    "coral": 228,
+    "gold": 338,
+    "white": 297
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black/champ": 170,
+    "coral": 115,
+    "gold": 147,
+    "white": 125
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black/champ": 432,
+    "coral": 336,
+    "gold": 397,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black/champ": 394,
+    "coral": 250,
+    "gold": 361,
+    "white": 324
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black/champ": 205,
+    "coral": 126,
+    "gold": 190,
+    "white": 176
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black/champ": 551,
+    "coral": 407,
+    "gold": 515,
+    "white": 490
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black/champ": 399,
+    "coral": 287,
+    "gold": 366,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black/champ": 373,
+    "coral": 281,
+    "gold": 366,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black/champ": 370,
+    "coral": 273,
+    "gold": 357,
+    "white": 319
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black/champ": 535,
+    "coral": 432,
+    "gold": 503,
+    "white": 467
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black/champ": 185,
+    "coral": 106,
+    "gold": 172,
+    "white": 164
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black/champ": 435,
+    "coral": 296,
+    "gold": 406,
+    "white": 371
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black/champ": 566,
+    "coral": 391,
+    "gold": 538,
+    "white": 509
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black/champ": 410,
+    "coral": 297,
+    "gold": 367,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black/champ": 162,
+    "coral": 78,
+    "gold": 150,
+    "white": 143
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black/champ": 361,
+    "coral": 260,
+    "gold": 321,
+    "white": 291
+   }
+  }
+ ],
+ "id": "0ab20fc3-eeab-45c6-b948-9716cf48f5bf",
+ "lat": 30.437728,
+ "lng": -86.9244505,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-champ-male",
+   "tee_name": "Black/Champ",
+   "yardage": 6805
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6295
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5722
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5722
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "coral-female",
+   "tee_name": "Coral",
+   "yardage": 4831
+  }
+ ]
+}

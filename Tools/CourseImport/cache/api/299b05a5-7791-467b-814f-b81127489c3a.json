@@ -1,0 +1,22 @@
+{
+ "city": "Tavares",
+ "club_name": "Fishermans Cove Golf Marina",
+ "course_name": "Fishermans Cove Golf Marina",
+ "dataset_name": "Fishermans Cove Golf Marina",
+ "holes": 18,
+ "holes_data": [],
+ "id": "299b05a5-7791-467b-814f-b81127489c3a",
+ "lat": 28.7645683,
+ "lng": -81.7549591,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 803
+  }
+ ]
+}

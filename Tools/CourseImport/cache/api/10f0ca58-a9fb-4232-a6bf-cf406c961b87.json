@@ -1,0 +1,261 @@
+{
+ "city": "Wellington",
+ "club_name": "Wellington National Golf Club",
+ "course_name": "Wellington National Golf Club",
+ "dataset_name": "Wellington National Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 355,
+    "blue": 342,
+    "green": 284,
+    "white": 312
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 555,
+    "blue": 518,
+    "green": 453,
+    "white": 490
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 211,
+    "blue": 173,
+    "green": 105,
+    "white": 140
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 361,
+    "blue": 355,
+    "green": 250,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 409,
+    "blue": 386,
+    "green": 334,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 517,
+    "blue": 475,
+    "green": 399,
+    "white": 433
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 221,
+    "blue": 191,
+    "green": 109,
+    "white": 163
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 474,
+    "blue": 393,
+    "green": 315,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 485,
+    "blue": 465,
+    "green": 392,
+    "white": 432
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 402,
+    "blue": 366,
+    "green": 288,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 432,
+    "blue": 385,
+    "green": 309,
+    "white": 348
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 555,
+    "blue": 517,
+    "green": 460,
+    "white": 484
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 243,
+    "blue": 197,
+    "green": 89,
+    "white": 154
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 404,
+    "blue": 374,
+    "green": 275,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 394,
+    "blue": 350,
+    "green": 287,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 138,
+    "blue": 141,
+    "green": 72,
+    "white": 116
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 563,
+    "blue": 530,
+    "green": 425,
+    "white": 465
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 406,
+    "blue": 380,
+    "green": 312,
+    "white": 344
+   }
+  }
+ ],
+ "id": "10f0ca58-a9fb-4232-a6bf-cf406c961b87",
+ "lat": 26.676628,
+ "lng": -80.292715,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7253
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6704
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6141
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6141
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5268
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5268
+  }
+ ]
+}

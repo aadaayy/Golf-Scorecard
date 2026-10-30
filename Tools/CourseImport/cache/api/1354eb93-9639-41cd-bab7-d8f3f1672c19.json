@@ -1,0 +1,253 @@
+{
+ "city": "Davenport",
+ "club_name": "Providence Golf Club",
+ "course_name": "Providence Golf Club",
+ "dataset_name": "Providence Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 413,
+    "blue": 392,
+    "red": 293,
+    "white": 362
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 510,
+    "blue": 490,
+    "red": 376,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 429,
+    "blue": 392,
+    "red": 296,
+    "white": 336
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 209,
+    "blue": 173,
+    "red": 131,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 301,
+    "blue": 281,
+    "red": 215,
+    "white": 275
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 394,
+    "red": 332,
+    "white": 376
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 445,
+    "blue": 400,
+    "red": 327,
+    "white": 380
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "blue": 140,
+    "red": 75,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 559,
+    "blue": 512,
+    "red": 415,
+    "white": 449
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 427,
+    "blue": 380,
+    "red": 295,
+    "white": 367
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 391,
+    "blue": 333,
+    "red": 231,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 181,
+    "blue": 165,
+    "red": 133,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 505,
+    "blue": 483,
+    "red": 420,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 468,
+    "blue": 433,
+    "red": 347,
+    "white": 415
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 558,
+    "blue": 534,
+    "red": 444,
+    "white": 524
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 439,
+    "blue": 395,
+    "red": 309,
+    "white": 382
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 150,
+    "blue": 145,
+    "red": 110,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 441,
+    "blue": 388,
+    "red": 280,
+    "white": 323
+   }
+  }
+ ],
+ "id": "1354eb93-9639-41cd-bab7-d8f3f1672c19",
+ "lat": 28.2235492,
+ "lng": -81.5650602,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6929
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6370
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6023
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6023
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5029
+  }
+ ]
+}

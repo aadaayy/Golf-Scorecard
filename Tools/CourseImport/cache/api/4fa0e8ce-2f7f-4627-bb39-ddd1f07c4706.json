@@ -1,0 +1,112 @@
+{
+ "city": "Monticello",
+ "club_name": "Jefferson Country Club",
+ "course_name": "Jefferson Country Club",
+ "dataset_name": "Jefferson Country Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "red": 289,
+    "white": 364
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "red": 252,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "red": 127,
+    "white": 159
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "red": 284,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "red": 387,
+    "white": 490
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "red": 355,
+    "white": 382
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "red": 392,
+    "white": 524
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "red": 126,
+    "white": 144
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "red": 301,
+    "white": 357
+   }
+  }
+ ],
+ "id": "4fa0e8ce-2f7f-4627-bb39-ddd1f07c4706",
+ "lat": 30.5674152,
+ "lng": -83.8594284,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3124
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2645
+  }
+ ]
+}

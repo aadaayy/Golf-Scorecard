@@ -1,0 +1,357 @@
+{
+ "city": "Naples",
+ "club_name": "The Old Collier Golf Club",
+ "course_name": "The Old Collier Golf Club",
+ "dataset_name": "The Old Collier Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Championship": 354,
+    "Club": 317,
+    "Forward": 229,
+    "Intermediate": 296,
+    "Match": 296,
+    "Maverick": 317,
+    "Medal": 340,
+    "Players": 340
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Championship": 455,
+    "Club": 394,
+    "Forward": 326,
+    "Intermediate": 362,
+    "Match": 326,
+    "Maverick": 362,
+    "Medal": 414,
+    "Players": 394
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Championship": 216,
+    "Club": 161,
+    "Forward": 129,
+    "Intermediate": 150,
+    "Match": 129,
+    "Maverick": 161,
+    "Medal": 190,
+    "Players": 161
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Championship": 384,
+    "Club": 338,
+    "Forward": 269,
+    "Intermediate": 311,
+    "Match": 311,
+    "Maverick": 338,
+    "Medal": 360,
+    "Players": 360
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Championship": 535,
+    "Club": 482,
+    "Forward": 407,
+    "Intermediate": 454,
+    "Match": 454,
+    "Maverick": 482,
+    "Medal": 501,
+    "Players": 501
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Championship": 417,
+    "Club": 373,
+    "Forward": 298,
+    "Intermediate": 336,
+    "Match": 336,
+    "Maverick": 336,
+    "Medal": 388,
+    "Players": 388
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Championship": 192,
+    "Club": 157,
+    "Forward": 125,
+    "Intermediate": 152,
+    "Match": 125,
+    "Maverick": 157,
+    "Medal": 177,
+    "Players": 177
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Championship": 471,
+    "Club": 423,
+    "Forward": 352,
+    "Intermediate": 396,
+    "Match": 352,
+    "Maverick": 396,
+    "Medal": 452,
+    "Players": 423
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Championship": 533,
+    "Club": 484,
+    "Forward": 410,
+    "Intermediate": 455,
+    "Match": 455,
+    "Maverick": 484,
+    "Medal": 502,
+    "Players": 502
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Championship": 344,
+    "Club": 292,
+    "Forward": 201,
+    "Intermediate": 237,
+    "Match": 237,
+    "Maverick": 237,
+    "Medal": 300,
+    "Players": 300
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Championship": 550,
+    "Club": 512,
+    "Forward": 424,
+    "Intermediate": 492,
+    "Match": 492,
+    "Maverick": 512,
+    "Medal": 536,
+    "Players": 536
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Championship": 407,
+    "Club": 346,
+    "Forward": 276,
+    "Intermediate": 305,
+    "Match": 305,
+    "Maverick": 346,
+    "Medal": 374,
+    "Players": 374
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Championship": 437,
+    "Club": 382,
+    "Forward": 302,
+    "Intermediate": 357,
+    "Match": 302,
+    "Maverick": 357,
+    "Medal": 410,
+    "Players": 382
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Championship": 177,
+    "Club": 151,
+    "Forward": 121,
+    "Intermediate": 128,
+    "Match": 128,
+    "Maverick": 151,
+    "Medal": 164,
+    "Players": 164
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Championship": 468,
+    "Club": 404,
+    "Forward": 324,
+    "Intermediate": 356,
+    "Match": 324,
+    "Maverick": 356,
+    "Medal": 427,
+    "Players": 404
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Championship": 186,
+    "Club": 124,
+    "Forward": 96,
+    "Intermediate": 118,
+    "Match": 118,
+    "Maverick": 124,
+    "Medal": 168,
+    "Players": 168
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Championship": 518,
+    "Club": 455,
+    "Forward": 413,
+    "Intermediate": 426,
+    "Match": 426,
+    "Maverick": 426,
+    "Medal": 500,
+    "Players": 472
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Championship": 434,
+    "Club": 376,
+    "Forward": 313,
+    "Intermediate": 366,
+    "Match": 313,
+    "Maverick": 376,
+    "Medal": 417,
+    "Players": 376
+   }
+  }
+ ],
+ "id": "439610b4-0e28-4eb0-bcac-68de1ceab277",
+ "lat": 26.2782499,
+ "lng": -81.8062873,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7078
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-male",
+   "tee_name": "Medal",
+   "yardage": 6620
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "players-male",
+   "tee_name": "Players",
+   "yardage": 6422
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "club-male",
+   "tee_name": "Club",
+   "yardage": 6171
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "maverick-male",
+   "tee_name": "Maverick",
+   "yardage": 5918
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "intermediate-male",
+   "tee_name": "Intermediate",
+   "yardage": 5697
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "intermediate-female",
+   "tee_name": "Intermediate",
+   "yardage": 5697
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "match-female",
+   "tee_name": "Match",
+   "yardage": 5429
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 5015
+  }
+ ]
+}

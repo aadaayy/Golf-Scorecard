@@ -1,0 +1,295 @@
+{
+ "city": "Sun City Center",
+ "club_name": "Scepter Golf Club Ibis Osprey Course",
+ "course_name": "Scepter Golf Club Ibis Osprey Course",
+ "dataset_name": "Scepter Golf Club Ibis Osprey Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "green": 305,
+    "orange": 210,
+    "red": 305,
+    "white": 348,
+    "yellow": 281
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "green": 136,
+    "orange": 95,
+    "red": 131,
+    "white": 153,
+    "yellow": 121
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "green": 285,
+    "orange": 177,
+    "red": 263,
+    "white": 334,
+    "yellow": 263
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "green": 417,
+    "orange": 285,
+    "red": 396,
+    "white": 454,
+    "yellow": 396
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "green": 305,
+    "orange": 203,
+    "red": 291,
+    "white": 349,
+    "yellow": 283
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "green": 123,
+    "orange": 86,
+    "red": 112,
+    "white": 135,
+    "yellow": 103
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "green": 424,
+    "orange": 292,
+    "red": 424,
+    "white": 464,
+    "yellow": 395
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "green": 340,
+    "orange": 242,
+    "red": 340,
+    "white": 390,
+    "yellow": 307
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "green": 334,
+    "orange": 174,
+    "red": 294,
+    "white": 352,
+    "yellow": 271
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "green": 297,
+    "orange": 165,
+    "red": 253,
+    "white": 307,
+    "yellow": 236
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "green": 130,
+    "orange": 78,
+    "red": 112,
+    "white": 142,
+    "yellow": 104
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "green": 417,
+    "orange": 290,
+    "red": 407,
+    "white": 473,
+    "yellow": 407
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "green": 282,
+    "orange": 191,
+    "red": 252,
+    "white": 302,
+    "yellow": 215
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "green": 132,
+    "orange": 92,
+    "red": 121,
+    "white": 167,
+    "yellow": 121
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "green": 340,
+    "orange": 207,
+    "red": 318,
+    "white": 375,
+    "yellow": 318
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "green": 476,
+    "orange": 302,
+    "red": 452,
+    "white": 498,
+    "yellow": 421
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "green": 335,
+    "orange": 199,
+    "red": 296,
+    "white": 362,
+    "yellow": 273
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "green": 356,
+    "orange": 197,
+    "red": 326,
+    "white": 371,
+    "yellow": 295
+   }
+  }
+ ],
+ "id": "1b043796-7d1e-4a6e-8f46-7d3b7f195191",
+ "lat": 27.6908971,
+ "lng": -82.3764706,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5997
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5478
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5172
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5172
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 4838
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 4838
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 3512
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 3512
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "city": "Fort Meade",
+ "club_name": "Oakview Lakes Golf Course",
+ "course_name": "Oakview Lakes Golf Course",
+ "dataset_name": "Oakview Lakes Golf Course",
+ "holes": 18,
+ "holes_data": [],
+ "id": "4e1e4bb5-4a3e-46e5-a52f-653e409b1298",
+ "lat": 27.7476554,
+ "lng": -81.7866693,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 1052
+  }
+ ]
+}

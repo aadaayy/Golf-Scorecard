@@ -1,0 +1,253 @@
+{
+ "city": "Spring Hill",
+ "club_name": "Seven Hills Golfers Club",
+ "course_name": "Seven Hills Golfers Club",
+ "dataset_name": "Seven Hills Golfers Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 364,
+    "Gold": 274,
+    "Red": 263,
+    "White": 316
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 435,
+    "Gold": 347,
+    "Red": 330,
+    "White": 422
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Blue": 490,
+    "Gold": 401,
+    "Red": 390,
+    "White": 444
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Blue": 173,
+    "Gold": 95,
+    "Red": 91,
+    "White": 134
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 440,
+    "Gold": 363,
+    "Red": 343,
+    "White": 418
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Blue": 497,
+    "Gold": 429,
+    "Red": 417,
+    "White": 453
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 136,
+    "Gold": 79,
+    "Red": 79,
+    "White": 107
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 437,
+    "Gold": 337,
+    "Red": 317,
+    "White": 387
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 391,
+    "Gold": 288,
+    "Red": 279,
+    "White": 351
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 359,
+    "Gold": 292,
+    "Red": 270,
+    "White": 345
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 379,
+    "Gold": 287,
+    "Red": 270,
+    "White": 338
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 437,
+    "Gold": 287,
+    "Red": 287,
+    "White": 387
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 203,
+    "Gold": 127,
+    "Red": 84,
+    "White": 160
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Blue": 521,
+    "Gold": 381,
+    "Red": 373,
+    "White": 483
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 159,
+    "Gold": 91,
+    "Red": 91,
+    "White": 121
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 385,
+    "Gold": 272,
+    "Red": 260,
+    "White": 341
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 392,
+    "Gold": 325,
+    "Red": 310,
+    "White": 340
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 524,
+    "Gold": 475,
+    "Red": 438,
+    "White": 492
+   }
+  }
+ ],
+ "id": "45c568b9-200a-4dc0-9594-274b8255c246",
+ "lat": 28.4435028,
+ "lng": -82.5431302,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6501
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5713
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5000
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4785
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4785
+  }
+ ]
+}

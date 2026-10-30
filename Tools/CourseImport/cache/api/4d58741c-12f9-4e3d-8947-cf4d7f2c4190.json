@@ -1,0 +1,397 @@
+{
+ "city": "Naples",
+ "club_name": "Tpc Treviso Bay",
+ "course_name": "Tpc Treviso Bay",
+ "dataset_name": "Tpc Treviso Bay",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Bay": 225,
+    "Championship": 390,
+    "Club": 280,
+    "Member": 318,
+    "PGA Tour": 420,
+    "Players": 318,
+    "Tournament": 358,
+    "Treviso": 225
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Bay": 317,
+    "Championship": 470,
+    "Club": 410,
+    "Member": 442,
+    "PGA Tour": 511,
+    "Players": 416,
+    "Tournament": 442,
+    "Treviso": 410
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Bay": 75,
+    "Championship": 167,
+    "Club": 114,
+    "Member": 129,
+    "PGA Tour": 180,
+    "Players": 129,
+    "Tournament": 148,
+    "Treviso": 114
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Bay": 391,
+    "Championship": 553,
+    "Club": 455,
+    "Member": 500,
+    "PGA Tour": 594,
+    "Players": 500,
+    "Tournament": 542,
+    "Treviso": 391
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Bay": 181,
+    "Championship": 317,
+    "Club": 236,
+    "Member": 306,
+    "PGA Tour": 349,
+    "Players": 274,
+    "Tournament": 306,
+    "Treviso": 236
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Bay": 240,
+    "Championship": 363,
+    "Club": 279,
+    "Member": 339,
+    "PGA Tour": 395,
+    "Players": 324,
+    "Tournament": 339,
+    "Treviso": 240
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Bay": 108,
+    "Championship": 203,
+    "Club": 131,
+    "Member": 167,
+    "PGA Tour": 241,
+    "Players": 141,
+    "Tournament": 167,
+    "Treviso": 108
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Bay": 229,
+    "Championship": 423,
+    "Club": 304,
+    "Member": 395,
+    "PGA Tour": 464,
+    "Players": 345,
+    "Tournament": 395,
+    "Treviso": 229
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Bay": 237,
+    "Championship": 373,
+    "Club": 274,
+    "Member": 303,
+    "PGA Tour": 392,
+    "Players": 303,
+    "Tournament": 346,
+    "Treviso": 274
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Bay": 277,
+    "Championship": 415,
+    "Club": 328,
+    "Member": 341,
+    "PGA Tour": 467,
+    "Players": 341,
+    "Tournament": 376,
+    "Treviso": 328
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Bay": 199,
+    "Championship": 341,
+    "Club": 228,
+    "Member": 329,
+    "PGA Tour": 354,
+    "Players": 290,
+    "Tournament": 329,
+    "Treviso": 228
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Bay": 368,
+    "Championship": 578,
+    "Club": 481,
+    "Member": 491,
+    "PGA Tour": 612,
+    "Players": 491,
+    "Tournament": 564,
+    "Treviso": 368
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Bay": 216,
+    "Championship": 357,
+    "Club": 269,
+    "Member": 329,
+    "PGA Tour": 406,
+    "Players": 280,
+    "Tournament": 329,
+    "Treviso": 216
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Bay": 107,
+    "Championship": 194,
+    "Club": 125,
+    "Member": 155,
+    "PGA Tour": 229,
+    "Players": 155,
+    "Tournament": 175,
+    "Treviso": 125
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Bay": 258,
+    "Championship": 427,
+    "Club": 338,
+    "Member": 353,
+    "PGA Tour": 471,
+    "Players": 353,
+    "Tournament": 385,
+    "Treviso": 338
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Bay": 286,
+    "Championship": 455,
+    "Club": 363,
+    "Member": 411,
+    "PGA Tour": 493,
+    "Players": 411,
+    "Tournament": 435,
+    "Treviso": 286
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Bay": 111,
+    "Championship": 179,
+    "Club": 122,
+    "Member": 156,
+    "PGA Tour": 211,
+    "Players": 135,
+    "Tournament": 156,
+    "Treviso": 111
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Bay": 365,
+    "Championship": 539,
+    "Club": 416,
+    "Member": 513,
+    "PGA Tour": 576,
+    "Players": 471,
+    "Tournament": 513,
+    "Treviso": 416
+   }
+  }
+ ],
+ "id": "4d58741c-12f9-4e3d-8947-cf4d7f2c4190",
+ "lat": 26.0717667,
+ "lng": -81.7335389,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pga-tour-male",
+   "tee_name": "PGA Tour",
+   "yardage": 7365
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6744
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6305
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-female",
+   "tee_name": "Tournament",
+   "yardage": 6305
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-female",
+   "tee_name": "Member",
+   "yardage": 5977
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 5977
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "players-female",
+   "tee_name": "Players",
+   "yardage": 5677
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "players-male",
+   "tee_name": "Players",
+   "yardage": 5677
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "club-female",
+   "tee_name": "Club",
+   "yardage": 5153
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "club-male",
+   "tee_name": "Club",
+   "yardage": 5153
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "treviso-male",
+   "tee_name": "Treviso",
+   "yardage": 4643
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "treviso-female",
+   "tee_name": "Treviso",
+   "yardage": 4643
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bay-male",
+   "tee_name": "Bay",
+   "yardage": 4190
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bay-female",
+   "tee_name": "Bay",
+   "yardage": 4190
+  }
+ ]
+}

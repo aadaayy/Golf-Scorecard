@@ -1,0 +1,295 @@
+{
+ "city": "Lake Wales",
+ "club_name": "Oakwood Golf Club",
+ "course_name": "Oakwood Golf Club",
+ "dataset_name": "Oakwood Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 354,
+    "gold": 403,
+    "green": 321,
+    "silver": 321
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 547,
+    "blue": 474,
+    "gold": 500,
+    "green": 439,
+    "silver": 439
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 184,
+    "blue": 167,
+    "gold": 184,
+    "green": 115,
+    "silver": 115
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 414,
+    "blue": 361,
+    "gold": 382,
+    "green": 326,
+    "silver": 351
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 220,
+    "blue": 193,
+    "gold": 212,
+    "green": 138,
+    "silver": 162
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 384,
+    "blue": 319,
+    "gold": 364,
+    "green": 296,
+    "silver": 296
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 195,
+    "blue": 145,
+    "gold": 153,
+    "green": 112,
+    "silver": 112
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 538,
+    "blue": 505,
+    "gold": 515,
+    "green": 430,
+    "silver": 430
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 379,
+    "gold": 400,
+    "green": 302,
+    "silver": 359
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 383,
+    "blue": 323,
+    "gold": 361,
+    "green": 276,
+    "silver": 276
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 184,
+    "blue": 169,
+    "gold": 184,
+    "green": 120,
+    "silver": 120
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 417,
+    "blue": 356,
+    "gold": 390,
+    "green": 323,
+    "silver": 323
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 368,
+    "blue": 335,
+    "gold": 353,
+    "green": 271,
+    "silver": 314
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 518,
+    "blue": 437,
+    "gold": 468,
+    "green": 384,
+    "silver": 402
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 524,
+    "blue": 460,
+    "gold": 486,
+    "green": 410,
+    "silver": 430
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 192,
+    "blue": 154,
+    "gold": 180,
+    "green": 133,
+    "silver": 133
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 358,
+    "blue": 290,
+    "gold": 344,
+    "green": 220,
+    "silver": 246
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 405,
+    "blue": 365,
+    "gold": 383,
+    "green": 290,
+    "silver": 305
+   }
+  }
+ ],
+ "id": "4d8239d3-d740-427d-b82e-a98d21a1fa0d",
+ "lat": 27.9073987,
+ "lng": -81.5334042,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6681
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6262
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5786
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5786
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5134
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5134
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4906
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4906
+  }
+ ]
+}

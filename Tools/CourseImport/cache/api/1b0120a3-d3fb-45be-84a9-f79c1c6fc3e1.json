@@ -1,0 +1,287 @@
+{
+ "city": "Naples",
+ "club_name": "Quail Run Golf Club",
+ "course_name": "Quail Run Golf Club",
+ "dataset_name": "Quail Run Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "tee_i": 378,
+    "tee_ii": 357,
+    "tee_iii": 347,
+    "tee_iv": 334,
+    "tee_v": 302
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "tee_i": 173,
+    "tee_ii": 153,
+    "tee_iii": 144,
+    "tee_iv": 143,
+    "tee_v": 106
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "tee_i": 407,
+    "tee_ii": 398,
+    "tee_iii": 376,
+    "tee_iv": 347,
+    "tee_v": 326
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "tee_i": 245,
+    "tee_ii": 229,
+    "tee_iii": 217,
+    "tee_iv": 206,
+    "tee_v": 180
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "tee_i": 385,
+    "tee_ii": 375,
+    "tee_iii": 355,
+    "tee_iv": 345,
+    "tee_v": 320
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "tee_i": 267,
+    "tee_ii": 259,
+    "tee_iii": 250,
+    "tee_iv": 244,
+    "tee_v": 182
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "tee_i": 165,
+    "tee_ii": 155,
+    "tee_iii": 136,
+    "tee_iv": 125,
+    "tee_v": 101
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "tee_i": 349,
+    "tee_ii": 329,
+    "tee_iii": 292,
+    "tee_iv": 288,
+    "tee_v": 249
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "tee_i": 175,
+    "tee_ii": 160,
+    "tee_iii": 145,
+    "tee_iv": 134,
+    "tee_v": 107
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "tee_i": 363,
+    "tee_ii": 353,
+    "tee_iii": 346,
+    "tee_iv": 342,
+    "tee_v": 276
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "tee_i": 269,
+    "tee_ii": 253,
+    "tee_iii": 216,
+    "tee_iv": 208,
+    "tee_v": 183
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "tee_i": 152,
+    "tee_ii": 141,
+    "tee_iii": 127,
+    "tee_iv": 119,
+    "tee_v": 83
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "tee_i": 340,
+    "tee_ii": 327,
+    "tee_iii": 315,
+    "tee_iv": 303,
+    "tee_v": 269
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "tee_i": 268,
+    "tee_ii": 256,
+    "tee_iii": 226,
+    "tee_iv": 218,
+    "tee_v": 186
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "tee_i": 442,
+    "tee_ii": 432,
+    "tee_iii": 403,
+    "tee_iv": 376,
+    "tee_v": 318
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "tee_i": 200,
+    "tee_ii": 170,
+    "tee_iii": 128,
+    "tee_iv": 125,
+    "tee_v": 107
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "tee_i": 362,
+    "tee_ii": 352,
+    "tee_iii": 325,
+    "tee_iv": 316,
+    "tee_v": 292
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "tee_i": 161,
+    "tee_ii": 143,
+    "tee_iii": 133,
+    "tee_iv": 127,
+    "tee_v": 98
+   }
+  }
+ ],
+ "id": "1b0120a3-d3fb-45be-84a9-f79c1c6fc3e1",
+ "lat": 26.2098938,
+ "lng": -81.7803168,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "tee-i-male",
+   "tee_name": "Tee I",
+   "yardage": 5101
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 4842
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 4481
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-female",
+   "tee_name": "Tee III",
+   "yardage": 4481
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-female",
+   "tee_name": "Tee IV",
+   "yardage": 4300
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "tee-iv-male",
+   "tee_name": "Tee IV",
+   "yardage": 4300
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-female",
+   "tee_name": "Tee V",
+   "yardage": 3685
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+ "city": "Brooksville",
+ "club_name": "Cabot Citrus Farms Karoo Course",
+ "course_name": "Cabot Citrus Farms Karoo Course",
+ "dataset_name": "Cabot Citrus Farms Karoo Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 475,
+    "green": 439,
+    "royal": 282,
+    "silver": 334,
+    "tangerine": 399
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 522,
+    "green": 497,
+    "royal": 312,
+    "silver": 385,
+    "tangerine": 435
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 292,
+    "green": 247,
+    "royal": 125,
+    "silver": 158,
+    "tangerine": 224
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 511,
+    "green": 483,
+    "royal": 336,
+    "silver": 417,
+    "tangerine": 465
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "green": 363,
+    "royal": 259,
+    "silver": 289,
+    "tangerine": 336
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 563,
+    "green": 526,
+    "royal": 266,
+    "silver": 362,
+    "tangerine": 484
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 199,
+    "green": 184,
+    "royal": 73,
+    "silver": 131,
+    "tangerine": 175
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 426,
+    "green": 393,
+    "royal": 255,
+    "silver": 327,
+    "tangerine": 370
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "green": 395,
+    "royal": 303,
+    "silver": 347,
+    "tangerine": 390
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "black": 242,
+    "green": 198,
+    "royal": 112,
+    "silver": 132,
+    "tangerine": 180
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 427,
+    "green": 379,
+    "royal": 202,
+    "silver": 316,
+    "tangerine": 365
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 496,
+    "green": 472,
+    "royal": 328,
+    "silver": 356,
+    "tangerine": 415
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 447,
+    "green": 411,
+    "royal": 267,
+    "silver": 318,
+    "tangerine": 368
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 581,
+    "green": 545,
+    "royal": 301,
+    "silver": 394,
+    "tangerine": 530
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "green": 326,
+    "royal": 204,
+    "silver": 217,
+    "tangerine": 282
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 201,
+    "green": 186,
+    "royal": 62,
+    "silver": 106,
+    "tangerine": 160
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 500,
+    "green": 460,
+    "royal": 279,
+    "silver": 385,
+    "tangerine": 450
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 489,
+    "green": 450,
+    "royal": 257,
+    "silver": 351,
+    "tangerine": 403
+   }
+  }
+ ],
+ "id": "019bcd10-9d00-4c96-a45b-b26255334aeb",
+ "lat": 28.6833699,
+ "lng": -82.4799318,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7562
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6954
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tangerine-female",
+   "tee_name": "Tangerine",
+   "yardage": 6295
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tangerine-male",
+   "tee_name": "Tangerine",
+   "yardage": 6295
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5325
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5325
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "royal-male",
+   "tee_name": "Royal",
+   "yardage": 4223
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "royal-female",
+   "tee_name": "Royal",
+   "yardage": 4223
+  }
+ ]
+}

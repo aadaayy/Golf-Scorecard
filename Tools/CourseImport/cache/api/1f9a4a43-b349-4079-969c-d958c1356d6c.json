@@ -1,0 +1,323 @@
+{
+ "city": "Jupiter",
+ "club_name": "The Bears Club",
+ "course_name": "The Bears Club",
+ "dataset_name": "The Bears Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Championship": 464,
+    "I Bear": 425,
+    "II Bear": 398,
+    "III Bear": 351,
+    "IV Bear": 328,
+    "Option 2": 383,
+    "Option 3": 351
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Championship": 241,
+    "I Bear": 195,
+    "II Bear": 170,
+    "III Bear": 149,
+    "IV Bear": 125,
+    "Option 2": 170,
+    "Option 3": 149
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Championship": 440,
+    "I Bear": 393,
+    "II Bear": 371,
+    "III Bear": 321,
+    "IV Bear": 301,
+    "Option 2": 371,
+    "Option 3": 321
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Championship": 528,
+    "I Bear": 501,
+    "II Bear": 489,
+    "III Bear": 453,
+    "IV Bear": 413,
+    "Option 2": 461,
+    "Option 3": 413
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Championship": 372,
+    "I Bear": 354,
+    "II Bear": 329,
+    "III Bear": 290,
+    "IV Bear": 290,
+    "Option 2": 329,
+    "Option 3": 290
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Championship": 435,
+    "I Bear": 399,
+    "II Bear": 402,
+    "III Bear": 357,
+    "IV Bear": 281,
+    "Option 2": 357,
+    "Option 3": 357
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Championship": 185,
+    "I Bear": 168,
+    "II Bear": 137,
+    "III Bear": 124,
+    "IV Bear": 105,
+    "Option 2": 137,
+    "Option 3": 124
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Championship": 538,
+    "I Bear": 507,
+    "II Bear": 511,
+    "III Bear": 481,
+    "IV Bear": 396,
+    "Option 2": 481,
+    "Option 3": 445
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Championship": 426,
+    "I Bear": 382,
+    "II Bear": 380,
+    "III Bear": 347,
+    "IV Bear": 283,
+    "Option 2": 347,
+    "Option 3": 308
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Championship": 519,
+    "I Bear": 482,
+    "II Bear": 486,
+    "III Bear": 458,
+    "IV Bear": 432,
+    "Option 2": 486,
+    "Option 3": 458
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Championship": 446,
+    "I Bear": 412,
+    "II Bear": 398,
+    "III Bear": 378,
+    "IV Bear": 328,
+    "Option 2": 378,
+    "Option 3": 328
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Championship": 339,
+    "I Bear": 308,
+    "II Bear": 310,
+    "III Bear": 282,
+    "IV Bear": 247,
+    "Option 2": 310,
+    "Option 3": 282
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Championship": 440,
+    "I Bear": 380,
+    "II Bear": 361,
+    "III Bear": 335,
+    "IV Bear": 304,
+    "Option 2": 361,
+    "Option 3": 335
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Championship": 203,
+    "I Bear": 179,
+    "II Bear": 165,
+    "III Bear": 128,
+    "IV Bear": 115,
+    "Option 2": 165,
+    "Option 3": 128
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Championship": 442,
+    "I Bear": 417,
+    "II Bear": 381,
+    "III Bear": 366,
+    "IV Bear": 325,
+    "Option 2": 381,
+    "Option 3": 325
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Championship": 185,
+    "I Bear": 156,
+    "II Bear": 156,
+    "III Bear": 139,
+    "IV Bear": 120,
+    "Option 2": 139,
+    "Option 3": 120
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Championship": 485,
+    "I Bear": 415,
+    "II Bear": 417,
+    "III Bear": 389,
+    "IV Bear": 307,
+    "Option 2": 389,
+    "Option 3": 307
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Championship": 573,
+    "I Bear": 527,
+    "II Bear": 526,
+    "III Bear": 463,
+    "IV Bear": 381,
+    "Option 2": 463,
+    "Option 3": 381
+   }
+  }
+ ],
+ "id": "1f9a4a43-b349-4079-969c-d958c1356d6c",
+ "lat": 26.8905352,
+ "lng": -80.0857498,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7261
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-bear-male",
+   "tee_name": "I Bear",
+   "yardage": 6600
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-bear-male",
+   "tee_name": "II Bear",
+   "yardage": 6387
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "option-2-male",
+   "tee_name": "Option 2",
+   "yardage": 6108
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-bear-male",
+   "tee_name": "III Bear",
+   "yardage": 5811
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "option-3-male",
+   "tee_name": "Option 3",
+   "yardage": 5422
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-bear-male",
+   "tee_name": "IV Bear",
+   "yardage": 5081
+  }
+ ]
+}

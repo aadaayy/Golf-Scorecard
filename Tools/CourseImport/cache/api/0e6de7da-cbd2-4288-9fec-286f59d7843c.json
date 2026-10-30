@@ -1,0 +1,279 @@
+{
+ "city": "Sebring",
+ "club_name": "Deer Run At Sun N Lake Golf Country Club",
+ "course_name": "Deer Run At Sun N Lake Golf Country Club",
+ "dataset_name": "Deer Run At Sun N Lake Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "blue": 379,
+    "gold": 337,
+    "red": 291,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 209,
+    "blue": 185,
+    "gold": 148,
+    "red": 134,
+    "white": 162
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 427,
+    "blue": 403,
+    "gold": 329,
+    "red": 277,
+    "white": 381
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 523,
+    "blue": 501,
+    "gold": 396,
+    "red": 380,
+    "white": 473
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 366,
+    "blue": 350,
+    "gold": 310,
+    "red": 274,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 428,
+    "blue": 404,
+    "gold": 318,
+    "red": 302,
+    "white": 380
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 363,
+    "blue": 343,
+    "gold": 313,
+    "red": 293,
+    "white": 323
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 228,
+    "blue": 192,
+    "gold": 154,
+    "red": 134,
+    "white": 164
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 601,
+    "blue": 569,
+    "gold": 450,
+    "red": 408,
+    "white": 515
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 328,
+    "blue": 318,
+    "gold": 308,
+    "red": 277,
+    "white": 313
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 532,
+    "blue": 512,
+    "gold": 431,
+    "red": 413,
+    "white": 492
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 416,
+    "blue": 403,
+    "gold": 346,
+    "red": 302,
+    "white": 376
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 171,
+    "blue": 158,
+    "gold": 144,
+    "red": 133,
+    "white": 151
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 531,
+    "blue": 516,
+    "gold": 428,
+    "red": 409,
+    "white": 497
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "blue": 376,
+    "gold": 335,
+    "red": 295,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 399,
+    "blue": 385,
+    "gold": 288,
+    "red": 268,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 458,
+    "blue": 426,
+    "gold": 370,
+    "red": 301,
+    "white": 392
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "black": 174,
+    "blue": 154,
+    "gold": 112,
+    "red": 102,
+    "white": 124
+   }
+  }
+ ],
+ "id": "0e6de7da-cbd2-4288-9fec-286f59d7843c",
+ "lat": 27.5323028,
+ "lng": -81.5182342,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7002
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6505
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6105
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5455
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5046
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5046
+  }
+ ]
+}

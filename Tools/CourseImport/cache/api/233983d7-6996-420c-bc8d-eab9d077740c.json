@@ -1,0 +1,101 @@
+{
+ "city": "Jacksonville",
+ "club_name": "Unf Golf Complex At The Hayt Learning Center",
+ "course_name": "Unf Golf Complex At The Hayt Learning Center",
+ "dataset_name": "Unf Golf Complex At The Hayt Learning Center",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "233983d7-6996-420c-bc8d-eab9d077740c",
+ "lat": 30.2559187,
+ "lng": -81.5035582,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "championship-i-male",
+   "tee_name": "Championship I",
+   "yardage": 1236
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "championship-ii-male",
+   "tee_name": "Championship II",
+   "yardage": 1174
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "senior-male",
+   "tee_name": "Senior",
+   "yardage": 829
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 703
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "city": "Sebring",
+ "club_name": "Turtle Run At Sun N Lake Golf Country Club",
+ "course_name": "Turtle Run At Sun N Lake Golf Country Club",
+ "dataset_name": "Turtle Run At Sun N Lake Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Aqua": 374,
+    "Blue": 505,
+    "Gold": 406,
+    "Red": 399,
+    "Red/aqua": 376,
+    "White": 486
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Aqua": 107,
+    "Blue": 197,
+    "Gold": 148,
+    "Red": 112,
+    "Red/aqua": 124,
+    "White": 166
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Aqua": 255,
+    "Blue": 355,
+    "Gold": 294,
+    "Red": 287,
+    "Red/aqua": 257,
+    "White": 331
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Aqua": 250,
+    "Blue": 345,
+    "Gold": 293,
+    "Red": 286,
+    "Red/aqua": 284,
+    "White": 318
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Aqua": 231,
+    "Blue": 362,
+    "Gold": 313,
+    "Red": 231,
+    "Red/aqua": 233,
+    "White": 321
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Aqua": 69,
+    "Blue": 166,
+    "Gold": 108,
+    "Red": 99,
+    "Red/aqua": 113,
+    "White": 157
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Aqua": 280,
+    "Blue": 362,
+    "Gold": 324,
+    "Red": 319,
+    "Red/aqua": 281,
+    "White": 350
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Aqua": 229,
+    "Blue": 340,
+    "Gold": 274,
+    "Red": 254,
+    "Red/aqua": 254,
+    "White": 313
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Aqua": 374,
+    "Blue": 521,
+    "Gold": 447,
+    "Red": 439,
+    "Red/aqua": 391,
+    "White": 502
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Aqua": 293,
+    "Blue": 439,
+    "Gold": 346,
+    "Red": 338,
+    "Red/aqua": 286,
+    "White": 419
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Aqua": 235,
+    "Blue": 339,
+    "Gold": 307,
+    "Red": 279,
+    "Red/aqua": 276,
+    "White": 325
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Aqua": 124,
+    "Blue": 213,
+    "Gold": 161,
+    "Red": 148,
+    "Red/aqua": 150,
+    "White": 187
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Aqua": 251,
+    "Blue": 338,
+    "Gold": 291,
+    "Red": 285,
+    "Red/aqua": 280,
+    "White": 322
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Aqua": 387,
+    "Blue": 501,
+    "Gold": 393,
+    "Red": 387,
+    "Red/aqua": 387,
+    "White": 473
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Aqua": 108,
+    "Blue": 177,
+    "Gold": 149,
+    "Red": 129,
+    "Red/aqua": 130,
+    "White": 156
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Aqua": 272,
+    "Blue": 369,
+    "Gold": 348,
+    "Red": 319,
+    "Red/aqua": 277,
+    "White": 359
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Aqua": 239,
+    "Blue": 322,
+    "Gold": 294,
+    "Red": 269,
+    "Red/aqua": 262,
+    "White": 307
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Aqua": 351,
+    "Blue": 499,
+    "Gold": 458,
+    "Red": 389,
+    "Red/aqua": 389,
+    "White": 473
+   }
+  }
+ ],
+ "id": "0e7a35b1-32c3-43c6-901d-de096b77ad28",
+ "lat": 27.5323028,
+ "lng": -81.5182342,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6350
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5965
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5965
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5354
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5354
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4969
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4969
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-aqua-male",
+   "tee_name": "Red/aqua",
+   "yardage": 4750
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-aqua-female",
+   "tee_name": "Red/aqua",
+   "yardage": 4750
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "aqua-female",
+   "tee_name": "Aqua",
+   "yardage": 4429
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "aqua-male",
+   "tee_name": "Aqua",
+   "yardage": 4429
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "city": "Naples",
+ "club_name": "The Classics Country Club",
+ "course_name": "The Classics Country Club",
+ "dataset_name": "The Classics Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Aqua": 276,
+    "Black": 380,
+    "Green": 352,
+    "Green/White": 352,
+    "Red": 312,
+    "Red/Aqua": 312,
+    "White": 325
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Aqua": 262,
+    "Black": 377,
+    "Green": 369,
+    "Green/White": 330,
+    "Red": 297,
+    "Red/Aqua": 297,
+    "White": 330
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Aqua": 443,
+    "Black": 581,
+    "Green": 544,
+    "Green/White": 506,
+    "Red": 450,
+    "Red/Aqua": 443,
+    "White": 506
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Aqua": 90,
+    "Black": 179,
+    "Green": 164,
+    "Green/White": 150,
+    "Red": 130,
+    "Red/Aqua": 90,
+    "White": 150
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Aqua": 260,
+    "Black": 373,
+    "Green": 347,
+    "Green/White": 347,
+    "Red": 316,
+    "Red/Aqua": 260,
+    "White": 317
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Aqua": 96,
+    "Black": 178,
+    "Green": 160,
+    "Green/White": 160,
+    "Red": 137,
+    "Red/Aqua": 96,
+    "White": 148
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Aqua": 379,
+    "Black": 511,
+    "Green": 492,
+    "Green/White": 492,
+    "Red": 448,
+    "Red/Aqua": 379,
+    "White": 454
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Aqua": 237,
+    "Black": 399,
+    "Green": 344,
+    "Green/White": 344,
+    "Red": 292,
+    "Red/Aqua": 292,
+    "White": 305
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Aqua": 309,
+    "Black": 431,
+    "Green": 401,
+    "Green/White": 375,
+    "Red": 349,
+    "Red/Aqua": 309,
+    "White": 375
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Aqua": 290,
+    "Black": 419,
+    "Green": 387,
+    "Green/White": 353,
+    "Red": 301,
+    "Red/Aqua": 290,
+    "White": 353
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Aqua": 384,
+    "Black": 525,
+    "Green": 479,
+    "Green/White": 479,
+    "Red": 419,
+    "Red/Aqua": 419,
+    "White": 431
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Aqua": 98,
+    "Black": 156,
+    "Green": 144,
+    "Green/White": 144,
+    "Red": 102,
+    "Red/Aqua": 98,
+    "White": 132
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Aqua": 219,
+    "Black": 348,
+    "Green": 298,
+    "Green/White": 298,
+    "Red": 264,
+    "Red/Aqua": 264,
+    "White": 279
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Aqua": 285,
+    "Black": 387,
+    "Green": 371,
+    "Green/White": 354,
+    "Red": 346,
+    "Red/Aqua": 285,
+    "White": 354
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Aqua": 229,
+    "Black": 366,
+    "Green": 346,
+    "Green/White": 346,
+    "Red": 263,
+    "Red/Aqua": 229,
+    "White": 315
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Aqua": 120,
+    "Black": 190,
+    "Green": 174,
+    "Green/White": 145,
+    "Red": 134,
+    "Red/Aqua": 134,
+    "White": 145
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Aqua": 374,
+    "Black": 506,
+    "Green": 490,
+    "Green/White": 475,
+    "Red": 443,
+    "Red/Aqua": 374,
+    "White": 475
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Aqua": 272,
+    "Black": 408,
+    "Green": 377,
+    "Green/White": 356,
+    "Red": 342,
+    "Red/Aqua": 272,
+    "White": 356
+   }
+  }
+ ],
+ "id": "359e4f2b-1bf0-4ce6-b69d-cf5f557c955b",
+ "lat": 26.0909362,
+ "lng": -81.6975858,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6714
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6239
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-white-male",
+   "tee_name": "Green/White",
+   "yardage": 6006
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5750
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5345
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-aqua-male",
+   "tee_name": "Red/Aqua",
+   "yardage": 4843
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "aqua-male",
+   "tee_name": "Aqua",
+   "yardage": 4623
+  }
+ ]
+}

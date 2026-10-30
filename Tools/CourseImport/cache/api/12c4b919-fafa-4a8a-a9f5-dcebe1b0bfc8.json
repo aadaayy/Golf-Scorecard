@@ -1,0 +1,337 @@
+{
+ "city": "Lakewood Ranch",
+ "club_name": "Calusa Country Club",
+ "course_name": "Calusa Country Club",
+ "dataset_name": "Calusa Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "i": 469,
+    "ii": 415,
+    "iii": 388,
+    "iv": 330,
+    "v": 270,
+    "vi": 200
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "i": 330,
+    "ii": 303,
+    "iii": 277,
+    "iv": 251,
+    "v": 234,
+    "vi": 190
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "i": 599,
+    "ii": 522,
+    "iii": 495,
+    "iv": 422,
+    "v": 377,
+    "vi": 280
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "i": 649,
+    "ii": 541,
+    "iii": 505,
+    "iv": 456,
+    "v": 404,
+    "vi": 350
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "i": 401,
+    "ii": 330,
+    "iii": 303,
+    "iv": 275,
+    "v": 252,
+    "vi": 210
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "i": 257,
+    "ii": 213,
+    "iii": 181,
+    "iv": 151,
+    "v": 123,
+    "vi": 100
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "i": 400,
+    "ii": 375,
+    "iii": 348,
+    "iv": 315,
+    "v": 264,
+    "vi": 220
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "i": 236,
+    "ii": 174,
+    "iii": 147,
+    "iv": 112,
+    "v": 92,
+    "vi": 88
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "i": 485,
+    "ii": 404,
+    "iii": 377,
+    "iv": 320,
+    "v": 266,
+    "vi": 240
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 348,
+    "ii": 323,
+    "iii": 296,
+    "iv": 268,
+    "v": 242,
+    "vi": 200
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "i": 404,
+    "ii": 348,
+    "iii": 333,
+    "iv": 288,
+    "v": 253,
+    "vi": 210
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "i": 523,
+    "ii": 495,
+    "iii": 468,
+    "iv": 415,
+    "v": 369,
+    "vi": 300
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "i": 501,
+    "ii": 396,
+    "iii": 369,
+    "iv": 321,
+    "v": 282,
+    "vi": 230
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "i": 225,
+    "ii": 187,
+    "iii": 160,
+    "iv": 117,
+    "v": 99,
+    "vi": 70
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "i": 523,
+    "ii": 505,
+    "iii": 477,
+    "iv": 450,
+    "v": 388,
+    "vi": 340
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "i": 426,
+    "ii": 390,
+    "iii": 363,
+    "iv": 329,
+    "v": 295,
+    "vi": 250
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "i": 184,
+    "ii": 154,
+    "iii": 127,
+    "iv": 100,
+    "v": 77,
+    "vi": 90
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "i": 444,
+    "ii": 385,
+    "iii": 358,
+    "iv": 325,
+    "v": 270,
+    "vi": 230
+   }
+  }
+ ],
+ "id": "12c4b919-fafa-4a8a-a9f5-dcebe1b0bfc8",
+ "lat": 27.438455,
+ "lng": -82.342075,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 7404
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6460
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 6460
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 5972
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5972
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5245
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5245
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 4557
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 4557
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 3798
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 3798
+  }
+ ]
+}

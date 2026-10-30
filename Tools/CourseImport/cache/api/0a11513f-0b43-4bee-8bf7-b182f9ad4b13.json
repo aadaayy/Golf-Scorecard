@@ -1,0 +1,379 @@
+{
+ "city": "Greenacres",
+ "club_name": "West At Fountains Country Club",
+ "course_name": "West At Fountains Country Club",
+ "dataset_name": "West At Fountains Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 352,
+    "Black/Red": 352,
+    "Blue": 389,
+    "Gold": 407,
+    "Red": 338,
+    "White": 368,
+    "White/Black": 352
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 125,
+    "Black/Red": 125,
+    "Blue": 160,
+    "Gold": 180,
+    "Red": 113,
+    "White": 141,
+    "White/Black": 125
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Black": 481,
+    "Black/Red": 443,
+    "Blue": 543,
+    "Gold": 575,
+    "Red": 443,
+    "White": 511,
+    "White/Black": 511
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 327,
+    "Black/Red": 327,
+    "Blue": 373,
+    "Gold": 387,
+    "Red": 246,
+    "White": 350,
+    "White/Black": 350
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 260,
+    "Black/Red": 260,
+    "Blue": 375,
+    "Gold": 394,
+    "Red": 255,
+    "White": 341,
+    "White/Black": 341
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 234,
+    "Black/Red": 234,
+    "Blue": 313,
+    "Gold": 327,
+    "Red": 226,
+    "White": 286,
+    "White/Black": 286
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 305,
+    "Black/Red": 305,
+    "Blue": 329,
+    "Gold": 365,
+    "Red": 293,
+    "White": 322,
+    "White/Black": 322
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 324,
+    "Black/Red": 324,
+    "Blue": 376,
+    "Gold": 402,
+    "Red": 320,
+    "White": 362,
+    "White/Black": 324
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Black": 124,
+    "Black/Red": 121,
+    "Blue": 191,
+    "Gold": 207,
+    "Red": 121,
+    "White": 169,
+    "White/Black": 169
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 263,
+    "Black/Red": 263,
+    "Blue": 353,
+    "Gold": 376,
+    "Red": 256,
+    "White": 331,
+    "White/Black": 263
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Black": 411,
+    "Black/Red": 411,
+    "Blue": 498,
+    "Gold": 519,
+    "Red": 402,
+    "White": 470,
+    "White/Black": 411
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 458,
+    "Black/Red": 371,
+    "Blue": 519,
+    "Gold": 563,
+    "Red": 371,
+    "White": 502,
+    "White/Black": 458
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 136,
+    "Black/Red": 136,
+    "Blue": 156,
+    "Gold": 174,
+    "Red": 110,
+    "White": 146,
+    "White/Black": 146
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 271,
+    "Black/Red": 271,
+    "Blue": 343,
+    "Gold": 368,
+    "Red": 266,
+    "White": 329,
+    "White/Black": 271
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 308,
+    "Black/Red": 264,
+    "Blue": 373,
+    "Gold": 479,
+    "Red": 264,
+    "White": 359,
+    "White/Black": 359
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 141,
+    "Black/Red": 141,
+    "Blue": 201,
+    "Gold": 218,
+    "Red": 93,
+    "White": 171,
+    "White/Black": 171
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 326,
+    "Black/Red": 326,
+    "Blue": 382,
+    "Gold": 398,
+    "Red": 264,
+    "White": 354,
+    "White/Black": 354
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 345,
+    "Black/Red": 339,
+    "Blue": 439,
+    "Gold": 450,
+    "Red": 339,
+    "White": 422,
+    "White/Black": 345
+   }
+  }
+ ],
+ "id": "0a11513f-0b43-4bee-8bf7-b182f9ad4b13",
+ "lat": 26.6096349,
+ "lng": -80.1533261,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 6789
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6789
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6313
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6313
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5934
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5934
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-black-female",
+   "tee_name": "White/Black",
+   "yardage": 5558
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-black-male",
+   "tee_name": "White/Black",
+   "yardage": 5558
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 5191
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5191
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-red-male",
+   "tee_name": "Black/Red",
+   "yardage": 5013
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-red-female",
+   "tee_name": "Black/Red",
+   "yardage": 5013
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4720
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4720
+  }
+ ]
+}

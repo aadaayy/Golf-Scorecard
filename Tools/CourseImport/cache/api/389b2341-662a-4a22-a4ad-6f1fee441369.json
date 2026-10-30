@@ -1,0 +1,425 @@
+{
+ "city": "Naples",
+ "club_name": "Naples Lakes Country Club",
+ "course_name": "Naples Lakes Country Club",
+ "dataset_name": "Naples Lakes Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 14,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "i": 390,
+    "ii": 369,
+    "ii-iii": 350,
+    "iii": 350,
+    "iii-iv": 350,
+    "iv": 305,
+    "iv-v": 305,
+    "v": 270,
+    "v-vi": 217,
+    "vi": 217
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "i": 409,
+    "ii": 381,
+    "ii-iii": 381,
+    "iii": 366,
+    "iii-iv": 332,
+    "iv": 332,
+    "iv-v": 293,
+    "v": 293,
+    "v-vi": 293,
+    "vi": 270
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "i": 516,
+    "ii": 513,
+    "ii-iii": 513,
+    "iii": 477,
+    "iii-iv": 477,
+    "iv": 454,
+    "iv-v": 405,
+    "v": 405,
+    "v-vi": 349,
+    "vi": 349
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "i": 315,
+    "ii": 310,
+    "ii-iii": 310,
+    "iii": 290,
+    "iii-iv": 290,
+    "iv": 269,
+    "iv-v": 269,
+    "v": 248,
+    "v-vi": 248,
+    "vi": 224
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "i": 200,
+    "ii": 191,
+    "ii-iii": 160,
+    "iii": 160,
+    "iii-iv": 160,
+    "iv": 143,
+    "iv-v": 143,
+    "v": 128,
+    "v-vi": 128,
+    "vi": 110
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "i": 573,
+    "ii": 540,
+    "ii-iii": 500,
+    "iii": 500,
+    "iii-iv": 470,
+    "iv": 470,
+    "iv-v": 470,
+    "v": 457,
+    "v-vi": 394,
+    "vi": 394
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "i": 139,
+    "ii": 136,
+    "ii-iii": 136,
+    "iii": 122,
+    "iii-iv": 122,
+    "iv": 115,
+    "iv-v": 115,
+    "v": 100,
+    "v-vi": 100,
+    "vi": 83
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "i": 415,
+    "ii": 392,
+    "ii-iii": 392,
+    "iii": 374,
+    "iii-iv": 348,
+    "iv": 348,
+    "iv-v": 301,
+    "v": 301,
+    "v-vi": 301,
+    "vi": 275
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "i": 432,
+    "ii": 422,
+    "ii-iii": 385,
+    "iii": 385,
+    "iii-iv": 361,
+    "iv": 361,
+    "iv-v": 328,
+    "v": 328,
+    "v-vi": 263,
+    "vi": 263
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 415,
+    "ii": 384,
+    "ii-iii": 370,
+    "iii": 370,
+    "iii-iv": 350,
+    "iv": 350,
+    "iv-v": 308,
+    "v": 308,
+    "v-vi": 249,
+    "vi": 249
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "i": 519,
+    "ii": 484,
+    "ii-iii": 484,
+    "iii": 457,
+    "iii-iv": 457,
+    "iv": 438,
+    "iv-v": 401,
+    "v": 401,
+    "v-vi": 401,
+    "vi": 375
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "i": 423,
+    "ii": 417,
+    "ii-iii": 390,
+    "iii": 390,
+    "iii-iv": 353,
+    "iv": 353,
+    "iv-v": 313,
+    "v": 313,
+    "v-vi": 313,
+    "vi": 291
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "i": 169,
+    "ii": 157,
+    "ii-iii": 157,
+    "iii": 144,
+    "iii-iv": 144,
+    "iv": 133,
+    "iv-v": 133,
+    "v": 119,
+    "v-vi": 119,
+    "vi": 69
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "i": 400,
+    "ii": 378,
+    "ii-iii": 378,
+    "iii": 352,
+    "iii-iv": 311,
+    "iv": 311,
+    "iv-v": 311,
+    "v": 286,
+    "v-vi": 286,
+    "vi": 250
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "i": 145,
+    "ii": 135,
+    "ii-iii": 135,
+    "iii": 124,
+    "iii-iv": 124,
+    "iv": 112,
+    "iv-v": 112,
+    "v": 93,
+    "v-vi": 93,
+    "vi": 81
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "i": 307,
+    "ii": 293,
+    "ii-iii": 293,
+    "iii": 278,
+    "iii-iv": 278,
+    "iv": 267,
+    "iv-v": 248,
+    "v": 248,
+    "v-vi": 209,
+    "vi": 209
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "i": 437,
+    "ii": 415,
+    "ii-iii": 415,
+    "iii": 403,
+    "iii-iv": 375,
+    "iv": 375,
+    "iv-v": 375,
+    "v": 345,
+    "v-vi": 288,
+    "vi": 288
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "i": 525,
+    "ii": 494,
+    "ii-iii": 471,
+    "iii": 471,
+    "iii-iv": 471,
+    "iv": 445,
+    "iv-v": 445,
+    "v": 416,
+    "v-vi": 416,
+    "vi": 347
+   }
+  }
+ ],
+ "id": "389b2341-662a-4a22-a4ad-6f1fee441369",
+ "lat": 26.1168961,
+ "lng": -81.6881442,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6729
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6411
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-iii-male",
+   "tee_name": "II-III",
+   "yardage": 6220
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6013
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-iv-male",
+   "tee_name": "III-IV",
+   "yardage": 5773
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5581
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5581
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-v-male",
+   "tee_name": "IV-V",
+   "yardage": 5275
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5059
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 5059
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-vi-male",
+   "tee_name": "V-VI",
+   "yardage": 4667
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 4344
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 4344
+  }
+ ]
+}

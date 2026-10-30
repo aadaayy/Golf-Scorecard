@@ -1,0 +1,457 @@
+{
+ "city": "Cape Coral",
+ "club_name": "South At Hunters Run Golf Course",
+ "course_name": "South At Hunters Run Golf Course",
+ "dataset_name": "South At Hunters Run Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 354,
+    "Blue": 565,
+    "Blue/White": 533,
+    "Gold": 574,
+    "Green": 482,
+    "Green/Red": 482,
+    "Green/White": 482,
+    "Red": 473,
+    "Red/Black": 354,
+    "White": 533
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 228,
+    "Blue": 350,
+    "Blue/White": 350,
+    "Gold": 359,
+    "Green": 315,
+    "Green/Red": 315,
+    "Green/White": 331,
+    "Red": 309,
+    "Red/Black": 228,
+    "White": 331
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 218,
+    "Blue": 383,
+    "Blue/White": 363,
+    "Gold": 389,
+    "Green": 338,
+    "Green/Red": 305,
+    "Green/White": 363,
+    "Red": 305,
+    "Red/Black": 305,
+    "White": 363
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 246,
+    "Blue": 387,
+    "Blue/White": 387,
+    "Gold": 407,
+    "Green": 322,
+    "Green/Red": 322,
+    "Green/White": 322,
+    "Red": 309,
+    "Red/Black": 246,
+    "White": 343
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 263,
+    "Blue": 408,
+    "Blue/White": 399,
+    "Gold": 433,
+    "Green": 376,
+    "Green/Red": 322,
+    "Green/White": 376,
+    "Red": 322,
+    "Red/Black": 322,
+    "White": 399
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 53,
+    "Blue": 182,
+    "Blue/White": 161,
+    "Gold": 208,
+    "Green": 136,
+    "Green/Red": 112,
+    "Green/White": 161,
+    "Red": 112,
+    "Red/Black": 112,
+    "White": 161
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 238,
+    "Blue": 383,
+    "Blue/White": 364,
+    "Gold": 390,
+    "Green": 337,
+    "Green/Red": 285,
+    "Green/White": 337,
+    "Red": 285,
+    "Red/Black": 238,
+    "White": 364
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 70,
+    "Blue": 164,
+    "Blue/White": 164,
+    "Gold": 187,
+    "Green": 119,
+    "Green/Red": 119,
+    "Green/White": 145,
+    "Red": 97,
+    "Red/Black": 97,
+    "White": 145
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 363,
+    "Blue": 519,
+    "Blue/White": 503,
+    "Gold": 610,
+    "Green": 459,
+    "Green/Red": 439,
+    "Green/White": 459,
+    "Red": 439,
+    "Red/Black": 363,
+    "White": 503
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 280,
+    "Blue": 383,
+    "Blue/White": 383,
+    "Gold": 392,
+    "Green": 324,
+    "Green/Red": 291,
+    "Green/White": 324,
+    "Red": 291,
+    "Red/Black": 280,
+    "White": 363
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 225,
+    "Blue": 376,
+    "Blue/White": 376,
+    "Gold": 389,
+    "Green": 319,
+    "Green/Red": 319,
+    "Green/White": 330,
+    "Red": 303,
+    "Red/Black": 303,
+    "White": 330
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 333,
+    "Blue": 511,
+    "Blue/White": 489,
+    "Gold": 519,
+    "Green": 463,
+    "Green/Red": 463,
+    "Green/White": 489,
+    "Red": 436,
+    "Red/Black": 333,
+    "White": 489
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 107,
+    "Blue": 158,
+    "Blue/White": 158,
+    "Gold": 164,
+    "Green": 117,
+    "Green/Red": 117,
+    "Green/White": 138,
+    "Red": 107,
+    "Red/Black": 107,
+    "White": 138
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 411,
+    "Blue": 523,
+    "Blue/White": 508,
+    "Gold": 554,
+    "Green": 499,
+    "Green/Red": 421,
+    "Green/White": 499,
+    "Red": 421,
+    "Red/Black": 411,
+    "White": 508
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 240,
+    "Blue": 391,
+    "Blue/White": 391,
+    "Gold": 418,
+    "Green": 325,
+    "Green/Red": 325,
+    "Green/White": 325,
+    "Red": 309,
+    "Red/Black": 309,
+    "White": 356
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 58,
+    "Blue": 162,
+    "Blue/White": 162,
+    "Gold": 187,
+    "Green": 117,
+    "Green/Red": 117,
+    "Green/White": 140,
+    "Red": 110,
+    "Red/Black": 110,
+    "White": 140
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 231,
+    "Blue": 373,
+    "Blue/White": 373,
+    "Gold": 405,
+    "Green": 319,
+    "Green/Red": 298,
+    "Green/White": 348,
+    "Red": 298,
+    "Red/Black": 231,
+    "White": 348
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 280,
+    "Blue": 395,
+    "Blue/White": 376,
+    "Gold": 426,
+    "Green": 355,
+    "Green/Red": 329,
+    "Green/White": 355,
+    "Red": 329,
+    "Red/Black": 329,
+    "White": 376
+   }
+  }
+ ],
+ "id": "357fec13-89d7-4bcd-80a3-9b91ef2eeffa",
+ "lat": 26.634274,
+ "lng": -81.967775,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7011
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6613
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6440
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6190
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6190
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-white-male",
+   "tee_name": "Green/White",
+   "yardage": 5924
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-white-female",
+   "tee_name": "Green/White",
+   "yardage": 5924
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5722
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5722
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-red-male",
+   "tee_name": "Green/Red",
+   "yardage": 5381
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-red-female",
+   "tee_name": "Green/Red",
+   "yardage": 5381
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5255
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5255
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-black-female",
+   "tee_name": "Red/Black",
+   "yardage": 4678
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-black-male",
+   "tee_name": "Red/Black",
+   "yardage": 4678
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 4198
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 4198
+  }
+ ]
+}

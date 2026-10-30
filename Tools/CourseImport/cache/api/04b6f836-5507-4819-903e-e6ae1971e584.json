@@ -1,0 +1,337 @@
+{
+ "city": "Sanibel",
+ "club_name": "The Dunes Golf Tennis Club",
+ "course_name": "The Dunes Golf Tennis Club",
+ "dataset_name": "The Dunes Golf Tennis Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "i": 316,
+    "ii": 308,
+    "iii": 291,
+    "iii/iv": 291,
+    "iv": 226,
+    "v": 177
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "i": 101,
+    "ii": 91,
+    "iii": 82,
+    "iii/iv": 82,
+    "iv": 72,
+    "v": 66
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "i": 463,
+    "ii": 435,
+    "iii": 410,
+    "iii/iv": 410,
+    "iv": 358,
+    "v": 271
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "i": 293,
+    "ii": 287,
+    "iii": 278,
+    "iii/iv": 278,
+    "iv": 260,
+    "v": 175
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "i": 361,
+    "ii": 331,
+    "iii": 303,
+    "iii/iv": 250,
+    "iv": 250,
+    "v": 142
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "i": 151,
+    "ii": 133,
+    "iii": 115,
+    "iii/iv": 115,
+    "iv": 89,
+    "v": 85
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "i": 414,
+    "ii": 363,
+    "iii": 343,
+    "iii/iv": 271,
+    "iv": 271,
+    "v": 226
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "i": 270,
+    "ii": 265,
+    "iii": 247,
+    "iii/iv": 171,
+    "iv": 171,
+    "v": 152
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "i": 131,
+    "ii": 124,
+    "iii": 111,
+    "iii/iv": 111,
+    "iv": 98,
+    "v": 97
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 398,
+    "ii": 390,
+    "iii": 367,
+    "iii/iv": 322,
+    "iv": 322,
+    "v": 236
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "i": 153,
+    "ii": 142,
+    "iii": 127,
+    "iii/iv": 127,
+    "iv": 109,
+    "v": 89
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "i": 310,
+    "ii": 284,
+    "iii": 279,
+    "iii/iv": 205,
+    "iv": 205,
+    "v": 157
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "i": 381,
+    "ii": 369,
+    "iii": 345,
+    "iii/iv": 345,
+    "iv": 255,
+    "v": 201
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "i": 442,
+    "ii": 364,
+    "iii": 352,
+    "iii/iv": 352,
+    "iv": 310,
+    "v": 269
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "i": 301,
+    "ii": 274,
+    "iii": 266,
+    "iii/iv": 266,
+    "iv": 240,
+    "v": 207
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "i": 478,
+    "ii": 465,
+    "iii": 407,
+    "iii/iv": 376,
+    "iv": 376,
+    "v": 301
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "i": 185,
+    "ii": 172,
+    "iii": 151,
+    "iii/iv": 151,
+    "iv": 77,
+    "v": 77
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "i": 458,
+    "ii": 452,
+    "iii": 439,
+    "iii/iv": 308,
+    "iv": 308,
+    "v": 276
+   }
+  }
+ ],
+ "id": "04b6f836-5507-4819-903e-e6ae1971e584",
+ "lat": 26.4545117,
+ "lng": -82.0422711,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 5606
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 5249
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 5249
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 4913
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 4913
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "iii-iv-male",
+   "tee_name": "III/IV",
+   "yardage": 4431
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "iii-iv-female",
+   "tee_name": "III/IV",
+   "yardage": 4431
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 3997
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 3997
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 3207
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 3207
+  }
+ ]
+}

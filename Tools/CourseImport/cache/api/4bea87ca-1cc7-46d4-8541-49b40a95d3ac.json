@@ -1,0 +1,313 @@
+{
+ "city": "Bradenton",
+ "club_name": "Tara Golf Country Club",
+ "course_name": "Tara Golf Country Club",
+ "dataset_name": "Tara Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Tee I": 393,
+    "Tee II": 371,
+    "Tee III": 363,
+    "Tee III/IV": 363,
+    "Tee IV": 337,
+    "Tee V": 330
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Tee I": 535,
+    "Tee II": 514,
+    "Tee III": 492,
+    "Tee III/IV": 468,
+    "Tee IV": 468,
+    "Tee V": 436
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Tee I": 415,
+    "Tee II": 381,
+    "Tee III": 367,
+    "Tee III/IV": 354,
+    "Tee IV": 354,
+    "Tee V": 335
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Tee I": 162,
+    "Tee II": 158,
+    "Tee III": 150,
+    "Tee III/IV": 150,
+    "Tee IV": 142,
+    "Tee V": 135
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Tee I": 432,
+    "Tee II": 393,
+    "Tee III": 372,
+    "Tee III/IV": 350,
+    "Tee IV": 350,
+    "Tee V": 330
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Tee I": 206,
+    "Tee II": 185,
+    "Tee III": 169,
+    "Tee III/IV": 169,
+    "Tee IV": 158,
+    "Tee V": 141
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Tee I": 387,
+    "Tee II": 365,
+    "Tee III": 353,
+    "Tee III/IV": 327,
+    "Tee IV": 327,
+    "Tee V": 319
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Tee I": 352,
+    "Tee II": 338,
+    "Tee III": 330,
+    "Tee III/IV": 330,
+    "Tee IV": 299,
+    "Tee V": 274
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Tee I": 515,
+    "Tee II": 496,
+    "Tee III": 485,
+    "Tee III/IV": 485,
+    "Tee IV": 449,
+    "Tee V": 449
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Tee I": 545,
+    "Tee II": 517,
+    "Tee III": 490,
+    "Tee III/IV": 490,
+    "Tee IV": 447,
+    "Tee V": 447
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Tee I": 401,
+    "Tee II": 350,
+    "Tee III": 350,
+    "Tee III/IV": 330,
+    "Tee IV": 330,
+    "Tee V": 320
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Tee I": 429,
+    "Tee II": 390,
+    "Tee III": 368,
+    "Tee III/IV": 350,
+    "Tee IV": 350,
+    "Tee V": 332
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Tee I": 179,
+    "Tee II": 172,
+    "Tee III": 152,
+    "Tee III/IV": 152,
+    "Tee IV": 140,
+    "Tee V": 112
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Tee I": 381,
+    "Tee II": 363,
+    "Tee III": 334,
+    "Tee III/IV": 334,
+    "Tee IV": 320,
+    "Tee V": 289
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Tee I": 559,
+    "Tee II": 534,
+    "Tee III": 501,
+    "Tee III/IV": 454,
+    "Tee IV": 454,
+    "Tee V": 401
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Tee I": 408,
+    "Tee II": 365,
+    "Tee III": 355,
+    "Tee III/IV": 355,
+    "Tee IV": 321,
+    "Tee V": 278
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Tee I": 179,
+    "Tee II": 153,
+    "Tee III": 143,
+    "Tee III/IV": 143,
+    "Tee IV": 132,
+    "Tee V": 120
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Tee I": 426,
+    "Tee II": 365,
+    "Tee III": 356,
+    "Tee III/IV": 328,
+    "Tee IV": 328,
+    "Tee V": 301
+   }
+  }
+ ],
+ "id": "4bea87ca-1cc7-46d4-8541-49b40a95d3ac",
+ "lat": 27.439455,
+ "lng": -82.4768142,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-i-male",
+   "tee_name": "Tee I",
+   "yardage": 6904
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 6410
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 6130
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-iv-male",
+   "tee_name": "Tee III/IV",
+   "yardage": 5932
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-male",
+   "tee_name": "Tee IV",
+   "yardage": 5706
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-female",
+   "tee_name": "Tee IV",
+   "yardage": 5706
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-male",
+   "tee_name": "Tee V",
+   "yardage": 5349
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-female",
+   "tee_name": "Tee V",
+   "yardage": 5349
+  }
+ ]
+}

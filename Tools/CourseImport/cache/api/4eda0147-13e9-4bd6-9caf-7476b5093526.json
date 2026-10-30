@@ -1,0 +1,225 @@
+{
+ "city": "Aventura",
+ "club_name": "Turnberry Isle Country Club The Miller Course",
+ "course_name": "Turnberry Isle Country Club The Miller Course",
+ "dataset_name": "Turnberry Isle Country Club The Miller Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "augusta": 314,
+    "pebble_beach": 374
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "augusta": 329,
+    "pebble_beach": 370
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "augusta": 118,
+    "pebble_beach": 174
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "augusta": 342,
+    "pebble_beach": 410
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "augusta": 446,
+    "pebble_beach": 529
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "augusta": 109,
+    "pebble_beach": 187
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "augusta": 317,
+    "pebble_beach": 382
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "augusta": 110,
+    "pebble_beach": 176
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "augusta": 467,
+    "pebble_beach": 495
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "augusta": 262,
+    "pebble_beach": 307
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "augusta": 113,
+    "pebble_beach": 177
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "augusta": 261,
+    "pebble_beach": 295
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "augusta": 282,
+    "pebble_beach": 386
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "augusta": 452,
+    "pebble_beach": 515
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "augusta": 113,
+    "pebble_beach": 165
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "augusta": 392,
+    "pebble_beach": 451
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "augusta": 91,
+    "pebble_beach": 155
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "augusta": 357,
+    "pebble_beach": 409
+   }
+  }
+ ],
+ "id": "4eda0147-13e9-4bd6-9caf-7476b5093526",
+ "lat": 25.960639,
+ "lng": -80.137564,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "oakmont-male",
+   "tee_name": "Oakmont",
+   "yardage": 6417
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "pebble-beach-male",
+   "tee_name": "Pebble Beach",
+   "yardage": 5973
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "merion-male",
+   "tee_name": "Merion",
+   "yardage": 5322
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "augusta-male",
+   "tee_name": "Augusta",
+   "yardage": 4846
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "augusta-female",
+   "tee_name": "Augusta",
+   "yardage": 4846
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "riviera-female",
+   "tee_name": "Riviera",
+   "yardage": 4343
+  }
+ ]
+}

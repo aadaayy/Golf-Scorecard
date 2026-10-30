@@ -1,0 +1,313 @@
+{
+ "city": "Tampa",
+ "club_name": "Carrollwood Country Club Pines Cypress Course",
+ "course_name": "Carrollwood Country Club Pines Cypress Course",
+ "dataset_name": "Carrollwood Country Club Pines Cypress Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 548,
+    "red": 388,
+    "silver": 481,
+    "teal": 390,
+    "white": 497,
+    "yellow": 318
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 372,
+    "red": 257,
+    "silver": 308,
+    "teal": 260,
+    "white": 341,
+    "yellow": 210
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 410,
+    "red": 319,
+    "silver": 345,
+    "teal": 319,
+    "white": 378,
+    "yellow": 232
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 390,
+    "red": 293,
+    "silver": 321,
+    "teal": 293,
+    "white": 356,
+    "yellow": 227
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 193,
+    "red": 120,
+    "silver": 152,
+    "teal": 120,
+    "white": 169,
+    "yellow": 86
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 414,
+    "red": 249,
+    "silver": 355,
+    "teal": 248,
+    "white": 386,
+    "yellow": 201
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 393,
+    "red": 287,
+    "silver": 329,
+    "teal": 287,
+    "white": 359,
+    "yellow": 204
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 160,
+    "red": 91,
+    "silver": 118,
+    "teal": 95,
+    "white": 135,
+    "yellow": 88
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 526,
+    "red": 412,
+    "silver": 453,
+    "teal": 415,
+    "white": 488,
+    "yellow": 336
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 383,
+    "red": 278,
+    "silver": 340,
+    "teal": 278,
+    "white": 359,
+    "yellow": 248
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 555,
+    "red": 393,
+    "silver": 431,
+    "teal": 396,
+    "white": 521,
+    "yellow": 359
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 171,
+    "red": 92,
+    "silver": 134,
+    "teal": 95,
+    "white": 146,
+    "yellow": 89
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 454,
+    "red": 335,
+    "silver": 395,
+    "teal": 339,
+    "white": 417,
+    "yellow": 277
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 387,
+    "red": 290,
+    "silver": 327,
+    "teal": 294,
+    "white": 344,
+    "yellow": 224
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 190,
+    "red": 125,
+    "silver": 149,
+    "teal": 129,
+    "white": 166,
+    "yellow": 116
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 590,
+    "red": 466,
+    "silver": 550,
+    "teal": 471,
+    "white": 567,
+    "yellow": 413
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 406,
+    "red": 295,
+    "silver": 369,
+    "teal": 300,
+    "white": 384,
+    "yellow": 242
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 438,
+    "red": 316,
+    "silver": 381,
+    "teal": 321,
+    "white": 408,
+    "yellow": 242
+   }
+  }
+ ],
+ "id": "3041fb46-c9e5-4cec-9359-0224df52eaa7",
+ "lat": 28.0732654,
+ "lng": -82.5134866,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 7002
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6473
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5987
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5987
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "teal-male",
+   "tee_name": "Teal",
+   "yardage": 5193
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "teal-female",
+   "tee_name": "Teal",
+   "yardage": 5193
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4995
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 4250
+  }
+ ]
+}

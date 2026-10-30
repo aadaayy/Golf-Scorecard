@@ -1,0 +1,271 @@
+{
+ "city": "Naples",
+ "club_name": "Naples National Golf Club",
+ "course_name": "Naples National Golf Club",
+ "dataset_name": "Naples National Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back": 361,
+    "championship": 385,
+    "forward": 319,
+    "member": 348,
+    "middle": 329
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "back": 541,
+    "championship": 582,
+    "forward": 427,
+    "member": 515,
+    "middle": 486
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "back": 174,
+    "championship": 197,
+    "forward": 92,
+    "member": 162,
+    "middle": 127
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "back": 541,
+    "championship": 553,
+    "forward": 417,
+    "member": 507,
+    "middle": 465
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "back": 397,
+    "championship": 407,
+    "forward": 301,
+    "member": 344,
+    "middle": 313
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "back": 121,
+    "championship": 134,
+    "forward": 82,
+    "member": 121,
+    "middle": 94
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "back": 399,
+    "championship": 406,
+    "forward": 330,
+    "member": 372,
+    "middle": 362
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "back": 463,
+    "championship": 490,
+    "forward": 366,
+    "member": 432,
+    "middle": 385
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back": 369,
+    "championship": 383,
+    "forward": 337,
+    "member": 360,
+    "middle": 346
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "back": 420,
+    "championship": 429,
+    "forward": 330,
+    "member": 386,
+    "middle": 376
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "back": 372,
+    "championship": 387,
+    "forward": 339,
+    "member": 362,
+    "middle": 349
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back": 217,
+    "championship": 226,
+    "forward": 128,
+    "member": 146,
+    "middle": 140
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "back": 390,
+    "championship": 397,
+    "forward": 321,
+    "member": 362,
+    "middle": 337
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "back": 279,
+    "championship": 293,
+    "forward": 235,
+    "member": 279,
+    "middle": 247
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "back": 560,
+    "championship": 578,
+    "forward": 450,
+    "member": 532,
+    "middle": 491
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "back": 430,
+    "championship": 465,
+    "forward": 321,
+    "member": 395,
+    "middle": 385
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "back": 178,
+    "championship": 187,
+    "forward": 108,
+    "member": 165,
+    "middle": 148
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "back": 514,
+    "championship": 568,
+    "forward": 403,
+    "member": 466,
+    "middle": 450
+   }
+  }
+ ],
+ "id": "2484dff5-6d0a-4489-8ff1-3f74714aea5a",
+ "lat": 26.132215,
+ "lng": -81.6901982,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7045
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6729
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6325
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 6007
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 5575
+  }
+ ]
+}

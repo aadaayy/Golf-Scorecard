@@ -1,0 +1,271 @@
+{
+ "city": "St Cloud",
+ "club_name": "Royal St Cloud Golf Links Red White Course",
+ "course_name": "Royal St Cloud Golf Links Red White Course",
+ "dataset_name": "Royal St Cloud Golf Links Red White Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 423,
+    "copper": 309,
+    "gold": 370,
+    "silver": 341,
+    "web": 425
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 552,
+    "copper": 443,
+    "gold": 524,
+    "silver": 491,
+    "web": 553
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 469,
+    "copper": 336,
+    "gold": 398,
+    "silver": 368,
+    "web": 471
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 139,
+    "copper": 90,
+    "gold": 120,
+    "silver": 108,
+    "web": 140
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 384,
+    "copper": 287,
+    "gold": 347,
+    "silver": 315,
+    "web": 385
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 441,
+    "copper": 328,
+    "gold": 416,
+    "silver": 382,
+    "web": 444
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 323,
+    "copper": 227,
+    "gold": 265,
+    "silver": 240,
+    "web": 327
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 210,
+    "copper": 119,
+    "gold": 181,
+    "silver": 162,
+    "web": 212
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 575,
+    "copper": 404,
+    "gold": 525,
+    "silver": 461,
+    "web": 580
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 561,
+    "copper": 417,
+    "gold": 540,
+    "silver": 501,
+    "web": 555
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 442,
+    "copper": 266,
+    "gold": 391,
+    "silver": 354,
+    "web": 445
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 149,
+    "copper": 78,
+    "gold": 134,
+    "silver": 120,
+    "web": 150
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "copper": 324,
+    "gold": 400,
+    "silver": 348,
+    "web": 410
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "copper": 274,
+    "gold": 352,
+    "silver": 342,
+    "web": 387
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 182,
+    "copper": 143,
+    "gold": 172,
+    "silver": 153,
+    "web": 187
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 385,
+    "copper": 277,
+    "gold": 363,
+    "silver": 342,
+    "web": 389
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 453,
+    "copper": 328,
+    "gold": 411,
+    "silver": 372,
+    "web": 460
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 534,
+    "copper": 426,
+    "gold": 517,
+    "silver": 495,
+    "web": 540
+   }
+  }
+ ],
+ "id": "41b71170-9800-482c-8bfe-32464699fb76",
+ "lat": 28.20776,
+ "lng": -81.2784,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7060
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6508
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5935
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5935
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-female",
+   "tee_name": "Copper",
+   "yardage": 5110
+  }
+ ]
+}

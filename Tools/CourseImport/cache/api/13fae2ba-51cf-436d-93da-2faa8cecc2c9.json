@@ -1,0 +1,279 @@
+{
+ "city": "Orlando",
+ "club_name": "Bay Hill Club Lodge Championship Course",
+ "course_name": "Bay Hill Club Lodge Championship Course",
+ "dataset_name": "Bay Hill Club Lodge Championship Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 436,
+    "green": 459,
+    "red": 380,
+    "white": 360,
+    "yellow": 413
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 218,
+    "green": 230,
+    "red": 183,
+    "white": 149,
+    "yellow": 198
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 404,
+    "green": 435,
+    "red": 321,
+    "white": 232,
+    "yellow": 371
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 496,
+    "green": 569,
+    "red": 441,
+    "white": 398,
+    "yellow": 466
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 364,
+    "green": 384,
+    "red": 328,
+    "white": 314,
+    "yellow": 346
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 542,
+    "green": 589,
+    "red": 445,
+    "white": 398,
+    "yellow": 504
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 181,
+    "green": 196,
+    "red": 134,
+    "white": 104,
+    "yellow": 160
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 406,
+    "green": 456,
+    "red": 343,
+    "white": 263,
+    "yellow": 369
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 447,
+    "green": 481,
+    "red": 395,
+    "white": 363,
+    "yellow": 412
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 382,
+    "green": 397,
+    "red": 332,
+    "white": 291,
+    "yellow": 359
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 406,
+    "green": 436,
+    "red": 368,
+    "white": 319,
+    "yellow": 394
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "blue": 563,
+    "green": 573,
+    "red": 490,
+    "white": 435,
+    "yellow": 537
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 355,
+    "green": 371,
+    "red": 315,
+    "white": 255,
+    "yellow": 335
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "green": 216,
+    "red": 139,
+    "white": 122,
+    "yellow": 163
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 412,
+    "green": 427,
+    "red": 337,
+    "white": 318,
+    "yellow": 391
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 491,
+    "green": 510,
+    "red": 400,
+    "white": 354,
+    "yellow": 454
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 174,
+    "green": 220,
+    "red": 149,
+    "white": 144,
+    "yellow": 163
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 440,
+    "green": 460,
+    "red": 349,
+    "white": 312,
+    "yellow": 406
+   }
+  }
+ ],
+ "id": "13fae2ba-51cf-436d-93da-2faa8cecc2c9",
+ "lat": 28.4583333,
+ "lng": -81.5105556,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 7381
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6895
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 6437
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5788
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5788
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5143
+  }
+ ]
+}

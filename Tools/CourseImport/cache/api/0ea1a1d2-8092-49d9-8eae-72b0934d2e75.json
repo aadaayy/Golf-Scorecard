@@ -1,0 +1,250 @@
+{
+ "city": "The Villages",
+ "club_name": "Cherry Hills Course At Palmer Legends",
+ "course_name": "Cherry Hills Course At Palmer Legends",
+ "dataset_name": "Cherry Hills Course At Palmer Legends",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 534,
+    "blue": 486,
+    "friendly": 327,
+    "gold": 508,
+    "green": 388,
+    "white": 392
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 430,
+    "blue": 377,
+    "friendly": 221,
+    "gold": 400,
+    "green": 308,
+    "white": 340
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 402,
+    "blue": 340,
+    "friendly": 198,
+    "gold": 379,
+    "green": 271,
+    "white": 318
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 418,
+    "blue": 352,
+    "friendly": 251,
+    "gold": 383,
+    "green": 283,
+    "white": 314
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 169,
+    "blue": 138,
+    "friendly": 74,
+    "gold": 146,
+    "green": 104,
+    "white": 113
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 451,
+    "blue": 350,
+    "friendly": 242,
+    "gold": 388,
+    "green": 312,
+    "white": 319
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 358,
+    "blue": 302,
+    "friendly": 187,
+    "gold": 331,
+    "green": 251,
+    "white": 275
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 209,
+    "blue": 157,
+    "friendly": 112,
+    "gold": 183,
+    "green": 112,
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 570,
+    "blue": 484,
+    "friendly": 314,
+    "gold": 519,
+    "green": 452,
+    "white": 458
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "0ea1a1d2-8092-49d9-8eae-72b0934d2e75",
+ "lat": 28.9101941,
+ "lng": -81.9932891,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3541
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 3237
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 2986
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 2663
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2663
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 2481
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 2481
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 1926
+  }
+ ]
+}

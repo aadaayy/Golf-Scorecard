@@ -1,0 +1,311 @@
+{
+ "city": "St. Petersburg",
+ "club_name": "Renaissance Vinoy Resort",
+ "course_name": "Renaissance Vinoy Resort",
+ "dataset_name": "Renaissance Vinoy Resort",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 326,
+    "blue": 313,
+    "gold": 326,
+    "red": 209,
+    "white": 300
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 187,
+    "blue": 173,
+    "gold": 180,
+    "red": 116,
+    "white": 166
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 346,
+    "blue": 333,
+    "gold": 346,
+    "red": 277,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 389,
+    "blue": 355,
+    "gold": 372,
+    "red": 278,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 375,
+    "blue": 349,
+    "gold": 375,
+    "red": 251,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "blue": 364,
+    "gold": 376,
+    "red": 285,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 501,
+    "blue": 444,
+    "gold": 469,
+    "red": 394,
+    "white": 419
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 226,
+    "blue": 204,
+    "gold": 215,
+    "red": 149,
+    "white": 182
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 475,
+    "blue": 416,
+    "gold": 444,
+    "red": 366,
+    "white": 384
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "blue": 371,
+    "gold": 385,
+    "red": 351,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 409,
+    "blue": 377,
+    "gold": 393,
+    "red": 316,
+    "white": 323
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 355,
+    "blue": 331,
+    "gold": 343,
+    "red": 257,
+    "white": 288
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 170,
+    "blue": 150,
+    "gold": 160,
+    "red": 125,
+    "white": 136
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "blue": 333,
+    "gold": 362,
+    "red": 262,
+    "white": 310
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 336,
+    "blue": 308,
+    "gold": 322,
+    "red": 236,
+    "white": 295
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 567,
+    "blue": 532,
+    "gold": 554,
+    "red": 462,
+    "white": 485
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 148,
+    "blue": 128,
+    "gold": 140,
+    "red": 104,
+    "white": 116
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 509,
+    "blue": 457,
+    "gold": 493,
+    "red": 401,
+    "white": 437
+   }
+  }
+ ],
+ "id": "377c4770-7504-4597-b03f-fc2767e93b6e",
+ "lat": 27.7780658,
+ "lng": -82.6303344,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6626
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6491
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5952
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5952
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5609
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5609
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5204
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5204
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4825
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4825
+  }
+ ]
+}

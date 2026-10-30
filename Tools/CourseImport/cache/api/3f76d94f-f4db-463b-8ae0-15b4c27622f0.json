@@ -1,0 +1,293 @@
+{
+ "city": "Naples",
+ "club_name": "Colliers Reserve Country Club",
+ "course_name": "Colliers Reserve Country Club",
+ "dataset_name": "Colliers Reserve Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "ii": 473,
+    "iii": 473,
+    "iv": 487,
+    "vi": 508
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "ii": 373,
+    "iii": 373,
+    "iv": 373,
+    "vi": 417
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "ii": 225,
+    "iii": 331,
+    "iv": 358,
+    "vi": 390
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "ii": 149,
+    "iii": 149,
+    "iv": 149,
+    "vi": 173
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "ii": 283,
+    "iii": 331,
+    "iv": 365,
+    "vi": 390
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "ii": 333,
+    "iii": 381,
+    "iv": 381,
+    "vi": 465
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "ii": 121,
+    "iii": 164,
+    "iv": 164,
+    "vi": 195
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "ii": 448,
+    "iii": 448,
+    "iv": 480,
+    "vi": 493
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "ii": 328,
+    "iii": 328,
+    "iv": 367,
+    "vi": 400
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "ii": 282,
+    "iii": 341,
+    "iv": 341,
+    "vi": 419
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "ii": 325,
+    "iii": 369,
+    "iv": 369,
+    "vi": 431
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "ii": 110,
+    "iii": 142,
+    "iv": 157,
+    "vi": 183
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "ii": 446,
+    "iii": 446,
+    "iv": 492,
+    "vi": 527
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "ii": 317,
+    "iii": 317,
+    "iv": 331,
+    "vi": 341
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "ii": 320,
+    "iii": 320,
+    "iv": 372,
+    "vi": 395
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "ii": 290,
+    "iii": 301,
+    "iv": 359,
+    "vi": 375
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "ii": 126,
+    "iii": 126,
+    "iv": 141,
+    "vi": 152
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "ii": 464,
+    "iii": 464,
+    "iv": 502,
+    "vi": 531
+   }
+  }
+ ],
+ "id": "3f76d94f-f4db-463b-8ae0-15b4c27622f0",
+ "lat": 26.2818818,
+ "lng": -81.7949729,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 6744
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 6479
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "players-male",
+   "tee_name": "Players",
+   "yardage": 6295
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 6159
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "collier-male",
+   "tee_name": "Collier",
+   "yardage": 6096
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5759
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 5389
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 5389
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "reserve-female",
+   "tee_name": "Reserve",
+   "yardage": 5154
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-female",
+   "tee_name": "I",
+   "yardage": 4901
+  }
+ ]
+}

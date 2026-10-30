@@ -1,0 +1,363 @@
+{
+ "city": "Atlantis",
+ "club_name": "Lost City Golf Club East South",
+ "course_name": "Lost City Golf Club East South",
+ "dataset_name": "Lost City Golf Club East South",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 475,
+    "blue/white": 460,
+    "gold": 495,
+    "gold/blue": 495,
+    "green": 410,
+    "teal": 400,
+    "white": 460
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 355,
+    "blue/white": 355,
+    "gold": 380,
+    "gold/blue": 380,
+    "green": 285,
+    "teal": 285,
+    "white": 290
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 315,
+    "blue/white": 315,
+    "gold": 335,
+    "gold/blue": 335,
+    "green": 275,
+    "teal": 275,
+    "white": 295
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 495,
+    "blue/white": 430,
+    "gold": 525,
+    "gold/blue": 495,
+    "green": 395,
+    "teal": 395,
+    "white": 430
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "blue/white": 170,
+    "gold": 200,
+    "gold/blue": 180,
+    "green": 145,
+    "teal": 125,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "blue/white": 350,
+    "gold": 420,
+    "gold/blue": 395,
+    "green": 330,
+    "teal": 310,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 325,
+    "blue/white": 325,
+    "gold": 365,
+    "gold/blue": 365,
+    "green": 280,
+    "teal": 280,
+    "white": 300
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 145,
+    "blue/white": 145,
+    "gold": 175,
+    "gold/blue": 145,
+    "green": 125,
+    "teal": 125,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 370,
+    "blue/white": 340,
+    "gold": 395,
+    "gold/blue": 370,
+    "green": 335,
+    "teal": 310,
+    "white": 340
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 465,
+    "blue/white": 440,
+    "gold": 500,
+    "gold/blue": 500,
+    "green": 410,
+    "teal": 380,
+    "white": 440
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 255,
+    "blue/white": 255,
+    "gold": 295,
+    "gold/blue": 295,
+    "green": 225,
+    "teal": 225,
+    "white": 230
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 375,
+    "blue/white": 375,
+    "gold": 410,
+    "gold/blue": 375,
+    "green": 345,
+    "teal": 345,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 160,
+    "blue/white": 160,
+    "gold": 185,
+    "gold/blue": 185,
+    "green": 140,
+    "teal": 140,
+    "white": 145
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 485,
+    "blue/white": 465,
+    "gold": 505,
+    "gold/blue": 505,
+    "green": 450,
+    "teal": 405,
+    "white": 465
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 330,
+    "blue/white": 330,
+    "gold": 370,
+    "gold/blue": 370,
+    "green": 300,
+    "teal": 300,
+    "white": 305
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 160,
+    "blue/white": 150,
+    "gold": 180,
+    "gold/blue": 160,
+    "green": 135,
+    "teal": 120,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 370,
+    "blue/white": 345,
+    "gold": 410,
+    "gold/blue": 370,
+    "green": 330,
+    "teal": 300,
+    "white": 345
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 365,
+    "blue/white": 365,
+    "gold": 405,
+    "gold/blue": 365,
+    "green": 335,
+    "teal": 335,
+    "white": 350
+   }
+  }
+ ],
+ "id": "11e7bed2-f3ab-4466-b6c7-957999910d4d",
+ "lat": 26.594655,
+ "lng": -80.098492,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6882
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "gold-blue-male",
+   "tee_name": "Gold/Blue",
+   "yardage": 6650
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6352
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6159
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5993
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5993
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5629
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5629
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5442
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5442
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "teal-male",
+   "tee_name": "Teal",
+   "yardage": 5069
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "teal-female",
+   "tee_name": "Teal",
+   "yardage": 5069
+  }
+ ]
+}

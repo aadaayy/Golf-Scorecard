@@ -1,0 +1,531 @@
+{
+ "city": "Estero",
+ "club_name": "Wildcat Run Country Club",
+ "course_name": "Wildcat Run Country Club",
+ "dataset_name": "Wildcat Run Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 380,
+    "Copper": 252,
+    "Copper (W)": 252,
+    "Gold": 318,
+    "Gold (W)": 318,
+    "Green": 318,
+    "Green (W)": 318,
+    "Red": 252,
+    "Red (W)": 252,
+    "Silver": 273,
+    "Silver (W)": 273,
+    "White": 289,
+    "White (W)": 289,
+    "Yellow": 213,
+    "Yellow (W)": 213
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 443,
+    "Copper": 309,
+    "Copper (W)": 309,
+    "Gold": 400,
+    "Gold (W)": 400,
+    "Green": 364,
+    "Green (W)": 364,
+    "Red": 267,
+    "Red (W)": 267,
+    "Silver": 317,
+    "Silver (W)": 317,
+    "White": 364,
+    "White (W)": 364,
+    "Yellow": 267,
+    "Yellow (W)": 267
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 193,
+    "Copper": 120,
+    "Copper (W)": 120,
+    "Gold": 178,
+    "Gold (W)": 178,
+    "Green": 160,
+    "Green (W)": 160,
+    "Red": 120,
+    "Red (W)": 120,
+    "Silver": 130,
+    "Silver (W)": 130,
+    "White": 160,
+    "White (W)": 160,
+    "Yellow": 96,
+    "Yellow (W)": 96
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Blue": 537,
+    "Copper": 423,
+    "Copper (W)": 423,
+    "Gold": 513,
+    "Gold (W)": 513,
+    "Green": 491,
+    "Green (W)": 491,
+    "Red": 423,
+    "Red (W)": 423,
+    "Silver": 468,
+    "Silver (W)": 468,
+    "White": 491,
+    "White (W)": 491,
+    "Yellow": 380,
+    "Yellow (W)": 380
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 361,
+    "Copper": 283,
+    "Copper (W)": 283,
+    "Gold": 338,
+    "Gold (W)": 338,
+    "Green": 338,
+    "Green (W)": 338,
+    "Red": 283,
+    "Red (W)": 283,
+    "Silver": 302,
+    "Silver (W)": 302,
+    "White": 311,
+    "White (W)": 311,
+    "Yellow": 221,
+    "Yellow (W)": 221
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 163,
+    "Copper": 115,
+    "Copper (W)": 115,
+    "Gold": 141,
+    "Gold (W)": 141,
+    "Green": 141,
+    "Green (W)": 141,
+    "Red": 92,
+    "Red (W)": 92,
+    "Silver": 121,
+    "Silver (W)": 121,
+    "White": 133,
+    "White (W)": 133,
+    "Yellow": 92,
+    "Yellow (W)": 92
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Blue": 516,
+    "Copper": 436,
+    "Copper (W)": 436,
+    "Gold": 495,
+    "Gold (W)": 495,
+    "Green": 495,
+    "Green (W)": 495,
+    "Red": 367,
+    "Red (W)": 367,
+    "Silver": 442,
+    "Silver (W)": 442,
+    "White": 456,
+    "White (W)": 456,
+    "Yellow": 367,
+    "Yellow (W)": 367
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 443,
+    "Copper": 299,
+    "Copper (W)": 299,
+    "Gold": 408,
+    "Gold (W)": 408,
+    "Green": 376,
+    "Green (W)": 376,
+    "Red": 299,
+    "Red (W)": 299,
+    "Silver": 306,
+    "Silver (W)": 306,
+    "White": 376,
+    "White (W)": 376,
+    "Yellow": 278,
+    "Yellow (W)": 278
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 438,
+    "Copper": 321,
+    "Copper (W)": 321,
+    "Gold": 412,
+    "Gold (W)": 412,
+    "Green": 389,
+    "Green (W)": 389,
+    "Red": 268,
+    "Red (W)": 268,
+    "Silver": 321,
+    "Silver (W)": 321,
+    "White": 389,
+    "White (W)": 389,
+    "Yellow": 268,
+    "Yellow (W)": 268
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 388,
+    "Copper": 291,
+    "Copper (W)": 291,
+    "Gold": 360,
+    "Gold (W)": 360,
+    "Green": 351,
+    "Green (W)": 351,
+    "Red": 291,
+    "Red (W)": 291,
+    "Silver": 300,
+    "Silver (W)": 300,
+    "White": 351,
+    "White (W)": 351,
+    "Yellow": 265,
+    "Yellow (W)": 265
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 176,
+    "Copper": 102,
+    "Copper (W)": 102,
+    "Gold": 159,
+    "Gold (W)": 159,
+    "Green": 159,
+    "Green (W)": 159,
+    "Red": 102,
+    "Red (W)": 102,
+    "Silver": 113,
+    "Silver (W)": 113,
+    "White": 124,
+    "White (W)": 124,
+    "Yellow": 80,
+    "Yellow (W)": 80
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 556,
+    "Copper": 429,
+    "Copper (W)": 429,
+    "Gold": 498,
+    "Gold (W)": 498,
+    "Green": 474,
+    "Green (W)": 474,
+    "Red": 345,
+    "Red (W)": 345,
+    "Silver": 454,
+    "Silver (W)": 454,
+    "White": 474,
+    "White (W)": 474,
+    "Yellow": 345,
+    "Yellow (W)": 345
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 382,
+    "Copper": 310,
+    "Copper (W)": 310,
+    "Gold": 360,
+    "Gold (W)": 360,
+    "Green": 360,
+    "Green (W)": 360,
+    "Red": 310,
+    "Red (W)": 310,
+    "Silver": 337,
+    "Silver (W)": 337,
+    "White": 337,
+    "White (W)": 337,
+    "Yellow": 250,
+    "Yellow (W)": 250
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 438,
+    "Copper": 330,
+    "Copper (W)": 330,
+    "Gold": 406,
+    "Gold (W)": 406,
+    "Green": 367,
+    "Green (W)": 367,
+    "Red": 301,
+    "Red (W)": 301,
+    "Silver": 342,
+    "Silver (W)": 342,
+    "White": 367,
+    "White (W)": 367,
+    "Yellow": 301,
+    "Yellow (W)": 301
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 399,
+    "Copper": 296,
+    "Copper (W)": 296,
+    "Gold": 370,
+    "Gold (W)": 370,
+    "Green": 370,
+    "Green (W)": 370,
+    "Red": 246,
+    "Red (W)": 246,
+    "Silver": 306,
+    "Silver (W)": 306,
+    "White": 338,
+    "White (W)": 338,
+    "Yellow": 246,
+    "Yellow (W)": 246
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 214,
+    "Copper": 117,
+    "Copper (W)": 117,
+    "Gold": 171,
+    "Gold (W)": 171,
+    "Green": 156,
+    "Green (W)": 156,
+    "Red": 101,
+    "Red (W)": 101,
+    "Silver": 134,
+    "Silver (W)": 134,
+    "White": 156,
+    "White (W)": 156,
+    "Yellow": 101,
+    "Yellow (W)": 101
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 399,
+    "Copper": 303,
+    "Copper (W)": 303,
+    "Gold": 374,
+    "Gold (W)": 374,
+    "Green": 374,
+    "Green (W)": 374,
+    "Red": 303,
+    "Red (W)": 303,
+    "Silver": 317,
+    "Silver (W)": 317,
+    "White": 338,
+    "White (W)": 338,
+    "Yellow": 237,
+    "Yellow (W)": 237
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 486,
+    "Copper": 384,
+    "Copper (W)": 384,
+    "Gold": 465,
+    "Gold (W)": 465,
+    "Green": 465,
+    "Green (W)": 465,
+    "Red": 335,
+    "Red (W)": 335,
+    "Silver": 433,
+    "Silver (W)": 433,
+    "White": 443,
+    "White (W)": 443,
+    "Yellow": 335,
+    "Yellow (W)": 335
+   }
+  }
+ ],
+ "id": "41e0070c-2579-488c-973a-550aed81bcf5",
+ "lat": 26.4363535,
+ "lng": -81.7494377,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6912
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6366
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-w-female",
+   "tee_name": "Gold (W)",
+   "yardage": 6366
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-w-female",
+   "tee_name": "Green (W)",
+   "yardage": 6148
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6148
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-w-female",
+   "tee_name": "White (W)",
+   "yardage": 5897
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5897
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5416
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-w-female",
+   "tee_name": "Silver (W)",
+   "yardage": 5416
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-male",
+   "tee_name": "Copper",
+   "yardage": 5120
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-w-female",
+   "tee_name": "Copper (W)",
+   "yardage": 5120
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4705
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-w-female",
+   "tee_name": "Red (W)",
+   "yardage": 4705
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-w-female",
+   "tee_name": "Yellow (W)",
+   "yardage": 4342
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 4342
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "city": "Vero Beach",
+ "club_name": "Oak Harbor Country Club",
+ "course_name": "Oak Harbor Country Club",
+ "dataset_name": "Oak Harbor Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "24522961-2432-4aa9-b352-251046eac0d8",
+ "lat": 27.6784912,
+ "lng": -80.3982532,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 1775
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 1645
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1508
+  },
+  {
+   "gender": "Female",
+   "par": 30,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 1251
+  }
+ ]
+}

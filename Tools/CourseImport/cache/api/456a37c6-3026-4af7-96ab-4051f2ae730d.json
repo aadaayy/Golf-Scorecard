@@ -1,0 +1,423 @@
+{
+ "city": "West Palm Beach",
+ "club_name": "The Club At Ibis The Tradition Course",
+ "course_name": "The Club At Ibis The Tradition Course",
+ "dataset_name": "The Club At Ibis The Tradition Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Forward": 190,
+    "II": 297,
+    "III": 320,
+    "IV": 357,
+    "Nicklaus": 389,
+    "Tee 2.5": 320,
+    "Tee 3.5": 320,
+    "Tee 4.5": 372,
+    "V": 372
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Forward": 54,
+    "II": 104,
+    "III": 130,
+    "IV": 142,
+    "Nicklaus": 163,
+    "Tee 2.5": 130,
+    "Tee 3.5": 142,
+    "Tee 4.5": 142,
+    "V": 137
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Forward": 200,
+    "II": 310,
+    "III": 361,
+    "IV": 405,
+    "Nicklaus": 442,
+    "Tee 2.5": 310,
+    "Tee 3.5": 361,
+    "Tee 4.5": 405,
+    "V": 428
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Forward": 310,
+    "II": 461,
+    "III": 524,
+    "IV": 555,
+    "Nicklaus": 592,
+    "Tee 2.5": 461,
+    "Tee 3.5": 524,
+    "Tee 4.5": 555,
+    "V": 563
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Forward": 212,
+    "II": 312,
+    "III": 353,
+    "IV": 383,
+    "Nicklaus": 433,
+    "Tee 2.5": 353,
+    "Tee 3.5": 353,
+    "Tee 4.5": 397,
+    "V": 397
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Forward": 57,
+    "II": 126,
+    "III": 144,
+    "IV": 164,
+    "Nicklaus": 208,
+    "Tee 2.5": 144,
+    "Tee 3.5": 164,
+    "Tee 4.5": 164,
+    "V": 181
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Forward": 222,
+    "II": 322,
+    "III": 355,
+    "IV": 394,
+    "Nicklaus": 447,
+    "Tee 2.5": 322,
+    "Tee 3.5": 355,
+    "Tee 4.5": 412,
+    "V": 412
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Forward": 330,
+    "II": 423,
+    "III": 459,
+    "IV": 493,
+    "Nicklaus": 534,
+    "Tee 2.5": 423,
+    "Tee 3.5": 493,
+    "Tee 4.5": 509,
+    "V": 509
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Forward": 211,
+    "II": 311,
+    "III": 350,
+    "IV": 387,
+    "Nicklaus": 429,
+    "Tee 2.5": 311,
+    "Tee 3.5": 350,
+    "Tee 4.5": 387,
+    "V": 401
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Forward": 230,
+    "II": 303,
+    "III": 332,
+    "IV": 368,
+    "Nicklaus": 408,
+    "Tee 2.5": 303,
+    "Tee 3.5": 332,
+    "Tee 4.5": 384,
+    "V": 384
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Forward": 100,
+    "II": 108,
+    "III": 127,
+    "IV": 157,
+    "Nicklaus": 189,
+    "Tee 2.5": 127,
+    "Tee 3.5": 157,
+    "Tee 4.5": 177,
+    "V": 177
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Forward": 340,
+    "II": 413,
+    "III": 450,
+    "IV": 479,
+    "Nicklaus": 521,
+    "Tee 2.5": 450,
+    "Tee 3.5": 450,
+    "Tee 4.5": 496,
+    "V": 496
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Forward": 235,
+    "II": 313,
+    "III": 347,
+    "IV": 374,
+    "Nicklaus": 406,
+    "Tee 2.5": 313,
+    "Tee 3.5": 347,
+    "Tee 4.5": 374,
+    "V": 384
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Forward": 250,
+    "II": 309,
+    "III": 336,
+    "IV": 385,
+    "Nicklaus": 428,
+    "Tee 2.5": 336,
+    "Tee 3.5": 385,
+    "Tee 4.5": 385,
+    "V": 399
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Forward": 350,
+    "II": 407,
+    "III": 467,
+    "IV": 482,
+    "Nicklaus": 520,
+    "Tee 2.5": 407,
+    "Tee 3.5": 482,
+    "Tee 4.5": 482,
+    "V": 511
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Forward": 200,
+    "II": 258,
+    "III": 309,
+    "IV": 339,
+    "Nicklaus": 387,
+    "Tee 2.5": 309,
+    "Tee 3.5": 339,
+    "Tee 4.5": 358,
+    "V": 358
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Forward": 51,
+    "II": 99,
+    "III": 119,
+    "IV": 137,
+    "Nicklaus": 172,
+    "Tee 2.5": 99,
+    "Tee 3.5": 137,
+    "Tee 4.5": 137,
+    "V": 150
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Forward": 250,
+    "II": 366,
+    "III": 399,
+    "IV": 419,
+    "Nicklaus": 462,
+    "Tee 2.5": 366,
+    "Tee 3.5": 399,
+    "Tee 4.5": 419,
+    "V": 430
+   }
+  }
+ ],
+ "id": "456a37c6-3026-4af7-96ab-4051f2ae730d",
+ "lat": 26.7978744,
+ "lng": -80.206642,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "nicklaus-male",
+   "tee_name": "Nicklaus",
+   "yardage": 7130
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 6689
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-5-male",
+   "tee_name": "Tee 4.5",
+   "yardage": 6555
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 6420
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 6420
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-3-5-male",
+   "tee_name": "Tee 3.5",
+   "yardage": 6090
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-3-5-female",
+   "tee_name": "Tee 3.5",
+   "yardage": 6090
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 5882
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5882
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-2-5-female",
+   "tee_name": "Tee 2.5",
+   "yardage": 5484
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-2-5-male",
+   "tee_name": "Tee 2.5",
+   "yardage": 5484
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 5242
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 5242
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 3792
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 3792
+  }
+ ]
+}

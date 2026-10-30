@@ -1,0 +1,188 @@
+{
+ "city": "West Palm Beach",
+ "club_name": "Trump International Golf Club The Executive Golf Course",
+ "course_name": "Trump International Golf Club The Executive Golf Course",
+ "dataset_name": "Trump International Golf Club The Executive Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 575,
+    "blue": 521,
+    "gold": 550,
+    "green": 445,
+    "silver": 475,
+    "white": 505
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 326,
+    "blue": 294,
+    "gold": 308,
+    "green": 245,
+    "silver": 262,
+    "white": 280
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 625,
+    "blue": 521,
+    "gold": 558,
+    "green": 440,
+    "silver": 460,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 356,
+    "blue": 321,
+    "gold": 348,
+    "green": 249,
+    "silver": 278,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 235,
+    "blue": 192,
+    "gold": 207,
+    "green": 109,
+    "silver": 142,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 439,
+    "blue": 404,
+    "gold": 424,
+    "green": 339,
+    "silver": 351,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 431,
+    "blue": 382,
+    "gold": 409,
+    "green": 334,
+    "silver": 350,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 153,
+    "blue": 120,
+    "gold": 134,
+    "green": 85,
+    "silver": 87,
+    "white": 106
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 465,
+    "blue": 425,
+    "gold": 450,
+    "green": 345,
+    "silver": 355,
+    "white": 384
+   }
+  }
+ ],
+ "id": "0f0fe403-96f3-415d-a196-e0805f2e4f40",
+ "lat": 26.6659648,
+ "lng": -80.0985665,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3605
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 3388
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3180
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2974
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "silver",
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 2760
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 2561
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 2561
+  }
+ ]
+}

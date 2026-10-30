@@ -1,0 +1,245 @@
+{
+ "city": "Davenport",
+ "club_name": "Highlands Reserve Golf Club",
+ "course_name": "Highlands Reserve Golf Club",
+ "dataset_name": "Highlands Reserve Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 387,
+    "gold": 305,
+    "jade": 244,
+    "white": 370
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 398,
+    "gold": 321,
+    "jade": 262,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 365,
+    "gold": 290,
+    "jade": 226,
+    "white": 307
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 192,
+    "gold": 159,
+    "jade": 134,
+    "white": 175
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 413,
+    "gold": 273,
+    "jade": 204,
+    "white": 334
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 225,
+    "gold": 160,
+    "jade": 120,
+    "white": 187
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 408,
+    "gold": 348,
+    "jade": 272,
+    "white": 368
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 507,
+    "gold": 449,
+    "jade": 408,
+    "white": 488
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 515,
+    "gold": 489,
+    "jade": 429,
+    "white": 505
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 417,
+    "gold": 348,
+    "jade": 277,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 307,
+    "gold": 270,
+    "jade": 242,
+    "white": 285
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 188,
+    "gold": 155,
+    "jade": 102,
+    "white": 167
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 476,
+    "gold": 436,
+    "jade": 385,
+    "white": 456
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 419,
+    "gold": 380,
+    "jade": 300,
+    "white": 397
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 417,
+    "gold": 360,
+    "jade": 270,
+    "white": 380
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "gold": 358,
+    "jade": 212,
+    "white": 380
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "gold": 117,
+    "jade": 65,
+    "white": 140
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 507,
+    "gold": 457,
+    "jade": 380,
+    "white": 485
+   }
+  }
+ ],
+ "id": "21922b84-4434-4615-8734-a83d4a530916",
+ "lat": 28.3021276,
+ "lng": -81.671545,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6702
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6152
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5675
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-male",
+   "tee_name": "Jade",
+   "yardage": 4532
+  }
+ ]
+}
