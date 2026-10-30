@@ -3708,7 +3708,7 @@
     {
       "id": "innisbrook-resort-golf-club-south-course",
       "name": "Innisbrook Resort Golf Club South Course",
-      "town": "FL 34683, FL",
+      "town": "Palm Harbor, FL",
       "holes": 18,
       "par": 71,
       "tees": [
@@ -3723,12 +3723,12 @@
         "White": 5900,
         "Red": 4975
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/innisbrook-resort-golf-club-south-course",
       "files": [
         "course.json"
       ],
-      "bytes": 3538,
+      "bytes": 3541,
       "lat": 28.112316,
       "lng": -82.756941
     },
@@ -7440,7 +7440,7 @@
     {
       "id": "southern-oaks-golf-club",
       "name": "Southern Oaks Golf Club",
-      "town": "FL 34785, FL",
+      "town": "Wildwood, FL",
       "holes": 18,
       "par": 72,
       "tees": [
@@ -7457,7 +7457,7 @@
         "Green": 4746,
         "Friendly": 4019
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/southern-oaks-golf-club",
       "files": [
         "course.json"
@@ -10048,17 +10048,17 @@
     {
       "id": "west-at-johns-island-club",
       "name": "West At Johns Island Club",
-      "town": "FL 32958, FL",
+      "town": "Vero Beach, FL",
       "holes": 18,
       "par": 72,
       "tees": [],
       "yards": {},
-      "version": 1,
+      "version": 2,
       "folder": "courses/west-at-johns-island-club",
       "files": [
         "course.json"
       ],
-      "bytes": 1801,
+      "bytes": 1803,
       "lat": 27.756222,
       "lng": -80.445169
     },
@@ -10104,7 +10104,7 @@
     {
       "id": "weston-hills-country-club-tour-course",
       "name": "Weston Hills Country Club Tour Course",
-      "town": "FL 33332, FL",
+      "town": "Weston, FL",
       "holes": 18,
       "par": 72,
       "tees": [
@@ -10127,12 +10127,12 @@
         "Red": 4905,
         "Green": 4140
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/weston-hills-country-club-tour-course",
       "files": [
         "course.json"
       ],
-      "bytes": 5335,
+      "bytes": 5333,
       "lat": 26.092457,
       "lng": -80.39133
     },

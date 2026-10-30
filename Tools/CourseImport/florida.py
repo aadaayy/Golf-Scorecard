@@ -664,6 +664,28 @@ def same_course(a, b):
     return strip == other
 
 
+# A few listings give only "FL" and a zip code where the town should be.
+# These are the towns the clubs go by; any other zip-only one falls back to
+# "Florida" and shows up in the report so it can be added here.
+TOWN_FIXES = {
+    "0277aa69-b446-42ee-8560-917246a25747": "Weston",          # Weston Hills, FL 33332
+    "152943d4-ccc3-495f-9e85-023013b07e2b": "Vero Beach",      # John's Island West, FL 32958
+    "1e998cad-3978-4a2c-a0d9-11bf661767bd": "Palm Harbor",     # Innisbrook, FL 34683
+    "4511bcac-4335-4ce3-9d91-1a6db5df862f": "Wildwood",        # Southern Oaks, FL 34785
+}
+
+
+def town(record, report=None):
+    """The course's town as "City, FL", never a zip code."""
+    city = TOWN_FIXES.get(record.get("id")) or (record.get("city") or "").strip()
+    if re.fullmatch(r"(FL\s*)?\d{5}(-\d{4})?", city, re.IGNORECASE):
+        if report is not None:
+            report["skipped"].setdefault("town was only a zip code (shown as Florida)", []).append(
+                tidy_name(record.get("course_name") or record.get("dataset_name")))
+        city = ""
+    return f"{city}, FL" if city else "Florida"
+
+
 def location(record):
     """Where the course is, from the course data, for the map in Find Courses. None if unknown."""
     lat, lng = record.get("lat"), record.get("lng")
@@ -708,7 +730,7 @@ def build(args):
                     break
             ids[record["id"]] = cid
             used.add(cid)
-        course = {"id": cid, "name": name, "town": f"{city}, FL" if city else "Florida"}
+        course = {"id": cid, "name": name, "town": town(record, report)}
         place = location(record)
         if place:
             course["location"] = place
