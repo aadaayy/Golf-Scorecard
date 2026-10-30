@@ -133,6 +133,23 @@ final class FindCoursesUITests: XCTestCase {
         capture("g2-github-downloaded")
         course.tap()
         XCTAssertTrue(app.buttons["start-round"].waitForExistence(timeout: 5), "The downloaded course should open")
+
+        // A Florida course from open data, with hole drawings from OpenStreetMap.
+        back(in: app)
+        find.tap()
+        XCTAssertTrue(search.waitForExistence(timeout: 30))
+        search.tap()
+        search.typeText("dubsdread")
+        let florida = app.buttons["library-course-dubsdread-golf-course"]
+        XCTAssertTrue(florida.waitForExistence(timeout: 30), "Dubsdread is missing from the library on GitHub")
+        florida.tap()
+        XCTAssertTrue(wait(for: florida, label: "On your phone", timeout: 60), "The Florida course didn't download")
+        back(in: app)
+        let dubsdread = app.buttons["course-dubsdread-golf-course"]
+        XCTAssertTrue(dubsdread.waitForExistence(timeout: 5), "The Florida course should be on Play")
+        dubsdread.tap()
+        XCTAssertTrue(app.buttons["start-round"].waitForExistence(timeout: 5), "The Florida course should open")
+        capture("g3-florida-course")
     }
 
     /// Find Courses at the open iPhone Duo's size, drawn on the Pro Max (see OpenDuoPreview).

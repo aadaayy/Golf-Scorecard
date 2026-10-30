@@ -6,3 +6,4 @@ build/
 .swiftpm/
 *.xcresult
 screenshots/
+__pycache__/
