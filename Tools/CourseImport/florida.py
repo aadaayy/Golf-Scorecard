@@ -47,6 +47,8 @@ IDS_FILE = os.path.join(HERE, "florida-ids.json")
 REPORT_FILE = os.path.join(HERE, "florida-report.json")
 
 API = "https://api.opengolfapi.org/api/v1/courses/"
+DAILY_CALLS = 950  # the free API allows 1,000 a day
+USAGE_FILE = os.path.join(CACHE, "api-calls.json")
 USER_AGENT = "YardageBook-course-import/1.0 (github.com/aadaayy/Golf-Scorecard)"
 
 # Courses already in the library that came from somewhere better (Pompano Beach
@@ -103,9 +105,15 @@ def fetch_api(args):
     courses = [c for c in florida_courses(args.dataset) if c["id"] not in SKIP]
     todo = [c for c in courses if not os.path.exists(os.path.join(API_CACHE, c["id"] + ".json"))]
     print(f"{len(courses)} Florida courses; {len(courses) - len(todo)} already fetched, {len(todo)} to go", flush=True)
+    # Stay under the API's daily allowance however often this runs: count calls per UTC day.
+    today = time.strftime("%Y-%m-%d", time.gmtime())
+    usage = json.load(open(USAGE_FILE)) if os.path.exists(USAGE_FILE) else {}
+    used = usage.get(today, 0)
+    limit = min(args.limit, max(DAILY_CALLS - used, 0))
+    print(f"{used} calls already made today; making at most {limit}", flush=True)
     calls = 0
     for course in todo:
-        if calls >= args.limit:
+        if calls >= limit:
             print(f"Stopped at the limit of {args.limit} calls; the next run carries on")
             break
         calls += 1
@@ -118,6 +126,7 @@ def fetch_api(args):
                 record = {"id": course["id"], "dataset_name": course["name"], "missing": True}
             elif error.code == 429:
                 print("The API says we've used today's calls; the next run carries on")
+                calls = DAILY_CALLS  # don't try again today
                 break
             else:
                 print(f"{course['id']}: HTTP {error.code}, skipped for now")
@@ -129,6 +138,9 @@ def fetch_api(args):
             json.dump(record, f, indent=1, ensure_ascii=False, sort_keys=True)
             f.write("\n")
         time.sleep(args.pause)
+    with open(USAGE_FILE, "w", encoding="utf-8") as f:
+        json.dump({today: used + calls}, f)
+        f.write("\n")
     left = sum(1 for c in courses if not os.path.exists(os.path.join(API_CACHE, c["id"] + ".json")))
     print(f"Made {calls} calls; {left} courses left to fetch")
 

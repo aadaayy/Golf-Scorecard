@@ -48,7 +48,7 @@ jobs:
       - name: Save the scorecards
         if: always()
         run: |
-          Tools/CourseImport/save.sh "Course import: Florida scorecards" Tools/CourseImport/cache/api
+          Tools/CourseImport/save.sh "Course import: Florida scorecards" Tools/CourseImport/cache
 
       - name: Decide whether to rebuild
         id: decide
