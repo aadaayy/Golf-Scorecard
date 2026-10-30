@@ -52,7 +52,17 @@ struct FindCoursesView: View {
                 list
             }
         }
-        .safeAreaInset(edge: .top, spacing: 0) { viewSwitch }
+        .safeAreaInset(edge: .top, spacing: 0) {
+            // A sideways phone keeps it in the bar, where the search can't cover it.
+            if verticalSizeClass != .compact { viewSwitch }
+        }
+        .toolbar {
+            if verticalSizeClass == .compact {
+                ToolbarItem(placement: .topBarTrailing) {
+                    viewPicker.frame(width: 170)
+                }
+            }
+        }
         .onChange(of: query) { mapPickedID = nil }
         .confirmationDialog("Courses at This Spot", isPresented: Binding(
             get: { !stackedIDs.isEmpty },
@@ -122,22 +132,27 @@ struct FindCoursesView: View {
     }
 
     /// List | Map
-    private var viewSwitch: some View {
+    private var viewPicker: some View {
         Picker("Show courses as", selection: $showsMap) {
             Text("List").tag(false)
             Text("Map").tag(true)
         }
         .pickerStyle(.segmented)
         .labelsHidden()
-        .frame(maxWidth: 320)
         .accessibilityIdentifier("courses-view-switch")
-        .padding(.horizontal)
-        .padding(.vertical, 8)
-        .frame(maxWidth: .infinity)
-        .background(Book.paper)
-        .overlay(alignment: .bottom) {
-            Rectangle().fill(Book.rule).frame(height: 0.5)
-        }
+    }
+
+    /// List | Map across the top of the page.
+    private var viewSwitch: some View {
+        viewPicker
+            .frame(maxWidth: 320)
+            .padding(.horizontal)
+            .padding(.vertical, 8)
+            .frame(maxWidth: .infinity)
+            .background(Book.paper)
+            .overlay(alignment: .bottom) {
+                Rectangle().fill(Book.rule).frame(height: 0.5)
+            }
     }
 
     /// Every course with a location as a dot. While the list is loading or
