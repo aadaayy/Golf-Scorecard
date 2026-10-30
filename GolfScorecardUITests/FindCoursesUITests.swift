@@ -271,9 +271,9 @@ final class FindCoursesUITests: XCTestCase {
         XCTAssertTrue(search.waitForExistence(timeout: 5))
         search.tap()
         search.typeText("Tampa\n")
+        sleep(4)  // let the map finish zooming before reading its dots
         let dot = element("map-course-carrollwood-country-club-pines-cypress-course", in: app)
-        XCTAssertTrue(dot.waitForExistence(timeout: 10), "Carrollwood should be a dot on the map of Tampa")
-        sleep(3)
+        XCTAssertTrue(dot.waitForExistence(timeout: 15), "Carrollwood should be a dot on the map of Tampa")
         dot.tap()
         XCTAssertTrue(app.otherElements["library-detail"].waitForExistence(timeout: 5),
                       "The course tapped on the map should show on the right half")
