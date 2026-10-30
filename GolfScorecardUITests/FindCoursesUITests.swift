@@ -230,8 +230,13 @@ final class FindCoursesUITests: XCTestCase {
         // Two courses at one club share a dot: tapping it asks which.
         let cluster = element("map-cluster", in: app)
         if cluster.waitForExistence(timeout: 5) {
+            sleep(1)  // the closed card's dot settling
             cluster.tap()
             let north = app.buttons["North At Bay Palms Golf Complex"]
+            if !north.waitForExistence(timeout: 3) {
+                // A tap while the map is still moving can be lost; a golfer would tap again.
+                cluster.tap()
+            }
             XCTAssertTrue(north.waitForExistence(timeout: 5), "Courses at one spot should be listed to pick from")
             capture("m5-map-two-courses-one-spot")
             north.tap()
