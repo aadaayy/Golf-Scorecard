@@ -225,7 +225,9 @@ final class FindCoursesUITests: XCTestCase {
         sleep(1)
         capture("m4-map-downloaded")
         app.buttons["map-card-close"].tap()
-        XCTAssertTrue(waitForGone(card), "Close should put the card away")
+        // Gone from the screen; the paper behind the map can keep a closed
+        // card in the accessibility tree for a moment, so not hittable counts.
+        XCTAssertTrue(waitForPutAway(card), "Close should put the card away")
 
         // Two courses at one club share a dot: tapping it asks which.
         sleep(1)  // the closed card's dot settling
@@ -325,6 +327,11 @@ final class FindCoursesUITests: XCTestCase {
     private func waitForGone(_ element: XCUIElement, timeout: TimeInterval = 5) -> Bool {
         let gone = XCTNSPredicateExpectation(predicate: NSPredicate(format: "exists == false"), object: element)
         return XCTWaiter().wait(for: [gone], timeout: timeout) == .completed
+    }
+
+    private func waitForPutAway(_ element: XCUIElement, timeout: TimeInterval = 5) -> Bool {
+        let away = XCTNSPredicateExpectation(predicate: NSPredicate(format: "exists == false OR hittable == false"), object: element)
+        return XCTWaiter().wait(for: [away], timeout: timeout) == .completed
     }
 
     private func wait(for element: XCUIElement, label: String, timeout: TimeInterval) -> Bool {
