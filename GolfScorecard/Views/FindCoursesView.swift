@@ -36,15 +36,19 @@ struct FindCoursesView: View {
     var body: some View {
         Group {
             if showsMap {
+                // Paper behind the map too, so the strips beside and under
+                // it (tab bar, side tabs, the card's space) aren't white.
                 if isWide {
-                    WideRoundLayout(card: map, map: mapSide)
+                    WideRoundLayout(card: map.paperBackground(), map: mapSide)
                 } else {
                     map
                         .safeAreaInset(edge: .bottom, spacing: 0) {
                             if let entry = mapPicked {
                                 MapCourseCard(entry: entry) { mapPickedID = nil }
+                                    .padding(.top, 12)
                             }
                         }
+                        .paperBackground()
                 }
             } else if isWide, let entry = picked {
                 WideRoundLayout(card: list, map: detail(entry))
@@ -162,6 +166,11 @@ struct FindCoursesView: View {
         if let index = catalog.index {
             // Stops above the tab bar, so no dot hides under it.
             CourseMapView(entries: mapEntries, pickedID: $mapPickedID, stackedIDs: $stackedIDs, fitKey: query)
+                .overlay(alignment: .bottom) { mapEdge.frame(height: 1) }
+                .overlay(alignment: .trailing) {
+                    // Open, the split already draws this line.
+                    if !isWide { mapEdge.frame(width: 1) }
+                }
                 .overlay(alignment: .top) { mapCaption(index) }
                 .overlay {
                     if mapEntries.isEmpty && !query.isEmpty {
@@ -173,6 +182,11 @@ struct FindCoursesView: View {
         } else {
             list
         }
+    }
+
+    /// An ink line where the map meets the paper.
+    private var mapEdge: some View {
+        Rectangle().fill(Book.ink.opacity(0.5))
     }
 
     /// How many courses are on the map, on a slip of paper at the top.
