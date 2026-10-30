@@ -114,7 +114,7 @@ def fetch_api(args):
     calls = 0
     for course in todo:
         if calls >= limit:
-            print(f"Stopped at the limit of {args.limit} calls; the next run carries on")
+            print(f"Stopped at the limit of {limit} calls; the next run carries on")
             break
         calls += 1
         path = os.path.join(API_CACHE, course["id"] + ".json")
