@@ -41,7 +41,8 @@ jobs:
 
       - name: Save the scorecards
         if: always()
-        run: Tools/CourseImport/save.sh "Course import: Florida scorecards" Tools/CourseImport/cache/api
+        run: |
+          Tools/CourseImport/save.sh "Course import: Florida scorecards" Tools/CourseImport/cache/api
 
       - name: Fetch hole drawings from OpenStreetMap
         # When asked, when there's no copy yet, and every Monday. A failure keeps the old copy.
