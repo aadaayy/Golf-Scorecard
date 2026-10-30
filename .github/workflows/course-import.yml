@@ -1,0 +1,69 @@
+# Fills the course library with every Florida course from open data
+# (Tools/CourseImport/florida.py). The free course API allows 1,000 calls a day,
+# so this runs once a day and picks up where it stopped, until every course is in.
+# Once they all are, a run only refreshes the hole drawings from OpenStreetMap.
+name: Course import
+
+on:
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Most course API calls this run
+        default: '900'
+      drawings:
+        description: Fetch the OpenStreetMap drawings again (yes or no)
+        default: 'no'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: course-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    name: Import Florida courses
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get the OpenGolfAPI open dataset
+        run: |
+          curl -fsSL -o "$RUNNER_TEMP/opengolfapi-us.ndjson.gz" https://raw.githubusercontent.com/opengolfapi/data/main/opengolfapi-us.ndjson.gz
+          gunzip "$RUNNER_TEMP/opengolfapi-us.ndjson.gz"
+
+      - name: Fetch scorecards
+        run: python3 Tools/CourseImport/florida.py fetch-api --dataset "$RUNNER_TEMP/opengolfapi-us.ndjson" --limit "${{ inputs.limit || '900' }}"
+
+      - name: Fetch hole drawings from OpenStreetMap
+        if: inputs.drawings == 'yes' || hashFiles('Tools/CourseImport/cache/osm-florida.json.gz') == '' || github.event_name == 'schedule'
+        run: python3 Tools/CourseImport/florida.py fetch-osm
+
+      - name: Build the courses
+        if: hashFiles('Tools/CourseImport/florida.py') != ''
+        run: |
+          if grep -q '"build"' Tools/CourseImport/florida.py; then
+            python3 Tools/CourseImport/florida.py build course-library
+            python3 Tools/CourseLibrary/build_index.py course-library
+            python3 Tools/CourseLibrary/build_index.py course-library --check
+          fi
+
+      - name: Save
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Tools/CourseImport course-library
+          if git diff --cached --quiet; then
+            echo "Nothing new"
+            exit 0
+          fi
+          git commit -m "Course import: Florida courses from open data"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1

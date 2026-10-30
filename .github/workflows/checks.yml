@@ -12,7 +12,7 @@ on:
   push:
     branches: [main]
     # Course library changes get their own quick check (course-library.yml).
-    paths-ignore: ['**.md', 'course-library/**']
+    paths-ignore: ['**.md', 'course-library/**', 'Tools/CourseImport/**', '.github/workflows/course-import.yml']
   workflow_dispatch:
 
 permissions:
