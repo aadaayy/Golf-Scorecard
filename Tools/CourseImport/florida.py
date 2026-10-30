@@ -9,9 +9,10 @@ can run them a little at a time:
               stroke index and tee yardages). Keeps what it needs in cache/api/,
               one file per course, so each course is only asked for once. The
               free API allows 1,000 calls a day, so it stops at --limit.
-  fetch-osm   Asks OpenStreetMap (through Overpass) for the holes, greens,
-              fairways, bunkers, tees and water drawn on Florida's golf courses,
-              and keeps them in cache/osm-florida.json.gz.
+  fetch-osm   Reads the holes, greens, fairways, bunkers, tees and water drawn on
+              Florida's golf courses from an OpenStreetMap extract (Geofabrik's
+              Florida file, filtered by osmium) and keeps them in
+              cache/osm-florida.json.gz.
   build       Turns the cache into course folders in course-library: a course.json
               each, and an SVG drawing per hole where OpenStreetMap has the hole.
               Then run build_index.py to rewrite index.json.
@@ -23,7 +24,7 @@ Only uses the Python standard library.
 
 Usage, from the repository's top folder:
   python3 Tools/CourseImport/florida.py fetch-api --dataset opengolfapi-us.ndjson --limit 900
-  python3 Tools/CourseImport/florida.py fetch-osm
+  python3 Tools/CourseImport/florida.py fetch-osm golf.geojsonseq   (see course-import.yml for making it)
   python3 Tools/CourseImport/florida.py build course-library
 """
 import argparse
@@ -48,7 +49,6 @@ IDS_FILE = os.path.join(HERE, "florida-ids.json")
 REPORT_FILE = os.path.join(HERE, "florida-report.json")
 
 API = "https://api.opengolfapi.org/api/v1/courses/"
-OVERPASS = ["https://overpass-api.de/api/interpreter", "https://overpass.private.coffee/api/interpreter"]
 USER_AGENT = "YardageBook-course-import/1.0 (github.com/aadaayy/Golf-Scorecard)"
 
 # Courses already in the library that came from somewhere better (Pompano Beach
@@ -137,95 +137,69 @@ def fetch_api(args):
 
 # MARK: fetch-osm
 
-# Florida, cut into squares small enough for Overpass to answer quickly. A square
-# that times out is cut into four and asked again.
-FLORIDA = (24.3, -87.7, 31.1, -79.9)  # south, west, north, east
-TILE = 1.0
-
-OVERPASS_QUERY = """
-[out:json][timeout:240];
-(way["leisure"="golf_course"]({b}); relation["leisure"="golf_course"]({b}););
-out tags geom;
-(way["golf"]({b}); relation["golf"]({b}););
-out tags geom;
-way["golf"="hole"]({b})->.holes;
-(way(around.holes:120)["natural"="water"]; relation(around.holes:120)["natural"="water"]["type"="multipolygon"];);
-out tags geom;
-"""
-
 FEATURE_TAGS = ("golf", "natural", "leisure", "ref", "par", "handicap", "golf:par", "golf:handicap",
-                "name", "golf:course:name", "course:name", "course", "type")
-
-
-def rounded(geometry):
-    return [[round(p["lat"], 6), round(p["lon"], 6)] for p in geometry or [] if p]
-
-
-def overpass(box, depth=0):
-    """Every element in the box, cutting it smaller when Overpass can't manage it whole."""
-    s, w, n, e = box
-    body = urllib.parse.urlencode({"data": OVERPASS_QUERY.format(b=f"{s},{w},{n},{e}")}).encode()
-    for attempt in range(3):
-        url = OVERPASS[attempt % len(OVERPASS)]
-        try:
-            answer = get_json(url, data=body, timeout=300)
-            if "remark" in answer and "runtime error" in answer["remark"]:
-                raise ValueError(answer["remark"])
-            return answer.get("elements", [])
-        except (urllib.error.URLError, TimeoutError, ValueError) as error:
-            print(f"  {box}: {error}", flush=True)
-            time.sleep(10 * (attempt + 1))
-    if depth >= 2:
-        raise RuntimeError(f"Overpass couldn't answer for {box}")
-    mid_lat, mid_lng = (s + n) / 2, (w + e) / 2
-    out = []
-    for quarter in ((s, w, mid_lat, mid_lng), (s, mid_lng, mid_lat, e), (mid_lat, w, n, mid_lng), (mid_lat, mid_lng, n, e)):
-        out += overpass(quarter, depth + 1)
-    return out
+                "name", "golf:course:name", "course:name", "course")
 
 
 def fetch_osm(args):
-    s0, w0, n0, e0 = FLORIDA
-    tiles = []
-    lat = s0
-    while lat < n0:
-        lng = w0
-        while lng < e0:
-            tiles.append((round(lat, 3), round(lng, 3), round(min(lat + TILE, n0), 3), round(min(lng + TILE, e0), 3)))
-            lng += TILE
-        lat += TILE
-    found = {}
-    try:
-        for i, tile in enumerate(tiles, 1):
-            elements = overpass(tile)
-            for e in elements:
-                found[f"{e['type']}/{e['id']}"] = e
-            print(f"Square {i} of {len(tiles)}: {len(elements)} features", flush=True)
-            time.sleep(2)
-    except RuntimeError as error:
-        sys.exit(f"{error}; kept the old OpenStreetMap copy")
-    elements = []
-    for e in found.values():
-        tags = {k: v for k, v in (e.get("tags") or {}).items() if k in FEATURE_TAGS}
-        item = {"id": f"{e['type']}/{e['id']}", "tags": tags}
-        if e["type"] == "way":
-            item["geometry"] = rounded(e.get("geometry"))
-        elif e["type"] == "relation":
-            item["members"] = [{"role": m.get("role", ""), "geometry": rounded(m.get("geometry"))}
-                               for m in e.get("members", []) if m.get("type") == "way" and m.get("geometry")]
-        else:
-            continue
-        elements.append(item)
-    elements.sort(key=lambda e: e["id"])
-    if len([e for e in elements if e["tags"].get("leisure") == "golf_course"]) < 100:
-        sys.exit("Overpass gave a half answer (under 100 golf courses); kept the old copy")
+    """Reads golf features from an OpenStreetMap extract that osmium exported as GeoJSON
+    lines (see course-import.yml), and keeps the ones the drawings need: golf course
+    outlines, holes, greens, tees, fairways, bunkers, and water near a golf course."""
+    def flip(ring):
+        return [[round(lat, 6), round(lng, 6)] for lng, lat in ring]
+
+    courses, golf, water = [], [], []
+    with open(args.geojson, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip().lstrip("\x1e")
+            if not line:
+                continue
+            feature = json.loads(line)
+            props = feature.get("properties") or {}
+            geometry = feature.get("geometry") or {}
+            tags = {k: v for k, v in props.items() if k in FEATURE_TAGS}
+            item = {"id": f"{props.get('@type', '')}/{props.get('@id', '')}", "tags": tags}
+            kind = geometry.get("type")
+            if kind == "LineString":
+                item["line"] = flip(geometry["coordinates"])
+            elif kind == "Polygon":
+                item["rings"] = [flip(geometry["coordinates"][0])]
+            elif kind == "MultiPolygon":
+                item["rings"] = [flip(polygon[0]) for polygon in geometry["coordinates"]]
+            else:
+                continue
+            if tags.get("leisure") == "golf_course" and "rings" in item:
+                courses.append(item)
+            elif tags.get("golf"):
+                golf.append(item)
+            elif tags.get("natural") == "water" and "rings" in item:
+                water.append(item)
+
+    # Water only where it touches a golf course: Florida has far too many lakes to keep them all.
+    cell = 0.05
+    grid = {}
+    for c in courses:
+        s, w, n, e = bbox([p for ring in c["rings"] for p in ring])
+        for i in range(int(math.floor((s - 0.002) / cell)), int(math.floor((n + 0.002) / cell)) + 1):
+            for j in range(int(math.floor((w - 0.002) / cell)), int(math.floor((e + 0.002) / cell)) + 1):
+                grid.setdefault((i, j), []).append((s - 0.002, w - 0.002, n + 0.002, e + 0.002))
+    near = []
+    for item in water:
+        s, w, n, e = bbox([p for ring in item["rings"] for p in ring])
+        boxes = {b for i in range(int(math.floor(s / cell)), int(math.floor(n / cell)) + 1)
+                 for j in range(int(math.floor(w / cell)), int(math.floor(e / cell)) + 1) for b in grid.get((i, j), [])}
+        if any(bs <= n and bn >= s and bw <= e and be >= w for bs, bw, bn, be in boxes):
+            near.append(item)
+    elements = sorted(courses + golf + near, key=lambda e: e["id"])
+    if len(courses) < 100:
+        sys.exit("The extract has under 100 golf courses, which looks wrong; kept the old copy")
     os.makedirs(CACHE, exist_ok=True)
     data = json.dumps({"attribution": "© OpenStreetMap contributors, ODbL 1.0", "elements": elements},
                       separators=(",", ":"), ensure_ascii=False).encode()
     with gzip.GzipFile(OSM_CACHE, "wb", mtime=0) as f:
         f.write(data)
-    holes = sum(1 for e in elements if e["tags"].get("golf") == "hole")
-    print(f"Kept {len(elements)} OpenStreetMap features, {holes} of them holes")
+    holes = sum(1 for e in golf if e["tags"].get("golf") == "hole")
+    print(f"Kept {len(courses)} golf courses, {holes} holes, {len(golf) - holes} other golf shapes and {len(near)} ponds and lakes")
 
 
 # MARK: build: scorecards
@@ -256,17 +230,33 @@ def tee_names(record):
 def scorecard(record):
     """The course in the app's format, or the reason it can't be played yet."""
     holes = sorted((h for h in record.get("holes_data") or [] if h.get("number")), key=lambda h: h["number"])
-    count = len(holes)
     if record.get("missing"):
         return None, "not in the course API"
-    if count == 0:
+    if not holes:
         return None, "no scorecard"
-    if count not in (9, 18):
-        return None, f"{count} holes (only 9 and 18 work for now)"
-    if [h["number"] for h in holes] != list(range(1, count + 1)):
+    if [h["number"] for h in holes] != list(range(1, len(holes) + 1)):
         return None, "hole numbers skip"
     if not all(isinstance(h.get("par"), int) and 3 <= h["par"] <= 6 for h in holes):
         return None, "a hole has no par"
+    # Scorecards are often padded with made-up par 4s past the last real hole, so
+    # take the first 18 or 9 holes, and check them against the course's total par.
+    total, stated = record.get("par"), record.get("holes")
+    counts = [n for n in (18, 9) if len(holes) >= n]
+    if not counts:
+        return None, f"only {len(holes)} holes"
+    if isinstance(total, int):
+        fits = [n for n in counts if sum(h["par"] for h in holes[:n]) == total]
+        if not fits:
+            return None, "pars don't add up to the course's par"
+        count = stated if stated in fits else fits[0]
+    else:
+        count = stated if stated in counts else counts[0]
+        if len(holes) != count:
+            return None, "can't tell how many holes it has"
+    holes = holes[:count]
+    if not any(h.get("yardages") for h in holes) and not any(h.get("handicap_index") for h in holes) \
+            and all(h["par"] == 4 for h in holes):
+        return None, "placeholder scorecard (every hole par 4, nothing else)"
 
     # Tees: keep the ones with a sensible yardage on every hole, longest first.
     names = tee_names(record)
@@ -308,41 +298,6 @@ def scorecard(record):
 
 # MARK: build: OpenStreetMap
 
-def ring_assemble(members):
-    """Joins a relation's outer ways into closed rings."""
-    pieces = [m["geometry"][:] for m in members if m["role"] in ("outer", "") and len(m["geometry"]) >= 2]
-    rings = []
-    while pieces:
-        ring = pieces.pop()
-        changed = True
-        while ring[0] != ring[-1] and changed:
-            changed = False
-            for i, piece in enumerate(pieces):
-                if piece[0] == ring[-1]:
-                    ring += piece[1:]
-                elif piece[-1] == ring[-1]:
-                    ring += piece[::-1][1:]
-                elif piece[-1] == ring[0]:
-                    ring = piece[:-1] + ring
-                elif piece[0] == ring[0]:
-                    ring = piece[::-1][:-1] + ring
-                else:
-                    continue
-                pieces.pop(i)
-                changed = True
-                break
-        if len(ring) >= 4 and ring[0] == ring[-1]:
-            rings.append(ring)
-    return rings
-
-
-def polygons(element):
-    if "geometry" in element:
-        g = element["geometry"]
-        return [g] if len(g) >= 4 and g[0] == g[-1] else []
-    return ring_assemble(element.get("members", []))
-
-
 def inside(point, ring):
     lat, lng = point
     hit = False
@@ -369,24 +324,26 @@ class OSM:
         with gzip.open(path, "rt", encoding="utf-8") as f:
             elements = json.load(f)["elements"]
         self.outlines = []   # (area, ring, bbox, name)
-        self.holes = []      # golf=hole ways
+        self.holes = []      # golf=hole lines
         self.shapes = []     # (kind, ring, bbox)
         for e in elements:
             tags = e["tags"]
+            rings = [r for r in e.get("rings", []) if len(r) >= 4]
             if tags.get("leisure") == "golf_course":
-                for ring in polygons(e):
+                for ring in rings:
                     self.outlines.append((ring_area(ring), ring, bbox(ring), tags.get("name", "")))
                 continue
             golf = tags.get("golf")
-            if golf == "hole" and "geometry" in e and len(e["geometry"]) >= 2:
-                self.holes.append(e)
+            if golf == "hole":
+                if len(e.get("line", [])) >= 2:
+                    self.holes.append({"tags": tags, "geometry": e["line"]})
                 continue
             kind = {"green": "green", "tee": "tee", "fairway": "fairway", "bunker": "sand",
                     "water_hazard": "water", "lateral_water_hazard": "water"}.get(golf)
             if kind is None and tags.get("natural") == "water":
                 kind = "water"
             if kind:
-                for ring in polygons(e):
+                for ring in rings:
                     self.shapes.append((kind, ring, bbox(ring)))
         self.outlines.sort(key=lambda o: o[0])
         # Each hole goes to the smallest outline its middle sits in.
@@ -759,7 +716,8 @@ def main():
     p.add_argument("--dataset", required=True, help="opengolfapi-us.ndjson from github.com/opengolfapi/data")
     p.add_argument("--limit", type=int, default=900, help="most API calls this run")
     p.add_argument("--pause", type=float, default=0.5, help="seconds between calls")
-    sub.add_parser("fetch-osm")
+    p = sub.add_parser("fetch-osm")
+    p.add_argument("geojson", help="golf features from osmium export, one GeoJSON feature a line")
     p = sub.add_parser("build")
     p.add_argument("library", help="the course-library folder")
     args = parser.parse_args()

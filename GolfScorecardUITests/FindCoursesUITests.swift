@@ -116,6 +116,12 @@ final class FindCoursesUITests: XCTestCase {
         let find = app.buttons["find-courses"]
         XCTAssertTrue(find.waitForExistence(timeout: 15), "Play should offer Find Courses")
         find.tap()
+        // The real library holds every Florida course, so find this one by name.
+        let search = app.searchFields.firstMatch
+        XCTAssertTrue(search.waitForExistence(timeout: 30), "Find Courses should have a search field")
+        capture("g0-github-full-list")
+        search.tap()
+        search.typeText("pompano pines")
         let row = app.buttons["library-course-pompano-pines"]
         XCTAssertTrue(row.waitForExistence(timeout: 30), "Pompano Beach Pines is missing from the library on GitHub")
         capture("g1-github-find-courses")

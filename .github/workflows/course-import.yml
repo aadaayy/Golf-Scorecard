@@ -39,12 +39,22 @@ jobs:
       - name: Fetch scorecards
         run: python3 Tools/CourseImport/florida.py fetch-api --dataset "$RUNNER_TEMP/opengolfapi-us.ndjson" --limit "${{ inputs.limit || '900' }}"
 
+      - name: Save the scorecards
+        if: always()
+        run: Tools/CourseImport/save.sh "Course import: Florida scorecards" Tools/CourseImport/cache/api
+
       - name: Fetch hole drawings from OpenStreetMap
         # When asked, when there's no copy yet, and every Monday. A failure keeps the old copy.
+        # Uses Geofabrik's daily Florida extract of OpenStreetMap, filtered down to golf by osmium.
+        timeout-minutes: 30
         continue-on-error: true
         run: |
           if [ "${{ inputs.drawings }}" = "yes" ] || [ ! -f Tools/CourseImport/cache/osm-florida.json.gz ] || [ "$(date -u +%u)" = "1" ]; then
-            python3 Tools/CourseImport/florida.py fetch-osm
+            sudo apt-get update -qq && sudo apt-get install -y -qq osmium-tool > /dev/null
+            curl -fsSL -o "$RUNNER_TEMP/florida.osm.pbf" https://download.geofabrik.de/north-america/us/florida-latest.osm.pbf
+            osmium tags-filter "$RUNNER_TEMP/florida.osm.pbf" nwr/golf nwr/leisure=golf_course nwr/natural=water -o "$RUNNER_TEMP/golf.osm.pbf"
+            osmium export "$RUNNER_TEMP/golf.osm.pbf" -f geojsonseq -a type,id --geometry-types=linestring,polygon -o "$RUNNER_TEMP/golf.geojsonseq"
+            python3 Tools/CourseImport/florida.py fetch-osm "$RUNNER_TEMP/golf.geojsonseq"
           else
             echo "Using the OpenStreetMap copy from the last fetch"
           fi
@@ -56,21 +66,12 @@ jobs:
           python3 Tools/CourseLibrary/build_index.py course-library
 
       - name: Save
-        # Always, so the scorecards fetched so far are kept even if a later step failed.
+        # Always, so whatever was fetched is kept even if a later step failed.
         if: always()
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Tools/CourseImport/cache
           # The courses only when they built cleanly.
-          if [ "${{ steps.build.outcome }}" = "success" ]; then git add Tools/CourseImport course-library; fi
-          if git diff --cached --quiet; then
-            echo "Nothing new"
-            exit 0
+          if [ "${{ steps.build.outcome }}" = "success" ]; then
+            Tools/CourseImport/save.sh "Course import: Florida courses from open data" Tools/CourseImport course-library
+          else
+            Tools/CourseImport/save.sh "Course import: OpenStreetMap copy" Tools/CourseImport/cache
           fi
-          git commit -m "Course import: Florida courses from open data"
-          for i in 1 2 3; do
-            git pull --rebase origin main && git push origin HEAD:main && exit 0
-            sleep 5
-          done
-          exit 1
