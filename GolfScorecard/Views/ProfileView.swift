@@ -243,6 +243,8 @@ private struct MyProfilePage: View {
                 }
             }
             .listRowBackground(Book.page)
+            GroupAccountSection()
+                .listRowBackground(Book.page)
         }
     }
 
@@ -366,7 +368,7 @@ private struct HistoryPage: View {
         finished.compactMap { round in
             let grid = round.grid
             let all = 1...StrokeGrid.holeCount
-            return grid.holesPlayed(player: 0, holes: all) == holes ? grid.total(player: 0, holes: all) : nil
+            return grid.holesPlayed(player: round.me, holes: all) == holes ? grid.total(player: round.me, holes: all) : nil
         }
         .min()
     }

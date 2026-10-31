@@ -17,6 +17,7 @@ struct CardPane: View {
     @State private var gridArea: CGSize = .zero
     @Environment(\.verticalSizeClass) private var verticalSizeClass
     @Environment(\.scoresLocked) private var scoresLocked
+    @Environment(\.editableSeat) private var editableSeat
 
     /// The smallest cells still easy to read and tap, and the largest worth drawing.
     private static let minCell: CGFloat = 26
@@ -78,7 +79,15 @@ struct CardPane: View {
                     .fixedSize(horizontal: false, vertical: gridFits)
                 }
 
-            if !scoresLocked {
+            if !scoresLocked, let editableSeat, player != editableSeat {
+                // A friend's row in a group round: theirs to enter.
+                FriendScoreBar(
+                    playerName: round.players.indices.contains(player) ? round.players[player] : "",
+                    hole: selectedHole,
+                    strokes: round.grid.strokes(player: player, hole: selectedHole)
+                )
+                .padding(.horizontal)
+            } else if !scoresLocked {
                 ScoreEntryBar(
                     playerName: round.players.indices.contains(player) ? round.players[player] : "",
                     hole: selectedHole,

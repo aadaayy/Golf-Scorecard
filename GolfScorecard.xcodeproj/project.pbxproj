@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA0000000000000000000052 /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = AA0000000000000000000051 /* Supabase */; };
 		AA0000000000000000000043 /* RoundActivity.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000040 /* RoundActivity.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
@@ -75,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA0000000000000000000052 /* Supabase in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +141,7 @@
 			);
 			name = GolfScorecard;
 			packageProductDependencies = (
+				AA0000000000000000000051 /* Supabase */,
 			);
 			productName = GolfScorecard;
 			productReference = AA0000000000000000000001 /* GolfScorecard.app */;
@@ -221,6 +224,9 @@
 			);
 			mainGroup = AA0000000000000000000005;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				AA0000000000000000000050 /* XCRemoteSwiftPackageReference "supabase-swift" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = AA0000000000000000000006 /* Products */;
 			projectDirPath = "";
@@ -530,6 +536,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AA0000000000000000000050 /* XCRemoteSwiftPackageReference "supabase-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/supabase/supabase-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.55.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AA0000000000000000000051 /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AA0000000000000000000050 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = AA0000000000000000000020 /* Project object */;
 }

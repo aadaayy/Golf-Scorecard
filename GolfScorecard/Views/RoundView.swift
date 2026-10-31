@@ -32,6 +32,9 @@ struct RoundView: View {
     /// so nothing on screen is still showing it.
     @State private var deleteWhenClosed = false
     @Environment(\.dismiss) private var dismiss
+    @Environment(GroupSession.self) private var group
+    /// A group round's live link to the others, while it's open.
+    @State private var sync: GroupRoundSync?
 
     private var isWide: Bool { horizontalSizeClass == .regular || verticalSizeClass == .compact }
     private var halves: TwoHalves { TwoHalves(verticalSizeClass: verticalSizeClass) }
@@ -48,9 +51,15 @@ struct RoundView: View {
                 )
             }
         }
+        .safeAreaInset(edge: .top, spacing: 0) {
+            if round.isGroupRound && !round.isFinished {
+                GroupRoundBar(round: round, sync: sync)
+            }
+        }
         .navigationTitle(round.courseName)
         .navigationBarTitleDisplayMode(.inline)
         .environment(\.scoresLocked, round.isFinished && !editing)
+        .environment(\.editableSeat, round.isGroupRound ? round.me : nil)
         .toolbar {
             if showsCloseButton {
                 ToolbarItem(placement: .topBarLeading) {
@@ -87,19 +96,36 @@ struct RoundView: View {
             } else if round.lastScoredHole > 0 {
                 selectedHole = round.lastScoredHole
             }
+            selectedPlayer = round.me
             updateLockScreen()
+            startGroupSync()
         }
         .onChange(of: selectedHole) { updateLockScreen() }
-        .onChange(of: round.strokes) { updateLockScreen() }
+        .onChange(of: round.strokes) {
+            updateLockScreen()
+            if let sync { Task { await sync.sendChanges() } }
+        }
+        .onChange(of: group.user) { startGroupSync() }
         .onReceive(NotificationCenter.default.publisher(for: .showLiveRoundHole)) { note in
             if let hole = note.object as? Int { selectedHole = hole }
         }
         .onDisappear {
+            sync?.stop()
+            sync = nil
             if deleteWhenClosed {
                 modelContext.delete(round)
                 try? modelContext.save()
             }
         }
+    }
+
+    /// A group round being played keeps in step with the others while it's open.
+    private func startGroupSync() {
+        guard sync == nil, round.isGroupRound, !round.isFinished, !deleteWhenClosed,
+              let service = group.service, let user = group.user else { return }
+        let newSync = GroupRoundSync(round: round, service: service, myUserID: user.id)
+        sync = newSync
+        newSync.start()
     }
 
     /// The Lock Screen card follows the hole and the score.
@@ -145,6 +171,9 @@ struct RoundView: View {
 
     /// Saves the round as finished and goes back home.
     private func finish() {
+        sync?.finishRound()
+        sync?.stop()
+        sync = nil
         round.finishedAt = .now
         LiveRound.end()
         leaveWhenSummaryCloses = true
@@ -244,4 +273,6 @@ struct WideRoundLayout<Card: View, Map: View>: View {
 extension EnvironmentValues {
     /// True while a finished round is shown without Edit, so its scores can't change.
     @Entry var scoresLocked = false
+    /// In a group round, the only row this phone can change (its own); nil when every row can.
+    @Entry var editableSeat: Int? = nil
 }

@@ -49,9 +49,9 @@ struct RoundSummaryView: View {
         }
     }
 
-    /// Holes the first player hasn't scored, out of the course's holes.
+    /// Holes this phone's golfer hasn't scored, out of the course's holes.
     private var holesMissing: Int {
-        course.holes.count - round.grid.holesPlayed(player: 0, holes: 1...course.holes.count)
+        course.holes.count - round.grid.holesPlayed(player: round.me, holes: 1...course.holes.count)
     }
 
     static func toParText(_ value: Int) -> String {
@@ -102,7 +102,7 @@ struct RoundTotals: View {
                 figure("Total", total > 0 ? "\(total)" : "–", big: true)
                     .accessibilityIdentifier("summary-total-\(p)")
                 figure("To par", grid.toPar(player: p, course: course).map(RoundSummaryView.toParText) ?? "–")
-                if p == 0, let net = netScore(total: total, played: played) {
+                if p == round.me, let net = netScore(total: total, played: played) {
                     figure("Net", "\(net)")
                         .accessibilityIdentifier("summary-net")
                 }

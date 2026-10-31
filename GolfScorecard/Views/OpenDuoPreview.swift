@@ -14,6 +14,9 @@ struct OpenDuoPreview: View {
     var showsHome = false
 
     @Environment(CourseLibrary.self) private var library
+    @Environment(CourseCatalog.self) private var catalog
+    @Environment(GroupSession.self) private var group
+    @Environment(\.modelContext) private var modelContext
     @State private var round: Round?
 
     var body: some View {
@@ -49,8 +52,16 @@ struct OpenDuoPreview: View {
         }
     }
 
-    /// A round on the first course with the first hole scored.
+    /// A round on the first course with the first hole scored, or with
+    /// -mockGroup -groupRound, the pretend friends' group round joined.
     private func makeRound() {
+        if !showsHome, round == nil, ProcessInfo.processInfo.arguments.contains("-groupRound") {
+            Task {
+                round = try? await group.joinRound(code: MockGroupService.joinCode, playerName: "Me", handicap: nil,
+                                                   library: library, catalog: catalog, in: modelContext)
+            }
+            return
+        }
         guard !showsHome, round == nil, let course = library.course(id: "pompano-pines") ?? library.courses.first else { return }
         let tee = course.tees.contains("White") ? "White" : course.tees[safe: course.tees.count / 2] ?? ""
         let newRound = Round(course: course, tee: tee, players: ["Me"])

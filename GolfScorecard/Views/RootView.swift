@@ -19,6 +19,11 @@ struct RootView: View {
     @Environment(\.modelContext) private var modelContext
     /// Bumped by Erase Everything, so each tab starts again from its top screen.
     @State private var resetCount = 0
+    /// Join a Group Round, open with the code from a link if there was one.
+    @State private var joining: JoinRequest?
+    /// A round just joined, opened once the join sheet has gone.
+    @State private var joinedRound: Round?
+    @Environment(GroupSession.self) private var group
 
     var body: some View {
         TabView(selection: $tab) {
@@ -51,7 +56,21 @@ struct RootView: View {
                 RoundView(round: round, showsCloseButton: true, startHole: openRoundHole)
             }
         }
-        .onOpenURL(perform: openFromLockScreen)
+        .environment(\.joinGroupRound, { code in
+            joining = JoinRequest(code: code)
+        })
+        .sheet(item: $joining, onDismiss: {
+            if let round = joinedRound {
+                joinedRound = nil
+                openRoundHole = nil
+                openRound = round
+            }
+        }) { request in
+            JoinRoundView(startCode: request.code) { round in
+                joinedRound = round
+            }
+        }
+        .onOpenURL(perform: openLink)
         .task { endLeftoverLockScreenCards() }
         .overlay {
             // The welcome pages, the first time. Hosted on an empty overlay so
@@ -66,6 +85,19 @@ struct RootView: View {
 }
 
 extension RootView {
+    /// Links into the app: the Lock Screen card, a friend's join link, and
+    /// the way back from Google's sign-in page.
+    private func openLink(_ url: URL) {
+        if let code = JoinCode.code(in: url) {
+            tab = .play
+            if openRound == nil { joining = JoinRequest(code: code) }
+        } else if url.host == "login-callback" {
+            group.handle(url)
+        } else {
+            openFromLockScreen(url)
+        }
+    }
+
     /// The round's Lock Screen card was tapped: open that round at its hole.
     /// The link looks like golfscorecard://round?start=…&hole=7.
     private func openFromLockScreen(_ url: URL) {
@@ -93,6 +125,12 @@ extension RootView {
         let unfinished = (try? modelContext.fetch(FetchDescriptor<Round>(predicate: #Predicate<Round> { $0.finishedAt == nil }))) ?? []
         LiveRound.endCards(exceptRoundsStartedAt: Set(unfinished.map { $0.date.timeIntervalSinceReferenceDate }))
     }
+}
+
+/// Join a Group Round, with the code from a link when there was one.
+struct JoinRequest: Identifiable {
+    let id = UUID()
+    var code: String?
 }
 
 enum AppTab: Hashable {

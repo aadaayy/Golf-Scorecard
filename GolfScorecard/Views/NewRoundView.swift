@@ -14,6 +14,11 @@ struct NewRoundView: View {
     @Query(sort: \Round.date, order: .reverse) private var pastRounds: [Round]
     @State private var tee = ""
     @State private var players: [String] = []
+    @Environment(GroupSession.self) private var group
+    @State private var showingSignIn = false
+    @State private var showingNotSetUp = false
+    @State private var startingGroup = false
+    @State private var groupProblem: String?
 
     private let maxPlayers = 4
 
@@ -88,8 +93,39 @@ struct NewRoundView: View {
                 .listRowBackground(Book.ink)
                 .accessibilityIdentifier("start-round")
             }
+
+            Section {
+                Button(action: startGroupTapped) {
+                    HStack {
+                        if startingGroup { ProgressView() }
+                        Label(startingGroup ? "Starting…" : "Start Group Round", systemImage: "person.2.fill")
+                            .font(Book.title(18, relativeTo: .headline))
+                    }
+                    .foregroundStyle(Book.ink)
+                    .frame(maxWidth: .infinity)
+                }
+                .disabled(startingGroup)
+                .bookRow()
+                .accessibilityIdentifier("start-group-round")
+            } footer: {
+                if let groupProblem {
+                    Text(groupProblem).foregroundStyle(Book.red).accessibilityIdentifier("group-problem")
+                } else {
+                    Text("Friends join from their own phones with a code. Everyone keeps their own score, and everyone's card fills in live.")
+                }
+            }
         }
         .bookList()
+        .sheet(isPresented: $showingSignIn, onDismiss: {
+            if group.user != nil { startGroup() }
+        }) {
+            GroupSignInSheet()
+        }
+        .alert("Group rounds aren't set up yet", isPresented: $showingNotSetUp) {
+            Button("OK", role: .cancel) {}
+        } message: {
+            Text("This copy of the app isn't connected to its group-round database. The steps are under Group rounds setup in the README.")
+        }
         .navigationTitle(course.name)
         .navigationBarTitleDisplayMode(.inline)
         .onAppear(perform: fillIn)
@@ -152,6 +188,35 @@ struct NewRoundView: View {
         // The usual tee if this course has it, then White, then the middle of the list.
         if tee.isEmpty {
             tee = [usualTee, "White"].first(where: { course.tees.contains($0) }) ?? course.tees[safe: course.tees.count / 2] ?? ""
+        }
+    }
+
+    private func startGroupTapped() {
+        groupProblem = nil
+        if !group.isSetUp {
+            showingNotSetUp = true
+        } else if group.user == nil {
+            showingSignIn = true
+        } else {
+            startGroup()
+        }
+    }
+
+    /// A group round has just you on the card; friends add themselves.
+    private func startGroup() {
+        guard !startingGroup else { return }
+        let name = players.first.map { $0.trimmingCharacters(in: .whitespaces) } ?? ""
+        let me = name.isEmpty ? (playerName.isEmpty ? (group.user?.name ?? "Me") : playerName) : name
+        startingGroup = true
+        Task {
+            defer { startingGroup = false }
+            do {
+                let round = try await group.startRound(course: course, tee: tee, playerName: me,
+                                                       handicap: HandicapIndex.parse(handicap), in: modelContext)
+                onStart(round)
+            } catch {
+                groupProblem = error.localizedDescription
+            }
         }
     }
 

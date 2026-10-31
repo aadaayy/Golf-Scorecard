@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!--
+  Group rounds: where the app finds your Supabase project. See "Group rounds
+  setup" in README.md.
+
+  Both values are safe to keep in the app and on GitHub: the URL is public,
+  and the anon (or publishable) key only allows what the database's row level
+  security allows. Never put the service_role or secret key here.
+
+  Until SupabaseURL is filled in, Start Group Round and Join say group rounds
+  aren't set up yet, and everything else works as before.
+-->
+<dict>
+	<key>SupabaseURL</key>
+	<string>https://YOUR-PROJECT.supabase.co</string>
+	<key>SupabaseAnonKey</key>
+	<string>YOUR-ANON-OR-PUBLISHABLE-KEY</string>
+	<!-- Sign in with Apple needs a paid Apple Developer account. Turn on later (README step 6). -->
+	<key>AppleSignIn</key>
+	<false/>
+</dict>
+</plist>

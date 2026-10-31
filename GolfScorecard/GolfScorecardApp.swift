@@ -5,6 +5,7 @@ import SwiftData
 struct GolfScorecardApp: App {
     @State private var library: CourseLibrary
     @State private var catalog = CourseCatalog()
+    @State private var group: GroupSession
     private let container: ModelContainer
 
     /// UI tests launch with this flag so every test starts with no saved rounds
@@ -20,6 +21,7 @@ struct GolfScorecardApp: App {
             try? FileManager.default.removeItem(at: CourseLibrary.defaultDownloadsFolder)
         }
         // "-noBuiltInCourses" starts with no courses, so a test can download one.
+        _group = State(initialValue: GroupSession.make(arguments: arguments))
         let library = CourseLibrary(includeBuiltIn: !(Self.isUITesting && arguments.contains("-noBuiltInCourses")))
         _library = State(initialValue: library)
         let configuration = ModelConfiguration(isStoredInMemoryOnly: Self.isUITesting)
@@ -75,6 +77,7 @@ struct GolfScorecardApp: App {
             }
             .environment(library)
             .environment(catalog)
+            .environment(group)
             .bookStyle()
         }
         .modelContainer(container)

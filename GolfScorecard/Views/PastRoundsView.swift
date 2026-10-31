@@ -108,9 +108,9 @@ struct PastRoundsView: View {
 
     private func row(_ round: Round) -> some View {
         let grid = round.grid
-        let total = grid.total(player: 0, holes: 1...StrokeGrid.holeCount)
-        let played = grid.holesPlayed(player: 0, holes: 1...StrokeGrid.holeCount)
-        let toPar = library.course(id: round.courseID).flatMap { grid.toPar(player: 0, course: $0) }
+        let total = grid.total(player: round.me, holes: 1...StrokeGrid.holeCount)
+        let played = grid.holesPlayed(player: round.me, holes: 1...StrokeGrid.holeCount)
+        let toPar = library.course(id: round.courseID).flatMap { grid.toPar(player: round.me, course: $0) }
         return HStack(spacing: 12) {
             VStack(alignment: .leading, spacing: 3) {
                 Text(round.courseName).font(Book.title(18, relativeTo: .headline))

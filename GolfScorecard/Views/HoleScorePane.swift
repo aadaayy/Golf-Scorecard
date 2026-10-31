@@ -7,6 +7,7 @@ struct HoleScorePane: View {
     let course: Course
     @Binding var selectedHole: Int
     @Environment(\.scoresLocked) private var scoresLocked
+    @Environment(\.editableSeat) private var editableSeat
 
     private var hole: Hole? { course.hole(selectedHole) }
 
@@ -50,9 +51,13 @@ struct HoleScorePane: View {
         let par = hole?.par
         let nine = selectedHole >= 10 ? 10...18 : 1...9
         let buttonSize = min(64, numberSize * 0.55)
+        // In a group round only your own row has buttons; friends enter theirs.
+        let locked = scoresLocked || (editableSeat != nil && editableSeat != p)
         return VStack(spacing: 8) {
             if round.players.count > 1 {
                 Text(round.players[p]).font(Book.title(22, relativeTo: .title2))
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.6)
             }
             HStack(spacing: 12) {
                 Button {
@@ -61,8 +66,8 @@ struct HoleScorePane: View {
                     Image(systemName: "minus.circle.fill").font(.system(size: buttonSize))
                 }
                 .disabled(strokes == 0)
-                .opacity(scoresLocked ? 0 : 1)
-                .disabled(scoresLocked)
+                .opacity(locked ? 0 : 1)
+                .disabled(locked)
                 .accessibilityLabel("One less stroke")
                 .accessibilityIdentifier("hole-score-minus-\(p)")
 
@@ -82,8 +87,8 @@ struct HoleScorePane: View {
                     Image(systemName: "plus.circle.fill").font(.system(size: buttonSize))
                 }
                 .disabled(strokes >= StrokeGrid.maxStrokes)
-                .opacity(scoresLocked ? 0 : 1)
-                .disabled(scoresLocked)
+                .opacity(locked ? 0 : 1)
+                .disabled(locked)
                 .accessibilityLabel("One more stroke")
                 .accessibilityIdentifier("hole-score-plus-\(p)")
             }

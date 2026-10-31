@@ -46,7 +46,7 @@ enum LiveRound {
         var toPar = 0
         var thru = 0
         for courseHole in course.holes {
-            let strokes = grid.strokes(player: 0, hole: courseHole.number)
+            let strokes = grid.strokes(player: round.me, hole: courseHole.number)
             if strokes > 0 {
                 toPar += strokes - courseHole.par
                 thru += 1
@@ -55,8 +55,8 @@ enum LiveRound {
         return RoundActivityAttributes.ContentState(
             hole: hole,
             par: course.hole(hole)?.par,
-            strokes: grid.strokes(player: 0, hole: hole),
-            total: grid.total(player: 0, holes: 1...StrokeGrid.holeCount),
+            strokes: grid.strokes(player: round.me, hole: hole),
+            total: grid.total(player: round.me, holes: 1...StrokeGrid.holeCount),
             toPar: toPar,
             thru: thru
         )

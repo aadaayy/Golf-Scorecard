@@ -17,6 +17,7 @@ struct HomeView: View {
     @Query(filter: #Predicate<Round> { $0.finishedAt == nil }, sort: \Round.date, order: .reverse)
     private var unfinished: [Round]
     @Environment(\.openRound) private var openRound
+    @Environment(\.joinGroupRound) private var joinGroupRound
     @State private var path = NavigationPath()
     @State private var previewCourseID: String?
     @State private var removing: Course?
@@ -104,6 +105,29 @@ struct HomeView: View {
                 if library.courses.isEmpty {
                     Text("Find your course and download it to start playing.")
                 }
+            }
+
+            Section {
+                Button {
+                    joinGroupRound(nil)
+                } label: {
+                    Label {
+                        VStack(alignment: .leading, spacing: 2) {
+                            Text("Join a Group Round").font(.headline).foregroundStyle(Book.ink)
+                            Text("Got a code from a friend? Play their round with them.")
+                                .font(.subheadline)
+                                .foregroundStyle(Book.pencil)
+                        }
+                    } icon: {
+                        Image(systemName: "person.2.fill").foregroundStyle(Book.red)
+                    }
+                }
+                .bookRow()
+                .accessibilityIdentifier("join-group-round")
+            } header: {
+                Text("Play with Friends")
+            } footer: {
+                Text("To start one, pick a course and tap Start Group Round.")
             }
         }
         .bookList()
