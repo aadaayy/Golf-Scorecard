@@ -1,0 +1,219 @@
+{
+ "city": "Hobe Sound",
+ "club_name": "Eaglewood Country Club",
+ "course_name": "Eaglewood Country Club",
+ "dataset_name": "Eaglewood Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "championship": 337,
+    "forward": 246,
+    "middle": 314
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "championship": 118,
+    "forward": 107,
+    "middle": 113
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "championship": 181,
+    "forward": 151,
+    "middle": 163
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "championship": 153,
+    "forward": 103,
+    "middle": 118
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "championship": 126,
+    "forward": 81,
+    "middle": 114
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "championship": 147,
+    "forward": 137,
+    "middle": 140
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "championship": 168,
+    "forward": 145,
+    "middle": 155
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "championship": 317,
+    "forward": 273,
+    "middle": 293
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "championship": 100,
+    "forward": 77,
+    "middle": 91
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "championship": 125,
+    "forward": 102,
+    "middle": 115
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "championship": 115,
+    "forward": 106,
+    "middle": 111
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "championship": 148,
+    "forward": 97,
+    "middle": 120
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "championship": 190,
+    "forward": 147,
+    "middle": 168
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "championship": 186,
+    "forward": 137,
+    "middle": 161
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "championship": 177,
+    "forward": 100,
+    "middle": 160
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "championship": 124,
+    "forward": 85,
+    "middle": 105
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "championship": 136,
+    "forward": 104,
+    "middle": 116
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "championship": 291,
+    "forward": 194,
+    "middle": 260
+   }
+  }
+ ],
+ "id": "65333a41-db20-4bf4-aea5-5a6d5ba703c9",
+ "lat": 27.0475208,
+ "lng": -80.1402902,
+ "par": 57,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 57,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 3105
+  },
+  {
+   "gender": "Male",
+   "par": 57,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 2781
+  },
+  {
+   "gender": "Male",
+   "par": 57,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 2395
+  }
+ ]
+}

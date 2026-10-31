@@ -1,0 +1,243 @@
+{
+ "city": "Palm Beach Gardens",
+ "club_name": "Pga National Resort The Match",
+ "course_name": "Pga National Resort The Match",
+ "dataset_name": "Pga National Resort The Match",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Anchor": 430,
+    "Helm": 302,
+    "Sailboat": 368
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Anchor": 160,
+    "Helm": 120,
+    "Sailboat": 121
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Anchor": 447,
+    "Helm": 255,
+    "Sailboat": 354
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Anchor": 166,
+    "Helm": 115,
+    "Sailboat": 128
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Anchor": 487,
+    "Helm": 349,
+    "Sailboat": 400
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Anchor": 187,
+    "Helm": 132,
+    "Sailboat": 156
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Anchor": 424,
+    "Helm": 294,
+    "Sailboat": 370
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Anchor": 416,
+    "Helm": 290,
+    "Sailboat": 345
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Anchor": 404,
+    "Helm": 326,
+    "Sailboat": 364
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Anchor": 419,
+    "Helm": 290,
+    "Sailboat": 377
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Anchor": 170,
+    "Helm": 122,
+    "Sailboat": 147
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Anchor": 317,
+    "Helm": 210,
+    "Sailboat": 281
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Anchor": 142,
+    "Helm": 116,
+    "Sailboat": 131
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Anchor": 326,
+    "Helm": 178,
+    "Sailboat": 262
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Anchor": 442,
+    "Helm": 311,
+    "Sailboat": 377
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Anchor": 270,
+    "Helm": 184,
+    "Sailboat": 230
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Anchor": 394,
+    "Helm": 257,
+    "Sailboat": 322
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "Anchor": 188,
+    "Helm": 129,
+    "Sailboat": 156
+   }
+  }
+ ],
+ "id": "d9962423-9414-498e-ba58-dcd52977145e",
+ "lat": 26.8297549,
+ "lng": -80.1411975,
+ "par": 67,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": null,
+   "tee_key": "anchor-female",
+   "tee_name": "Anchor",
+   "yardage": 5789
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": null,
+   "tee_key": "anchor-male",
+   "tee_name": "Anchor",
+   "yardage": 5789
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": null,
+   "tee_key": "sailboat-male",
+   "tee_name": "Sailboat",
+   "yardage": 4889
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": null,
+   "tee_key": "sailboat-female",
+   "tee_name": "Sailboat",
+   "yardage": 4889
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": null,
+   "tee_key": "helm-female",
+   "tee_name": "Helm",
+   "yardage": 3980
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": null,
+   "tee_key": "helm-male",
+   "tee_name": "Helm",
+   "yardage": 3980
+  }
+ ]
+}

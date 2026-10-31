@@ -1,0 +1,347 @@
+{
+ "city": "Lehigh Acres",
+ "club_name": "The Club At Westminster",
+ "course_name": "The Club At Westminster",
+ "dataset_name": "The Club At Westminster",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 465,
+    "Gold": 500,
+    "Green": 425,
+    "Hybrid": 384,
+    "Purple": 341,
+    "Red": 384,
+    "White": 440
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 372,
+    "Gold": 385,
+    "Green": 299,
+    "Hybrid": 278,
+    "Purple": 224,
+    "Red": 278,
+    "White": 345
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 164,
+    "Gold": 184,
+    "Green": 135,
+    "Hybrid": 98,
+    "Purple": 98,
+    "Red": 111,
+    "White": 145
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 394,
+    "Gold": 425,
+    "Green": 330,
+    "Hybrid": 257,
+    "Purple": 257,
+    "Red": 313,
+    "White": 350
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 338,
+    "Gold": 353,
+    "Green": 310,
+    "Hybrid": 266,
+    "Purple": 230,
+    "Red": 266,
+    "White": 320
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 192,
+    "Gold": 216,
+    "Green": 148,
+    "Hybrid": 93,
+    "Purple": 93,
+    "Red": 143,
+    "White": 168
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Blue": 480,
+    "Gold": 494,
+    "Green": 450,
+    "Hybrid": 420,
+    "Purple": 345,
+    "Red": 420,
+    "White": 465
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 375,
+    "Gold": 400,
+    "Green": 340,
+    "Hybrid": 296,
+    "Purple": 223,
+    "Red": 296,
+    "White": 352
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 421,
+    "Gold": 448,
+    "Green": 333,
+    "Hybrid": 282,
+    "Purple": 282,
+    "Red": 327,
+    "White": 395
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 378,
+    "Gold": 400,
+    "Green": 335,
+    "Hybrid": 251,
+    "Purple": 251,
+    "Red": 311,
+    "White": 361
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 395,
+    "Gold": 412,
+    "Green": 365,
+    "Hybrid": 251,
+    "Purple": 251,
+    "Red": 332,
+    "White": 380
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 500,
+    "Gold": 523,
+    "Green": 430,
+    "Hybrid": 407,
+    "Purple": 339,
+    "Red": 407,
+    "White": 478
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 174,
+    "Gold": 205,
+    "Green": 138,
+    "Hybrid": 85,
+    "Purple": 85,
+    "Red": 125,
+    "White": 162
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 358,
+    "Gold": 371,
+    "Green": 302,
+    "Hybrid": 295,
+    "Purple": 240,
+    "Red": 295,
+    "White": 339
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 381,
+    "Gold": 400,
+    "Green": 348,
+    "Hybrid": 241,
+    "Purple": 241,
+    "Red": 322,
+    "White": 367
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 184,
+    "Gold": 220,
+    "Green": 143,
+    "Hybrid": 119,
+    "Purple": 104,
+    "Red": 119,
+    "White": 156
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 326,
+    "Gold": 337,
+    "Green": 305,
+    "Hybrid": 269,
+    "Purple": 230,
+    "Red": 269,
+    "White": 315
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 498,
+    "Gold": 527,
+    "Green": 419,
+    "Hybrid": 356,
+    "Purple": 356,
+    "Red": 412,
+    "White": 473
+   }
+  }
+ ],
+ "id": "7fa0d021-3797-493a-bec5-95a46a449927",
+ "lat": 26.6047084,
+ "lng": -81.732313,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6800
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6395
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6011
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5555
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5130
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5130
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "hybrid-female",
+   "tee_name": "Hybrid",
+   "yardage": 4648
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "hybrid-male",
+   "tee_name": "Hybrid",
+   "yardage": 4648
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "purple-male",
+   "tee_name": "Purple",
+   "yardage": 4190
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "purple-female",
+   "tee_name": "Purple",
+   "yardage": 4190
+  }
+ ]
+}

@@ -1,0 +1,391 @@
+{
+ "city": "Plantation",
+ "club_name": "Fort Lauderdale Country Club North Course",
+ "course_name": "Fort Lauderdale Country Club North Course",
+ "dataset_name": "Fort Lauderdale Country Club North Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back": 382,
+    "back/member": 382,
+    "champion": 404,
+    "champion/back": 404,
+    "forward": 311,
+    "member": 366,
+    "member/middle": 318,
+    "middle": 318,
+    "middle/forward": 318
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "back": 378,
+    "back/member": 346,
+    "champion": 403,
+    "champion/back": 403,
+    "forward": 217,
+    "member": 346,
+    "member/middle": 346,
+    "middle": 306,
+    "middle/forward": 306
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "back": 551,
+    "back/member": 516,
+    "champion": 588,
+    "champion/back": 551,
+    "forward": 468,
+    "member": 516,
+    "member/middle": 493,
+    "middle": 493,
+    "middle/forward": 468
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "back": 188,
+    "back/member": 162,
+    "champion": 217,
+    "champion/back": 217,
+    "forward": 97,
+    "member": 162,
+    "member/middle": 162,
+    "middle": 128,
+    "middle/forward": 97
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "back": 313,
+    "back/member": 313,
+    "champion": 348,
+    "champion/back": 348,
+    "forward": 211,
+    "member": 280,
+    "member/middle": 280,
+    "middle": 255,
+    "middle/forward": 255
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back": 343,
+    "back/member": 343,
+    "champion": 367,
+    "champion/back": 367,
+    "forward": 248,
+    "member": 303,
+    "member/middle": 303,
+    "middle": 276,
+    "middle/forward": 276
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "back": 507,
+    "back/member": 507,
+    "champion": 539,
+    "champion/back": 507,
+    "forward": 420,
+    "member": 466,
+    "member/middle": 466,
+    "middle": 452,
+    "middle/forward": 420
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back": 188,
+    "back/member": 155,
+    "champion": 220,
+    "champion/back": 188,
+    "forward": 109,
+    "member": 155,
+    "member/middle": 135,
+    "middle": 135,
+    "middle/forward": 135
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back": 437,
+    "back/member": 401,
+    "champion": 461,
+    "champion/back": 437,
+    "forward": 328,
+    "member": 401,
+    "member/middle": 368,
+    "middle": 368,
+    "middle/forward": 328
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "back": 419,
+    "back/member": 400,
+    "champion": 451,
+    "champion/back": 419,
+    "forward": 337,
+    "member": 400,
+    "member/middle": 363,
+    "middle": 363,
+    "middle/forward": 337
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "back": 170,
+    "back/member": 170,
+    "champion": 191,
+    "champion/back": 170,
+    "forward": 106,
+    "member": 146,
+    "member/middle": 146,
+    "middle": 122,
+    "middle/forward": 122
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "back": 388,
+    "back/member": 369,
+    "champion": 409,
+    "champion/back": 409,
+    "forward": 295,
+    "member": 369,
+    "member/middle": 342,
+    "middle": 342,
+    "middle/forward": 295
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "back": 301,
+    "back/member": 301,
+    "champion": 346,
+    "champion/back": 346,
+    "forward": 217,
+    "member": 280,
+    "member/middle": 280,
+    "middle": 254,
+    "middle/forward": 254
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "back": 479,
+    "back/member": 479,
+    "champion": 518,
+    "champion/back": 518,
+    "forward": 370,
+    "member": 444,
+    "member/middle": 444,
+    "middle": 411,
+    "middle/forward": 370
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "back": 210,
+    "back/member": 183,
+    "champion": 234,
+    "champion/back": 210,
+    "forward": 121,
+    "member": 183,
+    "member/middle": 183,
+    "middle": 145,
+    "middle/forward": 145
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "back": 350,
+    "back/member": 350,
+    "champion": 395,
+    "champion/back": 395,
+    "forward": 280,
+    "member": 325,
+    "member/middle": 325,
+    "middle": 303,
+    "middle/forward": 303
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "back": 567,
+    "back/member": 515,
+    "champion": 602,
+    "champion/back": 567,
+    "forward": 407,
+    "member": 515,
+    "member/middle": 465,
+    "middle": 465,
+    "middle/forward": 407
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back": 385,
+    "back/member": 385,
+    "champion": 414,
+    "champion/back": 414,
+    "forward": 261,
+    "member": 356,
+    "member/middle": 335,
+    "middle": 335,
+    "middle/forward": 335
+   }
+  }
+ ],
+ "id": "66d498fe-3371-4e9b-bf97-81c1aecc7730",
+ "lat": 26.11506,
+ "lng": -80.20788,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champion-male",
+   "tee_name": "Champion",
+   "yardage": 7084
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champion-back-male",
+   "tee_name": "Champion/Back",
+   "yardage": 6843
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6539
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-member-male",
+   "tee_name": "Back/Member",
+   "yardage": 6281
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 5992
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-middle-male",
+   "tee_name": "Member/Middle",
+   "yardage": 5790
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5512
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-female",
+   "tee_name": "Middle",
+   "yardage": 5512
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-forward-male",
+   "tee_name": "Middle/Forward",
+   "yardage": 5212
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-forward-female",
+   "tee_name": "Middle/Forward",
+   "yardage": 5212
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4851
+  }
+ ]
+}

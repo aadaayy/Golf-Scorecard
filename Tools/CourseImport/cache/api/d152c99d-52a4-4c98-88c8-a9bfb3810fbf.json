@@ -1,0 +1,269 @@
+{
+ "city": "West Palm Beach",
+ "club_name": "Pga National Resort Estates Course",
+ "course_name": "Pga National Resort Estates Course",
+ "dataset_name": "Pga National Resort Estates Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 359,
+    "blue/white_combo": 359,
+    "green": 317,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 367,
+    "blue/white_combo": 367,
+    "green": 338,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 207,
+    "blue/white_combo": 183,
+    "green": 141,
+    "white": 183
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 420,
+    "blue/white_combo": 385,
+    "green": 311,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "blue": 478,
+    "blue/white_combo": 478,
+    "green": 375,
+    "white": 440
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 338,
+    "blue/white_combo": 338,
+    "green": 309,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 425,
+    "blue/white_combo": 425,
+    "green": 325,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 174,
+    "blue/white_combo": 160,
+    "green": 151,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 551,
+    "blue/white_combo": 522,
+    "green": 459,
+    "white": 522
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "blue": 171,
+    "blue/white_combo": 155,
+    "green": 146,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 364,
+    "blue/white_combo": 364,
+    "green": 298,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 429,
+    "blue/white_combo": 390,
+    "green": 326,
+    "white": 390
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 401,
+    "blue/white_combo": 315,
+    "green": 290,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 171,
+    "blue/white_combo": 171,
+    "green": 145,
+    "white": 153
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 577,
+    "blue/white_combo": 532,
+    "green": 504,
+    "white": 532
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 407,
+    "blue/white_combo": 407,
+    "green": 309,
+    "white": 364
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 343,
+    "blue/white_combo": 343,
+    "green": 303,
+    "white": 311
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 525,
+    "blue/white_combo": 497,
+    "green": 437,
+    "white": 497
+   }
+  }
+ ],
+ "id": "d152c99d-52a4-4c98-88c8-a9bfb3810fbf",
+ "lat": 26.7930726,
+ "lng": -80.2193555,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6694
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-white-combo-male",
+   "tee_name": "Blue/White Combo",
+   "yardage": 6401
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6102
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6102
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5457
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5457
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4875
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "city": "Sunrise",
+ "club_name": "The Bridges At Springtree Golf Club",
+ "course_name": "The Bridges At Springtree Golf Club",
+ "dataset_name": "The Bridges At Springtree Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 16,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "Beige": 107,
+    "Black": 161,
+    "Green": 122,
+    "White": 139
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Beige": 98,
+    "Black": 182,
+    "Green": 123,
+    "White": 142
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Beige": 108,
+    "Black": 209,
+    "Green": 139,
+    "White": 158
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Beige": 76,
+    "Black": 109,
+    "Green": 88,
+    "White": 94
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Beige": 137,
+    "Black": 229,
+    "Green": 164,
+    "White": 188
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Beige": 227,
+    "Black": 312,
+    "Green": 254,
+    "White": 281
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Beige": 86,
+    "Black": 183,
+    "Green": 104,
+    "White": 143
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Beige": 94,
+    "Black": 174,
+    "Green": 121,
+    "White": 141
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Beige": 232,
+    "Black": 317,
+    "Green": 274,
+    "White": 291
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "Beige": 71,
+    "Black": 126,
+    "Green": 86,
+    "White": 105
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Beige": 335,
+    "Black": 449,
+    "Green": 376,
+    "White": 395
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Beige": 83,
+    "Black": 166,
+    "Green": 93,
+    "White": 148
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Beige": 49,
+    "Black": 98,
+    "Green": 75,
+    "White": 82
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Beige": 239,
+    "Black": 344,
+    "Green": 271,
+    "White": 319
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Beige": 107,
+    "Black": 186,
+    "Green": 112,
+    "White": 147
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Beige": 61,
+    "Black": 124,
+    "Green": 84,
+    "White": 98
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Beige": 266,
+    "Black": 345,
+    "Green": 281,
+    "White": 308
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Beige": 235,
+    "Black": 328,
+    "Green": 257,
+    "White": 287
+   }
+  }
+ ],
+ "id": "6a87af80-e9e5-4561-9e78-ec0fa7d8fe57",
+ "lat": 26.1706057,
+ "lng": -80.2581416,
+ "par": 62,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 4042
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3466
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 3024
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "beige-male",
+   "tee_name": "Beige",
+   "yardage": 2611
+  }
+ ]
+}

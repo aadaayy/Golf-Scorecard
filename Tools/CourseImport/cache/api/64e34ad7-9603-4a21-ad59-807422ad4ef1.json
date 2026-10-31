@@ -1,0 +1,214 @@
+{
+ "city": "University Park",
+ "club_name": "19 1 At University Park Country Club",
+ "course_name": "19 1 At University Park Country Club",
+ "dataset_name": "19 1 At University Park Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "bronze": 84,
+    "diamond": 193,
+    "emerald": 165,
+    "gold": 100,
+    "platinum": 140,
+    "ruby": 98
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "bronze": 284,
+    "diamond": 441,
+    "emerald": 420,
+    "gold": 332,
+    "platinum": 367,
+    "ruby": 307
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "bronze": 415,
+    "diamond": 533,
+    "emerald": 516,
+    "gold": 438,
+    "platinum": 480,
+    "ruby": 435
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "bronze": 119,
+    "diamond": 207,
+    "emerald": 183,
+    "gold": 152,
+    "platinum": 170,
+    "ruby": 146
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "bronze": 295,
+    "diamond": 422,
+    "emerald": 397,
+    "gold": 358,
+    "platinum": 379,
+    "ruby": 344
+   }
+  }
+ ],
+ "id": "64e34ad7-9603-4a21-ad59-807422ad4ef1",
+ "lat": 27.4046791,
+ "lng": -82.4740262,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "diamond-male",
+   "tee_name": "Diamond",
+   "yardage": 7247
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "emerald-male",
+   "tee_name": "Emerald",
+   "yardage": 6716
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "platinum-male",
+   "tee_name": "Platinum",
+   "yardage": 6174
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5727
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5727
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ruby-female",
+   "tee_name": "Ruby",
+   "yardage": 5432
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bronze-female",
+   "tee_name": "Bronze",
+   "yardage": 4862
+  }
+ ]
+}

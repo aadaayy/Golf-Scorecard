@@ -1,0 +1,289 @@
+{
+ "city": "Palm Beach Gardens",
+ "club_name": "Sandhill Crane Golf Club Championship Golf Course",
+ "course_name": "Sandhill Crane Golf Club Championship Golf Course",
+ "dataset_name": "Sandhill Crane Golf Club Championship Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "tee_i": 495,
+    "tee_v": 376
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "tee_i": 386,
+    "tee_v": 287
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "tee_i": 370,
+    "tee_v": 285
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "tee_i": 156,
+    "tee_v": 96
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "tee_i": 400,
+    "tee_v": 296
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "tee_i": 365,
+    "tee_v": 264
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "tee_i": 177,
+    "tee_v": 108
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "tee_i": 310,
+    "tee_v": 246
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "tee_i": 487,
+    "tee_v": 362
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "tee_i": 379,
+    "tee_v": 254
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "tee_i": 422,
+    "tee_v": 325
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "tee_i": 145,
+    "tee_v": 94
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "tee_i": 452,
+    "tee_v": 364
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "tee_i": 332,
+    "tee_v": 252
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "tee_i": 190,
+    "tee_v": 109
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "tee_i": 517,
+    "tee_v": 393
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "tee_i": 186,
+    "tee_v": 100
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "tee_i": 537,
+    "tee_v": 399
+   }
+  }
+ ],
+ "id": "9882e461-0291-4e4e-a9a7-32f2bc2f1b32",
+ "lat": 26.8183065,
+ "lng": -80.2202566,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-i-male",
+   "tee_name": "Tee I",
+   "yardage": 6330
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-i-female",
+   "tee_name": "Tee I",
+   "yardage": 6330
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-female",
+   "tee_name": "Tee II",
+   "yardage": 6019
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 6019
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 5574
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-female",
+   "tee_name": "Tee III",
+   "yardage": 5574
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-female",
+   "tee_name": "Tee IV",
+   "yardage": 4918
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-male",
+   "tee_name": "Tee IV",
+   "yardage": 4918
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-male",
+   "tee_name": "Tee V",
+   "yardage": 4638
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-female",
+   "tee_name": "Tee V",
+   "yardage": 4638
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-vi-male",
+   "tee_name": "Tee VI",
+   "yardage": 3621
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-vi-female",
+   "tee_name": "Tee VI",
+   "yardage": 3621
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-vii-female",
+   "tee_name": "Tee VII",
+   "yardage": 3181
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-vii-male",
+   "tee_name": "Tee VII",
+   "yardage": 3181
+  }
+ ]
+}

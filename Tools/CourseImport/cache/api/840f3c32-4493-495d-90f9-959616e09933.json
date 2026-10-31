@@ -1,0 +1,441 @@
+{
+ "city": "Naples",
+ "club_name": "The Club At Olde Cypress",
+ "course_name": "The Club At Olde Cypress",
+ "dataset_name": "The Club At Olde Cypress",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Calusa": 241,
+    "Champion": 360,
+    "Cypress": 290,
+    "Cypress Front": 290,
+    "Dye": 341,
+    "Lady Dye": 241,
+    "Palmetto": 329,
+    "Pines": 311,
+    "Preserve": 329,
+    "Tournament": 341
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Calusa": 390,
+    "Champion": 533,
+    "Cypress": 423,
+    "Cypress Front": 423,
+    "Dye": 507,
+    "Lady Dye": 423,
+    "Palmetto": 450,
+    "Pines": 450,
+    "Preserve": 479,
+    "Tournament": 507
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Calusa": 249,
+    "Champion": 338,
+    "Cypress": 254,
+    "Cypress Front": 254,
+    "Dye": 314,
+    "Lady Dye": 254,
+    "Palmetto": 303,
+    "Pines": 292,
+    "Preserve": 303,
+    "Tournament": 314
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Calusa": 78,
+    "Champion": 160,
+    "Cypress": 116,
+    "Cypress Front": 116,
+    "Dye": 154,
+    "Lady Dye": 116,
+    "Palmetto": 142,
+    "Pines": 132,
+    "Preserve": 142,
+    "Tournament": 154
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Calusa": 251,
+    "Champion": 357,
+    "Cypress": 298,
+    "Cypress Front": 298,
+    "Dye": 347,
+    "Lady Dye": 251,
+    "Palmetto": 325,
+    "Pines": 312,
+    "Preserve": 325,
+    "Tournament": 347
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Calusa": 259,
+    "Champion": 396,
+    "Cypress": 327,
+    "Cypress Front": 327,
+    "Dye": 368,
+    "Lady Dye": 259,
+    "Palmetto": 351,
+    "Pines": 351,
+    "Preserve": 368,
+    "Tournament": 378
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Calusa": 103,
+    "Champion": 227,
+    "Cypress": 141,
+    "Cypress Front": 141,
+    "Dye": 184,
+    "Lady Dye": 103,
+    "Palmetto": 152,
+    "Pines": 152,
+    "Preserve": 184,
+    "Tournament": 218
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Calusa": 319,
+    "Champion": 477,
+    "Cypress": 343,
+    "Cypress Front": 343,
+    "Dye": 425,
+    "Lady Dye": 343,
+    "Palmetto": 396,
+    "Pines": 396,
+    "Preserve": 425,
+    "Tournament": 468
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Calusa": 201,
+    "Champion": 351,
+    "Cypress": 254,
+    "Cypress Front": 254,
+    "Dye": 328,
+    "Lady Dye": 254,
+    "Palmetto": 308,
+    "Pines": 278,
+    "Preserve": 308,
+    "Tournament": 328
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Calusa": 195,
+    "Champion": 349,
+    "Cypress": 261,
+    "Cypress Front": 261,
+    "Dye": 324,
+    "Lady Dye": 261,
+    "Palmetto": 269,
+    "Pines": 269,
+    "Preserve": 324,
+    "Tournament": 334
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Calusa": 211,
+    "Champion": 374,
+    "Cypress": 294,
+    "Cypress Front": 294,
+    "Dye": 349,
+    "Lady Dye": 211,
+    "Palmetto": 337,
+    "Pines": 309,
+    "Preserve": 337,
+    "Tournament": 349
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Calusa": 64,
+    "Champion": 122,
+    "Cypress": 69,
+    "Cypress Front": 69,
+    "Dye": 108,
+    "Lady Dye": 69,
+    "Palmetto": 84,
+    "Pines": 73,
+    "Preserve": 84,
+    "Tournament": 108
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Calusa": 359,
+    "Champion": 594,
+    "Cypress": 494,
+    "Cypress Front": 359,
+    "Dye": 523,
+    "Lady Dye": 359,
+    "Palmetto": 508,
+    "Pines": 508,
+    "Preserve": 523,
+    "Tournament": 557
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Calusa": 83,
+    "Champion": 185,
+    "Cypress": 94,
+    "Cypress Front": 94,
+    "Dye": 147,
+    "Lady Dye": 94,
+    "Palmetto": 147,
+    "Pines": 125,
+    "Preserve": 147,
+    "Tournament": 157
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Calusa": 274,
+    "Champion": 417,
+    "Cypress": 330,
+    "Cypress Front": 330,
+    "Dye": 393,
+    "Lady Dye": 274,
+    "Palmetto": 387,
+    "Pines": 355,
+    "Preserve": 387,
+    "Tournament": 393
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Calusa": 247,
+    "Champion": 455,
+    "Cypress": 338,
+    "Cypress Front": 338,
+    "Dye": 406,
+    "Lady Dye": 247,
+    "Palmetto": 342,
+    "Pines": 342,
+    "Preserve": 406,
+    "Tournament": 426
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Calusa": 256,
+    "Champion": 437,
+    "Cypress": 325,
+    "Cypress Front": 325,
+    "Dye": 388,
+    "Lady Dye": 256,
+    "Palmetto": 362,
+    "Pines": 362,
+    "Preserve": 388,
+    "Tournament": 419
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Calusa": 320,
+    "Champion": 507,
+    "Cypress": 361,
+    "Cypress Front": 361,
+    "Dye": 443,
+    "Lady Dye": 361,
+    "Palmetto": 412,
+    "Pines": 412,
+    "Preserve": 443,
+    "Tournament": 457
+   }
+  }
+ ],
+ "id": "840f3c32-4493-495d-90f9-959616e09933",
+ "lat": 26.2778306,
+ "lng": -81.7205008,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champion-male",
+   "tee_name": "Champion",
+   "yardage": 6639
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6255
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "dye-male",
+   "tee_name": "Dye",
+   "yardage": 6049
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "preserve-male",
+   "tee_name": "Preserve",
+   "yardage": 5902
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "preserve-female",
+   "tee_name": "Preserve",
+   "yardage": 5902
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "palmetto-female",
+   "tee_name": "Palmetto",
+   "yardage": 5604
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "palmetto-male",
+   "tee_name": "Palmetto",
+   "yardage": 5604
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pines-male",
+   "tee_name": "Pines",
+   "yardage": 5429
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pines-female",
+   "tee_name": "Pines",
+   "yardage": 5429
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "cypress-male",
+   "tee_name": "Cypress",
+   "yardage": 5012
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "cypress-female",
+   "tee_name": "Cypress",
+   "yardage": 5012
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "cypress-front-female",
+   "tee_name": "Cypress Front",
+   "yardage": 4877
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "lady-dye-female",
+   "tee_name": "Lady Dye",
+   "yardage": 4376
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "calusa-female",
+   "tee_name": "Calusa",
+   "yardage": 4100
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "calusa-male",
+   "tee_name": "Calusa",
+   "yardage": 4100
+  }
+ ]
+}

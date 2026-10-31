@@ -1,0 +1,381 @@
+{
+ "city": "Naples",
+ "club_name": "The Golf Lodge At The Quarry",
+ "course_name": "The Golf Lodge At The Quarry",
+ "dataset_name": "The Golf Lodge At The Quarry",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Bronze": 341,
+    "Copper": 267,
+    "Gold": 230,
+    "Quarry": 316,
+    "Quartz": 230,
+    "Silver": 316,
+    "Slate": 364,
+    "Stone": 267
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Bronze": 210,
+    "Copper": 167,
+    "Gold": 139,
+    "Quarry": 167,
+    "Quartz": 139,
+    "Silver": 190,
+    "Slate": 231,
+    "Stone": 139
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Bronze": 575,
+    "Copper": 523,
+    "Gold": 466,
+    "Quarry": 523,
+    "Quartz": 420,
+    "Silver": 556,
+    "Slate": 601,
+    "Stone": 466
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Bronze": 445,
+    "Copper": 380,
+    "Gold": 340,
+    "Quarry": 380,
+    "Quartz": 283,
+    "Silver": 418,
+    "Slate": 473,
+    "Stone": 340
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Bronze": 403,
+    "Copper": 342,
+    "Gold": 297,
+    "Quarry": 375,
+    "Quartz": 297,
+    "Silver": 375,
+    "Slate": 431,
+    "Stone": 297
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Bronze": 159,
+    "Copper": 113,
+    "Gold": 90,
+    "Quarry": 139,
+    "Quartz": 90,
+    "Silver": 139,
+    "Slate": 178,
+    "Stone": 113
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Bronze": 542,
+    "Copper": 479,
+    "Gold": 436,
+    "Quarry": 517,
+    "Quartz": 376,
+    "Silver": 517,
+    "Slate": 571,
+    "Stone": 436
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Bronze": 380,
+    "Copper": 303,
+    "Gold": 270,
+    "Quarry": 355,
+    "Quartz": 270,
+    "Silver": 355,
+    "Slate": 407,
+    "Stone": 303
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Bronze": 356,
+    "Copper": 291,
+    "Gold": 251,
+    "Quarry": 328,
+    "Quartz": 251,
+    "Silver": 328,
+    "Slate": 382,
+    "Stone": 291
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Bronze": 422,
+    "Copper": 371,
+    "Gold": 328,
+    "Quarry": 371,
+    "Quartz": 290,
+    "Silver": 400,
+    "Slate": 449,
+    "Stone": 328
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Bronze": 403,
+    "Copper": 338,
+    "Gold": 296,
+    "Quarry": 369,
+    "Quartz": 296,
+    "Silver": 369,
+    "Slate": 423,
+    "Stone": 338
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Bronze": 506,
+    "Copper": 445,
+    "Gold": 396,
+    "Quarry": 478,
+    "Quartz": 349,
+    "Silver": 478,
+    "Slate": 532,
+    "Stone": 445
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Bronze": 173,
+    "Copper": 128,
+    "Gold": 102,
+    "Quarry": 154,
+    "Quartz": 102,
+    "Silver": 154,
+    "Slate": 194,
+    "Stone": 128
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Bronze": 555,
+    "Copper": 492,
+    "Gold": 452,
+    "Quarry": 492,
+    "Quartz": 358,
+    "Silver": 526,
+    "Slate": 585,
+    "Stone": 452
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Bronze": 205,
+    "Copper": 183,
+    "Gold": 131,
+    "Quarry": 185,
+    "Quartz": 131,
+    "Silver": 185,
+    "Slate": 224,
+    "Stone": 131
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Bronze": 352,
+    "Copper": 291,
+    "Gold": 244,
+    "Quarry": 325,
+    "Quartz": 244,
+    "Silver": 325,
+    "Slate": 379,
+    "Stone": 291
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Bronze": 407,
+    "Copper": 341,
+    "Gold": 300,
+    "Quarry": 341,
+    "Quartz": 300,
+    "Silver": 380,
+    "Slate": 436,
+    "Stone": 341
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Bronze": 429,
+    "Copper": 369,
+    "Gold": 323,
+    "Quarry": 369,
+    "Quartz": 323,
+    "Silver": 402,
+    "Slate": 456,
+    "Stone": 323
+   }
+  }
+ ],
+ "id": "8d2568b8-ea6b-4743-b799-049ababaeeaa",
+ "lat": 26.2786396,
+ "lng": -81.6772127,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "slate-male",
+   "tee_name": "Slate",
+   "yardage": 7316
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bronze-male",
+   "tee_name": "Bronze",
+   "yardage": 6863
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6413
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "quarry-male",
+   "tee_name": "Quarry",
+   "yardage": 6184
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "quarry-female",
+   "tee_name": "Quarry",
+   "yardage": 6184
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-male",
+   "tee_name": "Copper",
+   "yardage": 5823
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-female",
+   "tee_name": "Copper",
+   "yardage": 5823
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "stone-female",
+   "tee_name": "Stone",
+   "yardage": 5429
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "stone-male",
+   "tee_name": "Stone",
+   "yardage": 5429
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5091
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5091
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "quartz-female",
+   "tee_name": "Quartz",
+   "yardage": 4749
+  }
+ ]
+}

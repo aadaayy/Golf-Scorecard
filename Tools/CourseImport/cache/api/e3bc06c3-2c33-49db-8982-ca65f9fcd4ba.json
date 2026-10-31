@@ -1,0 +1,303 @@
+{
+ "city": "Fort Myers",
+ "club_name": "The Hideaway Country Club",
+ "course_name": "The Hideaway Country Club",
+ "dataset_name": "The Hideaway Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 14,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 312,
+    "Gold": 275,
+    "Red I": 250,
+    "Red II": 250,
+    "White": 298
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Blue": 120,
+    "Gold": 95,
+    "Red I": 95,
+    "Red II": 95,
+    "White": 113
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 172,
+    "Gold": 144,
+    "Red I": 135,
+    "Red II": 103,
+    "White": 154
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 364,
+    "Gold": 318,
+    "Red I": 295,
+    "Red II": 295,
+    "White": 344
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 120,
+    "Gold": 90,
+    "Red I": 80,
+    "Red II": 80,
+    "White": 100
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 343,
+    "Gold": 284,
+    "Red I": 269,
+    "Red II": 269,
+    "White": 315
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 347,
+    "Gold": 312,
+    "Red I": 254,
+    "Red II": 254,
+    "White": 331
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue": 520,
+    "Gold": 446,
+    "Red I": 435,
+    "Red II": 435,
+    "White": 492
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Blue": 190,
+    "Gold": 148,
+    "Red I": 119,
+    "Red II": 119,
+    "White": 160
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "Blue": 134,
+    "Gold": 107,
+    "Red I": 98,
+    "Red II": 98,
+    "White": 115
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 156,
+    "Gold": 134,
+    "Red I": 112,
+    "Red II": 112,
+    "White": 140
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 299,
+    "Gold": 276,
+    "Red I": 242,
+    "Red II": 242,
+    "White": 288
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 317,
+    "Gold": 270,
+    "Red I": 233,
+    "Red II": 233,
+    "White": 283
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 349,
+    "Gold": 284,
+    "Red I": 269,
+    "Red II": 269,
+    "White": 318
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 177,
+    "Gold": 115,
+    "Red I": 103,
+    "Red II": 103,
+    "White": 156
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Blue": 500,
+    "Gold": 439,
+    "Red I": 420,
+    "Red II": 420,
+    "White": 474
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 358,
+    "Gold": 259,
+    "Red I": 246,
+    "Red II": 246,
+    "White": 345
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 368,
+    "Gold": 298,
+    "Red I": 255,
+    "Red II": 255,
+    "White": 315
+   }
+  }
+ ],
+ "id": "e3bc06c3-2c33-49db-8982-ca65f9fcd4ba",
+ "lat": 26.5710887,
+ "lng": -81.858987,
+ "par": 67,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5146
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 4741
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 4741
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": "Gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4294
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4294
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": "Red",
+   "tee_key": "red-i-female",
+   "tee_name": "Red I",
+   "yardage": 3910
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "Red",
+   "tee_key": "red-i-male",
+   "tee_name": "Red I",
+   "yardage": 3910
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": "Red",
+   "tee_key": "red-ii-female",
+   "tee_name": "Red II",
+   "yardage": 3878
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "Red",
+   "tee_key": "red-ii-male",
+   "tee_name": "Red II",
+   "yardage": 3878
+  }
+ ]
+}

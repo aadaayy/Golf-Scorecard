@@ -1,0 +1,295 @@
+{
+ "city": "Lakewood Ranch",
+ "club_name": "Esplanade Golf Country Club At Lakewood Ranch",
+ "course_name": "Esplanade Golf Country Club At Lakewood Ranch",
+ "dataset_name": "Esplanade Golf Country Club At Lakewood Ranch",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "copper": 309,
+    "gold": 359,
+    "jade": 265,
+    "silver": 347
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 532,
+    "copper": 444,
+    "gold": 499,
+    "jade": 405,
+    "silver": 489
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 443,
+    "copper": 341,
+    "gold": 411,
+    "jade": 289,
+    "silver": 399
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 181,
+    "copper": 125,
+    "gold": 152,
+    "jade": 97,
+    "silver": 146
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 530,
+    "copper": 432,
+    "gold": 486,
+    "jade": 394,
+    "silver": 475
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 341,
+    "copper": 271,
+    "gold": 307,
+    "jade": 213,
+    "silver": 297
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 426,
+    "copper": 324,
+    "gold": 374,
+    "jade": 285,
+    "silver": 368
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 204,
+    "copper": 139,
+    "gold": 173,
+    "jade": 127,
+    "silver": 160
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "copper": 339,
+    "gold": 376,
+    "jade": 294,
+    "silver": 366
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "copper": 291,
+    "gold": 342,
+    "jade": 252,
+    "silver": 331
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "copper": 318,
+    "gold": 372,
+    "jade": 266,
+    "silver": 360
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 178,
+    "copper": 137,
+    "gold": 168,
+    "jade": 125,
+    "silver": 158
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 538,
+    "copper": 424,
+    "gold": 489,
+    "jade": 384,
+    "silver": 482
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 353,
+    "copper": 275,
+    "gold": 324,
+    "jade": 211,
+    "silver": 313
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 149,
+    "copper": 116,
+    "gold": 141,
+    "jade": 94,
+    "silver": 127
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 328,
+    "copper": 245,
+    "gold": 300,
+    "jade": 210,
+    "silver": 289
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 557,
+    "copper": 461,
+    "gold": 529,
+    "jade": 415,
+    "silver": 517
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "copper": 304,
+    "gold": 355,
+    "jade": 271,
+    "silver": 343
+   }
+  }
+ ],
+ "id": "9948e483-429a-4a01-bdfb-c5c6b453c3f1",
+ "lat": 27.4550399,
+ "lng": -82.4132461,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6756
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6157
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5967
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5967
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-male",
+   "tee_name": "Copper",
+   "yardage": 5295
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-female",
+   "tee_name": "Copper",
+   "yardage": 5295
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-male",
+   "tee_name": "Jade",
+   "yardage": 4597
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-female",
+   "tee_name": "Jade",
+   "yardage": 4597
+  }
+ ]
+}

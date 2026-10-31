@@ -1,0 +1,187 @@
+{
+ "city": "Punta Gorda",
+ "club_name": "Deep Creek Golf Club",
+ "course_name": "Deep Creek Golf Club",
+ "dataset_name": "Deep Creek Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 515,
+    "gold": 439,
+    "red": 439,
+    "web": 515,
+    "white": 503
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 363,
+    "gold": 308,
+    "red": 299,
+    "web": 363,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 327,
+    "gold": 278,
+    "red": 272,
+    "web": 327,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 401,
+    "gold": 338,
+    "red": 326,
+    "web": 401,
+    "white": 374
+   }
+  }
+ ],
+ "id": "a295651c-b380-4b21-a15a-0d5b2c21e9c1",
+ "lat": 27.0104174,
+ "lng": -82.0137446,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5836
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5424
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4942
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4942
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4746
+  }
+ ]
+}

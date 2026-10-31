@@ -1,0 +1,391 @@
+{
+ "city": "Port St. Lucie",
+ "club_name": "Wanamaker Course At Pga Golf Club",
+ "course_name": "Wanamaker Course At Pga Golf Club",
+ "dataset_name": "Wanamaker Course At Pga Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Forward": 370,
+    "Medal": 548,
+    "Middle": 460,
+    "Standard": 483,
+    "Standard/Middle": 460,
+    "Tournament": 520
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Forward": 341,
+    "Medal": 463,
+    "Middle": 369,
+    "Standard": 401,
+    "Standard/Middle": 369,
+    "Tournament": 428
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Forward": 270,
+    "Medal": 417,
+    "Middle": 281,
+    "Standard": 353,
+    "Standard/Middle": 343,
+    "Tournament": 384
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Forward": 147,
+    "Medal": 222,
+    "Middle": 159,
+    "Standard": 174,
+    "Standard/Middle": 159,
+    "Tournament": 198
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Forward": 287,
+    "Medal": 403,
+    "Middle": 293,
+    "Standard": 311,
+    "Standard/Middle": 311,
+    "Tournament": 356
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Forward": 98,
+    "Medal": 180,
+    "Middle": 109,
+    "Standard": 143,
+    "Standard/Middle": 143,
+    "Tournament": 165
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Forward": 424,
+    "Medal": 535,
+    "Middle": 483,
+    "Standard": 505,
+    "Standard/Middle": 505,
+    "Tournament": 507
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Forward": 263,
+    "Medal": 365,
+    "Middle": 308,
+    "Standard": 326,
+    "Standard/Middle": 326,
+    "Tournament": 340
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Forward": 320,
+    "Medal": 449,
+    "Middle": 365,
+    "Standard": 390,
+    "Standard/Middle": 365,
+    "Tournament": 404
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Forward": 266,
+    "Medal": 365,
+    "Middle": 319,
+    "Standard": 347,
+    "Standard/Middle": 319,
+    "Tournament": 362
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Forward": 89,
+    "Medal": 199,
+    "Middle": 123,
+    "Standard": 145,
+    "Standard/Middle": 145,
+    "Tournament": 166
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Forward": 270,
+    "Medal": 400,
+    "Middle": 292,
+    "Standard": 338,
+    "Standard/Middle": 338,
+    "Tournament": 375
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Forward": 416,
+    "Medal": 551,
+    "Middle": 430,
+    "Standard": 461,
+    "Standard/Middle": 461,
+    "Tournament": 492
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Forward": 309,
+    "Medal": 460,
+    "Middle": 359,
+    "Standard": 396,
+    "Standard/Middle": 359,
+    "Tournament": 436
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Forward": 234,
+    "Medal": 356,
+    "Middle": 287,
+    "Standard": 320,
+    "Standard/Middle": 320,
+    "Tournament": 337
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Forward": 416,
+    "Medal": 507,
+    "Middle": 438,
+    "Standard": 455,
+    "Standard/Middle": 455,
+    "Tournament": 475
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Forward": 92,
+    "Medal": 217,
+    "Middle": 158,
+    "Standard": 191,
+    "Standard/Middle": 158,
+    "Tournament": 207
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Forward": 290,
+    "Medal": 442,
+    "Middle": 340,
+    "Standard": 356,
+    "Standard/Middle": 340,
+    "Tournament": 401
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 24,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 25,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 26,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 27,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 28,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 29,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 30,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 31,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "ed212a93-3a96-4300-8b51-2662cb7c8007",
+ "lat": 27.3097433,
+ "lng": -80.4295688,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-male",
+   "tee_name": "Medal",
+   "yardage": 7079
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6553
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-male",
+   "tee_name": "Standard",
+   "yardage": 6095
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-middle-male",
+   "tee_name": "Standard/Middle",
+   "yardage": 5814
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-w-female",
+   "tee_name": "Middle (W)",
+   "yardage": 5573
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5573
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 4902
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-w-female",
+   "tee_name": "Forward (W)",
+   "yardage": 4902
+  }
+ ]
+}

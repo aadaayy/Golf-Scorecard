@@ -1,0 +1,305 @@
+{
+ "city": "Palm Beach Gardens",
+ "club_name": "Frenchmans Reserve Golf Course",
+ "course_name": "Frenchmans Reserve Golf Course",
+ "dataset_name": "Frenchmans Reserve Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 511,
+    "green": 442,
+    "orange": 389,
+    "red": 389,
+    "silver": 511,
+    "white": 497
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 150,
+    "green": 101,
+    "orange": 101,
+    "red": 68,
+    "silver": 150,
+    "white": 124
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 401,
+    "green": 350,
+    "orange": 302,
+    "red": 302,
+    "silver": 379,
+    "white": 379
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 179,
+    "green": 126,
+    "orange": 126,
+    "red": 111,
+    "silver": 153,
+    "white": 153
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 347,
+    "green": 297,
+    "orange": 256,
+    "red": 256,
+    "silver": 324,
+    "white": 324
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 407,
+    "green": 375,
+    "orange": 308,
+    "red": 308,
+    "silver": 394,
+    "white": 394
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 389,
+    "green": 348,
+    "orange": 322,
+    "red": 322,
+    "silver": 389,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 509,
+    "green": 458,
+    "orange": 406,
+    "red": 406,
+    "silver": 486,
+    "white": 486
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 377,
+    "green": 262,
+    "orange": 262,
+    "red": 212,
+    "silver": 350,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 499,
+    "green": 447,
+    "orange": 378,
+    "red": 378,
+    "silver": 499,
+    "white": 459
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 148,
+    "green": 118,
+    "orange": 118,
+    "red": 106,
+    "silver": 148,
+    "white": 141
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 344,
+    "green": 302,
+    "orange": 302,
+    "red": 277,
+    "silver": 344,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "blue": 497,
+    "green": 446,
+    "orange": 385,
+    "red": 385,
+    "silver": 484,
+    "white": 484
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 192,
+    "green": 149,
+    "orange": 149,
+    "red": 109,
+    "silver": 192,
+    "white": 173
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 294,
+    "green": 236,
+    "orange": 236,
+    "red": 210,
+    "silver": 294,
+    "white": 263
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 374,
+    "green": 322,
+    "orange": 272,
+    "red": 272,
+    "silver": 337,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 356,
+    "green": 305,
+    "orange": 305,
+    "red": 259,
+    "silver": 356,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 418,
+    "green": 373,
+    "orange": 332,
+    "red": 332,
+    "silver": 395,
+    "white": 395
+   }
+  }
+ ],
+ "id": "fcd936d6-bee3-48c6-9961-a9f7a05aed57",
+ "lat": 26.8613156,
+ "lng": -80.0858772,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6855
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6509
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6293
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6068
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5415
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 5168
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4918
+  }
+ ]
+}

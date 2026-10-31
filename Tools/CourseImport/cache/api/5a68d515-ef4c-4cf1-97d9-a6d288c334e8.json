@@ -1,0 +1,181 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Boca Lago Country Club West Course",
+ "course_name": "Boca Lago Country Club West Course",
+ "dataset_name": "Boca Lago Country Club West Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 513,
+    "blue": 491,
+    "green": 318,
+    "white": 398,
+    "yellow": 422
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 196,
+    "blue": 175,
+    "green": 116,
+    "white": 144,
+    "yellow": 156
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 551,
+    "blue": 512,
+    "green": 388,
+    "white": 426,
+    "yellow": 447
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "blue": 351,
+    "green": 237,
+    "white": 290,
+    "yellow": 311
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 367,
+    "blue": 353,
+    "green": 206,
+    "white": 254,
+    "yellow": 312
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 192,
+    "blue": 173,
+    "green": 120,
+    "white": 137,
+    "yellow": 156
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 353,
+    "blue": 317,
+    "green": 233,
+    "white": 270,
+    "yellow": 287
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 146,
+    "blue": 133,
+    "green": 95,
+    "white": 104,
+    "yellow": 119
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 541,
+    "blue": 495,
+    "green": 347,
+    "white": 385,
+    "yellow": 436
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "5a68d515-ef4c-4cf1-97d9-a6d288c334e8",
+ "lat": 26.3557203,
+ "lng": -80.1817917,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 2965
+  },
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 2703
+  },
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 2404
+  },
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2117
+  },
+  {
+   "gender": "Male",
+   "par": 34,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 1724
+  }
+ ]
+}

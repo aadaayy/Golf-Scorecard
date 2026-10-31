@@ -1,0 +1,295 @@
+{
+ "city": "Naples",
+ "club_name": "Wilderness Country Club",
+ "course_name": "Wilderness Country Club",
+ "dataset_name": "Wilderness Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 363,
+    "Blue": 344,
+    "Green": 285,
+    "Orange": 326,
+    "White": 335
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Black": 513,
+    "Blue": 493,
+    "Green": 409,
+    "Orange": 448,
+    "White": 470
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 151,
+    "Blue": 137,
+    "Green": 98,
+    "Orange": 107,
+    "White": 124
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 380,
+    "Blue": 359,
+    "Green": 313,
+    "Orange": 328,
+    "White": 341
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 539,
+    "Blue": 517,
+    "Green": 422,
+    "Orange": 479,
+    "White": 491
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 165,
+    "Blue": 146,
+    "Green": 107,
+    "Orange": 114,
+    "White": 130
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 401,
+    "Blue": 378,
+    "Green": 307,
+    "Orange": 323,
+    "White": 349
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 246,
+    "Blue": 201,
+    "Green": 135,
+    "Orange": 155,
+    "White": 175
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 350,
+    "Blue": 331,
+    "Green": 243,
+    "Orange": 285,
+    "White": 315
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 451,
+    "Blue": 426,
+    "Green": 370,
+    "Orange": 376,
+    "White": 399
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 171,
+    "Blue": 159,
+    "Green": 123,
+    "Orange": 131,
+    "White": 139
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 369,
+    "Blue": 358,
+    "Green": 293,
+    "Orange": 336,
+    "White": 342
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 430,
+    "Blue": 410,
+    "Green": 348,
+    "Orange": 361,
+    "White": 374
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 180,
+    "Blue": 164,
+    "Green": 127,
+    "Orange": 137,
+    "White": 157
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 361,
+    "Blue": 339,
+    "Green": 304,
+    "Orange": 310,
+    "White": 331
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 506,
+    "Blue": 489,
+    "Green": 424,
+    "Orange": 448,
+    "White": 462
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 411,
+    "Blue": 396,
+    "Green": 301,
+    "Orange": 336,
+    "White": 366
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 519,
+    "Blue": 490,
+    "Green": 393,
+    "Orange": 440,
+    "White": 463
+   }
+  }
+ ],
+ "id": "ffffaa22-1236-4bc5-bf28-95511bb98191",
+ "lat": 26.179899,
+ "lng": -81.787913,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6506
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6137
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5763
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5763
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 5440
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 5440
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5002
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5002
+  }
+ ]
+}

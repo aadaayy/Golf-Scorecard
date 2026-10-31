@@ -1,0 +1,245 @@
+{
+ "city": "Juno Beach",
+ "club_name": "Seminole Golf Club",
+ "course_name": "Seminole Golf Club",
+ "dataset_name": "Seminole Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 370,
+    "Gold": 405,
+    "Red": 345,
+    "White": 355
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 380,
+    "Gold": 450,
+    "Red": 310,
+    "White": 350
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Blue": 500,
+    "Gold": 555,
+    "Red": 395,
+    "White": 430
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 440,
+    "Gold": 495,
+    "Red": 320,
+    "White": 420
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 190,
+    "Gold": 205,
+    "Red": 140,
+    "White": 155
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 375,
+    "Gold": 390,
+    "Red": 345,
+    "White": 360
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 410,
+    "Gold": 430,
+    "Red": 270,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 225,
+    "Gold": 265,
+    "Red": 170,
+    "White": 205
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Blue": 485,
+    "Gold": 545,
+    "Red": 430,
+    "White": 455
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 380,
+    "Gold": 425,
+    "Red": 345,
+    "White": 360
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 390,
+    "Gold": 465,
+    "Red": 330,
+    "White": 340
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 360,
+    "Gold": 365,
+    "Red": 270,
+    "White": 335
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 165,
+    "Gold": 170,
+    "Red": 130,
+    "White": 140
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Blue": 500,
+    "Gold": 510,
+    "Red": 435,
+    "White": 440
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 475,
+    "Gold": 535,
+    "Red": 395,
+    "White": 425
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 395,
+    "Gold": 410,
+    "Red": 350,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 160,
+    "Gold": 185,
+    "Red": 125,
+    "White": 140
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 400,
+    "Gold": 445,
+    "Red": 340,
+    "White": 370
+   }
+  }
+ ],
+ "id": "800da22d-defb-43b9-81da-704693ecc4a5",
+ "lat": 26.8628065,
+ "lng": -80.0513119,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7250
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6600
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6010
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5445
+  }
+ ]
+}

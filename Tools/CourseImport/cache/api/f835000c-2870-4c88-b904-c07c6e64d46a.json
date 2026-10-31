@@ -1,0 +1,297 @@
+{
+ "city": "Tamarac",
+ "club_name": "Cypress At Woodmont Country Club",
+ "course_name": "Cypress At Woodmont Country Club",
+ "dataset_name": "Cypress At Woodmont Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 460,
+    "gold": 475,
+    "green": 400,
+    "red": 360,
+    "web": 508,
+    "white": 430
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 393,
+    "gold": 416,
+    "green": 316,
+    "red": 300,
+    "web": 416,
+    "white": 373
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 166,
+    "gold": 191,
+    "green": 123,
+    "red": 105,
+    "web": 191,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 382,
+    "gold": 410,
+    "green": 303,
+    "red": 279,
+    "web": 410,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "blue": 578,
+    "gold": 602,
+    "green": 498,
+    "red": 437,
+    "web": 602,
+    "white": 556
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 397,
+    "gold": 418,
+    "green": 312,
+    "red": 247,
+    "web": 418,
+    "white": 382
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 170,
+    "gold": 219,
+    "green": 146,
+    "red": 134,
+    "web": 219,
+    "white": 157
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 540,
+    "gold": 570,
+    "green": 447,
+    "red": 410,
+    "web": 576,
+    "white": 518
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "blue": 188,
+    "gold": 205,
+    "green": 160,
+    "red": 154,
+    "web": 205,
+    "white": 171
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 551,
+    "gold": 570,
+    "green": 427,
+    "red": 413,
+    "web": 570,
+    "white": 527
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 382,
+    "gold": 400,
+    "green": 297,
+    "red": 248,
+    "web": 400,
+    "white": 368
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 365,
+    "gold": 387,
+    "green": 296,
+    "red": 263,
+    "web": 387,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 200,
+    "gold": 227,
+    "green": 166,
+    "red": 148,
+    "web": 222,
+    "white": 186
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 376,
+    "gold": 404,
+    "green": 269,
+    "red": 257,
+    "web": 404,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 386,
+    "gold": 406,
+    "green": 312,
+    "red": 304,
+    "web": 405,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 203,
+    "gold": 223,
+    "green": 159,
+    "red": 135,
+    "web": 223,
+    "white": 188
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blue": 516,
+    "gold": 553,
+    "green": 441,
+    "red": 371,
+    "web": 533,
+    "white": 497
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 343,
+    "gold": 354,
+    "green": 311,
+    "red": 252,
+    "web": 354,
+    "white": 326
+   }
+  }
+ ],
+ "id": "f835000c-2870-4c88-b904-c07c6e64d46a",
+ "lat": 26.2216061,
+ "lng": -80.2633194,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6968
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6529
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6205
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5316
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5316
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4770
+  }
+ ]
+}

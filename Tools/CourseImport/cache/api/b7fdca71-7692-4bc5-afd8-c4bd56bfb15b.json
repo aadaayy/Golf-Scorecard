@@ -1,0 +1,487 @@
+{
+ "city": "Wellington",
+ "club_name": "West At Wycliffe Country Club",
+ "course_name": "West At Wycliffe Country Club",
+ "dataset_name": "West At Wycliffe Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 323,
+    "Blue": 300,
+    "Bronze": 284,
+    "Gold": 265,
+    "Green": 221,
+    "Orange": 221,
+    "Platinum": 221,
+    "Red": 221,
+    "Silver": 300,
+    "White": 284
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 344,
+    "Blue": 301,
+    "Bronze": 276,
+    "Gold": 243,
+    "Green": 206,
+    "Orange": 243,
+    "Platinum": 206,
+    "Red": 206,
+    "Silver": 301,
+    "White": 276
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 144,
+    "Blue": 132,
+    "Bronze": 120,
+    "Gold": 111,
+    "Green": 99,
+    "Orange": 99,
+    "Platinum": 69,
+    "Red": 99,
+    "Silver": 132,
+    "White": 120
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 553,
+    "Blue": 528,
+    "Bronze": 448,
+    "Gold": 448,
+    "Green": 410,
+    "Orange": 410,
+    "Platinum": 300,
+    "Red": 300,
+    "Silver": 483,
+    "White": 483
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 388,
+    "Blue": 361,
+    "Bronze": 298,
+    "Gold": 280,
+    "Green": 266,
+    "Orange": 280,
+    "Platinum": 204,
+    "Red": 266,
+    "Silver": 298,
+    "White": 298
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 456,
+    "Blue": 437,
+    "Bronze": 377,
+    "Gold": 377,
+    "Green": 354,
+    "Orange": 354,
+    "Platinum": 188,
+    "Red": 188,
+    "Silver": 392,
+    "White": 392
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 384,
+    "Blue": 372,
+    "Bronze": 284,
+    "Gold": 284,
+    "Green": 245,
+    "Orange": 284,
+    "Platinum": 177,
+    "Red": 245,
+    "Silver": 346,
+    "White": 346
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 372,
+    "Blue": 343,
+    "Bronze": 283,
+    "Gold": 283,
+    "Green": 247,
+    "Orange": 247,
+    "Platinum": 200,
+    "Red": 247,
+    "Silver": 343,
+    "White": 306
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Black": 187,
+    "Blue": 160,
+    "Bronze": 121,
+    "Gold": 104,
+    "Green": 92,
+    "Orange": 104,
+    "Platinum": 92,
+    "Red": 92,
+    "Silver": 160,
+    "White": 121
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 408,
+    "Blue": 377,
+    "Bronze": 326,
+    "Gold": 326,
+    "Green": 305,
+    "Orange": 326,
+    "Platinum": 213,
+    "Red": 213,
+    "Silver": 349,
+    "White": 349
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 376,
+    "Blue": 376,
+    "Bronze": 329,
+    "Gold": 292,
+    "Green": 227,
+    "Orange": 227,
+    "Platinum": 180,
+    "Red": 227,
+    "Silver": 329,
+    "White": 329
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 411,
+    "Blue": 363,
+    "Bronze": 328,
+    "Gold": 293,
+    "Green": 269,
+    "Orange": 293,
+    "Platinum": 205,
+    "Red": 269,
+    "Silver": 363,
+    "White": 328
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 356,
+    "Blue": 356,
+    "Bronze": 297,
+    "Gold": 297,
+    "Green": 273,
+    "Orange": 297,
+    "Platinum": 195,
+    "Red": 273,
+    "Silver": 325,
+    "White": 325
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 346,
+    "Blue": 325,
+    "Bronze": 296,
+    "Gold": 248,
+    "Green": 224,
+    "Orange": 248,
+    "Platinum": 190,
+    "Red": 224,
+    "Silver": 325,
+    "White": 296
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 475,
+    "Blue": 461,
+    "Bronze": 392,
+    "Gold": 392,
+    "Green": 366,
+    "Orange": 392,
+    "Platinum": 310,
+    "Red": 310,
+    "Silver": 461,
+    "White": 426
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 147,
+    "Blue": 129,
+    "Bronze": 114,
+    "Gold": 98,
+    "Green": 86,
+    "Orange": 98,
+    "Platinum": 86,
+    "Red": 86,
+    "Silver": 129,
+    "White": 114
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 270,
+    "Blue": 257,
+    "Bronze": 242,
+    "Gold": 242,
+    "Green": 195,
+    "Orange": 242,
+    "Platinum": 195,
+    "Red": 195,
+    "Silver": 257,
+    "White": 242
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 426,
+    "Blue": 393,
+    "Bronze": 310,
+    "Gold": 310,
+    "Green": 283,
+    "Orange": 310,
+    "Platinum": 210,
+    "Red": 210,
+    "Silver": 310,
+    "White": 310
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "b7fdca71-7692-4bc5-afd8-c4bd56bfb15b",
+ "lat": 26.6114871,
+ "lng": -80.2118254,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 6366
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6366
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5971
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5971
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5603
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5603
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5345
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5345
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "bronze-female",
+   "tee_name": "Bronze",
+   "yardage": 5125
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "bronze-male",
+   "tee_name": "Bronze",
+   "yardage": 5125
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4893
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4893
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 4675
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 4675
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4368
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4368
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 3871
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 3871
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "platinum-male",
+   "tee_name": "Platinum",
+   "yardage": 3441
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "platinum-female",
+   "tee_name": "Platinum",
+   "yardage": 3441
+  }
+ ]
+}

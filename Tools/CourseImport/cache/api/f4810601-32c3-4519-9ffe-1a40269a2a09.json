@@ -1,0 +1,235 @@
+{
+ "city": "Bradenton",
+ "club_name": "The Links At Greenfield Plantation",
+ "course_name": "The Links At Greenfield Plantation",
+ "dataset_name": "The Links At Greenfield Plantation",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 411,
+    "Blue": 367,
+    "Orange": 177,
+    "Red": 221,
+    "Silver": 225,
+    "White": 329
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 176,
+    "Blue": 163,
+    "Orange": 64,
+    "Red": 129,
+    "Silver": 135,
+    "White": 149
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 399,
+    "Blue": 391,
+    "Orange": 219,
+    "Red": 255,
+    "Silver": 260,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 360,
+    "Blue": 351,
+    "Orange": 227,
+    "Red": 298,
+    "Silver": 307,
+    "White": 338
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 223,
+    "Blue": 194,
+    "Orange": 102,
+    "Red": 135,
+    "Silver": 151,
+    "White": 159
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 536,
+    "Blue": 505,
+    "Orange": 327,
+    "Red": 427,
+    "Silver": 435,
+    "White": 466
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 393,
+    "Blue": 360,
+    "Orange": 211,
+    "Red": 304,
+    "Silver": 310,
+    "White": 335
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 428,
+    "Blue": 395,
+    "Orange": 234,
+    "Red": 306,
+    "Silver": 346,
+    "White": 373
+   }
+  }
+ ],
+ "id": "f4810601-32c3-4519-9ffe-1a40269a2a09",
+ "lat": 27.4906203,
+ "lng": -82.4376776,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6756
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6269
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5766
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-w-female",
+   "tee_name": "White (W)",
+   "yardage": 5712
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5035
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-w-female",
+   "tee_name": "Red (W)",
+   "yardage": 4944
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 3752
+  }
+ ]
+}

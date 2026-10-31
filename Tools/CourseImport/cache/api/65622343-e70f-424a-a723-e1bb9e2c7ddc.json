@@ -1,0 +1,225 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Landings Yacht Golf Tennis Club",
+ "course_name": "Landings Yacht Golf Tennis Club",
+ "dataset_name": "Landings Yacht Golf Tennis Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "ii": 82,
+    "iii": 93
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "ii": 147,
+    "iii": 156
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "ii": 92,
+    "iii": 100
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "ii": 207,
+    "iii": 220
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "ii": 161,
+    "iii": 182
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "ii": 281,
+    "iii": 344
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "ii": 122,
+    "iii": 132
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "ii": 143,
+    "iii": 158
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "ii": 144,
+    "iii": 160
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "ii": 160,
+    "iii": 181
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "ii": 83,
+    "iii": 93
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "ii": 198,
+    "iii": 206
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "ii": 135,
+    "iii": 151
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "ii": 100,
+    "iii": 110
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "ii": 160,
+    "iii": 175
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "ii": 93,
+    "iii": 105
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "ii": 131,
+    "iii": 153
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "ii": 324,
+    "iii": 344
+   }
+  }
+ ],
+ "id": "65622343-e70f-424a-a723-e1bb9e2c7ddc",
+ "lat": 26.5532449,
+ "lng": -81.9150832,
+ "par": 58,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 3078
+  },
+  {
+   "gender": "Female",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 3078
+  },
+  {
+   "gender": "Female",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 2781
+  },
+  {
+   "gender": "Male",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 2781
+  },
+  {
+   "gender": "Female",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "i-female",
+   "tee_name": "I",
+   "yardage": 2522
+  },
+  {
+   "gender": "Male",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 2522
+  }
+ ]
+}

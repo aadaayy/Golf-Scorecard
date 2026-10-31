@@ -1,0 +1,349 @@
+{
+ "city": "Naples",
+ "club_name": "Tiburon Golf Club The Gold Course",
+ "course_name": "Tiburon Golf Club The Gold Course",
+ "dataset_name": "Tiburon Golf Club The Gold Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 533,
+    "Black/White": 455,
+    "Blue": 435,
+    "Blue/Lavender": 401,
+    "Gold": 573,
+    "Lavender": 401,
+    "White": 455,
+    "White/Blue": 435
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 380,
+    "Black/White": 335,
+    "Blue": 315,
+    "Blue/Lavender": 270,
+    "Gold": 440,
+    "Lavender": 270,
+    "White": 335,
+    "White/Blue": 315
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 426,
+    "Black/White": 426,
+    "Blue": 388,
+    "Blue/Lavender": 388,
+    "Gold": 458,
+    "Lavender": 347,
+    "White": 398,
+    "White/Blue": 398
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 393,
+    "Black/White": 393,
+    "Blue": 337,
+    "Blue/Lavender": 337,
+    "Gold": 428,
+    "Lavender": 284,
+    "White": 375,
+    "White/Blue": 375
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 210,
+    "Black/White": 185,
+    "Blue": 145,
+    "Blue/Lavender": 113,
+    "Gold": 225,
+    "Lavender": 113,
+    "White": 185,
+    "White/Blue": 145
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Black": 565,
+    "Black/White": 545,
+    "Blue": 519,
+    "Blue/Lavender": 492,
+    "Gold": 600,
+    "Lavender": 492,
+    "White": 545,
+    "White/Blue": 519
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 360,
+    "Black/White": 360,
+    "Blue": 310,
+    "Blue/Lavender": 310,
+    "Gold": 396,
+    "Lavender": 279,
+    "White": 340,
+    "White/Blue": 340
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 150,
+    "Black/White": 150,
+    "Blue": 106,
+    "Blue/Lavender": 106,
+    "Gold": 175,
+    "Lavender": 82,
+    "White": 128,
+    "White/Blue": 128
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 446,
+    "Black/White": 395,
+    "Blue": 385,
+    "Blue/Lavender": 333,
+    "Gold": 480,
+    "Lavender": 333,
+    "White": 395,
+    "White/Blue": 385
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 340,
+    "Black/White": 340,
+    "Blue": 263,
+    "Blue/Lavender": 263,
+    "Gold": 365,
+    "Lavender": 241,
+    "White": 302,
+    "White/Blue": 302
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 406,
+    "Black/White": 350,
+    "Blue": 315,
+    "Blue/Lavender": 265,
+    "Gold": 430,
+    "Lavender": 265,
+    "White": 350,
+    "White/Blue": 315
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 185,
+    "Black/White": 156,
+    "Blue": 143,
+    "Blue/Lavender": 130,
+    "Gold": 215,
+    "Lavender": 130,
+    "White": 156,
+    "White/Blue": 143
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 325,
+    "Black/White": 325,
+    "Blue": 296,
+    "Blue/Lavender": 296,
+    "Gold": 350,
+    "Lavender": 237,
+    "White": 312,
+    "White/Blue": 312
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 545,
+    "Black/White": 495,
+    "Blue": 485,
+    "Blue/Lavender": 453,
+    "Gold": 578,
+    "Lavender": 453,
+    "White": 495,
+    "White/Blue": 485
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 390,
+    "Black/White": 390,
+    "Blue": 345,
+    "Blue/Lavender": 345,
+    "Gold": 420,
+    "Lavender": 330,
+    "White": 360,
+    "White/Blue": 360
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 170,
+    "Black/White": 170,
+    "Blue": 132,
+    "Blue/Lavender": 132,
+    "Gold": 205,
+    "Lavender": 120,
+    "White": 156,
+    "White/Blue": 156
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Black": 515,
+    "Black/White": 515,
+    "Blue": 464,
+    "Blue/Lavender": 464,
+    "Gold": 559,
+    "Lavender": 442,
+    "White": 480,
+    "White/Blue": 480
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 451,
+    "Black/White": 354,
+    "Blue": 328,
+    "Blue/Lavender": 293,
+    "Gold": 485,
+    "Lavender": 293,
+    "White": 354,
+    "White/Blue": 328
+   }
+  }
+ ],
+ "id": "f27ba3be-be26-48c0-8670-226aa2512c93",
+ "lat": 26.247831,
+ "lng": -81.764888,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7382
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6790
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-white-male",
+   "tee_name": "Black/White",
+   "yardage": 6339
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6121
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-blue-male",
+   "tee_name": "White/Blue",
+   "yardage": 5921
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5711
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-lavender-male",
+   "tee_name": "Blue/Lavender",
+   "yardage": 5391
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "lavender-male",
+   "tee_name": "Lavender",
+   "yardage": 5112
+  }
+ ]
+}

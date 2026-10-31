@@ -1,0 +1,245 @@
+{
+ "city": "Naples",
+ "club_name": "Quality Inn Suites Golf Resort",
+ "course_name": "Quality Inn Suites Golf Resort",
+ "dataset_name": "Quality Inn Suites Golf Resort",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 420,
+    "gold": 370,
+    "red": 320,
+    "white": 406
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 408,
+    "gold": 363,
+    "red": 330,
+    "white": 389
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 149,
+    "gold": 125,
+    "red": 117,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 535,
+    "gold": 500,
+    "red": 420,
+    "white": 520
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 372,
+    "gold": 340,
+    "red": 335,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 366,
+    "gold": 335,
+    "red": 328,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 170,
+    "gold": 136,
+    "red": 130,
+    "white": 156
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 393,
+    "gold": 361,
+    "red": 354,
+    "white": 376
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 510,
+    "gold": 445,
+    "red": 410,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 501,
+    "gold": 450,
+    "red": 406,
+    "white": 473
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 175,
+    "gold": 130,
+    "red": 124,
+    "white": 154
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "blue": 500,
+    "gold": 462,
+    "red": 421,
+    "white": 482
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 311,
+    "gold": 279,
+    "red": 269,
+    "white": 294
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 365,
+    "gold": 318,
+    "red": 264,
+    "white": 340
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 411,
+    "gold": 323,
+    "red": 317,
+    "white": 388
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 195,
+    "gold": 172,
+    "red": 168,
+    "white": 182
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 350,
+    "gold": 312,
+    "red": 293,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 425,
+    "gold": 315,
+    "red": 306,
+    "white": 390
+   }
+  }
+ ],
+ "id": "dcf18e2b-65bb-40b9-8f68-c6535b165b1d",
+ "lat": 26.183014,
+ "lng": -81.6887,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6556
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6200
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5736
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5312
+  }
+ ]
+}

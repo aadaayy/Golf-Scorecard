@@ -1,0 +1,201 @@
+{
+ "city": "Naples",
+ "club_name": "Audubon Country Club",
+ "course_name": "Audubon Country Club",
+ "dataset_name": "Audubon Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "i": 91,
+    "iv": 151,
+    "v": 164,
+    "web": 172
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "i": 298,
+    "iv": 380,
+    "v": 393,
+    "web": 406
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "i": 422,
+    "iv": 493,
+    "v": 528,
+    "web": 535
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "i": 315,
+    "iv": 344,
+    "v": 353,
+    "web": 354
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "i": 118,
+    "iv": 155,
+    "v": 162,
+    "web": 157
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "i": 281,
+    "iv": 403,
+    "v": 437,
+    "web": 442
+   }
+  }
+ ],
+ "id": "732d6245-4335-4ffd-9df1-be922c74e073",
+ "lat": 26.3143582,
+ "lng": -81.8131611,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 6755
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 6360
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5979
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-ii-male",
+   "tee_name": "III/II",
+   "yardage": 5786
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 5292
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 4930
+  }
+ ]
+}

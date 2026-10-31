@@ -1,0 +1,219 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Southwinds Golf Course",
+ "course_name": "Southwinds Golf Course",
+ "dataset_name": "Southwinds Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Gold": 426,
+    "Green": 400,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Gold": 320,
+    "Green": 291,
+    "White": 230
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Gold": 342,
+    "Green": 303,
+    "White": 199
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Gold": 335,
+    "Green": 320,
+    "White": 280
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Gold": 539,
+    "Green": 490,
+    "White": 389
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Gold": 342,
+    "Green": 325,
+    "White": 289
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Gold": 189,
+    "Green": 174,
+    "White": 120
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Gold": 367,
+    "Green": 285,
+    "White": 256
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Gold": 175,
+    "Green": 146,
+    "White": 126
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Gold": 509,
+    "Green": 453,
+    "White": 364
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Gold": 378,
+    "Green": 342,
+    "White": 315
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Gold": 209,
+    "Green": 172,
+    "White": 131
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Gold": 393,
+    "Green": 269,
+    "White": 232
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Gold": 290,
+    "Green": 271,
+    "White": 232
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Gold": 377,
+    "Green": 336,
+    "White": 240
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Gold": 329,
+    "Green": 313,
+    "White": 264
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Gold": 172,
+    "Green": 151,
+    "White": 117
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Gold": 326,
+    "Green": 302,
+    "White": 271
+   }
+  }
+ ],
+ "id": "fce2220a-2afc-4b29-9e31-92ad7223f1d7",
+ "lat": 26.3872171,
+ "lng": -80.1883035,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6018
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5343
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 4420
+  }
+ ]
+}

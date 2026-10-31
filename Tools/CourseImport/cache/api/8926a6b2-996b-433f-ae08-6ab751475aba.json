@@ -1,0 +1,155 @@
+{
+ "city": "Coconut Creek",
+ "club_name": "Wynmoor Golf Course",
+ "course_name": "Wynmoor Golf Course",
+ "dataset_name": "Wynmoor Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 173,
+    "Red": 124,
+    "White": 155
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 247,
+    "Red": 199,
+    "White": 229
+   }
+  }
+ ],
+ "id": "8926a6b2-996b-433f-ae08-6ab751475aba",
+ "lat": 26.2482107,
+ "lng": -80.1766618,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3483
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3202
+  },
+  {
+   "gender": "Female",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2851
+  }
+ ]
+}

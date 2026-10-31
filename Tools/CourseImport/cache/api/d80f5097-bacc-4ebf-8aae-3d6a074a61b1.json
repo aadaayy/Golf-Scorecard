@@ -1,0 +1,451 @@
+{
+ "city": "Naples",
+ "club_name": "Twineagles Golf Country Club Eagle Course",
+ "course_name": "Twineagles Golf Country Club Eagle Course",
+ "dataset_name": "Twineagles Golf Country Club Eagle Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 334,
+    "Championship": 416,
+    "I": 400,
+    "II": 380,
+    "III": 334,
+    "IV": 281,
+    "Red Ball": 281,
+    "V": 250,
+    "VI": 243,
+    "White Ball": 281,
+    "web": 416
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Black Ball": 501,
+    "Championship": 587,
+    "I": 554,
+    "II": 501,
+    "III": 465,
+    "IV": 413,
+    "Red Ball": 372,
+    "V": 372,
+    "VI": 357,
+    "White Ball": 413,
+    "web": 587
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 321,
+    "Championship": 458,
+    "I": 411,
+    "II": 366,
+    "III": 321,
+    "IV": 266,
+    "Red Ball": 266,
+    "V": 239,
+    "VI": 224,
+    "White Ball": 321,
+    "web": 458
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black Ball": 168,
+    "Championship": 202,
+    "I": 189,
+    "II": 168,
+    "III": 135,
+    "IV": 122,
+    "Red Ball": 122,
+    "V": 122,
+    "VI": 122,
+    "White Ball": 135,
+    "web": 202
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black Ball": 503,
+    "Championship": 557,
+    "I": 525,
+    "II": 503,
+    "III": 473,
+    "IV": 410,
+    "Red Ball": 376,
+    "V": 376,
+    "VI": 354,
+    "White Ball": 473,
+    "web": 557
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 371,
+    "Championship": 483,
+    "I": 425,
+    "II": 390,
+    "III": 371,
+    "IV": 318,
+    "Red Ball": 318,
+    "V": 281,
+    "VI": 212,
+    "White Ball": 327,
+    "web": 483
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 371,
+    "Championship": 475,
+    "I": 413,
+    "II": 392,
+    "III": 371,
+    "IV": 327,
+    "Red Ball": 291,
+    "V": 291,
+    "VI": 246,
+    "White Ball": 327,
+    "web": 475
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black Ball": 149,
+    "Championship": 224,
+    "I": 195,
+    "II": 185,
+    "III": 149,
+    "IV": 129,
+    "Red Ball": 105,
+    "V": 105,
+    "VI": 103,
+    "White Ball": 129,
+    "web": 224
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 362,
+    "Championship": 441,
+    "I": 410,
+    "II": 395,
+    "III": 362,
+    "IV": 304,
+    "Red Ball": 258,
+    "V": 258,
+    "VI": 242,
+    "White Ball": 304,
+    "web": 441
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 414,
+    "Championship": 489,
+    "I": 453,
+    "II": 426,
+    "III": 414,
+    "IV": 340,
+    "Red Ball": 340,
+    "V": 291,
+    "VI": 280,
+    "White Ball": 340,
+    "web": 489
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 360,
+    "Championship": 478,
+    "I": 449,
+    "II": 405,
+    "III": 360,
+    "IV": 312,
+    "Red Ball": 312,
+    "V": 268,
+    "VI": 239,
+    "White Ball": 312,
+    "web": 478
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black Ball": 135,
+    "Championship": 233,
+    "I": 198,
+    "II": 171,
+    "III": 135,
+    "IV": 92,
+    "Red Ball": 92,
+    "V": 92,
+    "VI": 92,
+    "White Ball": 135,
+    "web": 233
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 391,
+    "Championship": 470,
+    "I": 432,
+    "II": 391,
+    "III": 360,
+    "IV": 332,
+    "Red Ball": 284,
+    "V": 284,
+    "VI": 255,
+    "White Ball": 332,
+    "web": 470
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black Ball": 486,
+    "Championship": 570,
+    "I": 539,
+    "II": 486,
+    "III": 448,
+    "IV": 416,
+    "Red Ball": 387,
+    "V": 387,
+    "VI": 322,
+    "White Ball": 448,
+    "web": 570
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 369,
+    "Championship": 498,
+    "I": 450,
+    "II": 409,
+    "III": 369,
+    "IV": 316,
+    "Red Ball": 320,
+    "V": 320,
+    "VI": 257,
+    "White Ball": 316,
+    "web": 498
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 252,
+    "Championship": 326,
+    "I": 288,
+    "II": 252,
+    "III": 219,
+    "IV": 167,
+    "Red Ball": 167,
+    "V": 167,
+    "VI": 167,
+    "White Ball": 219,
+    "web": 326
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black Ball": 165,
+    "Championship": 191,
+    "I": 168,
+    "II": 165,
+    "III": 136,
+    "IV": 118,
+    "Red Ball": 118,
+    "V": 118,
+    "VI": 109,
+    "White Ball": 136,
+    "web": 191
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black Ball": 388,
+    "Championship": 509,
+    "I": 472,
+    "II": 435,
+    "III": 388,
+    "IV": 334,
+    "Red Ball": 334,
+    "V": 303,
+    "VI": 243,
+    "White Ball": 334,
+    "web": 509
+   }
+  }
+ ],
+ "id": "d80f5097-bacc-4ebf-8aae-3d6a074a61b1",
+ "lat": 26.288307,
+ "lng": -81.631003,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7607
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6971
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6420
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-ball-male",
+   "tee_name": "Black Ball",
+   "yardage": 6040
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5810
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 5810
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-ball-female",
+   "tee_name": "White Ball",
+   "yardage": 5282
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-ball-male",
+   "tee_name": "White Ball",
+   "yardage": 5282
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 4997
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 4997
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-ball-female",
+   "tee_name": "Red Ball",
+   "yardage": 4743
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 4524
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 4524
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 4067
+  }
+ ]
+}

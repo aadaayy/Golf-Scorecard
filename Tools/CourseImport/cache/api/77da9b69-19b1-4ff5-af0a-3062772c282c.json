@@ -1,0 +1,181 @@
+{
+ "city": "Naples",
+ "club_name": "Naples Grande Golf Club",
+ "course_name": "Naples Grande Golf Club",
+ "dataset_name": "Naples Grande Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "back": 156,
+    "member": 133,
+    "senior": 118,
+    "tournament": 156
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back": 389,
+    "member": 367,
+    "senior": 328,
+    "tournament": 367
+   }
+  }
+ ],
+ "id": "77da9b69-19b1-4ff5-af0a-3062772c282c",
+ "lat": 26.1717608,
+ "lng": -81.7572354,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champion-male",
+   "tee_name": "Champion",
+   "yardage": 6955
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6504
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6324
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6084
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "senior-male",
+   "tee_name": "Senior",
+   "yardage": 5561
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 5050
+  }
+ ]
+}

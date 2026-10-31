@@ -1,0 +1,109 @@
+{
+ "city": "Stuart",
+ "club_name": "Sailfish Sands Golf Course Sands Reversible Black Course",
+ "course_name": "Sailfish Sands Golf Course Sands Reversible Black Course",
+ "dataset_name": "Sailfish Sands Golf Course Sands Reversible Black Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "dfdc906d-e7b8-4082-9c18-2abcb43cf8ee",
+ "lat": 27.1797591,
+ "lng": -80.204542,
+ "par": 35,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "1-male",
+   "tee_name": "#1",
+   "yardage": 3368
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "2-male",
+   "tee_name": "#2",
+   "yardage": 3015
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "3-male",
+   "tee_name": "#3",
+   "yardage": 2712
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "4-male",
+   "tee_name": "#4",
+   "yardage": 2402
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "5-male",
+   "tee_name": "#5",
+   "yardage": 2105
+  }
+ ]
+}

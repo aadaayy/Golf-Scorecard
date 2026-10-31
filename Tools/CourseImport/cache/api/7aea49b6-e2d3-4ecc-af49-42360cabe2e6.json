@@ -1,0 +1,303 @@
+{
+ "city": "Hobe Sound",
+ "club_name": "Mcarthur Golf Club Backyard Course",
+ "course_name": "Mcarthur Golf Club Backyard Course",
+ "dataset_name": "Mcarthur Golf Club Backyard Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 458,
+    "blue": 390,
+    "gold": 433,
+    "green": 320,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 393,
+    "blue": 366,
+    "gold": 383,
+    "green": 310,
+    "white": 345
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 455,
+    "blue": 418,
+    "gold": 431,
+    "green": 267,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 297,
+    "blue": 261,
+    "gold": 282,
+    "green": 199,
+    "white": 234
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 203,
+    "blue": 176,
+    "gold": 188,
+    "green": 139,
+    "white": 145
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "blue": 349,
+    "gold": 368,
+    "green": 293,
+    "white": 318
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 531,
+    "blue": 494,
+    "gold": 509,
+    "green": 421,
+    "white": 453
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 261,
+    "blue": 187,
+    "gold": 241,
+    "green": 157,
+    "white": 172
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 542,
+    "blue": 519,
+    "gold": 537,
+    "green": 432,
+    "white": 459
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "black": 164,
+    "blue": 135,
+    "gold": 155,
+    "green": 107,
+    "white": 119
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 430,
+    "blue": 382,
+    "gold": 397,
+    "green": 341,
+    "white": 351
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 392,
+    "blue": 363,
+    "gold": 382,
+    "green": 245,
+    "white": 313
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 487,
+    "blue": 432,
+    "gold": 459,
+    "green": 322,
+    "white": 404
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 138,
+    "blue": 125,
+    "gold": 138,
+    "green": 92,
+    "white": 125
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 521,
+    "blue": 458,
+    "gold": 501,
+    "green": 403,
+    "white": 438
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 196,
+    "blue": 174,
+    "gold": 187,
+    "green": 138,
+    "white": 153
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 579,
+    "blue": 506,
+    "gold": 551,
+    "green": 389,
+    "white": 469
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 473,
+    "blue": 407,
+    "gold": 450,
+    "green": 310,
+    "white": 398
+   }
+  }
+ ],
+ "id": "7aea49b6-e2d3-4ecc-af49-42360cabe2e6",
+ "lat": 27.0942523,
+ "lng": -80.1675279,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6902
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6592
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 6592
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6142
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6142
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5595
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5595
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4885
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4885
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "city": "Avon Park",
+ "club_name": "Pinecrest Golf Course",
+ "course_name": "Pinecrest Golf Course",
+ "dataset_name": "Pinecrest Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "back": 120,
+    "web": 386
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back": 120,
+    "web": 216
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "back": 124,
+    "web": 538
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "back": 93,
+    "web": 392
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "back": 111,
+    "web": 461
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "back": 125,
+    "web": 380
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "back": 98,
+    "web": 340
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "back": 128,
+    "web": 401
+   }
+  }
+ ],
+ "id": "f2c2c489-03f4-43b3-bfb1-e3168de6efc7",
+ "lat": 27.5660435,
+ "lng": -81.4732699,
+ "par": 55,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 55,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 2235
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "city": "Sarasota",
+ "club_name": "The Founders Golf Club",
+ "course_name": "The Founders Golf Club",
+ "dataset_name": "The Founders Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 229,
+    "Black/Pewter": 181,
+    "Copper": 152,
+    "Copper/Silver": 152,
+    "Gold": 118,
+    "Gold/White": 118,
+    "Pewter": 181,
+    "Pewter/Copper": 152,
+    "Silver": 136
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 415,
+    "Black/Pewter": 415,
+    "Copper": 360,
+    "Copper/Silver": 334,
+    "Gold": 298,
+    "Gold/White": 252,
+    "Pewter": 370,
+    "Pewter/Copper": 360,
+    "Silver": 334
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 136,
+    "Black/Pewter": 136,
+    "Copper": 115,
+    "Copper/Silver": 115,
+    "Gold": 91,
+    "Gold/White": 91,
+    "Pewter": 127,
+    "Pewter/Copper": 127,
+    "Silver": 103
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 554,
+    "Black/Pewter": 525,
+    "Copper": 475,
+    "Copper/Silver": 475,
+    "Gold": 390,
+    "Gold/White": 390,
+    "Pewter": 525,
+    "Pewter/Copper": 525,
+    "Silver": 459
+   }
+  }
+ ],
+ "id": "f6a46af9-b5b6-4901-96aa-7b70af30709d",
+ "lat": 27.3318285,
+ "lng": -82.3941387,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7094
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-pewter-male",
+   "tee_name": "Black/Pewter",
+   "yardage": 6796
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pewter-male",
+   "tee_name": "Pewter",
+   "yardage": 6450
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pewter-copper-male",
+   "tee_name": "Pewter/Copper",
+   "yardage": 6308
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-male",
+   "tee_name": "Copper",
+   "yardage": 6157
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-female",
+   "tee_name": "Copper",
+   "yardage": 6157
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-silver-male",
+   "tee_name": "Copper/Silver",
+   "yardage": 5848
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5635
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5635
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5085
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-white-female",
+   "tee_name": "Gold/White",
+   "yardage": 4730
+  }
+ ]
+}

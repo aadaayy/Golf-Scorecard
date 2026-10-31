@@ -1,0 +1,287 @@
+{
+ "city": "Boca Raton",
+ "club_name": "The Boca Raton",
+ "course_name": "The Boca Raton",
+ "dataset_name": "The Boca Raton",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 520,
+    "Blue": 508,
+    "Green": 475,
+    "Red": 432,
+    "White": 486
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 327,
+    "Blue": 314,
+    "Green": 266,
+    "Red": 246,
+    "White": 295
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 408,
+    "Blue": 386,
+    "Green": 334,
+    "Red": 285,
+    "White": 359
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 452,
+    "Blue": 404,
+    "Green": 358,
+    "Red": 314,
+    "White": 382
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 370,
+    "Blue": 363,
+    "Green": 327,
+    "Red": 284,
+    "White": 354
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 129,
+    "Blue": 122,
+    "Green": 93,
+    "Red": 82,
+    "White": 109
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 286,
+    "Blue": 269,
+    "Green": 251,
+    "Red": 211,
+    "White": 253
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 185,
+    "Blue": 156,
+    "Green": 126,
+    "Red": 117,
+    "White": 142
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 510,
+    "Blue": 491,
+    "Green": 438,
+    "Red": 405,
+    "White": 472
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 426,
+    "Blue": 415,
+    "Green": 373,
+    "Red": 326,
+    "White": 396
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 337,
+    "Blue": 339,
+    "Green": 279,
+    "Red": 238,
+    "White": 321
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 410,
+    "Blue": 404,
+    "Green": 340,
+    "Red": 285,
+    "White": 375
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 150,
+    "Blue": 132,
+    "Green": 101,
+    "Red": 92,
+    "White": 111
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 506,
+    "Blue": 481,
+    "Green": 428,
+    "Red": 401,
+    "White": 471
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 152,
+    "Blue": 137,
+    "Green": 110,
+    "Red": 92,
+    "White": 128
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 528,
+    "Blue": 508,
+    "Green": 454,
+    "Red": 420,
+    "White": 486
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 186,
+    "Blue": 158,
+    "Green": 119,
+    "Red": 82,
+    "White": 147
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 380,
+    "Blue": 331,
+    "Green": 301,
+    "Red": 283,
+    "White": 317
+   }
+  }
+ ],
+ "id": "cb905177-1f72-4e99-93db-a3c9ba328aac",
+ "lat": 26.3427958,
+ "lng": -80.0801027,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6262
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5918
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5604
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5173
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5173
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4595
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4595
+  }
+ ]
+}

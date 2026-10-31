@@ -1,0 +1,313 @@
+{
+ "city": "Naples",
+ "club_name": "Lely Resort Golf Country Club Flamingo Island Course",
+ "course_name": "Lely Resort Golf Country Club Flamingo Island Course",
+ "dataset_name": "Lely Resort Golf Country Club Flamingo Island Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back/green": 390,
+    "championship/black": 402,
+    "flamingo/green-white": 367,
+    "flamingo/white-aqua": 328,
+    "forward/aqua": 328,
+    "middle/white": 367
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "back/green": 470,
+    "championship/black": 497,
+    "flamingo/green-white": 470,
+    "flamingo/white-aqua": 447,
+    "forward/aqua": 381,
+    "middle/white": 447
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "back/green": 172,
+    "championship/black": 199,
+    "flamingo/green-white": 157,
+    "flamingo/white-aqua": 157,
+    "forward/aqua": 135,
+    "middle/white": 157
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "back/green": 386,
+    "championship/black": 420,
+    "flamingo/green-white": 347,
+    "flamingo/white-aqua": 302,
+    "forward/aqua": 302,
+    "middle/white": 347
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "back/green": 157,
+    "championship/black": 210,
+    "flamingo/green-white": 157,
+    "flamingo/white-aqua": 140,
+    "forward/aqua": 128,
+    "middle/white": 140
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back/green": 366,
+    "championship/black": 387,
+    "flamingo/green-white": 366,
+    "flamingo/white-aqua": 319,
+    "forward/aqua": 277,
+    "middle/white": 319
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "back/green": 371,
+    "championship/black": 398,
+    "flamingo/green-white": 350,
+    "flamingo/white-aqua": 328,
+    "forward/aqua": 328,
+    "middle/white": 350
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "back/green": 508,
+    "championship/black": 553,
+    "flamingo/green-white": 508,
+    "flamingo/white-aqua": 445,
+    "forward/aqua": 445,
+    "middle/white": 487
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back/green": 382,
+    "championship/black": 421,
+    "flamingo/green-white": 370,
+    "flamingo/white-aqua": 330,
+    "forward/aqua": 330,
+    "middle/white": 370
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "back/green": 360,
+    "championship/black": 400,
+    "flamingo/green-white": 360,
+    "flamingo/white-aqua": 274,
+    "forward/aqua": 274,
+    "middle/white": 330
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "back/green": 143,
+    "championship/black": 197,
+    "flamingo/green-white": 117,
+    "flamingo/white-aqua": 117,
+    "forward/aqua": 100,
+    "middle/white": 117
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "back/green": 537,
+    "championship/black": 569,
+    "flamingo/green-white": 512,
+    "flamingo/white-aqua": 462,
+    "forward/aqua": 462,
+    "middle/white": 512
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "back/green": 378,
+    "championship/black": 423,
+    "flamingo/green-white": 378,
+    "flamingo/white-aqua": 323,
+    "forward/aqua": 323,
+    "middle/white": 356
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "back/green": 373,
+    "championship/black": 409,
+    "flamingo/green-white": 339,
+    "flamingo/white-aqua": 310,
+    "forward/aqua": 310,
+    "middle/white": 339
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "back/green": 146,
+    "championship/black": 181,
+    "flamingo/green-white": 146,
+    "flamingo/white-aqua": 122,
+    "forward/aqua": 79,
+    "middle/white": 122
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "back/green": 553,
+    "championship/black": 593,
+    "flamingo/green-white": 515,
+    "flamingo/white-aqua": 480,
+    "forward/aqua": 480,
+    "middle/white": 515
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "back/green": 388,
+    "championship/black": 426,
+    "flamingo/green-white": 364,
+    "flamingo/white-aqua": 328,
+    "forward/aqua": 328,
+    "middle/white": 364
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back/green": 374,
+    "championship/black": 410,
+    "flamingo/green-white": 357,
+    "flamingo/white-aqua": 303,
+    "forward/aqua": 303,
+    "middle/white": 357
+   }
+  }
+ ],
+ "id": "5441779a-6c09-4e59-b7d3-eab9e8d9b59b",
+ "lat": 26.0848334,
+ "lng": -81.7010923,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "championship-black-male",
+   "tee_name": "Championship/Black",
+   "yardage": 7095
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "back-green-male",
+   "tee_name": "Back/Green",
+   "yardage": 6454
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "flamingo-green-white-male",
+   "tee_name": "Flamingo/Green-White",
+   "yardage": 6180
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "middle-white-male",
+   "tee_name": "Middle/White",
+   "yardage": 5996
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "middle-white-female",
+   "tee_name": "Middle/White",
+   "yardage": 5996
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "flamingo-white-aqua-male",
+   "tee_name": "Flamingo/White-Aqua",
+   "yardage": 5515
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-aqua-female",
+   "tee_name": "Forward/Aqua",
+   "yardage": 5313
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-aqua-male",
+   "tee_name": "Forward/Aqua",
+   "yardage": 5313
+  }
+ ]
+}

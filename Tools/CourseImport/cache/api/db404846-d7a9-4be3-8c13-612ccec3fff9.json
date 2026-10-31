@@ -1,0 +1,319 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Stonebridge Country Club",
+ "course_name": "Stonebridge Country Club",
+ "dataset_name": "Stonebridge Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Tee I": 348,
+    "Tee I/II": 348,
+    "Tee II": 325,
+    "Tee II/III": 325,
+    "Tee III": 293,
+    "Tee III/IV": 293,
+    "Tee IV": 281,
+    "Tee IV/V": 220,
+    "Tee V": 220,
+    "Tee V/VI": 220,
+    "Tee VI": 215
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Tee I": 172,
+    "Tee I/II": 172,
+    "Tee II": 160,
+    "Tee II/III": 160,
+    "Tee III": 133,
+    "Tee III/IV": 133,
+    "Tee IV": 119,
+    "Tee IV/V": 119,
+    "Tee V": 105,
+    "Tee V/VI": 92,
+    "Tee VI": 92
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Tee I": 437,
+    "Tee I/II": 406,
+    "Tee II": 406,
+    "Tee II/III": 352,
+    "Tee III": 352,
+    "Tee III/IV": 352,
+    "Tee IV": 341,
+    "Tee IV/V": 271,
+    "Tee V": 271,
+    "Tee V/VI": 271,
+    "Tee VI": 264
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Tee I": 326,
+    "Tee I/II": 326,
+    "Tee II": 318,
+    "Tee II/III": 318,
+    "Tee III": 281,
+    "Tee III/IV": 281,
+    "Tee IV": 272,
+    "Tee IV/V": 272,
+    "Tee V": 253,
+    "Tee V/VI": 253,
+    "Tee VI": 211
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Tee I": 411,
+    "Tee I/II": 360,
+    "Tee II": 360,
+    "Tee II/III": 360,
+    "Tee III": 316,
+    "Tee III/IV": 316,
+    "Tee IV": 309,
+    "Tee IV/V": 261,
+    "Tee V": 261,
+    "Tee V/VI": 261,
+    "Tee VI": 256
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Tee I": 524,
+    "Tee I/II": 524,
+    "Tee II": 514,
+    "Tee II/III": 489,
+    "Tee III": 489,
+    "Tee III/IV": 489,
+    "Tee IV": 424,
+    "Tee IV/V": 424,
+    "Tee V": 386,
+    "Tee V/VI": 376,
+    "Tee VI": 376
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Tee I": 415,
+    "Tee I/II": 380,
+    "Tee II": 380,
+    "Tee II/III": 380,
+    "Tee III": 337,
+    "Tee III/IV": 327,
+    "Tee IV": 327,
+    "Tee IV/V": 286,
+    "Tee V": 286,
+    "Tee V/VI": 278,
+    "Tee VI": 278
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Tee I": 188,
+    "Tee I/II": 162,
+    "Tee II": 182,
+    "Tee II/III": 162,
+    "Tee III": 162,
+    "Tee III/IV": 152,
+    "Tee IV": 152,
+    "Tee IV/V": 152,
+    "Tee V": 108,
+    "Tee V/VI": 100,
+    "Tee VI": 100
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Tee I": 481,
+    "Tee I/II": 481,
+    "Tee II": 469,
+    "Tee II/III": 451,
+    "Tee III": 451,
+    "Tee III/IV": 388,
+    "Tee IV": 388,
+    "Tee IV/V": 388,
+    "Tee V": 323,
+    "Tee V/VI": 318,
+    "Tee VI": 318
+   }
+  }
+ ],
+ "id": "db404846-d7a9-4be3-8c13-612ccec3fff9",
+ "lat": 26.4128786,
+ "lng": -80.2125382,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-i-male",
+   "tee_name": "Tee I",
+   "yardage": 6324
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-i-ii-male",
+   "tee_name": "Tee I/II",
+   "yardage": 6181
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 6036
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-ii-iii-male",
+   "tee_name": "Tee II/III",
+   "yardage": 5794
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 5501
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iii-iv-male",
+   "tee_name": "Tee III/IV",
+   "yardage": 5315
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iv-male",
+   "tee_name": "Tee IV",
+   "yardage": 4991
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iv-v-male",
+   "tee_name": "Tee IV/V",
+   "yardage": 4666
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-v-male",
+   "tee_name": "Tee V",
+   "yardage": 4396
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-v-vi-male",
+   "tee_name": "Tee V/VI",
+   "yardage": 4137
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-vi-male",
+   "tee_name": "Tee VI",
+   "yardage": 3978
+  }
+ ]
+}

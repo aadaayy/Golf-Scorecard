@@ -1,0 +1,347 @@
+{
+ "city": "Estero",
+ "club_name": "Stoneybrook Golf Club",
+ "course_name": "Stoneybrook Golf Club",
+ "dataset_name": "Stoneybrook Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Challenger": 313,
+    "Champions": 473,
+    "Competitor": 302,
+    "Futures": 265,
+    "Legends": 345,
+    "Players": 446,
+    "Tradition": 389
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Challenger": 402,
+    "Champions": 585,
+    "Competitor": 392,
+    "Futures": 151,
+    "Legends": 476,
+    "Players": 540,
+    "Tradition": 498
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Challenger": 298,
+    "Champions": 437,
+    "Competitor": 258,
+    "Futures": 143,
+    "Legends": 329,
+    "Players": 393,
+    "Tradition": 351
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Challenger": 265,
+    "Champions": 392,
+    "Competitor": 238,
+    "Futures": 146,
+    "Legends": 321,
+    "Players": 368,
+    "Tradition": 350
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Challenger": 123,
+    "Champions": 200,
+    "Competitor": 81,
+    "Futures": 81,
+    "Legends": 130,
+    "Players": 167,
+    "Tradition": 156
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Challenger": 255,
+    "Champions": 393,
+    "Competitor": 243,
+    "Futures": 167,
+    "Legends": 298,
+    "Players": 350,
+    "Tradition": 319
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Challenger": 105,
+    "Champions": 187,
+    "Competitor": 94,
+    "Futures": 74,
+    "Legends": 116,
+    "Players": 169,
+    "Tradition": 146
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Challenger": 314,
+    "Champions": 451,
+    "Competitor": 300,
+    "Futures": 232,
+    "Legends": 348,
+    "Players": 404,
+    "Tradition": 365
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Challenger": 418,
+    "Champions": 580,
+    "Competitor": 403,
+    "Futures": 320,
+    "Legends": 452,
+    "Players": 544,
+    "Tradition": 506
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Challenger": 423,
+    "Champions": 553,
+    "Competitor": 398,
+    "Futures": 347,
+    "Legends": 447,
+    "Players": 509,
+    "Tradition": 468
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Challenger": 299,
+    "Champions": 450,
+    "Competitor": 281,
+    "Futures": 251,
+    "Legends": 341,
+    "Players": 408,
+    "Tradition": 369
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Challenger": 254,
+    "Champions": 404,
+    "Competitor": 238,
+    "Futures": 179,
+    "Legends": 287,
+    "Players": 345,
+    "Tradition": 323
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Challenger": 247,
+    "Champions": 358,
+    "Competitor": 229,
+    "Futures": 247,
+    "Legends": 279,
+    "Players": 325,
+    "Tradition": 309
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Challenger": 124,
+    "Champions": 271,
+    "Competitor": 106,
+    "Futures": 60,
+    "Legends": 146,
+    "Players": 230,
+    "Tradition": 186
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Challenger": 315,
+    "Champions": 448,
+    "Competitor": 270,
+    "Futures": 206,
+    "Legends": 351,
+    "Players": 397,
+    "Tradition": 378
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Challenger": 264,
+    "Champions": 396,
+    "Competitor": 241,
+    "Futures": 173,
+    "Legends": 288,
+    "Players": 368,
+    "Tradition": 349
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Challenger": 107,
+    "Champions": 229,
+    "Competitor": 93,
+    "Futures": 70,
+    "Legends": 139,
+    "Players": 220,
+    "Tradition": 173
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Challenger": 402,
+    "Champions": 507,
+    "Competitor": 388,
+    "Futures": 289,
+    "Legends": 422,
+    "Players": 469,
+    "Tradition": 450
+   }
+  }
+ ],
+ "id": "cae02707-fa43-4024-beb1-da13a07d88fc",
+ "lat": 26.4354613,
+ "lng": -81.7688491,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champions-male",
+   "tee_name": "Champions",
+   "yardage": 7314
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "players-male",
+   "tee_name": "Players",
+   "yardage": 6652
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tradition-male",
+   "tee_name": "Tradition",
+   "yardage": 6085
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "legends-female",
+   "tee_name": "Legends",
+   "yardage": 5515
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "legends-male",
+   "tee_name": "Legends",
+   "yardage": 5515
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "challenger-female",
+   "tee_name": "Challenger",
+   "yardage": 4928
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "challenger-male",
+   "tee_name": "Challenger",
+   "yardage": 4928
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "competitor-female",
+   "tee_name": "Competitor",
+   "yardage": 4555
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "futures-male",
+   "tee_name": "Futures",
+   "yardage": 3401
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "futures-female",
+   "tee_name": "Futures",
+   "yardage": 3401
+  }
+ ]
+}

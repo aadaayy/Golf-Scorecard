@@ -1,0 +1,295 @@
+{
+ "city": "Babcock Ranch",
+ "club_name": "Babcock National",
+ "course_name": "Babcock National",
+ "dataset_name": "Babcock National",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 326,
+    "blue": 258,
+    "gold": 236,
+    "grey": 360,
+    "red": 341
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 314,
+    "blue": 255,
+    "gold": 224,
+    "grey": 357,
+    "red": 340
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 153,
+    "blue": 123,
+    "gold": 112,
+    "grey": 224,
+    "red": 178
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 297,
+    "blue": 246,
+    "gold": 213,
+    "grey": 347,
+    "red": 322
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 522,
+    "blue": 440,
+    "gold": 415,
+    "grey": 618,
+    "red": 549
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 413,
+    "blue": 358,
+    "gold": 311,
+    "grey": 485,
+    "red": 437
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 464,
+    "blue": 400,
+    "gold": 377,
+    "grey": 537,
+    "red": 488
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 111,
+    "blue": 94,
+    "gold": 77,
+    "grey": 164,
+    "red": 131
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 393,
+    "blue": 330,
+    "gold": 286,
+    "grey": 437,
+    "red": 417
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 467,
+    "blue": 416,
+    "gold": 396,
+    "grey": 547,
+    "red": 495
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 380,
+    "blue": 312,
+    "gold": 272,
+    "grey": 434,
+    "red": 404
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "blue": 342,
+    "gold": 299,
+    "grey": 471,
+    "red": 426
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 134,
+    "blue": 112,
+    "gold": 101,
+    "grey": 160,
+    "red": 150
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 351,
+    "blue": 275,
+    "gold": 246,
+    "grey": 397,
+    "red": 377
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "blue": 286,
+    "gold": 257,
+    "grey": 431,
+    "red": 393
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 275,
+    "blue": 222,
+    "gold": 202,
+    "grey": 354,
+    "red": 299
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 123,
+    "blue": 105,
+    "gold": 88,
+    "grey": 181,
+    "red": 143
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 494,
+    "blue": 415,
+    "gold": 381,
+    "grey": 563,
+    "red": 519
+   }
+  }
+ ],
+ "id": "d41d18ae-b38d-49de-808e-e41a51e38832",
+ "lat": 26.7965151,
+ "lng": -81.7337245,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "grey-male",
+   "tee_name": "Grey",
+   "yardage": 7176
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 6441
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6006
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 6006
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5005
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5005
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4504
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4504
+  }
+ ]
+}

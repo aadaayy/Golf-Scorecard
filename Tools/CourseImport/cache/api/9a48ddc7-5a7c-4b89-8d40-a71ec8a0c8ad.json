@@ -1,0 +1,219 @@
+{
+ "city": "Greenacres",
+ "club_name": "Forest Oaks Golf Club",
+ "course_name": "Forest Oaks Golf Club",
+ "dataset_name": "Forest Oaks Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 412,
+    "red": 325,
+    "white": 402
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "blue": 466,
+    "red": 324,
+    "white": 391
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 240,
+    "red": 152,
+    "white": 224
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 330,
+    "red": 288,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 347,
+    "red": 285,
+    "white": 334
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 165,
+    "red": 132,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 410,
+    "red": 338,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 120,
+    "red": 73,
+    "white": 107
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 397,
+    "red": 310,
+    "white": 377
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 470,
+    "red": 308,
+    "white": 412
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 195,
+    "red": 136,
+    "white": 181
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "blue": 483,
+    "red": 355,
+    "white": 462
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 187,
+    "red": 153,
+    "white": 171
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 152,
+    "red": 125,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 380,
+    "red": 299,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 197,
+    "red": 134,
+    "white": 172
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 369,
+    "red": 255,
+    "white": 346
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 443,
+    "red": 375,
+    "white": 406
+   }
+  }
+ ],
+ "id": "9a48ddc7-5a7c-4b89-8d40-a71ec8a0c8ad",
+ "lat": 26.6104547,
+ "lng": -80.1623634,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5823
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5308
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4790
+  }
+ ]
+}

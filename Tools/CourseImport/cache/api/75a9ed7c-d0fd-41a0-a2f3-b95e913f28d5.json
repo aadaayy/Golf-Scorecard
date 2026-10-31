@@ -1,0 +1,371 @@
+{
+ "city": "Port Charlotte",
+ "club_name": "Maple Leaf Golf Country Club",
+ "course_name": "Maple Leaf Golf Country Club",
+ "dataset_name": "Maple Leaf Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 274,
+    "brown_combo": 264,
+    "gold": 156,
+    "jade": 213,
+    "orange_combo": 264,
+    "silver": 264,
+    "teal_combo": 213
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 115,
+    "brown_combo": 105,
+    "gold": 77,
+    "jade": 92,
+    "orange_combo": 115,
+    "silver": 105,
+    "teal_combo": 92
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 116,
+    "brown_combo": 104,
+    "gold": 82,
+    "jade": 92,
+    "orange_combo": 104,
+    "silver": 104,
+    "teal_combo": 82
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 311,
+    "brown_combo": 259,
+    "gold": 168,
+    "jade": 259,
+    "orange_combo": 311,
+    "silver": 296,
+    "teal_combo": 259
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 336,
+    "brown_combo": 275,
+    "gold": 248,
+    "jade": 275,
+    "orange_combo": 318,
+    "silver": 318,
+    "teal_combo": 248
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 181,
+    "brown_combo": 138,
+    "gold": 92,
+    "jade": 138,
+    "orange_combo": 161,
+    "silver": 161,
+    "teal_combo": 138
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 306,
+    "brown_combo": 294,
+    "gold": 225,
+    "jade": 275,
+    "orange_combo": 306,
+    "silver": 294,
+    "teal_combo": 275
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 158,
+    "brown_combo": 136,
+    "gold": 77,
+    "jade": 136,
+    "orange_combo": 149,
+    "silver": 149,
+    "teal_combo": 136
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 136,
+    "brown_combo": 104,
+    "gold": 91,
+    "jade": 104,
+    "orange_combo": 119,
+    "silver": 119,
+    "teal_combo": 91
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 290,
+    "brown_combo": 256,
+    "gold": 180,
+    "jade": 256,
+    "orange_combo": 263,
+    "silver": 263,
+    "teal_combo": 256
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 133,
+    "brown_combo": 110,
+    "gold": 84,
+    "jade": 109,
+    "orange_combo": 133,
+    "silver": 110,
+    "teal_combo": 109
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 297,
+    "brown_combo": 281,
+    "gold": 184,
+    "jade": 248,
+    "orange_combo": 297,
+    "silver": 281,
+    "teal_combo": 248
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 146,
+    "brown_combo": 127,
+    "gold": 87,
+    "jade": 108,
+    "orange_combo": 127,
+    "silver": 127,
+    "teal_combo": 108
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 127,
+    "brown_combo": 119,
+    "gold": 97,
+    "jade": 108,
+    "orange_combo": 127,
+    "silver": 119,
+    "teal_combo": 108
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 332,
+    "brown_combo": 255,
+    "gold": 212,
+    "jade": 255,
+    "orange_combo": 316,
+    "silver": 316,
+    "teal_combo": 255
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 153,
+    "brown_combo": 119,
+    "gold": 111,
+    "jade": 119,
+    "orange_combo": 128,
+    "silver": 128,
+    "teal_combo": 119
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 317,
+    "brown_combo": 299,
+    "gold": 174,
+    "jade": 210,
+    "orange_combo": 317,
+    "silver": 299,
+    "teal_combo": 210
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "black": 143,
+    "brown_combo": 114,
+    "gold": 75,
+    "jade": 114,
+    "orange_combo": 129,
+    "silver": 129,
+    "teal_combo": 75
+   }
+  }
+ ],
+ "id": "75a9ed7c-d0fd-41a0-a2f3-b95e913f28d5",
+ "lat": 26.999795,
+ "lng": -82.052958,
+ "par": 62,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3871
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 3871
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "orange-combo-male",
+   "tee_name": "Orange Combo",
+   "yardage": 3684
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "orange-combo-female",
+   "tee_name": "Orange Combo",
+   "yardage": 3684
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 3582
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 3582
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "brown-combo-male",
+   "tee_name": "Brown Combo",
+   "yardage": 3359
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "brown-combo-female",
+   "tee_name": "Brown Combo",
+   "yardage": 3359
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "jade-male",
+   "tee_name": "Jade",
+   "yardage": 3111
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "jade-female",
+   "tee_name": "Jade",
+   "yardage": 3111
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "teal-combo-female",
+   "tee_name": "Teal Combo",
+   "yardage": 3022
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "teal-combo-male",
+   "tee_name": "Teal Combo",
+   "yardage": 3022
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2420
+  }
+ ]
+}

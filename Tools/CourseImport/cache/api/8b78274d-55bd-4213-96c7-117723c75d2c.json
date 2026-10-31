@@ -1,0 +1,295 @@
+{
+ "city": "Vero Beach",
+ "club_name": "Pointe West Country Club",
+ "course_name": "Pointe West Country Club",
+ "dataset_name": "Pointe West Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back": 374,
+    "forward": 282,
+    "middle": 345,
+    "standard": 317,
+    "tournament": 401
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "back": 490,
+    "forward": 388,
+    "middle": 475,
+    "standard": 428,
+    "tournament": 520
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "back": 405,
+    "forward": 321,
+    "middle": 364,
+    "standard": 347,
+    "tournament": 435
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "back": 326,
+    "forward": 244,
+    "middle": 293,
+    "standard": 269,
+    "tournament": 338
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "back": 152,
+    "forward": 92,
+    "middle": 127,
+    "standard": 116,
+    "tournament": 172
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back": 354,
+    "forward": 282,
+    "middle": 327,
+    "standard": 293,
+    "tournament": 380
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "back": 370,
+    "forward": 271,
+    "middle": 331,
+    "standard": 302,
+    "tournament": 381
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back": 176,
+    "forward": 133,
+    "middle": 164,
+    "standard": 146,
+    "tournament": 202
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "back": 488,
+    "forward": 400,
+    "middle": 477,
+    "standard": 462,
+    "tournament": 522
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "back": 540,
+    "forward": 431,
+    "middle": 486,
+    "standard": 469,
+    "tournament": 549
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "back": 158,
+    "forward": 102,
+    "middle": 147,
+    "standard": 115,
+    "tournament": 184
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "back": 418,
+    "forward": 347,
+    "middle": 386,
+    "standard": 360,
+    "tournament": 455
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "back": 366,
+    "forward": 249,
+    "middle": 319,
+    "standard": 285,
+    "tournament": 380
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "back": 168,
+    "forward": 115,
+    "middle": 135,
+    "standard": 120,
+    "tournament": 199
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "back": 365,
+    "forward": 276,
+    "middle": 353,
+    "standard": 311,
+    "tournament": 423
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "back": 528,
+    "forward": 406,
+    "middle": 486,
+    "standard": 441,
+    "tournament": 587
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "back": 435,
+    "forward": 317,
+    "middle": 353,
+    "standard": 327,
+    "tournament": 446
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back": 286,
+    "forward": 223,
+    "middle": 258,
+    "standard": 248,
+    "tournament": 290
+   }
+  }
+ ],
+ "id": "8b78274d-55bd-4213-96c7-117723c75d2c",
+ "lat": 27.6291833,
+ "lng": -80.4818776,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6864
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6399
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-female",
+   "tee_name": "Middle",
+   "yardage": 5826
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5826
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-female",
+   "tee_name": "Standard",
+   "yardage": 5356
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-male",
+   "tee_name": "Standard",
+   "yardage": 5356
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4879
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 4879
+  }
+ ]
+}

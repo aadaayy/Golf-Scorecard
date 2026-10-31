@@ -1,0 +1,65 @@
+{
+ "city": "Boynton Beach",
+ "club_name": "Par 3 At Westchester Golf Country Club",
+ "course_name": "Par 3 At Westchester Golf Country Club",
+ "dataset_name": "Par 3 At Westchester Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "77379265-e84c-4341-bfb1-c7335b96fa5d",
+ "lat": 26.4955169,
+ "lng": -80.1457414,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1341
+  }
+ ]
+}

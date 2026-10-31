@@ -1,0 +1,187 @@
+{
+ "city": "Vero Beach",
+ "club_name": "Vista Plantation Golf Course",
+ "course_name": "Vista Plantation Golf Course",
+ "dataset_name": "Vista Plantation Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 132,
+    "Red": 109,
+    "Teal": 118,
+    "White": 123,
+    "web": 128
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 124,
+    "Red": 92,
+    "Teal": 100,
+    "White": 112,
+    "web": 120
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 265,
+    "Red": 239,
+    "Teal": 245,
+    "White": 254,
+    "web": 264
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 339,
+    "Red": 274,
+    "Teal": 285,
+    "White": 314,
+    "web": 345
+   }
+  }
+ ],
+ "id": "776dc1ee-4202-45c6-8b10-60b41b97b958",
+ "lat": 27.6412321,
+ "lng": -80.4666922,
+ "par": 62,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3697
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3448
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "teal-male",
+   "tee_name": "Teal",
+   "yardage": 3141
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "red-w-female",
+   "tee_name": "Red (W)",
+   "yardage": 3006
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 3006
+  }
+ ]
+}

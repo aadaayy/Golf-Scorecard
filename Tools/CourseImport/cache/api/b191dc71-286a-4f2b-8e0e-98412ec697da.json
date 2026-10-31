@@ -1,0 +1,303 @@
+{
+ "city": "Lake Suzy",
+ "club_name": "Aileron Golf Club",
+ "course_name": "Aileron Golf Club",
+ "dataset_name": "Aileron Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "empennage": 418,
+    "i": 374,
+    "ii": 360,
+    "iii": 325,
+    "iv": 275
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "empennage": 371,
+    "i": 340,
+    "ii": 303,
+    "iii": 273,
+    "iv": 240
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "empennage": 664,
+    "i": 600,
+    "ii": 568,
+    "iii": 520,
+    "iv": 454
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "empennage": 176,
+    "i": 150,
+    "ii": 139,
+    "iii": 105,
+    "iv": 80
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "empennage": 412,
+    "i": 381,
+    "ii": 356,
+    "iii": 346,
+    "iv": 296
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "empennage": 357,
+    "i": 312,
+    "ii": 284,
+    "iii": 249,
+    "iv": 217
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "empennage": 582,
+    "i": 533,
+    "ii": 509,
+    "iii": 466,
+    "iv": 420
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "empennage": 210,
+    "i": 176,
+    "ii": 151,
+    "iii": 134,
+    "iv": 105
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "empennage": 431,
+    "i": 406,
+    "ii": 372,
+    "iii": 338,
+    "iv": 311
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "empennage": 607,
+    "i": 575,
+    "ii": 543,
+    "iii": 506,
+    "iv": 458
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "empennage": 457,
+    "i": 405,
+    "ii": 385,
+    "iii": 341,
+    "iv": 257
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "empennage": 367,
+    "i": 317,
+    "ii": 304,
+    "iii": 267,
+    "iv": 225
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "empennage": 210,
+    "i": 169,
+    "ii": 141,
+    "iii": 130,
+    "iv": 110
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "empennage": 433,
+    "i": 392,
+    "ii": 347,
+    "iii": 330,
+    "iv": 287
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "empennage": 544,
+    "i": 510,
+    "ii": 485,
+    "iii": 421,
+    "iv": 384
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "empennage": 158,
+    "i": 142,
+    "ii": 127,
+    "iii": 115,
+    "iv": 105
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "empennage": 414,
+    "i": 380,
+    "ii": 355,
+    "iii": 327,
+    "iv": 270
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "empennage": 424,
+    "i": 394,
+    "ii": 378,
+    "iii": 335,
+    "iv": 279
+   }
+  }
+ ],
+ "id": "b191dc71-286a-4f2b-8e0e-98412ec697da",
+ "lat": 27.0317865,
+ "lng": -82.041066,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "empennage-male",
+   "tee_name": "Empennage",
+   "yardage": 7235
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-female",
+   "tee_name": "I",
+   "yardage": 6556
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6556
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 6107
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6107
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 5528
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5528
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 4773
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 4773
+  }
+ ]
+}

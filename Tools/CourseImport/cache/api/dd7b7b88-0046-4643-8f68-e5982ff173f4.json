@@ -1,0 +1,263 @@
+{
+ "city": "Hollywood",
+ "club_name": "West At Orangebrook Country Club",
+ "course_name": "West At Orangebrook Country Club",
+ "dataset_name": "West At Orangebrook Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 469,
+    "Gold": 485,
+    "Red": 382,
+    "White": 416,
+    "web": 485
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 367,
+    "Gold": 398,
+    "Red": 270,
+    "White": 353,
+    "web": 398
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 170,
+    "Gold": 202,
+    "Red": 101,
+    "White": 150,
+    "web": 202
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 356,
+    "Gold": 395,
+    "Red": 278,
+    "White": 349,
+    "web": 395
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 398,
+    "Gold": 419,
+    "Red": 301,
+    "White": 369,
+    "web": 419
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 375,
+    "Gold": 409,
+    "Red": 297,
+    "White": 360,
+    "web": 409
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 169,
+    "Gold": 200,
+    "Red": 105,
+    "White": 153,
+    "web": 200
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue": 496,
+    "Gold": 515,
+    "Red": 417,
+    "White": 464,
+    "web": 515
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 361,
+    "Gold": 381,
+    "Red": 258,
+    "White": 346,
+    "web": 381
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "Blue": 181,
+    "Gold": 195,
+    "Red": 108,
+    "White": 157,
+    "web": 195
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 382,
+    "Gold": 392,
+    "Red": 290,
+    "White": 346,
+    "web": 392
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 512,
+    "Gold": 534,
+    "Red": 417,
+    "White": 471,
+    "web": 534
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 333,
+    "Gold": 372,
+    "Red": 281,
+    "White": 320,
+    "web": 372
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 181,
+    "Gold": 213,
+    "Red": 95,
+    "White": 168,
+    "web": 213
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 374,
+    "Gold": 386,
+    "Red": 271,
+    "White": 351,
+    "web": 386
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 164,
+    "Gold": 173,
+    "Red": 125,
+    "White": 150,
+    "web": 173
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 385,
+    "Gold": 397,
+    "Red": 294,
+    "White": 355,
+    "web": 397
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 535,
+    "Gold": 560,
+    "Red": 390,
+    "White": 434,
+    "web": 560
+   }
+  }
+ ],
+ "id": "dd7b7b88-0046-4643-8f68-e5982ff173f4",
+ "lat": 26.006221,
+ "lng": -80.173772,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6626
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6208
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5712
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4680
+  }
+ ]
+}

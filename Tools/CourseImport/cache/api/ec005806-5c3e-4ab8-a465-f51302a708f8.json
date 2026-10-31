@@ -1,0 +1,263 @@
+{
+ "city": "Sanibel",
+ "club_name": "The Sanctuary Golf Club",
+ "course_name": "The Sanctuary Golf Club",
+ "dataset_name": "The Sanctuary Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 396,
+    "Blue": 407,
+    "Composite": 363,
+    "Gold": 363,
+    "Gold/red": 326,
+    "Green": 268,
+    "Red": 329,
+    "Red/green": 326,
+    "White": 396
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 521,
+    "Blue": 518,
+    "Composite": 463,
+    "Gold": 463,
+    "Gold/red": 470,
+    "Green": 300,
+    "Red": 434,
+    "Red/green": 300,
+    "White": 494
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 387,
+    "Blue": 379,
+    "Composite": 345,
+    "Gold": 323,
+    "Gold/red": 331,
+    "Green": 190,
+    "Red": 268,
+    "Red/green": 268,
+    "White": 345
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 157,
+    "Blue": 157,
+    "Composite": 148,
+    "Gold": 138,
+    "Gold/red": 138,
+    "Green": 114,
+    "Red": 114,
+    "Red/green": 114,
+    "White": 148
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 431,
+    "Blue": 450,
+    "Composite": 365,
+    "Gold": 365,
+    "Gold/red": 371,
+    "Green": 240,
+    "Red": 302,
+    "Red/green": 371,
+    "White": 408
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 482,
+    "Blue": 491,
+    "Composite": 483,
+    "Gold": 452,
+    "Gold/red": 475,
+    "Green": 310,
+    "Red": 404,
+    "Red/green": 310,
+    "White": 483
+   }
+  }
+ ],
+ "id": "ec005806-5c3e-4ab8-a465-f51302a708f8",
+ "lat": 26.4871505,
+ "lng": -82.1724626,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6655
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6597
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6313
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Composite",
+   "tee_key": "composite-male",
+   "tee_name": "Composite",
+   "yardage": 6044
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5807
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-w-female",
+   "tee_name": "Gold (W)",
+   "yardage": 5807
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold/red",
+   "tee_key": "gold-red-male",
+   "tee_name": "Gold/red",
+   "yardage": 5763
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-w-female",
+   "tee_name": "Red (W)",
+   "yardage": 5115
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Red/green",
+   "tee_key": "red-green-male",
+   "tee_name": "Red/green",
+   "yardage": 4999
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4005
+  }
+ ]
+}

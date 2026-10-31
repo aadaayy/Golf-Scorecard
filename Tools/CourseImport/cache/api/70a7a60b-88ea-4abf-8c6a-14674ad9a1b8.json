@@ -1,0 +1,232 @@
+{
+ "city": "Lehigh Acres",
+ "club_name": "Ibis Landing Golf Country Club",
+ "course_name": "Ibis Landing Golf Country Club",
+ "dataset_name": "Ibis Landing Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "i": 308,
+    "ii": 293,
+    "iii": 280,
+    "iv": 265,
+    "v": 253,
+    "vi": 236
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "i": 379,
+    "ii": 369,
+    "iii": 346,
+    "iv": 336,
+    "v": 309,
+    "vi": 297
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "i": 375,
+    "ii": 349,
+    "iii": 327,
+    "iv": 317,
+    "v": 307,
+    "vi": 244
+   }
+  }
+ ],
+ "id": "70a7a60b-88ea-4abf-8c6a-14674ad9a1b8",
+ "lat": 26.5909286,
+ "lng": -81.6552766,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6573
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 6153
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6153
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 5813
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5813
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5409
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5409
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 5033
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5033
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 4419
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 4419
+  }
+ ]
+}

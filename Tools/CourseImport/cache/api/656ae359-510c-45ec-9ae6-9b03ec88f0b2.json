@@ -1,0 +1,281 @@
+{
+ "city": "Naples",
+ "club_name": "Vanderbilt Country Club",
+ "course_name": "Vanderbilt Country Club",
+ "dataset_name": "Vanderbilt Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 157,
+    "Blue/White": 136,
+    "Gold": 113,
+    "Gold/Platinum": 113,
+    "Green": 173,
+    "Platinum": 94,
+    "White": 136,
+    "White/Gold": 136
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 338,
+    "Blue/White": 338,
+    "Gold": 283,
+    "Gold/Platinum": 283,
+    "Green": 363,
+    "Platinum": 252,
+    "White": 328,
+    "White/Gold": 328
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 194,
+    "Blue/White": 157,
+    "Gold": 129,
+    "Gold/Platinum": 129,
+    "Green": 199,
+    "Platinum": 90,
+    "White": 157,
+    "White/Gold": 129
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 401,
+    "Blue/White": 365,
+    "Gold": 304,
+    "Gold/Platinum": 304,
+    "Green": 434,
+    "Platinum": 273,
+    "White": 365,
+    "White/Gold": 304
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 412,
+    "Blue/White": 339,
+    "Gold": 300,
+    "Gold/Platinum": 268,
+    "Green": 430,
+    "Platinum": 268,
+    "White": 339,
+    "White/Gold": 300
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 489,
+    "Blue/White": 489,
+    "Gold": 392,
+    "Gold/Platinum": 392,
+    "Green": 520,
+    "Platinum": 349,
+    "White": 462,
+    "White/Gold": 462
+   }
+  }
+ ],
+ "id": "656ae359-510c-45ec-9ae6-9b03ec88f0b2",
+ "lat": 26.2490679,
+ "lng": -81.6757483,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6631
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6293
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6007
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5856
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5856
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-gold-male",
+   "tee_name": "White/Gold",
+   "yardage": 5567
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-gold-female",
+   "tee_name": "White/Gold",
+   "yardage": 5567
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5186
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5186
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-platinum-male",
+   "tee_name": "Gold/Platinum",
+   "yardage": 4958
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-platinum-female",
+   "tee_name": "Gold/Platinum",
+   "yardage": 4958
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "platinum-female",
+   "tee_name": "Platinum",
+   "yardage": 4600
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "platinum-male",
+   "tee_name": "Platinum",
+   "yardage": 4600
+  }
+ ]
+}

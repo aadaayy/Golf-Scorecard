@@ -1,0 +1,243 @@
+{
+ "city": "Avon Park",
+ "club_name": "The Highlands Golf Course",
+ "course_name": "The Highlands Golf Course",
+ "dataset_name": "The Highlands Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 195,
+    "Gold": 203,
+    "Green": 116,
+    "Green/Red": 116,
+    "Red": 109,
+    "White": 178,
+    "White/Green": 116
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 525,
+    "Gold": 537,
+    "Green": 477,
+    "Green/Red": 442,
+    "Red": 442,
+    "White": 501,
+    "White/Green": 501
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 378,
+    "Gold": 391,
+    "Green": 323,
+    "Green/Red": 285,
+    "Red": 285,
+    "White": 341,
+    "White/Green": 341
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 182,
+    "Gold": 196,
+    "Green": 115,
+    "Green/Red": 115,
+    "Red": 102,
+    "White": 148,
+    "White/Green": 148
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 393,
+    "Gold": 404,
+    "Green": 312,
+    "Green/Red": 312,
+    "Red": 298,
+    "White": 368,
+    "White/Green": 312
+   }
+  }
+ ],
+ "id": "d4d5237a-2961-4ffa-aa7f-920040734c90",
+ "lat": 27.5364067,
+ "lng": -81.424507,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6563
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6332
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5911
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 5620
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5402
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5402
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-red-female",
+   "tee_name": "Green/Red",
+   "yardage": 5187
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-red-male",
+   "tee_name": "Green/Red",
+   "yardage": 5187
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5007
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5007
+  }
+ ]
+}

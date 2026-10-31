@@ -1,0 +1,355 @@
+{
+ "city": "Longboat Key",
+ "club_name": "The Resort At Longboat Key Club Harbourside Red Hawk White Egret",
+ "course_name": "The Resort At Longboat Key Club Harbourside Red Hawk White Egret",
+ "dataset_name": "The Resort At Longboat Key Club Harbourside Red Hawk White Egret",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 340,
+    "Blue": 382,
+    "Gold": 330,
+    "Green": 320,
+    "Green/Red": 315,
+    "White": 365,
+    "web": 382
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 340,
+    "Blue": 397,
+    "Gold": 315,
+    "Green": 312,
+    "Green/Red": 230,
+    "White": 365,
+    "web": 397
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 150,
+    "Blue": 175,
+    "Gold": 125,
+    "Green": 110,
+    "Green/Red": 100,
+    "White": 165,
+    "web": 175
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 475,
+    "Blue": 518,
+    "Gold": 440,
+    "Green": 430,
+    "Green/Red": 410,
+    "White": 500,
+    "web": 518
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 310,
+    "Blue": 338,
+    "Gold": 290,
+    "Green": 280,
+    "Green/Red": 275,
+    "White": 322,
+    "web": 338
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 160,
+    "Blue": 184,
+    "Gold": 140,
+    "Green": 126,
+    "Green/Red": 120,
+    "White": 170,
+    "web": 184
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 345,
+    "Blue": 401,
+    "Gold": 330,
+    "Green": 305,
+    "Green/Red": 255,
+    "White": 375,
+    "web": 401
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Black": 505,
+    "Blue": 558,
+    "Gold": 480,
+    "Green": 370,
+    "Green/Red": 370,
+    "White": 520,
+    "web": 558
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 345,
+    "Blue": 384,
+    "Gold": 330,
+    "Green": 320,
+    "Green/Red": 315,
+    "White": 367,
+    "web": 384
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 360,
+    "Blue": 401,
+    "Gold": 350,
+    "Green": 330,
+    "Green/Red": 325,
+    "White": 390,
+    "web": 401
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 370,
+    "Blue": 415,
+    "Gold": 345,
+    "Green": 335,
+    "Green/Red": 270,
+    "White": 388,
+    "web": 415
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 450,
+    "Blue": 540,
+    "Gold": 440,
+    "Green": 376,
+    "Green/Red": 310,
+    "White": 505,
+    "web": 540
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 335,
+    "Blue": 390,
+    "Gold": 325,
+    "Green": 315,
+    "Green/Red": 305,
+    "White": 369,
+    "web": 390
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 170,
+    "Blue": 210,
+    "Gold": 150,
+    "Green": 130,
+    "Green/Red": 125,
+    "White": 185,
+    "web": 210
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 358,
+    "Blue": 383,
+    "Gold": 330,
+    "Green": 320,
+    "Green/Red": 315,
+    "White": 365,
+    "web": 383
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 155,
+    "Blue": 191,
+    "Gold": 130,
+    "Green": 125,
+    "Green/Red": 115,
+    "White": 165,
+    "web": 191
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Black": 485,
+    "Blue": 526,
+    "Gold": 460,
+    "Green": 425,
+    "Green/Red": 415,
+    "White": 510,
+    "web": 526
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 280,
+    "Blue": 353,
+    "Gold": 255,
+    "Green": 230,
+    "Green/Red": 225,
+    "White": 325,
+    "web": 353
+   }
+  }
+ ],
+ "id": "86076b9e-5c47-45d5-993a-1832860ebe93",
+ "lat": 27.3305619,
+ "lng": -82.5907087,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6746
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6351
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6351
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5933
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 5933
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5565
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5565
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5159
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5159
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Green/Red",
+   "tee_key": "green-red-female",
+   "tee_name": "Green/Red",
+   "yardage": 4795
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green/Red",
+   "tee_key": "green-red-male",
+   "tee_name": "Green/Red",
+   "yardage": 4795
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "city": "Stuart",
+ "club_name": "Mariner Sands Country Club Blue Course",
+ "course_name": "Mariner Sands Country Club Blue Course",
+ "dataset_name": "Mariner Sands Country Club Blue Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 569,
+    "blue/white": 500,
+    "gold": 471,
+    "green": 430,
+    "green/silver": 394,
+    "silver": 394,
+    "white": 500,
+    "white/gold": 471
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 366,
+    "blue/white": 366,
+    "gold": 324,
+    "green": 308,
+    "green/silver": 308,
+    "silver": 275,
+    "white": 336,
+    "white/gold": 336
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 438,
+    "blue/white": 408,
+    "gold": 376,
+    "green": 351,
+    "green/silver": 317,
+    "silver": 317,
+    "white": 408,
+    "white/gold": 376
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 197,
+    "blue/white": 172,
+    "gold": 150,
+    "green": 131,
+    "green/silver": 120,
+    "silver": 120,
+    "white": 172,
+    "white/gold": 150
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 391,
+    "blue/white": 391,
+    "gold": 328,
+    "green": 299,
+    "green/silver": 299,
+    "silver": 264,
+    "white": 356,
+    "white/gold": 356
+   }
+  }
+ ],
+ "id": "942fb1ea-22b5-4098-bc54-db9b66ff5d22",
+ "lat": 27.1222144,
+ "lng": -80.1830239,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6803
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6478
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6181
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-gold-male",
+   "tee_name": "White/Gold",
+   "yardage": 5905
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5704
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5704
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5268
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5268
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-silver-female",
+   "tee_name": "Green/Silver",
+   "yardage": 4974
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 4729
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 4729
+  }
+ ]
+}

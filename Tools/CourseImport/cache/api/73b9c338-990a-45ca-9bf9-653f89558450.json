@@ -1,0 +1,341 @@
+{
+ "city": "Jupiter",
+ "club_name": "Admirals Cove Golf Village South Course",
+ "course_name": "Admirals Cove Golf Village South Course",
+ "dataset_name": "Admirals Cove Golf Village South Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 14,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back": 310,
+    "front": 237,
+    "member": 298
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "back": 358,
+    "front": 269,
+    "member": 344
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "back": 526,
+    "front": 413,
+    "member": 478
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "back": 470,
+    "front": 385,
+    "member": 424
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "back": 163,
+    "front": 109,
+    "member": 139
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back": 254,
+    "front": 154,
+    "member": 235
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "back": 376,
+    "front": 236,
+    "member": 355
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back": 152,
+    "front": 117,
+    "member": 132
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back": 322,
+    "front": 250,
+    "member": 266
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 24,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 25,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 26,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 27,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 28,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 29,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 30,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 31,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 32,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 33,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 34,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 35,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 36,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 37,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 38,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 39,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "73b9c338-990a-45ca-9bf9-653f89558450",
+ "lat": 26.903945,
+ "lng": -80.0974719,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 2983
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 2883
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 2660
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 2548
+  },
+  {
+   "gender": "Female",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "middle-female",
+   "tee_name": "Middle",
+   "yardage": 2548
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 2349
+  },
+  {
+   "gender": "Female",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "front-female",
+   "tee_name": "Front",
+   "yardage": 2140
+  }
+ ]
+}

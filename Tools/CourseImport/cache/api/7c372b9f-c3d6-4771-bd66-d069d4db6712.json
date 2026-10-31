@@ -1,0 +1,277 @@
+{
+ "city": "North Fort Myers",
+ "club_name": "Herons Glen Golf Country Club",
+ "course_name": "Herons Glen Golf Country Club",
+ "dataset_name": "Herons Glen Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "tee_#1": 476,
+    "tee_#2": 458,
+    "tee_#3": 443,
+    "tee_#5": 389
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 326,
+    "tee_#2": 298,
+    "tee_#3": 272,
+    "tee_#5": 217
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 355,
+    "tee_#2": 329,
+    "tee_#3": 294,
+    "tee_#5": 227
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "tee_#1": 175,
+    "tee_#2": 163,
+    "tee_#3": 136,
+    "tee_#5": 106
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 404,
+    "tee_#2": 392,
+    "tee_#3": 371,
+    "tee_#5": 252
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 367,
+    "tee_#2": 354,
+    "tee_#3": 328,
+    "tee_#5": 278
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "tee_#1": 165,
+    "tee_#2": 149,
+    "tee_#3": 130,
+    "tee_#5": 107
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 325,
+    "tee_#2": 314,
+    "tee_#3": 295,
+    "tee_#5": 262
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "tee_#1": 516,
+    "tee_#2": 493,
+    "tee_#3": 474,
+    "tee_#5": 428
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 392,
+    "tee_#2": 373,
+    "tee_#3": 354,
+    "tee_#5": 289
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "tee_#1": 186,
+    "tee_#2": 156,
+    "tee_#3": 148,
+    "tee_#5": 120
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "tee_#1": 508,
+    "tee_#2": 480,
+    "tee_#3": 452,
+    "tee_#5": 413
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 381,
+    "tee_#2": 367,
+    "tee_#3": 351,
+    "tee_#5": 306
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "tee_#1": 167,
+    "tee_#2": 160,
+    "tee_#3": 143,
+    "tee_#5": 117
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 386,
+    "tee_#2": 361,
+    "tee_#3": 334,
+    "tee_#5": 271
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 418,
+    "tee_#2": 401,
+    "tee_#3": 374,
+    "tee_#5": 317
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "tee_#1": 540,
+    "tee_#2": 511,
+    "tee_#3": 501,
+    "tee_#5": 441
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "tee_#1": 352,
+    "tee_#2": 310,
+    "tee_#3": 291,
+    "tee_#5": 219
+   }
+  }
+ ],
+ "id": "7c372b9f-c3d6-4771-bd66-d069d4db6712",
+ "lat": 26.7674628,
+ "lng": -81.9169752,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-1-male",
+   "tee_name": "Tee #1",
+   "yardage": 6468
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-2-male",
+   "tee_name": "Tee #2",
+   "yardage": 6110
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-3-male",
+   "tee_name": "Tee #3",
+   "yardage": 5730
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-male",
+   "tee_name": "Tee #4",
+   "yardage": 5127
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-female",
+   "tee_name": "Tee #5",
+   "yardage": 4733
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-male",
+   "tee_name": "Tee #5",
+   "yardage": 4733
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-6-male",
+   "tee_name": "Tee #6",
+   "yardage": 4225
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-6-female",
+   "tee_name": "Tee #6",
+   "yardage": 4225
+  }
+ ]
+}

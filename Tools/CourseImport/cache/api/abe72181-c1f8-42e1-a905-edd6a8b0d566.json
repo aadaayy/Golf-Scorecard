@@ -1,0 +1,175 @@
+{
+ "city": "Bradenton",
+ "club_name": "Tributary At River Strand Golf And Country Club",
+ "course_name": "Tributary At River Strand Golf And Country Club",
+ "dataset_name": "Tributary At River Strand Golf And Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 18,
+   "number": 1,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "abe72181-c1f8-42e1-a905-edd6a8b0d566",
+ "lat": 27.5086166,
+ "lng": -82.4680759,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3240
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "black",
+   "tee_key": "black-blue-male",
+   "tee_name": "Black/Blue",
+   "yardage": 3172
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3089
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 3037
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2982
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 2862
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 2726
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "green-gold-male",
+   "tee_name": "Green/Gold",
+   "yardage": 2538
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2377
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-silver-male",
+   "tee_name": "Gold/Silver",
+   "yardage": 2037
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "silver",
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 1913
+  }
+ ]
+}

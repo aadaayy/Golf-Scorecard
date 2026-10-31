@@ -1,0 +1,30 @@
+{
+ "city": "Estero",
+ "club_name": "Breckenridge Golf Tennis Club",
+ "course_name": "Breckenridge Golf Tennis Club",
+ "dataset_name": "Breckenridge Golf Tennis Club",
+ "holes": 18,
+ "holes_data": [],
+ "id": "8c022ac4-2ee0-4e80-99ae-2fc253553b47",
+ "lat": 26.4476129,
+ "lng": -81.8229598,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1726
+  },
+  {
+   "gender": "Female",
+   "par": 54,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 1250
+  }
+ ]
+}

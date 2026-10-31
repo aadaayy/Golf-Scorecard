@@ -1,0 +1,139 @@
+{
+ "city": "Tequesta",
+ "club_name": "Riverbend Golf Course",
+ "course_name": "Riverbend Golf Course",
+ "dataset_name": "Riverbend Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 2,
+   "number": 1,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 10,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 11,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 12,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 18,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "9cbaff38-13aa-4495-83bd-a6889772b4c7",
+ "lat": 26.9816105,
+ "lng": -80.1342519,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 3075
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 2623
+  }
+ ]
+}

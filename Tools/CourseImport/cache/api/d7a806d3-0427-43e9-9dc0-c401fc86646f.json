@@ -1,0 +1,365 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Colonial Country Club",
+ "course_name": "Colonial Country Club",
+ "dataset_name": "Colonial Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 384,
+    "blue": 341,
+    "blue/white": 341,
+    "green": 258,
+    "green/red": 258,
+    "red": 247,
+    "white": 306,
+    "white/gren": 258
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 464,
+    "blue": 441,
+    "blue/white": 381,
+    "green": 340,
+    "green/red": 340,
+    "red": 275,
+    "white": 381,
+    "white/gren": 340
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 627,
+    "blue": 570,
+    "blue/white": 509,
+    "green": 441,
+    "green/red": 387,
+    "red": 387,
+    "white": 509,
+    "white/gren": 441
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 468,
+    "blue": 398,
+    "blue/white": 398,
+    "green": 308,
+    "green/red": 308,
+    "red": 292,
+    "white": 344,
+    "white/gren": 308
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 209,
+    "blue": 184,
+    "blue/white": 162,
+    "green": 123,
+    "green/red": 123,
+    "red": 101,
+    "white": 162,
+    "white/gren": 123
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 584,
+    "blue": 516,
+    "blue/white": 516,
+    "green": 430,
+    "green/red": 430,
+    "red": 389,
+    "white": 491,
+    "white/gren": 491
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 207,
+    "blue": 151,
+    "blue/white": 151,
+    "green": 118,
+    "green/red": 118,
+    "red": 108,
+    "white": 134,
+    "white/gren": 134
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "blue": 338,
+    "blue/white": 338,
+    "green": 250,
+    "green/red": 250,
+    "red": 206,
+    "white": 297,
+    "white/gren": 297
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 417,
+    "blue": 344,
+    "blue/white": 344,
+    "green": 302,
+    "green/red": 302,
+    "red": 256,
+    "white": 329,
+    "white/gren": 302
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 485,
+    "blue": 459,
+    "blue/white": 459,
+    "green": 414,
+    "green/red": 414,
+    "red": 365,
+    "white": 447,
+    "white/gren": 414
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 453,
+    "blue": 403,
+    "blue/white": 403,
+    "green": 335,
+    "green/red": 299,
+    "red": 299,
+    "white": 376,
+    "white/gren": 335
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 593,
+    "blue": 514,
+    "blue/white": 482,
+    "green": 443,
+    "green/red": 443,
+    "red": 390,
+    "white": 482,
+    "white/gren": 482
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 222,
+    "blue": 209,
+    "blue/white": 166,
+    "green": 133,
+    "green/red": 103,
+    "red": 103,
+    "white": 166,
+    "white/gren": 133
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 439,
+    "blue": 367,
+    "blue/white": 367,
+    "green": 278,
+    "green/red": 278,
+    "red": 246,
+    "white": 320,
+    "white/gren": 320
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 424,
+    "blue": 365,
+    "blue/white": 365,
+    "green": 296,
+    "green/red": 296,
+    "red": 257,
+    "white": 334,
+    "white/gren": 334
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 451,
+    "blue": 381,
+    "blue/white": 367,
+    "green": 318,
+    "green/red": 282,
+    "red": 282,
+    "white": 367,
+    "white/gren": 318
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 168,
+    "blue": 152,
+    "blue/white": 152,
+    "green": 100,
+    "green/red": 100,
+    "red": 82,
+    "white": 135,
+    "white/gren": 135
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "blue": 351,
+    "blue/white": 351,
+    "green": 240,
+    "green/red": 240,
+    "red": 212,
+    "white": 284,
+    "white/gren": 284
+   }
+  }
+ ],
+ "id": "d7a806d3-0427-43e9-9dc0-c401fc86646f",
+ "lat": 26.600995,
+ "lng": -81.7908465,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7375
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6541
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6300
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "white-blue-male",
+   "tee_name": "White/Blue",
+   "yardage": 6159
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5928
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-gren-male",
+   "tee_name": "White/Gren",
+   "yardage": 5490
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5170
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5170
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "green-red-female",
+   "tee_name": "Green/Red",
+   "yardage": 5014
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4564
+  }
+ ]
+}

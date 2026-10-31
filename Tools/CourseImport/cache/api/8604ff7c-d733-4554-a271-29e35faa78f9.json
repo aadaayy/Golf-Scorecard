@@ -1,0 +1,236 @@
+{
+ "city": "Ave Maria",
+ "club_name": "Panther Run Golf Club",
+ "course_name": "Panther Run Golf Club",
+ "dataset_name": "Panther Run Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "tee_1": 454,
+    "tee_2": 369,
+    "tee_3": 340,
+    "tee_4": 311,
+    "tee_5": 282,
+    "tee_6": 252
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "tee_1": 634,
+    "tee_2": 550,
+    "tee_3": 530,
+    "tee_4": 488,
+    "tee_5": 466,
+    "tee_6": 423
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "tee_1": 440,
+    "tee_2": 409,
+    "tee_3": 377,
+    "tee_4": 361,
+    "tee_5": 328,
+    "tee_6": 292
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "tee_1": 207,
+    "tee_2": 188,
+    "tee_3": 168,
+    "tee_4": 144,
+    "tee_5": 119,
+    "tee_6": 103
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "tee_1": 433,
+    "tee_2": 390,
+    "tee_3": 346,
+    "tee_4": 317,
+    "tee_5": 284,
+    "tee_6": 262
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "tee_1": 234,
+    "tee_2": 201,
+    "tee_3": 181,
+    "tee_4": 157,
+    "tee_5": 127,
+    "tee_6": 112
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "tee_1": 553,
+    "tee_2": 503,
+    "tee_3": 481,
+    "tee_4": 460,
+    "tee_5": 436,
+    "tee_6": 403
+   }
+  }
+ ],
+ "id": "8604ff7c-d733-4554-a271-29e35faa78f9",
+ "lat": 26.309113,
+ "lng": -81.442842,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-1-male",
+   "tee_name": "Tee 1",
+   "yardage": 7532
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-2-male",
+   "tee_name": "Tee 2",
+   "yardage": 6695
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-3-male",
+   "tee_name": "Tee 3",
+   "yardage": 6207
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-male",
+   "tee_name": "Tee 4",
+   "yardage": 5739
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-female",
+   "tee_name": "Tee 4",
+   "yardage": 5739
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-male",
+   "tee_name": "Tee 5",
+   "yardage": 5245
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-female",
+   "tee_name": "Tee 5",
+   "yardage": 5245
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-6-female",
+   "tee_name": "Tee 6",
+   "yardage": 4664
+  }
+ ]
+}

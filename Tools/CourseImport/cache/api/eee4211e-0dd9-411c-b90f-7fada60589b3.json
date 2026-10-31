@@ -1,0 +1,397 @@
+{
+ "city": "Port St. Lucie",
+ "club_name": "Astor Creek Golf Country Club",
+ "course_name": "Astor Creek Golf Country Club",
+ "dataset_name": "Astor Creek Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "astor": 241,
+    "black": 426,
+    "black/blue": 395,
+    "blue": 395,
+    "blue/grey": 351,
+    "grey": 351,
+    "grey/white": 307,
+    "white": 307
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "astor": 70,
+    "black": 148,
+    "black/blue": 148,
+    "blue": 124,
+    "blue/grey": 124,
+    "grey": 109,
+    "grey/white": 92,
+    "white": 92
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "astor": 265,
+    "black": 447,
+    "black/blue": 403,
+    "blue": 403,
+    "blue/grey": 403,
+    "grey": 367,
+    "grey/white": 367,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "astor": 275,
+    "black": 552,
+    "black/blue": 552,
+    "blue": 509,
+    "blue/grey": 473,
+    "grey": 473,
+    "grey/white": 411,
+    "white": 411
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "astor": 196,
+    "black": 360,
+    "black/blue": 322,
+    "blue": 322,
+    "blue/grey": 322,
+    "grey": 283,
+    "grey/white": 241,
+    "white": 241
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "astor": 83,
+    "black": 171,
+    "black/blue": 171,
+    "blue": 152,
+    "blue/grey": 152,
+    "grey": 135,
+    "grey/white": 135,
+    "white": 111
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "astor": 218,
+    "black": 429,
+    "black/blue": 378,
+    "blue": 378,
+    "blue/grey": 378,
+    "grey": 335,
+    "grey/white": 335,
+    "white": 276
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "astor": 318,
+    "black": 566,
+    "black/blue": 520,
+    "blue": 520,
+    "blue/grey": 520,
+    "grey": 467,
+    "grey/white": 467,
+    "white": 408
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "astor": 194,
+    "black": 382,
+    "black/blue": 382,
+    "blue": 337,
+    "blue/grey": 289,
+    "grey": 289,
+    "grey/white": 289,
+    "white": 246
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "astor": 185,
+    "black": 414,
+    "black/blue": 414,
+    "blue": 365,
+    "blue/grey": 365,
+    "grey": 324,
+    "grey/white": 324,
+    "white": 259
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "astor": 179,
+    "black": 339,
+    "black/blue": 303,
+    "blue": 303,
+    "blue/grey": 267,
+    "grey": 267,
+    "grey/white": 219,
+    "white": 219
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "astor": 84,
+    "black": 205,
+    "black/blue": 205,
+    "blue": 174,
+    "blue/grey": 157,
+    "grey": 157,
+    "grey/white": 157,
+    "white": 121
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "astor": 310,
+    "black": 522,
+    "black/blue": 522,
+    "blue": 503,
+    "blue/grey": 503,
+    "grey": 446,
+    "grey/white": 446,
+    "white": 384
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "astor": 237,
+    "black": 434,
+    "black/blue": 391,
+    "blue": 391,
+    "blue/grey": 391,
+    "grey": 340,
+    "grey/white": 340,
+    "white": 284
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "astor": 70,
+    "black": 157,
+    "black/blue": 157,
+    "blue": 137,
+    "blue/grey": 137,
+    "grey": 113,
+    "grey/white": 91,
+    "white": 91
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "astor": 340,
+    "black": 573,
+    "black/blue": 573,
+    "blue": 518,
+    "blue/grey": 518,
+    "grey": 467,
+    "grey/white": 419,
+    "white": 419
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "astor": 179,
+    "black": 393,
+    "black/blue": 393,
+    "blue": 347,
+    "blue/grey": 347,
+    "grey": 288,
+    "grey/white": 288,
+    "white": 245
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "astor": 209,
+    "black": 385,
+    "black/blue": 360,
+    "blue": 360,
+    "blue/grey": 318,
+    "grey": 318,
+    "grey/white": 264,
+    "white": 264
+   }
+  }
+ ],
+ "id": "eee4211e-0dd9-411c-b90f-7fada60589b3",
+ "lat": 27.3004915,
+ "lng": -80.4584176,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6903
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-blue-male",
+   "tee_name": "Black/Blue",
+   "yardage": 6589
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6238
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6238
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-grey-male",
+   "tee_name": "Blue/Grey",
+   "yardage": 6015
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-grey-female",
+   "tee_name": "Blue/Grey",
+   "yardage": 6015
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "grey-male",
+   "tee_name": "Grey",
+   "yardage": 5529
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "grey-female",
+   "tee_name": "Grey",
+   "yardage": 5529
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "grey-white-male",
+   "tee_name": "Grey/White",
+   "yardage": 5155
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "grey-white-female",
+   "tee_name": "Grey/White",
+   "yardage": 5155
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 4699
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 4699
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "astor-male",
+   "tee_name": "Astor",
+   "yardage": 3653
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "astor-female",
+   "tee_name": "Astor",
+   "yardage": 3653
+  }
+ ]
+}

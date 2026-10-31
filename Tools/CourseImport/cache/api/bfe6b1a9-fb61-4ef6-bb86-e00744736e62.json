@@ -1,0 +1,181 @@
+{
+ "city": "Bradenton",
+ "club_name": "Estuary At River Strand Golf And Country Club",
+ "course_name": "Estuary At River Strand Golf And Country Club",
+ "dataset_name": "Estuary At River Strand Golf And Country Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "bfe6b1a9-fb61-4ef6-bb86-e00744736e62",
+ "lat": 27.5086166,
+ "lng": -82.4680759,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3617
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3385
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 3239
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 3133
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3133
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 2947
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 2824
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 2824
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "green-gold-female",
+   "tee_name": "Green/Gold",
+   "yardage": 2645
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "green-gold-male",
+   "tee_name": "Green/Gold",
+   "yardage": 2645
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2526
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 2526
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 1884
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 1884
+  }
+ ]
+}

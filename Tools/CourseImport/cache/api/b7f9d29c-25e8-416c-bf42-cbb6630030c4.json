@@ -1,0 +1,401 @@
+{
+ "city": "Hollywood",
+ "club_name": "The Club At Emerald Hills",
+ "course_name": "The Club At Emerald Hills",
+ "dataset_name": "The Club At Emerald Hills",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 562,
+    "Blue": 546,
+    "Emerald": 600,
+    "Forward Member": 489,
+    "Gold 1": 580,
+    "Gold 2": 580,
+    "Member": 546,
+    "Red": 446,
+    "Silver": 456,
+    "White": 489
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 425,
+    "Blue": 407,
+    "Emerald": 434,
+    "Forward Member": 335,
+    "Gold 1": 434,
+    "Gold 2": 434,
+    "Member": 381,
+    "Red": 321,
+    "Silver": 335,
+    "White": 381
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 160,
+    "Blue": 143,
+    "Emerald": 268,
+    "Forward Member": 129,
+    "Gold 1": 168,
+    "Gold 2": 168,
+    "Member": 143,
+    "Red": 104,
+    "Silver": 116,
+    "White": 129
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 349,
+    "Blue": 330,
+    "Emerald": 360,
+    "Forward Member": 303,
+    "Gold 1": 360,
+    "Gold 2": 360,
+    "Member": 330,
+    "Red": 247,
+    "Silver": 262,
+    "White": 303
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 531,
+    "Blue": 508,
+    "Emerald": 643,
+    "Forward Member": 400,
+    "Gold 1": 576,
+    "Gold 2": 576,
+    "Member": 508,
+    "Red": 360,
+    "Silver": 400,
+    "White": 472
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 156,
+    "Blue": 145,
+    "Emerald": 170,
+    "Forward Member": 133,
+    "Gold 1": 170,
+    "Gold 2": 170,
+    "Member": 145,
+    "Red": 85,
+    "Silver": 111,
+    "White": 133
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 410,
+    "Blue": 375,
+    "Emerald": 454,
+    "Forward Member": 326,
+    "Gold 1": 454,
+    "Gold 2": 454,
+    "Member": 344,
+    "Red": 271,
+    "Silver": 326,
+    "White": 344
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 430,
+    "Blue": 400,
+    "Emerald": 518,
+    "Forward Member": 349,
+    "Gold 1": 518,
+    "Gold 2": 466,
+    "Member": 377,
+    "Red": 308,
+    "Silver": 349,
+    "White": 377
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 412,
+    "Blue": 392,
+    "Emerald": 419,
+    "Forward Member": 303,
+    "Gold 1": 419,
+    "Gold 2": 419,
+    "Member": 361,
+    "Red": 260,
+    "Silver": 303,
+    "White": 361
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 421,
+    "Blue": 407,
+    "Emerald": 532,
+    "Forward Member": 313,
+    "Gold 1": 438,
+    "Gold 2": 438,
+    "Member": 378,
+    "Red": 285,
+    "Silver": 313,
+    "White": 378
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 374,
+    "Blue": 357,
+    "Emerald": 414,
+    "Forward Member": 336,
+    "Gold 1": 380,
+    "Gold 2": 380,
+    "Member": 357,
+    "Red": 312,
+    "Silver": 323,
+    "White": 336
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 552,
+    "Blue": 526,
+    "Emerald": 608,
+    "Forward Member": 502,
+    "Gold 1": 577,
+    "Gold 2": 577,
+    "Member": 526,
+    "Red": 473,
+    "Silver": 487,
+    "White": 502
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 398,
+    "Blue": 371,
+    "Emerald": 473,
+    "Forward Member": 328,
+    "Gold 1": 426,
+    "Gold 2": 426,
+    "Member": 349,
+    "Red": 246,
+    "Silver": 328,
+    "White": 349
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 139,
+    "Blue": 129,
+    "Emerald": 150,
+    "Forward Member": 115,
+    "Gold 1": 150,
+    "Gold 2": 150,
+    "Member": 129,
+    "Red": 93,
+    "Silver": 104,
+    "White": 115
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 373,
+    "Blue": 354,
+    "Emerald": 395,
+    "Forward Member": 337,
+    "Gold 1": 395,
+    "Gold 2": 395,
+    "Member": 354,
+    "Red": 282,
+    "Silver": 316,
+    "White": 337
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 444,
+    "Blue": 421,
+    "Emerald": 454,
+    "Forward Member": 333,
+    "Gold 1": 454,
+    "Gold 2": 454,
+    "Member": 394,
+    "Red": 314,
+    "Silver": 333,
+    "White": 394
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 206,
+    "Blue": 187,
+    "Emerald": 253,
+    "Forward Member": 164,
+    "Gold 1": 218,
+    "Gold 2": 218,
+    "Member": 164,
+    "Red": 122,
+    "Silver": 144,
+    "White": 164
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 589,
+    "Blue": 565,
+    "Emerald": 682,
+    "Forward Member": 471,
+    "Gold 1": 651,
+    "Gold 2": 609,
+    "Member": 542,
+    "Red": 410,
+    "Silver": 471,
+    "White": 542
+   }
+  }
+ ],
+ "id": "b7f9d29c-25e8-416c-bf42-cbb6630030c4",
+ "lat": 26.0418899,
+ "lng": -80.1860656,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "emerald-male",
+   "tee_name": "Emerald",
+   "yardage": 7827
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-1-male",
+   "tee_name": "Gold 1",
+   "yardage": 7368
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-2-male",
+   "tee_name": "Gold 2",
+   "yardage": 7274
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6931
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6563
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6328
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6106
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-member-male",
+   "tee_name": "Forward Member",
+   "yardage": 5666
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5477
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4939
+  }
+ ]
+}

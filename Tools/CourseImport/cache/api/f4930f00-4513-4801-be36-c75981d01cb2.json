@@ -1,0 +1,223 @@
+{
+ "city": "Punta Gorda",
+ "club_name": "Heritage Landing Golf Country Club",
+ "course_name": "Heritage Landing Golf Country Club",
+ "dataset_name": "Heritage Landing Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 431,
+    "blue": 395,
+    "gold": 327,
+    "red": 276,
+    "red/black": 364
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 215,
+    "blue": 200,
+    "gold": 151,
+    "red": 114,
+    "red/black": 178
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 374,
+    "blue": 344,
+    "gold": 276,
+    "red": 204,
+    "red/black": 344
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 584,
+    "blue": 532,
+    "gold": 409,
+    "red": 374,
+    "red/black": 445
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "blue": 149,
+    "gold": 113,
+    "red": 94,
+    "red/black": 149
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 458,
+    "blue": 394,
+    "gold": 324,
+    "red": 268,
+    "red/black": 354
+   }
+  }
+ ],
+ "id": "f4930f00-4513-4801-be36-c75981d01cb2",
+ "lat": 26.8180812,
+ "lng": -82.0286934,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 7070
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 6338
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "red-black-male",
+   "tee_name": "Red/Black",
+   "yardage": 6004
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5718
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5060
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5060
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4363
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4363
+  }
+ ]
+}

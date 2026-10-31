@@ -1,0 +1,147 @@
+{
+ "city": "Delray Beach",
+ "club_name": "Kings Point Par 3",
+ "course_name": "Kings Point Par 3",
+ "dataset_name": "Kings Point Par 3",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "back": 144
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back": 136
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "back": 82
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "back": 101
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "back": 84
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "back": 110
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "back": 126
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "back": 131
+   }
+  }
+ ],
+ "id": "edbd6e18-769b-4859-bc40-290b875f360c",
+ "lat": 26.4434978,
+ "lng": -80.1385236,
+ "par": 54,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 2149
+  }
+ ]
+}

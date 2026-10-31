@@ -1,0 +1,243 @@
+{
+ "city": "Davie",
+ "club_name": "Davie Golf Country Club",
+ "course_name": "Davie Golf Country Club",
+ "dataset_name": "Davie Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 537,
+    "green": 345,
+    "silver": 436
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 186,
+    "green": 110,
+    "silver": 125
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "green": 214,
+    "silver": 335
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 329,
+    "green": 224,
+    "silver": 234
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "green": 188,
+    "silver": 286
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 125,
+    "green": 86,
+    "silver": 95
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 418,
+    "green": 222,
+    "silver": 360
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 147,
+    "green": 85,
+    "silver": 92
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 413,
+    "green": 243,
+    "silver": 335
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "black": 182,
+    "green": 145,
+    "silver": 145
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 437,
+    "green": 223,
+    "silver": 346
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 303,
+    "green": 219,
+    "silver": 236
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 447,
+    "green": 240,
+    "silver": 391
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 516,
+    "green": 338,
+    "silver": 449
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 202,
+    "green": 135,
+    "silver": 135
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 575,
+    "green": 288,
+    "silver": 443
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 159,
+    "green": 104,
+    "silver": 114
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 427,
+    "green": 215,
+    "silver": 345
+   }
+  }
+ ],
+ "id": "e026d31c-a535-42c5-886f-dcf5af44aebb",
+ "lat": 26.0908847,
+ "lng": -80.2582796,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6347
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5917
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5504
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5504
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "bronze-female",
+   "tee_name": "Bronze",
+   "yardage": 4993
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 3783
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "city": "Naples",
+ "club_name": "Bonita Bay East Cypress Course",
+ "course_name": "Bonita Bay East Cypress Course",
+ "dataset_name": "Bonita Bay East Cypress Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "tee_v": 432
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "tee_v": 204
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "tee_v": 435
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "tee_v": 545
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "tee_v": 230
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "tee_v": 400
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "tee_v": 459
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "tee_v": 549
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "tee_v": 445
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "tee_v": 417
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "tee_v": 181
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "tee_v": 549
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "tee_v": 394
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "tee_v": 331
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "tee_v": 527
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "tee_v": 219
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "tee_v": 319
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "tee_v": 453
+   }
+  }
+ ],
+ "id": "60f8d7b4-1bda-4989-a96b-ac39ca392b84",
+ "lat": 26.2926585,
+ "lng": -81.6528825,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-male",
+   "tee_name": "Tee V",
+   "yardage": 7059
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-v-male",
+   "tee_name": "Tee IV-V",
+   "yardage": 6758
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-male",
+   "tee_name": "Tee IV",
+   "yardage": 6485
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-iv-female",
+   "tee_name": "Tee III-IV",
+   "yardage": 6248
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-iv-male",
+   "tee_name": "Tee III-IV",
+   "yardage": 6248
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 6004
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-female",
+   "tee_name": "Tee III",
+   "yardage": 6004
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-iii-female",
+   "tee_name": "Tee II-III",
+   "yardage": 5608
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-iii-male",
+   "tee_name": "Tee II-III",
+   "yardage": 5608
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-female",
+   "tee_name": "Tee II",
+   "yardage": 5355
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 5355
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-i-ii-female",
+   "tee_name": "Tee I-II",
+   "yardage": 5161
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-i-ii-male",
+   "tee_name": "Tee I-II",
+   "yardage": 5161
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-i-female",
+   "tee_name": "Tee I",
+   "yardage": 4972
+  }
+ ]
+}

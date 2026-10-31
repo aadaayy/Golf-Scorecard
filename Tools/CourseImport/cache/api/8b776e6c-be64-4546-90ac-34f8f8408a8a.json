@@ -1,0 +1,112 @@
+{
+ "city": "Arcadia",
+ "club_name": "Live Oak Rv Golf Course",
+ "course_name": "Live Oak Rv Golf Course",
+ "dataset_name": "Live Oak Rv Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "center": 172,
+    "ladies": 172
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "center": 147,
+    "ladies": 147
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "center": 102,
+    "ladies": 102
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "center": 90,
+    "ladies": 90
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "center": 190,
+    "ladies": 150
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "center": 151,
+    "ladies": 70
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "center": 113,
+    "ladies": 113
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "center": 226,
+    "ladies": 153
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "center": 190,
+    "ladies": 190
+   }
+  }
+ ],
+ "id": "8b776e6c-be64-4546-90ac-34f8f8408a8a",
+ "lat": 27.0372861,
+ "lng": -81.9592935,
+ "par": 29,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": null,
+   "tee_key": "center-male",
+   "tee_name": "Center",
+   "yardage": 1381
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "ladies-male",
+   "tee_name": "Ladies",
+   "yardage": 1187
+  }
+ ]
+}

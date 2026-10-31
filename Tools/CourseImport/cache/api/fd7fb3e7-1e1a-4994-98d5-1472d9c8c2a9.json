@@ -1,0 +1,313 @@
+{
+ "city": "Fort Lauderdale",
+ "club_name": "Lago Mar Country Club",
+ "course_name": "Lago Mar Country Club",
+ "dataset_name": "Lago Mar Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "#1": 408,
+    "#2": 373,
+    "#3": 365,
+    "#4": 333,
+    "#5": 305,
+    "member": 333
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "#1": 383,
+    "#2": 353,
+    "#3": 288,
+    "#4": 279,
+    "#5": 254,
+    "member": 279
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "#1": 463,
+    "#2": 445,
+    "#3": 389,
+    "#4": 380,
+    "#5": 350,
+    "member": 350
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "#1": 567,
+    "#2": 527,
+    "#3": 499,
+    "#4": 482,
+    "#5": 450,
+    "member": 450
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "#1": 132,
+    "#2": 132,
+    "#3": 117,
+    "#4": 109,
+    "#5": 92,
+    "member": 109
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "#1": 368,
+    "#2": 356,
+    "#3": 326,
+    "#4": 314,
+    "#5": 288,
+    "member": 288
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "#1": 552,
+    "#2": 540,
+    "#3": 468,
+    "#4": 459,
+    "#5": 383,
+    "member": 459
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "#1": 187,
+    "#2": 168,
+    "#3": 158,
+    "#4": 133,
+    "#5": 129,
+    "member": 129
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "#1": 460,
+    "#2": 440,
+    "#3": 371,
+    "#4": 360,
+    "#5": 327,
+    "member": 327
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "#1": 544,
+    "#2": 530,
+    "#3": 510,
+    "#4": 478,
+    "#5": 442,
+    "member": 442
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "#1": 435,
+    "#2": 407,
+    "#3": 381,
+    "#4": 351,
+    "#5": 287,
+    "member": 287
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "#1": 449,
+    "#2": 407,
+    "#3": 376,
+    "#4": 351,
+    "#5": 344,
+    "member": 344
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "#1": 524,
+    "#2": 506,
+    "#3": 498,
+    "#4": 481,
+    "#5": 419,
+    "member": 481
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "#1": 210,
+    "#2": 175,
+    "#3": 163,
+    "#4": 144,
+    "#5": 132,
+    "member": 144
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "#1": 374,
+    "#2": 349,
+    "#3": 338,
+    "#4": 308,
+    "#5": 301,
+    "member": 308
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "#1": 404,
+    "#2": 359,
+    "#3": 342,
+    "#4": 313,
+    "#5": 302,
+    "member": 313
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "#1": 167,
+    "#2": 158,
+    "#3": 146,
+    "#4": 132,
+    "#5": 99,
+    "member": 99
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "#1": 409,
+    "#2": 382,
+    "#3": 350,
+    "#4": 323,
+    "#5": 284,
+    "member": 284
+   }
+  }
+ ],
+ "id": "fd7fb3e7-1e1a-4994-98d5-1472d9c8c2a9",
+ "lat": 26.1257123,
+ "lng": -80.3182853,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "1-male",
+   "tee_name": "#1",
+   "yardage": 7047
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "2-male",
+   "tee_name": "#2",
+   "yardage": 6569
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6415
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "3-male",
+   "tee_name": "#3",
+   "yardage": 6127
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "4-male",
+   "tee_name": "#4",
+   "yardage": 5765
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "4-female",
+   "tee_name": "#4",
+   "yardage": 5765
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-female",
+   "tee_name": "Member",
+   "yardage": 5444
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "5-female",
+   "tee_name": "#5",
+   "yardage": 5203
+  }
+ ]
+}

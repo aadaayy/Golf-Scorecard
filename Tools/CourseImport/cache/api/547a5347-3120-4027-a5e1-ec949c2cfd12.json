@@ -1,0 +1,321 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Lexington Country Club",
+ "course_name": "Lexington Country Club",
+ "dataset_name": "Lexington Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "i": 538,
+    "ii": 526,
+    "iii": 513,
+    "iv": 467,
+    "v": 433,
+    "vi": 387
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "i": 396,
+    "ii": 375,
+    "iii": 354,
+    "iv": 343,
+    "v": 284,
+    "vi": 277
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "i": 622,
+    "ii": 552,
+    "iii": 504,
+    "iv": 480,
+    "v": 420,
+    "vi": 407
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "i": 188,
+    "ii": 171,
+    "iii": 160,
+    "iv": 135,
+    "v": 111,
+    "vi": 86
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "i": 447,
+    "ii": 384,
+    "iii": 360,
+    "iv": 348,
+    "v": 298,
+    "vi": 288
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "i": 196,
+    "ii": 173,
+    "iii": 159,
+    "iv": 132,
+    "v": 117,
+    "vi": 94
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "i": 359,
+    "ii": 319,
+    "iii": 298,
+    "iv": 288,
+    "v": 269,
+    "vi": 225
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "i": 379,
+    "ii": 368,
+    "iii": 339,
+    "iv": 316,
+    "v": 279,
+    "vi": 255
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "i": 375,
+    "ii": 375,
+    "iii": 346,
+    "iv": 316,
+    "v": 262,
+    "vi": 228
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 442,
+    "ii": 390,
+    "iii": 383,
+    "iv": 354,
+    "v": 319,
+    "vi": 298
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "i": 251,
+    "ii": 214,
+    "iii": 199,
+    "iv": 157,
+    "v": 147,
+    "vi": 113
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "i": 361,
+    "ii": 330,
+    "iii": 323,
+    "iv": 303,
+    "v": 267,
+    "vi": 237
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "i": 565,
+    "ii": 556,
+    "iii": 514,
+    "iv": 504,
+    "v": 472,
+    "vi": 424
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "i": 208,
+    "ii": 199,
+    "iii": 165,
+    "iv": 151,
+    "v": 128,
+    "vi": 107
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "i": 330,
+    "ii": 328,
+    "iii": 322,
+    "iv": 304,
+    "v": 283,
+    "vi": 258
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "i": 558,
+    "ii": 512,
+    "iii": 480,
+    "iv": 447,
+    "v": 427,
+    "vi": 387
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "i": 411,
+    "ii": 384,
+    "iii": 330,
+    "iv": 310,
+    "v": 302,
+    "vi": 262
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "i": 378,
+    "ii": 378,
+    "iii": 358,
+    "iv": 334,
+    "v": 280,
+    "vi": 238
+   }
+  }
+ ],
+ "id": "547a5347-3120-4027-a5e1-ec949c2cfd12",
+ "lat": 26.4945614,
+ "lng": -81.9067417,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 7004
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6534
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6107
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5689
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5689
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5098
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 5098
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 4571
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 4571
+  }
+ ]
+}

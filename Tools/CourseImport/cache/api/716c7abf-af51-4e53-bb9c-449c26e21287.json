@@ -1,0 +1,347 @@
+{
+ "city": "Greenacres",
+ "club_name": "The Falls Club Of The Palm Beaches",
+ "course_name": "The Falls Club Of The Palm Beaches",
+ "dataset_name": "The Falls Club Of The Palm Beaches",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 517,
+    "Blue": 495,
+    "Gold": 504,
+    "Green": 434,
+    "Red": 419,
+    "Silver": 478,
+    "White": 484
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 418,
+    "Blue": 384,
+    "Gold": 399,
+    "Green": 320,
+    "Red": 268,
+    "Silver": 335,
+    "White": 359
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 177,
+    "Blue": 162,
+    "Gold": 168,
+    "Green": 142,
+    "Red": 135,
+    "Silver": 151,
+    "White": 156
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 416,
+    "Blue": 391,
+    "Gold": 405,
+    "Green": 330,
+    "Red": 273,
+    "Silver": 342,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 356,
+    "Blue": 330,
+    "Gold": 340,
+    "Green": 232,
+    "Red": 227,
+    "Silver": 300,
+    "White": 300
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 368,
+    "Blue": 358,
+    "Gold": 364,
+    "Green": 285,
+    "Red": 268,
+    "Silver": 289,
+    "White": 349
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 196,
+    "Blue": 183,
+    "Gold": 189,
+    "Green": 149,
+    "Red": 142,
+    "Silver": 153,
+    "White": 172
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Black": 536,
+    "Blue": 511,
+    "Gold": 524,
+    "Green": 450,
+    "Red": 435,
+    "Silver": 465,
+    "White": 500
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 396,
+    "Blue": 375,
+    "Gold": 384,
+    "Green": 320,
+    "Red": 254,
+    "Silver": 329,
+    "White": 361
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 398,
+    "Blue": 388,
+    "Gold": 396,
+    "Green": 333,
+    "Red": 327,
+    "Silver": 333,
+    "White": 374
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 184,
+    "Blue": 168,
+    "Gold": 178,
+    "Green": 146,
+    "Red": 139,
+    "Silver": 156,
+    "White": 164
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 405,
+    "Blue": 357,
+    "Gold": 387,
+    "Green": 294,
+    "Red": 228,
+    "Silver": 307,
+    "White": 316
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Black": 553,
+    "Blue": 523,
+    "Gold": 539,
+    "Green": 416,
+    "Red": 398,
+    "Silver": 489,
+    "White": 512
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 428,
+    "Blue": 398,
+    "Gold": 413,
+    "Green": 339,
+    "Red": 299,
+    "Silver": 350,
+    "White": 375
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 315,
+    "Blue": 306,
+    "Gold": 306,
+    "Green": 281,
+    "Red": 275,
+    "Silver": 281,
+    "White": 299
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 167,
+    "Blue": 150,
+    "Gold": 163,
+    "Green": 115,
+    "Red": 94,
+    "Silver": 127,
+    "White": 142
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Blue": 349,
+    "Gold": 365,
+    "Green": 300,
+    "Red": 292,
+    "Silver": 323,
+    "White": 327
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 549,
+    "Blue": 521,
+    "Gold": 535,
+    "Green": 458,
+    "Red": 421,
+    "Silver": 475,
+    "White": 515
+   }
+  }
+ ],
+ "id": "716c7abf-af51-4e53-bb9c-449c26e21287",
+ "lat": 26.5756291,
+ "lng": -80.1504892,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6757
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6559
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6349
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-w-female",
+   "tee_name": "White (W)",
+   "yardage": 6070
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6070
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5683
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-w-female",
+   "tee_name": "Silver (W)",
+   "yardage": 5683
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5344
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-w-female",
+   "tee_name": "Green (W)",
+   "yardage": 5344
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4894
+  }
+ ]
+}

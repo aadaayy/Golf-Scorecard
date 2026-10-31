@@ -1,0 +1,175 @@
+{
+ "city": "Port St. Lucie",
+ "club_name": "Savanna Club Golf Course",
+ "course_name": "Savanna Club Golf Course",
+ "dataset_name": "Savanna Club Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 125,
+    "Red": 101,
+    "White": 113
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Blue": 454,
+    "Red": 360,
+    "White": 426
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Red": 218,
+    "White": 300
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 105,
+    "Red": 86,
+    "White": 94
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 277,
+    "Red": 236,
+    "White": 246
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 160,
+    "Red": 126,
+    "White": 147
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "Blue": 113,
+    "Red": 87,
+    "White": 98
+   }
+  }
+ ],
+ "id": "8a6fc1e3-902d-44c6-8fb1-eca4d63361db",
+ "lat": 27.3172723,
+ "lng": -80.2897375,
+ "par": 62,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3756
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3386
+  },
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": "Red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 2895
+  }
+ ]
+}

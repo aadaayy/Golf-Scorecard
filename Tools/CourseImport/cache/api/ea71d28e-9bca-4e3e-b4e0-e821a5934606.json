@@ -1,0 +1,279 @@
+{
+ "city": "Indian Creek",
+ "club_name": "Indian Creek Country Club",
+ "course_name": "Indian Creek Country Club",
+ "dataset_name": "Indian Creek Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 348,
+    "gold": 328,
+    "orange": 353,
+    "red": 288,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 426,
+    "gold": 380,
+    "orange": 467,
+    "red": 325,
+    "white": 384
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "blue": 543,
+    "gold": 506,
+    "orange": 574,
+    "red": 443,
+    "white": 528
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 335,
+    "gold": 315,
+    "orange": 354,
+    "red": 278,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 175,
+    "gold": 139,
+    "orange": 190,
+    "red": 108,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 452,
+    "gold": 383,
+    "orange": 482,
+    "red": 345,
+    "white": 427
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 343,
+    "gold": 321,
+    "orange": 362,
+    "red": 246,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 202,
+    "gold": 160,
+    "orange": 227,
+    "red": 116,
+    "white": 184
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 536,
+    "gold": 473,
+    "orange": 570,
+    "red": 390,
+    "white": 512
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 414,
+    "gold": 355,
+    "orange": 420,
+    "red": 322,
+    "white": 390
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 513,
+    "gold": 492,
+    "orange": 590,
+    "red": 398,
+    "white": 498
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 190,
+    "gold": 160,
+    "orange": 197,
+    "red": 131,
+    "white": 174
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 315,
+    "gold": 299,
+    "orange": 324,
+    "red": 231,
+    "white": 306
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 430,
+    "gold": 350,
+    "orange": 445,
+    "red": 300,
+    "white": 410
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 160,
+    "gold": 132,
+    "orange": 170,
+    "red": 104,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 374,
+    "gold": 346,
+    "orange": 400,
+    "red": 279,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "gold": 371,
+    "orange": 410,
+    "red": 287,
+    "white": 379
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 501,
+    "gold": 445,
+    "orange": 540,
+    "red": 385,
+    "white": 464
+   }
+  }
+ ],
+ "id": "ea71d28e-9bca-4e3e-b4e0-e821a5934606",
+ "lat": 25.8756644,
+ "lng": -80.1412856,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 6815
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6521
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6222
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5828
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5321
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pink-male",
+   "tee_name": "Pink",
+   "yardage": 5080
+  }
+ ]
+}

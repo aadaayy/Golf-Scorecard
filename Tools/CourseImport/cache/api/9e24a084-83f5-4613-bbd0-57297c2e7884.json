@@ -1,0 +1,113 @@
+{
+ "city": "Arcadia",
+ "club_name": "Paradise Golf Course",
+ "course_name": "Paradise Golf Course",
+ "dataset_name": "Paradise Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "9e24a084-83f5-4613-bbd0-57297c2e7884",
+ "lat": 27.0509916,
+ "lng": -81.9776428,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 42,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 3450
+  },
+  {
+   "gender": "Male",
+   "par": 42,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 2897
+  },
+  {
+   "gender": "Male",
+   "par": 42,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2617
+  },
+  {
+   "gender": "Male",
+   "par": 42,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 1896
+  }
+ ]
+}

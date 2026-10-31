@@ -1,0 +1,289 @@
+{
+ "city": "Wellington",
+ "club_name": "Sherbrooke Golf Country Club",
+ "course_name": "Sherbrooke Golf Country Club",
+ "dataset_name": "Sherbrooke Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 489,
+    "Gold": 519,
+    "Red": 409,
+    "Silver": 420,
+    "White": 477,
+    "web": 519
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 321,
+    "Gold": 355,
+    "Red": 230,
+    "Silver": 277,
+    "White": 295,
+    "web": 355
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Blue": 483,
+    "Gold": 520,
+    "Red": 403,
+    "Silver": 410,
+    "White": 466,
+    "web": 520
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 397,
+    "Gold": 429,
+    "Red": 314,
+    "Silver": 322,
+    "White": 378,
+    "web": 429
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 179,
+    "Gold": 214,
+    "Red": 141,
+    "Silver": 149,
+    "White": 159,
+    "web": 222
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 344,
+    "Gold": 378,
+    "Red": 256,
+    "Silver": 295,
+    "White": 319,
+    "web": 378
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 388,
+    "Gold": 418,
+    "Red": 310,
+    "Silver": 333,
+    "White": 366,
+    "web": 418
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 184,
+    "Gold": 199,
+    "Red": 140,
+    "Silver": 145,
+    "White": 170,
+    "web": 199
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 375,
+    "Gold": 437,
+    "Red": 300,
+    "Silver": 340,
+    "White": 351,
+    "web": 437
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 360,
+    "Gold": 384,
+    "Red": 255,
+    "Silver": 265,
+    "White": 337,
+    "web": 384
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 359,
+    "Gold": 408,
+    "Red": 249,
+    "Silver": 303,
+    "White": 327,
+    "web": 408
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 518,
+    "Gold": 541,
+    "Red": 390,
+    "Silver": 429,
+    "White": 495,
+    "web": 541
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 331,
+    "Gold": 366,
+    "Red": 253,
+    "Silver": 277,
+    "White": 301,
+    "web": 366
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 184,
+    "Gold": 214,
+    "Red": 111,
+    "Silver": 144,
+    "White": 161,
+    "web": 214
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 369,
+    "Gold": 387,
+    "Red": 269,
+    "Silver": 311,
+    "White": 332,
+    "web": 431
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 388,
+    "Gold": 423,
+    "Red": 299,
+    "Silver": 319,
+    "White": 342,
+    "web": 423
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 179,
+    "Gold": 175,
+    "Red": 125,
+    "Silver": 138,
+    "White": 158,
+    "web": 221
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 511,
+    "Gold": 544,
+    "Red": 407,
+    "Silver": 419,
+    "White": 471,
+    "web": 544
+   }
+  }
+ ],
+ "id": "d157b3ac-2d21-4884-b051-c4d3282f110d",
+ "lat": 26.5907691,
+ "lng": -80.190226,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6911
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6359
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5905
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5296
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4861
+  }
+ ]
+}

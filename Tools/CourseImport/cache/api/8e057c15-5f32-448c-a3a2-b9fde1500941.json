@@ -1,0 +1,246 @@
+{
+ "city": "Venice",
+ "club_name": "Venice Golf Country Club",
+ "course_name": "Venice Golf Country Club",
+ "dataset_name": "Venice Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 407,
+    "Blue": 378,
+    "Gold": 292,
+    "Green": 286,
+    "Green/Silver": 246,
+    "Orange": 351,
+    "Orange/Gold": 351,
+    "Silver": 246
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 443,
+    "Blue": 413,
+    "Gold": 340,
+    "Green": 328,
+    "Green/Silver": 250,
+    "Orange": 383,
+    "Orange/Gold": 340,
+    "Silver": 250
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 513,
+    "Blue": 505,
+    "Gold": 428,
+    "Green": 389,
+    "Green/Silver": 349,
+    "Orange": 487,
+    "Orange/Gold": 428,
+    "Silver": 349
+   }
+  }
+ ],
+ "id": "8e057c15-5f32-448c-a3a2-b9fde1500941",
+ "lat": 27.0848293,
+ "lng": -82.371643,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6747
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6392
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 6035
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 6035
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-gold-male",
+   "tee_name": "Orange/Gold",
+   "yardage": 5702
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5404
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5404
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5094
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5094
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-silver-female",
+   "tee_name": "Green/Silver",
+   "yardage": 4711
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 4394
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 4394
+  }
+ ]
+}

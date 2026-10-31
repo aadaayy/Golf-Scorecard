@@ -1,0 +1,229 @@
+{
+ "city": "Stuart",
+ "club_name": "Willoughby Golf Club",
+ "course_name": "Willoughby Golf Club",
+ "dataset_name": "Willoughby Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Black": 503,
+    "Blue": 361,
+    "Gold": 468,
+    "Green": 455,
+    "Silver": 455,
+    "White": 481
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 418,
+    "Blue": 310,
+    "Gold": 364,
+    "Green": 344,
+    "Silver": 344,
+    "White": 393
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 318,
+    "Blue": 171,
+    "Gold": 272,
+    "Green": 253,
+    "Silver": 253,
+    "White": 291
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 149,
+    "Blue": 96,
+    "Gold": 120,
+    "Green": 108,
+    "Silver": 108,
+    "White": 132
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Black": 484,
+    "Blue": 355,
+    "Gold": 458,
+    "Green": 426,
+    "Silver": 426,
+    "White": 471
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 385,
+    "Blue": 232,
+    "Gold": 343,
+    "Green": 315,
+    "Silver": 315,
+    "White": 358
+   }
+  }
+ ],
+ "id": "a3376dfc-8a18-468f-8d5a-ec9c89960dd6",
+ "lat": 27.157779,
+ "lng": -80.234252,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6591
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6199
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5934
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5612
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5612
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5612
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 4252
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 4252
+  }
+ ]
+}

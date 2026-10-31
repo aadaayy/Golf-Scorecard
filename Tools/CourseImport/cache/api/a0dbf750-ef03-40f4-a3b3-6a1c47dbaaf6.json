@@ -1,0 +1,271 @@
+{
+ "city": "Tamarac",
+ "club_name": "Championship At Colony West Country Club",
+ "course_name": "Championship At Colony West Country Club",
+ "dataset_name": "Championship At Colony West Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 552,
+    "gold": 367,
+    "green": 583,
+    "red": 350,
+    "white": 482
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 396,
+    "gold": 344,
+    "green": 424,
+    "red": 272,
+    "white": 367
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 313,
+    "green": 420,
+    "red": 238,
+    "white": 351
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 397,
+    "gold": 303,
+    "green": 434,
+    "red": 233,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 198,
+    "gold": 150,
+    "green": 234,
+    "red": 131,
+    "white": 174
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 372,
+    "gold": 276,
+    "green": 396,
+    "red": 227,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 536,
+    "gold": 446,
+    "green": 575,
+    "red": 355,
+    "white": 506
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "gold": 141,
+    "green": 200,
+    "red": 131,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 426,
+    "gold": 357,
+    "green": 447,
+    "red": 345,
+    "white": 403
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 367,
+    "gold": 255,
+    "green": 386,
+    "red": 249,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 383,
+    "gold": 255,
+    "green": 425,
+    "red": 246,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 309,
+    "green": 410,
+    "red": 293,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 171,
+    "gold": 136,
+    "green": 196,
+    "red": 122,
+    "white": 152
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 524,
+    "gold": 422,
+    "green": 561,
+    "red": 410,
+    "white": 503
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 421,
+    "gold": 314,
+    "green": 451,
+    "red": 270,
+    "white": 400
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 365,
+    "gold": 310,
+    "green": 421,
+    "red": 253,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "gold": 130,
+    "green": 167,
+    "red": 120,
+    "white": 143
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 385,
+    "gold": 303,
+    "green": 431,
+    "red": 271,
+    "white": 337
+   }
+  }
+ ],
+ "id": "a0dbf750-ef03-40f4-a3b3-6a1c47dbaaf6",
+ "lat": 26.2064809,
+ "lng": -80.2668563,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7258
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6727
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6271
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5465
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4445
+  }
+ ]
+}

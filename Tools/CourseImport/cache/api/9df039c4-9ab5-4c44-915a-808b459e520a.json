@@ -1,0 +1,95 @@
+{
+ "city": "Sanibel",
+ "club_name": "The Sanctuary Golf Course At Pennbrooke Fairways",
+ "course_name": "The Sanctuary Golf Course At Pennbrooke Fairways",
+ "dataset_name": "The Sanctuary Golf Course At Pennbrooke Fairways",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  }
+ ],
+ "id": "9df039c4-9ab5-4c44-915a-808b459e520a",
+ "lat": 26.4871505,
+ "lng": -82.1724626,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6806
+  }
+ ]
+}

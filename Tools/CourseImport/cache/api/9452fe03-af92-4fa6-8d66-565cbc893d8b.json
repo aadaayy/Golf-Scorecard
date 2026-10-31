@@ -1,0 +1,263 @@
+{
+ "city": "Bowling Green",
+ "club_name": "Torrey Oaks Rv And Golf Resort",
+ "course_name": "Torrey Oaks Rv And Golf Resort",
+ "dataset_name": "Torrey Oaks Rv And Golf Resort",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Grey": 320,
+    "Red": 290,
+    "White": 340,
+    "web": 340
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Blue": 495,
+    "Grey": 450,
+    "Red": 395,
+    "White": 485,
+    "web": 485
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 160,
+    "Grey": 130,
+    "Red": 125,
+    "White": 150,
+    "web": 150
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Grey": 330,
+    "Red": 325,
+    "White": 340,
+    "web": 340
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 125,
+    "Grey": 115,
+    "Red": 105,
+    "White": 120,
+    "web": 120
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 370,
+    "Grey": 340,
+    "Red": 290,
+    "White": 360,
+    "web": 360
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 365,
+    "Grey": 340,
+    "Red": 290,
+    "White": 355,
+    "web": 355
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue": 495,
+    "Grey": 455,
+    "Red": 400,
+    "White": 485,
+    "web": 485
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 370,
+    "Grey": 340,
+    "Red": 260,
+    "White": 360,
+    "web": 360
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "Blue": 180,
+    "Grey": 155,
+    "Red": 145,
+    "White": 165,
+    "web": 165
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 400,
+    "Grey": 350,
+    "Red": 320,
+    "White": 380,
+    "web": 380
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 175,
+    "Grey": 145,
+    "Red": 110,
+    "White": 155,
+    "web": 155
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 370,
+    "Grey": 340,
+    "Red": 320,
+    "White": 350,
+    "web": 350
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Blue": 500,
+    "Grey": 450,
+    "Red": 400,
+    "White": 480,
+    "web": 480
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 345,
+    "Grey": 310,
+    "Red": 250,
+    "White": 335,
+    "web": 335
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 345,
+    "Grey": 310,
+    "Red": 280,
+    "White": 335,
+    "web": 335
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 390,
+    "Grey": 340,
+    "Red": 280,
+    "White": 380,
+    "web": 380
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 550,
+    "Grey": 510,
+    "Red": 490,
+    "White": 525,
+    "web": 525
+   }
+  }
+ ],
+ "id": "9452fe03-af92-4fa6-8d66-565cbc893d8b",
+ "lat": 27.6038532,
+ "lng": -81.8310073,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6335
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6100
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "grey-male",
+   "tee_name": "Grey",
+   "yardage": 5730
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5075
+  }
+ ]
+}

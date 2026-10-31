@@ -1,0 +1,381 @@
+{
+ "city": "Myakka City",
+ "club_name": "Soleta Golf Golf Club",
+ "course_name": "Soleta Golf Golf Club",
+ "dataset_name": "Soleta Golf Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 435,
+    "Black/Gold": 435,
+    "Blue": 341,
+    "Blue/White": 341,
+    "Gold": 364,
+    "Gold/Blue": 364,
+    "Green": 279,
+    "White": 316
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 428,
+    "Black/Gold": 399,
+    "Blue": 378,
+    "Blue/White": 344,
+    "Gold": 399,
+    "Gold/Blue": 378,
+    "Green": 303,
+    "White": 344
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 186,
+    "Black/Gold": 186,
+    "Blue": 163,
+    "Blue/White": 163,
+    "Gold": 175,
+    "Gold/Blue": 175,
+    "Green": 129,
+    "White": 149
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 467,
+    "Black/Gold": 405,
+    "Blue": 386,
+    "Blue/White": 352,
+    "Gold": 405,
+    "Gold/Blue": 386,
+    "Green": 315,
+    "White": 352
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 598,
+    "Black/Gold": 598,
+    "Blue": 525,
+    "Blue/White": 525,
+    "Gold": 553,
+    "Gold/Blue": 553,
+    "Green": 423,
+    "White": 480
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 386,
+    "Black/Gold": 386,
+    "Blue": 334,
+    "Blue/White": 334,
+    "Gold": 354,
+    "Gold/Blue": 354,
+    "Green": 273,
+    "White": 304
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 142,
+    "Black/Gold": 142,
+    "Blue": 125,
+    "Blue/White": 125,
+    "Gold": 131,
+    "Gold/Blue": 131,
+    "Green": 101,
+    "White": 114
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Black": 572,
+    "Black/Gold": 572,
+    "Blue": 502,
+    "Blue/White": 502,
+    "Gold": 529,
+    "Gold/Blue": 529,
+    "Green": 405,
+    "White": 459
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 465,
+    "Black/Gold": 430,
+    "Blue": 408,
+    "Blue/White": 370,
+    "Gold": 430,
+    "Gold/Blue": 408,
+    "Green": 329,
+    "White": 370
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 467,
+    "Black/Gold": 419,
+    "Blue": 398,
+    "Blue/White": 363,
+    "Gold": 419,
+    "Gold/Blue": 398,
+    "Green": 321,
+    "White": 363
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 474,
+    "Black/Gold": 439,
+    "Blue": 416,
+    "Blue/White": 380,
+    "Gold": 439,
+    "Gold/Blue": 416,
+    "Green": 336,
+    "White": 380
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 168,
+    "Black/Gold": 168,
+    "Blue": 148,
+    "Blue/White": 148,
+    "Gold": 156,
+    "Gold/Blue": 156,
+    "Green": 123,
+    "White": 135
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 429,
+    "Black/Gold": 429,
+    "Blue": 359,
+    "Blue/White": 359,
+    "Gold": 384,
+    "Gold/Blue": 384,
+    "Green": 290,
+    "White": 326
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 488,
+    "Black/Gold": 426,
+    "Blue": 404,
+    "Blue/White": 367,
+    "Gold": 426,
+    "Gold/Blue": 404,
+    "Green": 331,
+    "White": 367
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 588,
+    "Black/Gold": 588,
+    "Blue": 517,
+    "Blue/White": 517,
+    "Gold": 544,
+    "Gold/Blue": 544,
+    "Green": 413,
+    "White": 472
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 235,
+    "Black/Gold": 218,
+    "Blue": 180,
+    "Blue/White": 166,
+    "Gold": 218,
+    "Gold/Blue": 180,
+    "Green": 149,
+    "White": 166
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 333,
+    "Black/Gold": 333,
+    "Blue": 292,
+    "Blue/White": 292,
+    "Gold": 308,
+    "Gold/Blue": 308,
+    "Green": 236,
+    "White": 267
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 550,
+    "Black/Gold": 550,
+    "Blue": 483,
+    "Blue/White": 483,
+    "Gold": 509,
+    "Gold/Blue": 509,
+    "Green": 389,
+    "White": 441
+   }
+  }
+ ],
+ "id": "c2c82a0c-2b96-4ee7-b05f-655752e3295f",
+ "lat": 27.3391671,
+ "lng": -82.1980471,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7411
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-gold-male",
+   "tee_name": "Black/Gold",
+   "yardage": 7123
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6743
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-blue-male",
+   "tee_name": "Gold/Blue",
+   "yardage": 6577
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6359
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6359
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-female",
+   "tee_name": "Blue/White",
+   "yardage": 6131
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6131
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5805
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5805
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5145
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5145
+  }
+ ]
+}

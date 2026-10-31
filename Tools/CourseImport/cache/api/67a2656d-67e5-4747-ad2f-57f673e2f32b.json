@@ -1,0 +1,207 @@
+{
+ "city": "Lakewood Ranch",
+ "club_name": "Lakewood Ranch Golf Country Club King Dunes Course",
+ "course_name": "Lakewood Ranch Golf Country Club King Dunes Course",
+ "dataset_name": "Lakewood Ranch Golf Country Club King Dunes Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 189,
+    "blue/white": 173,
+    "green": 154,
+    "red": 140,
+    "web": 350,
+    "white": 173
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 383,
+    "blue/white": 369,
+    "green": 345,
+    "red": 298,
+    "web": 175,
+    "white": 369
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blue": 556,
+    "blue/white": 510,
+    "green": 465,
+    "red": 450,
+    "web": 375,
+    "white": 510
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 391,
+    "blue/white": 372,
+    "green": 330,
+    "red": 303,
+    "web": 550,
+    "white": 372
+   }
+  }
+ ],
+ "id": "67a2656d-67e5-4747-ad2f-57f673e2f32b",
+ "lat": 27.4039582,
+ "lng": -82.4113855,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6245
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6076
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5933
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5450
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5450
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4806
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4806
+  }
+ ]
+}

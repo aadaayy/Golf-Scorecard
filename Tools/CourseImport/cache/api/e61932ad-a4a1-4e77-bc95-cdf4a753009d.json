@@ -1,0 +1,93 @@
+{
+ "city": "North Miami Beach",
+ "club_name": "Greynolds Golf Course",
+ "course_name": "Greynolds Golf Course",
+ "dataset_name": "Greynolds Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "e61932ad-a4a1-4e77-bc95-cdf4a753009d",
+ "lat": 25.9394532,
+ "lng": -80.1568911,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 3090
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 2903
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 2450
+  }
+ ]
+}

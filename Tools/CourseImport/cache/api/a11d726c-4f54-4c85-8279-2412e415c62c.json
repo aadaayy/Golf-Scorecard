@@ -1,0 +1,349 @@
+{
+ "city": "Tequesta",
+ "club_name": "Village At Jupiter Hills Club",
+ "course_name": "Village At Jupiter Hills Club",
+ "dataset_name": "Village At Jupiter Hills Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 378,
+    "Blue/White": 378,
+    "Gold": 391,
+    "Gold/Blue": 378,
+    "Green": 358,
+    "Red": 325,
+    "White": 368,
+    "White/Green": 358
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Blue": 149,
+    "Blue/White": 149,
+    "Gold": 157,
+    "Gold/Blue": 157,
+    "Green": 134,
+    "Red": 110,
+    "White": 142,
+    "White/Green": 142
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Blue": 496,
+    "Blue/White": 496,
+    "Gold": 539,
+    "Gold/Blue": 539,
+    "Green": 398,
+    "Red": 387,
+    "White": 460,
+    "White/Green": 460
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Blue": 511,
+    "Blue/White": 473,
+    "Gold": 544,
+    "Gold/Blue": 544,
+    "Green": 447,
+    "Red": 402,
+    "White": 473,
+    "White/Green": 447
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 385,
+    "Blue/White": 348,
+    "Gold": 411,
+    "Gold/Blue": 385,
+    "Green": 335,
+    "Red": 284,
+    "White": 348,
+    "White/Green": 335
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 270,
+    "Blue/White": 270,
+    "Gold": 278,
+    "Gold/Blue": 278,
+    "Green": 228,
+    "Red": 221,
+    "White": 263,
+    "White/Green": 263
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 370,
+    "Blue/White": 370,
+    "Gold": 394,
+    "Gold/Blue": 394,
+    "Green": 328,
+    "Red": 302,
+    "White": 357,
+    "White/Green": 357
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 404,
+    "Blue/White": 380,
+    "Gold": 423,
+    "Gold/Blue": 404,
+    "Green": 287,
+    "Red": 270,
+    "White": 380,
+    "White/Green": 287
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Blue": 155,
+    "Blue/White": 155,
+    "Gold": 161,
+    "Gold/Blue": 161,
+    "Green": 126,
+    "Red": 120,
+    "White": 148,
+    "White/Green": 148
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 390,
+    "Blue/White": 354,
+    "Gold": 393,
+    "Gold/Blue": 393,
+    "Green": 286,
+    "Red": 282,
+    "White": 354,
+    "White/Green": 286
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 379,
+    "Blue/White": 379,
+    "Gold": 407,
+    "Gold/Blue": 407,
+    "Green": 283,
+    "Red": 268,
+    "White": 341,
+    "White/Green": 341
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 507,
+    "Blue/White": 507,
+    "Gold": 552,
+    "Gold/Blue": 507,
+    "Green": 462,
+    "Red": 392,
+    "White": 492,
+    "White/Green": 462
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 153,
+    "Blue/White": 153,
+    "Gold": 158,
+    "Gold/Blue": 158,
+    "Green": 106,
+    "Red": 99,
+    "White": 147,
+    "White/Green": 147
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Blue/White": 350,
+    "Gold": 354,
+    "Gold/Blue": 354,
+    "Green": 259,
+    "Red": 256,
+    "White": 338,
+    "White/Green": 338
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 368,
+    "Blue/White": 340,
+    "Gold": 373,
+    "Gold/Blue": 373,
+    "Green": 333,
+    "Red": 285,
+    "White": 340,
+    "White/Green": 340
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Blue": 533,
+    "Blue/White": 533,
+    "Gold": 567,
+    "Gold/Blue": 533,
+    "Green": 404,
+    "Red": 400,
+    "White": 468,
+    "White/Green": 404
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 167,
+    "Blue/White": 167,
+    "Gold": 188,
+    "Gold/Blue": 188,
+    "Green": 146,
+    "Red": 129,
+    "White": 150,
+    "White/Green": 150
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 406,
+    "Blue/White": 375,
+    "Gold": 445,
+    "Gold/Blue": 406,
+    "Green": 360,
+    "Red": 316,
+    "White": 375,
+    "White/Green": 360
+   }
+  }
+ ],
+ "id": "a11d726c-4f54-4c85-8279-2412e415c62c",
+ "lat": 26.9884757,
+ "lng": -80.0955352,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6735
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-blue-male",
+   "tee_name": "Gold/Blue",
+   "yardage": 6559
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6371
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6177
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5944
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 5625
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5280
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4848
+  }
+ ]
+}

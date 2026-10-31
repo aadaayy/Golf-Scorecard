@@ -1,0 +1,146 @@
+{
+ "city": "Moore Haven",
+ "club_name": "The Glades Resort",
+ "course_name": "The Glades Resort",
+ "dataset_name": "The Glades Resort",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 2,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 507,
+    "gold": 451,
+    "red": 392,
+    "white": 479
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 361,
+    "gold": 317,
+    "red": 259,
+    "white": 346
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 380,
+    "gold": 312,
+    "red": 258,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 185,
+    "gold": 132,
+    "red": 105,
+    "white": 152
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 353,
+    "gold": 268,
+    "red": 237,
+    "white": 306
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 200,
+    "gold": 160,
+    "red": 145,
+    "white": 179
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 518,
+    "gold": 402,
+    "red": 393,
+    "white": 485
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 335,
+    "gold": 300,
+    "red": 235,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 328,
+    "gold": 271,
+    "red": 237,
+    "white": 313
+   }
+  }
+ ],
+ "id": "9c435901-34db-496d-9712-cdabd23df177",
+ "lat": 26.7824675,
+ "lng": -81.2312416,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3167
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2946
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2613
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2261
+  }
+ ]
+}

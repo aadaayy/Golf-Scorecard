@@ -1,0 +1,505 @@
+{
+ "city": "North Port",
+ "club_name": "Wellen Park Golf Country Club",
+ "course_name": "Wellen Park Golf Country Club",
+ "dataset_name": "Wellen Park Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "I M": 410,
+    "I/II M": 352,
+    "II M": 352,
+    "II W": 352,
+    "II/III M": 313,
+    "II/III W": 313,
+    "III M": 313,
+    "III W": 313,
+    "IV M": 286,
+    "IV W": 286,
+    "V M": 236,
+    "V W": 236,
+    "VI M": 220,
+    "VI W": 220
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "I M": 434,
+    "I/II M": 434,
+    "II M": 404,
+    "II W": 404,
+    "II/III M": 404,
+    "II/III W": 404,
+    "III M": 360,
+    "III W": 360,
+    "IV M": 314,
+    "IV W": 314,
+    "V M": 275,
+    "V W": 275,
+    "VI M": 190,
+    "VI W": 190
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "I M": 395,
+    "I/II M": 347,
+    "II M": 347,
+    "II W": 347,
+    "II/III M": 347,
+    "II/III W": 347,
+    "III M": 297,
+    "III W": 297,
+    "IV M": 270,
+    "IV W": 270,
+    "V M": 243,
+    "V W": 243,
+    "VI M": 220,
+    "VI W": 220
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "I M": 260,
+    "I/II M": 213,
+    "II M": 213,
+    "II W": 213,
+    "II/III M": 186,
+    "II/III W": 186,
+    "III M": 186,
+    "III W": 186,
+    "IV M": 159,
+    "IV W": 159,
+    "V M": 130,
+    "V W": 130,
+    "VI M": 60,
+    "VI W": 60
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "I M": 535,
+    "I/II M": 535,
+    "II M": 509,
+    "II W": 509,
+    "II/III M": 448,
+    "II/III W": 448,
+    "III M": 448,
+    "III W": 448,
+    "IV M": 413,
+    "IV W": 413,
+    "V M": 374,
+    "V W": 374,
+    "VI M": 320,
+    "VI W": 320
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "I M": 401,
+    "I/II M": 401,
+    "II M": 381,
+    "II W": 381,
+    "II/III M": 381,
+    "II/III W": 381,
+    "III M": 318,
+    "III W": 318,
+    "IV M": 248,
+    "IV W": 248,
+    "V M": 219,
+    "V W": 219,
+    "VI M": 80,
+    "VI W": 80
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "I M": 534,
+    "I/II M": 480,
+    "II M": 480,
+    "II W": 480,
+    "II/III M": 480,
+    "II/III W": 480,
+    "III M": 440,
+    "III W": 440,
+    "IV M": 400,
+    "IV W": 400,
+    "V M": 345,
+    "V W": 345,
+    "VI M": 340,
+    "VI W": 340
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "I M": 193,
+    "I/II M": 171,
+    "II M": 171,
+    "II W": 171,
+    "II/III M": 144,
+    "II/III W": 144,
+    "III M": 144,
+    "III W": 144,
+    "IV M": 117,
+    "IV W": 117,
+    "V M": 100,
+    "V W": 100,
+    "VI M": 70,
+    "VI W": 70
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "I M": 448,
+    "I/II M": 448,
+    "II M": 393,
+    "II W": 393,
+    "II/III M": 354,
+    "II/III W": 354,
+    "III M": 354,
+    "III W": 354,
+    "IV M": 327,
+    "IV W": 327,
+    "V M": 286,
+    "V W": 286,
+    "VI M": 230,
+    "VI W": 230
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "I M": 387,
+    "I/II M": 346,
+    "II M": 346,
+    "II W": 346,
+    "II/III M": 346,
+    "II/III W": 346,
+    "III M": 302,
+    "III W": 302,
+    "IV M": 275,
+    "IV W": 275,
+    "V M": 229,
+    "V W": 229,
+    "VI M": 190,
+    "VI W": 190
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "I M": 315,
+    "I/II M": 315,
+    "II M": 299,
+    "II W": 299,
+    "II/III M": 299,
+    "II/III W": 299,
+    "III M": 272,
+    "III W": 272,
+    "IV M": 245,
+    "IV W": 245,
+    "V M": 200,
+    "V W": 200,
+    "VI M": 150,
+    "VI W": 150
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "I M": 330,
+    "I/II M": 330,
+    "II M": 305,
+    "II W": 305,
+    "II/III M": 305,
+    "II/III W": 305,
+    "III M": 278,
+    "III W": 278,
+    "IV M": 251,
+    "IV W": 251,
+    "V M": 234,
+    "V W": 234,
+    "VI M": 170,
+    "VI W": 170
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "I M": 151,
+    "I/II M": 151,
+    "II M": 133,
+    "II W": 133,
+    "II/III M": 133,
+    "II/III W": 133,
+    "III M": 108,
+    "III W": 108,
+    "IV M": 85,
+    "IV W": 85,
+    "V M": 71,
+    "V W": 71,
+    "VI M": 40,
+    "VI W": 40
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "I M": 545,
+    "I/II M": 495,
+    "II M": 495,
+    "II W": 495,
+    "II/III M": 465,
+    "II/III W": 465,
+    "III M": 465,
+    "III W": 465,
+    "IV M": 424,
+    "IV W": 424,
+    "V M": 396,
+    "V W": 396,
+    "VI M": 310,
+    "VI W": 310
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "I M": 231,
+    "I/II M": 185,
+    "II M": 185,
+    "II W": 185,
+    "II/III M": 158,
+    "II/III W": 158,
+    "III M": 158,
+    "III W": 158,
+    "IV M": 131,
+    "IV W": 131,
+    "V M": 110,
+    "V W": 110,
+    "VI M": 50,
+    "VI W": 50
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "I M": 382,
+    "I/II M": 382,
+    "II M": 352,
+    "II W": 352,
+    "II/III M": 325,
+    "II/III W": 325,
+    "III M": 325,
+    "III W": 325,
+    "IV M": 298,
+    "IV W": 298,
+    "V M": 252,
+    "V W": 252,
+    "VI M": 160,
+    "VI W": 160
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "I M": 403,
+    "I/II M": 403,
+    "II M": 358,
+    "II W": 358,
+    "II/III M": 358,
+    "II/III W": 358,
+    "III M": 315,
+    "III W": 315,
+    "IV M": 288,
+    "IV W": 288,
+    "V M": 264,
+    "V W": 264,
+    "VI M": 200,
+    "VI W": 200
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "I M": 614,
+    "I/II M": 554,
+    "II M": 554,
+    "II W": 554,
+    "II/III M": 509,
+    "II/III W": 509,
+    "III M": 509,
+    "III W": 509,
+    "IV M": 462,
+    "IV W": 462,
+    "V M": 425,
+    "V W": 425,
+    "VI M": 320,
+    "VI W": 320
+   }
+  }
+ ],
+ "id": "5aa7d9ad-02bd-4bc1-841b-393538bd2241",
+ "lat": 27.0093498,
+ "lng": -82.3206364,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-m-male",
+   "tee_name": "I M",
+   "yardage": 6968
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-ii-m-male",
+   "tee_name": "I/II M",
+   "yardage": 6542
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-w-female",
+   "tee_name": "II W",
+   "yardage": 6277
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-m-male",
+   "tee_name": "II M",
+   "yardage": 6277
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-iii-w-female",
+   "tee_name": "II/III W",
+   "yardage": 5955
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-iii-m-male",
+   "tee_name": "II/III M",
+   "yardage": 5955
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-w-female",
+   "tee_name": "III W",
+   "yardage": 5592
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-m-male",
+   "tee_name": "III M",
+   "yardage": 5592
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-w-female",
+   "tee_name": "IV W",
+   "yardage": 4993
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-m-male",
+   "tee_name": "IV M",
+   "yardage": 4993
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-w-female",
+   "tee_name": "V W",
+   "yardage": 4389
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-m-male",
+   "tee_name": "V M",
+   "yardage": 4389
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-m-male",
+   "tee_name": "VI M",
+   "yardage": 3320
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-w-female",
+   "tee_name": "VI W",
+   "yardage": 3320
+  }
+ ]
+}

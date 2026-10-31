@@ -1,0 +1,245 @@
+{
+ "city": "Port Charlotte",
+ "club_name": "The Cove Of Rotonda Golf Center",
+ "course_name": "The Cove Of Rotonda Golf Center",
+ "dataset_name": "The Cove Of Rotonda Golf Center",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 299,
+    "Combo": 299,
+    "Green": 230,
+    "White": 263
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Blue": 161,
+    "Combo": 161,
+    "Green": 115,
+    "White": 150
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 122,
+    "Combo": 96,
+    "Green": 71,
+    "White": 96
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 265,
+    "Combo": 232,
+    "Green": 195,
+    "White": 232
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 173,
+    "Combo": 173,
+    "Green": 100,
+    "White": 111
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 217,
+    "Combo": 178,
+    "Green": 146,
+    "White": 178
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 177,
+    "Combo": 177,
+    "Green": 124,
+    "White": 149
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 160,
+    "Combo": 127,
+    "Green": 108,
+    "White": 127
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 362,
+    "Combo": 362,
+    "Green": 250,
+    "White": 326
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 272,
+    "Combo": 229,
+    "Green": 187,
+    "White": 229
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 193,
+    "Combo": 173,
+    "Green": 153,
+    "White": 173
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 152,
+    "Combo": 152,
+    "Green": 127,
+    "White": 137
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 108,
+    "Combo": 108,
+    "Green": 61,
+    "White": 92
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 140,
+    "Combo": 120,
+    "Green": 100,
+    "White": 120
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 179,
+    "Combo": 179,
+    "Green": 148,
+    "White": 164
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 303,
+    "Combo": 303,
+    "Green": 239,
+    "White": 286
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 163,
+    "Combo": 146,
+    "Green": 129,
+    "White": 146
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "Blue": 154,
+    "Combo": 154,
+    "Green": 123,
+    "White": 140
+   }
+  }
+ ],
+ "id": "7238b3ae-9e3a-4a46-bca7-fa72957029db",
+ "lat": 26.931048,
+ "lng": -82.242316,
+ "par": 59,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 59,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3600
+  },
+  {
+   "gender": "Male",
+   "par": 59,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 3369
+  },
+  {
+   "gender": "Male",
+   "par": 59,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3119
+  },
+  {
+   "gender": "Male",
+   "par": 59,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 2606
+  }
+ ]
+}

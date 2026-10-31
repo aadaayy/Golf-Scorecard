@@ -1,0 +1,279 @@
+{
+ "city": "Pembroke Pines",
+ "club_name": "Pembroke Lakes Golf Racquet Club",
+ "course_name": "Pembroke Lakes Golf Racquet Club",
+ "dataset_name": "Pembroke Lakes Golf Racquet Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back/blue": 362,
+    "championship/gold": 374,
+    "forward/green": 321,
+    "front/red": 286,
+    "middle/white": 339
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "back/blue": 360,
+    "championship/gold": 373,
+    "forward/green": 323,
+    "front/red": 284,
+    "middle/white": 339
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "back/blue": 523,
+    "championship/gold": 557,
+    "forward/green": 463,
+    "front/red": 428,
+    "middle/white": 495
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "back/blue": 170,
+    "championship/gold": 185,
+    "forward/green": 125,
+    "front/red": 110,
+    "middle/white": 145
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "back/blue": 383,
+    "championship/gold": 401,
+    "forward/green": 342,
+    "front/red": 315,
+    "middle/white": 366
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "back/blue": 505,
+    "championship/gold": 530,
+    "forward/green": 459,
+    "front/red": 440,
+    "middle/white": 481
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "back/blue": 135,
+    "championship/gold": 154,
+    "forward/green": 110,
+    "front/red": 95,
+    "middle/white": 122
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "back/blue": 355,
+    "championship/gold": 370,
+    "forward/green": 330,
+    "front/red": 289,
+    "middle/white": 342
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back/blue": 374,
+    "championship/gold": 400,
+    "forward/green": 332,
+    "front/red": 320,
+    "middle/white": 364
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "back/blue": 507,
+    "championship/gold": 515,
+    "forward/green": 467,
+    "front/red": 429,
+    "middle/white": 484
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "back/blue": 366,
+    "championship/gold": 377,
+    "forward/green": 326,
+    "front/red": 287,
+    "middle/white": 333
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "back/blue": 357,
+    "championship/gold": 370,
+    "forward/green": 293,
+    "front/red": 256,
+    "middle/white": 333
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "back/blue": 197,
+    "championship/gold": 220,
+    "forward/green": 154,
+    "front/red": 140,
+    "middle/white": 183
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "back/blue": 500,
+    "championship/gold": 528,
+    "forward/green": 461,
+    "front/red": 422,
+    "middle/white": 487
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "back/blue": 193,
+    "championship/gold": 203,
+    "forward/green": 136,
+    "front/red": 125,
+    "middle/white": 147
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "back/blue": 385,
+    "championship/gold": 424,
+    "forward/green": 344,
+    "front/red": 313,
+    "middle/white": 370
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "back/blue": 416,
+    "championship/gold": 431,
+    "forward/green": 379,
+    "front/red": 351,
+    "middle/white": 394
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back/blue": 389,
+    "championship/gold": 403,
+    "forward/green": 302,
+    "front/red": 270,
+    "middle/white": 352
+   }
+  }
+ ],
+ "id": "96bdefcb-cfb5-4719-b6f4-d86c38eef224",
+ "lat": 26.0193371,
+ "lng": -80.2867942,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "championship-gold-male",
+   "tee_name": "Championship/Gold",
+   "yardage": 6815
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "back-blue-male",
+   "tee_name": "Back/Blue",
+   "yardage": 6477
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "middle-white-male",
+   "tee_name": "Middle/White",
+   "yardage": 6076
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "forward-green-male",
+   "tee_name": "Forward/Green",
+   "yardage": 5667
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "forward-green-female",
+   "tee_name": "Forward/Green",
+   "yardage": 5667
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "front-red-female",
+   "tee_name": "Front/Red",
+   "yardage": 5160
+  }
+ ]
+}

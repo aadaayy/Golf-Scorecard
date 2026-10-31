@@ -1,0 +1,355 @@
+{
+ "city": "Venice",
+ "club_name": "Sarasota National Golf Club",
+ "course_name": "Sarasota National Golf Club",
+ "dataset_name": "Sarasota National Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 360,
+    "Gold": 337,
+    "Gold/Silver": 337,
+    "Jade": 252,
+    "Jade/Red": 252,
+    "Silver": 295,
+    "Silver/Jade": 295
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 418,
+    "Gold": 384,
+    "Gold/Silver": 384,
+    "Jade": 301,
+    "Jade/Red": 301,
+    "Silver": 354,
+    "Silver/Jade": 301
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 337,
+    "Gold": 319,
+    "Gold/Silver": 319,
+    "Jade": 236,
+    "Jade/Red": 236,
+    "Silver": 278,
+    "Silver/Jade": 278
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 238,
+    "Gold": 201,
+    "Gold/Silver": 172,
+    "Jade": 133,
+    "Jade/Red": 133,
+    "Silver": 172,
+    "Silver/Jade": 133
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 646,
+    "Gold": 555,
+    "Gold/Silver": 522,
+    "Jade": 449,
+    "Jade/Red": 365,
+    "Silver": 522,
+    "Silver/Jade": 449
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 414,
+    "Gold": 367,
+    "Gold/Silver": 367,
+    "Jade": 295,
+    "Jade/Red": 295,
+    "Silver": 338,
+    "Silver/Jade": 338
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Black": 574,
+    "Gold": 526,
+    "Gold/Silver": 491,
+    "Jade": 431,
+    "Jade/Red": 290,
+    "Silver": 491,
+    "Silver/Jade": 431
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 224,
+    "Gold": 193,
+    "Gold/Silver": 160,
+    "Jade": 137,
+    "Jade/Red": 108,
+    "Silver": 160,
+    "Silver/Jade": 160
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 428,
+    "Gold": 398,
+    "Gold/Silver": 398,
+    "Jade": 307,
+    "Jade/Red": 220,
+    "Silver": 371,
+    "Silver/Jade": 371
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 458,
+    "Gold": 415,
+    "Gold/Silver": 382,
+    "Jade": 303,
+    "Jade/Red": 303,
+    "Silver": 382,
+    "Silver/Jade": 303
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 477,
+    "Gold": 440,
+    "Gold/Silver": 406,
+    "Jade": 390,
+    "Jade/Red": 238,
+    "Silver": 406,
+    "Silver/Jade": 390
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 543,
+    "Gold": 499,
+    "Gold/Silver": 499,
+    "Jade": 433,
+    "Jade/Red": 335,
+    "Silver": 467,
+    "Silver/Jade": 467
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 384,
+    "Gold": 333,
+    "Gold/Silver": 333,
+    "Jade": 256,
+    "Jade/Red": 256,
+    "Silver": 296,
+    "Silver/Jade": 296
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 601,
+    "Gold": 539,
+    "Gold/Silver": 501,
+    "Jade": 454,
+    "Jade/Red": 398,
+    "Silver": 501,
+    "Silver/Jade": 454
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 183,
+    "Gold": 146,
+    "Gold/Silver": 146,
+    "Jade": 100,
+    "Jade/Red": 100,
+    "Silver": 131,
+    "Silver/Jade": 131
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 443,
+    "Gold": 408,
+    "Gold/Silver": 395,
+    "Jade": 297,
+    "Jade/Red": 297,
+    "Silver": 395,
+    "Silver/Jade": 297
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 200,
+    "Gold": 171,
+    "Gold/Silver": 161,
+    "Jade": 118,
+    "Jade/Red": 118,
+    "Silver": 161,
+    "Silver/Jade": 161
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 374,
+    "Gold": 318,
+    "Gold/Silver": 318,
+    "Jade": 246,
+    "Jade/Red": 246,
+    "Silver": 299,
+    "Silver/Jade": 299
+   }
+  }
+ ],
+ "id": "f2250ca9-b1d0-4e21-9e6f-90af5038d18f",
+ "lat": 27.0330146,
+ "lng": -82.3615308,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7302
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6549
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-silver-male",
+   "tee_name": "Gold/Silver",
+   "yardage": 6291
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6019
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 6019
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-jade-male",
+   "tee_name": "Silver/Jade",
+   "yardage": 5554
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-jade-female",
+   "tee_name": "Silver/Jade",
+   "yardage": 5554
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-female",
+   "tee_name": "Jade",
+   "yardage": 5138
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-male",
+   "tee_name": "Jade",
+   "yardage": 5138
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-red-female",
+   "tee_name": "Jade/Red",
+   "yardage": 4491
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jade-red-male",
+   "tee_name": "Jade/Red",
+   "yardage": 4491
+  }
+ ]
+}

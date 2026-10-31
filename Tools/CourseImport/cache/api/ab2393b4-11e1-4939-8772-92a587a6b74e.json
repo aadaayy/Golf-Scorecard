@@ -1,0 +1,85 @@
+{
+ "city": "Bonita Springs",
+ "club_name": "Saltleaf Golf Preserve The Leaf",
+ "course_name": "Saltleaf Golf Preserve The Leaf",
+ "dataset_name": "Saltleaf Golf Preserve The Leaf",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 2,
+   "number": 1,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "ab2393b4-11e1-4939-8772-92a587a6b74e",
+ "lat": 26.4063305,
+ "lng": -81.8358693,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 1010
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "front-male",
+   "tee_name": "Front",
+   "yardage": 760
+  }
+ ]
+}

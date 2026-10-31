@@ -1,0 +1,279 @@
+{
+ "city": "Sarasota",
+ "club_name": "Misty Creek Country Club",
+ "course_name": "Misty Creek Country Club",
+ "dataset_name": "Misty Creek Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 470,
+    "gold": 485,
+    "green": 355,
+    "red": 415,
+    "white": 445
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 342,
+    "gold": 384,
+    "green": 256,
+    "red": 291,
+    "white": 324
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 366,
+    "gold": 401,
+    "green": 249,
+    "red": 279,
+    "white": 356
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 144,
+    "gold": 165,
+    "green": 101,
+    "red": 101,
+    "white": 124
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 419,
+    "gold": 452,
+    "green": 307,
+    "red": 337,
+    "white": 393
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 328,
+    "gold": 355,
+    "green": 238,
+    "red": 283,
+    "white": 318
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 192,
+    "gold": 221,
+    "green": 129,
+    "red": 129,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 566,
+    "gold": 605,
+    "green": 388,
+    "red": 433,
+    "white": 521
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 432,
+    "green": 232,
+    "red": 317,
+    "white": 378
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 373,
+    "gold": 404,
+    "green": 296,
+    "red": 326,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 476,
+    "gold": 500,
+    "green": 394,
+    "red": 424,
+    "white": 456
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 143,
+    "gold": 167,
+    "green": 102,
+    "red": 102,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 391,
+    "gold": 417,
+    "green": 245,
+    "red": 298,
+    "white": 374
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 358,
+    "gold": 382,
+    "green": 237,
+    "red": 267,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 483,
+    "gold": 512,
+    "green": 400,
+    "red": 420,
+    "white": 471
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 369,
+    "gold": 398,
+    "green": 277,
+    "red": 302,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 193,
+    "gold": 211,
+    "green": 109,
+    "red": 139,
+    "white": 174
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 379,
+    "gold": 404,
+    "green": 280,
+    "red": 315,
+    "white": 350
+   }
+  }
+ ],
+ "id": "99611234-5298-4614-b597-4d0fd4302f5c",
+ "lat": 27.2726512,
+ "lng": -82.400689,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6895
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6384
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6007
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5375
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5208
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5208
+  }
+ ]
+}

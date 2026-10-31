@@ -1,0 +1,167 @@
+{
+ "city": "Bonita Springs",
+ "club_name": "Spring Run Golf Club",
+ "course_name": "Spring Run Golf Club",
+ "dataset_name": "Spring Run Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "web": 347
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "web": 546
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "web": 480
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "web": 240
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "web": 379
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "web": 148
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "web": 539
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "web": 443
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "web": 411
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "web": 516
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "web": 346
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "web": 600
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "web": 389
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "web": 248
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "web": 374
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "web": 342
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "web": 222
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "web": 419
+   }
+  }
+ ],
+ "id": "7db26af5-5d7a-43e5-a6d1-3a50ff7ecbef",
+ "lat": 26.395648,
+ "lng": -81.796589,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7052
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "city": "Punta Gorda",
+ "club_name": "Blue Heron Pines",
+ "course_name": "Blue Heron Pines",
+ "dataset_name": "Blue Heron Pines",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "blue": 90,
+    "red": 83
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 200,
+    "red": 189
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 255,
+    "red": 227
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 96,
+    "red": 88
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 106,
+    "red": 97
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 88,
+    "red": 63
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 88,
+    "red": 82
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 98,
+    "red": 84
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 201,
+    "red": 190
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 272,
+    "red": 237
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "red": 110
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "red": 104
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 231,
+    "red": 210
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "red": 119
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 145,
+    "red": 73
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 93,
+    "red": 87
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 125,
+    "red": 117
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 289,
+    "red": 228
+   }
+  }
+ ],
+ "id": "baad3732-8db0-401f-9724-bc1da856b1d8",
+ "lat": 26.886478,
+ "lng": -81.995114,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3180
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2876
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 2392
+  }
+ ]
+}

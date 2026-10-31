@@ -1,0 +1,190 @@
+{
+ "city": "Palm Beach Gardens",
+ "club_name": "Panther National Short Course Panther9",
+ "course_name": "Panther National Short Course Panther9",
+ "dataset_name": "Panther National Short Course Panther9",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "i": 118,
+    "ii": 118
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "i": 108,
+    "ii": 108
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "i": 104,
+    "ii": 104
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "i": 132,
+    "ii": 132
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "i": 122,
+    "ii": 122
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "i": 119,
+    "ii": 119
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "i": 128,
+    "ii": 128
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "i": 125,
+    "ii": 125
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "i": 142,
+    "ii": 142
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "d37ed3f8-c8ef-4a8b-934d-7c7a4a1df063",
+ "lat": 26.8283976,
+ "lng": -80.2581005,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": null
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "jt-tees-male",
+   "tee_name": "JT Tees",
+   "yardage": 1507
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "i-female",
+   "tee_name": "I",
+   "yardage": 1094
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 1094
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 1094
+  }
+ ]
+}

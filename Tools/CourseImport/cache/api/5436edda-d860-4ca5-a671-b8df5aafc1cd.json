@@ -1,0 +1,253 @@
+{
+ "city": "Bradenton",
+ "club_name": "Bradenton Country Club",
+ "course_name": "Bradenton Country Club",
+ "dataset_name": "Bradenton Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 280,
+    "gold": 386,
+    "green": 355,
+    "white": 371
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 129,
+    "gold": 181,
+    "green": 154,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 297,
+    "gold": 375,
+    "green": 326,
+    "white": 349
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 286,
+    "gold": 420,
+    "green": 332,
+    "white": 390
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 330,
+    "gold": 431,
+    "green": 373,
+    "white": 404
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 122,
+    "gold": 192,
+    "green": 151,
+    "white": 173
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 277,
+    "gold": 420,
+    "green": 340,
+    "white": 398
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 378,
+    "gold": 492,
+    "green": 414,
+    "white": 469
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 306,
+    "gold": 404,
+    "green": 333,
+    "white": 373
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 280,
+    "gold": 378,
+    "green": 322,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 271,
+    "gold": 380,
+    "green": 293,
+    "white": 356
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 273,
+    "gold": 416,
+    "green": 337,
+    "white": 392
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 286,
+    "gold": 408,
+    "green": 339,
+    "white": 389
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 279,
+    "gold": 390,
+    "green": 319,
+    "white": 369
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 359,
+    "gold": 511,
+    "green": 440,
+    "white": 484
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 100,
+    "gold": 174,
+    "green": 104,
+    "white": 159
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blue": 382,
+    "gold": 535,
+    "green": 438,
+    "white": 517
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "blue": 146,
+    "gold": 215,
+    "green": 161,
+    "white": 188
+   }
+  }
+ ],
+ "id": "5436edda-d860-4ca5-a671-b8df5aafc1cd",
+ "lat": 27.4921933,
+ "lng": -82.6083322,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6739
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6260
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5490
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5490
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 4796
+  }
+ ]
+}

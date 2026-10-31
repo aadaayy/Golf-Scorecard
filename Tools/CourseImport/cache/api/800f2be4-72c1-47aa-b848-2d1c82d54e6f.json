@@ -1,0 +1,303 @@
+{
+ "city": "Bonita Springs",
+ "club_name": "South Course At Shadow Wood Country Club",
+ "course_name": "South Course At Shadow Wood Country Club",
+ "dataset_name": "South Course At Shadow Wood Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "I": 415,
+    "II": 387,
+    "III": 378,
+    "IV": 341,
+    "IX": 222,
+    "V": 341,
+    "VI": 341,
+    "VII": 289,
+    "VIII": 222,
+    "X": 222
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "I": 379,
+    "II": 348,
+    "III": 341,
+    "IV": 341,
+    "IX": 227,
+    "V": 311,
+    "VI": 272,
+    "VII": 272,
+    "VIII": 272,
+    "X": 183
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "I": 236,
+    "II": 209,
+    "III": 192,
+    "IV": 175,
+    "IX": 125,
+    "V": 175,
+    "VI": 135,
+    "VII": 135,
+    "VIII": 125,
+    "X": 101
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "I": 563,
+    "II": 519,
+    "III": 509,
+    "IV": 444,
+    "IX": 346,
+    "V": 444,
+    "VI": 428,
+    "VII": 428,
+    "VIII": 428,
+    "X": 265
+   }
+  }
+ ],
+ "id": "800f2be4-72c1-47aa-b848-2d1c82d54e6f",
+ "lat": 26.4088347,
+ "lng": -81.7903403,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 7211
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6576
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6242
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-w-female",
+   "tee_name": "IV (W)",
+   "yardage": 5913
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5913
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-w-female",
+   "tee_name": "V (W)",
+   "yardage": 5667
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5667
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 5388
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-w-female",
+   "tee_name": "VI (W)",
+   "yardage": 5388
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vii-w-female",
+   "tee_name": "VII (W)",
+   "yardage": 5138
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vii-male",
+   "tee_name": "VII",
+   "yardage": 5138
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "viii-w-female",
+   "tee_name": "VIII (W)",
+   "yardage": 4582
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "viii-male",
+   "tee_name": "VIII",
+   "yardage": 4582
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ix-male",
+   "tee_name": "IX",
+   "yardage": 4106
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ix-w-female",
+   "tee_name": "IX (W)",
+   "yardage": 4106
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "x-male",
+   "tee_name": "X",
+   "yardage": 3500
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "x-w-female",
+   "tee_name": "X (W)",
+   "yardage": 3500
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "city": "Miami Beach",
+ "club_name": "La Gorce Country Club",
+ "course_name": "La Gorce Country Club",
+ "dataset_name": "La Gorce Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 358,
+    "blue/white": 358,
+    "coconuts": 387,
+    "gold": 342,
+    "red": 309,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 435,
+    "blue/white": 407,
+    "coconuts": 458,
+    "gold": 358,
+    "red": 341,
+    "white": 407
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "blue": 518,
+    "blue/white": 518,
+    "coconuts": 528,
+    "gold": 485,
+    "red": 454,
+    "white": 500
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 351,
+    "blue/white": 351,
+    "coconuts": 373,
+    "gold": 296,
+    "red": 247,
+    "white": 334
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 368,
+    "blue/white": 368,
+    "coconuts": 379,
+    "gold": 303,
+    "red": 281,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 202,
+    "blue/white": 176,
+    "coconuts": 245,
+    "gold": 157,
+    "red": 124,
+    "white": 176
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 407,
+    "blue/white": 383,
+    "coconuts": 433,
+    "gold": 368,
+    "red": 309,
+    "white": 383
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 176,
+    "blue/white": 176,
+    "coconuts": 203,
+    "gold": 130,
+    "red": 110,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 349,
+    "blue/white": 349,
+    "coconuts": 365,
+    "gold": 313,
+    "red": 278,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 371,
+    "blue/white": 371,
+    "coconuts": 400,
+    "gold": 340,
+    "red": 328,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 535,
+    "blue/white": 514,
+    "coconuts": 614,
+    "gold": 502,
+    "red": 457,
+    "white": 514
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 350,
+    "blue/white": 350,
+    "coconuts": 366,
+    "gold": 317,
+    "red": 280,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 140,
+    "blue/white": 140,
+    "coconuts": 161,
+    "gold": 116,
+    "red": 104,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 393,
+    "blue/white": 373,
+    "coconuts": 418,
+    "gold": 353,
+    "red": 325,
+    "white": 373
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 503,
+    "blue/white": 503,
+    "coconuts": 524,
+    "gold": 470,
+    "red": 431,
+    "white": 487
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 166,
+    "blue/white": 166,
+    "coconuts": 185,
+    "gold": 137,
+    "red": 122,
+    "white": 146
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 413,
+    "blue/white": 386,
+    "coconuts": 463,
+    "gold": 350,
+    "red": 313,
+    "white": 386
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 455,
+    "blue/white": 455,
+    "coconuts": 469,
+    "gold": 397,
+    "red": 367,
+    "white": 433
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "d826cb73-e939-4e4d-a935-b4c6de384bd2",
+ "lat": 25.8367662,
+ "lng": -80.1294906,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "coconuts-male",
+   "tee_name": "Coconuts",
+   "yardage": 7005
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6502
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6306
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6121
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6121
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5760
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5760
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5140
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5140
+  }
+ ]
+}

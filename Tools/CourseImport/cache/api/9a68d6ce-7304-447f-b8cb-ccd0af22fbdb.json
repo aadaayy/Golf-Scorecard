@@ -1,0 +1,415 @@
+{
+ "city": "Naples",
+ "club_name": "The Rookery At Marco",
+ "course_name": "The Rookery At Marco",
+ "dataset_name": "The Rookery At Marco",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 414,
+    "Blue": 389,
+    "Green": 293,
+    "Member": 334,
+    "Purple": 284,
+    "Red": 284,
+    "Senior": 293,
+    "White": 361,
+    "Yellow": 334
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 363,
+    "Blue": 342,
+    "Green": 289,
+    "Member": 321,
+    "Purple": 255,
+    "Red": 255,
+    "Senior": 294,
+    "White": 321,
+    "Yellow": 294
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 166,
+    "Blue": 150,
+    "Green": 127,
+    "Member": 134,
+    "Purple": 114,
+    "Red": 114,
+    "Senior": 127,
+    "White": 134,
+    "Yellow": 127
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 562,
+    "Blue": 523,
+    "Green": 433,
+    "Member": 482,
+    "Purple": 384,
+    "Red": 426,
+    "Senior": 482,
+    "White": 508,
+    "Yellow": 482
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 452,
+    "Blue": 418,
+    "Green": 320,
+    "Member": 374,
+    "Purple": 315,
+    "Red": 315,
+    "Senior": 320,
+    "White": 397,
+    "Yellow": 374
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 405,
+    "Blue": 384,
+    "Green": 307,
+    "Member": 363,
+    "Purple": 277,
+    "Red": 277,
+    "Senior": 351,
+    "White": 363,
+    "Yellow": 351
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 415,
+    "Blue": 396,
+    "Green": 295,
+    "Member": 374,
+    "Purple": 288,
+    "Red": 288,
+    "Senior": 341,
+    "White": 374,
+    "Yellow": 341
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 209,
+    "Blue": 188,
+    "Green": 152,
+    "Member": 170,
+    "Purple": 128,
+    "Red": 130,
+    "Senior": 152,
+    "White": 170,
+    "Yellow": 152
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 542,
+    "Blue": 523,
+    "Green": 413,
+    "Member": 500,
+    "Purple": 368,
+    "Red": 408,
+    "Senior": 478,
+    "White": 500,
+    "Yellow": 478
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 437,
+    "Blue": 410,
+    "Green": 312,
+    "Member": 356,
+    "Purple": 303,
+    "Red": 303,
+    "Senior": 356,
+    "White": 386,
+    "Yellow": 356
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Black": 587,
+    "Blue": 561,
+    "Green": 486,
+    "Member": 537,
+    "Purple": 393,
+    "Red": 393,
+    "Senior": 494,
+    "White": 537,
+    "Yellow": 494
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 414,
+    "Blue": 396,
+    "Green": 278,
+    "Member": 364,
+    "Purple": 271,
+    "Red": 271,
+    "Senior": 364,
+    "White": 379,
+    "Yellow": 364
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 459,
+    "Blue": 436,
+    "Green": 380,
+    "Member": 389,
+    "Purple": 297,
+    "Red": 329,
+    "Senior": 380,
+    "White": 417,
+    "Yellow": 389
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 217,
+    "Blue": 197,
+    "Green": 135,
+    "Member": 168,
+    "Purple": 130,
+    "Red": 130,
+    "Senior": 140,
+    "White": 168,
+    "Yellow": 140
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 521,
+    "Blue": 495,
+    "Green": 417,
+    "Member": 483,
+    "Purple": 362,
+    "Red": 409,
+    "Senior": 464,
+    "White": 483,
+    "Yellow": 464
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 169,
+    "Blue": 158,
+    "Green": 127,
+    "Member": 146,
+    "Purple": 112,
+    "Red": 112,
+    "Senior": 142,
+    "White": 146,
+    "Yellow": 142
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 393,
+    "Blue": 371,
+    "Green": 311,
+    "Member": 347,
+    "Purple": 262,
+    "Red": 262,
+    "Senior": 319,
+    "White": 347,
+    "Yellow": 319
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 445,
+    "Blue": 412,
+    "Green": 309,
+    "Member": 364,
+    "Purple": 278,
+    "Red": 278,
+    "Senior": 309,
+    "White": 364,
+    "Yellow": 309
+   }
+  }
+ ],
+ "id": "9a68d6ce-7304-447f-b8cb-ccd0af22fbdb",
+ "lat": 26.0235355,
+ "lng": -81.6772664,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7170
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6749
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6355
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6206
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 5910
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 5910
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "senior-female",
+   "tee_name": "Senior",
+   "yardage": 5806
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "senior-male",
+   "tee_name": "Senior",
+   "yardage": 5806
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5384
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5384
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4984
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4984
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "purple-female",
+   "tee_name": "Purple",
+   "yardage": 4821
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "purple-male",
+   "tee_name": "Purple",
+   "yardage": 4821
+  }
+ ]
+}

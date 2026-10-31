@@ -1,0 +1,194 @@
+{
+ "city": "Delray Beach",
+ "club_name": "Addison Reserve Country Club Redemption Golf Course",
+ "course_name": "Addison Reserve Country Club Redemption Golf Course",
+ "dataset_name": "Addison Reserve Country Club Redemption Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back": 363,
+    "forward": 312,
+    "front": 261,
+    "midle": 328
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "back": 385,
+    "forward": 306,
+    "front": 270,
+    "midle": 331
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "back": 506,
+    "forward": 442,
+    "front": 417,
+    "midle": 479
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "back": 179,
+    "forward": 116,
+    "front": 110,
+    "midle": 144
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "back": 389,
+    "forward": 316,
+    "front": 268,
+    "midle": 347
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "back": 476,
+    "forward": 432,
+    "front": 359,
+    "midle": 460
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "back": 417,
+    "forward": 338,
+    "front": 311,
+    "midle": 378
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back": 222,
+    "forward": 166,
+    "front": 129,
+    "midle": 187
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back": 333,
+    "forward": 273,
+    "front": 244,
+    "midle": 300
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "909a4bc4-20e0-4c1d-a180-87a4ce16a77a",
+ "lat": 26.4363313,
+ "lng": -80.1571298,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 3230
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "midle-male",
+   "tee_name": "Midle",
+   "yardage": 2918
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 2672
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "front-male",
+   "tee_name": "Front",
+   "yardage": 2384
+  }
+ ]
+}

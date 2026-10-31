@@ -1,0 +1,303 @@
+{
+ "city": "Miami",
+ "club_name": "Trump National Doral Miami Red Tiger Course",
+ "course_name": "Trump National Doral Miami Red Tiger Course",
+ "dataset_name": "Trump National Doral Miami Red Tiger Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 608,
+    "Blue": 535,
+    "Gold": 551,
+    "Red": 473,
+    "White": 511
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 231,
+    "Blue": 190,
+    "Gold": 201,
+    "Red": 150,
+    "White": 160
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Black": 487,
+    "Blue": 468,
+    "Gold": 474,
+    "Red": 375,
+    "White": 422
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 296,
+    "Blue": 271,
+    "Gold": 283,
+    "Red": 210,
+    "White": 244
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 487,
+    "Blue": 425,
+    "Gold": 437,
+    "Red": 341,
+    "White": 389
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 207,
+    "Blue": 155,
+    "Gold": 166,
+    "Red": 114,
+    "White": 121
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 370,
+    "Blue": 346,
+    "Gold": 358,
+    "Red": 282,
+    "White": 334
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 151,
+    "Blue": 128,
+    "Gold": 144,
+    "Red": 112,
+    "White": 120
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 401,
+    "Blue": 360,
+    "Gold": 377,
+    "Red": 271,
+    "White": 335
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Black": 535,
+    "Blue": 468,
+    "Gold": 474,
+    "Red": 386,
+    "White": 393
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 185,
+    "Blue": 159,
+    "Gold": 178,
+    "Red": 86,
+    "White": 140
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 485,
+    "Blue": 434,
+    "Gold": 449,
+    "Red": 353,
+    "White": 420
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 359,
+    "Blue": 321,
+    "Gold": 348,
+    "Red": 268,
+    "White": 293
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 173,
+    "Blue": 141,
+    "Gold": 165,
+    "Red": 92,
+    "White": 129
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 394,
+    "Blue": 354,
+    "Gold": 364,
+    "Red": 251,
+    "White": 344
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 199,
+    "Blue": 170,
+    "Gold": 181,
+    "Red": 117,
+    "White": 160
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 301,
+    "Blue": 268,
+    "Gold": 279,
+    "Red": 217,
+    "White": 257
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 526,
+    "Blue": 467,
+    "Gold": 489,
+    "Red": 427,
+    "White": 457
+   }
+  }
+ ],
+ "id": "a31163ef-138e-42f9-a009-425e9ca87014",
+ "lat": 25.8129673,
+ "lng": -80.3387175,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6395
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5918
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5918
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5660
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5660
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5229
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5229
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4525
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4525
+  }
+ ]
+}

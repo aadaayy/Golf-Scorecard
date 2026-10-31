@@ -1,0 +1,345 @@
+{
+ "city": "Punta Gorda",
+ "club_name": "St Andrews South Golf Club",
+ "course_name": "St Andrews South Golf Club",
+ "dataset_name": "St Andrews South Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Blue": 378,
+    "Gold": 338,
+    "Green": 333,
+    "Red": 324,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 353,
+    "Blue": 339,
+    "Gold": 299,
+    "Green": 257,
+    "Red": 284,
+    "White": 329
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 375,
+    "Blue": 340,
+    "Gold": 282,
+    "Green": 211,
+    "Red": 271,
+    "White": 331
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 458,
+    "Blue": 444,
+    "Gold": 412,
+    "Green": 348,
+    "Red": 400,
+    "White": 437
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 180,
+    "Blue": 160,
+    "Gold": 126,
+    "Green": 119,
+    "Red": 115,
+    "White": 143
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 309,
+    "Blue": 309,
+    "Gold": 265,
+    "Green": 260,
+    "Red": 250,
+    "White": 288
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 172,
+    "Blue": 168,
+    "Gold": 125,
+    "Green": 120,
+    "Red": 117,
+    "White": 146
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 344,
+    "Blue": 340,
+    "Gold": 300,
+    "Green": 234,
+    "Red": 287,
+    "White": 327
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 385,
+    "Blue": 346,
+    "Gold": 285,
+    "Green": 215,
+    "Red": 270,
+    "White": 319
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Black": 467,
+    "Blue": 465,
+    "Gold": 442,
+    "Green": 385,
+    "Red": 428,
+    "White": 456
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 214,
+    "Blue": 172,
+    "Gold": 120,
+    "Green": 116,
+    "Red": 115,
+    "White": 159
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 375,
+    "Blue": 333,
+    "Gold": 286,
+    "Green": 206,
+    "Red": 272,
+    "White": 320
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 172,
+    "Blue": 170,
+    "Gold": 135,
+    "Green": 129,
+    "Red": 128,
+    "White": 150
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 578,
+    "Blue": 548,
+    "Gold": 510,
+    "Green": 349,
+    "Red": 427,
+    "White": 523
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 325,
+    "Blue": 301,
+    "Gold": 258,
+    "Green": 175,
+    "Red": 237,
+    "White": 293
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 180,
+    "Blue": 164,
+    "Gold": 115,
+    "Green": 111,
+    "Red": 108,
+    "White": 134
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 320,
+    "Blue": 283,
+    "Gold": 267,
+    "Green": 175,
+    "Red": 258,
+    "White": 277
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 518,
+    "Blue": 485,
+    "Gold": 423,
+    "Green": 375,
+    "Red": 420,
+    "White": 443
+   }
+  }
+ ],
+ "id": "d032d1d8-896b-4d24-a28e-81050dc2345a",
+ "lat": 26.9042313,
+ "lng": -82.0724765,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 6103
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6103
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5745
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5745
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5440
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5440
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4988
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4988
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4711
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4711
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4118
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4118
+  }
+ ]
+}

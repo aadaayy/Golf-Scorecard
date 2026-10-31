@@ -1,0 +1,199 @@
+{
+ "city": "Englewood",
+ "club_name": "Red White At Myakka Pines Golf Club",
+ "course_name": "Red White At Myakka Pines Golf Club",
+ "dataset_name": "Red White At Myakka Pines Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "five": 99,
+    "four": 117,
+    "one": 202,
+    "three": 158,
+    "two": 180
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "five": 258,
+    "four": 295,
+    "one": 364,
+    "three": 334,
+    "two": 353
+   }
+  }
+ ],
+ "id": "79d580f4-031d-4f59-a3d9-f74373270cbd",
+ "lat": 26.9930966,
+ "lng": -82.3067221,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "one-male",
+   "tee_name": "One",
+   "yardage": 6454
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "two-male",
+   "tee_name": "Two",
+   "yardage": 6137
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "three-male",
+   "tee_name": "Three",
+   "yardage": 5640
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "three-female",
+   "tee_name": "Three",
+   "yardage": 5640
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "four-male",
+   "tee_name": "Four",
+   "yardage": 5055
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "four-female",
+   "tee_name": "Four",
+   "yardage": 5055
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "five-male",
+   "tee_name": "Five",
+   "yardage": 4395
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "five-female",
+   "tee_name": "Five",
+   "yardage": 4395
+  }
+ ]
+}

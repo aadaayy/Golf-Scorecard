@@ -1,0 +1,287 @@
+{
+ "city": "Bradenton",
+ "club_name": "Img Academy Golf Club",
+ "course_name": "Img Academy Golf Club",
+ "dataset_name": "Img Academy Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 418,
+    "blue": 400,
+    "gold": 370,
+    "red": 336,
+    "white": 392
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 546,
+    "blue": 513,
+    "gold": 486,
+    "red": 447,
+    "white": 501
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 189,
+    "blue": 162,
+    "gold": 138,
+    "red": 110,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 451,
+    "blue": 436,
+    "gold": 379,
+    "red": 354,
+    "white": 407
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 427,
+    "blue": 395,
+    "gold": 336,
+    "red": 314,
+    "white": 366
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 366,
+    "blue": 350,
+    "gold": 310,
+    "red": 284,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 509,
+    "blue": 485,
+    "gold": 427,
+    "red": 404,
+    "white": 456
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 170,
+    "blue": 156,
+    "gold": 126,
+    "red": 116,
+    "white": 137
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 399,
+    "blue": 390,
+    "gold": 295,
+    "red": 276,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 548,
+    "blue": 532,
+    "gold": 469,
+    "red": 441,
+    "white": 503
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "blue": 143,
+    "gold": 112,
+    "red": 96,
+    "white": 131
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 367,
+    "blue": 347,
+    "gold": 312,
+    "red": 297,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 416,
+    "blue": 409,
+    "gold": 320,
+    "red": 253,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 398,
+    "blue": 380,
+    "gold": 336,
+    "red": 315,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 376,
+    "blue": 362,
+    "gold": 328,
+    "red": 268,
+    "white": 343
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "blue": 386,
+    "gold": 345,
+    "red": 308,
+    "white": 362
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 179,
+    "blue": 156,
+    "gold": 106,
+    "red": 79,
+    "white": 129
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 524,
+    "blue": 504,
+    "gold": 421,
+    "red": 393,
+    "white": 469
+   }
+  }
+ ],
+ "id": "cf5cc1e6-339c-43e8-b267-0c89a6ead596",
+ "lat": 27.4275137,
+ "lng": -82.6049919,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6842
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6506
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6117
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 5850
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5670
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5670
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5231
+  }
+ ]
+}

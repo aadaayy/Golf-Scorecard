@@ -1,0 +1,287 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Osprey Point Golf Club Hawk Raven Course",
+ "course_name": "Osprey Point Golf Club Hawk Raven Course",
+ "dataset_name": "Osprey Point Golf Club Hawk Raven Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 527,
+    "blue": 490,
+    "gold": 500,
+    "silver": 398,
+    "white": 419
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 165,
+    "blue": 141,
+    "gold": 156,
+    "silver": 95,
+    "white": 125
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 386,
+    "blue": 338,
+    "gold": 365,
+    "silver": 286,
+    "white": 305
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 437,
+    "blue": 400,
+    "gold": 418,
+    "silver": 325,
+    "white": 370
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 600,
+    "blue": 534,
+    "gold": 578,
+    "silver": 458,
+    "white": 493
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 360,
+    "blue": 312,
+    "gold": 330,
+    "silver": 266,
+    "white": 290
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 222,
+    "blue": 180,
+    "gold": 200,
+    "silver": 126,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "blue": 345,
+    "gold": 369,
+    "silver": 309,
+    "white": 333
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 333,
+    "blue": 290,
+    "gold": 305,
+    "silver": 228,
+    "white": 263
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "blue": 362,
+    "gold": 377,
+    "silver": 296,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 577,
+    "blue": 551,
+    "gold": 565,
+    "silver": 487,
+    "white": 519
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 175,
+    "blue": 142,
+    "gold": 160,
+    "silver": 93,
+    "white": 107
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 405,
+    "blue": 351,
+    "gold": 380,
+    "silver": 295,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 193,
+    "blue": 154,
+    "gold": 166,
+    "silver": 75,
+    "white": 98
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 517,
+    "blue": 474,
+    "gold": 508,
+    "silver": 400,
+    "white": 435
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 300,
+    "blue": 275,
+    "gold": 290,
+    "silver": 210,
+    "white": 243
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 190,
+    "blue": 180,
+    "gold": 185,
+    "silver": 111,
+    "white": 145
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 555,
+    "blue": 520,
+    "gold": 540,
+    "silver": 465,
+    "white": 485
+   }
+  }
+ ],
+ "id": "8d982240-0108-41df-9a06-11bf74ee6aa4",
+ "lat": 26.3674205,
+ "lng": -80.2441355,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6742
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6392
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6039
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5436
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5436
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 4923
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 4923
+  }
+ ]
+}

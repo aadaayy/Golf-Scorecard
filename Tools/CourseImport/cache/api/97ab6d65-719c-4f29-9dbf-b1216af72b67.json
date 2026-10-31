@@ -1,0 +1,215 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Gulf Harbour Golf Country Club",
+ "course_name": "Gulf Harbour Golf Country Club",
+ "dataset_name": "Gulf Harbour Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "gh": 402
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "gh": 512
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "gh": 355
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "gh": 405
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "gh": 435
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "gh": 179
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "gh": 401
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "gh": 490
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "gh": 148
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "gh": 413
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "gh": 203
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "gh": 381
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "gh": 150
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "gh": 386
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "gh": 524
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "gh": 325
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "gh": 543
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "gh": 471
+   }
+  }
+ ],
+ "id": "97ab6d65-719c-4f29-9dbf-b1216af72b67",
+ "lat": 26.530909,
+ "lng": -81.938856,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gh-male",
+   "tee_name": "GH",
+   "yardage": 6671
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "4-male",
+   "tee_name": "#4",
+   "yardage": 6212
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "3-male",
+   "tee_name": "#3",
+   "yardage": 5885
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "2-male",
+   "tee_name": "#2",
+   "yardage": 5612
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "2-female",
+   "tee_name": "#2",
+   "yardage": 5612
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "1-male",
+   "tee_name": "#1",
+   "yardage": 5080
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "1-female",
+   "tee_name": "#1",
+   "yardage": 5080
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Cross Creek Country Club",
+ "course_name": "Cross Creek Country Club",
+ "dataset_name": "Cross Creek Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "black": 145,
+    "blue": 156,
+    "gold": 154,
+    "red": 133
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 141,
+    "blue": 158,
+    "gold": 156,
+    "red": 129
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 120,
+    "blue": 166,
+    "gold": 156,
+    "red": 99
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 149,
+    "blue": 170,
+    "gold": 168,
+    "red": 129
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "blue": 190,
+    "gold": 162,
+    "red": 131
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 123,
+    "blue": 152,
+    "gold": 150,
+    "red": 97
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 248,
+    "blue": 256,
+    "gold": 254,
+    "red": 239
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 92,
+    "blue": 102,
+    "gold": 100,
+    "red": 81
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 234,
+    "blue": 258,
+    "gold": 255,
+    "red": 197
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 245,
+    "blue": 267,
+    "gold": 265,
+    "red": 190
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 131,
+    "blue": 150,
+    "gold": 148,
+    "red": 115
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 104,
+    "blue": 118,
+    "gold": 116,
+    "red": 87
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 154,
+    "blue": 188,
+    "gold": 156,
+    "red": 139
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 147,
+    "blue": 171,
+    "gold": 169,
+    "red": 136
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 150,
+    "blue": 194,
+    "gold": 152,
+    "red": 117
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 215,
+    "blue": 237,
+    "gold": 235,
+    "red": 209
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 189,
+    "blue": 211,
+    "gold": 209,
+    "red": 182
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 332,
+    "blue": 367,
+    "gold": 334,
+    "red": 272
+   }
+  }
+ ],
+ "id": "ebba8038-3858-4a05-8986-b02e7a84c321",
+ "lat": 26.5548013,
+ "lng": -81.8273491,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3486
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 3079
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 2835
+  },
+  {
+   "gender": "Female",
+   "par": 60,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2687
+  }
+ ]
+}

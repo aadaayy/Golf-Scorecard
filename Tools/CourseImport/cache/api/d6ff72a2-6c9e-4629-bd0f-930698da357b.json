@@ -1,0 +1,112 @@
+{
+ "city": "Stuart",
+ "club_name": "Monterey Yacht Country Club",
+ "course_name": "Monterey Yacht Country Club",
+ "dataset_name": "Monterey Yacht Country Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "ladies": 174,
+    "mens": 196
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "ladies": 96,
+    "mens": 114
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "ladies": 142,
+    "mens": 168
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "ladies": 97,
+    "mens": 145
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "ladies": 112,
+    "mens": 130
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "ladies": 49,
+    "mens": 63
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "ladies": 131,
+    "mens": 158
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "ladies": 68,
+    "mens": 85
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "ladies": 137,
+    "mens": 162
+   }
+  }
+ ],
+ "id": "d6ff72a2-6c9e-4629-bd0f-930698da357b",
+ "lat": 27.180046,
+ "lng": -80.2544937,
+ "par": 30,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "mens-male",
+   "tee_name": "Mens",
+   "yardage": 1221
+  },
+  {
+   "gender": "Female",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "ladies-female",
+   "tee_name": "Ladies",
+   "yardage": 1006
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "city": "Hollywood",
+ "club_name": "Eco Golf Course",
+ "course_name": "Eco Golf Course",
+ "dataset_name": "Eco Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "back": 104,
+    "forward": 87
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "back": 362,
+    "forward": 315
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "back": 137,
+    "forward": 114
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "back": 452,
+    "forward": 401
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "back": 124,
+    "forward": 105
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back": 351,
+    "forward": 283
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "back": 183,
+    "forward": 161
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back": 125,
+    "forward": 108
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back": 325,
+    "forward": 264
+   }
+  }
+ ],
+ "id": "6f1d9231-d22f-40b1-b76b-93315d9fdaab",
+ "lat": 26.0267797,
+ "lng": -80.1358541,
+ "par": 32,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 32,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 2259
+  },
+  {
+   "gender": "Male",
+   "par": 32,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 1893
+  }
+ ]
+}

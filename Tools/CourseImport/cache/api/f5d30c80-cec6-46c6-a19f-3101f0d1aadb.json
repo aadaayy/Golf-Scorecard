@@ -1,0 +1,443 @@
+{
+ "city": "Delray Beach",
+ "club_name": "Gleneagles Country Club Legends Course",
+ "course_name": "Gleneagles Country Club Legends Course",
+ "dataset_name": "Gleneagles Country Club Legends Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 397,
+    "black/blue": 397,
+    "blue": 368,
+    "blue/gold": 342,
+    "gold": 342,
+    "gold/white": 342,
+    "green": 283,
+    "green/silver": 283,
+    "silver": 278,
+    "white": 335,
+    "white/green": 335
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 446,
+    "black/blue": 402,
+    "blue": 402,
+    "blue/gold": 353,
+    "gold": 353,
+    "gold/white": 297,
+    "green": 290,
+    "green/silver": 267,
+    "silver": 267,
+    "white": 297,
+    "white/green": 290
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 527,
+    "black/blue": 486,
+    "blue": 486,
+    "blue/gold": 486,
+    "gold": 430,
+    "gold/white": 421,
+    "green": 415,
+    "green/silver": 364,
+    "silver": 364,
+    "white": 421,
+    "white/green": 415
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 377,
+    "black/blue": 377,
+    "blue": 328,
+    "blue/gold": 328,
+    "gold": 311,
+    "gold/white": 311,
+    "green": 242,
+    "green/silver": 242,
+    "silver": 220,
+    "white": 254,
+    "white/green": 254
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 385,
+    "black/blue": 385,
+    "blue": 350,
+    "blue/gold": 350,
+    "gold": 343,
+    "gold/white": 343,
+    "green": 290,
+    "green/silver": 290,
+    "silver": 275,
+    "white": 300,
+    "white/green": 300
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 206,
+    "black/blue": 206,
+    "blue": 188,
+    "blue/gold": 165,
+    "gold": 165,
+    "gold/white": 165,
+    "green": 130,
+    "green/silver": 130,
+    "silver": 120,
+    "white": 145,
+    "white/green": 145
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 555,
+    "black/blue": 525,
+    "blue": 525,
+    "blue/gold": 515,
+    "gold": 515,
+    "gold/white": 477,
+    "green": 470,
+    "green/silver": 450,
+    "silver": 450,
+    "white": 477,
+    "white/green": 470
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 241,
+    "black/blue": 216,
+    "blue": 216,
+    "blue/gold": 168,
+    "gold": 168,
+    "gold/white": 135,
+    "green": 130,
+    "green/silver": 106,
+    "silver": 106,
+    "white": 135,
+    "white/green": 130
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 395,
+    "black/blue": 395,
+    "blue": 373,
+    "blue/gold": 373,
+    "gold": 367,
+    "gold/white": 367,
+    "green": 292,
+    "green/silver": 292,
+    "silver": 260,
+    "white": 297,
+    "white/green": 297
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "black/blue": 359,
+    "blue": 359,
+    "blue/gold": 325,
+    "gold": 325,
+    "gold/white": 315,
+    "green": 296,
+    "green/silver": 288,
+    "silver": 288,
+    "white": 315,
+    "white/green": 296
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 370,
+    "black/blue": 370,
+    "blue": 332,
+    "blue/gold": 258,
+    "gold": 258,
+    "gold/white": 258,
+    "green": 252,
+    "green/silver": 252,
+    "silver": 185,
+    "white": 256,
+    "white/green": 256
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 637,
+    "black/blue": 530,
+    "blue": 530,
+    "blue/gold": 510,
+    "gold": 510,
+    "gold/white": 473,
+    "green": 423,
+    "green/silver": 415,
+    "silver": 415,
+    "white": 473,
+    "white/green": 423
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 393,
+    "black/blue": 368,
+    "blue": 368,
+    "blue/gold": 358,
+    "gold": 358,
+    "gold/white": 328,
+    "green": 320,
+    "green/silver": 268,
+    "silver": 268,
+    "white": 328,
+    "white/green": 320
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 356,
+    "black/blue": 356,
+    "blue": 306,
+    "blue/gold": 306,
+    "gold": 285,
+    "gold/white": 285,
+    "green": 260,
+    "green/silver": 260,
+    "silver": 185,
+    "white": 275,
+    "white/green": 275
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "black/blue": 160,
+    "blue": 141,
+    "blue/gold": 141,
+    "gold": 123,
+    "gold/white": 123,
+    "green": 102,
+    "green/silver": 102,
+    "silver": 86,
+    "white": 105,
+    "white/green": 105
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 456,
+    "black/blue": 438,
+    "blue": 438,
+    "blue/gold": 347,
+    "gold": 347,
+    "gold/white": 337,
+    "green": 327,
+    "green/silver": 290,
+    "silver": 290,
+    "white": 337,
+    "white/green": 327
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 185,
+    "black/blue": 185,
+    "blue": 162,
+    "blue/gold": 162,
+    "gold": 138,
+    "gold/white": 138,
+    "green": 120,
+    "green/silver": 120,
+    "silver": 110,
+    "white": 130,
+    "white/green": 130
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 573,
+    "black/blue": 549,
+    "blue": 549,
+    "blue/gold": 520,
+    "gold": 520,
+    "gold/white": 427,
+    "green": 420,
+    "green/silver": 390,
+    "silver": 390,
+    "white": 427,
+    "white/green": 420
+   }
+  }
+ ],
+ "id": "f5d30c80-cec6-46c6-a19f-3101f0d1aadb",
+ "lat": 26.4417188,
+ "lng": -80.1654537,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7047
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-blue-male",
+   "tee_name": "Black/Blue",
+   "yardage": 6704
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6421
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-gold-male",
+   "tee_name": "Blue/Gold",
+   "yardage": 6007
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5858
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "gold-white-male",
+   "tee_name": "Gold/White",
+   "yardage": 5542
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5307
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5307
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 5188
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-green-female",
+   "tee_name": "White/Green",
+   "yardage": 5188
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5062
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-silver-female",
+   "tee_name": "Green/Silver",
+   "yardage": 4809
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 4557
+  }
+ ]
+}

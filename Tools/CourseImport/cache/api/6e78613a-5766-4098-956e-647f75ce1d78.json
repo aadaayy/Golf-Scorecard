@@ -1,0 +1,211 @@
+{
+ "city": "Bonita Springs",
+ "club_name": "Pelicans Nest Golf Club Gator Course",
+ "course_name": "Pelicans Nest Golf Club Gator Course",
+ "dataset_name": "Pelicans Nest Golf Club Gator Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "i": 422,
+    "ii": 391,
+    "iii": 374,
+    "iv": 331,
+    "v": 324,
+    "vi": 282,
+    "vii": 251
+   }
+  }
+ ],
+ "id": "6e78613a-5766-4098-956e-647f75ce1d78",
+ "lat": 26.3704916,
+ "lng": -81.8279027,
+ "par": 73,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 7042
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6591
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6327
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 6159
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5765
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 5765
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 5316
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 5316
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "vii-female",
+   "tee_name": "VII",
+   "yardage": 5010
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "vii-male",
+   "tee_name": "VII",
+   "yardage": 5010
+  }
+ ]
+}

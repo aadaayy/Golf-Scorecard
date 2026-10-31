@@ -1,0 +1,355 @@
+{
+ "city": "Stuart",
+ "club_name": "Sailfish Point Golf Club",
+ "course_name": "Sailfish Point Golf Club",
+ "dataset_name": "Sailfish Point Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back": 390,
+    "champ": 390,
+    "combo": 344,
+    "forward": 288,
+    "member": 362,
+    "middle": 344,
+    "tee_it_forward": 235
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "back": 560,
+    "champ": 560,
+    "combo": 443,
+    "forward": 435,
+    "member": 521,
+    "middle": 500,
+    "tee_it_forward": 340
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "back": 340,
+    "champ": 405,
+    "combo": 268,
+    "forward": 264,
+    "member": 325,
+    "middle": 268,
+    "tee_it_forward": 180
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "back": 185,
+    "champ": 185,
+    "combo": 142,
+    "forward": 127,
+    "member": 165,
+    "middle": 142,
+    "tee_it_forward": 101
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "back": 384,
+    "champ": 414,
+    "combo": 287,
+    "forward": 278,
+    "member": 355,
+    "middle": 330,
+    "tee_it_forward": 210
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "back": 549,
+    "champ": 549,
+    "combo": 437,
+    "forward": 437,
+    "member": 510,
+    "middle": 479,
+    "tee_it_forward": 357
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "back": 305,
+    "champ": 315,
+    "combo": 279,
+    "forward": 207,
+    "member": 295,
+    "middle": 279,
+    "tee_it_forward": 188
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back": 176,
+    "champ": 176,
+    "combo": 103,
+    "forward": 124,
+    "member": 154,
+    "middle": 131,
+    "tee_it_forward": 103
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back": 415,
+    "champ": 445,
+    "combo": 340,
+    "forward": 284,
+    "member": 390,
+    "middle": 340,
+    "tee_it_forward": 211
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "back": 484,
+    "champ": 520,
+    "combo": 420,
+    "forward": 390,
+    "member": 475,
+    "middle": 450,
+    "tee_it_forward": 370
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "back": 355,
+    "champ": 372,
+    "combo": 284,
+    "forward": 230,
+    "member": 336,
+    "middle": 284,
+    "tee_it_forward": 176
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back": 175,
+    "champ": 187,
+    "combo": 116,
+    "forward": 112,
+    "member": 167,
+    "middle": 135,
+    "tee_it_forward": 116
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "back": 420,
+    "champ": 453,
+    "combo": 340,
+    "forward": 303,
+    "member": 380,
+    "middle": 340,
+    "tee_it_forward": 250
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "back": 520,
+    "champ": 614,
+    "combo": 427,
+    "forward": 439,
+    "member": 513,
+    "middle": 465,
+    "tee_it_forward": 295
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "back": 380,
+    "champ": 419,
+    "combo": 341,
+    "forward": 290,
+    "member": 372,
+    "middle": 341,
+    "tee_it_forward": 223
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "back": 193,
+    "champ": 204,
+    "combo": 145,
+    "forward": 135,
+    "member": 182,
+    "middle": 158,
+    "tee_it_forward": 90
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "back": 424,
+    "champ": 437,
+    "combo": 380,
+    "forward": 302,
+    "member": 403,
+    "middle": 380,
+    "tee_it_forward": 250
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back": 390,
+    "champ": 443,
+    "combo": 330,
+    "forward": 313,
+    "member": 375,
+    "middle": 360,
+    "tee_it_forward": 240
+   }
+  }
+ ],
+ "id": "a8f2329e-4c80-497c-8a31-38779fe79805",
+ "lat": 27.1777311,
+ "lng": -80.1583162,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champ-male",
+   "tee_name": "Champ",
+   "yardage": 7088
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6645
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6280
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 6053
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5726
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-female",
+   "tee_name": "Middle",
+   "yardage": 5726
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-female",
+   "tee_name": "Combo",
+   "yardage": 5403
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 5001
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 5001
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-it-forward-male",
+   "tee_name": "Tee It Forward",
+   "yardage": 3935
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-it-forward-female",
+   "tee_name": "Tee It Forward",
+   "yardage": 3935
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "city": "Boca Raton",
+ "club_name": "South North At Ocean Breeze Golf Country Club",
+ "course_name": "South North At Ocean Breeze Golf Country Club",
+ "dataset_name": "South North At Ocean Breeze Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 475,
+    "Gold": 449,
+    "Green": 378,
+    "Red": 430,
+    "White": 470
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 343,
+    "Gold": 318,
+    "Green": 271,
+    "Red": 304,
+    "White": 338
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 198,
+    "Gold": 163,
+    "Green": 148,
+    "Red": 153,
+    "White": 193
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Blue": 547,
+    "Gold": 516,
+    "Green": 443,
+    "Red": 478,
+    "White": 542
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Gold": 322,
+    "Green": 268,
+    "Red": 273,
+    "White": 344
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 164,
+    "Gold": 143,
+    "Green": 133,
+    "Red": 138,
+    "White": 159
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 363,
+    "Gold": 331,
+    "Green": 286,
+    "Red": 315,
+    "White": 357
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 201,
+    "Gold": 177,
+    "Green": 125,
+    "Red": 161,
+    "White": 196
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 450,
+    "Gold": 412,
+    "Green": 326,
+    "Red": 392,
+    "White": 445
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 411,
+    "Gold": 379,
+    "Green": 315,
+    "Red": 335,
+    "White": 406
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 241,
+    "Gold": 177,
+    "Green": 119,
+    "Red": 145,
+    "White": 213
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 418,
+    "Gold": 390,
+    "Green": 341,
+    "Red": 359,
+    "White": 413
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Blue": 530,
+    "Gold": 505,
+    "Green": 449,
+    "Red": 474,
+    "White": 525
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 195,
+    "Gold": 168,
+    "Green": 149,
+    "Red": 158,
+    "White": 190
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 530,
+    "Gold": 479,
+    "Green": 397,
+    "Red": 455,
+    "White": 494
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 492,
+    "Gold": 441,
+    "Green": 343,
+    "Red": 363,
+    "White": 472
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 417,
+    "Gold": 379,
+    "Green": 305,
+    "Red": 310,
+    "White": 412
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 560,
+    "Gold": 482,
+    "Green": 418,
+    "Red": 462,
+    "White": 522
+   }
+  }
+ ],
+ "id": "7612b7ca-b4ad-467c-9109-2b3f4bca8e6f",
+ "lat": 26.3977945,
+ "lng": -80.1352726,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6885
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6691
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6232
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5705
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-w-female",
+   "tee_name": "Red (W)",
+   "yardage": 5214
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5214
+  }
+ ]
+}

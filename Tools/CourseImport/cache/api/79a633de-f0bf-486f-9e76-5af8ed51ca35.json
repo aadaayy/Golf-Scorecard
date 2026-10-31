@@ -1,0 +1,289 @@
+{
+ "city": "Port Charlotte",
+ "club_name": "Riverwood Golf Club",
+ "course_name": "Riverwood Golf Club",
+ "dataset_name": "Riverwood Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "blue": 380,
+    "gold": 316,
+    "red": 280,
+    "web": 396,
+    "white": 369
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 375,
+    "blue": 355,
+    "gold": 290,
+    "red": 245,
+    "web": 375,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 500,
+    "blue": 472,
+    "gold": 396,
+    "red": 367,
+    "web": 500,
+    "white": 433
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "blue": 380,
+    "gold": 319,
+    "red": 264,
+    "web": 400,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 171,
+    "blue": 141,
+    "gold": 122,
+    "red": 100,
+    "web": 171,
+    "white": 128
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 424,
+    "blue": 393,
+    "gold": 329,
+    "red": 276,
+    "web": 424,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 197,
+    "blue": 188,
+    "gold": 163,
+    "red": 122,
+    "web": 197,
+    "white": 172
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 435,
+    "blue": 412,
+    "gold": 342,
+    "red": 278,
+    "web": 435,
+    "white": 401
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 539,
+    "blue": 503,
+    "gold": 432,
+    "red": 381,
+    "web": 539,
+    "white": 485
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 405,
+    "blue": 387,
+    "gold": 335,
+    "red": 296,
+    "web": 405,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "blue": 382,
+    "gold": 310,
+    "red": 270,
+    "web": 400,
+    "white": 345
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 554,
+    "blue": 490,
+    "gold": 417,
+    "red": 374,
+    "web": 554,
+    "white": 485
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 179,
+    "blue": 167,
+    "gold": 123,
+    "red": 97,
+    "web": 179,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "blue": 402,
+    "gold": 320,
+    "red": 292,
+    "web": 421,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 385,
+    "blue": 335,
+    "gold": 278,
+    "red": 253,
+    "web": 385,
+    "white": 307
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 217,
+    "blue": 184,
+    "gold": 108,
+    "red": 103,
+    "web": 217,
+    "white": 149
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 551,
+    "blue": 514,
+    "gold": 439,
+    "red": 396,
+    "web": 551,
+    "white": 449
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 455,
+    "blue": 427,
+    "gold": 337,
+    "red": 301,
+    "web": 455,
+    "white": 413
+   }
+  }
+ ],
+ "id": "79a633de-f0bf-486f-9e76-5af8ed51ca35",
+ "lat": 26.9882531,
+ "lng": -82.2071733,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7004
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6472
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6034
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5376
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4695
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "city": "Palm City",
+ "club_name": "The Floridian",
+ "course_name": "The Floridian",
+ "dataset_name": "The Floridian",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Tee I": 441,
+    "Tee II": 416,
+    "Tee III": 391,
+    "Tee IV": 356,
+    "Tee V": 321
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Tee I": 211,
+    "Tee II": 205,
+    "Tee III": 163,
+    "Tee IV": 135,
+    "Tee V": 109
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Tee I": 454,
+    "Tee II": 450,
+    "Tee III": 410,
+    "Tee IV": 375,
+    "Tee V": 355
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Tee I": 182,
+    "Tee II": 174,
+    "Tee III": 158,
+    "Tee IV": 139,
+    "Tee V": 117
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Tee I": 637,
+    "Tee II": 584,
+    "Tee III": 547,
+    "Tee IV": 516,
+    "Tee V": 429
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Tee I": 301,
+    "Tee II": 291,
+    "Tee III": 266,
+    "Tee IV": 244,
+    "Tee V": 220
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Tee I": 577,
+    "Tee II": 571,
+    "Tee III": 533,
+    "Tee IV": 488,
+    "Tee V": 458
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Tee I": 153,
+    "Tee II": 136,
+    "Tee III": 124,
+    "Tee IV": 112,
+    "Tee V": 99
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Tee I": 497,
+    "Tee II": 454,
+    "Tee III": 415,
+    "Tee IV": 364,
+    "Tee V": 327
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Tee I": 401,
+    "Tee II": 394,
+    "Tee III": 362,
+    "Tee IV": 337,
+    "Tee V": 308
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Tee I": 448,
+    "Tee II": 445,
+    "Tee III": 413,
+    "Tee IV": 374,
+    "Tee V": 319
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Tee I": 194,
+    "Tee II": 186,
+    "Tee III": 161,
+    "Tee IV": 142,
+    "Tee V": 121
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Tee I": 529,
+    "Tee II": 504,
+    "Tee III": 477,
+    "Tee IV": 444,
+    "Tee V": 380
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Tee I": 456,
+    "Tee II": 428,
+    "Tee III": 378,
+    "Tee IV": 351,
+    "Tee V": 312
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Tee I": 539,
+    "Tee II": 536,
+    "Tee III": 507,
+    "Tee IV": 477,
+    "Tee V": 423
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Tee I": 216,
+    "Tee II": 196,
+    "Tee III": 188,
+    "Tee IV": 166,
+    "Tee V": 124
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Tee I": 385,
+    "Tee II": 333,
+    "Tee III": 301,
+    "Tee IV": 281,
+    "Tee V": 261
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Tee I": 493,
+    "Tee II": 432,
+    "Tee III": 414,
+    "Tee IV": 386,
+    "Tee V": 353
+   }
+  }
+ ],
+ "id": "c4f202f2-f363-49fb-b4ab-bc796c368664",
+ "lat": 27.2074217,
+ "lng": -80.288892,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-i-male",
+   "tee_name": "Tee I",
+   "yardage": 7114
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 6735
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 6208
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iv-female",
+   "tee_name": "Tee IV",
+   "yardage": 5687
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iv-male",
+   "tee_name": "Tee IV",
+   "yardage": 5687
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-v-male",
+   "tee_name": "Tee V",
+   "yardage": 5036
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-v-female",
+   "tee_name": "Tee V",
+   "yardage": 5036
+  }
+ ]
+}

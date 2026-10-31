@@ -1,0 +1,361 @@
+{
+ "city": "Naples",
+ "club_name": "Bonita Bay East Sabal Course",
+ "course_name": "Bonita Bay East Sabal Course",
+ "dataset_name": "Bonita Bay East Sabal Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "tee_i": 254,
+    "tee_ii": 287,
+    "tee_ii-i": 287,
+    "tee_iii-ii": 311,
+    "tee_iv": 341,
+    "tee_v": 361
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "tee_i": 288,
+    "tee_ii": 322,
+    "tee_ii-i": 288,
+    "tee_iii-ii": 322,
+    "tee_iv": 388,
+    "tee_v": 413
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "tee_i": 101,
+    "tee_ii": 120,
+    "tee_ii-i": 120,
+    "tee_iii-ii": 142,
+    "tee_iv": 168,
+    "tee_v": 178
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "tee_i": 419,
+    "tee_ii": 450,
+    "tee_ii-i": 419,
+    "tee_iii-ii": 450,
+    "tee_iv": 508,
+    "tee_v": 532
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "tee_i": 216,
+    "tee_ii": 246,
+    "tee_ii-i": 246,
+    "tee_iii-ii": 272,
+    "tee_iv": 298,
+    "tee_v": 323
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "tee_i": 320,
+    "tee_ii": 348,
+    "tee_ii-i": 320,
+    "tee_iii-ii": 348,
+    "tee_iv": 415,
+    "tee_v": 452
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "tee_i": 403,
+    "tee_ii": 468,
+    "tee_ii-i": 403,
+    "tee_iii-ii": 468,
+    "tee_iv": 520,
+    "tee_v": 548
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "tee_i": 121,
+    "tee_ii": 142,
+    "tee_ii-i": 142,
+    "tee_iii-ii": 142,
+    "tee_iv": 193,
+    "tee_v": 217
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "tee_i": 313,
+    "tee_ii": 338,
+    "tee_ii-i": 338,
+    "tee_iii-ii": 338,
+    "tee_iv": 397,
+    "tee_v": 419
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "tee_i": 109,
+    "tee_ii": 142,
+    "tee_ii-i": 109,
+    "tee_iii-ii": 142,
+    "tee_iv": 182,
+    "tee_v": 195
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "tee_i": 436,
+    "tee_ii": 477,
+    "tee_ii-i": 436,
+    "tee_iii-ii": 477,
+    "tee_iv": 561,
+    "tee_v": 581
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "tee_i": 299,
+    "tee_ii": 330,
+    "tee_ii-i": 330,
+    "tee_iii-ii": 357,
+    "tee_iv": 387,
+    "tee_v": 426
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "tee_i": 85,
+    "tee_ii": 107,
+    "tee_ii-i": 107,
+    "tee_iii-ii": 131,
+    "tee_iv": 158,
+    "tee_v": 183
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "tee_i": 311,
+    "tee_ii": 344,
+    "tee_ii-i": 311,
+    "tee_iii-ii": 344,
+    "tee_iv": 399,
+    "tee_v": 417
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "tee_i": 426,
+    "tee_ii": 444,
+    "tee_ii-i": 444,
+    "tee_iii-ii": 471,
+    "tee_iv": 500,
+    "tee_v": 522
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "tee_i": 242,
+    "tee_ii": 269,
+    "tee_ii-i": 269,
+    "tee_iii-ii": 295,
+    "tee_iv": 321,
+    "tee_v": 346
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "tee_i": 81,
+    "tee_ii": 101,
+    "tee_ii-i": 101,
+    "tee_iii-ii": 116,
+    "tee_iv": 142,
+    "tee_v": 156
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "tee_i": 404,
+    "tee_ii": 435,
+    "tee_ii-i": 435,
+    "tee_iii-ii": 463,
+    "tee_iv": 495,
+    "tee_v": 511
+   }
+  }
+ ],
+ "id": "86ef0e83-2682-4cba-a3bf-6a4bbe805ee4",
+ "lat": 26.2926585,
+ "lng": -81.6528825,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-male",
+   "tee_name": "Tee V",
+   "yardage": 6813
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-v-iv-male",
+   "tee_name": "Tee V-IV",
+   "yardage": 6637
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-male",
+   "tee_name": "Tee IV",
+   "yardage": 6406
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-iii-female",
+   "tee_name": "Tee IV-III",
+   "yardage": 6212
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iv-iii-male",
+   "tee_name": "Tee IV-III",
+   "yardage": 6212
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 5924
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-female",
+   "tee_name": "Tee III",
+   "yardage": 5924
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-ii-female",
+   "tee_name": "Tee III-II",
+   "yardage": 5622
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-iii-ii-male",
+   "tee_name": "Tee III-II",
+   "yardage": 5622
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-female",
+   "tee_name": "Tee II",
+   "yardage": 5401
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 5401
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-i-female",
+   "tee_name": "Tee II-I",
+   "yardage": 5128
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-ii-i-male",
+   "tee_name": "Tee II-I",
+   "yardage": 5128
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-i-female",
+   "tee_name": "Tee I",
+   "yardage": 4852
+  }
+ ]
+}

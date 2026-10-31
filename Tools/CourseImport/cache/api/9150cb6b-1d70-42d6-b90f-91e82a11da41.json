@@ -1,0 +1,289 @@
+{
+ "city": "Estero",
+ "club_name": "Old Corkscrew Golf Club",
+ "course_name": "Old Corkscrew Golf Club",
+ "dataset_name": "Old Corkscrew Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 438,
+    "blue": 388,
+    "gold": 312,
+    "green": 312,
+    "web": 438,
+    "white": 371
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 217,
+    "blue": 180,
+    "gold": 103,
+    "green": 133,
+    "web": 217,
+    "white": 133
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 548,
+    "blue": 499,
+    "gold": 410,
+    "green": 410,
+    "web": 548,
+    "white": 482
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 336,
+    "blue": 313,
+    "gold": 234,
+    "green": 292,
+    "web": 336,
+    "white": 292
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 442,
+    "blue": 381,
+    "gold": 306,
+    "green": 306,
+    "web": 442,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 472,
+    "blue": 422,
+    "gold": 347,
+    "green": 347,
+    "web": 472,
+    "white": 408
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 236,
+    "blue": 201,
+    "gold": 118,
+    "green": 118,
+    "web": 236,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 537,
+    "blue": 497,
+    "gold": 395,
+    "green": 480,
+    "web": 537,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 423,
+    "blue": 377,
+    "gold": 291,
+    "green": 356,
+    "web": 423,
+    "white": 356
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 491,
+    "blue": 431,
+    "gold": 350,
+    "green": 350,
+    "web": 491,
+    "white": 415
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 537,
+    "blue": 489,
+    "gold": 420,
+    "green": 472,
+    "web": 537,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 190,
+    "blue": 136,
+    "gold": 107,
+    "green": 119,
+    "web": 190,
+    "white": 119
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 353,
+    "blue": 322,
+    "gold": 226,
+    "green": 306,
+    "web": 353,
+    "white": 306
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 450,
+    "blue": 404,
+    "gold": 314,
+    "green": 314,
+    "web": 450,
+    "white": 387
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 610,
+    "blue": 544,
+    "gold": 447,
+    "green": 522,
+    "web": 610,
+    "white": 522
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "blue": 313,
+    "gold": 264,
+    "green": 296,
+    "web": 396,
+    "white": 296
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 169,
+    "blue": 160,
+    "gold": 100,
+    "green": 126,
+    "web": 169,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 460,
+    "blue": 422,
+    "gold": 310,
+    "green": 310,
+    "web": 460,
+    "white": 400
+   }
+  }
+ ],
+ "id": "9150cb6b-1d70-42d6-b90f-91e82a11da41",
+ "lat": 26.4486141,
+ "lng": -81.6717088,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7393
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6617
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6262
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5728
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5161
+  }
+ ]
+}

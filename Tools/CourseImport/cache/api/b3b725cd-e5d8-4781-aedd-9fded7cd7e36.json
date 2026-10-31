@@ -1,0 +1,121 @@
+{
+ "city": "Sunrise",
+ "club_name": "Sunrise Lakes Phase 3 Golf Course",
+ "course_name": "Sunrise Lakes Phase 3 Golf Course",
+ "dataset_name": "Sunrise Lakes Phase 3 Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Red (W)": 230,
+    "White": 267,
+    "web": 267
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Red (W)": 90,
+    "White": 102,
+    "web": 102
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Red (W)": 260,
+    "White": 280,
+    "web": 280
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Red (W)": 115,
+    "White": 125,
+    "web": 125
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Red (W)": 76,
+    "White": 100,
+    "web": 100
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Red (W)": 247,
+    "White": 263,
+    "web": 263
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Red (W)": 97,
+    "White": 107,
+    "web": 107
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Red (W)": 111,
+    "White": 121,
+    "web": 121
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Red (W)": 257,
+    "White": 310,
+    "web": 310
+   }
+  }
+ ],
+ "id": "b3b725cd-e5d8-4781-aedd-9fded7cd7e36",
+ "lat": 26.1610717,
+ "lng": -80.2747344,
+ "par": 31,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 31,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1675
+  },
+  {
+   "gender": "Female",
+   "par": 31,
+   "tee_color": null,
+   "tee_key": "red-w-female",
+   "tee_name": "Red (W)",
+   "yardage": 1483
+  }
+ ]
+}

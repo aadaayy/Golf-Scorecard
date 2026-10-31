@@ -1,0 +1,337 @@
+{
+ "city": "Indiantown",
+ "club_name": "Apogee Golf Club West Couse",
+ "course_name": "Apogee Golf Club West Couse",
+ "dataset_name": "Apogee Golf Club West Couse",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 527,
+    "gray": 412,
+    "light_blue": 287,
+    "maroon": 505,
+    "navy": 451,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "gray": 298,
+    "light_blue": 234,
+    "maroon": 395,
+    "navy": 347,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 446,
+    "gray": 284,
+    "light_blue": 269,
+    "maroon": 433,
+    "navy": 369,
+    "white": 397
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 203,
+    "gray": 131,
+    "light_blue": 91,
+    "maroon": 190,
+    "navy": 157,
+    "white": 168
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 303,
+    "gray": 238,
+    "light_blue": 159,
+    "maroon": 292,
+    "navy": 256,
+    "white": 270
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 599,
+    "gray": 439,
+    "light_blue": 393,
+    "maroon": 574,
+    "navy": 464,
+    "white": 543
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 409,
+    "gray": 306,
+    "light_blue": 272,
+    "maroon": 377,
+    "navy": 335,
+    "white": 366
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 155,
+    "gray": 105,
+    "light_blue": 80,
+    "maroon": 144,
+    "navy": 108,
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 481,
+    "gray": 308,
+    "light_blue": 308,
+    "maroon": 440,
+    "navy": 368,
+    "white": 393
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 569,
+    "gray": 336,
+    "light_blue": 336,
+    "maroon": 551,
+    "navy": 511,
+    "white": 519
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 357,
+    "gray": 226,
+    "light_blue": 226,
+    "maroon": 346,
+    "navy": 262,
+    "white": 301
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 472,
+    "gray": 333,
+    "light_blue": 333,
+    "maroon": 431,
+    "navy": 368,
+    "white": 409
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 131,
+    "gray": 79,
+    "light_blue": 72,
+    "maroon": 119,
+    "navy": 100,
+    "white": 114
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 274,
+    "gray": 195,
+    "light_blue": 154,
+    "maroon": 257,
+    "navy": 212,
+    "white": 230
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 516,
+    "gray": 385,
+    "light_blue": 339,
+    "maroon": 490,
+    "navy": 419,
+    "white": 464
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 247,
+    "gray": 159,
+    "light_blue": 101,
+    "maroon": 231,
+    "navy": 177,
+    "white": 196
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 416,
+    "gray": 294,
+    "light_blue": 256,
+    "maroon": 400,
+    "navy": 341,
+    "white": 381
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 512,
+    "gray": 364,
+    "light_blue": 330,
+    "maroon": 496,
+    "navy": 408,
+    "white": 456
+   }
+  }
+ ],
+ "id": "a821a377-ddb7-46ea-ba07-e3e93cd8bdad",
+ "lat": 27.059337,
+ "lng": -80.2951081,
+ "par": 73,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7038
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "maroon-male",
+   "tee_name": "Maroon",
+   "yardage": 6671
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "maroon-female",
+   "tee_name": "Maroon",
+   "yardage": 6671
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6184
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6184
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "navy-male",
+   "tee_name": "Navy",
+   "yardage": 5653
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "navy-female",
+   "tee_name": "Navy",
+   "yardage": 5653
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "gray-male",
+   "tee_name": "Gray",
+   "yardage": 4892
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "gray-female",
+   "tee_name": "Gray",
+   "yardage": 4892
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": "blue",
+   "tee_key": "light-blue-male",
+   "tee_name": "Light Blue",
+   "yardage": 4240
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": "blue",
+   "tee_key": "light-blue-female",
+   "tee_name": "Light Blue",
+   "yardage": 4240
+  }
+ ]
+}

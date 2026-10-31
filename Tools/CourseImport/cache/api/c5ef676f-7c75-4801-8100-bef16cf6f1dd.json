@@ -1,0 +1,191 @@
+{
+ "city": "Naples",
+ "club_name": "Olde Florida Golf Club",
+ "course_name": "Olde Florida Golf Club",
+ "dataset_name": "Olde Florida Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "championship": 392
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "championship": 422
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "championship": 172
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "championship": 352
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "championship": 190
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "championship": 516
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "championship": 364
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "championship": 549
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "championship": 441
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "championship": 575
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "championship": 363
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "championship": 400
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "championship": 181
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "championship": 406
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "championship": 437
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "championship": 558
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "championship": 162
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "championship": 467
+   }
+  }
+ ],
+ "id": "c5ef676f-7c75-4801-8100-bef16cf6f1dd",
+ "lat": 26.2468543,
+ "lng": -81.6498863,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7055
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6794
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 6393
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 5597
+  }
+ ]
+}

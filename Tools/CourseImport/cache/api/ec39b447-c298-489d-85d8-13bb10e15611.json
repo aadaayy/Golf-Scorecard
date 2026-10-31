@@ -1,0 +1,22 @@
+{
+ "city": "Islamorada",
+ "club_name": "Cheeca Lodge",
+ "course_name": "Cheeca Lodge",
+ "dataset_name": "Cheeca Lodge",
+ "holes": 18,
+ "holes_data": [],
+ "id": "ec39b447-c298-489d-85d8-13bb10e15611",
+ "lat": 24.916591,
+ "lng": -80.6338821,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 838
+  }
+ ]
+}

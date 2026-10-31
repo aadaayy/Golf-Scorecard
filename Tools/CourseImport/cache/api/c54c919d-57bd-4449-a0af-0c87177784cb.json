@@ -1,0 +1,193 @@
+{
+ "city": "North Fort Myers",
+ "club_name": "Lake Fairways Country Club",
+ "course_name": "Lake Fairways Country Club",
+ "dataset_name": "Lake Fairways Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "red": 87,
+    "white": 100
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "red": 92,
+    "white": 101
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "red": 192,
+    "white": 216
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "red": 134,
+    "white": 176
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "red": 99,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "red": 237,
+    "white": 247
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "red": 90,
+    "white": 104
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "red": 148,
+    "white": 168
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "red": 176,
+    "white": 191
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "red": 127,
+    "white": 140
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "red": 119,
+    "white": 133
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "red": 60,
+    "white": 66
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "red": 113,
+    "white": 128
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "red": 132,
+    "white": 168
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "red": 159,
+    "white": 209
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "red": 112,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "red": 85,
+    "white": 98
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "red": 215,
+    "white": 227
+   }
+  }
+ ],
+ "id": "c54c919d-57bd-4449-a0af-0c87177784cb",
+ "lat": 26.7454571,
+ "lng": -81.9200787,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3000
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2346
+  }
+ ]
+}

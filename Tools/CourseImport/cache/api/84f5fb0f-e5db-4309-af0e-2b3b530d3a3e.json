@@ -1,0 +1,427 @@
+{
+ "city": "Bonita Springs",
+ "club_name": "South East At Spanish Wells Country Club",
+ "course_name": "South East At Spanish Wells Country Club",
+ "dataset_name": "South East At Spanish Wells Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue M": 383,
+    "Blue/White M": 334,
+    "Gold M": 417,
+    "Green M": 271,
+    "Green W": 271,
+    "Red M": 325,
+    "Red W": 325,
+    "Red/Green W": 271,
+    "White M": 334,
+    "White W": 334,
+    "White/Red M": 325
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Blue M": 436,
+    "Blue/White M": 436,
+    "Gold M": 470,
+    "Green M": 317,
+    "Green W": 317,
+    "Red M": 380,
+    "Red W": 380,
+    "Red/Green W": 317,
+    "White M": 398,
+    "White W": 398,
+    "White/Red M": 380
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue M": 276,
+    "Blue/White M": 276,
+    "Gold M": 318,
+    "Green M": 162,
+    "Green W": 162,
+    "Red M": 214,
+    "Red W": 214,
+    "Red/Green W": 214,
+    "White M": 244,
+    "White W": 244,
+    "White/Red M": 244
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Blue M": 160,
+    "Blue/White M": 160,
+    "Gold M": 189,
+    "Green M": 85,
+    "Green W": 85,
+    "Red M": 119,
+    "Red W": 119,
+    "Red/Green W": 119,
+    "White M": 127,
+    "White W": 127,
+    "White/Red M": 119
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue M": 347,
+    "Blue/White M": 347,
+    "Gold M": 391,
+    "Green M": 245,
+    "Green W": 245,
+    "Red M": 298,
+    "Red W": 298,
+    "Red/Green W": 298,
+    "White M": 309,
+    "White W": 309,
+    "White/Red M": 298
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue M": 384,
+    "Blue/White M": 339,
+    "Gold M": 431,
+    "Green M": 258,
+    "Green W": 258,
+    "Red M": 284,
+    "Red W": 284,
+    "Red/Green W": 284,
+    "White M": 339,
+    "White W": 339,
+    "White/Red M": 339
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue M": 144,
+    "Blue/White M": 144,
+    "Gold M": 172,
+    "Green M": 82,
+    "Green W": 82,
+    "Red M": 82,
+    "Red W": 82,
+    "Red/Green W": 82,
+    "White M": 98,
+    "White W": 98,
+    "White/Red M": 98
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue M": 472,
+    "Blue/White M": 472,
+    "Gold M": 513,
+    "Green M": 349,
+    "Green W": 349,
+    "Red M": 381,
+    "Red W": 381,
+    "Red/Green W": 349,
+    "White M": 433,
+    "White W": 433,
+    "White/Red M": 433
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue M": 393,
+    "Blue/White M": 352,
+    "Gold M": 434,
+    "Green M": 284,
+    "Green W": 284,
+    "Red M": 337,
+    "Red W": 337,
+    "Red/Green W": 284,
+    "White M": 352,
+    "White W": 352,
+    "White/Red M": 352
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue M": 357,
+    "Blue/White M": 357,
+    "Gold M": 383,
+    "Green M": 256,
+    "Green W": 256,
+    "Red M": 318,
+    "Red W": 318,
+    "Red/Green W": 318,
+    "White M": 330,
+    "White W": 330,
+    "White/Red M": 330
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue M": 372,
+    "Blue/White M": 349,
+    "Gold M": 401,
+    "Green M": 269,
+    "Green W": 269,
+    "Red M": 325,
+    "Red W": 325,
+    "Red/Green W": 269,
+    "White M": 349,
+    "White W": 349,
+    "White/Red M": 325
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue M": 475,
+    "Blue/White M": 475,
+    "Gold M": 499,
+    "Green M": 351,
+    "Green W": 351,
+    "Red M": 411,
+    "Red W": 411,
+    "Red/Green W": 351,
+    "White M": 431,
+    "White W": 431,
+    "White/Red M": 411
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue M": 166,
+    "Blue/White M": 126,
+    "Gold M": 189,
+    "Green M": 84,
+    "Green W": 84,
+    "Red M": 98,
+    "Red W": 98,
+    "Red/Green W": 98,
+    "White M": 126,
+    "White W": 126,
+    "White/Red M": 126
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue M": 389,
+    "Blue/White M": 331,
+    "Gold M": 426,
+    "Green M": 296,
+    "Green W": 296,
+    "Red M": 321,
+    "Red W": 321,
+    "Red/Green W": 321,
+    "White M": 331,
+    "White W": 331,
+    "White/Red M": 331
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue M": 495,
+    "Blue/White M": 495,
+    "Gold M": 520,
+    "Green M": 373,
+    "Green W": 373,
+    "Red M": 433,
+    "Red W": 433,
+    "Red/Green W": 373,
+    "White M": 453,
+    "White W": 453,
+    "White/Red M": 433
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue M": 323,
+    "Blue/White M": 323,
+    "Gold M": 370,
+    "Green M": 236,
+    "Green W": 236,
+    "Red M": 290,
+    "Red W": 290,
+    "Red/Green W": 290,
+    "White M": 300,
+    "White W": 300,
+    "White/Red M": 300
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue M": 177,
+    "Blue/White M": 177,
+    "Gold M": 188,
+    "Green M": 95,
+    "Green W": 95,
+    "Red M": 115,
+    "Red W": 115,
+    "Red/Green W": 115,
+    "White M": 138,
+    "White W": 138,
+    "White/Red M": 138
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue M": 377,
+    "Blue/White M": 337,
+    "Gold M": 422,
+    "Green M": 298,
+    "Green W": 298,
+    "Red M": 328,
+    "Red W": 328,
+    "Red/Green W": 298,
+    "White M": 337,
+    "White W": 337,
+    "White/Red M": 328
+   }
+  }
+ ],
+ "id": "84f5fb0f-e5db-4309-af0e-2b3b530d3a3e",
+ "lat": 26.325007,
+ "lng": -81.7979581,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-m-male",
+   "tee_name": "Gold M",
+   "yardage": 6733
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-m-male",
+   "tee_name": "Blue M",
+   "yardage": 6126
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-m-male",
+   "tee_name": "Blue/White M",
+   "yardage": 5830
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-w-female",
+   "tee_name": "White W",
+   "yardage": 5429
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-m-male",
+   "tee_name": "White M",
+   "yardage": 5429
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-red-m-male",
+   "tee_name": "White/Red M",
+   "yardage": 5310
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-m-male",
+   "tee_name": "Red M",
+   "yardage": 5059
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-w-female",
+   "tee_name": "Red W",
+   "yardage": 5059
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-green-w-female",
+   "tee_name": "Red/Green W",
+   "yardage": 4651
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-w-female",
+   "tee_name": "Green W",
+   "yardage": 4311
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-m-male",
+   "tee_name": "Green M",
+   "yardage": 4311
+  }
+ ]
+}

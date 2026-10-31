@@ -1,0 +1,347 @@
+{
+ "city": "Jupiter",
+ "club_name": "The Dye Preserve Golf Club",
+ "course_name": "The Dye Preserve Golf Club",
+ "dataset_name": "The Dye Preserve Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 539,
+    "Brown": 563,
+    "Championship": 563,
+    "Green": 482,
+    "Green/Blue": 482,
+    "Green/Red": 482,
+    "Red": 408
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 345,
+    "Brown": 368,
+    "Championship": 368,
+    "Green": 322,
+    "Green/Blue": 345,
+    "Green/Red": 322,
+    "Red": 287
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 152,
+    "Brown": 160,
+    "Championship": 160,
+    "Green": 130,
+    "Green/Blue": 152,
+    "Green/Red": 130,
+    "Red": 130
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 410,
+    "Brown": 448,
+    "Championship": 473,
+    "Green": 367,
+    "Green/Blue": 367,
+    "Green/Red": 324,
+    "Red": 324
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 277,
+    "Brown": 298,
+    "Championship": 298,
+    "Green": 265,
+    "Green/Blue": 277,
+    "Green/Red": 265,
+    "Red": 253
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Blue": 513,
+    "Brown": 530,
+    "Championship": 560,
+    "Green": 485,
+    "Green/Blue": 485,
+    "Green/Red": 431,
+    "Red": 431
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 176,
+    "Brown": 215,
+    "Championship": 224,
+    "Green": 161,
+    "Green/Blue": 176,
+    "Green/Red": 138,
+    "Red": 138
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 362,
+    "Brown": 390,
+    "Championship": 404,
+    "Green": 338,
+    "Green/Blue": 338,
+    "Green/Red": 287,
+    "Red": 287
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 422,
+    "Brown": 452,
+    "Championship": 510,
+    "Green": 385,
+    "Green/Blue": 385,
+    "Green/Red": 312,
+    "Red": 312
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Blue": 521,
+    "Brown": 553,
+    "Championship": 553,
+    "Green": 478,
+    "Green/Blue": 478,
+    "Green/Red": 478,
+    "Red": 417
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 431,
+    "Brown": 464,
+    "Championship": 501,
+    "Green": 406,
+    "Green/Blue": 406,
+    "Green/Red": 332,
+    "Red": 332
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 403,
+    "Brown": 431,
+    "Championship": 431,
+    "Green": 386,
+    "Green/Blue": 386,
+    "Green/Red": 311,
+    "Red": 311
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 182,
+    "Brown": 208,
+    "Championship": 230,
+    "Green": 152,
+    "Green/Blue": 152,
+    "Green/Red": 152,
+    "Red": 120
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 367,
+    "Brown": 378,
+    "Championship": 378,
+    "Green": 332,
+    "Green/Blue": 332,
+    "Green/Red": 332,
+    "Red": 293
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 508,
+    "Brown": 549,
+    "Championship": 574,
+    "Green": 482,
+    "Green/Blue": 482,
+    "Green/Red": 416,
+    "Red": 416
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 345,
+    "Brown": 369,
+    "Championship": 386,
+    "Green": 319,
+    "Green/Blue": 319,
+    "Green/Red": 319,
+    "Red": 300
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 201,
+    "Brown": 223,
+    "Championship": 241,
+    "Green": 158,
+    "Green/Blue": 158,
+    "Green/Red": 124,
+    "Red": 124
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 424,
+    "Brown": 458,
+    "Championship": 458,
+    "Green": 382,
+    "Green/Blue": 382,
+    "Green/Red": 309,
+    "Red": 309
+   }
+  }
+ ],
+ "id": "dc3ccb03-74ab-4f90-94b9-183dab4dc510",
+ "lat": 26.9633899,
+ "lng": -80.232073,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7312
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "brown-male",
+   "tee_name": "Brown",
+   "yardage": 7057
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6578
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-blue-male",
+   "tee_name": "Green/Blue",
+   "yardage": 6102
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6030
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 6030
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-red-female",
+   "tee_name": "Green/Red",
+   "yardage": 5464
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-red-male",
+   "tee_name": "Green/Red",
+   "yardage": 5464
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5192
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5192
+  }
+ ]
+}

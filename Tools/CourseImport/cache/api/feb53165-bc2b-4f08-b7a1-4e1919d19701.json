@@ -1,0 +1,193 @@
+{
+ "city": "Fort Pierce",
+ "club_name": "Spanish Lakes Fairways",
+ "course_name": "Spanish Lakes Fairways",
+ "dataset_name": "Spanish Lakes Fairways",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "ladies": 136,
+    "mens": 179
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "ladies": 92,
+    "mens": 147
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "ladies": 56,
+    "mens": 79
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "ladies": 54,
+    "mens": 125
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "ladies": 63,
+    "mens": 71
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "ladies": 75,
+    "mens": 94
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "ladies": 112,
+    "mens": 131
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "ladies": 67,
+    "mens": 92
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "ladies": 97,
+    "mens": 111
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "ladies": 129,
+    "mens": 162
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "ladies": 120,
+    "mens": 153
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "ladies": 106,
+    "mens": 132
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "ladies": 101,
+    "mens": 130
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "ladies": 104,
+    "mens": 120
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "ladies": 66,
+    "mens": 131
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "ladies": 113,
+    "mens": 139
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "ladies": 142,
+    "mens": 167
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "ladies": 118,
+    "mens": 144
+   }
+  }
+ ],
+ "id": "feb53165-bc2b-4f08-b7a1-4e1919d19701",
+ "lat": 27.5475164,
+ "lng": -80.4666131,
+ "par": 54,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": null,
+   "tee_key": "mens-male",
+   "tee_name": "Mens",
+   "yardage": 2307
+  },
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": null,
+   "tee_key": "ladies-male",
+   "tee_name": "Ladies",
+   "yardage": 1751
+  }
+ ]
+}

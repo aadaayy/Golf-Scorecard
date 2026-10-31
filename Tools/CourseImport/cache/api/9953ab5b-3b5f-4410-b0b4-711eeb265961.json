@@ -1,0 +1,377 @@
+{
+ "city": "Bowling Green",
+ "club_name": "Streamsong Resort Black Course",
+ "course_name": "Streamsong Resort Black Course",
+ "dataset_name": "Streamsong Resort Black Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 508,
+    "Black/Silver": 508,
+    "Gold": 420,
+    "Green": 573,
+    "Green/Black": 573,
+    "Silver": 466,
+    "Silver/Gold": 466
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 326,
+    "Black/Silver": 326,
+    "Gold": 276,
+    "Green": 361,
+    "Green/Black": 361,
+    "Silver": 309,
+    "Silver/Gold": 309
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 423,
+    "Black/Silver": 394,
+    "Gold": 306,
+    "Green": 480,
+    "Green/Black": 423,
+    "Silver": 394,
+    "Silver/Gold": 306
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 581,
+    "Black/Silver": 550,
+    "Gold": 450,
+    "Green": 601,
+    "Green/Black": 581,
+    "Silver": 550,
+    "Silver/Gold": 450
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 177,
+    "Black/Silver": 158,
+    "Gold": 135,
+    "Green": 211,
+    "Green/Black": 177,
+    "Silver": 158,
+    "Silver/Gold": 135
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 321,
+    "Black/Silver": 321,
+    "Gold": 252,
+    "Green": 342,
+    "Green/Black": 342,
+    "Silver": 299,
+    "Silver/Gold": 299
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 158,
+    "Black/Silver": 135,
+    "Gold": 103,
+    "Green": 178,
+    "Green/Black": 158,
+    "Silver": 135,
+    "Silver/Gold": 103
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 408,
+    "Black/Silver": 408,
+    "Gold": 357,
+    "Green": 427,
+    "Green/Black": 427,
+    "Silver": 377,
+    "Silver/Gold": 377
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 408,
+    "Black/Silver": 360,
+    "Gold": 317,
+    "Green": 450,
+    "Green/Black": 408,
+    "Silver": 360,
+    "Silver/Gold": 317
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Black": 524,
+    "Black/Silver": 524,
+    "Gold": 434,
+    "Green": 548,
+    "Green/Black": 548,
+    "Silver": 502,
+    "Silver/Gold": 502
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 395,
+    "Black/Silver": 378,
+    "Gold": 320,
+    "Green": 463,
+    "Green/Black": 395,
+    "Silver": 378,
+    "Silver/Gold": 320
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 531,
+    "Black/Silver": 531,
+    "Gold": 404,
+    "Green": 571,
+    "Green/Black": 571,
+    "Silver": 510,
+    "Silver/Gold": 510
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 409,
+    "Black/Silver": 368,
+    "Gold": 308,
+    "Green": 430,
+    "Green/Black": 409,
+    "Silver": 368,
+    "Silver/Gold": 308
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 286,
+    "Black/Silver": 286,
+    "Gold": 242,
+    "Green": 298,
+    "Green/Black": 298,
+    "Silver": 261,
+    "Silver/Gold": 261
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 131,
+    "Black/Silver": 131,
+    "Gold": 78,
+    "Green": 133,
+    "Green/Black": 133,
+    "Silver": 110,
+    "Silver/Gold": 110
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 442,
+    "Black/Silver": 400,
+    "Gold": 323,
+    "Green": 463,
+    "Green/Black": 442,
+    "Silver": 400,
+    "Silver/Gold": 323
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 189,
+    "Black/Silver": 189,
+    "Gold": 124,
+    "Green": 205,
+    "Green/Black": 205,
+    "Silver": 154,
+    "Silver/Gold": 154
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 530,
+    "Black/Silver": 495,
+    "Gold": 431,
+    "Green": 586,
+    "Green/Black": 530,
+    "Silver": 495,
+    "Silver/Gold": 431
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "9953ab5b-3b5f-4410-b0b4-711eeb265961",
+ "lat": 27.6699597,
+ "lng": -81.9277308,
+ "par": 73,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 7320
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "green-black-male",
+   "tee_name": "Green/Black",
+   "yardage": 6981
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6747
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "black-silver-male",
+   "tee_name": "Black/Silver",
+   "yardage": 6462
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6226
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 6226
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "silver-gold-male",
+   "tee_name": "Silver/Gold",
+   "yardage": 5681
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "silver-gold-female",
+   "tee_name": "Silver/Gold",
+   "yardage": 5681
+  },
+  {
+   "gender": "Male",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5280
+  },
+  {
+   "gender": "Female",
+   "par": 73,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5280
+  }
+ ]
+}

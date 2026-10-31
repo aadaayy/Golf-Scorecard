@@ -1,0 +1,381 @@
+{
+ "city": "Hallandale Beach",
+ "club_name": "Shell Bay Club",
+ "course_name": "Shell Bay Club",
+ "dataset_name": "Shell Bay Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 412,
+    "Black/Silver": 412,
+    "Gold": 299,
+    "Navy": 350,
+    "Navy/Gold": 299,
+    "Silver": 388,
+    "Silver/Navy": 388,
+    "web": 412
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Black": 525,
+    "Black/Silver": 525,
+    "Gold": 385,
+    "Navy": 470,
+    "Navy/Gold": 385,
+    "Silver": 510,
+    "Silver/Navy": 470,
+    "web": 525
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 195,
+    "Black/Silver": 195,
+    "Gold": 107,
+    "Navy": 135,
+    "Navy/Gold": 135,
+    "Silver": 165,
+    "Silver/Navy": 135,
+    "web": 195
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 427,
+    "Black/Silver": 409,
+    "Gold": 338,
+    "Navy": 383,
+    "Navy/Gold": 338,
+    "Silver": 406,
+    "Silver/Navy": 383,
+    "web": 427
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 291,
+    "Black/Silver": 235,
+    "Gold": 158,
+    "Navy": 195,
+    "Navy/Gold": 158,
+    "Silver": 235,
+    "Silver/Navy": 195,
+    "web": 291
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 418,
+    "Black/Silver": 385,
+    "Gold": 290,
+    "Navy": 359,
+    "Navy/Gold": 359,
+    "Silver": 385,
+    "Silver/Navy": 385,
+    "web": 418
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Black/Silver": 378,
+    "Gold": 275,
+    "Navy": 353,
+    "Navy/Gold": 353,
+    "Silver": 365,
+    "Silver/Navy": 365,
+    "web": 378
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 490,
+    "Black/Silver": 429,
+    "Gold": 345,
+    "Navy": 410,
+    "Navy/Gold": 345,
+    "Silver": 429,
+    "Silver/Navy": 410,
+    "web": 490
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 344,
+    "Black/Silver": 344,
+    "Gold": 263,
+    "Navy": 312,
+    "Navy/Gold": 312,
+    "Silver": 338,
+    "Silver/Navy": 338,
+    "web": 344
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 468,
+    "Black/Silver": 437,
+    "Gold": 359,
+    "Navy": 403,
+    "Navy/Gold": 359,
+    "Silver": 437,
+    "Silver/Navy": 403,
+    "web": 468
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Black": 627,
+    "Black/Silver": 545,
+    "Gold": 411,
+    "Navy": 499,
+    "Navy/Gold": 411,
+    "Silver": 545,
+    "Silver/Navy": 499,
+    "web": 627
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 450,
+    "Black/Silver": 376,
+    "Gold": 250,
+    "Navy": 315,
+    "Navy/Gold": 315,
+    "Silver": 376,
+    "Silver/Navy": 376,
+    "web": 450
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 360,
+    "Black/Silver": 360,
+    "Gold": 230,
+    "Navy": 300,
+    "Navy/Gold": 300,
+    "Silver": 320,
+    "Silver/Navy": 320,
+    "web": 360
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 189,
+    "Black/Silver": 189,
+    "Gold": 126,
+    "Navy": 153,
+    "Navy/Gold": 126,
+    "Silver": 180,
+    "Silver/Navy": 153,
+    "web": 189
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 479,
+    "Black/Silver": 407,
+    "Gold": 310,
+    "Navy": 366,
+    "Navy/Gold": 366,
+    "Silver": 407,
+    "Silver/Navy": 366,
+    "web": 479
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 540,
+    "Black/Silver": 540,
+    "Gold": 428,
+    "Navy": 482,
+    "Navy/Gold": 428,
+    "Silver": 514,
+    "Silver/Navy": 514,
+    "web": 540
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 199,
+    "Black/Silver": 199,
+    "Gold": 125,
+    "Navy": 147,
+    "Navy/Gold": 147,
+    "Silver": 176,
+    "Silver/Navy": 147,
+    "web": 199
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 462,
+    "Black/Silver": 396,
+    "Gold": 303,
+    "Navy": 380,
+    "Navy/Gold": 303,
+    "Silver": 396,
+    "Silver/Navy": 380,
+    "web": 462
+   }
+  }
+ ],
+ "id": "6f516bfe-0a0c-4813-9a5e-7209b9f338b0",
+ "lat": 25.9927427,
+ "lng": -80.1296589,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7254
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-silver-male",
+   "tee_name": "Black/Silver",
+   "yardage": 6761
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6572
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 6572
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-navy-female",
+   "tee_name": "Silver/Navy",
+   "yardage": 6227
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-navy-male",
+   "tee_name": "Silver/Navy",
+   "yardage": 6227
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "navy-female",
+   "tee_name": "Navy",
+   "yardage": 6012
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "navy-male",
+   "tee_name": "Navy",
+   "yardage": 6012
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "navy-gold-male",
+   "tee_name": "Navy/Gold",
+   "yardage": 5439
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "navy-gold-female",
+   "tee_name": "Navy/Gold",
+   "yardage": 5439
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5002
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5002
+  }
+ ]
+}

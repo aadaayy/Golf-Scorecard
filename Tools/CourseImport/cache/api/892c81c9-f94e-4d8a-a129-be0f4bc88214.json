@@ -1,0 +1,297 @@
+{
+ "city": "Indiantown",
+ "club_name": "Apogee Golf Club South",
+ "course_name": "Apogee Golf Club South",
+ "dataset_name": "Apogee Golf Club South",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "i": 225,
+    "ii": 275,
+    "iii": 326,
+    "iv": 363,
+    "v": 384,
+    "vi": 427
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "i": 196,
+    "ii": 226,
+    "iii": 308,
+    "iv": 337,
+    "v": 374,
+    "vi": 410
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "i": 60,
+    "ii": 70,
+    "iii": 91,
+    "iv": 104,
+    "v": 120,
+    "vi": 141
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "i": 331,
+    "ii": 363,
+    "iii": 423,
+    "iv": 449,
+    "v": 475,
+    "vi": 503
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "i": 286,
+    "ii": 323,
+    "iii": 377,
+    "iv": 415,
+    "v": 438,
+    "vi": 473
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "i": 110,
+    "ii": 129,
+    "iii": 148,
+    "iv": 166,
+    "v": 185,
+    "vi": 213
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "i": 251,
+    "ii": 311,
+    "iii": 347,
+    "iv": 365,
+    "v": 400,
+    "vi": 428
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "i": 167,
+    "ii": 206,
+    "iii": 239,
+    "iv": 286,
+    "v": 314,
+    "vi": 340
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "i": 386,
+    "ii": 423,
+    "iii": 474,
+    "iv": 529,
+    "v": 561,
+    "vi": 583
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 221,
+    "ii": 269,
+    "iii": 351,
+    "iv": 370,
+    "v": 406,
+    "vi": 439
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "i": 66,
+    "ii": 82,
+    "iii": 111,
+    "iv": 126,
+    "v": 146,
+    "vi": 160
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "i": 329,
+    "ii": 369,
+    "iii": 413,
+    "iv": 462,
+    "v": 499,
+    "vi": 526
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "i": 167,
+    "ii": 199,
+    "iii": 249,
+    "iv": 292,
+    "v": 309,
+    "vi": 352
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "i": 283,
+    "ii": 330,
+    "iii": 376,
+    "iv": 408,
+    "v": 441,
+    "vi": 483
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "i": 395,
+    "ii": 436,
+    "iii": 501,
+    "iv": 536,
+    "v": 566,
+    "vi": 592
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "i": 150,
+    "ii": 183,
+    "iii": 236,
+    "iv": 274,
+    "v": 292,
+    "vi": 331
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "i": 118,
+    "ii": 139,
+    "iii": 164,
+    "iv": 197,
+    "v": 221,
+    "vi": 251
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "i": 298,
+    "ii": 332,
+    "iii": 359,
+    "iv": 383,
+    "v": 446,
+    "vi": 486
+   }
+  }
+ ],
+ "id": "892c81c9-f94e-4d8a-a129-be0f4bc88214",
+ "lat": 27.059337,
+ "lng": -80.2951081,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 7138
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 6577
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 6062
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5493
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-female",
+   "tee_name": "II",
+   "yardage": 4665
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-female",
+   "tee_name": "I",
+   "yardage": 4039
+  }
+ ]
+}

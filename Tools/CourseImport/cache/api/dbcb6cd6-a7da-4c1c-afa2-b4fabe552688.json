@@ -1,0 +1,251 @@
+{
+ "city": "Sarasota",
+ "club_name": "Stoneybrook Golf Country Club",
+ "course_name": "Stoneybrook Golf Country Club",
+ "dataset_name": "Stoneybrook Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 415,
+    "Blue": 365,
+    "Gold": 280,
+    "Green": 272,
+    "Silver": 319,
+    "White": 355,
+    "web": 429
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 200,
+    "Blue": 155,
+    "Gold": 119,
+    "Green": 76,
+    "Silver": 134,
+    "White": 144,
+    "web": 178
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 335,
+    "Blue": 294,
+    "Gold": 220,
+    "Green": 198,
+    "Silver": 252,
+    "White": 263,
+    "web": 346
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 500,
+    "Blue": 477,
+    "Gold": 388,
+    "Green": 322,
+    "Silver": 444,
+    "White": 469,
+    "web": 512
+   }
+  }
+ ],
+ "id": "dbcb6cd6-a7da-4c1c-afa2-b4fabe552688",
+ "lat": 27.2199332,
+ "lng": -82.4763452,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6483
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 6483
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6042
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6042
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5553
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5553
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Silver",
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5153
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Silver",
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5153
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4625
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4625
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4056
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4056
+  }
+ ]
+}

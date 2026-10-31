@@ -1,0 +1,185 @@
+{
+ "city": "Palm Beach",
+ "club_name": "The Breakers Ocean Course",
+ "course_name": "The Breakers Ocean Course",
+ "dataset_name": "The Breakers Ocean Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 8,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 9,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "7cb47279-7dea-48b0-9b36-7a10a821fde7",
+ "lat": 26.7142963,
+ "lng": -80.0397109,
+ "par": null,
+ "tees": [
+  {
+   "gender": null,
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "black",
+   "tee_name": "Black",
+   "yardage": 5778
+  },
+  {
+   "gender": null,
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "white",
+   "tee_name": "White",
+   "yardage": 5308
+  },
+  {
+   "gender": null,
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "red",
+   "tee_name": "Red",
+   "yardage": 4823
+  },
+  {
+   "gender": null,
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "green",
+   "tee_name": "Green",
+   "yardage": 4131
+  }
+ ]
+}

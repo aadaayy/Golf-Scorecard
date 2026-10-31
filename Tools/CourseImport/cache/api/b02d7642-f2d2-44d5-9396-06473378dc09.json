@@ -1,0 +1,271 @@
+{
+ "city": "Longboat Key",
+ "club_name": "The Resort At Longboat Key Club Harbourside White Egret Blue Heron",
+ "course_name": "The Resort At Longboat Key Club Harbourside White Egret Blue Heron",
+ "dataset_name": "The Resort At Longboat Key Club Harbourside White Egret Blue Heron",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 396,
+    "Combo": 353,
+    "Gold": 332,
+    "Red": 314,
+    "White": 353
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 413,
+    "Combo": 366,
+    "Gold": 366,
+    "Red": 346,
+    "White": 383
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Blue": 538,
+    "Combo": 491,
+    "Gold": 491,
+    "Red": 440,
+    "White": 511
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 386,
+    "Combo": 365,
+    "Gold": 330,
+    "Red": 315,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 186,
+    "Combo": 160,
+    "Gold": 146,
+    "Red": 132,
+    "White": 160
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 381,
+    "Combo": 362,
+    "Gold": 335,
+    "Red": 314,
+    "White": 362
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 178,
+    "Combo": 167,
+    "Gold": 150,
+    "Red": 124,
+    "White": 167
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue": 514,
+    "Combo": 477,
+    "Gold": 477,
+    "Red": 445,
+    "White": 489
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Combo": 342,
+    "Gold": 300,
+    "Red": 253,
+    "White": 342
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 368,
+    "Combo": 338,
+    "Gold": 322,
+    "Red": 313,
+    "White": 338
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 400,
+    "Combo": 392,
+    "Gold": 320,
+    "Red": 309,
+    "White": 392
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 147,
+    "Combo": 121,
+    "Gold": 112,
+    "Red": 105,
+    "White": 121
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 399,
+    "Combo": 342,
+    "Gold": 342,
+    "Red": 309,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Blue": 611,
+    "Combo": 527,
+    "Gold": 527,
+    "Red": 446,
+    "White": 569
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Combo": 312,
+    "Gold": 289,
+    "Red": 254,
+    "White": 312
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 166,
+    "Combo": 141,
+    "Gold": 119,
+    "Red": 93,
+    "White": 141
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 413,
+    "Combo": 368,
+    "Gold": 368,
+    "Red": 333,
+    "White": 386
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 522,
+    "Combo": 500,
+    "Gold": 460,
+    "Red": 413,
+    "White": 500
+   }
+  }
+ ],
+ "id": "b02d7642-f2d2-44d5-9396-06473378dc09",
+ "lat": 27.3305619,
+ "lng": -82.5907087,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6710
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6256
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 6124
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5786
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5258
+  }
+ ]
+}

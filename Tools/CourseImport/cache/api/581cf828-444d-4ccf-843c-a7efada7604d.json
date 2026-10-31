@@ -1,0 +1,109 @@
+{
+ "city": "Lehigh Acres",
+ "club_name": "Ibis Golf Course At Pelican Preserve Golf Club",
+ "course_name": "Ibis Golf Course At Pelican Preserve Golf Club",
+ "dataset_name": "Ibis Golf Course At Pelican Preserve Golf Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "581cf828-444d-4ccf-843c-a7efada7604d",
+ "lat": 26.5909286,
+ "lng": -81.6552766,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3543
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3328
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3068
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2735
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2518
+  }
+ ]
+}

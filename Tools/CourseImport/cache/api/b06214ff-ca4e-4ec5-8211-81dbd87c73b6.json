@@ -1,0 +1,217 @@
+{
+ "city": "Hobe Sound",
+ "club_name": "Medalist Golf Club",
+ "course_name": "Medalist Golf Club",
+ "dataset_name": "Medalist Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back": 379,
+    "championship": 393
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "back": 442,
+    "championship": 465
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "back": 540,
+    "championship": 549
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "back": 158,
+    "championship": 184
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "back": 375,
+    "championship": 398
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back": 408,
+    "championship": 470
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "back": 500,
+    "championship": 517
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back": 180,
+    "championship": 197
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back": 404,
+    "championship": 456
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "back": 382,
+    "championship": 396
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "back": 320,
+    "championship": 338
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back": 157,
+    "championship": 190
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "back": 585,
+    "championship": 598
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "back": 318,
+    "championship": 318
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "back": 447,
+    "championship": 481
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "back": 181,
+    "championship": 200
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "back": 509,
+    "championship": 544
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back": 424,
+    "championship": 439
+   }
+  }
+ ],
+ "id": "b06214ff-ca4e-4ec5-8211-81dbd87c73b6",
+ "lat": 27.0826522,
+ "lng": -80.1493887,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tiger-male",
+   "tee_name": "Tiger",
+   "yardage": 7515
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7177
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6664
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 5823
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-female",
+   "tee_name": "Member",
+   "yardage": 5823
+  }
+ ]
+}

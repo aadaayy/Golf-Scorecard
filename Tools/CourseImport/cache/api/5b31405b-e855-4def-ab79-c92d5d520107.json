@@ -1,0 +1,265 @@
+{
+ "city": "Cape Coral",
+ "club_name": "East At Hunters Run Golf Course",
+ "course_name": "East At Hunters Run Golf Course",
+ "dataset_name": "East At Hunters Run Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "green": 292,
+    "white/green": 335
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "green": 335,
+    "white/green": 335
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "green": 506,
+    "white/green": 521
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "green": 164,
+    "white/green": 164
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "green": 303,
+    "white/green": 303
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "green": 143,
+    "white/green": 171
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "green": 352,
+    "white/green": 384
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "green": 135,
+    "white/green": 135
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "green": 430,
+    "white/green": 484
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "green": 453,
+    "white/green": 453
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "green": 146,
+    "white/green": 146
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "green": 329,
+    "white/green": 329
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "green": 273,
+    "white/green": 273
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "green": 127,
+    "white/green": 141
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "green": 349,
+    "white/green": 375
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "green": 279,
+    "white/green": 279
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "green": 480,
+    "white/green": 515
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "green": 300,
+    "white/green": 327
+   }
+  }
+ ],
+ "id": "5b31405b-e855-4def-ab79-c92d5d520107",
+ "lat": 26.634274,
+ "lng": -81.967775,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6444
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6215
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6002
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 5652
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5437
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5437
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-yellow-female",
+   "tee_name": "Green/Yellow",
+   "yardage": 5015
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 4823
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 4823
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 4102
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 4102
+  }
+ ]
+}

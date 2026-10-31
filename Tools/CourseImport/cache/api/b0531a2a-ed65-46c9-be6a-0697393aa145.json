@@ -1,0 +1,313 @@
+{
+ "city": "Naples",
+ "club_name": "Lely Resort Golf Country Club Mustang Course",
+ "course_name": "Lely Resort Golf Country Club Mustang Course",
+ "dataset_name": "Lely Resort Golf Country Club Mustang Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "back/green": 462,
+    "championship/black": 531,
+    "forward/aqua": 359,
+    "middle/white": 394,
+    "mustang/green-white": 462,
+    "mustang/white-aqua": 394
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "back/green": 396,
+    "championship/black": 436,
+    "forward/aqua": 339,
+    "middle/white": 363,
+    "mustang/green-white": 363,
+    "mustang/white-aqua": 339
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "back/green": 399,
+    "championship/black": 439,
+    "forward/aqua": 343,
+    "middle/white": 374,
+    "mustang/green-white": 374,
+    "mustang/white-aqua": 343
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "back/green": 425,
+    "championship/black": 453,
+    "forward/aqua": 353,
+    "middle/white": 395,
+    "mustang/green-white": 395,
+    "mustang/white-aqua": 353
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "back/green": 142,
+    "championship/black": 162,
+    "forward/aqua": 110,
+    "middle/white": 131,
+    "mustang/green-white": 142,
+    "mustang/white-aqua": 131
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back/green": 382,
+    "championship/black": 418,
+    "forward/aqua": 332,
+    "middle/white": 361,
+    "mustang/green-white": 361,
+    "mustang/white-aqua": 332
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "back/green": 507,
+    "championship/black": 545,
+    "forward/aqua": 420,
+    "middle/white": 468,
+    "mustang/green-white": 507,
+    "mustang/white-aqua": 420
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back/green": 150,
+    "championship/black": 162,
+    "forward/aqua": 118,
+    "middle/white": 128,
+    "mustang/green-white": 128,
+    "mustang/white-aqua": 128
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back/green": 403,
+    "championship/black": 436,
+    "forward/aqua": 333,
+    "middle/white": 363,
+    "mustang/green-white": 363,
+    "mustang/white-aqua": 333
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "back/green": 511,
+    "championship/black": 543,
+    "forward/aqua": 443,
+    "middle/white": 477,
+    "mustang/green-white": 477,
+    "mustang/white-aqua": 443
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "back/green": 441,
+    "championship/black": 478,
+    "forward/aqua": 318,
+    "middle/white": 399,
+    "mustang/green-white": 399,
+    "mustang/white-aqua": 318
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back/green": 170,
+    "championship/black": 183,
+    "forward/aqua": 104,
+    "middle/white": 132,
+    "mustang/green-white": 132,
+    "mustang/white-aqua": 132
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "back/green": 389,
+    "championship/black": 425,
+    "forward/aqua": 253,
+    "middle/white": 338,
+    "mustang/green-white": 338,
+    "mustang/white-aqua": 338
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "back/green": 515,
+    "championship/black": 563,
+    "forward/aqua": 402,
+    "middle/white": 470,
+    "mustang/green-white": 515,
+    "mustang/white-aqua": 470
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "back/green": 458,
+    "championship/black": 478,
+    "forward/aqua": 343,
+    "middle/white": 430,
+    "mustang/green-white": 430,
+    "mustang/white-aqua": 343
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "back/green": 141,
+    "championship/black": 167,
+    "forward/aqua": 94,
+    "middle/white": 126,
+    "mustang/green-white": 141,
+    "mustang/white-aqua": 126
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "back/green": 376,
+    "championship/black": 416,
+    "forward/aqua": 310,
+    "middle/white": 355,
+    "mustang/green-white": 355,
+    "mustang/white-aqua": 310
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back/green": 360,
+    "championship/black": 395,
+    "forward/aqua": 275,
+    "middle/white": 314,
+    "mustang/green-white": 360,
+    "mustang/white-aqua": 314
+   }
+  }
+ ],
+ "id": "b0531a2a-ed65-46c9-be6a-0697393aa145",
+ "lat": 26.0848451,
+ "lng": -81.701262,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "championship-black-male",
+   "tee_name": "Championship/Black",
+   "yardage": 7230
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "back-green-male",
+   "tee_name": "Back/Green",
+   "yardage": 6627
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "mustang-green-white-male",
+   "tee_name": "Mustang/Green-White",
+   "yardage": 6242
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "middle-white-male",
+   "tee_name": "Middle/White",
+   "yardage": 6018
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "middle-white-female",
+   "tee_name": "Middle/White",
+   "yardage": 6018
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "mustang-white-aqua-male",
+   "tee_name": "Mustang/White-Aqua",
+   "yardage": 5567
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-aqua-female",
+   "tee_name": "Forward/Aqua",
+   "yardage": 5249
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-aqua-male",
+   "tee_name": "Forward/Aqua",
+   "yardage": 5249
+  }
+ ]
+}

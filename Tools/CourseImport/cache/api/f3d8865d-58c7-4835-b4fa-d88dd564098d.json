@@ -1,0 +1,535 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Broken Sound Club Club Course",
+ "course_name": "Broken Sound Club Club Course",
+ "dataset_name": "Broken Sound Club Club Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "tee_1": 390,
+    "tee_1/2": 377,
+    "tee_2": 377,
+    "tee_2/3": 359,
+    "tee_3": 359,
+    "tee_3/4": 312,
+    "tee_4": 312,
+    "tee_4/5": 306,
+    "tee_5": 306,
+    "tee_5/6": 291,
+    "tee_6": 291,
+    "tee_6/7": 286,
+    "tee_7": 286
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "tee_1": 556,
+    "tee_1/2": 556,
+    "tee_2": 529,
+    "tee_2/3": 529,
+    "tee_3": 502,
+    "tee_3/4": 502,
+    "tee_4": 460,
+    "tee_4/5": 460,
+    "tee_5": 431,
+    "tee_5/6": 431,
+    "tee_6": 411,
+    "tee_6/7": 411,
+    "tee_7": 407
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "tee_1": 195,
+    "tee_1/2": 195,
+    "tee_2": 170,
+    "tee_2/3": 170,
+    "tee_3": 157,
+    "tee_3/4": 157,
+    "tee_4": 136,
+    "tee_4/5": 136,
+    "tee_5": 119,
+    "tee_5/6": 119,
+    "tee_6": 112,
+    "tee_6/7": 112,
+    "tee_7": 96
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "tee_1": 395,
+    "tee_1/2": 371,
+    "tee_2": 371,
+    "tee_2/3": 349,
+    "tee_3": 349,
+    "tee_3/4": 335,
+    "tee_4": 335,
+    "tee_4/5": 321,
+    "tee_5": 321,
+    "tee_5/6": 272,
+    "tee_6": 272,
+    "tee_6/7": 272,
+    "tee_7": 248
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "tee_1": 359,
+    "tee_1/2": 340,
+    "tee_2": 340,
+    "tee_2/3": 321,
+    "tee_3": 321,
+    "tee_3/4": 304,
+    "tee_4": 304,
+    "tee_4/5": 278,
+    "tee_5": 278,
+    "tee_5/6": 273,
+    "tee_6": 273,
+    "tee_6/7": 222,
+    "tee_7": 222
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "tee_1": 394,
+    "tee_1/2": 362,
+    "tee_2": 362,
+    "tee_2/3": 362,
+    "tee_3": 343,
+    "tee_3/4": 334,
+    "tee_4": 334,
+    "tee_4/5": 324,
+    "tee_5": 324,
+    "tee_5/6": 296,
+    "tee_6": 296,
+    "tee_6/7": 230,
+    "tee_7": 230
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "tee_1": 209,
+    "tee_1/2": 209,
+    "tee_2": 181,
+    "tee_2/3": 181,
+    "tee_3": 166,
+    "tee_3/4": 166,
+    "tee_4": 144,
+    "tee_4/5": 144,
+    "tee_5": 135,
+    "tee_5/6": 135,
+    "tee_6": 109,
+    "tee_6/7": 109,
+    "tee_7": 84
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "tee_1": 451,
+    "tee_1/2": 420,
+    "tee_2": 420,
+    "tee_2/3": 403,
+    "tee_3": 403,
+    "tee_3/4": 379,
+    "tee_4": 379,
+    "tee_4/5": 359,
+    "tee_5": 359,
+    "tee_5/6": 312,
+    "tee_6": 312,
+    "tee_6/7": 269,
+    "tee_7": 269
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "tee_1": 549,
+    "tee_1/2": 549,
+    "tee_2": 500,
+    "tee_2/3": 500,
+    "tee_3": 481,
+    "tee_3/4": 481,
+    "tee_4": 459,
+    "tee_4/5": 459,
+    "tee_5": 436,
+    "tee_5/6": 436,
+    "tee_6": 416,
+    "tee_6/7": 416,
+    "tee_7": 376
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "tee_1": 550,
+    "tee_1/2": 550,
+    "tee_2": 522,
+    "tee_2/3": 522,
+    "tee_3": 495,
+    "tee_3/4": 495,
+    "tee_4": 470,
+    "tee_4/5": 470,
+    "tee_5": 426,
+    "tee_5/6": 426,
+    "tee_6": 391,
+    "tee_6/7": 391,
+    "tee_7": 385
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "tee_1": 410,
+    "tee_1/2": 385,
+    "tee_2": 385,
+    "tee_2/3": 363,
+    "tee_3": 363,
+    "tee_3/4": 341,
+    "tee_4": 341,
+    "tee_4/5": 313,
+    "tee_5": 313,
+    "tee_5/6": 288,
+    "tee_6": 288,
+    "tee_6/7": 288,
+    "tee_7": 288
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "tee_1": 201,
+    "tee_1/2": 201,
+    "tee_2": 188,
+    "tee_2/3": 188,
+    "tee_3": 170,
+    "tee_3/4": 170,
+    "tee_4": 144,
+    "tee_4/5": 144,
+    "tee_5": 127,
+    "tee_5/6": 127,
+    "tee_6": 98,
+    "tee_6/7": 98,
+    "tee_7": 93
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "tee_1": 539,
+    "tee_1/2": 539,
+    "tee_2": 516,
+    "tee_2/3": 516,
+    "tee_3": 483,
+    "tee_3/4": 483,
+    "tee_4": 451,
+    "tee_4/5": 451,
+    "tee_5": 414,
+    "tee_5/6": 414,
+    "tee_6": 407,
+    "tee_6/7": 407,
+    "tee_7": 373
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "tee_1": 199,
+    "tee_1/2": 199,
+    "tee_2": 171,
+    "tee_2/3": 171,
+    "tee_3": 156,
+    "tee_3/4": 156,
+    "tee_4": 136,
+    "tee_4/5": 136,
+    "tee_5": 129,
+    "tee_5/6": 129,
+    "tee_6": 110,
+    "tee_6/7": 110,
+    "tee_7": 103
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "tee_1": 401,
+    "tee_1/2": 387,
+    "tee_2": 387,
+    "tee_2/3": 359,
+    "tee_3": 359,
+    "tee_3/4": 335,
+    "tee_4": 335,
+    "tee_4/5": 316,
+    "tee_5": 316,
+    "tee_5/6": 277,
+    "tee_6": 277,
+    "tee_6/7": 277,
+    "tee_7": 213
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "tee_1": 424,
+    "tee_1/2": 398,
+    "tee_2": 398,
+    "tee_2/3": 374,
+    "tee_3": 374,
+    "tee_3/4": 344,
+    "tee_4": 344,
+    "tee_4/5": 302,
+    "tee_5": 302,
+    "tee_5/6": 287,
+    "tee_6": 287,
+    "tee_6/7": 247,
+    "tee_7": 247
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "tee_1": 394,
+    "tee_1/2": 365,
+    "tee_2": 365,
+    "tee_2/3": 340,
+    "tee_3": 340,
+    "tee_3/4": 312,
+    "tee_4": 312,
+    "tee_4/5": 287,
+    "tee_5": 287,
+    "tee_5/6": 248,
+    "tee_6": 248,
+    "tee_6/7": 244,
+    "tee_7": 244
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "tee_1": 410,
+    "tee_1/2": 387,
+    "tee_2": 387,
+    "tee_2/3": 361,
+    "tee_3": 361,
+    "tee_3/4": 332,
+    "tee_4": 332,
+    "tee_4/5": 321,
+    "tee_5": 321,
+    "tee_5/6": 279,
+    "tee_6": 279,
+    "tee_6/7": 242,
+    "tee_7": 242
+   }
+  }
+ ],
+ "id": "f3d8865d-58c7-4835-b4fa-d88dd564098d",
+ "lat": 26.3977945,
+ "lng": -80.1352726,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-1-male",
+   "tee_name": "Tee 1",
+   "yardage": 7025
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-1-2-male",
+   "tee_name": "Tee 1/2",
+   "yardage": 6790
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-2-male",
+   "tee_name": "Tee 2",
+   "yardage": 6569
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-2-3-male",
+   "tee_name": "Tee 2/3",
+   "yardage": 6368
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-3-male",
+   "tee_name": "Tee 3",
+   "yardage": 6182
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-3-4-male",
+   "tee_name": "Tee 3/4",
+   "yardage": 5938
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-male",
+   "tee_name": "Tee 4",
+   "yardage": 5728
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-female",
+   "tee_name": "Tee 4",
+   "yardage": 5728
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-5-male",
+   "tee_name": "Tee 4/5",
+   "yardage": 5527
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-5-female",
+   "tee_name": "Tee 4/5",
+   "yardage": 5527
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-male",
+   "tee_name": "Tee 5",
+   "yardage": 5344
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-female",
+   "tee_name": "Tee 5",
+   "yardage": 5344
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-6-male",
+   "tee_name": "Tee 5/6",
+   "yardage": 5040
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-6-female",
+   "tee_name": "Tee 5/6",
+   "yardage": 5040
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-6-male",
+   "tee_name": "Tee 6",
+   "yardage": 4877
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-6-female",
+   "tee_name": "Tee 6",
+   "yardage": 4877
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-6-7-male",
+   "tee_name": "Tee 6/7",
+   "yardage": 4631
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-6-7-female",
+   "tee_name": "Tee 6/7",
+   "yardage": 4631
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-7-male",
+   "tee_name": "Tee 7",
+   "yardage": 4406
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-7-female",
+   "tee_name": "Tee 7",
+   "yardage": 4406
+  }
+ ]
+}

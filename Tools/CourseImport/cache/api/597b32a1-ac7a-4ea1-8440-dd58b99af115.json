@@ -1,0 +1,151 @@
+{
+ "city": "Sebring",
+ "club_name": "Sebring International Golf Resort Green Course",
+ "course_name": "Sebring International Golf Resort Green Course",
+ "dataset_name": "Sebring International Golf Resort Green Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 4,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "597b32a1-ac7a-4ea1-8440-dd58b99af115",
+ "lat": 27.4414827,
+ "lng": -81.3165688,
+ "par": 35,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3208
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3046
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 2821
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2465
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "violet-male",
+   "tee_name": "Violet",
+   "yardage": 2189
+  }
+ ]
+}

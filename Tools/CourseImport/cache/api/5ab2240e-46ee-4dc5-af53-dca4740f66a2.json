@@ -1,0 +1,259 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Boca West Country Club Dye Iv",
+ "course_name": "Boca West Country Club Dye Iv",
+ "dataset_name": "Boca West Country Club Dye Iv",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 534,
+    "green": 439,
+    "white": 503
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 181,
+    "green": 118,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "blue": 487,
+    "green": 394,
+    "white": 462
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 378,
+    "green": 296,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 356,
+    "green": 281,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 152,
+    "green": 119,
+    "white": 138
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 370,
+    "green": 293,
+    "white": 356
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 190,
+    "green": 126,
+    "white": 159
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 397,
+    "green": 310,
+    "white": 368
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 545,
+    "green": 436,
+    "white": 518
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 339,
+    "green": 265,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 167,
+    "green": 88,
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 371,
+    "green": 264,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 160,
+    "green": 106,
+    "white": 149
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 394,
+    "green": 290,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 490,
+    "green": 402,
+    "white": 471
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 383,
+    "green": 289,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 362,
+    "green": 310,
+    "white": 344
+   }
+  }
+ ],
+ "id": "5ab2240e-46ee-4dc5-af53-dca4740f66a2",
+ "lat": 26.3798065,
+ "lng": -80.1599122,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6954
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6499
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "brown-male",
+   "tee_name": "Brown",
+   "yardage": 6221
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5934
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5368
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5368
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4869
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4869
+  }
+ ]
+}

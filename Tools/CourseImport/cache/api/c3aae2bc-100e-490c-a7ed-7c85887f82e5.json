@@ -1,0 +1,593 @@
+{
+ "city": "Port St. Lucie",
+ "club_name": "Dye Course At Pga Golf Club",
+ "course_name": "Dye Course At Pga Golf Club",
+ "dataset_name": "Dye Course At Pga Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "forward": 280,
+    "forward/friendly": 280,
+    "friendly": 220,
+    "medal": 380,
+    "medal/tournament": 380,
+    "middle": 315,
+    "middle/forward": 315,
+    "standard": 325,
+    "standard/middle": 325,
+    "tournament": 340,
+    "tournament/standard": 340
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "forward": 330,
+    "forward/friendly": 225,
+    "friendly": 225,
+    "medal": 496,
+    "medal/tournament": 455,
+    "middle": 380,
+    "middle/forward": 330,
+    "standard": 415,
+    "standard/middle": 380,
+    "tournament": 455,
+    "tournament/standard": 415
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "forward": 112,
+    "forward/friendly": 112,
+    "friendly": 112,
+    "medal": 190,
+    "medal/tournament": 190,
+    "middle": 135,
+    "middle/forward": 135,
+    "standard": 145,
+    "standard/middle": 145,
+    "tournament": 160,
+    "tournament/standard": 160
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "forward": 285,
+    "forward/friendly": 195,
+    "friendly": 195,
+    "medal": 365,
+    "medal/tournament": 365,
+    "middle": 310,
+    "middle/forward": 310,
+    "standard": 340,
+    "standard/middle": 340,
+    "tournament": 350,
+    "tournament/standard": 350
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "forward": 403,
+    "forward/friendly": 403,
+    "friendly": 265,
+    "medal": 520,
+    "medal/tournament": 491,
+    "middle": 470,
+    "middle/forward": 403,
+    "standard": 480,
+    "standard/middle": 470,
+    "tournament": 491,
+    "tournament/standard": 480
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "forward": 105,
+    "forward/friendly": 105,
+    "friendly": 90,
+    "medal": 165,
+    "medal/tournament": 165,
+    "middle": 127,
+    "middle/forward": 127,
+    "standard": 140,
+    "standard/middle": 140,
+    "tournament": 155,
+    "tournament/standard": 155
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "forward": 425,
+    "forward/friendly": 425,
+    "friendly": 280,
+    "medal": 575,
+    "medal/tournament": 535,
+    "middle": 475,
+    "middle/forward": 425,
+    "standard": 511,
+    "standard/middle": 475,
+    "tournament": 535,
+    "tournament/standard": 511
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "forward": 280,
+    "forward/friendly": 280,
+    "friendly": 210,
+    "medal": 395,
+    "medal/tournament": 395,
+    "middle": 335,
+    "middle/forward": 335,
+    "standard": 350,
+    "standard/middle": 350,
+    "tournament": 370,
+    "tournament/standard": 370
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "forward": 265,
+    "forward/friendly": 200,
+    "friendly": 200,
+    "medal": 450,
+    "medal/tournament": 410,
+    "middle": 340,
+    "middle/forward": 265,
+    "standard": 381,
+    "standard/middle": 340,
+    "tournament": 410,
+    "tournament/standard": 381
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "forward": 410,
+    "forward/friendly": 410,
+    "friendly": 260,
+    "medal": 540,
+    "medal/tournament": 522,
+    "middle": 490,
+    "middle/forward": 410,
+    "standard": 510,
+    "standard/middle": 490,
+    "tournament": 522,
+    "tournament/standard": 522
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "forward": 270,
+    "forward/friendly": 270,
+    "friendly": 220,
+    "medal": 430,
+    "medal/tournament": 430,
+    "middle": 284,
+    "middle/forward": 284,
+    "standard": 345,
+    "standard/middle": 345,
+    "tournament": 385,
+    "tournament/standard": 385
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "forward": 280,
+    "forward/friendly": 210,
+    "friendly": 210,
+    "medal": 340,
+    "medal/tournament": 340,
+    "middle": 290,
+    "middle/forward": 290,
+    "standard": 320,
+    "standard/middle": 320,
+    "tournament": 330,
+    "tournament/standard": 330
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "forward": 115,
+    "forward/friendly": 115,
+    "friendly": 105,
+    "medal": 200,
+    "medal/tournament": 200,
+    "middle": 140,
+    "middle/forward": 140,
+    "standard": 150,
+    "standard/middle": 150,
+    "tournament": 175,
+    "tournament/standard": 175
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "forward": 275,
+    "forward/friendly": 275,
+    "friendly": 230,
+    "medal": 430,
+    "medal/tournament": 405,
+    "middle": 350,
+    "middle/forward": 275,
+    "standard": 390,
+    "standard/middle": 350,
+    "tournament": 405,
+    "tournament/standard": 390
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "forward": 331,
+    "forward/friendly": 215,
+    "friendly": 215,
+    "medal": 480,
+    "medal/tournament": 440,
+    "middle": 380,
+    "middle/forward": 331,
+    "standard": 400,
+    "standard/middle": 380,
+    "tournament": 440,
+    "tournament/standard": 400
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "forward": 120,
+    "forward/friendly": 120,
+    "friendly": 110,
+    "medal": 225,
+    "medal/tournament": 225,
+    "middle": 141,
+    "middle/forward": 141,
+    "standard": 165,
+    "standard/middle": 165,
+    "tournament": 189,
+    "tournament/standard": 165
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "forward": 430,
+    "forward/friendly": 430,
+    "friendly": 275,
+    "medal": 565,
+    "medal/tournament": 530,
+    "middle": 485,
+    "middle/forward": 430,
+    "standard": 500,
+    "standard/middle": 485,
+    "tournament": 530,
+    "tournament/standard": 500
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "forward": 275,
+    "forward/friendly": 275,
+    "friendly": 215,
+    "medal": 475,
+    "medal/tournament": 440,
+    "middle": 360,
+    "middle/forward": 275,
+    "standard": 385,
+    "standard/middle": 360,
+    "tournament": 440,
+    "tournament/standard": 385
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 24,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 25,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 26,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 27,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 28,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 29,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 30,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 31,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "c3aae2bc-100e-490c-a7ed-7c85887f82e5",
+ "lat": 27.3097433,
+ "lng": -80.4295688,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-female",
+   "tee_name": "Medal",
+   "yardage": 7221
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-male",
+   "tee_name": "Medal",
+   "yardage": 7221
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-tournament-male",
+   "tee_name": "Medal/Tournament",
+   "yardage": 6918
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-tournament-female",
+   "tee_name": "Medal/Tournament",
+   "yardage": 6918
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-female",
+   "tee_name": "Tournament",
+   "yardage": 6682
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6682
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-standard-male",
+   "tee_name": "Tournament/Standard",
+   "yardage": 6426
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-standard-female",
+   "tee_name": "Tournament/Standard",
+   "yardage": 6426
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-female",
+   "tee_name": "Standard",
+   "yardage": 6252
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-male",
+   "tee_name": "Standard",
+   "yardage": 6252
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-middle-female",
+   "tee_name": "Standard/Middle",
+   "yardage": 6010
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "standard-middle-male",
+   "tee_name": "Standard/Middle",
+   "yardage": 6010
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-female",
+   "tee_name": "Middle",
+   "yardage": 5807
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5807
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-forward-male",
+   "tee_name": "Middle/Forward",
+   "yardage": 5363
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-forward-female",
+   "tee_name": "Middle/Forward",
+   "yardage": 5363
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 4991
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4991
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-friendly-male",
+   "tee_name": "Forward/Friendly",
+   "yardage": 4545
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-friendly-female",
+   "tee_name": "Forward/Friendly",
+   "yardage": 4545
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3637
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 3637
+  }
+ ]
+}

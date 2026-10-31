@@ -1,0 +1,274 @@
+{
+ "city": "Boynton Beach",
+ "club_name": "Aberdeen Golf Country Club",
+ "course_name": "Aberdeen Golf Country Club",
+ "dataset_name": "Aberdeen Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "championship": 392,
+    "i": 374,
+    "ii": 360,
+    "iv": 303,
+    "v": 298,
+    "vi": 188
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "championship": 386,
+    "i": 364,
+    "ii": 328,
+    "iv": 248,
+    "v": 241,
+    "vi": 191
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "championship": 451,
+    "i": 425,
+    "ii": 350,
+    "iv": 258,
+    "v": 252,
+    "vi": 169
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "championship": 187,
+    "i": 178,
+    "ii": 162,
+    "iv": 126,
+    "v": 121,
+    "vi": 113
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "championship": 451,
+    "i": 375,
+    "ii": 344,
+    "iv": 272,
+    "v": 267,
+    "vi": 234
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "championship": 411,
+    "i": 371,
+    "ii": 342,
+    "iv": 293,
+    "v": 288,
+    "vi": 226
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "championship": 542,
+    "i": 510,
+    "ii": 450,
+    "iv": 430,
+    "v": 345,
+    "vi": 340
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "championship": 162,
+    "i": 133,
+    "ii": 129,
+    "iv": 96,
+    "v": 93,
+    "vi": 73
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "championship": 567,
+    "i": 521,
+    "ii": 501,
+    "iv": 434,
+    "v": 356,
+    "vi": 351
+   }
+  }
+ ],
+ "id": "6d69e238-3eb1-4c9e-a3de-ec34583ffde6",
+ "lat": 26.5508484,
+ "lng": -80.1518542,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7091
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6511
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6014
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5554
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 5554
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5030
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5030
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 4569
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 4569
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 3863
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 3863
+  }
+ ]
+}

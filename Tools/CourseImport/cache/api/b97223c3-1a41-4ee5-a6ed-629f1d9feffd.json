@@ -1,0 +1,219 @@
+{
+ "city": "Palm Beach",
+ "club_name": "Palm Beach Golf Course",
+ "course_name": "Palm Beach Golf Course",
+ "dataset_name": "Palm Beach Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "black": 167,
+    "blue": 147,
+    "white": 117
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 126,
+    "blue": 110,
+    "white": 89
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 196,
+    "blue": 164,
+    "white": 139
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 191,
+    "blue": 162,
+    "white": 110
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 176,
+    "blue": 147,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 128,
+    "blue": 103,
+    "white": 76
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 108,
+    "blue": 89,
+    "white": 59
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 133,
+    "blue": 112,
+    "white": 85
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 81,
+    "blue": 66,
+    "white": 49
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "black": 112,
+    "blue": 91,
+    "white": 71
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 108,
+    "blue": 82,
+    "white": 63
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 126,
+    "blue": 104,
+    "white": 90
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 127,
+    "blue": 108,
+    "white": 86
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 129,
+    "blue": 110,
+    "white": 87
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 156,
+    "blue": 127,
+    "white": 79
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 117,
+    "blue": 103,
+    "white": 81
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 148,
+    "blue": 120,
+    "white": 91
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "blue": 134,
+    "white": 104
+   }
+  }
+ ],
+ "id": "b97223c3-1a41-4ee5-a6ed-629f1d9feffd",
+ "lat": 26.632223,
+ "lng": -80.0380028,
+ "par": 54,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 2572
+  },
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 2079
+  },
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1602
+  }
+ ]
+}

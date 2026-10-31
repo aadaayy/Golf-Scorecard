@@ -1,0 +1,77 @@
+{
+ "city": "FL 33322",
+ "club_name": "Sunrise Lakes Phase Iv Golf Course",
+ "course_name": "Sunrise Lakes Phase Iv Golf Course",
+ "dataset_name": "Sunrise Lakes Phase Iv Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "afdc6c76-36c7-4a77-be27-be5019f9ecfd",
+ "lat": 26.1589283,
+ "lng": -80.2854132,
+ "par": 31,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 31,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1575
+  }
+ ]
+}

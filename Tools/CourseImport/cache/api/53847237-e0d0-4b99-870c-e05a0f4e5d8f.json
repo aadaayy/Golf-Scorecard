@@ -1,0 +1,315 @@
+{
+ "city": "Vero Beach",
+ "club_name": "Quail Valley Golf Club",
+ "course_name": "Quail Valley Golf Club",
+ "dataset_name": "Quail Valley Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 414,
+    "blue": 378,
+    "gold": 398,
+    "green": 337,
+    "red": 277,
+    "web": 380,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 183,
+    "blue": 165,
+    "gold": 174,
+    "green": 145,
+    "red": 131,
+    "web": 165,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 622,
+    "blue": 484,
+    "gold": 563,
+    "green": 443,
+    "red": 420,
+    "web": 540,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 436,
+    "blue": 386,
+    "gold": 420,
+    "green": 337,
+    "red": 299,
+    "web": 387,
+    "white": 364
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 455,
+    "blue": 385,
+    "gold": 406,
+    "green": 338,
+    "red": 296,
+    "web": 383,
+    "white": 362
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 394,
+    "blue": 353,
+    "gold": 373,
+    "green": 314,
+    "red": 279,
+    "web": 355,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 575,
+    "blue": 516,
+    "gold": 536,
+    "green": 454,
+    "red": 413,
+    "web": 520,
+    "white": 489
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 188,
+    "blue": 168,
+    "gold": 172,
+    "green": 146,
+    "red": 129,
+    "web": 172,
+    "white": 158
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 437,
+    "blue": 367,
+    "gold": 396,
+    "green": 329,
+    "red": 271,
+    "web": 363,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 565,
+    "blue": 497,
+    "gold": 524,
+    "green": 444,
+    "red": 423,
+    "web": 510,
+    "white": 470
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 444,
+    "blue": 351,
+    "gold": 370,
+    "green": 312,
+    "red": 276,
+    "web": 350,
+    "white": 334
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 202,
+    "blue": 159,
+    "gold": 166,
+    "green": 138,
+    "red": 121,
+    "web": 160,
+    "white": 145
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 465,
+    "blue": 386,
+    "gold": 409,
+    "green": 333,
+    "red": 305,
+    "web": 395,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 530,
+    "blue": 486,
+    "gold": 507,
+    "green": 439,
+    "red": 413,
+    "web": 495,
+    "white": 464
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 429,
+    "blue": 381,
+    "gold": 406,
+    "green": 339,
+    "red": 294,
+    "web": 386,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 256,
+    "blue": 197,
+    "gold": 223,
+    "green": 159,
+    "red": 143,
+    "web": 200,
+    "white": 176
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 413,
+    "blue": 368,
+    "gold": 391,
+    "green": 313,
+    "red": 286,
+    "web": 370,
+    "white": 345
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 452,
+    "blue": 407,
+    "gold": 430,
+    "green": 355,
+    "red": 305,
+    "web": 409,
+    "white": 382
+   }
+  }
+ ],
+ "id": "53847237-e0d0-4b99-870c-e05a0f4e5d8f",
+ "lat": 27.7147749,
+ "lng": -80.4815735,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7460
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6864
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6434
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6066
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5675
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5081
+  }
+ ]
+}

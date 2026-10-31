@@ -1,0 +1,287 @@
+{
+ "city": "Sanibel",
+ "club_name": "Sanibel Island Golf Club",
+ "course_name": "Sanibel Island Golf Club",
+ "dataset_name": "Sanibel Island Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 403,
+    "Gold": 368,
+    "Red": 277,
+    "White": 383,
+    "White/Gold": 368
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 386,
+    "Gold": 315,
+    "Red": 302,
+    "White": 360,
+    "White/Gold": 315
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 167,
+    "Gold": 96,
+    "Red": 84,
+    "White": 134,
+    "White/Gold": 134
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 377,
+    "Gold": 317,
+    "Red": 278,
+    "White": 348,
+    "White/Gold": 317
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 392,
+    "Gold": 270,
+    "Red": 266,
+    "White": 349,
+    "White/Gold": 270
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 148,
+    "Gold": 95,
+    "Red": 91,
+    "White": 141,
+    "White/Gold": 141
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 358,
+    "Gold": 285,
+    "Red": 275,
+    "White": 299,
+    "White/Gold": 299
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 370,
+    "Gold": 343,
+    "Red": 204,
+    "White": 356,
+    "White/Gold": 356
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Blue": 531,
+    "Gold": 460,
+    "Red": 373,
+    "White": 500,
+    "White/Gold": 460
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 293,
+    "Gold": 275,
+    "Red": 272,
+    "White": 289,
+    "White/Gold": 289
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 339,
+    "Gold": 270,
+    "Red": 263,
+    "White": 315,
+    "White/Gold": 270
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 347,
+    "Gold": 291,
+    "Red": 236,
+    "White": 311,
+    "White/Gold": 311
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 151,
+    "Gold": 126,
+    "Red": 106,
+    "White": 139,
+    "White/Gold": 139
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 321,
+    "Gold": 299,
+    "Red": 286,
+    "White": 316,
+    "White/Gold": 299
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 432,
+    "Gold": 348,
+    "Red": 324,
+    "White": 407,
+    "White/Gold": 348
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 164,
+    "Gold": 127,
+    "Red": 96,
+    "White": 147,
+    "White/Gold": 147
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 388,
+    "Gold": 293,
+    "Red": 232,
+    "White": 346,
+    "White/Gold": 293
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 489,
+    "Gold": 342,
+    "Red": 338,
+    "White": 431,
+    "White/Gold": 431
+   }
+  }
+ ],
+ "id": "88f81ccb-a8c2-4a2e-bc46-7aa791e85f03",
+ "lat": 26.4367848,
+ "lng": -82.0498286,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6056
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5571
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "white-gold-male",
+   "tee_name": "White/Gold",
+   "yardage": 5187
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4920
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4920
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4303
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4303
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Eastwood Golf Course",
+ "course_name": "Eastwood Golf Course",
+ "dataset_name": "Eastwood Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 415,
+    "blue": 375,
+    "gold": 320,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 225,
+    "blue": 194,
+    "gold": 159,
+    "white": 176
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 510,
+    "blue": 405,
+    "gold": 325,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 375,
+    "gold": 320,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 423,
+    "blue": 390,
+    "gold": 335,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 185,
+    "blue": 161,
+    "gold": 132,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "blue": 348,
+    "gold": 275,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 518,
+    "blue": 502,
+    "gold": 428,
+    "white": 487
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 460,
+    "blue": 361,
+    "gold": 270,
+    "white": 345
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "blue": 393,
+    "gold": 355,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 462,
+    "blue": 412,
+    "gold": 328,
+    "white": 377
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 586,
+    "blue": 543,
+    "gold": 468,
+    "white": 497
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 218,
+    "blue": 188,
+    "gold": 134,
+    "white": 163
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 583,
+    "blue": 555,
+    "gold": 483,
+    "white": 530
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 392,
+    "blue": 353,
+    "gold": 290,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 210,
+    "blue": 187,
+    "gold": 138,
+    "white": 167
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "blue": 360,
+    "gold": 298,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 500,
+    "blue": 470,
+    "gold": 378,
+    "white": 453
+   }
+  }
+ ],
+ "id": "ae0f8626-1ca5-4ed0-bd78-55031194e75c",
+ "lat": 26.6188719,
+ "lng": -81.8210699,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7129
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6422
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6000
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5504
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ladies-male",
+   "tee_name": "Ladies'",
+   "yardage": 5148
+  }
+ ]
+}

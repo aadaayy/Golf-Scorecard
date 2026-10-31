@@ -1,0 +1,289 @@
+{
+ "city": "Pompano Beach",
+ "club_name": "Pines At Pompano Beach Golf Course",
+ "course_name": "Pines At Pompano Beach Golf Course",
+ "dataset_name": "Pines At Pompano Beach Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 550,
+    "brown": 474,
+    "gold": 568,
+    "red": 426,
+    "web": 568,
+    "white": 522
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 317,
+    "brown": 280,
+    "gold": 348,
+    "red": 245,
+    "web": 348,
+    "white": 311
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 183,
+    "brown": 134,
+    "gold": 212,
+    "red": 106,
+    "web": 212,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 375,
+    "brown": 312,
+    "gold": 414,
+    "red": 279,
+    "web": 414,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 369,
+    "brown": 301,
+    "gold": 402,
+    "red": 275,
+    "web": 402,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 512,
+    "brown": 456,
+    "gold": 542,
+    "red": 408,
+    "web": 542,
+    "white": 490
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 145,
+    "brown": 103,
+    "gold": 168,
+    "red": 97,
+    "web": 168,
+    "white": 128
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 400,
+    "brown": 345,
+    "gold": 444,
+    "red": 315,
+    "web": 444,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 380,
+    "brown": 321,
+    "gold": 408,
+    "red": 295,
+    "web": 408,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 552,
+    "brown": 485,
+    "gold": 575,
+    "red": 448,
+    "web": 575,
+    "white": 525
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 434,
+    "brown": 360,
+    "gold": 473,
+    "red": 355,
+    "web": 473,
+    "white": 415
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "blue": 507,
+    "brown": 460,
+    "gold": 549,
+    "red": 434,
+    "web": 549,
+    "white": 490
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 402,
+    "brown": 325,
+    "gold": 424,
+    "red": 287,
+    "web": 424,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "brown": 314,
+    "gold": 410,
+    "red": 293,
+    "web": 410,
+    "white": 348
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 172,
+    "brown": 134,
+    "gold": 182,
+    "red": 114,
+    "web": 182,
+    "white": 163
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 357,
+    "brown": 293,
+    "gold": 373,
+    "red": 261,
+    "web": 373,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 193,
+    "brown": 148,
+    "gold": 220,
+    "red": 139,
+    "web": 220,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 372,
+    "brown": 310,
+    "gold": 407,
+    "red": 295,
+    "web": 407,
+    "white": 359
+   }
+  }
+ ],
+ "id": "7dbaf717-1896-4e7b-869f-fa586a48fba5",
+ "lat": 26.2451065,
+ "lng": -80.102812,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7119
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6612
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6207
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "brown-male",
+   "tee_name": "Brown",
+   "yardage": 5555
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5072
+  }
+ ]
+}

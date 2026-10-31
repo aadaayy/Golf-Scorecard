@@ -1,0 +1,321 @@
+{
+ "city": "Boynton Beach",
+ "club_name": "The Links At Boynton Beach Championship Course",
+ "course_name": "The Links At Boynton Beach Championship Course",
+ "dataset_name": "The Links At Boynton Beach Championship Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Tee I": 508,
+    "Tee II": 492,
+    "Tee III": 450,
+    "Tee IV Long": 435,
+    "Tee V Short": 435,
+    "web": 509
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Tee I": 141,
+    "Tee II": 130,
+    "Tee III": 130,
+    "Tee IV Long": 119,
+    "Tee V Short": 119,
+    "web": 156
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Tee I": 433,
+    "Tee II": 401,
+    "Tee III": 387,
+    "Tee IV Long": 372,
+    "Tee V Short": 372,
+    "web": 431
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Tee I": 419,
+    "Tee II": 388,
+    "Tee III": 330,
+    "Tee IV Long": 301,
+    "Tee V Short": 301,
+    "web": 420
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Tee I": 395,
+    "Tee II": 344,
+    "Tee III": 301,
+    "Tee IV Long": 252,
+    "Tee V Short": 252,
+    "web": 397
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Tee I": 358,
+    "Tee II": 337,
+    "Tee III": 266,
+    "Tee IV Long": 246,
+    "Tee V Short": 246,
+    "web": 344
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Tee I": 173,
+    "Tee II": 141,
+    "Tee III": 90,
+    "Tee IV Long": 79,
+    "Tee V Short": 79,
+    "web": 186
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Tee I": 317,
+    "Tee II": 302,
+    "Tee III": 269,
+    "Tee IV Long": 257,
+    "Tee V Short": 257,
+    "web": 307
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Tee I": 330,
+    "Tee II": 312,
+    "Tee III": 294,
+    "Tee IV Long": 289,
+    "Tee V Short": 210,
+    "web": 324
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Tee I": 371,
+    "Tee II": 344,
+    "Tee III": 328,
+    "Tee IV Long": 295,
+    "Tee V Short": 295,
+    "web": 368
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Tee I": 516,
+    "Tee II": 483,
+    "Tee III": 462,
+    "Tee IV Long": 394,
+    "Tee V Short": 394,
+    "web": 515
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Tee I": 402,
+    "Tee II": 384,
+    "Tee III": 318,
+    "Tee IV Long": 310,
+    "Tee V Short": 310,
+    "web": 395
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Tee I": 351,
+    "Tee II": 337,
+    "Tee III": 323,
+    "Tee IV Long": 309,
+    "Tee V Short": 309,
+    "web": 353
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Tee I": 324,
+    "Tee II": 304,
+    "Tee III": 226,
+    "Tee IV Long": 213,
+    "Tee V Short": 213,
+    "web": 329
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Tee I": 181,
+    "Tee II": 159,
+    "Tee III": 110,
+    "Tee IV Long": 96,
+    "Tee V Short": 96,
+    "web": 179
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Tee I": 394,
+    "Tee II": 374,
+    "Tee III": 305,
+    "Tee IV Long": 293,
+    "Tee V Short": 293,
+    "web": 386
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Tee I": 178,
+    "Tee II": 156,
+    "Tee III": 127,
+    "Tee IV Long": 83,
+    "Tee V Short": 83,
+    "web": 178
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Tee I": 518,
+    "Tee II": 495,
+    "Tee III": 475,
+    "Tee IV Long": 403,
+    "Tee V Short": 403,
+    "web": 515
+   }
+  }
+ ],
+ "id": "637800be-6746-488c-82cc-8889fc8f3590",
+ "lat": 26.560772,
+ "lng": -80.1347911,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-i-male",
+   "tee_name": "Tee I",
+   "yardage": 6309
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-ii-male",
+   "tee_name": "Tee II",
+   "yardage": 5883
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-ii-female",
+   "tee_name": "Tee II",
+   "yardage": 5883
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iii-male",
+   "tee_name": "Tee III",
+   "yardage": 5191
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iii-female",
+   "tee_name": "Tee III",
+   "yardage": 5191
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iv-long-male",
+   "tee_name": "Tee IV Long",
+   "yardage": 4746
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-iv-long-female",
+   "tee_name": "Tee IV Long",
+   "yardage": 4746
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-v-short-male",
+   "tee_name": "Tee V Short",
+   "yardage": 4667
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tee-v-short-female",
+   "tee_name": "Tee V Short",
+   "yardage": 4667
+  }
+ ]
+}

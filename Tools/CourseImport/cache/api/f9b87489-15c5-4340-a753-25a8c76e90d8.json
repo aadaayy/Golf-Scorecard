@@ -1,0 +1,200 @@
+{
+ "city": "Naples",
+ "club_name": "Everglades Golf Course",
+ "course_name": "Everglades Golf Course",
+ "dataset_name": "Everglades Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "back": 360,
+    "championship": 368,
+    "forward": 333,
+    "white": 348
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "back": 313,
+    "championship": 329,
+    "forward": 290,
+    "white": 300
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back": 129,
+    "championship": 151,
+    "forward": 105,
+    "white": 115
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "back": 344,
+    "championship": 356,
+    "forward": 326,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "back": 181,
+    "championship": 193,
+    "forward": 142,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "back": 453,
+    "championship": 470,
+    "forward": 429,
+    "white": 435
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "back": 468,
+    "championship": 484,
+    "forward": 397,
+    "white": 449
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "back": 148,
+    "championship": 178,
+    "forward": 106,
+    "white": 117
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back": 387,
+    "championship": 438,
+    "forward": 336,
+    "white": 349
+   }
+  }
+ ],
+ "id": "f9b87489-15c5-4340-a753-25a8c76e90d8",
+ "lat": 26.2449267,
+ "lng": -81.66242,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6017
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 5642
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5105
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4875
+  }
+ ]
+}

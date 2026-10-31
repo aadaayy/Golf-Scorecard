@@ -1,0 +1,366 @@
+{
+ "city": "Fort Myers",
+ "club_name": "The Club At Gateway",
+ "course_name": "The Club At Gateway",
+ "dataset_name": "The Club At Gateway",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "griffin_tees": 231,
+    "i": 463,
+    "ii": 447,
+    "ii/iii": 417,
+    "iii": 417,
+    "iii/iv": 356,
+    "iv": 356,
+    "iv/v": 356,
+    "tee_54": 104,
+    "v": 341,
+    "v/vi": 301,
+    "vi": 301
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "griffin_tees": 284,
+    "i": 528,
+    "ii": 521,
+    "ii/iii": 521,
+    "iii": 496,
+    "iii/iv": 496,
+    "iv": 485,
+    "iv/v": 485,
+    "tee_54": 113,
+    "v": 460,
+    "v/vi": 399,
+    "vi": 399
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "griffin_tees": 107,
+    "i": 176,
+    "ii": 161,
+    "ii/iii": 149,
+    "iii": 149,
+    "iii/iv": 149,
+    "iv": 139,
+    "iv/v": 120,
+    "tee_54": 107,
+    "v": 120,
+    "v/vi": 120,
+    "vi": 107
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "griffin_tees": 231,
+    "i": 428,
+    "ii": 400,
+    "ii/iii": 374,
+    "iii": 374,
+    "iii/iv": 318,
+    "iv": 318,
+    "iv/v": 312,
+    "tee_54": 86,
+    "v": 312,
+    "v/vi": 312,
+    "vi": 312
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "griffin_tees": 254,
+    "i": 381,
+    "ii": 364,
+    "ii/iii": 347,
+    "iii": 347,
+    "iii/iv": 347,
+    "iv": 331,
+    "iv/v": 325,
+    "tee_54": 102,
+    "v": 325,
+    "v/vi": 325,
+    "vi": 297
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "griffin_tees": 224,
+    "i": 409,
+    "ii": 390,
+    "ii/iii": 367,
+    "iii": 367,
+    "iii/iv": 331,
+    "iv": 331,
+    "iv/v": 292,
+    "tee_54": 76,
+    "v": 292,
+    "v/vi": 292,
+    "vi": 292
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "griffin_tees": 293,
+    "i": 607,
+    "ii": 575,
+    "ii/iii": 575,
+    "iii": 530,
+    "iii/iv": 530,
+    "iv": 491,
+    "iv/v": 491,
+    "tee_54": 80,
+    "v": 454,
+    "v/vi": 454,
+    "vi": 407
+   }
+  }
+ ],
+ "id": "c10ba70d-9277-49fb-b4dd-505b7bd615df",
+ "lat": 26.5783061,
+ "lng": -81.7566222,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6981
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6613
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-iii-male",
+   "tee_name": "II/III",
+   "yardage": 6427
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6253
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-iv-male",
+   "tee_name": "III/IV",
+   "yardage": 6030
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5766
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5766
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-v-female",
+   "tee_name": "IV/V",
+   "yardage": 5507
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-v-male",
+   "tee_name": "IV/V",
+   "yardage": 5507
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5219
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 5219
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-vi-male",
+   "tee_name": "V/VI",
+   "yardage": 5041
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-vi-female",
+   "tee_name": "V/VI",
+   "yardage": 5041
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 4850
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 4850
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "griffin-tees-male",
+   "tee_name": "Griffin Tees",
+   "yardage": 3838
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "griffin-tees-female",
+   "tee_name": "Griffin Tees",
+   "yardage": 3838
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-54-male",
+   "tee_name": "Tee 54",
+   "yardage": 1699
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-54-female",
+   "tee_name": "Tee 54",
+   "yardage": 1699
+  }
+ ]
+}

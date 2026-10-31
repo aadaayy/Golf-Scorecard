@@ -1,0 +1,259 @@
+{
+ "city": "Plantation",
+ "club_name": "Fort Lauderdale Country Club South Course",
+ "course_name": "Fort Lauderdale Country Club South Course",
+ "dataset_name": "Fort Lauderdale Country Club South Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "champion": 344,
+    "member/middle": 314,
+    "middle": 314
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "champion": 408,
+    "member/middle": 391,
+    "middle": 351
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "champion": 204,
+    "member/middle": 175,
+    "middle": 175
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "champion": 408,
+    "member/middle": 383,
+    "middle": 373
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "champion": 353,
+    "member/middle": 330,
+    "middle": 330
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "champion": 543,
+    "member/middle": 510,
+    "middle": 462
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "champion": 391,
+    "member/middle": 358,
+    "middle": 358
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "champion": 175,
+    "member/middle": 150,
+    "middle": 125
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "champion": 435,
+    "member/middle": 390,
+    "middle": 378
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "champion": 398,
+    "member/middle": 388,
+    "middle": 388
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "champion": 411,
+    "member/middle": 383,
+    "middle": 346
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "champion": 187,
+    "member/middle": 180,
+    "middle": 180
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "champion": 373,
+    "member/middle": 337,
+    "middle": 337
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "champion": 466,
+    "member/middle": 430,
+    "middle": 430
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "champion": 409,
+    "member/middle": 365,
+    "middle": 365
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "champion": 517,
+    "member/middle": 482,
+    "middle": 472
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "champion": 198,
+    "member/middle": 158,
+    "middle": 138
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "champion": 416,
+    "member/middle": 381,
+    "middle": 369
+   }
+  }
+ ],
+ "id": "8add6ee7-fa54-4afd-9537-c475e0a7aaf2",
+ "lat": 26.11506,
+ "lng": -80.20788,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champion-male",
+   "tee_name": "Champion",
+   "yardage": 6661
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champion-member-male",
+   "tee_name": "Champion/Member",
+   "yardage": 6487
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6286
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-middle-male",
+   "tee_name": "Member/Middle",
+   "yardage": 6079
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 5848
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "middle-female",
+   "tee_name": "Middle",
+   "yardage": 5848
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 5308
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 5308
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Boca West Country Club Fazio Ii",
+ "course_name": "Boca West Country Club Fazio Ii",
+ "dataset_name": "Boca West Country Club Fazio Ii",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 409,
+    "blue": 372,
+    "gold": 400,
+    "green": 301,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 548,
+    "blue": 518,
+    "gold": 538,
+    "green": 420,
+    "white": 498
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 360,
+    "blue": 329,
+    "gold": 340,
+    "green": 256,
+    "white": 302
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 173,
+    "blue": 166,
+    "gold": 166,
+    "green": 125,
+    "white": 149
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 367,
+    "blue": 358,
+    "gold": 367,
+    "green": 297,
+    "white": 333
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 205,
+    "blue": 168,
+    "gold": 192,
+    "green": 103,
+    "white": 152
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 353,
+    "blue": 343,
+    "gold": 353,
+    "green": 291,
+    "white": 326
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 414,
+    "blue": 379,
+    "gold": 400,
+    "green": 327,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 397,
+    "blue": 368,
+    "gold": 390,
+    "green": 315,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 536,
+    "blue": 492,
+    "gold": 511,
+    "green": 389,
+    "white": 460
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 370,
+    "blue": 348,
+    "gold": 370,
+    "green": 280,
+    "white": 323
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 195,
+    "blue": 152,
+    "gold": 179,
+    "green": 114,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 562,
+    "blue": 488,
+    "gold": 531,
+    "green": 422,
+    "white": 468
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 411,
+    "blue": 370,
+    "gold": 390,
+    "green": 315,
+    "white": 348
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "blue": 360,
+    "gold": 377,
+    "green": 308,
+    "white": 334
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 148,
+    "blue": 130,
+    "gold": 145,
+    "green": 96,
+    "white": 115
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 450,
+    "blue": 402,
+    "gold": 435,
+    "green": 294,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 457,
+    "blue": 390,
+    "gold": 416,
+    "green": 287,
+    "white": 340
+   }
+  }
+ ],
+ "id": "b1a4f146-e5b0-4b08-978c-76349cb6b57c",
+ "lat": 26.3798065,
+ "lng": -80.1599122,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6811
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6479
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6111
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5410
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5410
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5042
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5042
+  }
+ ]
+}

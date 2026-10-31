@@ -1,0 +1,381 @@
+{
+ "city": "West Palm Beach",
+ "club_name": "Trump International Golf Club",
+ "course_name": "Trump International Golf Club",
+ "dataset_name": "Trump International Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 487,
+    "Blue": 417,
+    "Gold": 449,
+    "Green": 335,
+    "Mint": 335,
+    "Powder Blue": 389,
+    "Silver": 354,
+    "White": 389
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 426,
+    "Blue": 372,
+    "Gold": 417,
+    "Green": 312,
+    "Mint": 312,
+    "Powder Blue": 372,
+    "Silver": 337,
+    "White": 353
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Black": 551,
+    "Blue": 500,
+    "Gold": 519,
+    "Green": 416,
+    "Mint": 416,
+    "Powder Blue": 500,
+    "Silver": 443,
+    "White": 482
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 401,
+    "Blue": 371,
+    "Gold": 381,
+    "Green": 300,
+    "Mint": 234,
+    "Powder Blue": 371,
+    "Silver": 321,
+    "White": 345
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 235,
+    "Blue": 197,
+    "Gold": 215,
+    "Green": 133,
+    "Mint": 133,
+    "Powder Blue": 197,
+    "Silver": 145,
+    "White": 170
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 335,
+    "Blue": 323,
+    "Gold": 330,
+    "Green": 253,
+    "Mint": 253,
+    "Powder Blue": 323,
+    "Silver": 279,
+    "White": 311
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 191,
+    "Blue": 176,
+    "Gold": 181,
+    "Green": 117,
+    "Mint": 117,
+    "Powder Blue": 176,
+    "Silver": 128,
+    "White": 161
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 491,
+    "Blue": 430,
+    "Gold": 447,
+    "Green": 362,
+    "Mint": 362,
+    "Powder Blue": 400,
+    "Silver": 389,
+    "White": 400
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 561,
+    "Blue": 513,
+    "Gold": 527,
+    "Green": 410,
+    "Mint": 380,
+    "Powder Blue": 476,
+    "Silver": 435,
+    "White": 476
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 419,
+    "Blue": 389,
+    "Gold": 405,
+    "Green": 339,
+    "Mint": 339,
+    "Powder Blue": 389,
+    "Silver": 358,
+    "White": 372
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 177,
+    "Blue": 164,
+    "Gold": 172,
+    "Green": 108,
+    "Mint": 108,
+    "Powder Blue": 164,
+    "Silver": 123,
+    "White": 148
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 631,
+    "Blue": 531,
+    "Gold": 559,
+    "Green": 424,
+    "Mint": 424,
+    "Powder Blue": 531,
+    "Silver": 452,
+    "White": 503
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 479,
+    "Blue": 414,
+    "Gold": 433,
+    "Green": 344,
+    "Mint": 344,
+    "Powder Blue": 385,
+    "Silver": 370,
+    "White": 385
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 425,
+    "Blue": 399,
+    "Gold": 407,
+    "Green": 302,
+    "Mint": 272,
+    "Powder Blue": 346,
+    "Silver": 328,
+    "White": 346
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 569,
+    "Blue": 491,
+    "Gold": 505,
+    "Green": 401,
+    "Mint": 401,
+    "Powder Blue": 491,
+    "Silver": 419,
+    "White": 474
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 406,
+    "Blue": 369,
+    "Gold": 385,
+    "Green": 287,
+    "Mint": 230,
+    "Powder Blue": 369,
+    "Silver": 329,
+    "White": 350
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 221,
+    "Blue": 190,
+    "Gold": 200,
+    "Green": 124,
+    "Mint": 124,
+    "Powder Blue": 164,
+    "Silver": 143,
+    "White": 164
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 491,
+    "Blue": 420,
+    "Gold": 441,
+    "Green": 320,
+    "Mint": 320,
+    "Powder Blue": 374,
+    "Silver": 355,
+    "White": 374
+   }
+  }
+ ],
+ "id": "aff3bbcd-99fd-454a-984f-4271190d08d0",
+ "lat": 26.6659648,
+ "lng": -80.0985665,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7496
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6973
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6666
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "powder-blue-male",
+   "tee_name": "Powder Blue",
+   "yardage": 6417
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6203
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6203
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5708
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5708
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5287
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5287
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "mint-female",
+   "tee_name": "Mint",
+   "yardage": 5104
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "mint-male",
+   "tee_name": "Mint",
+   "yardage": 5104
+  }
+ ]
+}

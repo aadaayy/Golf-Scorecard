@@ -1,0 +1,363 @@
+{
+ "city": "Sarasota",
+ "club_name": "Bobby Jones Golf Club Championship Course",
+ "course_name": "Bobby Jones Golf Club Championship Course",
+ "dataset_name": "Bobby Jones Golf Club Championship Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "blue": 380,
+    "red": 415,
+    "ross": 415,
+    "tan": 359,
+    "white": 318,
+    "yellow": 283
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 411,
+    "blue": 389,
+    "red": 430,
+    "ross": 430,
+    "tan": 368,
+    "white": 325,
+    "yellow": 293
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 201,
+    "blue": 190,
+    "red": 207,
+    "ross": 174,
+    "tan": 174,
+    "white": 156,
+    "yellow": 142
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 515,
+    "blue": 485,
+    "red": 541,
+    "ross": 372,
+    "tan": 459,
+    "white": 406,
+    "yellow": 372
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 488,
+    "blue": 473,
+    "red": 516,
+    "ross": 473,
+    "tan": 432,
+    "white": 386,
+    "yellow": 361
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 371,
+    "blue": 351,
+    "red": 386,
+    "ross": 386,
+    "tan": 333,
+    "white": 295,
+    "yellow": 265
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 325,
+    "blue": 310,
+    "red": 342,
+    "ross": 310,
+    "tan": 289,
+    "white": 256,
+    "yellow": 230
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 228,
+    "blue": 212,
+    "red": 236,
+    "ross": 191,
+    "tan": 191,
+    "white": 177,
+    "yellow": 159
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 405,
+    "blue": 389,
+    "red": 432,
+    "ross": 405,
+    "tan": 368,
+    "white": 325,
+    "yellow": 301
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 323,
+    "blue": 308,
+    "red": 340,
+    "ross": 340,
+    "tan": 287,
+    "white": 254,
+    "yellow": 225
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 510,
+    "blue": 479,
+    "red": 530,
+    "ross": 530,
+    "tan": 448,
+    "white": 396,
+    "yellow": 371
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 333,
+    "blue": 317,
+    "red": 342,
+    "ross": 342,
+    "tan": 297,
+    "white": 280,
+    "yellow": 241
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "blue": 148,
+    "red": 168,
+    "ross": 148,
+    "tan": 135,
+    "white": 126,
+    "yellow": 114
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 377,
+    "blue": 361,
+    "red": 410,
+    "ross": 410,
+    "tan": 338,
+    "white": 297,
+    "yellow": 266
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 443,
+    "blue": 426,
+    "red": 478,
+    "ross": 443,
+    "tan": 403,
+    "white": 357,
+    "yellow": 322
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 185,
+    "blue": 171,
+    "red": 190,
+    "ross": 185,
+    "tan": 162,
+    "white": 143,
+    "yellow": 129
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 323,
+    "blue": 303,
+    "red": 339,
+    "ross": 274,
+    "tan": 274,
+    "white": 254,
+    "yellow": 232
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 391,
+    "blue": 369,
+    "red": 412,
+    "ross": 412,
+    "tan": 351,
+    "white": 310,
+    "yellow": 277
+   }
+  }
+ ],
+ "id": "e82660ab-735a-4501-9baa-ca870b601bc6",
+ "lat": 27.3455409,
+ "lng": -82.4881934,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 6714
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6389
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 6389
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "ross-male",
+   "tee_name": "Ross",
+   "yardage": 6240
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6061
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6061
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tan-male",
+   "tee_name": "Tan",
+   "yardage": 5668
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tan-female",
+   "tee_name": "Tan",
+   "yardage": 5668
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5061
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5061
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 4583
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 4583
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "city": "Estero",
+ "club_name": "Fountain Lakes Golf Course",
+ "course_name": "Fountain Lakes Golf Course",
+ "dataset_name": "Fountain Lakes Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "middle": 71
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "middle": 71
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "middle": 74
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "middle": 64
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "middle": 63
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "middle": 53
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "middle": 76
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "middle": 115
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "middle": 92
+   }
+  }
+ ],
+ "id": "5b673f09-7151-4aa3-9090-61e6b560ebc4",
+ "lat": 26.4109132,
+ "lng": -81.8153734,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": null
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": null
+  }
+ ]
+}

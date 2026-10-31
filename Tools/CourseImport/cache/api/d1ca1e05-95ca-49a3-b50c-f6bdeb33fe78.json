@@ -1,0 +1,112 @@
+{
+ "city": "Bradenton",
+ "club_name": "River Isles Golf Course",
+ "course_name": "River Isles Golf Course",
+ "dataset_name": "River Isles Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 2,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "red": 195,
+    "white": 205
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "red": 110,
+    "white": 125
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "red": 225,
+    "white": 235
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "red": 90,
+    "white": 100
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "red": 122,
+    "white": 128
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "red": 220,
+    "white": 254
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "red": 220,
+    "white": 231
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "red": 195,
+    "white": 211
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "red": 100,
+    "white": 111
+   }
+  }
+ ],
+ "id": "d1ca1e05-95ca-49a3-b50c-f6bdeb33fe78",
+ "lat": 27.4932,
+ "lng": -82.5100892,
+ "par": 30,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1600
+  },
+  {
+   "gender": "Female",
+   "par": 32,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 1477
+  }
+ ]
+}

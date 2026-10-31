@@ -1,0 +1,271 @@
+{
+ "city": "Lakewood Ranch",
+ "club_name": "Lakewood National Golf Club Piper Course",
+ "course_name": "Lakewood National Golf Club Piper Course",
+ "dataset_name": "Lakewood National Golf Club Piper Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "arnold": 593,
+    "friendly": 500,
+    "king": 615,
+    "national": 572,
+    "palmer": 532
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "arnold": 423,
+    "friendly": 360,
+    "king": 441,
+    "national": 398,
+    "palmer": 382
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "arnold": 164,
+    "friendly": 126,
+    "king": 186,
+    "national": 156,
+    "palmer": 142
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "arnold": 426,
+    "friendly": 317,
+    "king": 453,
+    "national": 414,
+    "palmer": 380
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "arnold": 155,
+    "friendly": 121,
+    "king": 167,
+    "national": 144,
+    "palmer": 135
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "arnold": 452,
+    "friendly": 376,
+    "king": 476,
+    "national": 425,
+    "palmer": 412
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "arnold": 439,
+    "friendly": 369,
+    "king": 467,
+    "national": 400,
+    "palmer": 391
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "arnold": 532,
+    "friendly": 456,
+    "king": 548,
+    "national": 499,
+    "palmer": 481
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "arnold": 313,
+    "friendly": 236,
+    "king": 334,
+    "national": 281,
+    "palmer": 259
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "arnold": 420,
+    "friendly": 345,
+    "king": 445,
+    "national": 404,
+    "palmer": 376
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "arnold": 598,
+    "friendly": 525,
+    "king": 646,
+    "national": 579,
+    "palmer": 562
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "arnold": 434,
+    "friendly": 367,
+    "king": 457,
+    "national": 420,
+    "palmer": 383
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "arnold": 130,
+    "friendly": 101,
+    "king": 158,
+    "national": 124,
+    "palmer": 108
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "arnold": 316,
+    "friendly": 288,
+    "king": 342,
+    "national": 310,
+    "palmer": 294
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "arnold": 543,
+    "friendly": 464,
+    "king": 588,
+    "national": 521,
+    "palmer": 499
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "arnold": 157,
+    "friendly": 132,
+    "king": 170,
+    "national": 142,
+    "palmer": 138
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "arnold": 351,
+    "friendly": 286,
+    "king": 377,
+    "national": 333,
+    "palmer": 327
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "arnold": 397,
+    "friendly": 303,
+    "king": 421,
+    "national": 377,
+    "palmer": 333
+   }
+  }
+ ],
+ "id": "e698946d-a5b9-4aac-8bbd-4c9eaaa69856",
+ "lat": 27.4371366,
+ "lng": -82.3706811,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "king-male",
+   "tee_name": "King",
+   "yardage": 7327
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "arnold-male",
+   "tee_name": "Arnold",
+   "yardage": 6874
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "national-male",
+   "tee_name": "National",
+   "yardage": 6537
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "palmer-male",
+   "tee_name": "Palmer",
+   "yardage": 6179
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 5711
+  }
+ ]
+}

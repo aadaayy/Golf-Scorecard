@@ -1,0 +1,101 @@
+{
+ "city": "Lehigh Acres",
+ "club_name": "Lehigh Resort Club",
+ "course_name": "Lehigh Resort Club",
+ "dataset_name": "Lehigh Resort Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "a165c1b6-8c40-49c8-82c0-c697f58668fe",
+ "lat": 26.6098269,
+ "lng": -81.6054821,
+ "par": 37,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 37,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3303
+  },
+  {
+   "gender": "Male",
+   "par": 37,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3140
+  },
+  {
+   "gender": "Female",
+   "par": 37,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2546
+  },
+  {
+   "gender": "Male",
+   "par": 37,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2546
+  }
+ ]
+}

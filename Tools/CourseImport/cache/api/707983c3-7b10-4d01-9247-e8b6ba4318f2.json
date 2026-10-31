@@ -1,0 +1,323 @@
+{
+ "city": "Plantation",
+ "club_name": "Plantation Preserve Golf Course",
+ "course_name": "Plantation Preserve Golf Course",
+ "dataset_name": "Plantation Preserve Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 586,
+    "blue": 564,
+    "blue/white": 547,
+    "green": 514,
+    "red": 462,
+    "white": 547,
+    "white/green": 514
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 176,
+    "blue": 157,
+    "blue/white": 157,
+    "green": 114,
+    "red": 95,
+    "white": 136,
+    "white/green": 136
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 411,
+    "blue": 388,
+    "blue/white": 388,
+    "green": 345,
+    "red": 305,
+    "white": 371,
+    "white/green": 371
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 424,
+    "blue": 399,
+    "blue/white": 385,
+    "green": 355,
+    "red": 309,
+    "white": 385,
+    "white/green": 355
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 190,
+    "blue": 171,
+    "blue/white": 171,
+    "green": 134,
+    "red": 105,
+    "white": 153,
+    "white/green": 153
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 375,
+    "blue": 354,
+    "blue/white": 354,
+    "green": 321,
+    "red": 292,
+    "white": 331,
+    "white/green": 331
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 374,
+    "blue": 357,
+    "blue/white": 333,
+    "green": 302,
+    "red": 259,
+    "white": 333,
+    "white/green": 302
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 523,
+    "blue": 505,
+    "blue/white": 505,
+    "green": 447,
+    "red": 425,
+    "white": 462,
+    "white/green": 462
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 331,
+    "blue": 313,
+    "blue/white": 313,
+    "green": 272,
+    "red": 246,
+    "white": 294,
+    "white/green": 294
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 580,
+    "blue": 542,
+    "blue/white": 508,
+    "green": 497,
+    "red": 462,
+    "white": 508,
+    "white/green": 497
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 413,
+    "blue": 393,
+    "blue/white": 377,
+    "green": 353,
+    "red": 299,
+    "white": 377,
+    "white/green": 353
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 183,
+    "blue": 171,
+    "blue/white": 171,
+    "green": 115,
+    "red": 103,
+    "white": 151,
+    "white/green": 151
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 402,
+    "blue": 371,
+    "blue/white": 371,
+    "green": 329,
+    "red": 292,
+    "white": 342,
+    "white/green": 342
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 400,
+    "blue/white": 372,
+    "green": 348,
+    "red": 325,
+    "white": 372,
+    "white/green": 348
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 205,
+    "blue": 193,
+    "blue/white": 193,
+    "green": 141,
+    "red": 124,
+    "white": 168,
+    "white/green": 168
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 430,
+    "blue": 409,
+    "blue/white": 370,
+    "green": 348,
+    "red": 322,
+    "white": 370,
+    "white/green": 348
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 445,
+    "blue": 429,
+    "blue/white": 407,
+    "green": 380,
+    "red": 332,
+    "white": 407,
+    "white/green": 380
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 576,
+    "blue": 530,
+    "blue/white": 530,
+    "green": 473,
+    "red": 448,
+    "white": 500,
+    "white/green": 500
+   }
+  }
+ ],
+ "id": "707983c3-7b10-4d01-9247-e8b6ba4318f2",
+ "lat": 26.1187603,
+ "lng": -80.2423738,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7148
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6704
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6513
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6250
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 6015
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5801
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5175
+  }
+ ]
+}

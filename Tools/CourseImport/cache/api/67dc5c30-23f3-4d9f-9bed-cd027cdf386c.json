@@ -1,0 +1,176 @@
+{
+ "city": "Rotonda West",
+ "club_name": "Rotonda Golf Country Club Long Marsh The White Marsh",
+ "course_name": "Rotonda Golf Country Club Long Marsh The White Marsh",
+ "dataset_name": "Rotonda Golf Country Club Long Marsh The White Marsh",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 14,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "gold": 394,
+    "green": 370,
+    "orange": 280,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "gold": 409,
+    "green": 384,
+    "orange": 312,
+    "white": 340
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "gold": 182,
+    "green": 154,
+    "orange": 127,
+    "white": 143
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "gold": 422,
+    "green": 399,
+    "orange": 305,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "gold": 501,
+    "green": 471,
+    "orange": 413,
+    "white": 457
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "gold": 433,
+    "green": 407,
+    "orange": 322,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "gold": 553,
+    "green": 526,
+    "orange": 431,
+    "white": 495
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "gold": 202,
+    "green": 181,
+    "orange": 120,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "gold": 455,
+    "green": 425,
+    "orange": 346,
+    "white": 392
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "67dc5c30-23f3-4d9f-9bed-cd027cdf386c",
+ "lat": 26.8872076,
+ "lng": -82.2592561,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 3551
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 3317
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3016
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 2656
+  }
+ ]
+}

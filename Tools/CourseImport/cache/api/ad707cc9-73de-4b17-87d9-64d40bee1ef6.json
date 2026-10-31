@@ -1,0 +1,171 @@
+{
+ "city": "Fort Myers",
+ "club_name": "Myerlee Country Club",
+ "course_name": "Myerlee Country Club",
+ "dataset_name": "Myerlee Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "back": 326,
+    "forward": 306,
+    "regular": 322
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "back": 179,
+    "forward": 112,
+    "regular": 154
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "back": 323,
+    "forward": 274,
+    "regular": 301
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "back": 172,
+    "forward": 99,
+    "regular": 164
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "back": 81,
+    "forward": 59,
+    "regular": 73
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "back": 176,
+    "forward": 94,
+    "regular": 156
+   }
+  }
+ ],
+ "id": "ad707cc9-73de-4b17-87d9-64d40bee1ef6",
+ "lat": 26.535834,
+ "lng": -81.905141,
+ "par": 58,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 58,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 3509
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "regular-male",
+   "tee_name": "Regular",
+   "yardage": 3261
+  },
+  {
+   "gender": "Female",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 2728
+  }
+ ]
+}

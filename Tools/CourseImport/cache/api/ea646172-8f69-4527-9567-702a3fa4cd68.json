@@ -1,0 +1,305 @@
+{
+ "city": "Davie",
+ "club_name": "Grande Oaks Golf Club",
+ "course_name": "Grande Oaks Golf Club",
+ "dataset_name": "Grande Oaks Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "alt_member": 298,
+    "alt_tips": 366,
+    "back": 327,
+    "forward": 273,
+    "member": 298,
+    "the_tips": 367
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "alt_member": 318,
+    "alt_tips": 399,
+    "back": 399,
+    "forward": 318,
+    "member": 358,
+    "the_tips": 472
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "alt_member": 424,
+    "alt_tips": 527,
+    "back": 501,
+    "forward": 391,
+    "member": 424,
+    "the_tips": 527
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "alt_member": 329,
+    "alt_tips": 384,
+    "back": 357,
+    "forward": 293,
+    "member": 329,
+    "the_tips": 384
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "alt_member": 131,
+    "alt_tips": 226,
+    "back": 226,
+    "forward": 131,
+    "member": 167,
+    "the_tips": 269
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "alt_member": 289,
+    "alt_tips": 380,
+    "back": 380,
+    "forward": 289,
+    "member": 338,
+    "the_tips": 432
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "alt_member": 136,
+    "alt_tips": 172,
+    "back": 152,
+    "forward": 108,
+    "member": 136,
+    "the_tips": 172
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "alt_member": 391,
+    "alt_tips": 528,
+    "back": 477,
+    "forward": 391,
+    "member": 442,
+    "the_tips": 528
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "alt_member": 274,
+    "alt_tips": 404,
+    "back": 404,
+    "forward": 274,
+    "member": 381,
+    "the_tips": 436
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "alt_member": 320,
+    "alt_tips": 383,
+    "back": 356,
+    "forward": 288,
+    "member": 320,
+    "the_tips": 383
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "alt_member": 116,
+    "alt_tips": 143,
+    "back": 133,
+    "forward": 96,
+    "member": 116,
+    "the_tips": 143
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "alt_member": 316,
+    "alt_tips": 370,
+    "back": 370,
+    "forward": 316,
+    "member": 344,
+    "the_tips": 395
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "alt_member": 257,
+    "alt_tips": 305,
+    "back": 279,
+    "forward": 224,
+    "member": 257,
+    "the_tips": 305
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "alt_member": 327,
+    "alt_tips": 381,
+    "back": 346,
+    "forward": 286,
+    "member": 327,
+    "the_tips": 381
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "alt_member": 396,
+    "alt_tips": 489,
+    "back": 489,
+    "forward": 396,
+    "member": 472,
+    "the_tips": 530
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "alt_member": 296,
+    "alt_tips": 370,
+    "back": 370,
+    "forward": 296,
+    "member": 341,
+    "the_tips": 404
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "alt_member": 116,
+    "alt_tips": 178,
+    "back": 164,
+    "forward": 116,
+    "member": 134,
+    "the_tips": 178
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "alt_member": 299,
+    "alt_tips": 401,
+    "back": 401,
+    "forward": 274,
+    "member": 299,
+    "the_tips": 419
+   }
+  }
+ ],
+ "id": "ea646172-8f69-4527-9567-702a3fa4cd68",
+ "lat": 26.0789638,
+ "lng": -80.2584842,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "the-tips-male",
+   "tee_name": "The Tips",
+   "yardage": 6752
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "alt-tips-male",
+   "tee_name": "Alt Tips",
+   "yardage": 6406
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 6131
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "member-female",
+   "tee_name": "Member",
+   "yardage": 5483
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 5483
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "alt-member-female",
+   "tee_name": "Alt Member",
+   "yardage": 5030
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4755
+  }
+ ]
+}

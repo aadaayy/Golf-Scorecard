@@ -1,0 +1,355 @@
+{
+ "city": "Palm Beach Gardens",
+ "club_name": "Panther National Championship Course",
+ "course_name": "Panther National Championship Course",
+ "dataset_name": "Panther National Championship Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "iii": 370,
+    "iv": 346,
+    "jt_tees": 431,
+    "senn": 402,
+    "v": 313,
+    "vi": 276,
+    "vii": 225
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "iii": 190,
+    "iv": 175,
+    "jt_tees": 230,
+    "senn": 215,
+    "v": 150,
+    "vi": 128,
+    "vii": 128
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "iii": 518,
+    "iv": 485,
+    "jt_tees": 575,
+    "senn": 532,
+    "v": 419,
+    "vi": 419,
+    "vii": 395
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "iii": 405,
+    "iv": 370,
+    "jt_tees": 490,
+    "senn": 435,
+    "v": 355,
+    "vi": 280,
+    "vii": 245
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "iii": 333,
+    "iv": 285,
+    "jt_tees": 403,
+    "senn": 376,
+    "v": 270,
+    "vi": 230,
+    "vii": 200
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "iii": 415,
+    "iv": 396,
+    "jt_tees": 470,
+    "senn": 425,
+    "v": 346,
+    "vi": 301,
+    "vii": 270
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "iii": 515,
+    "iv": 485,
+    "jt_tees": 575,
+    "senn": 547,
+    "v": 444,
+    "vi": 400,
+    "vii": 295
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "iii": 127,
+    "iv": 116,
+    "jt_tees": 163,
+    "senn": 143,
+    "v": 105,
+    "vi": 95,
+    "vii": 87
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "iii": 450,
+    "iv": 405,
+    "jt_tees": 539,
+    "senn": 485,
+    "v": 370,
+    "vi": 370,
+    "vii": 293
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "iii": 425,
+    "iv": 390,
+    "jt_tees": 474,
+    "senn": 461,
+    "v": 360,
+    "vi": 316,
+    "vii": 265
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "iii": 574,
+    "iv": 550,
+    "jt_tees": 654,
+    "senn": 630,
+    "v": 513,
+    "vi": 486,
+    "vii": 486
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "iii": 350,
+    "iv": 325,
+    "jt_tees": 440,
+    "senn": 390,
+    "v": 295,
+    "vi": 250,
+    "vii": 210
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "iii": 165,
+    "iv": 138,
+    "jt_tees": 230,
+    "senn": 192,
+    "v": 115,
+    "vi": 96,
+    "vii": 96
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "iii": 425,
+    "iv": 410,
+    "jt_tees": 531,
+    "senn": 477,
+    "v": 346,
+    "vi": 346,
+    "vii": 310
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "iii": 201,
+    "iv": 184,
+    "jt_tees": 246,
+    "senn": 232,
+    "v": 164,
+    "vi": 141,
+    "vii": 102
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "iii": 290,
+    "iv": 280,
+    "jt_tees": 335,
+    "senn": 306,
+    "v": 242,
+    "vi": 189,
+    "vii": 189
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "iii": 537,
+    "iv": 500,
+    "jt_tees": 580,
+    "senn": 564,
+    "v": 470,
+    "vi": 431,
+    "vii": 431
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "iii": 420,
+    "iv": 372,
+    "jt_tees": 498,
+    "senn": 456,
+    "v": 330,
+    "vi": 305,
+    "vii": 265
+   }
+  }
+ ],
+ "id": "9a38e3b6-9019-4b0a-b549-906a14094125",
+ "lat": 26.8283976,
+ "lng": -80.2581005,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "jt-tees-male",
+   "tee_name": "JT Tees",
+   "yardage": 7864
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "senn-male",
+   "tee_name": "Senn",
+   "yardage": 7268
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 6710
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 6212
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 6212
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 5607
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 5607
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-male",
+   "tee_name": "VI",
+   "yardage": 5059
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vi-female",
+   "tee_name": "VI",
+   "yardage": 5059
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vii-male",
+   "tee_name": "VII",
+   "yardage": 4492
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "vii-female",
+   "tee_name": "VII",
+   "yardage": 4492
+  }
+ ]
+}

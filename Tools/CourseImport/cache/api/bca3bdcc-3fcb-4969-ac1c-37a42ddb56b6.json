@@ -1,0 +1,295 @@
+{
+ "city": "Naples",
+ "club_name": "Grey Oaks Country Club Estuary Golf Course",
+ "course_name": "Grey Oaks Country Club Estuary Golf Course",
+ "dataset_name": "Grey Oaks Country Club Estuary Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "i": 368,
+    "ii": 319,
+    "iii": 312,
+    "iv": 290,
+    "v": 230
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "i": 451,
+    "ii": 431,
+    "iii": 354,
+    "iv": 313,
+    "v": 253
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "i": 513,
+    "ii": 489,
+    "iii": 489,
+    "iv": 464,
+    "v": 435
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "i": 501,
+    "ii": 501,
+    "iii": 483,
+    "iv": 458,
+    "v": 439
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "i": 417,
+    "ii": 394,
+    "iii": 370,
+    "iv": 339,
+    "v": 316
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "i": 382,
+    "ii": 382,
+    "iii": 355,
+    "iv": 333,
+    "v": 272
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "i": 201,
+    "ii": 185,
+    "iii": 165,
+    "iv": 154,
+    "v": 125
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "i": 338,
+    "ii": 338,
+    "iii": 318,
+    "iv": 290,
+    "v": 259
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "i": 143,
+    "ii": 134,
+    "iii": 127,
+    "iv": 106,
+    "v": 98
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "i": 424,
+    "ii": 400,
+    "iii": 379,
+    "iv": 350,
+    "v": 298
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "i": 555,
+    "ii": 523,
+    "iii": 488,
+    "iv": 440,
+    "v": 389
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "i": 175,
+    "ii": 153,
+    "iii": 138,
+    "iv": 124,
+    "v": 124
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "i": 537,
+    "ii": 537,
+    "iii": 510,
+    "iv": 475,
+    "v": 410
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "i": 198,
+    "ii": 182,
+    "iii": 173,
+    "iv": 161,
+    "v": 127
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "i": 393,
+    "ii": 368,
+    "iii": 332,
+    "iv": 296,
+    "v": 296
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "i": 362,
+    "ii": 362,
+    "iii": 343,
+    "iv": 320,
+    "v": 279
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "i": 227,
+    "ii": 192,
+    "iii": 173,
+    "iv": 139,
+    "v": 139
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "i": 495,
+    "ii": 464,
+    "iii": 445,
+    "iv": 418,
+    "v": 381
+   }
+  }
+ ],
+ "id": "bca3bdcc-3fcb-4969-ac1c-37a42ddb56b6",
+ "lat": 26.1885964,
+ "lng": -81.7597185,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "i-male",
+   "tee_name": "I",
+   "yardage": 6680
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ii-male",
+   "tee_name": "II",
+   "yardage": 6354
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-male",
+   "tee_name": "III",
+   "yardage": 5954
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iii-female",
+   "tee_name": "III",
+   "yardage": 5954
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-male",
+   "tee_name": "IV",
+   "yardage": 5470
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "iv-female",
+   "tee_name": "IV",
+   "yardage": 5470
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-male",
+   "tee_name": "V",
+   "yardage": 4870
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "v-female",
+   "tee_name": "V",
+   "yardage": 4870
+  }
+ ]
+}

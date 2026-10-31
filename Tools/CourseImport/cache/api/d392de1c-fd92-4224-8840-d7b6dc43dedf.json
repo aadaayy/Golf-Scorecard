@@ -1,0 +1,300 @@
+{
+ "city": "Boca Raton",
+ "club_name": "Stonebridge Golf Country Club",
+ "course_name": "Stonebridge Golf Country Club",
+ "dataset_name": "Stonebridge Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Black": 525,
+    "Blue": 498,
+    "Blue/White": 498,
+    "Green": 452,
+    "Green/Purple": 415,
+    "Purple": 415,
+    "White": 474,
+    "White/Green": 474
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 185,
+    "Blue": 168,
+    "Blue/White": 168,
+    "Green": 136,
+    "Green/Purple": 136,
+    "Purple": 95,
+    "White": 151,
+    "White/Green": 151
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 411,
+    "Blue": 380,
+    "Blue/White": 336,
+    "Green": 263,
+    "Green/Purple": 263,
+    "Purple": 248,
+    "White": 336,
+    "White/Green": 263
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Black": 579,
+    "Blue": 550,
+    "Blue/White": 490,
+    "Green": 449,
+    "Green/Purple": 422,
+    "Purple": 422,
+    "White": 490,
+    "White/Green": 449
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 405,
+    "Blue": 379,
+    "Blue/White": 379,
+    "Green": 286,
+    "Green/Purple": 286,
+    "Purple": 261,
+    "White": 350,
+    "White/Green": 350
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 185,
+    "Blue": 177,
+    "Blue/White": 163,
+    "Green": 148,
+    "Green/Purple": 99,
+    "Purple": 99,
+    "White": 163,
+    "White/Green": 148
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 387,
+    "Blue": 342,
+    "Blue/White": 342,
+    "Green": 279,
+    "Green/Purple": 279,
+    "Purple": 237,
+    "White": 323,
+    "White/Green": 323
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 396,
+    "Blue": 375,
+    "Blue/White": 347,
+    "Green": 316,
+    "Green/Purple": 316,
+    "Purple": 267,
+    "White": 347,
+    "White/Green": 316
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 412,
+    "Blue": 375,
+    "Blue/White": 341,
+    "Green": 300,
+    "Green/Purple": 300,
+    "Purple": 261,
+    "White": 341,
+    "White/Green": 300
+   }
+  }
+ ],
+ "id": "d392de1c-fd92-4224-8840-d7b6dc43dedf",
+ "lat": 26.4128786,
+ "lng": -80.2125382,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7006
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6508
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6195
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5988
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5988
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-green-female",
+   "tee_name": "White/Green",
+   "yardage": 5641
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 5641
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5300
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5300
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-purple-female",
+   "tee_name": "Green/Purple",
+   "yardage": 5030
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "purple-male",
+   "tee_name": "Purple",
+   "yardage": 4646
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "purple-female",
+   "tee_name": "Purple",
+   "yardage": 4646
+  }
+ ]
+}

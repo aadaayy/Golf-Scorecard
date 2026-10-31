@@ -1,0 +1,303 @@
+{
+ "city": "West Palm Beach",
+ "club_name": "Emerald Dunes Golf Club",
+ "course_name": "Emerald Dunes Golf Club",
+ "dataset_name": "Emerald Dunes Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 577,
+    "emerald": 475,
+    "gold": 506,
+    "orange": 367,
+    "white": 445
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "emerald": 377,
+    "gold": 401,
+    "orange": 302,
+    "white": 340
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "emerald": 358,
+    "gold": 374,
+    "orange": 288,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 224,
+    "emerald": 169,
+    "gold": 183,
+    "orange": 96,
+    "white": 139
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 604,
+    "emerald": 548,
+    "gold": 584,
+    "orange": 454,
+    "white": 501
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 466,
+    "emerald": 394,
+    "gold": 413,
+    "orange": 273,
+    "white": 349
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 451,
+    "emerald": 385,
+    "gold": 409,
+    "orange": 278,
+    "white": 333
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 214,
+    "emerald": 186,
+    "gold": 200,
+    "orange": 126,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 464,
+    "emerald": 414,
+    "gold": 439,
+    "orange": 304,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 432,
+    "emerald": 397,
+    "gold": 414,
+    "orange": 314,
+    "white": 348
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 495,
+    "emerald": 467,
+    "gold": 487,
+    "orange": 419,
+    "white": 444
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 346,
+    "emerald": 308,
+    "gold": 328,
+    "orange": 222,
+    "white": 263
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "emerald": 355,
+    "gold": 372,
+    "orange": 293,
+    "white": 311
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 208,
+    "emerald": 175,
+    "gold": 195,
+    "orange": 116,
+    "white": 144
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "emerald": 390,
+    "gold": 413,
+    "orange": 299,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 176,
+    "emerald": 147,
+    "gold": 170,
+    "orange": 95,
+    "white": 133
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 584,
+    "emerald": 530,
+    "gold": 546,
+    "orange": 395,
+    "white": 485
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 442,
+    "emerald": 417,
+    "gold": 424,
+    "orange": 315,
+    "white": 343
+   }
+  }
+ ],
+ "id": "6e353721-73f7-41f6-b752-a377d16d99cd",
+ "lat": 26.7116675,
+ "lng": -80.1427426,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7306
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6848
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "emerald-male",
+   "tee_name": "Emerald",
+   "yardage": 6476
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "emerald-white-male",
+   "tee_name": "Emerald/White",
+   "yardage": 6257
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6014
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6014
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-orange-male",
+   "tee_name": "White/Orange",
+   "yardage": 5608
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-orange-female",
+   "tee_name": "White/Orange",
+   "yardage": 5608
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 5171
+  }
+ ]
+}

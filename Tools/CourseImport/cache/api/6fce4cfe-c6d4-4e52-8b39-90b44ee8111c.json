@@ -1,0 +1,271 @@
+{
+ "city": "Lake Worth Beach",
+ "club_name": "Winston Trails Golf Club",
+ "course_name": "Winston Trails Golf Club",
+ "dataset_name": "Winston Trails Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 355,
+    "Blue": 400,
+    "Gold": 321,
+    "Red": 315,
+    "White": 380
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 352,
+    "Blue": 455,
+    "Gold": 310,
+    "Red": 300,
+    "White": 370
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 142,
+    "Blue": 189,
+    "Gold": 140,
+    "Red": 137,
+    "White": 155
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 480,
+    "Blue": 520,
+    "Gold": 419,
+    "Red": 415,
+    "White": 500
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Blue": 405,
+    "Gold": 355,
+    "Red": 335,
+    "White": 390
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 340,
+    "Blue": 401,
+    "Gold": 297,
+    "Red": 285,
+    "White": 355
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 145,
+    "Blue": 195,
+    "Gold": 136,
+    "Red": 129,
+    "White": 158
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 382,
+    "Blue": 415,
+    "Gold": 356,
+    "Red": 340,
+    "White": 400
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 490,
+    "Blue": 569,
+    "Gold": 447,
+    "Red": 424,
+    "White": 510
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 370,
+    "Blue": 405,
+    "Gold": 353,
+    "Red": 330,
+    "White": 385
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 397,
+    "Blue": 469,
+    "Gold": 346,
+    "Red": 320,
+    "White": 413
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 150,
+    "Blue": 217,
+    "Gold": 132,
+    "Red": 127,
+    "White": 155
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Black": 500,
+    "Blue": 545,
+    "Gold": 449,
+    "Red": 440,
+    "White": 525
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 344,
+    "Blue": 375,
+    "Gold": 271,
+    "Red": 266,
+    "White": 355
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 478,
+    "Blue": 549,
+    "Gold": 434,
+    "Red": 425,
+    "White": 505
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 345,
+    "Blue": 380,
+    "Gold": 320,
+    "Red": 315,
+    "White": 365
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 117,
+    "Blue": 185,
+    "Gold": 103,
+    "Red": 95,
+    "White": 127
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 377,
+    "Blue": 410,
+    "Gold": 337,
+    "Red": 325,
+    "White": 395
+   }
+  }
+ ],
+ "id": "6fce4cfe-c6d4-4e52-8b39-90b44ee8111c",
+ "lat": 26.5799563,
+ "lng": -80.1408332,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 7084
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6443
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6142
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5526
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5323
+  }
+ ]
+}

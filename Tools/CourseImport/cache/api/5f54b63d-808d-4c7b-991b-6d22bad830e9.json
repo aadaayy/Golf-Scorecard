@@ -1,0 +1,363 @@
+{
+ "city": "Naples",
+ "club_name": "Bears Paw Country Club",
+ "course_name": "Bears Paw Country Club",
+ "dataset_name": "Bears Paw Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "championship": 355,
+    "four": 286,
+    "hybrid": 335,
+    "one": 335,
+    "the_paw": 365,
+    "three": 300,
+    "two": 316
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "championship": 194,
+    "four": 127,
+    "hybrid": 150,
+    "one": 180,
+    "the_paw": 212,
+    "three": 140,
+    "two": 150
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "championship": 510,
+    "four": 422,
+    "hybrid": 470,
+    "one": 500,
+    "the_paw": 571,
+    "three": 460,
+    "two": 470
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "championship": 350,
+    "four": 285,
+    "hybrid": 290,
+    "one": 345,
+    "the_paw": 405,
+    "three": 285,
+    "two": 290
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "championship": 355,
+    "four": 257,
+    "hybrid": 306,
+    "one": 306,
+    "the_paw": 365,
+    "three": 262,
+    "two": 286
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "championship": 415,
+    "four": 300,
+    "hybrid": 351,
+    "one": 405,
+    "the_paw": 497,
+    "three": 343,
+    "two": 351
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "championship": 510,
+    "four": 389,
+    "hybrid": 490,
+    "one": 490,
+    "the_paw": 521,
+    "three": 425,
+    "two": 432
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "championship": 180,
+    "four": 111,
+    "hybrid": 135,
+    "one": 135,
+    "the_paw": 185,
+    "three": 118,
+    "two": 129
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "championship": 400,
+    "four": 287,
+    "hybrid": 360,
+    "one": 395,
+    "the_paw": 438,
+    "three": 301,
+    "two": 360
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "championship": 365,
+    "four": 232,
+    "hybrid": 256,
+    "one": 319,
+    "the_paw": 374,
+    "three": 244,
+    "two": 256
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "championship": 494,
+    "four": 408,
+    "hybrid": 486,
+    "one": 486,
+    "the_paw": 539,
+    "three": 439,
+    "two": 448
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "championship": 385,
+    "four": 290,
+    "hybrid": 334,
+    "one": 334,
+    "the_paw": 393,
+    "three": 300,
+    "two": 309
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "championship": 539,
+    "four": 397,
+    "hybrid": 445,
+    "one": 502,
+    "the_paw": 556,
+    "three": 435,
+    "two": 445
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "championship": 183,
+    "four": 80,
+    "hybrid": 151,
+    "one": 151,
+    "the_paw": 218,
+    "three": 124,
+    "two": 130
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "championship": 362,
+    "four": 259,
+    "hybrid": 347,
+    "one": 347,
+    "the_paw": 430,
+    "three": 275,
+    "two": 288
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "championship": 172,
+    "four": 90,
+    "hybrid": 136,
+    "one": 158,
+    "the_paw": 185,
+    "three": 115,
+    "two": 136
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "championship": 371,
+    "four": 286,
+    "hybrid": 342,
+    "one": 361,
+    "the_paw": 410,
+    "three": 321,
+    "two": 342
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "championship": 391,
+    "four": 264,
+    "hybrid": 285,
+    "one": 366,
+    "the_paw": 403,
+    "three": 274,
+    "two": 285
+   }
+  }
+ ],
+ "id": "5f54b63d-808d-4c7b-991b-6d22bad830e9",
+ "lat": 26.1720537,
+ "lng": -81.7752443,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "the-paw-male",
+   "tee_name": "The Paw",
+   "yardage": 7067
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6531
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "one-male",
+   "tee_name": "One",
+   "yardage": 6115
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "one-female",
+   "tee_name": "One",
+   "yardage": 6115
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "hybrid-female",
+   "tee_name": "Hybrid",
+   "yardage": 5669
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "hybrid-male",
+   "tee_name": "Hybrid",
+   "yardage": 5669
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "two-female",
+   "tee_name": "Two",
+   "yardage": 5423
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "two-male",
+   "tee_name": "Two",
+   "yardage": 5423
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "three-female",
+   "tee_name": "Three",
+   "yardage": 5161
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "three-male",
+   "tee_name": "Three",
+   "yardage": 5161
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "four-male",
+   "tee_name": "Four",
+   "yardage": 4770
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "four-female",
+   "tee_name": "Four",
+   "yardage": 4770
+  }
+ ]
+}

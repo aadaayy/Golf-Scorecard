@@ -1,0 +1,253 @@
+{
+ "city": "Port St. Lucie",
+ "club_name": "Glynlea Country Club",
+ "course_name": "Glynlea Country Club",
+ "dataset_name": "Glynlea Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "green": 437,
+    "navy": 461,
+    "teal": 356,
+    "white": 411
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "green": 332,
+    "navy": 357,
+    "teal": 257,
+    "white": 310
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "green": 507,
+    "navy": 521,
+    "teal": 419,
+    "white": 466
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "green": 349,
+    "navy": 369,
+    "teal": 274,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "green": 180,
+    "navy": 189,
+    "teal": 122,
+    "white": 157
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "green": 285,
+    "navy": 317,
+    "teal": 228,
+    "white": 274
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "green": 491,
+    "navy": 519,
+    "teal": 414,
+    "white": 465
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "green": 142,
+    "navy": 158,
+    "teal": 100,
+    "white": 120
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "green": 396,
+    "navy": 421,
+    "teal": 319,
+    "white": 373
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "green": 383,
+    "navy": 412,
+    "teal": 305,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "green": 464,
+    "navy": 493,
+    "teal": 389,
+    "white": 442
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "green": 400,
+    "navy": 424,
+    "teal": 311,
+    "white": 370
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "green": 132,
+    "navy": 143,
+    "teal": 107,
+    "white": 121
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "green": 567,
+    "navy": 590,
+    "teal": 484,
+    "white": 537
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "green": 141,
+    "navy": 146,
+    "teal": 66,
+    "white": 102
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "green": 387,
+    "navy": 413,
+    "teal": 308,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "green": 159,
+    "navy": 171,
+    "teal": 101,
+    "white": 140
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "green": 501,
+    "navy": 526,
+    "teal": 411,
+    "white": 475
+   }
+  }
+ ],
+ "id": "5e2d9497-9102-43fe-89d6-87c00ed633a3",
+ "lat": 27.345391,
+ "lng": -80.437714,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "navy-male",
+   "tee_name": "Navy",
+   "yardage": 6755
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6181
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5574
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5574
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "teal-female",
+   "tee_name": "Teal",
+   "yardage": 4149
+  }
+ ]
+}

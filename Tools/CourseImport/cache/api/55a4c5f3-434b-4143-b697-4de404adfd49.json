@@ -1,0 +1,293 @@
+{
+ "city": "Fort Myers",
+ "club_name": "The Plantation Golf And Country Club",
+ "course_name": "The Plantation Golf And Country Club",
+ "dataset_name": "The Plantation Golf And Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Blue": 557,
+    "Green": 532,
+    "Green/White": 532,
+    "Orange": 400,
+    "Red": 427,
+    "White": 497,
+    "White/Yellow": 497,
+    "Yellow": 467,
+    "Yellow/Red": 467,
+    "web": 553
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 356,
+    "Green": 336,
+    "Green/White": 336,
+    "Orange": 185,
+    "Red": 256,
+    "White": 316,
+    "White/Yellow": 291,
+    "Yellow": 291,
+    "Yellow/Red": 256,
+    "web": 349
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 218,
+    "Green": 200,
+    "Green/White": 179,
+    "Orange": 130,
+    "Red": 130,
+    "White": 179,
+    "White/Yellow": 154,
+    "Yellow": 154,
+    "Yellow/Red": 154,
+    "web": 214
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Blue": 513,
+    "Green": 495,
+    "Green/White": 458,
+    "Orange": 370,
+    "Red": 413,
+    "White": 458,
+    "White/Yellow": 448,
+    "Yellow": 448,
+    "Yellow/Red": 413,
+    "web": 538
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 434,
+    "Green": 409,
+    "Green/White": 389,
+    "Orange": 275,
+    "Red": 329,
+    "White": 389,
+    "White/Yellow": 359,
+    "Yellow": 359,
+    "Yellow/Red": 329,
+    "web": 436
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 412,
+    "Green": 387,
+    "Green/White": 387,
+    "Orange": 210,
+    "Red": 287,
+    "White": 362,
+    "White/Yellow": 362,
+    "Yellow": 317,
+    "Yellow/Red": 317,
+    "web": 408
+   }
+  }
+ ],
+ "id": "55a4c5f3-434b-4143-b697-4de404adfd49",
+ "lat": 26.559722,
+ "lng": -81.7795672,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 7141
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6737
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-white-male",
+   "tee_name": "Green/White",
+   "yardage": 6502
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6268
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-yellow-male",
+   "tee_name": "White/Yellow",
+   "yardage": 6013
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 5733
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 5733
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-red-female",
+   "tee_name": "Yellow/Red",
+   "yardage": 5362
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-red-male",
+   "tee_name": "Yellow/Red",
+   "yardage": 5362
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5109
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5109
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 4467
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 4467
+  }
+ ]
+}

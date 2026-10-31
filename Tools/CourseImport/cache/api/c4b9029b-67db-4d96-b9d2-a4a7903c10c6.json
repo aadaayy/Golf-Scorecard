@@ -1,0 +1,253 @@
+{
+ "city": "Greenacres",
+ "club_name": "Atlantic National Golf Club",
+ "course_name": "Atlantic National Golf Club",
+ "dataset_name": "Atlantic National Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 417,
+    "green": 319,
+    "red": 310,
+    "white": 394
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 365,
+    "green": 334,
+    "red": 264,
+    "white": 349
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 322,
+    "green": 288,
+    "red": 271,
+    "white": 305
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 147,
+    "green": 107,
+    "red": 103,
+    "white": 123
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "blue": 513,
+    "green": 444,
+    "red": 391,
+    "white": 494
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 356,
+    "green": 294,
+    "red": 252,
+    "white": 319
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 521,
+    "green": 432,
+    "red": 419,
+    "white": 492
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 183,
+    "green": 163,
+    "red": 143,
+    "white": 173
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 404,
+    "green": 365,
+    "red": 311,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 353,
+    "green": 284,
+    "red": 275,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 192,
+    "green": 125,
+    "red": 98,
+    "white": 167
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 364,
+    "green": 335,
+    "red": 317,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 348,
+    "green": 298,
+    "red": 294,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 562,
+    "green": 474,
+    "red": 465,
+    "white": 539
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "green": 130,
+    "red": 109,
+    "white": 159
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 390,
+    "green": 307,
+    "red": 290,
+    "white": 368
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 168,
+    "green": 123,
+    "red": 85,
+    "white": 144
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 522,
+    "green": 478,
+    "red": 413,
+    "white": 503
+   }
+  }
+ ],
+ "id": "c4b9029b-67db-4d96-b9d2-a4a7903c10c6",
+ "lat": 26.5829336,
+ "lng": -80.1804901,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6519
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6142
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "green-white-male",
+   "tee_name": "Green/White",
+   "yardage": 5831
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5446
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5016
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "city": "Hialeah",
+ "club_name": "Country Club Of Miami West",
+ "course_name": "Country Club Of Miami West",
+ "dataset_name": "Country Club Of Miami West",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 360,
+    "gold": 344,
+    "red": 307,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 156,
+    "gold": 136,
+    "red": 100,
+    "white": 110
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 376,
+    "gold": 364,
+    "red": 320,
+    "white": 340
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 495,
+    "gold": 470,
+    "red": 412,
+    "white": 432
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 338,
+    "gold": 303,
+    "red": 256,
+    "white": 276
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 171,
+    "gold": 148,
+    "red": 116,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 496,
+    "gold": 476,
+    "red": 421,
+    "white": 441
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 439,
+    "gold": 401,
+    "red": 340,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 353,
+    "gold": 328,
+    "red": 284,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 368,
+    "gold": 354,
+    "red": 309,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 383,
+    "gold": 359,
+    "red": 301,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "blue": 518,
+    "gold": 494,
+    "red": 435,
+    "white": 455
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 151,
+    "gold": 128,
+    "red": 104,
+    "white": 114
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 351,
+    "gold": 339,
+    "red": 296,
+    "white": 316
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 390,
+    "gold": 372,
+    "red": 312,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 507,
+    "gold": 492,
+    "red": 415,
+    "white": 435
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 170,
+    "gold": 152,
+    "red": 114,
+    "white": 124
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 404,
+    "gold": 378,
+    "red": 317,
+    "white": 337
+   }
+  }
+ ],
+ "id": "8373e96d-a8e8-458a-8065-eb2b58fdd83a",
+ "lat": 25.9436769,
+ "lng": -80.3135786,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6999
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6426
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6038
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5479
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "scoring-female",
+   "tee_name": "Scoring",
+   "yardage": 4333
+  }
+ ]
+}
