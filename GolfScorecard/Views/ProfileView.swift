@@ -251,11 +251,12 @@ private struct MyProfilePage: View {
     }
 }
 
-/// How rounds start: the usual tee, and the open view.
+/// How rounds start: the usual tee, and what the open Duo and a sideways phone show.
 private struct PlayingPage: View {
     @Environment(CourseLibrary.self) private var library
     @AppStorage(SettingsKey.usualTee) private var usualTee = "White"
-    @AppStorage(OpenLayout.storageKey) private var openLayout = OpenLayout.nine
+    @AppStorage(TwoHalves.duoOpen.storageKey) private var duoOpenLayout = OpenLayout.standard
+    @AppStorage(TwoHalves.sideways.storageKey) private var sidewaysLayout = OpenLayout.standard
 
     var body: some View {
         Form {
@@ -270,18 +271,24 @@ private struct PlayingPage: View {
                     Text("Picked first when you start a round, if the course has it.")
                 }
                 Section {
-                    Picker(selection: $openLayout) {
-                        Text("Hole").tag(OpenLayout.hole)
-                        Text("Nine").tag(OpenLayout.nine)
-                    } label: {
-                        Label("Open or sideways", systemImage: "rectangle.split.2x1")
-                    }
+                    layoutPicker(.duoOpen, selection: $duoOpenLayout, symbol: "rectangle.split.2x1")
+                    layoutPicker(.sideways, selection: $sidewaysLayout, symbol: "iphone.landscape")
                 } footer: {
-                    Text("With the Duo open or the phone sideways, Hole shows your score beside the hole you're on, and Nine shows the card beside all nine holes. You can switch during a round too.")
+                    Text("Duo open is for the Duo unfolded, and Sideways is for any iPhone turned on its side. Hole shows your score beside the hole you're on, and Nine shows the card beside all nine holes. Switching during a round changes the one you're using.")
                 }
             }
             .listRowBackground(Book.page)
         }
+    }
+
+    private func layoutPicker(_ halves: TwoHalves, selection: Binding<OpenLayout>, symbol: String) -> some View {
+        Picker(selection: selection) {
+            Text("Hole").tag(OpenLayout.hole)
+            Text("Nine").tag(OpenLayout.nine)
+        } label: {
+            Label(halves.title, systemImage: symbol)
+        }
+        .accessibilityIdentifier("profile-layout-\(halves.rawValue)")
     }
 
     /// Every tee across the courses, in card order, so the usual tee can be picked before a round.

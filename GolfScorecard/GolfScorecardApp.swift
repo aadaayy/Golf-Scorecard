@@ -13,6 +13,7 @@ struct GolfScorecardApp: App {
 
     init() {
         Book.styleSystemControls()
+        OpenLayout.carryOverOldSetting()
         let arguments = ProcessInfo.processInfo.arguments
         if Self.isUITesting {
             // No downloaded courses left over from an earlier test.
@@ -26,14 +27,28 @@ struct GolfScorecardApp: App {
 
         if Self.isUITesting {
             // Fresh every time: the welcome pages show unless a test skips them,
-            // and the open layout comes from "-startLayout hole" or "-startLayout nine".
+            // and the open layouts come from "-startLayout hole" or "-startLayout nine"
+            // (both), "-startDuoOpen ..." or "-startSideways ..." (one), or
+            // "-oldLayout ..." (the setting from before the split, to carry over).
             // Saved as ordinary settings so the app can still change them.
             SettingsKey.eraseAll()
             if arguments.contains("-skipOnboarding") {
                 UserDefaults.standard.set(true, forKey: SettingsKey.onboarded)
             }
-            if let index = arguments.firstIndex(of: "-startLayout"), index + 1 < arguments.count {
-                UserDefaults.standard.set(arguments[index + 1], forKey: OpenLayout.storageKey)
+            func value(after flag: String) -> String? {
+                guard let index = arguments.firstIndex(of: flag), index + 1 < arguments.count else { return nil }
+                return arguments[index + 1]
+            }
+            // Not named after the settings themselves: a launch argument with a
+            // setting's name would pin it, and the app couldn't change it.
+            for (halves, flag) in [(TwoHalves.duoOpen, "-startDuoOpen"), (TwoHalves.sideways, "-startSideways")] {
+                if let layout = value(after: flag) ?? value(after: "-startLayout") {
+                    UserDefaults.standard.set(layout, forKey: halves.storageKey)
+                }
+            }
+            if let old = value(after: "-oldLayout") {
+                UserDefaults.standard.set(old, forKey: OpenLayout.oldStorageKey)
+                OpenLayout.carryOverOldSetting()
             }
             #if DEBUG
             if arguments.contains("-sampleRounds") {

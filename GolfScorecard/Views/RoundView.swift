@@ -6,7 +6,8 @@ import UIKit
 /// Upright phones (closed iPhone Duo, regular iPhones held upright) show one
 /// pane at a time with Card and Map tabs. The open Duo (regular width) and any
 /// iPhone held sideways (compact height) show two halves, in one of two
-/// layouts the golfer picks (see `OpenLayout`).
+/// layouts (see `OpenLayout`). The open Duo and a sideways phone each
+/// remember their own (see `TwoHalves`).
 struct RoundView: View {
     @Bindable var round: Round
     /// A Home button at the top left, for a round opened over the whole screen.
@@ -17,7 +18,8 @@ struct RoundView: View {
     @Environment(\.modelContext) private var modelContext
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
-    @AppStorage(OpenLayout.storageKey) private var openLayout = OpenLayout.nine
+    @AppStorage(TwoHalves.duoOpen.storageKey) private var duoOpenLayout = OpenLayout.standard
+    @AppStorage(TwoHalves.sideways.storageKey) private var sidewaysLayout = OpenLayout.standard
     @State private var selectedHole = 1
     @State private var selectedPlayer = 0
     /// Finished rounds open locked, so a look at an old card can't change it by accident.
@@ -32,6 +34,7 @@ struct RoundView: View {
     @Environment(\.dismiss) private var dismiss
 
     private var isWide: Bool { horizontalSizeClass == .regular || verticalSizeClass == .compact }
+    private var halves: TwoHalves { TwoHalves(verticalSizeClass: verticalSizeClass) }
 
     var body: some View {
         Group {
@@ -60,7 +63,7 @@ struct RoundView: View {
                 }
             }
             if isWide {
-                ToolbarItem(placement: .topBarTrailing) { OpenLayoutPicker() }
+                ToolbarItem(placement: .topBarTrailing) { OpenLayoutPicker(halves: halves) }
             }
             ToolbarItem(placement: .topBarTrailing) { roundButtons }
         }
@@ -161,7 +164,7 @@ struct RoundView: View {
         let map = MapPane(course: course, tee: round.tee, selectedHole: $selectedHole)
 
         if isWide {
-            switch openLayout {
+            switch halves == .duoOpen ? duoOpenLayout : sidewaysLayout {
             case .hole:
                 WideRoundLayout(card: HoleScorePane(round: round, course: course, selectedHole: $selectedHole), map: map)
             case .nine:
@@ -176,22 +179,22 @@ struct RoundView: View {
     }
 }
 
-/// The two ways to use the open Duo (or a sideways iPhone).
-enum OpenLayout: String {
-    /// The score for the hole you're on at the left, that hole at the right.
-    case hole
-    /// The card for the nine you're on at the left, all nine holes at the right.
-    case nine
-
-    static let storageKey = "openLayout"
+extension TwoHalves {
+    /// Sideways when the screen is short (compact height), otherwise the open Duo.
+    init(verticalSizeClass: UserInterfaceSizeClass?) {
+        self = verticalSizeClass == .compact ? .sideways : .duoOpen
+    }
 }
 
-/// Switches between the hole view and the nine view. The choice is remembered.
+/// Switches between the hole view and the nine view during a round. The choice
+/// is remembered for the way the phone is held now: open Duo or sideways.
 struct OpenLayoutPicker: View {
-    @AppStorage(OpenLayout.storageKey) private var layout = OpenLayout.nine
+    var halves: TwoHalves
+    @AppStorage(TwoHalves.duoOpen.storageKey) private var duoOpenLayout = OpenLayout.standard
+    @AppStorage(TwoHalves.sideways.storageKey) private var sidewaysLayout = OpenLayout.standard
 
     var body: some View {
-        Picker("Layout", selection: $layout) {
+        Picker("Layout", selection: halves == .duoOpen ? $duoOpenLayout : $sidewaysLayout) {
             Text("Hole").tag(OpenLayout.hole)
             Text("Nine").tag(OpenLayout.nine)
         }

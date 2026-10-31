@@ -15,7 +15,8 @@ enum SettingsKey {
     static let findCoursesOnMap = "findCoursesOnMap"
 
     /// Every setting, so "Erase everything" and the UI tests can clear them.
-    static let all = [onboarded, playerName, handicap, usualTee, showOnLockScreen, findCoursesOnMap, OpenLayout.storageKey]
+    static let all = [onboarded, playerName, handicap, usualTee, showOnLockScreen, findCoursesOnMap,
+                      TwoHalves.duoOpen.storageKey, TwoHalves.sideways.storageKey, OpenLayout.oldStorageKey]
 
     static func eraseAll() {
         for key in all { UserDefaults.standard.removeObject(forKey: key) }

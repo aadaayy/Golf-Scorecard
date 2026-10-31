@@ -36,9 +36,15 @@ final class OutsideRoundUITests: XCTestCase {
         capture("o2-whos-playing")
         app.buttons["onboarding-next"].tap()
 
-        let hole = app.buttons["onboarding-layout-hole"]
-        XCTAssertTrue(hole.waitForExistence(timeout: 5), "The open view choice is missing")
-        hole.tap()
+        // A pick for the open Duo and one for a sideways phone.
+        let openNine = app.buttons["onboarding-duoOpen-nine"]
+        XCTAssertTrue(openNine.waitForExistence(timeout: 5), "The Duo open choice is missing")
+        XCTAssertTrue(app.buttons["onboarding-sideways-hole"].exists, "The Sideways choice is missing")
+        XCTAssertTrue(app.buttons["onboarding-duoOpen-hole"].isSelected, "Duo open should start on Hole")
+        XCTAssertTrue(app.buttons["onboarding-sideways-hole"].isSelected, "Sideways should start on Hole")
+        openNine.tap()
+        XCTAssertTrue(openNine.isSelected, "Tapping Nine should pick it for Duo open")
+        XCTAssertTrue(app.buttons["onboarding-sideways-hole"].isSelected, "Picking for Duo open shouldn't change Sideways")
         capture("o3-open-view")
         app.buttons["onboarding-done"].tap()
 

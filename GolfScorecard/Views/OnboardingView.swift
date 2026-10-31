@@ -1,12 +1,13 @@
 import SwiftUI
 
 /// Three short pages the first time the app opens: hello, who's playing, and
-/// how the open Duo (or a sideways phone) should start. Skip works on every page.
+/// how the open Duo and a sideways phone should each start. Skip works on every page.
 struct OnboardingView: View {
     @AppStorage(SettingsKey.onboarded) private var onboarded = false
     @AppStorage(SettingsKey.playerName) private var playerName = ""
     @AppStorage(SettingsKey.handicap) private var handicap = ""
-    @AppStorage(OpenLayout.storageKey) private var openLayout = OpenLayout.nine
+    @AppStorage(TwoHalves.duoOpen.storageKey) private var duoOpenLayout = OpenLayout.standard
+    @AppStorage(TwoHalves.sideways.storageKey) private var sidewaysLayout = OpenLayout.standard
     @State private var page = 0
 
     var body: some View {
@@ -102,35 +103,47 @@ struct OnboardingView: View {
 
     private var openView: some View {
         VStack(spacing: 20) {
-            Text("When the phone is open").font(Book.title(32, relativeTo: .largeTitle)).multilineTextAlignment(.center)
-            Text("Open the Duo or turn any iPhone sideways during a round and you get two halves. Pick which you see first. You can switch any time.")
+            Text("Two halves").font(Book.title(32, relativeTo: .largeTitle)).multilineTextAlignment(.center)
+            Text("Open the Duo or turn any iPhone sideways during a round and you get two halves. Pick what each one shows first. You can change them in Profile.")
                 .multilineTextAlignment(.center)
                 .foregroundStyle(Book.pencil)
+            layoutChoices(.duoOpen, selection: $duoOpenLayout, symbol: "rectangle.split.2x1")
+            layoutChoices(.sideways, selection: $sidewaysLayout, symbol: "iphone.landscape")
+        }
+    }
+
+    /// Hole or Nine for one way of holding the phone.
+    private func layoutChoices(_ halves: TwoHalves, selection: Binding<OpenLayout>, symbol: String) -> some View {
+        VStack(alignment: .leading, spacing: 8) {
+            Label(halves.title, systemImage: symbol)
+                .font(.headline)
+                .accessibilityAddTraits(.isHeader)
             HStack(spacing: 12) {
-                layoutChoice(.hole, title: "Hole", detail: "Big score for the hole you're on, and its map", symbol: "flag.fill")
-                layoutChoice(.nine, title: "Nine", detail: "The whole card, and all nine holes", symbol: "square.grid.3x3.fill")
+                layoutChoice(.hole, halves: halves, selection: selection, title: "Hole", detail: "Big score for the hole you're on, and its map", symbol: "flag.fill")
+                layoutChoice(.nine, halves: halves, selection: selection, title: "Nine", detail: "The whole card, and all nine holes", symbol: "square.grid.3x3.fill")
             }
         }
     }
 
-    private func layoutChoice(_ layout: OpenLayout, title: String, detail: String, symbol: String) -> some View {
-        let picked = openLayout == layout
+    private func layoutChoice(_ layout: OpenLayout, halves: TwoHalves, selection: Binding<OpenLayout>, title: String, detail: String, symbol: String) -> some View {
+        let picked = selection.wrappedValue == layout
         return Button {
-            openLayout = layout
+            selection.wrappedValue = layout
         } label: {
-            VStack(spacing: 8) {
-                Image(systemName: symbol).font(.system(size: 34)).foregroundStyle(picked ? Book.red : Book.ink)
-                Text(title).font(Book.title(22, relativeTo: .title3))
+            VStack(spacing: 6) {
+                Image(systemName: symbol).font(.system(size: 26)).foregroundStyle(picked ? Book.red : Book.ink)
+                Text(title).font(Book.title(20, relativeTo: .title3))
                 Text(detail).font(.footnote).multilineTextAlignment(.center).foregroundStyle(Book.pencil)
             }
-            .frame(maxWidth: .infinity, minHeight: 150)
-            .padding(12)
+            .frame(maxWidth: .infinity, minHeight: 116)
+            .padding(10)
             .background(picked ? Book.markedRow : Book.page, in: RoundedRectangle(cornerRadius: 16))
             .overlay(RoundedRectangle(cornerRadius: 16).stroke(picked ? Book.red : Book.ink.opacity(0.4), lineWidth: picked ? 2 : 1))
         }
         .buttonStyle(.plain)
+        .accessibilityLabel("\(halves.title): \(title)")
         .accessibilityAddTraits(picked ? .isSelected : [])
-        .accessibilityIdentifier("onboarding-layout-\(layout.rawValue)")
+        .accessibilityIdentifier("onboarding-\(halves.rawValue)-\(layout.rawValue)")
     }
 
     private var pageDots: some View {

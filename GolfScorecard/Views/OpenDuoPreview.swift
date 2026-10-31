@@ -42,7 +42,7 @@ struct OpenDuoPreview: View {
                     .font(.headline)
                     .frame(maxWidth: .infinity)
                     .frame(height: 44)
-                    .overlay(alignment: .trailing) { OpenLayoutPicker().padding(.trailing) }
+                    .overlay(alignment: .trailing) { OpenLayoutPicker(halves: .duoOpen).padding(.trailing) }
                 RoundView(round: round)
             }
             .padding(.top, 24)

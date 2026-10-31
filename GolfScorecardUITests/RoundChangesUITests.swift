@@ -128,6 +128,95 @@ final class RoundChangesUITests: XCTestCase {
         }
     }
 
+    /// The open Duo and a sideways phone each keep their own Hole or Nine pick.
+    /// Both start on Hole; picking Nine for the open Duo on Profile leaves a
+    /// sideways round on Hole, and the switch in a sideways round changes only
+    /// the sideways pick.
+    @MainActor
+    func testSeparateOpenAndSidewaysViews() throws {
+        let app = XCUIApplication()
+        app.launchArguments = ["-uiTesting", "-skipOnboarding"]
+        app.launch()
+        XCTAssertTrue(app.buttons["course-pompano-pines"].waitForExistence(timeout: 15), "Home did not load")
+
+        tab("Profile", in: app)
+        let playing = app.buttons["profile-section-playing"]
+        XCTAssertTrue(playing.waitForExistence(timeout: 5), "Profile is missing Playing")
+        playing.tap()
+        let duoOpen = app.buttons["profile-layout-duoOpen"]
+        let sideways = app.buttons["profile-layout-sideways"]
+        XCTAssertTrue(duoOpen.waitForExistence(timeout: 5), "Playing is missing Duo open")
+        XCTAssertTrue(sideways.exists, "Playing is missing Sideways")
+        XCTAssertTrue(shows(duoOpen, "Hole"), "Duo open should start on Hole")
+        XCTAssertTrue(shows(sideways, "Hole"), "Sideways should start on Hole")
+        XCTAssertFalse(app.buttons["Open or sideways"].exists, "The old single setting should be gone")
+
+        duoOpen.tap()
+        let nine = app.buttons["Nine"].firstMatch
+        XCTAssertTrue(nine.waitForExistence(timeout: 5), "Duo open should offer Nine")
+        nine.tap()
+        sleep(1)
+        XCTAssertTrue(shows(duoOpen, "Nine"), "Duo open should now be Nine")
+        XCTAssertTrue(shows(sideways, "Hole"), "Picking for Duo open shouldn't change Sideways")
+        capture("v1-profile-playing")
+        back(in: app)
+
+        // A sideways round starts on its own pick, Hole.
+        tab("Play", in: app)
+        startRound(in: app)
+        XCUIDevice.shared.orientation = .landscapeLeft
+        sleep(2)
+        if app.otherElements["hole-score-pane"].waitForExistence(timeout: 5) {
+            XCTAssertFalse(app.otherElements["nine-pane"].exists, "Sideways should show the hole view, not Duo open's nine view")
+            capture("v3-sideways-round-hole")
+
+            // Switching in the round changes the sideways pick.
+            app.buttons["Nine"].firstMatch.tap()
+            XCTAssertTrue(app.otherElements["nine-pane"].waitForExistence(timeout: 5), "Nine in the round should show the nine view")
+            sleep(1)
+            capture("v4-sideways-round-switched-nine")
+        } else {
+            // The closed Duo's outer screen may not turn sideways; any other iPhone must.
+            XCTAssertTrue(Self.device.contains("Duo"), "A sideways round should start on the hole view")
+        }
+        XCUIDevice.shared.orientation = .portrait
+
+        // The open Duo, drawn at its size on the Pro Max: Profile and a round
+        // with Duo open on Nine and Sideways on Hole.
+        guard Self.device.contains("Pro Max") else { return }
+        app.terminate()
+        XCUIDevice.shared.orientation = .landscapeLeft
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-openDuoPreview", "-home",
+                               "-startDuoOpen", "nine", "-startSideways", "hole"]
+        app.launch()
+        XCTAssertTrue(app.otherElements["course-preview"].waitForExistence(timeout: 15), "The open Duo home did not load")
+        tab("Profile", in: app)
+        app.buttons["profile-section-playing"].tap()
+        XCTAssertTrue(app.buttons["profile-layout-sideways"].waitForExistence(timeout: 5), "Open, Playing should show both settings")
+        sleep(1)
+        capture("v2-open-duo-size-playing")
+
+        app.terminate()
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-openDuoPreview",
+                               "-startDuoOpen", "nine", "-startSideways", "hole"]
+        app.launch()
+        XCTAssertTrue(app.otherElements["nine-pane"].waitForExistence(timeout: 15), "The open Duo should start on its own pick, Nine")
+        XCTAssertFalse(app.otherElements["hole-score-pane"].exists, "The open Duo shouldn't follow Sideways")
+        sleep(1)
+        capture("v5-open-duo-size-round-nine")
+
+        // Someone who picked Nine before the split keeps Nine on both.
+        app.terminate()
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-openDuoPreview", "-oldLayout", "nine"]
+        app.launch()
+        XCTAssertTrue(app.otherElements["nine-pane"].waitForExistence(timeout: 15), "An old Nine pick should carry over to the open Duo")
+    }
+
+    /// A Profile picker row shows its pick in its label or its value.
+    private func shows(_ row: XCUIElement, _ pick: String) -> Bool {
+        row.label.contains(pick) || (row.value as? String)?.contains(pick) == true
+    }
+
     /// The round's card on the Lock Screen: first drawn inside the app, then,
     /// where the simulator allows, the real one from a round being played.
     @MainActor
