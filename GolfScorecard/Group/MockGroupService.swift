@@ -7,14 +7,14 @@ import Foundation
 ///
 /// Friends play along on their own: in a round you start, Sam and Jordan join
 /// a moment later, and each scores a hole shortly after you do (Sam one more
-/// than you, Jordan the same). The code PINES4 joins Sam's round already on
-/// hole 4; FULL44 is a round with no seats left; any other code isn't found.
+/// than you, Jordan the same). The code GREEN4 joins Sam's round already on
+/// hole 4; PACKED is a round with no seats left; any other code isn't found.
 @MainActor
 final class MockGroupService: GroupService {
     static let me = GroupUser(id: "mock-me", name: "Alex Rivera")
     static let startCode = "PNS234"
-    static let joinCode = "PINES4"
-    static let fullCode = "FULL44"
+    static let joinCode = "GREEN4"
+    static let fullCode = "PACKED"
 
     private var user: GroupUser?
     private var rounds: [String: MockRound] = [:]

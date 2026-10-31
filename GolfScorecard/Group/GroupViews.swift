@@ -233,6 +233,11 @@ struct JoinRoundView: View {
                     .textInputAutocapitalization(.characters)
                     .autocorrectionDisabled()
                     .focused($codeFocused)
+                    .onChange(of: code) { _, typed in
+                        // Show the code the way it's printed: capitals, no stray letters.
+                        let upper = typed.uppercased()
+                        if upper != typed { code = upper }
+                    }
                     .submitLabel(.join)
                     .onSubmit { Task { await join() } }
                     .accessibilityIdentifier("join-code")

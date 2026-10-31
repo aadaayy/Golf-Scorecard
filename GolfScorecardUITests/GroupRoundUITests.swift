@@ -121,7 +121,7 @@ final class GroupRoundUITests: XCTestCase {
 
         field.tap()
         field.typeText(String(repeating: XCUIKeyboardKey.delete.rawValue, count: 10))
-        field.typeText("pines4")
+        field.typeText("green4")
         capture("g11-join-code")
         app.buttons["join-submit"].tap()
 
