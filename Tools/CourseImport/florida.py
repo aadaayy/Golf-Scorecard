@@ -8,7 +8,7 @@ can run them a little at a time:
               the OpenGolfAPI course API for each course's full scorecard (par,
               stroke index and tee yardages). Keeps what it needs in cache/api/,
               one file per course, so each course is only asked for once. The
-              free API allows 1,000 calls a day, so it stops at --limit.
+              free API stops after about 500 calls a day, so it stops at --limit.
   fetch-osm   Reads the holes, greens, fairways, bunkers, tees and water drawn on
               Florida's golf courses from an OpenStreetMap extract (Geofabrik's
               Florida file, filtered by osmium) and keeps them in one file.
@@ -22,7 +22,7 @@ Data credit (both are ODbL 1.0, so the course library stays open under ODbL):
 Only uses the Python standard library.
 
 Usage, from the repository's top folder:
-  python3 Tools/CourseImport/florida.py fetch-api --dataset opengolfapi-us.ndjson --limit 900
+  python3 Tools/CourseImport/florida.py fetch-api --dataset opengolfapi-us.ndjson --limit 490
   python3 Tools/CourseImport/florida.py fetch-osm golf.geojsonseq osm.json.gz   (course-import.yml makes golf.geojsonseq)
   python3 Tools/CourseImport/florida.py build course-library --osm osm.json.gz
 """
@@ -47,7 +47,7 @@ IDS_FILE = os.path.join(HERE, "florida-ids.json")
 REPORT_FILE = os.path.join(HERE, "florida-report.json")
 
 API = "https://api.opengolfapi.org/api/v1/courses/"
-DAILY_CALLS = 950  # the free API allows 1,000 a day
+DAILY_CALLS = 490  # the free API answers about 500 calls a day, then says to wait
 USAGE_FILE = os.path.join(CACHE, "api-calls.json")
 USER_AGENT = "YardageBook-course-import/1.0 (github.com/aadaayy/Golf-Scorecard)"
 
@@ -171,8 +171,8 @@ def fetch_api(args):
             if error.code == 404:
                 record = {"id": course["id"], "dataset_name": course["name"], "missing": True}
             elif error.code == 429:
-                print("The API says we've used today's calls; the next run carries on")
-                calls = DAILY_CALLS  # don't try again today
+                print(f"The API says we've used today's calls after {calls - 1} more; the next run carries on")
+                used = max(used, DAILY_CALLS - calls)  # don't try again today
                 break
             else:
                 print(f"{course['id']}: HTTP {error.code}, skipped for now")
@@ -837,7 +837,7 @@ def main():
     sub = parser.add_subparsers(dest="command", required=True)
     p = sub.add_parser("fetch-api")
     p.add_argument("--dataset", required=True, help="opengolfapi-us.ndjson from github.com/opengolfapi/data")
-    p.add_argument("--limit", type=int, default=900, help="most API calls this run")
+    p.add_argument("--limit", type=int, default=490, help="most API calls this run")
     p.add_argument("--pause", type=float, default=0.5, help="seconds between calls")
     p = sub.add_parser("fetch-osm")
     p.add_argument("geojson", help="golf features from osmium export, one GeoJSON feature a line")
