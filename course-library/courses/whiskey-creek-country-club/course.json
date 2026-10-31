@@ -1,0 +1,215 @@
+{
+  "id": "whiskey-creek-country-club",
+  "name": "Whiskey Creek Country Club",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.574141,
+    "lng": -81.891866
+  },
+  "tees": [
+    "Blue",
+    "Red",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 115,
+        "Red": 93,
+        "Gold": 73
+      },
+      "map": "whiskey-creek-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 277,
+        "Red": 266,
+        "Gold": 196
+      },
+      "map": "whiskey-creek-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 271,
+        "Red": 252,
+        "Gold": 222
+      },
+      "map": "whiskey-creek-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 168,
+        "Red": 136,
+        "Gold": 114
+      },
+      "map": "whiskey-creek-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 150,
+        "Red": 131,
+        "Gold": 102
+      },
+      "map": "whiskey-creek-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 124,
+        "Red": 95,
+        "Gold": 66
+      },
+      "map": "whiskey-creek-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 138,
+        "Red": 127,
+        "Gold": 110
+      },
+      "map": "whiskey-creek-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 121,
+        "Red": 108,
+        "Gold": 87
+      },
+      "map": "whiskey-creek-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 273,
+        "Red": 260,
+        "Gold": 230
+      },
+      "map": "whiskey-creek-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 120,
+        "Red": 113,
+        "Gold": 84
+      },
+      "map": "whiskey-creek-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 156,
+        "Red": 148,
+        "Gold": 127
+      },
+      "map": "whiskey-creek-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 291,
+        "Red": 216,
+        "Gold": 154
+      },
+      "map": "whiskey-creek-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 135,
+        "Red": 127,
+        "Gold": 118
+      },
+      "map": "whiskey-creek-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 133,
+        "Red": 122,
+        "Gold": 82
+      },
+      "map": "whiskey-creek-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 274,
+        "Red": 258,
+        "Gold": 225
+      },
+      "map": "whiskey-creek-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 113,
+        "Red": 107,
+        "Gold": 82
+      },
+      "map": "whiskey-creek-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 138,
+        "Red": 116,
+        "Gold": 107
+      },
+      "map": "whiskey-creek-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 336,
+        "Red": 326,
+        "Gold": 296
+      },
+      "map": "whiskey-creek-country-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,159 @@
+{
+  "id": "spring-run-golf-club",
+  "name": "Spring Run Golf Club",
+  "town": "Bonita Springs, FL",
+  "location": {
+    "lat": 26.395648,
+    "lng": -81.796589
+  },
+  "tees": [
+    "Web"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yards": {
+        "Web": 347
+      },
+      "map": "spring-run-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "yards": {
+        "Web": 546
+      },
+      "map": "spring-run-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "yards": {
+        "Web": 480
+      },
+      "map": "spring-run-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "yards": {
+        "Web": 240
+      },
+      "map": "spring-run-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yards": {
+        "Web": 379
+      },
+      "map": "spring-run-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "yards": {
+        "Web": 148
+      },
+      "map": "spring-run-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "yards": {
+        "Web": 539
+      },
+      "map": "spring-run-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "yards": {
+        "Web": 443
+      },
+      "map": "spring-run-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "yards": {
+        "Web": 411
+      },
+      "map": "spring-run-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "yards": {
+        "Web": 516
+      },
+      "map": "spring-run-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "yards": {
+        "Web": 346
+      },
+      "map": "spring-run-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "yards": {
+        "Web": 600
+      },
+      "map": "spring-run-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "yards": {
+        "Web": 389
+      },
+      "map": "spring-run-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "yards": {
+        "Web": 248
+      },
+      "map": "spring-run-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "yards": {
+        "Web": 374
+      },
+      "map": "spring-run-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "yards": {
+        "Web": 342
+      },
+      "map": "spring-run-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "yards": {
+        "Web": 222
+      },
+      "map": "spring-run-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yards": {
+        "Web": 419
+      },
+      "map": "spring-run-golf-club-18"
+    }
+  ],
+  "version": 1
+}

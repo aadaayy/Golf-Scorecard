@@ -1,0 +1,197 @@
+{
+  "id": "first-second-at-lake-venice-golf-club",
+  "name": "First Second At Lake Venice Golf Club",
+  "town": "Venice, FL",
+  "location": {
+    "lat": 27.064481,
+    "lng": -82.445978
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 379,
+        "White": 367,
+        "Red": 296
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 402,
+        "White": 380,
+        "Red": 274
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 472,
+        "White": 462,
+        "Red": 342
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 232,
+        "White": 162,
+        "Red": 127
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 414,
+        "White": 392,
+        "Red": 237
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 457,
+        "White": 445,
+        "Red": 365
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 331,
+        "White": 321,
+        "Red": 258
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 211,
+        "White": 186,
+        "Red": 138
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 390,
+        "White": 382,
+        "Red": 259
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 497,
+        "White": 481,
+        "Red": 400
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 334,
+        "White": 313,
+        "Red": 219
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 352,
+        "White": 341,
+        "Red": 280
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 169,
+        "White": 149,
+        "Red": 124
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 488,
+        "White": 475,
+        "Red": 395
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 383,
+        "White": 376,
+        "Red": 296
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 390,
+        "White": 381,
+        "Red": 254
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 419,
+        "White": 385,
+        "Red": 301
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 187,
+        "White": 175,
+        "Red": 125
+      }
+    }
+  ],
+  "version": 1
+}

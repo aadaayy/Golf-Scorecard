@@ -1,0 +1,216 @@
+{
+  "id": "pga-national-resort-fazio-course",
+  "name": "Pga National Resort Fazio Course",
+  "town": "Palm Beach Gardens, FL",
+  "location": {
+    "lat": 26.829755,
+    "lng": -80.141198
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 500,
+        "White": 482,
+        "Green": 433,
+        "Red": 399
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 354,
+        "White": 325,
+        "Green": 294,
+        "Red": 275
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 367,
+        "White": 344,
+        "Green": 318,
+        "Red": 301
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 534,
+        "White": 519,
+        "Green": 467,
+        "Red": 428
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 152,
+        "White": 138,
+        "Green": 125,
+        "Red": 111
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 350,
+        "White": 341,
+        "Green": 310,
+        "Red": 291
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 191,
+        "White": 177,
+        "Green": 131,
+        "Red": 124
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 412,
+        "White": 388,
+        "Green": 332,
+        "Red": 291
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 380,
+        "White": 361,
+        "Green": 346,
+        "Red": 305
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 362,
+        "White": 344,
+        "Green": 320,
+        "Red": 278
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 392,
+        "White": 360,
+        "Green": 328,
+        "Red": 308
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 502,
+        "White": 490,
+        "Green": 456,
+        "Red": 413
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 161,
+        "White": 141,
+        "Green": 122,
+        "Red": 107
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 392,
+        "White": 370,
+        "Green": 343,
+        "Red": 305
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 341,
+        "White": 320,
+        "Green": 282,
+        "Red": 275
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 207,
+        "White": 185,
+        "Green": 149,
+        "Red": 139
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 519,
+        "White": 502,
+        "Green": 460,
+        "Red": 420
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 435,
+        "White": 400,
+        "Green": 358,
+        "Red": 347
+      }
+    }
+  ],
+  "version": 1
+}

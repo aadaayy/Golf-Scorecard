@@ -1,0 +1,273 @@
+{
+  "id": "seven-lakes",
+  "name": "Seven Lakes",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.552288,
+    "lng": -81.874239
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "Men'S Combo",
+    "Blue/White",
+    "White",
+    "Red (W)",
+    "Gold (W)"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 147,
+        "Web": 153,
+        "Men'S Combo": 147,
+        "Blue/White": 147,
+        "White": 127,
+        "Red (W)": 127,
+        "Gold (W)": 94
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 110,
+        "Web": 118,
+        "Men'S Combo": 110,
+        "Blue/White": 110,
+        "White": 89,
+        "Red (W)": 89,
+        "Gold (W)": 65
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 190,
+        "Web": 180,
+        "Men'S Combo": 169,
+        "Blue/White": 169,
+        "White": 169,
+        "Red (W)": 169,
+        "Gold (W)": 145
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 140,
+        "Web": 133,
+        "Men'S Combo": 140,
+        "Blue/White": 140,
+        "White": 123,
+        "Red (W)": 123,
+        "Gold (W)": 101
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 154,
+        "Web": 156,
+        "Men'S Combo": 132,
+        "Blue/White": 132,
+        "White": 132,
+        "Red (W)": 126,
+        "Gold (W)": 83
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 284,
+        "Web": 302,
+        "Men'S Combo": 260,
+        "Blue/White": 260,
+        "White": 260,
+        "Red (W)": 260,
+        "Gold (W)": 202
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 174,
+        "Web": 183,
+        "Men'S Combo": 149,
+        "Blue/White": 149,
+        "White": 149,
+        "Red (W)": 149,
+        "Gold (W)": 101
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 137,
+        "Web": 143,
+        "Men'S Combo": 137,
+        "Blue/White": 137,
+        "White": 111,
+        "Red (W)": 111,
+        "Gold (W)": 84
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 356,
+        "Web": 314,
+        "Men'S Combo": 312,
+        "Blue/White": 312,
+        "White": 312,
+        "Red (W)": 312,
+        "Gold (W)": 248
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 135,
+        "Web": 118,
+        "Men'S Combo": 135,
+        "Blue/White": 135,
+        "White": 120,
+        "Red (W)": 120,
+        "Gold (W)": 71
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 149,
+        "Web": 115,
+        "Men'S Combo": 119,
+        "Blue/White": 119,
+        "White": 119,
+        "Red (W)": 119,
+        "Gold (W)": 84
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 300,
+        "Web": 289,
+        "Men'S Combo": 278,
+        "Blue/White": 278,
+        "White": 278,
+        "Red (W)": 237,
+        "Gold (W)": 216
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 240,
+        "Web": 235,
+        "Men'S Combo": 208,
+        "Blue/White": 208,
+        "White": 208,
+        "Red (W)": 181,
+        "Gold (W)": 126
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 118,
+        "Web": 132,
+        "Men'S Combo": 118,
+        "Blue/White": 118,
+        "White": 100,
+        "Red (W)": 100,
+        "Gold (W)": 63
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 152,
+        "Web": 152,
+        "Men'S Combo": 152,
+        "Blue/White": 152,
+        "White": 135,
+        "Red (W)": 115,
+        "Gold (W)": 100
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 299,
+        "Web": 315,
+        "Men'S Combo": 278,
+        "Blue/White": 278,
+        "White": 278,
+        "Red (W)": 260,
+        "Gold (W)": 174
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 133,
+        "Web": 122,
+        "Men'S Combo": 133,
+        "Blue/White": 133,
+        "White": 114,
+        "Red (W)": 114,
+        "Gold (W)": 90
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 317,
+        "Web": 355,
+        "Men'S Combo": 317,
+        "Blue/White": 291,
+        "White": 291,
+        "Red (W)": 291,
+        "Gold (W)": 223
+      }
+    }
+  ],
+  "version": 1
+}

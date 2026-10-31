@@ -1,0 +1,368 @@
+{
+  "id": "wellen-park-golf-country-club",
+  "name": "Wellen Park Golf Country Club",
+  "town": "North Port, FL",
+  "location": {
+    "lat": 27.00935,
+    "lng": -82.320636
+  },
+  "tees": [
+    "I M",
+    "I/Ii M",
+    "Ii M",
+    "Ii W",
+    "Ii/Iii M",
+    "Ii/Iii W",
+    "Iii M",
+    "Iii W",
+    "Iv M",
+    "Iv W",
+    "V M",
+    "V W"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "I M": 410,
+        "I/Ii M": 352,
+        "Ii M": 352,
+        "Ii W": 352,
+        "Ii/Iii M": 313,
+        "Ii/Iii W": 313,
+        "Iii M": 313,
+        "Iii W": 313,
+        "Iv M": 286,
+        "Iv W": 286,
+        "V M": 236,
+        "V W": 236
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I M": 434,
+        "I/Ii M": 434,
+        "Ii M": 404,
+        "Ii W": 404,
+        "Ii/Iii M": 404,
+        "Ii/Iii W": 404,
+        "Iii M": 360,
+        "Iii W": 360,
+        "Iv M": 314,
+        "Iv W": 314,
+        "V M": 275,
+        "V W": 275
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "I M": 395,
+        "I/Ii M": 347,
+        "Ii M": 347,
+        "Ii W": 347,
+        "Ii/Iii M": 347,
+        "Ii/Iii W": 347,
+        "Iii M": 297,
+        "Iii W": 297,
+        "Iv M": 270,
+        "Iv W": 270,
+        "V M": 243,
+        "V W": 243
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I M": 260,
+        "I/Ii M": 213,
+        "Ii M": 213,
+        "Ii W": 213,
+        "Ii/Iii M": 186,
+        "Ii/Iii W": 186,
+        "Iii M": 186,
+        "Iii W": 186,
+        "Iv M": 159,
+        "Iv W": 159,
+        "V M": 130,
+        "V W": 130
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "I M": 535,
+        "I/Ii M": 535,
+        "Ii M": 509,
+        "Ii W": 509,
+        "Ii/Iii M": 448,
+        "Ii/Iii W": 448,
+        "Iii M": 448,
+        "Iii W": 448,
+        "Iv M": 413,
+        "Iv W": 413,
+        "V M": 374,
+        "V W": 374
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I M": 401,
+        "I/Ii M": 401,
+        "Ii M": 381,
+        "Ii W": 381,
+        "Ii/Iii M": 381,
+        "Ii/Iii W": 381,
+        "Iii M": 318,
+        "Iii W": 318,
+        "Iv M": 248,
+        "Iv W": 248,
+        "V M": 219,
+        "V W": 219
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "I M": 534,
+        "I/Ii M": 480,
+        "Ii M": 480,
+        "Ii W": 480,
+        "Ii/Iii M": 480,
+        "Ii/Iii W": 480,
+        "Iii M": 440,
+        "Iii W": 440,
+        "Iv M": 400,
+        "Iv W": 400,
+        "V M": 345,
+        "V W": 345
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I M": 193,
+        "I/Ii M": 171,
+        "Ii M": 171,
+        "Ii W": 171,
+        "Ii/Iii M": 144,
+        "Ii/Iii W": 144,
+        "Iii M": 144,
+        "Iii W": 144,
+        "Iv M": 117,
+        "Iv W": 117,
+        "V M": 100,
+        "V W": 100
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I M": 448,
+        "I/Ii M": 448,
+        "Ii M": 393,
+        "Ii W": 393,
+        "Ii/Iii M": 354,
+        "Ii/Iii W": 354,
+        "Iii M": 354,
+        "Iii W": 354,
+        "Iv M": 327,
+        "Iv W": 327,
+        "V M": 286,
+        "V W": 286
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "I M": 387,
+        "I/Ii M": 346,
+        "Ii M": 346,
+        "Ii W": 346,
+        "Ii/Iii M": 346,
+        "Ii/Iii W": 346,
+        "Iii M": 302,
+        "Iii W": 302,
+        "Iv M": 275,
+        "Iv W": 275,
+        "V M": 229,
+        "V W": 229
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "I M": 315,
+        "I/Ii M": 315,
+        "Ii M": 299,
+        "Ii W": 299,
+        "Ii/Iii M": 299,
+        "Ii/Iii W": 299,
+        "Iii M": 272,
+        "Iii W": 272,
+        "Iv M": 245,
+        "Iv W": 245,
+        "V M": 200,
+        "V W": 200
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I M": 330,
+        "I/Ii M": 330,
+        "Ii M": 305,
+        "Ii W": 305,
+        "Ii/Iii M": 305,
+        "Ii/Iii W": 305,
+        "Iii M": 278,
+        "Iii W": 278,
+        "Iv M": 251,
+        "Iv W": 251,
+        "V M": 234,
+        "V W": 234
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I M": 151,
+        "I/Ii M": 151,
+        "Ii M": 133,
+        "Ii W": 133,
+        "Ii/Iii M": 133,
+        "Ii/Iii W": 133,
+        "Iii M": 108,
+        "Iii W": 108,
+        "Iv M": 85,
+        "Iv W": 85,
+        "V M": 71,
+        "V W": 71
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "I M": 545,
+        "I/Ii M": 495,
+        "Ii M": 495,
+        "Ii W": 495,
+        "Ii/Iii M": 465,
+        "Ii/Iii W": 465,
+        "Iii M": 465,
+        "Iii W": 465,
+        "Iv M": 424,
+        "Iv W": 424,
+        "V M": 396,
+        "V W": 396
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "I M": 231,
+        "I/Ii M": 185,
+        "Ii M": 185,
+        "Ii W": 185,
+        "Ii/Iii M": 158,
+        "Ii/Iii W": 158,
+        "Iii M": 158,
+        "Iii W": 158,
+        "Iv M": 131,
+        "Iv W": 131,
+        "V M": 110,
+        "V W": 110
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I M": 382,
+        "I/Ii M": 382,
+        "Ii M": 352,
+        "Ii W": 352,
+        "Ii/Iii M": 325,
+        "Ii/Iii W": 325,
+        "Iii M": 325,
+        "Iii W": 325,
+        "Iv M": 298,
+        "Iv W": 298,
+        "V M": 252,
+        "V W": 252
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "I M": 403,
+        "I/Ii M": 403,
+        "Ii M": 358,
+        "Ii W": 358,
+        "Ii/Iii M": 358,
+        "Ii/Iii W": 358,
+        "Iii M": 315,
+        "Iii W": 315,
+        "Iv M": 288,
+        "Iv W": 288,
+        "V M": 264,
+        "V W": 264
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "I M": 614,
+        "I/Ii M": 554,
+        "Ii M": 554,
+        "Ii W": 554,
+        "Ii/Iii M": 509,
+        "Ii/Iii W": 509,
+        "Iii M": 509,
+        "Iii W": 509,
+        "Iv M": 462,
+        "Iv W": 462,
+        "V M": 425,
+        "V W": 425
+      }
+    }
+  ],
+  "version": 1
+}

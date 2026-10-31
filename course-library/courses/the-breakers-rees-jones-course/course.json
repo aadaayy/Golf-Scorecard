@@ -1,0 +1,311 @@
+{
+  "id": "the-breakers-rees-jones-course",
+  "name": "The Breakers Rees Jones Course",
+  "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.697267,
+    "lng": -80.191681
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Gold/Red",
+    "Red",
+    "Red/Green",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 414,
+        "Blue": 390,
+        "White": 376,
+        "White/Gold": 362,
+        "Gold": 362,
+        "Gold/Red": 335,
+        "Red": 335,
+        "Red/Green": 229,
+        "Green": 229
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 442,
+        "Blue": 412,
+        "White": 363,
+        "White/Gold": 329,
+        "Gold": 329,
+        "Gold/Red": 306,
+        "Red": 306,
+        "Red/Green": 221,
+        "Green": 221
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 189,
+        "Blue": 168,
+        "White": 145,
+        "White/Gold": 145,
+        "Gold": 122,
+        "Gold/Red": 122,
+        "Red": 93,
+        "Red/Green": 93,
+        "Green": 57
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 441,
+        "Blue": 415,
+        "White": 394,
+        "White/Gold": 361,
+        "Gold": 361,
+        "Gold/Red": 331,
+        "Red": 331,
+        "Red/Green": 258,
+        "Green": 258
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 396,
+        "Blue": 385,
+        "White": 367,
+        "White/Gold": 352,
+        "Gold": 352,
+        "Gold/Red": 313,
+        "Red": 313,
+        "Red/Green": 313,
+        "Green": 223
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 556,
+        "Blue": 527,
+        "White": 496,
+        "White/Gold": 496,
+        "Gold": 435,
+        "Gold/Red": 435,
+        "Red": 399,
+        "Red/Green": 339,
+        "Green": 318
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 427,
+        "Blue": 403,
+        "White": 390,
+        "White/Gold": 371,
+        "Gold": 371,
+        "Gold/Red": 298,
+        "Red": 298,
+        "Red/Green": 228,
+        "Green": 228
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 191,
+        "Blue": 164,
+        "White": 133,
+        "White/Gold": 133,
+        "Gold": 113,
+        "Gold/Red": 113,
+        "Red": 90,
+        "Red/Green": 60,
+        "Green": 60
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 455,
+        "Blue": 424,
+        "White": 390,
+        "White/Gold": 375,
+        "Gold": 375,
+        "Gold/Red": 375,
+        "Red": 332,
+        "Red/Green": 266,
+        "Green": 266
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 546,
+        "Blue": 526,
+        "White": 499,
+        "White/Gold": 499,
+        "Gold": 449,
+        "Gold/Red": 449,
+        "Red": 417,
+        "Red/Green": 333,
+        "Green": 333
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 161,
+        "Blue": 151,
+        "White": 140,
+        "White/Gold": 140,
+        "Gold": 126,
+        "Gold/Red": 126,
+        "Red": 95,
+        "Red/Green": 88,
+        "Green": 88
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 514,
+        "Blue": 488,
+        "White": 463,
+        "White/Gold": 427,
+        "Gold": 427,
+        "Gold/Red": 395,
+        "Red": 395,
+        "Red/Green": 304,
+        "Green": 304
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 394,
+        "Blue": 373,
+        "White": 359,
+        "White/Gold": 335,
+        "Gold": 335,
+        "Gold/Red": 280,
+        "Red": 280,
+        "Red/Green": 203,
+        "Green": 203
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 546,
+        "Blue": 523,
+        "White": 501,
+        "White/Gold": 501,
+        "Gold": 477,
+        "Gold/Red": 477,
+        "Red": 433,
+        "Red/Green": 362,
+        "Green": 362
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 326,
+        "Blue": 313,
+        "White": 300,
+        "White/Gold": 255,
+        "Gold": 255,
+        "Gold/Red": 243,
+        "Red": 243,
+        "Red/Green": 167,
+        "Green": 167
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 442,
+        "Blue": 414,
+        "White": 397,
+        "White/Gold": 357,
+        "Gold": 357,
+        "Gold/Red": 323,
+        "Red": 323,
+        "Red/Green": 323,
+        "Green": 234
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 239,
+        "Blue": 208,
+        "White": 182,
+        "White/Gold": 182,
+        "Gold": 152,
+        "Gold/Red": 152,
+        "Red": 123,
+        "Red/Green": 120,
+        "Green": 120
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 425,
+        "Blue": 406,
+        "White": 394,
+        "White/Gold": 394,
+        "Gold": 379,
+        "Gold/Red": 358,
+        "Red": 303,
+        "Red/Green": 303,
+        "Green": 225
+      }
+    }
+  ],
+  "version": 1
+}

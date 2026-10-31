@@ -1,0 +1,235 @@
+{
+  "id": "cypress-at-palm-aire-country-club",
+  "name": "Cypress At Palm Aire Country Club",
+  "town": "Pompano Beach, FL",
+  "location": {
+    "lat": 26.219146,
+    "lng": -80.17728
+  },
+  "tees": [
+    "Blue",
+    "Green",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 546,
+        "Green": 540,
+        "White": 493,
+        "Gold": 453,
+        "Red": 445
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 428,
+        "Green": 412,
+        "White": 376,
+        "Gold": 361,
+        "Red": 348
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 404,
+        "Green": 400,
+        "White": 375,
+        "Gold": 316,
+        "Red": 310
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 219,
+        "Green": 199,
+        "White": 173,
+        "Gold": 162,
+        "Red": 154
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 361,
+        "Green": 346,
+        "White": 328,
+        "Gold": 307,
+        "Red": 294
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 514,
+        "Green": 500,
+        "White": 473,
+        "Gold": 453,
+        "Red": 442
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 223,
+        "Green": 201,
+        "White": 191,
+        "Gold": 119,
+        "Red": 111
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 380,
+        "Green": 365,
+        "White": 345,
+        "Gold": 323,
+        "Red": 315
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 414,
+        "Green": 403,
+        "White": 353,
+        "Gold": 335,
+        "Red": 325
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 184,
+        "Green": 173,
+        "White": 134,
+        "Gold": 125,
+        "Red": 119
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 408,
+        "Green": 394,
+        "White": 348,
+        "Gold": 329,
+        "Red": 284
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 183,
+        "Green": 171,
+        "White": 159,
+        "Gold": 150,
+        "Red": 140
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 461,
+        "Green": 432,
+        "White": 394,
+        "Gold": 312,
+        "Red": 304
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 510,
+        "Green": 494,
+        "White": 488,
+        "Gold": 468,
+        "Red": 458
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 396,
+        "Green": 380,
+        "White": 372,
+        "Gold": 337,
+        "Red": 327
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 586,
+        "Green": 543,
+        "White": 519,
+        "Gold": 450,
+        "Red": 446
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 174,
+        "Green": 167,
+        "White": 151,
+        "Gold": 116,
+        "Red": 110
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 417,
+        "Green": 395,
+        "White": 379,
+        "Gold": 289,
+        "Red": 282
+      }
+    }
+  ],
+  "version": 1
+}

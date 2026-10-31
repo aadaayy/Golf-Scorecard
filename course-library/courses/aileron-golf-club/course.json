@@ -1,0 +1,253 @@
+{
+  "id": "aileron-golf-club",
+  "name": "Aileron Golf Club",
+  "town": "Lake Suzy, FL",
+  "location": {
+    "lat": 27.031786,
+    "lng": -82.041066
+  },
+  "tees": [
+    "Empennage",
+    "I",
+    "II",
+    "III",
+    "IV"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Empennage": 418,
+        "I": 374,
+        "II": 360,
+        "III": 325,
+        "IV": 275
+      },
+      "map": "aileron-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Empennage": 371,
+        "I": 340,
+        "II": 303,
+        "III": 273,
+        "IV": 240
+      },
+      "map": "aileron-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Empennage": 664,
+        "I": 600,
+        "II": 568,
+        "III": 520,
+        "IV": 454
+      },
+      "map": "aileron-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Empennage": 176,
+        "I": 150,
+        "II": 139,
+        "III": 105,
+        "IV": 80
+      },
+      "map": "aileron-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Empennage": 412,
+        "I": 381,
+        "II": 356,
+        "III": 346,
+        "IV": 296
+      },
+      "map": "aileron-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Empennage": 357,
+        "I": 312,
+        "II": 284,
+        "III": 249,
+        "IV": 217
+      },
+      "map": "aileron-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Empennage": 582,
+        "I": 533,
+        "II": 509,
+        "III": 466,
+        "IV": 420
+      },
+      "map": "aileron-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Empennage": 210,
+        "I": 176,
+        "II": 151,
+        "III": 134,
+        "IV": 105
+      },
+      "map": "aileron-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Empennage": 431,
+        "I": 406,
+        "II": 372,
+        "III": 338,
+        "IV": 311
+      },
+      "map": "aileron-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Empennage": 607,
+        "I": 575,
+        "II": 543,
+        "III": 506,
+        "IV": 458
+      },
+      "map": "aileron-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Empennage": 457,
+        "I": 405,
+        "II": 385,
+        "III": 341,
+        "IV": 257
+      },
+      "map": "aileron-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Empennage": 367,
+        "I": 317,
+        "II": 304,
+        "III": 267,
+        "IV": 225
+      },
+      "map": "aileron-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Empennage": 210,
+        "I": 169,
+        "II": 141,
+        "III": 130,
+        "IV": 110
+      },
+      "map": "aileron-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Empennage": 433,
+        "I": 392,
+        "II": 347,
+        "III": 330,
+        "IV": 287
+      },
+      "map": "aileron-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Empennage": 544,
+        "I": 510,
+        "II": 485,
+        "III": 421,
+        "IV": 384
+      },
+      "map": "aileron-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Empennage": 158,
+        "I": 142,
+        "II": 127,
+        "III": 115,
+        "IV": 105
+      },
+      "map": "aileron-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Empennage": 414,
+        "I": 380,
+        "II": 355,
+        "III": 327,
+        "IV": 270
+      },
+      "map": "aileron-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Empennage": 424,
+        "I": 394,
+        "II": 378,
+        "III": 335,
+        "IV": 279
+      },
+      "map": "aileron-golf-club-18"
+    }
+  ],
+  "version": 1
+}

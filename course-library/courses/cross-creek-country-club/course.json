@@ -1,0 +1,234 @@
+{
+  "id": "cross-creek-country-club",
+  "name": "Cross Creek Country Club",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.554801,
+    "lng": -81.827349
+  },
+  "tees": [
+    "Blue",
+    "Gold",
+    "Black",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 156,
+        "Gold": 154,
+        "Black": 145,
+        "Red": 133
+      },
+      "map": "cross-creek-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 158,
+        "Gold": 156,
+        "Black": 141,
+        "Red": 129
+      },
+      "map": "cross-creek-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 166,
+        "Gold": 156,
+        "Black": 120,
+        "Red": 99
+      },
+      "map": "cross-creek-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 170,
+        "Gold": 168,
+        "Black": 149,
+        "Red": 129
+      },
+      "map": "cross-creek-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 190,
+        "Gold": 162,
+        "Black": 160,
+        "Red": 131
+      },
+      "map": "cross-creek-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 152,
+        "Gold": 150,
+        "Black": 123,
+        "Red": 97
+      },
+      "map": "cross-creek-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 256,
+        "Gold": 254,
+        "Black": 248,
+        "Red": 239
+      },
+      "map": "cross-creek-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 102,
+        "Gold": 100,
+        "Black": 92,
+        "Red": 81
+      },
+      "map": "cross-creek-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 258,
+        "Gold": 255,
+        "Black": 234,
+        "Red": 197
+      },
+      "map": "cross-creek-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 267,
+        "Gold": 265,
+        "Black": 245,
+        "Red": 190
+      },
+      "map": "cross-creek-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 150,
+        "Gold": 148,
+        "Black": 131,
+        "Red": 115
+      },
+      "map": "cross-creek-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 118,
+        "Gold": 116,
+        "Black": 104,
+        "Red": 87
+      },
+      "map": "cross-creek-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 188,
+        "Gold": 156,
+        "Black": 154,
+        "Red": 139
+      },
+      "map": "cross-creek-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 171,
+        "Gold": 169,
+        "Black": 147,
+        "Red": 136
+      },
+      "map": "cross-creek-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 194,
+        "Gold": 152,
+        "Black": 150,
+        "Red": 117
+      },
+      "map": "cross-creek-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 237,
+        "Gold": 235,
+        "Black": 215,
+        "Red": 209
+      },
+      "map": "cross-creek-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 211,
+        "Gold": 209,
+        "Black": 189,
+        "Red": 182
+      },
+      "map": "cross-creek-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 367,
+        "Gold": 334,
+        "Black": 332,
+        "Red": 272
+      },
+      "map": "cross-creek-country-club-18"
+    }
+  ],
+  "version": 1
+}

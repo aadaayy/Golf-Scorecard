@@ -1,0 +1,67 @@
+{
+  "id": "greynolds-golf-course",
+  "name": "Greynolds Golf Course",
+  "town": "North Miami Beach, FL",
+  "location": {
+    "lat": 25.939453,
+    "lng": -80.156891
+  },
+  "tees": [],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 6,
+      "yards": {}
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {}
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 8,
+      "yards": {}
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {}
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {}
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {}
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {}
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {}
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 4,
+      "yards": {}
+    }
+  ],
+  "version": 1
+}

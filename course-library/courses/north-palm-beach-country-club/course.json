@@ -1,0 +1,253 @@
+{
+  "id": "north-palm-beach-country-club",
+  "name": "North Palm Beach Country Club",
+  "town": "North Palm Beach, FL",
+  "location": {
+    "lat": 26.826665,
+    "lng": -80.062093
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 431,
+        "Blue": 400,
+        "White": 383,
+        "Green": 324,
+        "Red": 269
+      },
+      "map": "north-palm-beach-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 366,
+        "Blue": 322,
+        "White": 301,
+        "Green": 271,
+        "Red": 249
+      },
+      "map": "north-palm-beach-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 606,
+        "Blue": 552,
+        "White": 504,
+        "Green": 426,
+        "Red": 392
+      },
+      "map": "north-palm-beach-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 447,
+        "Blue": 402,
+        "White": 353,
+        "Green": 349,
+        "Red": 275
+      },
+      "map": "north-palm-beach-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 203,
+        "Blue": 177,
+        "White": 152,
+        "Green": 134,
+        "Red": 121
+      },
+      "map": "north-palm-beach-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 430,
+        "Blue": 340,
+        "White": 327,
+        "Green": 293,
+        "Red": 245
+      },
+      "map": "north-palm-beach-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 197,
+        "Blue": 163,
+        "White": 135,
+        "Green": 102,
+        "Red": 86
+      },
+      "map": "north-palm-beach-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 373,
+        "Blue": 363,
+        "White": 337,
+        "Green": 283,
+        "Red": 254
+      },
+      "map": "north-palm-beach-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 430,
+        "Blue": 378,
+        "White": 365,
+        "Green": 333,
+        "Red": 283
+      },
+      "map": "north-palm-beach-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 362,
+        "Blue": 332,
+        "White": 316,
+        "Green": 279,
+        "Red": 241
+      },
+      "map": "north-palm-beach-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 358,
+        "Blue": 319,
+        "White": 303,
+        "Green": 280,
+        "Red": 252
+      },
+      "map": "north-palm-beach-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 412,
+        "Blue": 390,
+        "White": 344,
+        "Green": 336,
+        "Red": 289
+      },
+      "map": "north-palm-beach-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 511,
+        "Blue": 497,
+        "White": 483,
+        "Green": 443,
+        "Red": 382
+      },
+      "map": "north-palm-beach-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 444,
+        "Blue": 414,
+        "White": 403,
+        "Green": 340,
+        "Red": 247
+      },
+      "map": "north-palm-beach-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 246,
+        "Blue": 193,
+        "White": 167,
+        "Green": 158,
+        "Red": 119
+      },
+      "map": "north-palm-beach-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 494,
+        "Blue": 444,
+        "White": 421,
+        "Green": 376,
+        "Red": 294
+      },
+      "map": "north-palm-beach-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 210,
+        "Blue": 167,
+        "White": 139,
+        "Green": 107,
+        "Red": 81
+      },
+      "map": "north-palm-beach-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 551,
+        "Blue": 512,
+        "White": 499,
+        "Green": 449,
+        "Red": 399
+      },
+      "map": "north-palm-beach-country-club-18"
+    }
+  ],
+  "version": 1
+}

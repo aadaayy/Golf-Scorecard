@@ -1,0 +1,253 @@
+{
+  "id": "the-boca-raton",
+  "name": "The Boca Raton",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.342796,
+    "lng": -80.080103
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 520,
+        "Blue": 508,
+        "White": 486,
+        "Green": 475,
+        "Red": 432
+      },
+      "map": "the-boca-raton-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 327,
+        "Blue": 314,
+        "White": 295,
+        "Green": 266,
+        "Red": 246
+      },
+      "map": "the-boca-raton-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 408,
+        "Blue": 386,
+        "White": 359,
+        "Green": 334,
+        "Red": 285
+      },
+      "map": "the-boca-raton-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 452,
+        "Blue": 404,
+        "White": 382,
+        "Green": 358,
+        "Red": 314
+      },
+      "map": "the-boca-raton-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 370,
+        "Blue": 363,
+        "White": 354,
+        "Green": 327,
+        "Red": 284
+      },
+      "map": "the-boca-raton-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 129,
+        "Blue": 122,
+        "White": 109,
+        "Green": 93,
+        "Red": 82
+      },
+      "map": "the-boca-raton-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 286,
+        "Blue": 269,
+        "White": 253,
+        "Green": 251,
+        "Red": 211
+      },
+      "map": "the-boca-raton-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 185,
+        "Blue": 156,
+        "White": 142,
+        "Green": 126,
+        "Red": 117
+      },
+      "map": "the-boca-raton-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 510,
+        "Blue": 491,
+        "White": 472,
+        "Green": 438,
+        "Red": 405
+      },
+      "map": "the-boca-raton-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 426,
+        "Blue": 415,
+        "White": 396,
+        "Green": 373,
+        "Red": 326
+      },
+      "map": "the-boca-raton-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 337,
+        "Blue": 339,
+        "White": 321,
+        "Green": 279,
+        "Red": 238
+      },
+      "map": "the-boca-raton-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 410,
+        "Blue": 404,
+        "White": 375,
+        "Green": 340,
+        "Red": 285
+      },
+      "map": "the-boca-raton-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 150,
+        "Blue": 132,
+        "White": 111,
+        "Green": 101,
+        "Red": 92
+      },
+      "map": "the-boca-raton-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 506,
+        "Blue": 481,
+        "White": 471,
+        "Green": 428,
+        "Red": 401
+      },
+      "map": "the-boca-raton-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 152,
+        "Blue": 137,
+        "White": 128,
+        "Green": 110,
+        "Red": 92
+      },
+      "map": "the-boca-raton-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 528,
+        "Blue": 508,
+        "White": 486,
+        "Green": 454,
+        "Red": 420
+      },
+      "map": "the-boca-raton-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 186,
+        "Blue": 158,
+        "White": 147,
+        "Green": 119,
+        "Red": 82
+      },
+      "map": "the-boca-raton-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 380,
+        "Blue": 331,
+        "White": 317,
+        "Green": 301,
+        "Red": 283
+      },
+      "map": "the-boca-raton-18"
+    }
+  ],
+  "version": 1
+}

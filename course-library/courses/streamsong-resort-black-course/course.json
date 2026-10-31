@@ -1,0 +1,291 @@
+{
+  "id": "streamsong-resort-black-course",
+  "name": "Streamsong Resort Black Course",
+  "town": "Bowling Green, FL",
+  "location": {
+    "lat": 27.66996,
+    "lng": -81.927731
+  },
+  "tees": [
+    "Green",
+    "Green/Black",
+    "Black",
+    "Black/Silver",
+    "Silver",
+    "Silver/Gold",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Green": 573,
+        "Green/Black": 573,
+        "Black": 508,
+        "Black/Silver": 508,
+        "Silver": 466,
+        "Silver/Gold": 466,
+        "Gold": 420
+      },
+      "map": "streamsong-resort-black-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Green": 361,
+        "Green/Black": 361,
+        "Black": 326,
+        "Black/Silver": 326,
+        "Silver": 309,
+        "Silver/Gold": 309,
+        "Gold": 276
+      },
+      "map": "streamsong-resort-black-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Green": 480,
+        "Green/Black": 423,
+        "Black": 423,
+        "Black/Silver": 394,
+        "Silver": 394,
+        "Silver/Gold": 306,
+        "Gold": 306
+      },
+      "map": "streamsong-resort-black-course-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Green": 601,
+        "Green/Black": 581,
+        "Black": 581,
+        "Black/Silver": 550,
+        "Silver": 550,
+        "Silver/Gold": 450,
+        "Gold": 450
+      },
+      "map": "streamsong-resort-black-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Green": 211,
+        "Green/Black": 177,
+        "Black": 177,
+        "Black/Silver": 158,
+        "Silver": 158,
+        "Silver/Gold": 135,
+        "Gold": 135
+      },
+      "map": "streamsong-resort-black-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Green": 342,
+        "Green/Black": 342,
+        "Black": 321,
+        "Black/Silver": 321,
+        "Silver": 299,
+        "Silver/Gold": 299,
+        "Gold": 252
+      },
+      "map": "streamsong-resort-black-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Green": 178,
+        "Green/Black": 158,
+        "Black": 158,
+        "Black/Silver": 135,
+        "Silver": 135,
+        "Silver/Gold": 103,
+        "Gold": 103
+      },
+      "map": "streamsong-resort-black-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 427,
+        "Green/Black": 427,
+        "Black": 408,
+        "Black/Silver": 408,
+        "Silver": 377,
+        "Silver/Gold": 377,
+        "Gold": 357
+      },
+      "map": "streamsong-resort-black-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Green": 450,
+        "Green/Black": 408,
+        "Black": 408,
+        "Black/Silver": 360,
+        "Silver": 360,
+        "Silver/Gold": 317,
+        "Gold": 317
+      },
+      "map": "streamsong-resort-black-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Green": 548,
+        "Green/Black": 548,
+        "Black": 524,
+        "Black/Silver": 524,
+        "Silver": 502,
+        "Silver/Gold": 502,
+        "Gold": 434
+      },
+      "map": "streamsong-resort-black-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Green": 463,
+        "Green/Black": 395,
+        "Black": 395,
+        "Black/Silver": 378,
+        "Silver": 378,
+        "Silver/Gold": 320,
+        "Gold": 320
+      },
+      "map": "streamsong-resort-black-course-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Green": 571,
+        "Green/Black": 571,
+        "Black": 531,
+        "Black/Silver": 531,
+        "Silver": 510,
+        "Silver/Gold": 510,
+        "Gold": 404
+      },
+      "map": "streamsong-resort-black-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Green": 430,
+        "Green/Black": 409,
+        "Black": 409,
+        "Black/Silver": 368,
+        "Silver": 368,
+        "Silver/Gold": 308,
+        "Gold": 308
+      },
+      "map": "streamsong-resort-black-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Green": 298,
+        "Green/Black": 298,
+        "Black": 286,
+        "Black/Silver": 286,
+        "Silver": 261,
+        "Silver/Gold": 261,
+        "Gold": 242
+      },
+      "map": "streamsong-resort-black-course-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Green": 133,
+        "Green/Black": 133,
+        "Black": 131,
+        "Black/Silver": 131,
+        "Silver": 110,
+        "Silver/Gold": 110,
+        "Gold": 78
+      },
+      "map": "streamsong-resort-black-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Green": 463,
+        "Green/Black": 442,
+        "Black": 442,
+        "Black/Silver": 400,
+        "Silver": 400,
+        "Silver/Gold": 323,
+        "Gold": 323
+      },
+      "map": "streamsong-resort-black-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Green": 205,
+        "Green/Black": 205,
+        "Black": 189,
+        "Black/Silver": 189,
+        "Silver": 154,
+        "Silver/Gold": 154,
+        "Gold": 124
+      },
+      "map": "streamsong-resort-black-course-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Green": 586,
+        "Green/Black": 530,
+        "Black": 530,
+        "Black/Silver": 495,
+        "Silver": 495,
+        "Silver/Gold": 431,
+        "Gold": 431
+      },
+      "map": "streamsong-resort-black-course-18"
+    }
+  ],
+  "version": 1
+}

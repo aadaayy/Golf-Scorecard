@@ -1,0 +1,216 @@
+{
+  "id": "riviera-country-club",
+  "name": "Riviera Country Club",
+  "town": "Coral Gables, FL",
+  "location": {
+    "lat": 25.727816,
+    "lng": -80.275419
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 374,
+        "White": 361,
+        "Gold": 328,
+        "Red": 302
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 157,
+        "White": 108,
+        "Gold": 98,
+        "Red": 83
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 389,
+        "White": 359,
+        "Gold": 332,
+        "Red": 260
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 412,
+        "White": 376,
+        "Gold": 348,
+        "Red": 313
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 531,
+        "White": 501,
+        "Gold": 452,
+        "Red": 413
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 151,
+        "White": 134,
+        "Gold": 109,
+        "Red": 101
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 510,
+        "White": 485,
+        "Gold": 455,
+        "Red": 421
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 354,
+        "White": 342,
+        "Gold": 308,
+        "Red": 270
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 168,
+        "White": 150,
+        "Gold": 127,
+        "Red": 110
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 335,
+        "White": 314,
+        "Gold": 289,
+        "Red": 259
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 380,
+        "White": 373,
+        "Gold": 337,
+        "Red": 315
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 500,
+        "White": 491,
+        "Gold": 456,
+        "Red": 409
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 315,
+        "White": 281,
+        "Gold": 244,
+        "Red": 216
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 160,
+        "White": 136,
+        "Gold": 125,
+        "Red": 98
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 367,
+        "White": 352,
+        "Gold": 299,
+        "Red": 291
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 490,
+        "White": 462,
+        "Gold": 439,
+        "Red": 382
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 169,
+        "White": 156,
+        "Gold": 126,
+        "Red": 112
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 376,
+        "White": 359,
+        "Gold": 347,
+        "Red": 292
+      }
+    }
+  ],
+  "version": 1
+}

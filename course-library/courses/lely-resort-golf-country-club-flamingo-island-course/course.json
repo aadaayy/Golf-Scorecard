@@ -1,0 +1,254 @@
+{
+  "id": "lely-resort-golf-country-club-flamingo-island-course",
+  "name": "Lely Resort Golf Country Club Flamingo Island Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.084833,
+    "lng": -81.701092
+  },
+  "tees": [
+    "Championship/Black",
+    "Back/Green",
+    "Flamingo/Green-White",
+    "Middle/White",
+    "Flamingo/White-Aqua",
+    "Forward/Aqua"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship/Black": 402,
+        "Back/Green": 390,
+        "Flamingo/Green-White": 367,
+        "Middle/White": 367,
+        "Flamingo/White-Aqua": 328,
+        "Forward/Aqua": 328
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Championship/Black": 497,
+        "Back/Green": 470,
+        "Flamingo/Green-White": 470,
+        "Middle/White": 447,
+        "Flamingo/White-Aqua": 447,
+        "Forward/Aqua": 381
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship/Black": 199,
+        "Back/Green": 172,
+        "Flamingo/Green-White": 157,
+        "Middle/White": 157,
+        "Flamingo/White-Aqua": 157,
+        "Forward/Aqua": 135
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship/Black": 420,
+        "Back/Green": 386,
+        "Flamingo/Green-White": 347,
+        "Middle/White": 347,
+        "Flamingo/White-Aqua": 302,
+        "Forward/Aqua": 302
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Championship/Black": 210,
+        "Back/Green": 157,
+        "Flamingo/Green-White": 157,
+        "Middle/White": 140,
+        "Flamingo/White-Aqua": 140,
+        "Forward/Aqua": 128
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Championship/Black": 387,
+        "Back/Green": 366,
+        "Flamingo/Green-White": 366,
+        "Middle/White": 319,
+        "Flamingo/White-Aqua": 319,
+        "Forward/Aqua": 277
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship/Black": 398,
+        "Back/Green": 371,
+        "Flamingo/Green-White": 350,
+        "Middle/White": 350,
+        "Flamingo/White-Aqua": 328,
+        "Forward/Aqua": 328
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Championship/Black": 553,
+        "Back/Green": 508,
+        "Flamingo/Green-White": 508,
+        "Middle/White": 487,
+        "Flamingo/White-Aqua": 445,
+        "Forward/Aqua": 445
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship/Black": 421,
+        "Back/Green": 382,
+        "Flamingo/Green-White": 370,
+        "Middle/White": 370,
+        "Flamingo/White-Aqua": 330,
+        "Forward/Aqua": 330
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Championship/Black": 400,
+        "Back/Green": 360,
+        "Flamingo/Green-White": 360,
+        "Middle/White": 330,
+        "Flamingo/White-Aqua": 274,
+        "Forward/Aqua": 274
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Championship/Black": 197,
+        "Back/Green": 143,
+        "Flamingo/Green-White": 117,
+        "Middle/White": 117,
+        "Flamingo/White-Aqua": 117,
+        "Forward/Aqua": 100
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Championship/Black": 569,
+        "Back/Green": 537,
+        "Flamingo/Green-White": 512,
+        "Middle/White": 512,
+        "Flamingo/White-Aqua": 462,
+        "Forward/Aqua": 462
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship/Black": 423,
+        "Back/Green": 378,
+        "Flamingo/Green-White": 378,
+        "Middle/White": 356,
+        "Flamingo/White-Aqua": 323,
+        "Forward/Aqua": 323
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship/Black": 409,
+        "Back/Green": 373,
+        "Flamingo/Green-White": 339,
+        "Middle/White": 339,
+        "Flamingo/White-Aqua": 310,
+        "Forward/Aqua": 310
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship/Black": 181,
+        "Back/Green": 146,
+        "Flamingo/Green-White": 146,
+        "Middle/White": 122,
+        "Flamingo/White-Aqua": 122,
+        "Forward/Aqua": 79
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Championship/Black": 593,
+        "Back/Green": 553,
+        "Flamingo/Green-White": 515,
+        "Middle/White": 515,
+        "Flamingo/White-Aqua": 480,
+        "Forward/Aqua": 480
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship/Black": 426,
+        "Back/Green": 388,
+        "Flamingo/Green-White": 364,
+        "Middle/White": 364,
+        "Flamingo/White-Aqua": 328,
+        "Forward/Aqua": 328
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship/Black": 410,
+        "Back/Green": 374,
+        "Flamingo/Green-White": 357,
+        "Middle/White": 357,
+        "Flamingo/White-Aqua": 303,
+        "Forward/Aqua": 303
+      }
+    }
+  ],
+  "version": 1
+}

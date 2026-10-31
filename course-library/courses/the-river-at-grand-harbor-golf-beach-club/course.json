@@ -1,0 +1,311 @@
+{
+  "id": "the-river-at-grand-harbor-golf-beach-club",
+  "name": "The River At Grand Harbor Golf Beach Club",
+  "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.683091,
+    "lng": -80.3953
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Green",
+    "Green/Orange",
+    "Orange",
+    "Short"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 401,
+        "Blue": 382,
+        "White": 362,
+        "White/Gold": 312,
+        "Gold": 312,
+        "Green": 303,
+        "Green/Orange": 303,
+        "Orange": 248,
+        "Short": 254
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 352,
+        "Blue": 340,
+        "White": 322,
+        "White/Gold": 322,
+        "Gold": 306,
+        "Green": 300,
+        "Green/Orange": 257,
+        "Orange": 257,
+        "Short": 150
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 571,
+        "Blue": 540,
+        "White": 531,
+        "White/Gold": 484,
+        "Gold": 484,
+        "Green": 476,
+        "Green/Orange": 416,
+        "Orange": 416,
+        "Short": 150
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 191,
+        "Blue": 178,
+        "White": 161,
+        "White/Gold": 161,
+        "Gold": 148,
+        "Green": 93,
+        "Green/Orange": 93,
+        "Orange": 85,
+        "Short": 104
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 356,
+        "Blue": 346,
+        "White": 335,
+        "White/Gold": 335,
+        "Gold": 312,
+        "Green": 312,
+        "Green/Orange": 253,
+        "Orange": 253,
+        "Short": 150
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 441,
+        "Blue": 415,
+        "White": 382,
+        "White/Gold": 360,
+        "Gold": 360,
+        "Green": 343,
+        "Green/Orange": 277,
+        "Orange": 277,
+        "Short": 200
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 513,
+        "Blue": 491,
+        "White": 476,
+        "White/Gold": 476,
+        "Gold": 453,
+        "Green": 425,
+        "Green/Orange": 425,
+        "Orange": 411,
+        "Short": 409
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 174,
+        "Blue": 165,
+        "White": 147,
+        "White/Gold": 147,
+        "Gold": 139,
+        "Green": 132,
+        "Green/Orange": 132,
+        "Orange": 104,
+        "Short": 100
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 398,
+        "Blue": 374,
+        "White": 364,
+        "White/Gold": 341,
+        "Gold": 341,
+        "Green": 310,
+        "Green/Orange": 274,
+        "Orange": 274,
+        "Short": 150
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 475,
+        "Blue": 399,
+        "White": 377,
+        "White/Gold": 308,
+        "Gold": 308,
+        "Green": 308,
+        "Green/Orange": 308,
+        "Orange": 245,
+        "Short": 244
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 356,
+        "Blue": 346,
+        "White": 330,
+        "White/Gold": 330,
+        "Gold": 297,
+        "Green": 289,
+        "Green/Orange": 289,
+        "Orange": 219,
+        "Short": 218
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 189,
+        "Blue": 179,
+        "White": 170,
+        "White/Gold": 170,
+        "Gold": 155,
+        "Green": 132,
+        "Green/Orange": 132,
+        "Orange": 89,
+        "Short": 82
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 366,
+        "Blue": 359,
+        "White": 343,
+        "White/Gold": 343,
+        "Gold": 303,
+        "Green": 297,
+        "Green/Orange": 241,
+        "Orange": 241,
+        "Short": 105
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 587,
+        "Blue": 575,
+        "White": 564,
+        "White/Gold": 472,
+        "Gold": 472,
+        "Green": 463,
+        "Green/Orange": 423,
+        "Orange": 423,
+        "Short": 100
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 399,
+        "Blue": 389,
+        "White": 377,
+        "White/Gold": 282,
+        "Gold": 282,
+        "Green": 276,
+        "Green/Orange": 244,
+        "Orange": 244,
+        "Short": 239
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 168,
+        "Blue": 161,
+        "White": 150,
+        "White/Gold": 150,
+        "Gold": 142,
+        "Green": 126,
+        "Green/Orange": 126,
+        "Orange": 115,
+        "Short": 113
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 541,
+        "Blue": 519,
+        "White": 504,
+        "White/Gold": 467,
+        "Gold": 467,
+        "Green": 455,
+        "Green/Orange": 411,
+        "Orange": 411,
+        "Short": 120
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 435,
+        "Blue": 395,
+        "White": 362,
+        "White/Gold": 319,
+        "Gold": 319,
+        "Green": 302,
+        "Green/Orange": 302,
+        "Orange": 261,
+        "Short": 240
+      }
+    }
+  ],
+  "version": 1
+}

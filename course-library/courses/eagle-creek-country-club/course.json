@@ -1,0 +1,272 @@
+{
+  "id": "eagle-creek-country-club",
+  "name": "Eagle Creek Country Club",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.059199,
+    "lng": -81.700439
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "Black",
+    "White",
+    "Green",
+    "Green/Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 386,
+        "Blue": 365,
+        "Black": 356,
+        "White": 326,
+        "Green": 316,
+        "Green/Silver": 316
+      },
+      "map": "eagle-creek-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 369,
+        "Blue": 350,
+        "Black": 338,
+        "White": 321,
+        "Green": 308,
+        "Green/Silver": 308
+      },
+      "map": "eagle-creek-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 429,
+        "Blue": 405,
+        "Black": 388,
+        "White": 350,
+        "Green": 335,
+        "Green/Silver": 260
+      },
+      "map": "eagle-creek-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 573,
+        "Blue": 547,
+        "Black": 493,
+        "White": 451,
+        "Green": 437,
+        "Green/Silver": 403
+      },
+      "map": "eagle-creek-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 187,
+        "Blue": 168,
+        "Black": 154,
+        "White": 135,
+        "Green": 123,
+        "Green/Silver": 123
+      },
+      "map": "eagle-creek-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 348,
+        "Blue": 332,
+        "Black": 322,
+        "White": 297,
+        "Green": 288,
+        "Green/Silver": 288
+      },
+      "map": "eagle-creek-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 540,
+        "Blue": 517,
+        "Black": 499,
+        "White": 456,
+        "Green": 433,
+        "Green/Silver": 377
+      },
+      "map": "eagle-creek-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 200,
+        "Blue": 181,
+        "Black": 166,
+        "White": 149,
+        "Green": 136,
+        "Green/Silver": 136
+      },
+      "map": "eagle-creek-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 435,
+        "Blue": 396,
+        "Black": 375,
+        "White": 364,
+        "Green": 317,
+        "Green/Silver": 235
+      },
+      "map": "eagle-creek-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 392,
+        "Blue": 382,
+        "Black": 372,
+        "White": 362,
+        "Green": 324,
+        "Green/Silver": 324
+      },
+      "map": "eagle-creek-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 546,
+        "Blue": 527,
+        "Black": 499,
+        "White": 472,
+        "Green": 431,
+        "Green/Silver": 386
+      },
+      "map": "eagle-creek-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 152,
+        "Blue": 144,
+        "Black": 128,
+        "White": 113,
+        "Green": 104,
+        "Green/Silver": 104
+      },
+      "map": "eagle-creek-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 426,
+        "Blue": 410,
+        "Black": 396,
+        "White": 378,
+        "Green": 363,
+        "Green/Silver": 282
+      },
+      "map": "eagle-creek-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 402,
+        "Blue": 378,
+        "Black": 355,
+        "White": 339,
+        "Green": 314,
+        "Green/Silver": 314
+      },
+      "map": "eagle-creek-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 568,
+        "Blue": 538,
+        "Black": 502,
+        "White": 490,
+        "Green": 438,
+        "Green/Silver": 389
+      },
+      "map": "eagle-creek-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 400,
+        "Blue": 380,
+        "Black": 363,
+        "White": 343,
+        "Green": 329,
+        "Green/Silver": 270
+      },
+      "map": "eagle-creek-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 218,
+        "Blue": 189,
+        "Black": 176,
+        "White": 157,
+        "Green": 145,
+        "Green/Silver": 145
+      },
+      "map": "eagle-creek-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 451,
+        "Blue": 425,
+        "Black": 397,
+        "White": 369,
+        "Green": 313,
+        "Green/Silver": 274
+      },
+      "map": "eagle-creek-country-club-18"
+    }
+  ],
+  "version": 1
+}

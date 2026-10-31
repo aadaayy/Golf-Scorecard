@@ -1,0 +1,311 @@
+{
+  "id": "the-club-at-mediterra-south-course",
+  "name": "The Club At Mediterra South Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.310088,
+    "lng": -81.770639
+  },
+  "tees": [
+    "I",
+    "I/Ii",
+    "II",
+    "Ii/Iii",
+    "III",
+    "Iii/Iv",
+    "IV",
+    "Iv/V",
+    "V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "I": 524,
+        "I/Ii": 524,
+        "II": 493,
+        "Ii/Iii": 493,
+        "III": 473,
+        "Iii/Iv": 473,
+        "IV": 436,
+        "Iv/V": 436,
+        "V": 403
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "I": 391,
+        "I/Ii": 391,
+        "II": 362,
+        "Ii/Iii": 362,
+        "III": 337,
+        "Iii/Iv": 337,
+        "IV": 321,
+        "Iv/V": 321,
+        "V": 293
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I": 236,
+        "I/Ii": 210,
+        "II": 210,
+        "Ii/Iii": 186,
+        "III": 186,
+        "Iii/Iv": 143,
+        "IV": 143,
+        "Iv/V": 119,
+        "V": 119
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I": 393,
+        "I/Ii": 393,
+        "II": 377,
+        "Ii/Iii": 377,
+        "III": 345,
+        "Iii/Iv": 345,
+        "IV": 316,
+        "Iv/V": 316,
+        "V": 282
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 449,
+        "I/Ii": 418,
+        "II": 418,
+        "Ii/Iii": 373,
+        "III": 373,
+        "Iii/Iv": 333,
+        "IV": 333,
+        "Iv/V": 297,
+        "V": 297
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 180,
+        "I/Ii": 180,
+        "II": 163,
+        "Ii/Iii": 163,
+        "III": 160,
+        "Iii/Iv": 160,
+        "IV": 142,
+        "Iv/V": 142,
+        "V": 108
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "I": 584,
+        "I/Ii": 536,
+        "II": 536,
+        "Ii/Iii": 501,
+        "III": 501,
+        "Iii/Iv": 470,
+        "IV": 470,
+        "Iv/V": 437,
+        "V": 437
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "I": 456,
+        "I/Ii": 417,
+        "II": 417,
+        "Ii/Iii": 396,
+        "III": 396,
+        "Iii/Iv": 360,
+        "IV": 360,
+        "Iv/V": 323,
+        "V": 323
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "I": 412,
+        "I/Ii": 412,
+        "II": 393,
+        "Ii/Iii": 393,
+        "III": 368,
+        "Iii/Iv": 368,
+        "IV": 337,
+        "Iv/V": 337,
+        "V": 280
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "I": 468,
+        "I/Ii": 436,
+        "II": 436,
+        "Ii/Iii": 396,
+        "III": 396,
+        "Iii/Iv": 376,
+        "IV": 376,
+        "Iv/V": 337,
+        "V": 337
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "I": 392,
+        "I/Ii": 392,
+        "II": 369,
+        "Ii/Iii": 369,
+        "III": 340,
+        "Iii/Iv": 340,
+        "IV": 314,
+        "Iv/V": 314,
+        "V": 282
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 377,
+        "I/Ii": 377,
+        "II": 357,
+        "Ii/Iii": 357,
+        "III": 325,
+        "Iii/Iv": 325,
+        "IV": 276,
+        "Iv/V": 276,
+        "V": 250
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "I": 196,
+        "I/Ii": 196,
+        "II": 174,
+        "Ii/Iii": 174,
+        "III": 147,
+        "Iii/Iv": 147,
+        "IV": 116,
+        "Iv/V": 116,
+        "V": 91
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "I": 485,
+        "I/Ii": 426,
+        "II": 426,
+        "Ii/Iii": 394,
+        "III": 394,
+        "Iii/Iv": 369,
+        "IV": 369,
+        "Iv/V": 320,
+        "V": 320
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "I": 592,
+        "I/Ii": 560,
+        "II": 560,
+        "Ii/Iii": 526,
+        "III": 526,
+        "Iii/Iv": 479,
+        "IV": 479,
+        "Iv/V": 450,
+        "V": 450
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "I": 393,
+        "I/Ii": 393,
+        "II": 365,
+        "Ii/Iii": 365,
+        "III": 351,
+        "Iii/Iv": 351,
+        "IV": 318,
+        "Iv/V": 278,
+        "V": 278
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 200,
+        "I/Ii": 177,
+        "II": 177,
+        "Ii/Iii": 150,
+        "III": 150,
+        "Iii/Iv": 125,
+        "IV": 125,
+        "Iv/V": 125,
+        "V": 112
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "I": 525,
+        "I/Ii": 525,
+        "II": 502,
+        "Ii/Iii": 502,
+        "III": 477,
+        "Iii/Iv": 477,
+        "IV": 453,
+        "Iv/V": 453,
+        "V": 412
+      }
+    }
+  ],
+  "version": 1
+}

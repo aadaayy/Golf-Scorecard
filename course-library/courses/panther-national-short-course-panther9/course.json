@@ -1,0 +1,97 @@
+{
+  "id": "panther-national-short-course-panther9",
+  "name": "Panther National Short Course Panther9",
+  "town": "Palm Beach Gardens, FL",
+  "location": {
+    "lat": 26.828398,
+    "lng": -80.2581
+  },
+  "tees": [
+    "I",
+    "II"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "I": 118,
+        "II": 118
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "I": 108,
+        "II": 108
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "I": 104,
+        "II": 104
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "I": 132,
+        "II": 132
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "I": 122,
+        "II": 122
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "I": 119,
+        "II": 119
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "I": 128,
+        "II": 128
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "I": 125,
+        "II": 125
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "I": 142,
+        "II": 142
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,254 @@
+{
+  "id": "sherbrooke-golf-country-club",
+  "name": "Sherbrooke Golf Country Club",
+  "town": "Wellington, FL",
+  "location": {
+    "lat": 26.590769,
+    "lng": -80.190226
+  },
+  "tees": [
+    "Web",
+    "Gold",
+    "Blue",
+    "White",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Web": 519,
+        "Gold": 519,
+        "Blue": 489,
+        "White": 477,
+        "Silver": 420,
+        "Red": 409
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Web": 355,
+        "Gold": 355,
+        "Blue": 321,
+        "White": 295,
+        "Silver": 277,
+        "Red": 230
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Web": 520,
+        "Gold": 520,
+        "Blue": 483,
+        "White": 466,
+        "Silver": 410,
+        "Red": 403
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 429,
+        "Gold": 429,
+        "Blue": 397,
+        "White": 378,
+        "Silver": 322,
+        "Red": 314
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 222,
+        "Gold": 214,
+        "Blue": 179,
+        "White": 159,
+        "Silver": 149,
+        "Red": 141
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Web": 378,
+        "Gold": 378,
+        "Blue": 344,
+        "White": 319,
+        "Silver": 295,
+        "Red": 256
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 418,
+        "Gold": 418,
+        "Blue": 388,
+        "White": 366,
+        "Silver": 333,
+        "Red": 310
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Web": 199,
+        "Gold": 199,
+        "Blue": 184,
+        "White": 170,
+        "Silver": 145,
+        "Red": 140
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 437,
+        "Gold": 437,
+        "Blue": 375,
+        "White": 351,
+        "Silver": 340,
+        "Red": 300
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Web": 384,
+        "Gold": 384,
+        "Blue": 360,
+        "White": 337,
+        "Silver": 265,
+        "Red": 255
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Web": 408,
+        "Gold": 408,
+        "Blue": 359,
+        "White": 327,
+        "Silver": 303,
+        "Red": 249
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Web": 541,
+        "Gold": 541,
+        "Blue": 518,
+        "White": 495,
+        "Silver": 429,
+        "Red": 390
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Web": 366,
+        "Gold": 366,
+        "Blue": 331,
+        "White": 301,
+        "Silver": 277,
+        "Red": 253
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 214,
+        "Gold": 214,
+        "Blue": 184,
+        "White": 161,
+        "Silver": 144,
+        "Red": 111
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 431,
+        "Gold": 387,
+        "Blue": 369,
+        "White": 332,
+        "Silver": 311,
+        "Red": 269
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 423,
+        "Gold": 423,
+        "Blue": 388,
+        "White": 342,
+        "Silver": 319,
+        "Red": 299
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Web": 221,
+        "Gold": 175,
+        "Blue": 179,
+        "White": 158,
+        "Silver": 138,
+        "Red": 125
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Web": 544,
+        "Gold": 544,
+        "Blue": 511,
+        "White": 471,
+        "Silver": 419,
+        "Red": 407
+      }
+    }
+  ],
+  "version": 1
+}

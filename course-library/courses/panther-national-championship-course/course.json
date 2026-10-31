@@ -1,0 +1,273 @@
+{
+  "id": "panther-national-championship-course",
+  "name": "Panther National Championship Course",
+  "town": "Palm Beach Gardens, FL",
+  "location": {
+    "lat": 26.828398,
+    "lng": -80.2581
+  },
+  "tees": [
+    "Jt Tees",
+    "Senn",
+    "III",
+    "IV",
+    "V",
+    "VI",
+    "VII"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Jt Tees": 431,
+        "Senn": 402,
+        "III": 370,
+        "IV": 346,
+        "V": 313,
+        "VI": 276,
+        "VII": 225
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Jt Tees": 230,
+        "Senn": 215,
+        "III": 190,
+        "IV": 175,
+        "V": 150,
+        "VI": 128,
+        "VII": 128
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Jt Tees": 575,
+        "Senn": 532,
+        "III": 518,
+        "IV": 485,
+        "V": 419,
+        "VI": 419,
+        "VII": 395
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Jt Tees": 490,
+        "Senn": 435,
+        "III": 405,
+        "IV": 370,
+        "V": 355,
+        "VI": 280,
+        "VII": 245
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Jt Tees": 403,
+        "Senn": 376,
+        "III": 333,
+        "IV": 285,
+        "V": 270,
+        "VI": 230,
+        "VII": 200
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Jt Tees": 470,
+        "Senn": 425,
+        "III": 415,
+        "IV": 396,
+        "V": 346,
+        "VI": 301,
+        "VII": 270
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Jt Tees": 575,
+        "Senn": 547,
+        "III": 515,
+        "IV": 485,
+        "V": 444,
+        "VI": 400,
+        "VII": 295
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Jt Tees": 163,
+        "Senn": 143,
+        "III": 127,
+        "IV": 116,
+        "V": 105,
+        "VI": 95,
+        "VII": 87
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Jt Tees": 539,
+        "Senn": 485,
+        "III": 450,
+        "IV": 405,
+        "V": 370,
+        "VI": 370,
+        "VII": 293
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Jt Tees": 474,
+        "Senn": 461,
+        "III": 425,
+        "IV": 390,
+        "V": 360,
+        "VI": 316,
+        "VII": 265
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Jt Tees": 654,
+        "Senn": 630,
+        "III": 574,
+        "IV": 550,
+        "V": 513,
+        "VI": 486,
+        "VII": 486
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Jt Tees": 440,
+        "Senn": 390,
+        "III": 350,
+        "IV": 325,
+        "V": 295,
+        "VI": 250,
+        "VII": 210
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Jt Tees": 230,
+        "Senn": 192,
+        "III": 165,
+        "IV": 138,
+        "V": 115,
+        "VI": 96,
+        "VII": 96
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Jt Tees": 531,
+        "Senn": 477,
+        "III": 425,
+        "IV": 410,
+        "V": 346,
+        "VI": 346,
+        "VII": 310
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Jt Tees": 246,
+        "Senn": 232,
+        "III": 201,
+        "IV": 184,
+        "V": 164,
+        "VI": 141,
+        "VII": 102
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Jt Tees": 335,
+        "Senn": 306,
+        "III": 290,
+        "IV": 280,
+        "V": 242,
+        "VI": 189,
+        "VII": 189
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Jt Tees": 580,
+        "Senn": 564,
+        "III": 537,
+        "IV": 500,
+        "V": 470,
+        "VI": 431,
+        "VII": 431
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Jt Tees": 498,
+        "Senn": 456,
+        "III": 420,
+        "IV": 372,
+        "V": 330,
+        "VI": 305,
+        "VII": 265
+      }
+    }
+  ],
+  "version": 1
+}

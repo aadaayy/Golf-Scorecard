@@ -1,0 +1,349 @@
+{
+  "id": "ryder-course-at-pga-golf-club",
+  "name": "Ryder Course At Pga Golf Club",
+  "town": "Port St. Lucie, FL",
+  "location": {
+    "lat": 27.309743,
+    "lng": -80.429569
+  },
+  "tees": [
+    "Medal",
+    "Medal/Tournament",
+    "Tournament",
+    "Tournament/Standard",
+    "Standard",
+    "Standard/Middle",
+    "Middle",
+    "Middle/Forward",
+    "Forward",
+    "Forward/Friendly",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Medal": 430,
+        "Medal/Tournament": 413,
+        "Tournament": 413,
+        "Tournament/Standard": 398,
+        "Standard": 398,
+        "Standard/Middle": 369,
+        "Middle": 369,
+        "Middle/Forward": 316,
+        "Forward": 316,
+        "Forward/Friendly": 240,
+        "Friendly": 240
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Medal": 413,
+        "Medal/Tournament": 413,
+        "Tournament": 396,
+        "Tournament/Standard": 372,
+        "Standard": 372,
+        "Standard/Middle": 354,
+        "Middle": 354,
+        "Middle/Forward": 317,
+        "Forward": 317,
+        "Forward/Friendly": 210,
+        "Friendly": 210
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Medal": 400,
+        "Medal/Tournament": 400,
+        "Tournament": 379,
+        "Tournament/Standard": 362,
+        "Standard": 362,
+        "Standard/Middle": 323,
+        "Middle": 323,
+        "Middle/Forward": 299,
+        "Forward": 299,
+        "Forward/Friendly": 299,
+        "Friendly": 225
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Medal": 484,
+        "Medal/Tournament": 484,
+        "Tournament": 456,
+        "Tournament/Standard": 456,
+        "Standard": 420,
+        "Standard/Middle": 420,
+        "Middle": 416,
+        "Middle/Forward": 416,
+        "Forward": 336,
+        "Forward/Friendly": 336,
+        "Friendly": 250
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Medal": 169,
+        "Medal/Tournament": 169,
+        "Tournament": 154,
+        "Tournament/Standard": 154,
+        "Standard": 141,
+        "Standard/Middle": 141,
+        "Middle": 122,
+        "Middle/Forward": 122,
+        "Forward": 109,
+        "Forward/Friendly": 109,
+        "Friendly": 109
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Medal": 537,
+        "Medal/Tournament": 527,
+        "Tournament": 527,
+        "Tournament/Standard": 506,
+        "Standard": 506,
+        "Standard/Middle": 469,
+        "Middle": 469,
+        "Middle/Forward": 416,
+        "Forward": 416,
+        "Forward/Friendly": 416,
+        "Friendly": 305
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Medal": 206,
+        "Medal/Tournament": 206,
+        "Tournament": 195,
+        "Tournament/Standard": 166,
+        "Standard": 166,
+        "Standard/Middle": 154,
+        "Middle": 154,
+        "Middle/Forward": 131,
+        "Forward": 131,
+        "Forward/Friendly": 123,
+        "Friendly": 123
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Medal": 398,
+        "Medal/Tournament": 398,
+        "Tournament": 368,
+        "Tournament/Standard": 368,
+        "Standard": 342,
+        "Standard/Middle": 342,
+        "Middle": 326,
+        "Middle/Forward": 326,
+        "Forward": 308,
+        "Forward/Friendly": 308,
+        "Friendly": 200
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Medal": 439,
+        "Medal/Tournament": 423,
+        "Tournament": 423,
+        "Tournament/Standard": 406,
+        "Standard": 406,
+        "Standard/Middle": 365,
+        "Middle": 365,
+        "Middle/Forward": 320,
+        "Forward": 320,
+        "Forward/Friendly": 225,
+        "Friendly": 225
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Medal": 205,
+        "Medal/Tournament": 157,
+        "Tournament": 157,
+        "Tournament/Standard": 145,
+        "Standard": 145,
+        "Standard/Middle": 145,
+        "Middle": 115,
+        "Middle/Forward": 108,
+        "Forward": 108,
+        "Forward/Friendly": 108,
+        "Friendly": 108
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Medal": 395,
+        "Medal/Tournament": 395,
+        "Tournament": 379,
+        "Tournament/Standard": 379,
+        "Standard": 334,
+        "Standard/Middle": 334,
+        "Middle": 317,
+        "Middle/Forward": 317,
+        "Forward": 289,
+        "Forward/Friendly": 289,
+        "Friendly": 200
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Medal": 184,
+        "Medal/Tournament": 184,
+        "Tournament": 173,
+        "Tournament/Standard": 173,
+        "Standard": 155,
+        "Standard/Middle": 155,
+        "Middle": 139,
+        "Middle/Forward": 139,
+        "Forward": 114,
+        "Forward/Friendly": 114,
+        "Friendly": 114
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Medal": 523,
+        "Medal/Tournament": 523,
+        "Tournament": 502,
+        "Tournament/Standard": 502,
+        "Standard": 459,
+        "Standard/Middle": 459,
+        "Middle": 430,
+        "Middle/Forward": 430,
+        "Forward": 390,
+        "Forward/Friendly": 390,
+        "Friendly": 285
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Medal": 389,
+        "Medal/Tournament": 389,
+        "Tournament": 372,
+        "Tournament/Standard": 372,
+        "Standard": 354,
+        "Standard/Middle": 354,
+        "Middle": 293,
+        "Middle/Forward": 293,
+        "Forward": 265,
+        "Forward/Friendly": 265,
+        "Friendly": 200
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Medal": 451,
+        "Medal/Tournament": 425,
+        "Tournament": 425,
+        "Tournament/Standard": 390,
+        "Standard": 390,
+        "Standard/Middle": 359,
+        "Middle": 359,
+        "Middle/Forward": 310,
+        "Forward": 310,
+        "Forward/Friendly": 225,
+        "Friendly": 225
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Medal": 216,
+        "Medal/Tournament": 194,
+        "Tournament": 194,
+        "Tournament/Standard": 178,
+        "Standard": 178,
+        "Standard/Middle": 160,
+        "Middle": 160,
+        "Middle/Forward": 108,
+        "Forward": 108,
+        "Forward/Friendly": 108,
+        "Friendly": 75
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Medal": 549,
+        "Medal/Tournament": 527,
+        "Tournament": 527,
+        "Tournament/Standard": 527,
+        "Standard": 506,
+        "Standard/Middle": 463,
+        "Middle": 463,
+        "Middle/Forward": 432,
+        "Forward": 432,
+        "Forward/Friendly": 432,
+        "Friendly": 300
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Medal": 438,
+        "Medal/Tournament": 416,
+        "Tournament": 416,
+        "Tournament/Standard": 395,
+        "Standard": 395,
+        "Standard/Middle": 364,
+        "Middle": 364,
+        "Middle/Forward": 327,
+        "Forward": 327,
+        "Forward/Friendly": 220,
+        "Friendly": 220
+      }
+    }
+  ],
+  "version": 1
+}

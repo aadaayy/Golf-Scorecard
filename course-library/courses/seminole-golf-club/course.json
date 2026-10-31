@@ -1,0 +1,234 @@
+{
+  "id": "seminole-golf-club",
+  "name": "Seminole Golf Club",
+  "town": "Juno Beach, FL",
+  "location": {
+    "lat": 26.862807,
+    "lng": -80.051312
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 405,
+        "Blue": 370,
+        "White": 355,
+        "Red": 345
+      },
+      "map": "seminole-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 450,
+        "Blue": 380,
+        "White": 350,
+        "Red": 310
+      },
+      "map": "seminole-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 555,
+        "Blue": 500,
+        "White": 430,
+        "Red": 395
+      },
+      "map": "seminole-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 495,
+        "Blue": 440,
+        "White": 420,
+        "Red": 320
+      },
+      "map": "seminole-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 205,
+        "Blue": 190,
+        "White": 155,
+        "Red": 140
+      },
+      "map": "seminole-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 390,
+        "Blue": 375,
+        "White": 360,
+        "Red": 345
+      },
+      "map": "seminole-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 430,
+        "Blue": 410,
+        "White": 365,
+        "Red": 270
+      },
+      "map": "seminole-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 265,
+        "Blue": 225,
+        "White": 205,
+        "Red": 170
+      },
+      "map": "seminole-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 545,
+        "Blue": 485,
+        "White": 455,
+        "Red": 430
+      },
+      "map": "seminole-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 425,
+        "Blue": 380,
+        "White": 360,
+        "Red": 345
+      },
+      "map": "seminole-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 465,
+        "Blue": 390,
+        "White": 340,
+        "Red": 330
+      },
+      "map": "seminole-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 365,
+        "Blue": 360,
+        "White": 335,
+        "Red": 270
+      },
+      "map": "seminole-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 170,
+        "Blue": 165,
+        "White": 140,
+        "Red": 130
+      },
+      "map": "seminole-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 510,
+        "Blue": 500,
+        "White": 440,
+        "Red": 435
+      },
+      "map": "seminole-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 535,
+        "Blue": 475,
+        "White": 425,
+        "Red": 395
+      },
+      "map": "seminole-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 410,
+        "Blue": 395,
+        "White": 365,
+        "Red": 350
+      },
+      "map": "seminole-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 185,
+        "Blue": 160,
+        "White": 140,
+        "Red": 125
+      },
+      "map": "seminole-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 445,
+        "Blue": 400,
+        "White": 370,
+        "Red": 340
+      },
+      "map": "seminole-golf-club-18"
+    }
+  ],
+  "version": 1
+}

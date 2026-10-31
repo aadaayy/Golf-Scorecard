@@ -1,0 +1,235 @@
+{
+  "id": "heritage-ridge-golf-club",
+  "name": "Heritage Ridge Golf Club",
+  "town": "Hobe Sound, FL",
+  "location": {
+    "lat": 27.114891,
+    "lng": -80.165773
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 385,
+        "Blue": 380,
+        "White": 362,
+        "Gold": 342,
+        "Red": 300
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 180,
+        "Blue": 168,
+        "White": 158,
+        "Gold": 146,
+        "Red": 130
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 525,
+        "Blue": 510,
+        "White": 485,
+        "Gold": 449,
+        "Red": 401
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 218,
+        "Blue": 202,
+        "White": 196,
+        "Gold": 168,
+        "Red": 134
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 515,
+        "Blue": 492,
+        "White": 476,
+        "Gold": 440,
+        "Red": 440
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 212,
+        "Blue": 204,
+        "White": 171,
+        "Gold": 171,
+        "Red": 150
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 306,
+        "Blue": 304,
+        "White": 300,
+        "Gold": 295,
+        "Red": 268
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 535,
+        "Blue": 530,
+        "White": 510,
+        "Gold": 470,
+        "Red": 413
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 376,
+        "Blue": 365,
+        "White": 348,
+        "Gold": 328,
+        "Red": 315
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 365,
+        "Blue": 362,
+        "White": 327,
+        "Gold": 315,
+        "Red": 300
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 132,
+        "Blue": 125,
+        "White": 122,
+        "Gold": 100,
+        "Red": 90
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 201,
+        "Blue": 192,
+        "White": 172,
+        "Gold": 158,
+        "Red": 148
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 510,
+        "Blue": 472,
+        "White": 442,
+        "Gold": 406,
+        "Red": 345
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 353,
+        "Blue": 351,
+        "White": 336,
+        "Gold": 315,
+        "Red": 315
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 334,
+        "Blue": 328,
+        "White": 305,
+        "Gold": 292,
+        "Red": 265
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 213,
+        "Blue": 191,
+        "White": 172,
+        "Gold": 158,
+        "Red": 145
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 322,
+        "Blue": 320,
+        "White": 300,
+        "Gold": 270,
+        "Red": 250
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 332,
+        "Blue": 322,
+        "White": 275,
+        "Gold": 270,
+        "Red": 255
+      }
+    }
+  ],
+  "version": 1
+}

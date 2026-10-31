@@ -1,0 +1,87 @@
+{
+  "id": "fountain-lakes-golf-course",
+  "name": "Fountain Lakes Golf Course",
+  "town": "Estero, FL",
+  "location": {
+    "lat": 26.410913,
+    "lng": -81.815373
+  },
+  "tees": [
+    "Middle"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Middle": 71
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Middle": 71
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Middle": 74
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Middle": 64
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Middle": 63
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Middle": 53
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Middle": 76
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Middle": 115
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Middle": 92
+      }
+    }
+  ],
+  "version": 1
+}

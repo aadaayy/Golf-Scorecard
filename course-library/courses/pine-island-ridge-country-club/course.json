@@ -1,0 +1,197 @@
+{
+  "id": "pine-island-ridge-country-club",
+  "name": "Pine Island Ridge Country Club",
+  "town": "Davie, FL",
+  "location": {
+    "lat": 26.099534,
+    "lng": -80.277014
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 176,
+        "White": 151,
+        "Red": 141
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 356,
+        "White": 318,
+        "Red": 283
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 137,
+        "White": 112,
+        "Red": 97
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 160,
+        "White": 151,
+        "Red": 123
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 316,
+        "White": 298,
+        "Red": 246
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 423,
+        "White": 379,
+        "Red": 344
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 193,
+        "White": 161,
+        "Red": 140
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 406,
+        "White": 370,
+        "Red": 343
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 148,
+        "White": 128,
+        "Red": 114
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 378,
+        "White": 350,
+        "Red": 301
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 159,
+        "White": 147,
+        "Red": 128
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 197,
+        "White": 176,
+        "Red": 132
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 188,
+        "White": 156,
+        "Red": 130
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 326,
+        "White": 302,
+        "Red": 281
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 288,
+        "White": 252,
+        "Red": 239
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 254,
+        "White": 216,
+        "Red": 192
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 304,
+        "White": 277,
+        "Red": 266
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 338,
+        "White": 317,
+        "Red": 250
+      }
+    }
+  ],
+  "version": 1
+}

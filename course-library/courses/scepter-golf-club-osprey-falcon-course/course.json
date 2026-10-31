@@ -1,0 +1,253 @@
+{
+  "id": "scepter-golf-club-osprey-falcon-course",
+  "name": "Scepter Golf Club Osprey Falcon Course",
+  "town": "Sun City Center, FL",
+  "location": {
+    "lat": 27.690897,
+    "lng": -82.376471
+  },
+  "tees": [
+    "White",
+    "Green",
+    "Red",
+    "Yellow",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "White": 307,
+        "Green": 297,
+        "Red": 253,
+        "Yellow": 236,
+        "Orange": 165
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "White": 142,
+        "Green": 130,
+        "Red": 112,
+        "Yellow": 104,
+        "Orange": 78
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "White": 473,
+        "Green": 417,
+        "Red": 407,
+        "Yellow": 407,
+        "Orange": 290
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "White": 302,
+        "Green": 282,
+        "Red": 252,
+        "Yellow": 215,
+        "Orange": 191
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "White": 167,
+        "Green": 132,
+        "Red": 121,
+        "Yellow": 121,
+        "Orange": 92
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "White": 375,
+        "Green": 340,
+        "Red": 318,
+        "Yellow": 318,
+        "Orange": 207
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "White": 498,
+        "Green": 476,
+        "Red": 452,
+        "Yellow": 421,
+        "Orange": 302
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "White": 362,
+        "Green": 335,
+        "Red": 296,
+        "Yellow": 273,
+        "Orange": 199
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "White": 371,
+        "Green": 356,
+        "Red": 326,
+        "Yellow": 295,
+        "Orange": 197
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "White": 327,
+        "Green": 314,
+        "Red": 299,
+        "Yellow": 223,
+        "Orange": 202
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "White": 257,
+        "Green": 231,
+        "Red": 211,
+        "Yellow": 205,
+        "Orange": 184
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "White": 165,
+        "Green": 150,
+        "Red": 146,
+        "Yellow": 142,
+        "Orange": 84
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "White": 341,
+        "Green": 325,
+        "Red": 299,
+        "Yellow": 299,
+        "Orange": 217
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "White": 315,
+        "Green": 298,
+        "Red": 259,
+        "Yellow": 259,
+        "Orange": 189
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "White": 469,
+        "Green": 452,
+        "Red": 374,
+        "Yellow": 369,
+        "Orange": 310
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "White": 324,
+        "Green": 308,
+        "Red": 253,
+        "Yellow": 253,
+        "Orange": 195
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "White": 144,
+        "Green": 131,
+        "Red": 120,
+        "Yellow": 113,
+        "Orange": 100
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "White": 479,
+        "Green": 453,
+        "Red": 440,
+        "Yellow": 405,
+        "Orange": 272
+      },
+      "map": "scepter-golf-club-osprey-falcon-course-18"
+    }
+  ],
+  "version": 1
+}

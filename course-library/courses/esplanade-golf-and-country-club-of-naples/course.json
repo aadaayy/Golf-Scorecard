@@ -1,0 +1,292 @@
+{
+  "id": "esplanade-golf-and-country-club-of-naples",
+  "name": "Esplanade Golf And Country Club Of Naples",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.289246,
+    "lng": -81.699737
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Gold/Silver",
+    "Silver",
+    "Silver/Copper",
+    "Copper",
+    "Copper/Jade",
+    "Jade"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 376,
+        "Gold": 351,
+        "Gold/Silver": 351,
+        "Silver": 302,
+        "Silver/Copper": 302,
+        "Copper": 298,
+        "Copper/Jade": 298,
+        "Jade": 247
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 539,
+        "Gold": 510,
+        "Gold/Silver": 501,
+        "Silver": 501,
+        "Silver/Copper": 501,
+        "Copper": 439,
+        "Copper/Jade": 379,
+        "Jade": 379
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 448,
+        "Gold": 417,
+        "Gold/Silver": 408,
+        "Silver": 408,
+        "Silver/Copper": 350,
+        "Copper": 350,
+        "Copper/Jade": 301,
+        "Jade": 301
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 190,
+        "Gold": 170,
+        "Gold/Silver": 170,
+        "Silver": 162,
+        "Silver/Copper": 135,
+        "Copper": 135,
+        "Copper/Jade": 106,
+        "Jade": 106
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 336,
+        "Gold": 308,
+        "Gold/Silver": 308,
+        "Silver": 274,
+        "Silver/Copper": 274,
+        "Copper": 264,
+        "Copper/Jade": 264,
+        "Jade": 209
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 522,
+        "Gold": 502,
+        "Gold/Silver": 502,
+        "Silver": 463,
+        "Silver/Copper": 463,
+        "Copper": 456,
+        "Copper/Jade": 406,
+        "Jade": 406
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 425,
+        "Gold": 394,
+        "Gold/Silver": 385,
+        "Silver": 385,
+        "Silver/Copper": 334,
+        "Copper": 334,
+        "Copper/Jade": 300,
+        "Jade": 300
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 216,
+        "Gold": 189,
+        "Gold/Silver": 169,
+        "Silver": 169,
+        "Silver/Copper": 157,
+        "Copper": 157,
+        "Copper/Jade": 133,
+        "Jade": 133
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 414,
+        "Gold": 381,
+        "Gold/Silver": 381,
+        "Silver": 376,
+        "Silver/Copper": 332,
+        "Copper": 332,
+        "Copper/Jade": 332,
+        "Jade": 259
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 369,
+        "Gold": 343,
+        "Gold/Silver": 343,
+        "Silver": 301,
+        "Silver/Copper": 301,
+        "Copper": 294,
+        "Copper/Jade": 294,
+        "Jade": 255
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 581,
+        "Gold": 525,
+        "Gold/Silver": 482,
+        "Silver": 482,
+        "Silver/Copper": 482,
+        "Copper": 478,
+        "Copper/Jade": 478,
+        "Jade": 423
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 189,
+        "Gold": 155,
+        "Gold/Silver": 150,
+        "Silver": 150,
+        "Silver/Copper": 150,
+        "Copper": 129,
+        "Copper/Jade": 129,
+        "Jade": 124
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 554,
+        "Gold": 519,
+        "Gold/Silver": 519,
+        "Silver": 450,
+        "Silver/Copper": 450,
+        "Copper": 442,
+        "Copper/Jade": 442,
+        "Jade": 385
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 368,
+        "Gold": 333,
+        "Gold/Silver": 333,
+        "Silver": 307,
+        "Silver/Copper": 307,
+        "Copper": 233,
+        "Copper/Jade": 226,
+        "Jade": 226
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 209,
+        "Gold": 185,
+        "Gold/Silver": 160,
+        "Silver": 160,
+        "Silver/Copper": 153,
+        "Copper": 153,
+        "Copper/Jade": 134,
+        "Jade": 134
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 444,
+        "Gold": 413,
+        "Gold/Silver": 405,
+        "Silver": 405,
+        "Silver/Copper": 357,
+        "Copper": 357,
+        "Copper/Jade": 308,
+        "Jade": 308
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 421,
+        "Gold": 393,
+        "Gold/Silver": 386,
+        "Silver": 386,
+        "Silver/Copper": 339,
+        "Copper": 339,
+        "Copper/Jade": 290,
+        "Jade": 290
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 379,
+        "Gold": 353,
+        "Gold/Silver": 353,
+        "Silver": 345,
+        "Silver/Copper": 345,
+        "Copper": 308,
+        "Copper/Jade": 308,
+        "Jade": 254
+      }
+    }
+  ],
+  "version": 1
+}

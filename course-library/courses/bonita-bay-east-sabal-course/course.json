@@ -1,0 +1,254 @@
+{
+  "id": "bonita-bay-east-sabal-course",
+  "name": "Bonita Bay East Sabal Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.292659,
+    "lng": -81.652883
+  },
+  "tees": [
+    "Tee V",
+    "Tee Iv",
+    "Tee Iii-Ii",
+    "Tee Ii",
+    "Tee Ii-I",
+    "Tee I"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tee V": 361,
+        "Tee Iv": 341,
+        "Tee Iii-Ii": 311,
+        "Tee Ii": 287,
+        "Tee Ii-I": 287,
+        "Tee I": 254
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tee V": 413,
+        "Tee Iv": 388,
+        "Tee Iii-Ii": 322,
+        "Tee Ii": 322,
+        "Tee Ii-I": 288,
+        "Tee I": 288
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tee V": 178,
+        "Tee Iv": 168,
+        "Tee Iii-Ii": 142,
+        "Tee Ii": 120,
+        "Tee Ii-I": 120,
+        "Tee I": 101
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Tee V": 532,
+        "Tee Iv": 508,
+        "Tee Iii-Ii": 450,
+        "Tee Ii": 450,
+        "Tee Ii-I": 419,
+        "Tee I": 419
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tee V": 323,
+        "Tee Iv": 298,
+        "Tee Iii-Ii": 272,
+        "Tee Ii": 246,
+        "Tee Ii-I": 246,
+        "Tee I": 216
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tee V": 452,
+        "Tee Iv": 415,
+        "Tee Iii-Ii": 348,
+        "Tee Ii": 348,
+        "Tee Ii-I": 320,
+        "Tee I": 320
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Tee V": 548,
+        "Tee Iv": 520,
+        "Tee Iii-Ii": 468,
+        "Tee Ii": 468,
+        "Tee Ii-I": 403,
+        "Tee I": 403
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tee V": 217,
+        "Tee Iv": 193,
+        "Tee Iii-Ii": 142,
+        "Tee Ii": 142,
+        "Tee Ii-I": 142,
+        "Tee I": 121
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tee V": 419,
+        "Tee Iv": 397,
+        "Tee Iii-Ii": 338,
+        "Tee Ii": 338,
+        "Tee Ii-I": 338,
+        "Tee I": 313
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Tee V": 195,
+        "Tee Iv": 182,
+        "Tee Iii-Ii": 142,
+        "Tee Ii": 142,
+        "Tee Ii-I": 109,
+        "Tee I": 109
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Tee V": 581,
+        "Tee Iv": 561,
+        "Tee Iii-Ii": 477,
+        "Tee Ii": 477,
+        "Tee Ii-I": 436,
+        "Tee I": 436
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tee V": 426,
+        "Tee Iv": 387,
+        "Tee Iii-Ii": 357,
+        "Tee Ii": 330,
+        "Tee Ii-I": 330,
+        "Tee I": 299
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tee V": 183,
+        "Tee Iv": 158,
+        "Tee Iii-Ii": 131,
+        "Tee Ii": 107,
+        "Tee Ii-I": 107,
+        "Tee I": 85
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tee V": 417,
+        "Tee Iv": 399,
+        "Tee Iii-Ii": 344,
+        "Tee Ii": 344,
+        "Tee Ii-I": 311,
+        "Tee I": 311
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Tee V": 522,
+        "Tee Iv": 500,
+        "Tee Iii-Ii": 471,
+        "Tee Ii": 444,
+        "Tee Ii-I": 444,
+        "Tee I": 426
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tee V": 346,
+        "Tee Iv": 321,
+        "Tee Iii-Ii": 295,
+        "Tee Ii": 269,
+        "Tee Ii-I": 269,
+        "Tee I": 242
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tee V": 156,
+        "Tee Iv": 142,
+        "Tee Iii-Ii": 116,
+        "Tee Ii": 101,
+        "Tee Ii-I": 101,
+        "Tee I": 81
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Tee V": 511,
+        "Tee Iv": 495,
+        "Tee Iii-Ii": 463,
+        "Tee Ii": 435,
+        "Tee Ii-I": 435,
+        "Tee I": 404
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "marsh-at-bonita-bay-club",
+  "name": "Marsh At Bonita Bay Club",
+  "town": "Bonita Springs, FL",
+  "location": {
+    "lat": 26.3522,
+    "lng": -81.813653
+  },
+  "tees": [
+    "Tee V",
+    "Tee Iv",
+    "Tee Iv-Iii",
+    "Tee Iii",
+    "Tee Ii-I"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tee V": 371,
+        "Tee Iv": 345,
+        "Tee Iv-Iii": 345,
+        "Tee Iii": 318,
+        "Tee Ii-I": 290
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tee V": 347,
+        "Tee Iv": 299,
+        "Tee Iv-Iii": 271,
+        "Tee Iii": 271,
+        "Tee Ii-I": 253
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tee V": 366,
+        "Tee Iv": 348,
+        "Tee Iv-Iii": 318,
+        "Tee Iii": 318,
+        "Tee Ii-I": 257
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tee V": 352,
+        "Tee Iv": 333,
+        "Tee Iv-Iii": 333,
+        "Tee Iii": 307,
+        "Tee Ii-I": 283
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Tee V": 533,
+        "Tee Iv": 510,
+        "Tee Iv-Iii": 510,
+        "Tee Iii": 486,
+        "Tee Ii-I": 412
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Tee V": 521,
+        "Tee Iv": 504,
+        "Tee Iv-Iii": 485,
+        "Tee Iii": 485,
+        "Tee Ii-I": 400
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tee V": 142,
+        "Tee Iv": 131,
+        "Tee Iv-Iii": 131,
+        "Tee Iii": 118,
+        "Tee Ii-I": 103
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tee V": 164,
+        "Tee Iv": 150,
+        "Tee Iv-Iii": 150,
+        "Tee Iii": 136,
+        "Tee Ii-I": 113
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tee V": 426,
+        "Tee Iv": 402,
+        "Tee Iv-Iii": 374,
+        "Tee Iii": 374,
+        "Tee Ii-I": 311
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tee V": 358,
+        "Tee Iv": 332,
+        "Tee Iv-Iii": 332,
+        "Tee Iii": 318,
+        "Tee Ii-I": 302
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Tee V": 503,
+        "Tee Iv": 485,
+        "Tee Iv-Iii": 460,
+        "Tee Iii": 460,
+        "Tee Ii-I": 400
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tee V": 368,
+        "Tee Iv": 352,
+        "Tee Iv-Iii": 352,
+        "Tee Iii": 328,
+        "Tee Ii-I": 272
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Tee V": 518,
+        "Tee Iv": 497,
+        "Tee Iv-Iii": 497,
+        "Tee Iii": 474,
+        "Tee Ii-I": 430
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tee V": 404,
+        "Tee Iv": 365,
+        "Tee Iv-Iii": 335,
+        "Tee Iii": 335,
+        "Tee Ii-I": 297
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tee V": 355,
+        "Tee Iv": 344,
+        "Tee Iv-Iii": 344,
+        "Tee Iii": 318,
+        "Tee Ii-I": 302
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tee V": 187,
+        "Tee Iv": 170,
+        "Tee Iv-Iii": 151,
+        "Tee Iii": 151,
+        "Tee Ii-I": 136
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tee V": 158,
+        "Tee Iv": 141,
+        "Tee Iv-Iii": 141,
+        "Tee Iii": 124,
+        "Tee Ii-I": 102
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tee V": 457,
+        "Tee Iv": 403,
+        "Tee Iv-Iii": 346,
+        "Tee Iii": 346,
+        "Tee Ii-I": 318
+      }
+    }
+  ],
+  "version": 1
+}

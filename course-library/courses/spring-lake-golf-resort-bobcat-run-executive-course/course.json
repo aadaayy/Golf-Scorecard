@@ -1,0 +1,117 @@
+{
+  "id": "spring-lake-golf-resort-bobcat-run-executive-course",
+  "name": "Spring Lake Golf Resort Bobcat Run Executive Course",
+  "town": "Sebring, FL",
+  "location": {
+    "lat": 27.456508,
+    "lng": -81.320791
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 139,
+        "Web": 139,
+        "White": 134,
+        "Red": 134
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 344,
+        "Web": 344,
+        "White": 322,
+        "Red": 302
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 290,
+        "Web": 290,
+        "White": 257,
+        "Red": 237
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 400,
+        "Web": 400,
+        "White": 375,
+        "Red": 355
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 164,
+        "Web": 164,
+        "White": 144,
+        "Red": 124
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 455,
+        "Web": 455,
+        "White": 423,
+        "Red": 403
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 289,
+        "Web": 289,
+        "White": 267,
+        "Red": 246
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 142,
+        "Web": 142,
+        "White": 121,
+        "Red": 91
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 338,
+        "Web": 338,
+        "White": 309,
+        "Red": 289
+      }
+    }
+  ],
+  "version": 1
+}

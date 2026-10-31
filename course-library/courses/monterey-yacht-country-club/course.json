@@ -1,0 +1,87 @@
+{
+  "id": "monterey-yacht-country-club",
+  "name": "Monterey Yacht Country Club",
+  "town": "Stuart, FL",
+  "location": {
+    "lat": 27.180046,
+    "lng": -80.254494
+  },
+  "tees": [
+    "Mens"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Mens": 196
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Mens": 114
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Mens": 168
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Mens": 145
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Mens": 130
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Mens": 63
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Mens": 158
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Mens": 85
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Mens": 162
+      }
+    }
+  ],
+  "version": 1
+}

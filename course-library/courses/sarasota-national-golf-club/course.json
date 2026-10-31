@@ -1,0 +1,291 @@
+{
+  "id": "sarasota-national-golf-club",
+  "name": "Sarasota National Golf Club",
+  "town": "Venice, FL",
+  "location": {
+    "lat": 27.033015,
+    "lng": -82.361531
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Gold/Silver",
+    "Silver",
+    "Silver/Jade",
+    "Jade",
+    "Jade/Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 360,
+        "Gold": 337,
+        "Gold/Silver": 337,
+        "Silver": 295,
+        "Silver/Jade": 295,
+        "Jade": 252,
+        "Jade/Red": 252
+      },
+      "map": "sarasota-national-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 418,
+        "Gold": 384,
+        "Gold/Silver": 384,
+        "Silver": 354,
+        "Silver/Jade": 301,
+        "Jade": 301,
+        "Jade/Red": 301
+      },
+      "map": "sarasota-national-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 337,
+        "Gold": 319,
+        "Gold/Silver": 319,
+        "Silver": 278,
+        "Silver/Jade": 278,
+        "Jade": 236,
+        "Jade/Red": 236
+      },
+      "map": "sarasota-national-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 238,
+        "Gold": 201,
+        "Gold/Silver": 172,
+        "Silver": 172,
+        "Silver/Jade": 133,
+        "Jade": 133,
+        "Jade/Red": 133
+      },
+      "map": "sarasota-national-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 646,
+        "Gold": 555,
+        "Gold/Silver": 522,
+        "Silver": 522,
+        "Silver/Jade": 449,
+        "Jade": 449,
+        "Jade/Red": 365
+      },
+      "map": "sarasota-national-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 414,
+        "Gold": 367,
+        "Gold/Silver": 367,
+        "Silver": 338,
+        "Silver/Jade": 338,
+        "Jade": 295,
+        "Jade/Red": 295
+      },
+      "map": "sarasota-national-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 574,
+        "Gold": 526,
+        "Gold/Silver": 491,
+        "Silver": 491,
+        "Silver/Jade": 431,
+        "Jade": 431,
+        "Jade/Red": 290
+      },
+      "map": "sarasota-national-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 224,
+        "Gold": 193,
+        "Gold/Silver": 160,
+        "Silver": 160,
+        "Silver/Jade": 160,
+        "Jade": 137,
+        "Jade/Red": 108
+      },
+      "map": "sarasota-national-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 428,
+        "Gold": 398,
+        "Gold/Silver": 398,
+        "Silver": 371,
+        "Silver/Jade": 371,
+        "Jade": 307,
+        "Jade/Red": 220
+      },
+      "map": "sarasota-national-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 458,
+        "Gold": 415,
+        "Gold/Silver": 382,
+        "Silver": 382,
+        "Silver/Jade": 303,
+        "Jade": 303,
+        "Jade/Red": 303
+      },
+      "map": "sarasota-national-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 477,
+        "Gold": 440,
+        "Gold/Silver": 406,
+        "Silver": 406,
+        "Silver/Jade": 390,
+        "Jade": 390,
+        "Jade/Red": 238
+      },
+      "map": "sarasota-national-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 543,
+        "Gold": 499,
+        "Gold/Silver": 499,
+        "Silver": 467,
+        "Silver/Jade": 467,
+        "Jade": 433,
+        "Jade/Red": 335
+      },
+      "map": "sarasota-national-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 384,
+        "Gold": 333,
+        "Gold/Silver": 333,
+        "Silver": 296,
+        "Silver/Jade": 296,
+        "Jade": 256,
+        "Jade/Red": 256
+      },
+      "map": "sarasota-national-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 601,
+        "Gold": 539,
+        "Gold/Silver": 501,
+        "Silver": 501,
+        "Silver/Jade": 454,
+        "Jade": 454,
+        "Jade/Red": 398
+      },
+      "map": "sarasota-national-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 183,
+        "Gold": 146,
+        "Gold/Silver": 146,
+        "Silver": 131,
+        "Silver/Jade": 131,
+        "Jade": 100,
+        "Jade/Red": 100
+      },
+      "map": "sarasota-national-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 443,
+        "Gold": 408,
+        "Gold/Silver": 395,
+        "Silver": 395,
+        "Silver/Jade": 297,
+        "Jade": 297,
+        "Jade/Red": 297
+      },
+      "map": "sarasota-national-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 200,
+        "Gold": 171,
+        "Gold/Silver": 161,
+        "Silver": 161,
+        "Silver/Jade": 161,
+        "Jade": 118,
+        "Jade/Red": 118
+      },
+      "map": "sarasota-national-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 374,
+        "Gold": 318,
+        "Gold/Silver": 318,
+        "Silver": 299,
+        "Silver/Jade": 299,
+        "Jade": 246,
+        "Jade/Red": 246
+      },
+      "map": "sarasota-national-golf-club-18"
+    }
+  ],
+  "version": 1
+}

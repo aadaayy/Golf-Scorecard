@@ -1,0 +1,254 @@
+{
+  "id": "pines-at-pompano-beach-golf-course",
+  "name": "Pines At Pompano Beach Golf Course",
+  "town": "Pompano Beach, FL",
+  "location": {
+    "lat": 26.245106,
+    "lng": -80.102812
+  },
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "White",
+    "Brown",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 568,
+        "Web": 568,
+        "Blue": 550,
+        "White": 522,
+        "Brown": 474,
+        "Red": 426
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 348,
+        "Web": 348,
+        "Blue": 317,
+        "White": 311,
+        "Brown": 280,
+        "Red": 245
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 212,
+        "Web": 212,
+        "Blue": 183,
+        "White": 155,
+        "Brown": 134,
+        "Red": 106
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 414,
+        "Web": 414,
+        "Blue": 375,
+        "White": 352,
+        "Brown": 312,
+        "Red": 279
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 402,
+        "Web": 402,
+        "Blue": 369,
+        "White": 347,
+        "Brown": 301,
+        "Red": 275
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 542,
+        "Web": 542,
+        "Blue": 512,
+        "White": 490,
+        "Brown": 456,
+        "Red": 408
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 168,
+        "Web": 168,
+        "Blue": 145,
+        "White": 128,
+        "Brown": 103,
+        "Red": 97
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 444,
+        "Web": 444,
+        "Blue": 400,
+        "White": 385,
+        "Brown": 345,
+        "Red": 315
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 408,
+        "Web": 408,
+        "Blue": 380,
+        "White": 360,
+        "Brown": 321,
+        "Red": 295
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 575,
+        "Web": 575,
+        "Blue": 552,
+        "White": 525,
+        "Brown": 485,
+        "Red": 448
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 473,
+        "Web": 473,
+        "Blue": 434,
+        "White": 415,
+        "Brown": 360,
+        "Red": 355
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 549,
+        "Web": 549,
+        "Blue": 507,
+        "White": 490,
+        "Brown": 460,
+        "Red": 434
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 424,
+        "Web": 424,
+        "Blue": 402,
+        "White": 360,
+        "Brown": 325,
+        "Red": 287
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 410,
+        "Web": 410,
+        "Blue": 392,
+        "White": 348,
+        "Brown": 314,
+        "Red": 293
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 182,
+        "Web": 182,
+        "Blue": 172,
+        "White": 163,
+        "Brown": 134,
+        "Red": 114
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 373,
+        "Web": 373,
+        "Blue": 357,
+        "White": 337,
+        "Brown": 293,
+        "Red": 261
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 220,
+        "Web": 220,
+        "Blue": 193,
+        "White": 160,
+        "Brown": 148,
+        "Red": 139
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 407,
+        "Web": 407,
+        "Blue": 372,
+        "White": 359,
+        "Brown": 310,
+        "Red": 295
+      }
+    }
+  ],
+  "version": 1
+}

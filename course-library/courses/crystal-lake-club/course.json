@@ -1,0 +1,178 @@
+{
+  "id": "crystal-lake-club",
+  "name": "Crystal Lake Club",
+  "town": "Avon Park, FL",
+  "location": {
+    "lat": 27.553605,
+    "lng": -81.488045
+  },
+  "tees": [
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "White": 122,
+        "Red": 106
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "White": 78,
+        "Red": 73
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "White": 235,
+        "Red": 222
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "White": 79,
+        "Red": 74
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "White": 165,
+        "Red": 152
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "White": 175,
+        "Red": 159
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 108,
+        "Red": 93
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "White": 139,
+        "Red": 120
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "White": 165,
+        "Red": 152
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "White": 185,
+        "Red": 156
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "White": 172,
+        "Red": 160
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "White": 239,
+        "Red": 190
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "White": 135,
+        "Red": 104
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "White": 165,
+        "Red": 124
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "White": 101,
+        "Red": 92
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "White": 148,
+        "Red": 139
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 113,
+        "Red": 108
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "White": 204,
+        "Red": 193
+      }
+    }
+  ],
+  "version": 1
+}

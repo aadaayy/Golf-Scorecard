@@ -1,0 +1,235 @@
+{
+  "id": "cape-royal-golf-club-queen-king",
+  "name": "Cape Royal Golf Club Queen King",
+  "town": "Cape Coral, FL",
+  "location": {
+    "lat": 26.624264,
+    "lng": -82.032889
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Yellow",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 375,
+        "Blue": 356,
+        "White": 336,
+        "Yellow": 283,
+        "Red": 278
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 210,
+        "Blue": 187,
+        "White": 172,
+        "Yellow": 123,
+        "Red": 115
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 410,
+        "Blue": 387,
+        "White": 373,
+        "Yellow": 316,
+        "Red": 310
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 552,
+        "Blue": 529,
+        "White": 509,
+        "Yellow": 468,
+        "Red": 464
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 318,
+        "Blue": 293,
+        "White": 272,
+        "Yellow": 232,
+        "Red": 199
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 340,
+        "Blue": 306,
+        "White": 260,
+        "Yellow": 246,
+        "Red": 191
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 525,
+        "Blue": 493,
+        "White": 481,
+        "Yellow": 400,
+        "Red": 393
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 130,
+        "Blue": 104,
+        "White": 95,
+        "Yellow": 85,
+        "Red": 81
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 422,
+        "Blue": 402,
+        "White": 383,
+        "Yellow": 335,
+        "Red": 287
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 371,
+        "Blue": 341,
+        "White": 292,
+        "Yellow": 250,
+        "Red": 247
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 480,
+        "Blue": 458,
+        "White": 450,
+        "Yellow": 378,
+        "Red": 370
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 312,
+        "Blue": 289,
+        "White": 252,
+        "Yellow": 248,
+        "Red": 168
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 143,
+        "Blue": 109,
+        "White": 104,
+        "Yellow": 99,
+        "Red": 67
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 392,
+        "Blue": 379,
+        "White": 339,
+        "Yellow": 335,
+        "Red": 331
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 445,
+        "Blue": 359,
+        "White": 345,
+        "Yellow": 332,
+        "Red": 300
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 182,
+        "Blue": 165,
+        "White": 154,
+        "Yellow": 145,
+        "Red": 72
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 379,
+        "Blue": 359,
+        "White": 287,
+        "Yellow": 257,
+        "Red": 252
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 529,
+        "Blue": 507,
+        "White": 498,
+        "Yellow": 428,
+        "Red": 423
+      }
+    }
+  ],
+  "version": 1
+}

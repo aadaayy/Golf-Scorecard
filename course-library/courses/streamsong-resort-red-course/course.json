@@ -1,0 +1,292 @@
+{
+  "id": "streamsong-resort-red-course",
+  "name": "Streamsong Resort Red Course",
+  "town": "Bowling Green, FL",
+  "location": {
+    "lat": 27.692897,
+    "lng": -81.93434
+  },
+  "tees": [
+    "Web",
+    "Green",
+    "Green/Black",
+    "Black",
+    "Black/Silver",
+    "Silver",
+    "Silver/Gold",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 479,
+        "Green": 447,
+        "Green/Black": 417,
+        "Black": 417,
+        "Black/Silver": 410,
+        "Silver": 410,
+        "Silver/Gold": 358,
+        "Gold": 358
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Web": 555,
+        "Green": 555,
+        "Green/Black": 508,
+        "Black": 508,
+        "Black/Silver": 461,
+        "Silver": 461,
+        "Silver/Gold": 371,
+        "Gold": 371
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Web": 401,
+        "Green": 404,
+        "Green/Black": 404,
+        "Black": 391,
+        "Black/Silver": 391,
+        "Silver": 340,
+        "Silver/Gold": 340,
+        "Gold": 252
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Web": 328,
+        "Green": 330,
+        "Green/Black": 330,
+        "Black": 312,
+        "Black/Silver": 312,
+        "Silver": 290,
+        "Silver/Gold": 290,
+        "Gold": 271
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 448,
+        "Green": 453,
+        "Green/Black": 453,
+        "Black": 344,
+        "Black/Silver": 344,
+        "Silver": 328,
+        "Silver/Gold": 328,
+        "Gold": 240
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 184,
+        "Green": 185,
+        "Green/Black": 185,
+        "Black": 143,
+        "Black/Silver": 143,
+        "Silver": 128,
+        "Silver/Gold": 128,
+        "Gold": 112
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Web": 525,
+        "Green": 527,
+        "Green/Black": 521,
+        "Black": 521,
+        "Black/Silver": 502,
+        "Silver": 502,
+        "Silver/Gold": 396,
+        "Gold": 396
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Web": 151,
+        "Green": 147,
+        "Green/Black": 147,
+        "Black": 119,
+        "Black/Silver": 119,
+        "Silver": 111,
+        "Silver/Gold": 111,
+        "Gold": 98
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 311,
+        "Green": 312,
+        "Green/Black": 271,
+        "Black": 271,
+        "Black/Silver": 257,
+        "Silver": 257,
+        "Silver/Gold": 215,
+        "Gold": 215
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 486,
+        "Green": 486,
+        "Green/Black": 431,
+        "Black": 431,
+        "Black/Silver": 385,
+        "Silver": 385,
+        "Silver/Gold": 278,
+        "Gold": 278
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 440,
+        "Green": 423,
+        "Green/Black": 423,
+        "Black": 408,
+        "Black/Silver": 408,
+        "Silver": 397,
+        "Silver/Gold": 397,
+        "Gold": 275
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 500,
+        "Green": 500,
+        "Green/Black": 472,
+        "Black": 472,
+        "Black/Silver": 450,
+        "Silver": 450,
+        "Silver/Gold": 340,
+        "Gold": 340
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Web": 533,
+        "Green": 535,
+        "Green/Black": 508,
+        "Black": 508,
+        "Black/Silver": 451,
+        "Silver": 451,
+        "Silver/Gold": 427,
+        "Gold": 427
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Web": 180,
+        "Green": 181,
+        "Green/Black": 181,
+        "Black": 166,
+        "Black/Silver": 166,
+        "Silver": 150,
+        "Silver/Gold": 150,
+        "Gold": 111
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 474,
+        "Green": 474,
+        "Green/Black": 453,
+        "Black": 453,
+        "Black/Silver": 402,
+        "Silver": 402,
+        "Silver/Gold": 291,
+        "Gold": 291
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Web": 211,
+        "Green": 208,
+        "Green/Black": 184,
+        "Black": 184,
+        "Black/Silver": 160,
+        "Silver": 160,
+        "Silver/Gold": 103,
+        "Gold": 103
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 404,
+        "Green": 403,
+        "Green/Black": 403,
+        "Black": 384,
+        "Black/Silver": 384,
+        "Silver": 343,
+        "Silver/Gold": 343,
+        "Gold": 317
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Web": 533,
+        "Green": 540,
+        "Green/Black": 540,
+        "Black": 505,
+        "Black/Silver": 505,
+        "Silver": 443,
+        "Silver/Gold": 443,
+        "Gold": 406
+      }
+    }
+  ],
+  "version": 1
+}

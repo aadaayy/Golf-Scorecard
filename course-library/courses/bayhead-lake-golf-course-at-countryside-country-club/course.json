@@ -1,0 +1,216 @@
+{
+  "id": "bayhead-lake-golf-course-at-countryside-country-club",
+  "name": "Bayhead Lake Golf Course At Countryside Country Club",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.141877,
+    "lng": -81.724395
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 390,
+        "Blue": 375,
+        "White": 360,
+        "Red": 329
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 525,
+        "Blue": 510,
+        "White": 492,
+        "Red": 452
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 411,
+        "Blue": 387,
+        "White": 368,
+        "Red": 324
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 319,
+        "Blue": 305,
+        "White": 286,
+        "Red": 253
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 329,
+        "Blue": 301,
+        "White": 279,
+        "Red": 234
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 188,
+        "Blue": 177,
+        "White": 166,
+        "Red": 135
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 355,
+        "Blue": 343,
+        "White": 326,
+        "Red": 296
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 201,
+        "Blue": 185,
+        "White": 169,
+        "Red": 139
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 539,
+        "Blue": 522,
+        "White": 506,
+        "Red": 474
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 372,
+        "Blue": 360,
+        "White": 348,
+        "Red": 318
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 401,
+        "Blue": 383,
+        "White": 341,
+        "Red": 294
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 544,
+        "Blue": 518,
+        "White": 471,
+        "Red": 400
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 179,
+        "Blue": 164,
+        "White": 145,
+        "Red": 127
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 329,
+        "Blue": 318,
+        "White": 295,
+        "Red": 242
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 527,
+        "Blue": 510,
+        "White": 458,
+        "Red": 432
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 423,
+        "Blue": 395,
+        "White": 356,
+        "Red": 323
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 158,
+        "Blue": 147,
+        "White": 135,
+        "Red": 103
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 424,
+        "Blue": 403,
+        "White": 376,
+        "Red": 306
+      }
+    }
+  ],
+  "version": 1
+}

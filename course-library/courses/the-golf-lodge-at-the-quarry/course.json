@@ -1,0 +1,292 @@
+{
+  "id": "the-golf-lodge-at-the-quarry",
+  "name": "The Golf Lodge At The Quarry",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.27864,
+    "lng": -81.677213
+  },
+  "tees": [
+    "Slate",
+    "Bronze",
+    "Silver",
+    "Quarry",
+    "Copper",
+    "Stone",
+    "Gold",
+    "Quartz"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Slate": 364,
+        "Bronze": 341,
+        "Silver": 316,
+        "Quarry": 316,
+        "Copper": 267,
+        "Stone": 267,
+        "Gold": 230,
+        "Quartz": 230
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Slate": 231,
+        "Bronze": 210,
+        "Silver": 190,
+        "Quarry": 167,
+        "Copper": 167,
+        "Stone": 139,
+        "Gold": 139,
+        "Quartz": 139
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Slate": 601,
+        "Bronze": 575,
+        "Silver": 556,
+        "Quarry": 523,
+        "Copper": 523,
+        "Stone": 466,
+        "Gold": 466,
+        "Quartz": 420
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Slate": 473,
+        "Bronze": 445,
+        "Silver": 418,
+        "Quarry": 380,
+        "Copper": 380,
+        "Stone": 340,
+        "Gold": 340,
+        "Quartz": 283
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Slate": 431,
+        "Bronze": 403,
+        "Silver": 375,
+        "Quarry": 375,
+        "Copper": 342,
+        "Stone": 297,
+        "Gold": 297,
+        "Quartz": 297
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Slate": 178,
+        "Bronze": 159,
+        "Silver": 139,
+        "Quarry": 139,
+        "Copper": 113,
+        "Stone": 113,
+        "Gold": 90,
+        "Quartz": 90
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Slate": 571,
+        "Bronze": 542,
+        "Silver": 517,
+        "Quarry": 517,
+        "Copper": 479,
+        "Stone": 436,
+        "Gold": 436,
+        "Quartz": 376
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Slate": 407,
+        "Bronze": 380,
+        "Silver": 355,
+        "Quarry": 355,
+        "Copper": 303,
+        "Stone": 303,
+        "Gold": 270,
+        "Quartz": 270
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Slate": 382,
+        "Bronze": 356,
+        "Silver": 328,
+        "Quarry": 328,
+        "Copper": 291,
+        "Stone": 291,
+        "Gold": 251,
+        "Quartz": 251
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Slate": 449,
+        "Bronze": 422,
+        "Silver": 400,
+        "Quarry": 371,
+        "Copper": 371,
+        "Stone": 328,
+        "Gold": 328,
+        "Quartz": 290
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Slate": 423,
+        "Bronze": 403,
+        "Silver": 369,
+        "Quarry": 369,
+        "Copper": 338,
+        "Stone": 338,
+        "Gold": 296,
+        "Quartz": 296
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Slate": 532,
+        "Bronze": 506,
+        "Silver": 478,
+        "Quarry": 478,
+        "Copper": 445,
+        "Stone": 445,
+        "Gold": 396,
+        "Quartz": 349
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Slate": 194,
+        "Bronze": 173,
+        "Silver": 154,
+        "Quarry": 154,
+        "Copper": 128,
+        "Stone": 128,
+        "Gold": 102,
+        "Quartz": 102
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Slate": 585,
+        "Bronze": 555,
+        "Silver": 526,
+        "Quarry": 492,
+        "Copper": 492,
+        "Stone": 452,
+        "Gold": 452,
+        "Quartz": 358
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Slate": 224,
+        "Bronze": 205,
+        "Silver": 185,
+        "Quarry": 185,
+        "Copper": 183,
+        "Stone": 131,
+        "Gold": 131,
+        "Quartz": 131
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Slate": 379,
+        "Bronze": 352,
+        "Silver": 325,
+        "Quarry": 325,
+        "Copper": 291,
+        "Stone": 291,
+        "Gold": 244,
+        "Quartz": 244
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Slate": 436,
+        "Bronze": 407,
+        "Silver": 380,
+        "Quarry": 341,
+        "Copper": 341,
+        "Stone": 341,
+        "Gold": 300,
+        "Quartz": 300
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Slate": 456,
+        "Bronze": 429,
+        "Silver": 402,
+        "Quarry": 369,
+        "Copper": 369,
+        "Stone": 323,
+        "Gold": 323,
+        "Quartz": 323
+      }
+    }
+  ],
+  "version": 1
+}

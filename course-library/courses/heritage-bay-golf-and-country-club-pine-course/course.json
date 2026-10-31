@@ -1,0 +1,127 @@
+{
+  "id": "heritage-bay-golf-and-country-club-pine-course",
+  "name": "Heritage Bay Golf And Country Club Pine Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.284704,
+    "lng": -81.662287
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 557,
+        "Blue": 505,
+        "White": 487,
+        "Green": 452,
+        "Red": 393
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 357,
+        "Blue": 324,
+        "White": 305,
+        "Green": 278,
+        "Red": 265
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 416,
+        "Blue": 392,
+        "White": 373,
+        "Green": 332,
+        "Red": 289
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 313,
+        "Blue": 292,
+        "White": 279,
+        "Green": 243,
+        "Red": 228
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 466,
+        "Blue": 424,
+        "White": 398,
+        "Green": 382,
+        "Red": 286
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 187,
+        "Blue": 169,
+        "White": 140,
+        "Green": 126,
+        "Red": 110
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 528,
+        "Blue": 494,
+        "White": 465,
+        "Green": 444,
+        "Red": 386
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 167,
+        "Blue": 145,
+        "White": 131,
+        "Green": 104,
+        "Red": 88
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 402,
+        "Blue": 380,
+        "White": 350,
+        "Green": 307,
+        "Red": 277
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,310 @@
+{
+  "id": "island-country-club",
+  "name": "Island Country Club",
+  "town": "Marco Island, FL",
+  "location": {
+    "lat": 25.94902,
+    "lng": -81.711148
+  },
+  "tees": [
+    "C",
+    "Web",
+    "I",
+    "I/Ii",
+    "II",
+    "Ii/Iii",
+    "III",
+    "IV"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "C": 420,
+        "Web": 420,
+        "I": 377,
+        "I/Ii": 347,
+        "II": 347,
+        "Ii/Iii": 288,
+        "III": 288,
+        "IV": 282
+      },
+      "map": "island-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "C": 170,
+        "Web": 170,
+        "I": 164,
+        "I/Ii": 164,
+        "II": 138,
+        "Ii/Iii": 138,
+        "III": 119,
+        "IV": 109
+      },
+      "map": "island-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "C": 514,
+        "Web": 514,
+        "I": 492,
+        "I/Ii": 492,
+        "II": 467,
+        "Ii/Iii": 467,
+        "III": 452,
+        "IV": 438
+      },
+      "map": "island-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "C": 332,
+        "Web": 332,
+        "I": 339,
+        "I/Ii": 339,
+        "II": 314,
+        "Ii/Iii": 314,
+        "III": 302,
+        "IV": 238
+      },
+      "map": "island-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "C": 422,
+        "Web": 422,
+        "I": 397,
+        "I/Ii": 397,
+        "II": 348,
+        "Ii/Iii": 348,
+        "III": 331,
+        "IV": 300
+      },
+      "map": "island-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "C": 183,
+        "Web": 183,
+        "I": 163,
+        "I/Ii": 163,
+        "II": 123,
+        "Ii/Iii": 123,
+        "III": 117,
+        "IV": 117
+      },
+      "map": "island-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "C": 416,
+        "Web": 416,
+        "I": 359,
+        "I/Ii": 359,
+        "II": 333,
+        "Ii/Iii": 333,
+        "III": 323,
+        "IV": 298
+      },
+      "map": "island-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "C": 371,
+        "Web": 371,
+        "I": 340,
+        "I/Ii": 340,
+        "II": 326,
+        "Ii/Iii": 326,
+        "III": 300,
+        "IV": 280
+      },
+      "map": "island-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "C": 536,
+        "Web": 536,
+        "I": 501,
+        "I/Ii": 481,
+        "II": 481,
+        "Ii/Iii": 442,
+        "III": 442,
+        "IV": 417
+      },
+      "map": "island-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "C": 394,
+        "Web": 394,
+        "I": 351,
+        "I/Ii": 351,
+        "II": 341,
+        "Ii/Iii": 341,
+        "III": 317,
+        "IV": 307
+      },
+      "map": "island-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "C": 449,
+        "Web": 449,
+        "I": 417,
+        "I/Ii": 365,
+        "II": 365,
+        "Ii/Iii": 332,
+        "III": 332,
+        "IV": 322
+      },
+      "map": "island-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "C": 558,
+        "Web": 558,
+        "I": 534,
+        "I/Ii": 504,
+        "II": 504,
+        "Ii/Iii": 487,
+        "III": 487,
+        "IV": 418
+      },
+      "map": "island-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "C": 212,
+        "Web": 212,
+        "I": 185,
+        "I/Ii": 163,
+        "II": 163,
+        "Ii/Iii": 130,
+        "III": 130,
+        "IV": 123
+      },
+      "map": "island-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "C": 513,
+        "Web": 513,
+        "I": 490,
+        "I/Ii": 490,
+        "II": 472,
+        "Ii/Iii": 472,
+        "III": 445,
+        "IV": 398
+      },
+      "map": "island-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "C": 146,
+        "Web": 146,
+        "I": 136,
+        "I/Ii": 136,
+        "II": 118,
+        "Ii/Iii": 118,
+        "III": 102,
+        "IV": 102
+      },
+      "map": "island-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "C": 401,
+        "Web": 401,
+        "I": 381,
+        "I/Ii": 361,
+        "II": 361,
+        "Ii/Iii": 330,
+        "III": 330,
+        "IV": 315
+      },
+      "map": "island-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "C": 344,
+        "Web": 344,
+        "I": 324,
+        "I/Ii": 324,
+        "II": 291,
+        "Ii/Iii": 291,
+        "III": 280,
+        "IV": 269
+      },
+      "map": "island-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "C": 471,
+        "Web": 471,
+        "I": 440,
+        "I/Ii": 401,
+        "II": 401,
+        "Ii/Iii": 346,
+        "III": 346,
+        "IV": 331
+      },
+      "map": "island-country-club-18"
+    }
+  ],
+  "version": 1
+}

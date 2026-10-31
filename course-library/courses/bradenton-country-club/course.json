@@ -1,0 +1,234 @@
+{
+  "id": "bradenton-country-club",
+  "name": "Bradenton Country Club",
+  "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.492193,
+    "lng": -82.608332
+  },
+  "tees": [
+    "Gold",
+    "White",
+    "Green",
+    "Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 386,
+        "White": 371,
+        "Green": 355,
+        "Blue": 280
+      },
+      "map": "bradenton-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 181,
+        "White": 170,
+        "Green": 154,
+        "Blue": 129
+      },
+      "map": "bradenton-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 375,
+        "White": 349,
+        "Green": 326,
+        "Blue": 297
+      },
+      "map": "bradenton-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 420,
+        "White": 390,
+        "Green": 332,
+        "Blue": 286
+      },
+      "map": "bradenton-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 431,
+        "White": 404,
+        "Green": 373,
+        "Blue": 330
+      },
+      "map": "bradenton-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 192,
+        "White": 173,
+        "Green": 151,
+        "Blue": 122
+      },
+      "map": "bradenton-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 420,
+        "White": 398,
+        "Green": 340,
+        "Blue": 277
+      },
+      "map": "bradenton-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 492,
+        "White": 469,
+        "Green": 414,
+        "Blue": 378
+      },
+      "map": "bradenton-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 404,
+        "White": 373,
+        "Green": 333,
+        "Blue": 306
+      },
+      "map": "bradenton-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 378,
+        "White": 350,
+        "Green": 322,
+        "Blue": 280
+      },
+      "map": "bradenton-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 380,
+        "White": 356,
+        "Green": 293,
+        "Blue": 271
+      },
+      "map": "bradenton-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 416,
+        "White": 392,
+        "Green": 337,
+        "Blue": 273
+      },
+      "map": "bradenton-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 408,
+        "White": 389,
+        "Green": 339,
+        "Blue": 286
+      },
+      "map": "bradenton-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 390,
+        "White": 369,
+        "Green": 319,
+        "Blue": 279
+      },
+      "map": "bradenton-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 511,
+        "White": 484,
+        "Green": 440,
+        "Blue": 359
+      },
+      "map": "bradenton-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 174,
+        "White": 159,
+        "Green": 104,
+        "Blue": 100
+      },
+      "map": "bradenton-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 535,
+        "White": 517,
+        "Green": 438,
+        "Blue": 382
+      },
+      "map": "bradenton-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 215,
+        "White": 188,
+        "Green": 161,
+        "Blue": 146
+      },
+      "map": "bradenton-country-club-18"
+    }
+  ],
+  "version": 1
+}

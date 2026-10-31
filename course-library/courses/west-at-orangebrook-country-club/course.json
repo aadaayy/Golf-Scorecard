@@ -1,0 +1,253 @@
+{
+  "id": "west-at-orangebrook-country-club",
+  "name": "West At Orangebrook Country Club",
+  "town": "Hollywood, FL",
+  "location": {
+    "lat": 26.006221,
+    "lng": -80.173772
+  },
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 485,
+        "Web": 485,
+        "Blue": 469,
+        "White": 416,
+        "Red": 382
+      },
+      "map": "west-at-orangebrook-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 398,
+        "Web": 398,
+        "Blue": 367,
+        "White": 353,
+        "Red": 270
+      },
+      "map": "west-at-orangebrook-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 202,
+        "Web": 202,
+        "Blue": 170,
+        "White": 150,
+        "Red": 101
+      },
+      "map": "west-at-orangebrook-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 395,
+        "Web": 395,
+        "Blue": 356,
+        "White": 349,
+        "Red": 278
+      },
+      "map": "west-at-orangebrook-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 419,
+        "Web": 419,
+        "Blue": 398,
+        "White": 369,
+        "Red": 301
+      },
+      "map": "west-at-orangebrook-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 409,
+        "Web": 409,
+        "Blue": 375,
+        "White": 360,
+        "Red": 297
+      },
+      "map": "west-at-orangebrook-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 200,
+        "Web": 200,
+        "Blue": 169,
+        "White": 153,
+        "Red": 105
+      },
+      "map": "west-at-orangebrook-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 515,
+        "Web": 515,
+        "Blue": 496,
+        "White": 464,
+        "Red": 417
+      },
+      "map": "west-at-orangebrook-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 381,
+        "Web": 381,
+        "Blue": 361,
+        "White": 346,
+        "Red": 258
+      },
+      "map": "west-at-orangebrook-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 195,
+        "Web": 195,
+        "Blue": 181,
+        "White": 157,
+        "Red": 108
+      },
+      "map": "west-at-orangebrook-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 392,
+        "Web": 392,
+        "Blue": 382,
+        "White": 346,
+        "Red": 290
+      },
+      "map": "west-at-orangebrook-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 534,
+        "Web": 534,
+        "Blue": 512,
+        "White": 471,
+        "Red": 417
+      },
+      "map": "west-at-orangebrook-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 372,
+        "Web": 372,
+        "Blue": 333,
+        "White": 320,
+        "Red": 281
+      },
+      "map": "west-at-orangebrook-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Gold": 213,
+        "Web": 213,
+        "Blue": 181,
+        "White": 168,
+        "Red": 95
+      },
+      "map": "west-at-orangebrook-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 386,
+        "Web": 386,
+        "Blue": 374,
+        "White": 351,
+        "Red": 271
+      },
+      "map": "west-at-orangebrook-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 173,
+        "Web": 173,
+        "Blue": 164,
+        "White": 150,
+        "Red": 125
+      },
+      "map": "west-at-orangebrook-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 397,
+        "Web": 397,
+        "Blue": 385,
+        "White": 355,
+        "Red": 294
+      },
+      "map": "west-at-orangebrook-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 560,
+        "Web": 560,
+        "Blue": 535,
+        "White": 434,
+        "Red": 390
+      },
+      "map": "west-at-orangebrook-country-club-18"
+    }
+  ],
+  "version": 1
+}

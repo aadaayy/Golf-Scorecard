@@ -1,0 +1,127 @@
+{
+  "id": "fisher-island-club",
+  "name": "Fisher Island Club",
+  "town": "Miami Beach, FL",
+  "location": {
+    "lat": 25.76349,
+    "lng": -80.138802
+  },
+  "tees": [
+    "Gold",
+    "Black",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 331,
+        "Black": 310,
+        "Blue": 286,
+        "White": 267,
+        "Red": 252
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 436,
+        "Black": 401,
+        "Blue": 364,
+        "White": 329,
+        "Red": 289
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 131,
+        "Black": 111,
+        "Blue": 98,
+        "White": 94,
+        "Red": 75
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 445,
+        "Black": 418,
+        "Blue": 362,
+        "White": 350,
+        "Red": 328
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 380,
+        "Black": 364,
+        "Blue": 306,
+        "White": 283,
+        "Red": 267
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 368,
+        "Black": 360,
+        "Blue": 346,
+        "White": 294,
+        "Red": 270
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 167,
+        "Black": 150,
+        "Blue": 136,
+        "White": 115,
+        "Red": 95
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 271,
+        "Black": 252,
+        "Blue": 226,
+        "White": 187,
+        "Red": 165
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 526,
+        "Black": 511,
+        "Blue": 480,
+        "White": 457,
+        "Red": 433
+      }
+    }
+  ],
+  "version": 1
+}

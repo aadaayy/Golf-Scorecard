@@ -1,0 +1,291 @@
+{
+  "id": "stoneybrook-golf-club",
+  "name": "Stoneybrook Golf Club",
+  "town": "Estero, FL",
+  "location": {
+    "lat": 26.435461,
+    "lng": -81.768849
+  },
+  "tees": [
+    "Champions",
+    "Players",
+    "Tradition",
+    "Legends",
+    "Challenger",
+    "Competitor",
+    "Futures"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Champions": 473,
+        "Players": 446,
+        "Tradition": 389,
+        "Legends": 345,
+        "Challenger": 313,
+        "Competitor": 302,
+        "Futures": 265
+      },
+      "map": "stoneybrook-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Champions": 585,
+        "Players": 540,
+        "Tradition": 498,
+        "Legends": 476,
+        "Challenger": 402,
+        "Competitor": 392,
+        "Futures": 151
+      },
+      "map": "stoneybrook-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Champions": 437,
+        "Players": 393,
+        "Tradition": 351,
+        "Legends": 329,
+        "Challenger": 298,
+        "Competitor": 258,
+        "Futures": 143
+      },
+      "map": "stoneybrook-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Champions": 392,
+        "Players": 368,
+        "Tradition": 350,
+        "Legends": 321,
+        "Challenger": 265,
+        "Competitor": 238,
+        "Futures": 146
+      },
+      "map": "stoneybrook-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Champions": 200,
+        "Players": 167,
+        "Tradition": 156,
+        "Legends": 130,
+        "Challenger": 123,
+        "Competitor": 81,
+        "Futures": 81
+      },
+      "map": "stoneybrook-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Champions": 393,
+        "Players": 350,
+        "Tradition": 319,
+        "Legends": 298,
+        "Challenger": 255,
+        "Competitor": 243,
+        "Futures": 167
+      },
+      "map": "stoneybrook-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Champions": 187,
+        "Players": 169,
+        "Tradition": 146,
+        "Legends": 116,
+        "Challenger": 105,
+        "Competitor": 94,
+        "Futures": 74
+      },
+      "map": "stoneybrook-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Champions": 451,
+        "Players": 404,
+        "Tradition": 365,
+        "Legends": 348,
+        "Challenger": 314,
+        "Competitor": 300,
+        "Futures": 232
+      },
+      "map": "stoneybrook-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Champions": 580,
+        "Players": 544,
+        "Tradition": 506,
+        "Legends": 452,
+        "Challenger": 418,
+        "Competitor": 403,
+        "Futures": 320
+      },
+      "map": "stoneybrook-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Champions": 553,
+        "Players": 509,
+        "Tradition": 468,
+        "Legends": 447,
+        "Challenger": 423,
+        "Competitor": 398,
+        "Futures": 347
+      },
+      "map": "stoneybrook-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Champions": 450,
+        "Players": 408,
+        "Tradition": 369,
+        "Legends": 341,
+        "Challenger": 299,
+        "Competitor": 281,
+        "Futures": 251
+      },
+      "map": "stoneybrook-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Champions": 404,
+        "Players": 345,
+        "Tradition": 323,
+        "Legends": 287,
+        "Challenger": 254,
+        "Competitor": 238,
+        "Futures": 179
+      },
+      "map": "stoneybrook-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Champions": 358,
+        "Players": 325,
+        "Tradition": 309,
+        "Legends": 279,
+        "Challenger": 247,
+        "Competitor": 229,
+        "Futures": 247
+      },
+      "map": "stoneybrook-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Champions": 271,
+        "Players": 230,
+        "Tradition": 186,
+        "Legends": 146,
+        "Challenger": 124,
+        "Competitor": 106,
+        "Futures": 60
+      },
+      "map": "stoneybrook-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Champions": 448,
+        "Players": 397,
+        "Tradition": 378,
+        "Legends": 351,
+        "Challenger": 315,
+        "Competitor": 270,
+        "Futures": 206
+      },
+      "map": "stoneybrook-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Champions": 396,
+        "Players": 368,
+        "Tradition": 349,
+        "Legends": 288,
+        "Challenger": 264,
+        "Competitor": 241,
+        "Futures": 173
+      },
+      "map": "stoneybrook-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Champions": 229,
+        "Players": 220,
+        "Tradition": 173,
+        "Legends": 139,
+        "Challenger": 107,
+        "Competitor": 93,
+        "Futures": 70
+      },
+      "map": "stoneybrook-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Champions": 507,
+        "Players": 469,
+        "Tradition": 450,
+        "Legends": 422,
+        "Challenger": 402,
+        "Competitor": 388,
+        "Futures": 289
+      },
+      "map": "stoneybrook-golf-club-18"
+    }
+  ],
+  "version": 1
+}

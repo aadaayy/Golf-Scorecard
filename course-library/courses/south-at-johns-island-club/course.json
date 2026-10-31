@@ -1,0 +1,311 @@
+{
+  "id": "south-at-johns-island-club",
+  "name": "South At Johns Island Club",
+  "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.712156,
+    "lng": -80.377813
+  },
+  "tees": [
+    "Tournament",
+    "Web",
+    "Back",
+    "Back/Middle",
+    "Middle",
+    "Middle/Standard",
+    "Standard",
+    "Standard/Forward",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tournament": 381,
+        "Web": 379,
+        "Back": 363,
+        "Back/Middle": 363,
+        "Middle": 335,
+        "Middle/Standard": 335,
+        "Standard": 320,
+        "Standard/Forward": 320,
+        "Forward": 269
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tournament": 414,
+        "Web": 412,
+        "Back": 405,
+        "Back/Middle": 368,
+        "Middle": 368,
+        "Middle/Standard": 331,
+        "Standard": 331,
+        "Standard/Forward": 313,
+        "Forward": 313
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tournament": 441,
+        "Web": 437,
+        "Back": 417,
+        "Back/Middle": 372,
+        "Middle": 372,
+        "Middle/Standard": 348,
+        "Standard": 348,
+        "Standard/Forward": 312,
+        "Forward": 312
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tournament": 186,
+        "Web": 184,
+        "Back": 178,
+        "Back/Middle": 178,
+        "Middle": 167,
+        "Middle/Standard": 167,
+        "Standard": 127,
+        "Standard/Forward": 107,
+        "Forward": 107
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tournament": 376,
+        "Web": 375,
+        "Back": 359,
+        "Back/Middle": 350,
+        "Middle": 350,
+        "Middle/Standard": 350,
+        "Standard": 307,
+        "Standard/Forward": 307,
+        "Forward": 290
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tournament": 387,
+        "Web": 388,
+        "Back": 370,
+        "Back/Middle": 370,
+        "Middle": 328,
+        "Middle/Standard": 328,
+        "Standard": 274,
+        "Standard/Forward": 274,
+        "Forward": 239
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tournament": 184,
+        "Web": 186,
+        "Back": 178,
+        "Back/Middle": 146,
+        "Middle": 146,
+        "Middle/Standard": 146,
+        "Standard": 119,
+        "Standard/Forward": 101,
+        "Forward": 101
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Tournament": 530,
+        "Web": 531,
+        "Back": 505,
+        "Back/Middle": 505,
+        "Middle": 498,
+        "Middle/Standard": 456,
+        "Standard": 456,
+        "Standard/Forward": 338,
+        "Forward": 338
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tournament": 348,
+        "Web": 346,
+        "Back": 340,
+        "Back/Middle": 340,
+        "Middle": 314,
+        "Middle/Standard": 314,
+        "Standard": 301,
+        "Standard/Forward": 301,
+        "Forward": 273
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tournament": 401,
+        "Web": 403,
+        "Back": 388,
+        "Back/Middle": 362,
+        "Middle": 362,
+        "Middle/Standard": 326,
+        "Standard": 326,
+        "Standard/Forward": 326,
+        "Forward": 293
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Tournament": 489,
+        "Web": 486,
+        "Back": 479,
+        "Back/Middle": 479,
+        "Middle": 451,
+        "Middle/Standard": 436,
+        "Standard": 436,
+        "Standard/Forward": 395,
+        "Forward": 395
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tournament": 159,
+        "Web": 158,
+        "Back": 152,
+        "Back/Middle": 152,
+        "Middle": 140,
+        "Middle/Standard": 140,
+        "Standard": 124,
+        "Standard/Forward": 124,
+        "Forward": 95
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tournament": 376,
+        "Web": 373,
+        "Back": 368,
+        "Back/Middle": 368,
+        "Middle": 334,
+        "Middle/Standard": 325,
+        "Standard": 325,
+        "Standard/Forward": 325,
+        "Forward": 260
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Tournament": 506,
+        "Web": 510,
+        "Back": 497,
+        "Back/Middle": 489,
+        "Middle": 489,
+        "Middle/Standard": 427,
+        "Standard": 427,
+        "Standard/Forward": 367,
+        "Forward": 367
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tournament": 434,
+        "Web": 432,
+        "Back": 425,
+        "Back/Middle": 409,
+        "Middle": 409,
+        "Middle/Standard": 347,
+        "Standard": 347,
+        "Standard/Forward": 308,
+        "Forward": 308
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Tournament": 395,
+        "Web": 393,
+        "Back": 359,
+        "Back/Middle": 359,
+        "Middle": 347,
+        "Middle/Standard": 347,
+        "Standard": 322,
+        "Standard/Forward": 322,
+        "Forward": 273
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tournament": 158,
+        "Web": 157,
+        "Back": 144,
+        "Back/Middle": 119,
+        "Middle": 119,
+        "Middle/Standard": 119,
+        "Standard": 110,
+        "Standard/Forward": 110,
+        "Forward": 81
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tournament": 346,
+        "Web": 346,
+        "Back": 336,
+        "Back/Middle": 307,
+        "Middle": 307,
+        "Middle/Standard": 307,
+        "Standard": 274,
+        "Standard/Forward": 212,
+        "Forward": 212
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,196 @@
+{
+  "id": "medalist-golf-club",
+  "name": "Medalist Golf Club",
+  "town": "Hobe Sound, FL",
+  "location": {
+    "lat": 27.082652,
+    "lng": -80.149389
+  },
+  "tees": [
+    "Championship",
+    "Back"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 393,
+        "Back": 379
+      },
+      "map": "medalist-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 465,
+        "Back": 442
+      },
+      "map": "medalist-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Championship": 549,
+        "Back": 540
+      },
+      "map": "medalist-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 184,
+        "Back": 158
+      },
+      "map": "medalist-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 398,
+        "Back": 375
+      },
+      "map": "medalist-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 470,
+        "Back": 408
+      },
+      "map": "medalist-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Championship": 517,
+        "Back": 500
+      },
+      "map": "medalist-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 197,
+        "Back": 180
+      },
+      "map": "medalist-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 456,
+        "Back": 404
+      },
+      "map": "medalist-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 396,
+        "Back": 382
+      },
+      "map": "medalist-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Championship": 338,
+        "Back": 320
+      },
+      "map": "medalist-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 190,
+        "Back": 157
+      },
+      "map": "medalist-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Championship": 598,
+        "Back": 585
+      },
+      "map": "medalist-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 318,
+        "Back": 318
+      },
+      "map": "medalist-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 481,
+        "Back": 447
+      },
+      "map": "medalist-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Championship": 200,
+        "Back": 181
+      },
+      "map": "medalist-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Championship": 544,
+        "Back": 509
+      },
+      "map": "medalist-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 439,
+        "Back": 424
+      },
+      "map": "medalist-golf-club-18"
+    }
+  ],
+  "version": 1
+}

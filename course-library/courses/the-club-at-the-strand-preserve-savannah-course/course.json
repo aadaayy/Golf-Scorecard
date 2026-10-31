@@ -1,0 +1,330 @@
+{
+  "id": "the-club-at-the-strand-preserve-savannah-course",
+  "name": "The Club At The Strand Preserve Savannah Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.292532,
+    "lng": -81.747026
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Green",
+    "Green/White",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Gold/Red",
+    "Red",
+    "Scoring"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 396,
+        "Blue": 383,
+        "Green": 365,
+        "Green/White": 320,
+        "White": 320,
+        "White/Gold": 320,
+        "Gold": 305,
+        "Gold/Red": 305,
+        "Red": 248,
+        "Scoring": 248
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 578,
+        "Blue": 535,
+        "Green": 507,
+        "Green/White": 447,
+        "White": 447,
+        "White/Gold": 447,
+        "Gold": 397,
+        "Gold/Red": 388,
+        "Red": 388,
+        "Scoring": 222
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 531,
+        "Blue": 518,
+        "Green": 491,
+        "Green/White": 491,
+        "White": 454,
+        "White/Gold": 435,
+        "Gold": 435,
+        "Gold/Red": 376,
+        "Red": 376,
+        "Scoring": 230
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 233,
+        "Blue": 194,
+        "Green": 174,
+        "Green/White": 149,
+        "White": 149,
+        "White/Gold": 149,
+        "Gold": 139,
+        "Gold/Red": 139,
+        "Red": 105,
+        "Scoring": 105
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 191,
+        "Blue": 173,
+        "Green": 147,
+        "Green/White": 147,
+        "White": 120,
+        "White/Gold": 90,
+        "Gold": 90,
+        "Gold/Red": 90,
+        "Red": 71,
+        "Scoring": 71
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 468,
+        "Blue": 427,
+        "Green": 376,
+        "Green/White": 363,
+        "White": 363,
+        "White/Gold": 346,
+        "Gold": 346,
+        "Gold/Red": 262,
+        "Red": 262,
+        "Scoring": 262
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 378,
+        "Blue": 353,
+        "Green": 333,
+        "Green/White": 333,
+        "White": 298,
+        "White/Gold": 298,
+        "Gold": 273,
+        "Gold/Red": 273,
+        "Red": 251,
+        "Scoring": 251
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 353,
+        "Blue": 340,
+        "Green": 311,
+        "Green/White": 311,
+        "White": 289,
+        "White/Gold": 289,
+        "Gold": 262,
+        "Gold/Red": 262,
+        "Red": 235,
+        "Scoring": 235
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 458,
+        "Blue": 436,
+        "Green": 371,
+        "Green/White": 371,
+        "White": 360,
+        "White/Gold": 296,
+        "Gold": 296,
+        "Gold/Red": 265,
+        "Red": 265,
+        "Scoring": 205
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 357,
+        "Blue": 330,
+        "Green": 313,
+        "Green/White": 313,
+        "White": 287,
+        "White/Gold": 287,
+        "Gold": 268,
+        "Gold/Red": 268,
+        "Red": 253,
+        "Scoring": 252
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 613,
+        "Blue": 560,
+        "Green": 530,
+        "Green/White": 485,
+        "White": 485,
+        "White/Gold": 461,
+        "Gold": 461,
+        "Gold/Red": 461,
+        "Red": 425,
+        "Scoring": 287
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 549,
+        "Blue": 504,
+        "Green": 490,
+        "Green/White": 490,
+        "White": 458,
+        "White/Gold": 422,
+        "Gold": 422,
+        "Gold/Red": 422,
+        "Red": 380,
+        "Scoring": 313
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 471,
+        "Blue": 435,
+        "Green": 402,
+        "Green/White": 386,
+        "White": 386,
+        "White/Gold": 345,
+        "Gold": 345,
+        "Gold/Red": 293,
+        "Red": 293,
+        "Scoring": 204
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 385,
+        "Blue": 379,
+        "Green": 338,
+        "Green/White": 338,
+        "White": 324,
+        "White/Gold": 324,
+        "Gold": 310,
+        "Gold/Red": 268,
+        "Red": 268,
+        "Scoring": 268
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 154,
+        "Blue": 145,
+        "Green": 128,
+        "Green/White": 128,
+        "White": 117,
+        "White/Gold": 117,
+        "Gold": 86,
+        "Gold/Red": 86,
+        "Red": 69,
+        "Scoring": 69
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 413,
+        "Blue": 404,
+        "Green": 361,
+        "Green/White": 348,
+        "White": 348,
+        "White/Gold": 306,
+        "Gold": 306,
+        "Gold/Red": 292,
+        "Red": 292,
+        "Scoring": 292
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 223,
+        "Blue": 205,
+        "Green": 169,
+        "Green/White": 157,
+        "White": 157,
+        "White/Gold": 133,
+        "Gold": 133,
+        "Gold/Red": 98,
+        "Red": 98,
+        "Scoring": 98
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 407,
+        "Blue": 365,
+        "Green": 347,
+        "Green/White": 347,
+        "White": 277,
+        "White/Gold": 277,
+        "Gold": 252,
+        "Gold/Red": 242,
+        "Red": 242,
+        "Scoring": 242
+      }
+    }
+  ],
+  "version": 1
+}

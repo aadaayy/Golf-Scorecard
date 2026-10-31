@@ -1,0 +1,292 @@
+{
+  "id": "tiburon-golf-club-the-gold-course",
+  "name": "Tiburon Golf Club The Gold Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.247831,
+    "lng": -81.764888
+  },
+  "tees": [
+    "Gold",
+    "Black",
+    "Black/White",
+    "White",
+    "White/Blue",
+    "Blue",
+    "Blue/Lavender",
+    "Lavender"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 573,
+        "Black": 533,
+        "Black/White": 455,
+        "White": 455,
+        "White/Blue": 435,
+        "Blue": 435,
+        "Blue/Lavender": 401,
+        "Lavender": 401
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 440,
+        "Black": 380,
+        "Black/White": 335,
+        "White": 335,
+        "White/Blue": 315,
+        "Blue": 315,
+        "Blue/Lavender": 270,
+        "Lavender": 270
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 458,
+        "Black": 426,
+        "Black/White": 426,
+        "White": 398,
+        "White/Blue": 398,
+        "Blue": 388,
+        "Blue/Lavender": 388,
+        "Lavender": 347
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 428,
+        "Black": 393,
+        "Black/White": 393,
+        "White": 375,
+        "White/Blue": 375,
+        "Blue": 337,
+        "Blue/Lavender": 337,
+        "Lavender": 284
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 225,
+        "Black": 210,
+        "Black/White": 185,
+        "White": 185,
+        "White/Blue": 145,
+        "Blue": 145,
+        "Blue/Lavender": 113,
+        "Lavender": 113
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 600,
+        "Black": 565,
+        "Black/White": 545,
+        "White": 545,
+        "White/Blue": 519,
+        "Blue": 519,
+        "Blue/Lavender": 492,
+        "Lavender": 492
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 396,
+        "Black": 360,
+        "Black/White": 360,
+        "White": 340,
+        "White/Blue": 340,
+        "Blue": 310,
+        "Blue/Lavender": 310,
+        "Lavender": 279
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 175,
+        "Black": 150,
+        "Black/White": 150,
+        "White": 128,
+        "White/Blue": 128,
+        "Blue": 106,
+        "Blue/Lavender": 106,
+        "Lavender": 82
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 480,
+        "Black": 446,
+        "Black/White": 395,
+        "White": 395,
+        "White/Blue": 385,
+        "Blue": 385,
+        "Blue/Lavender": 333,
+        "Lavender": 333
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 365,
+        "Black": 340,
+        "Black/White": 340,
+        "White": 302,
+        "White/Blue": 302,
+        "Blue": 263,
+        "Blue/Lavender": 263,
+        "Lavender": 241
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 430,
+        "Black": 406,
+        "Black/White": 350,
+        "White": 350,
+        "White/Blue": 315,
+        "Blue": 315,
+        "Blue/Lavender": 265,
+        "Lavender": 265
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 215,
+        "Black": 185,
+        "Black/White": 156,
+        "White": 156,
+        "White/Blue": 143,
+        "Blue": 143,
+        "Blue/Lavender": 130,
+        "Lavender": 130
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 350,
+        "Black": 325,
+        "Black/White": 325,
+        "White": 312,
+        "White/Blue": 312,
+        "Blue": 296,
+        "Blue/Lavender": 296,
+        "Lavender": 237
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 578,
+        "Black": 545,
+        "Black/White": 495,
+        "White": 495,
+        "White/Blue": 485,
+        "Blue": 485,
+        "Blue/Lavender": 453,
+        "Lavender": 453
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 420,
+        "Black": 390,
+        "Black/White": 390,
+        "White": 360,
+        "White/Blue": 360,
+        "Blue": 345,
+        "Blue/Lavender": 345,
+        "Lavender": 330
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 205,
+        "Black": 170,
+        "Black/White": 170,
+        "White": 156,
+        "White/Blue": 156,
+        "Blue": 132,
+        "Blue/Lavender": 132,
+        "Lavender": 120
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 559,
+        "Black": 515,
+        "Black/White": 515,
+        "White": 480,
+        "White/Blue": 480,
+        "Blue": 464,
+        "Blue/Lavender": 464,
+        "Lavender": 442
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 485,
+        "Black": 451,
+        "Black/White": 354,
+        "White": 354,
+        "White/Blue": 328,
+        "Blue": 328,
+        "Blue/Lavender": 293,
+        "Lavender": 293
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "jupiter-country-club",
+  "name": "Jupiter Country Club",
+  "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.939777,
+    "lng": -80.161515
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 394,
+        "Gold": 369,
+        "Blue": 345,
+        "White": 311,
+        "Red": 287
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 140,
+        "Gold": 134,
+        "Blue": 116,
+        "White": 101,
+        "Red": 82
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 368,
+        "Gold": 331,
+        "Blue": 301,
+        "White": 256,
+        "Red": 238
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 514,
+        "Gold": 505,
+        "Blue": 470,
+        "White": 437,
+        "Red": 385
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 430,
+        "Gold": 382,
+        "Blue": 352,
+        "White": 322,
+        "Red": 294
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 215,
+        "Gold": 193,
+        "Blue": 164,
+        "White": 147,
+        "Red": 128
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 458,
+        "Gold": 442,
+        "Blue": 418,
+        "White": 375,
+        "Red": 345
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 442,
+        "Gold": 413,
+        "Blue": 402,
+        "White": 370,
+        "Red": 340
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 533,
+        "Gold": 492,
+        "Blue": 478,
+        "White": 451,
+        "Red": 422
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 420,
+        "Gold": 404,
+        "Blue": 376,
+        "White": 342,
+        "Red": 311
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 435,
+        "Gold": 412,
+        "Blue": 388,
+        "White": 363,
+        "Red": 322
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 626,
+        "Gold": 606,
+        "Blue": 575,
+        "White": 525,
+        "Red": 478
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 396,
+        "Gold": 362,
+        "Blue": 346,
+        "White": 328,
+        "Red": 292
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 196,
+        "Gold": 176,
+        "Blue": 155,
+        "White": 144,
+        "Red": 123
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 452,
+        "Gold": 423,
+        "Blue": 395,
+        "White": 376,
+        "Red": 336
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 555,
+        "Gold": 536,
+        "Blue": 515,
+        "White": 489,
+        "Red": 463
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 227,
+        "Gold": 189,
+        "Blue": 169,
+        "White": 132,
+        "Red": 113
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 456,
+        "Gold": 434,
+        "Blue": 403,
+        "White": 362,
+        "Red": 330
+      }
+    }
+  ],
+  "version": 1
+}

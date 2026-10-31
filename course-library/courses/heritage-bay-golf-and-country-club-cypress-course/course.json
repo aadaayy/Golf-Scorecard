@@ -1,0 +1,136 @@
+{
+  "id": "heritage-bay-golf-and-country-club-cypress-course",
+  "name": "Heritage Bay Golf And Country Club Cypress Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.284704,
+    "lng": -81.662287
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 395,
+        "Blue": 362,
+        "White": 336,
+        "Green": 307,
+        "Red": 259
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 438,
+        "Blue": 386,
+        "White": 372,
+        "Green": 346,
+        "Red": 287
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 326,
+        "Blue": 302,
+        "White": 276,
+        "Green": 262,
+        "Red": 241
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 234,
+        "Blue": 174,
+        "White": 153,
+        "Green": 133,
+        "Red": 115
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 590,
+        "Blue": 527,
+        "White": 497,
+        "Green": 462,
+        "Red": 411
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 404,
+        "Blue": 404,
+        "White": 386,
+        "Green": 356,
+        "Red": 316
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 523,
+        "Blue": 494,
+        "White": 465,
+        "Green": 430,
+        "Red": 386
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 167,
+        "Blue": 160,
+        "White": 121,
+        "Green": 110,
+        "Red": 96
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 421,
+        "Blue": 394,
+        "White": 366,
+        "Green": 338,
+        "Red": 282
+      },
+      "map": "heritage-bay-golf-and-country-club-cypress-course-09"
+    }
+  ],
+  "version": 1
+}

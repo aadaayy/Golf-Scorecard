@@ -1,0 +1,107 @@
+{
+  "id": "pines-at-woodmont-country-club",
+  "name": "Pines At Woodmont Country Club",
+  "town": "Tamarac, FL",
+  "location": {
+    "lat": 26.221606,
+    "lng": -80.263319
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 551,
+        "White": 527,
+        "Red": 413
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 382,
+        "White": 368,
+        "Red": 248
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 365,
+        "White": 341,
+        "Red": 263
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 200,
+        "White": 186,
+        "Red": 148
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 376,
+        "White": 355,
+        "Red": 257
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 386,
+        "White": 365,
+        "Red": 304
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 203,
+        "White": 188,
+        "Red": 135
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 516,
+        "White": 497,
+        "Red": 371
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 343,
+        "White": 326,
+        "Red": 252
+      }
+    }
+  ],
+  "version": 1
+}

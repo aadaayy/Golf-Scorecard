@@ -1,0 +1,234 @@
+{
+  "id": "indian-spring-country-club-east-course",
+  "name": "Indian Spring Country Club East Course",
+  "town": "Boynton Beach, FL",
+  "location": {
+    "lat": 26.507124,
+    "lng": -80.136911
+  },
+  "tees": [
+    "Gold/Championship",
+    "Blue/Players",
+    "White/Members",
+    "Green/Middle"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold/Championship": 557,
+        "Blue/Players": 500,
+        "White/Members": 476,
+        "Green/Middle": 413
+      },
+      "map": "indian-spring-country-club-east-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold/Championship": 194,
+        "Blue/Players": 178,
+        "White/Members": 159,
+        "Green/Middle": 125
+      },
+      "map": "indian-spring-country-club-east-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold/Championship": 439,
+        "Blue/Players": 404,
+        "White/Members": 358,
+        "Green/Middle": 272
+      },
+      "map": "indian-spring-country-club-east-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold/Championship": 359,
+        "Blue/Players": 334,
+        "White/Members": 309,
+        "Green/Middle": 285
+      },
+      "map": "indian-spring-country-club-east-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold/Championship": 374,
+        "Blue/Players": 351,
+        "White/Members": 327,
+        "Green/Middle": 288
+      },
+      "map": "indian-spring-country-club-east-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold/Championship": 404,
+        "Blue/Players": 378,
+        "White/Members": 343,
+        "Green/Middle": 276
+      },
+      "map": "indian-spring-country-club-east-course-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold/Championship": 579,
+        "Blue/Players": 543,
+        "White/Members": 531,
+        "Green/Middle": 472
+      },
+      "map": "indian-spring-country-club-east-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold/Championship": 385,
+        "Blue/Players": 347,
+        "White/Members": 273,
+        "Green/Middle": 258
+      },
+      "map": "indian-spring-country-club-east-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold/Championship": 202,
+        "Blue/Players": 173,
+        "White/Members": 148,
+        "Green/Middle": 119
+      },
+      "map": "indian-spring-country-club-east-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold/Championship": 540,
+        "Blue/Players": 520,
+        "White/Members": 444,
+        "Green/Middle": 431
+      },
+      "map": "indian-spring-country-club-east-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold/Championship": 380,
+        "Blue/Players": 358,
+        "White/Members": 325,
+        "Green/Middle": 293
+      },
+      "map": "indian-spring-country-club-east-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold/Championship": 377,
+        "Blue/Players": 355,
+        "White/Members": 309,
+        "Green/Middle": 283
+      },
+      "map": "indian-spring-country-club-east-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold/Championship": 168,
+        "Blue/Players": 142,
+        "White/Members": 128,
+        "Green/Middle": 115
+      },
+      "map": "indian-spring-country-club-east-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold/Championship": 449,
+        "Blue/Players": 394,
+        "White/Members": 354,
+        "Green/Middle": 315
+      },
+      "map": "indian-spring-country-club-east-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold/Championship": 408,
+        "Blue/Players": 375,
+        "White/Members": 325,
+        "Green/Middle": 313
+      },
+      "map": "indian-spring-country-club-east-course-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold/Championship": 571,
+        "Blue/Players": 525,
+        "White/Members": 495,
+        "Green/Middle": 433
+      },
+      "map": "indian-spring-country-club-east-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold/Championship": 243,
+        "Blue/Players": 199,
+        "White/Members": 176,
+        "Green/Middle": 149
+      },
+      "map": "indian-spring-country-club-east-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold/Championship": 441,
+        "Blue/Players": 396,
+        "White/Members": 353,
+        "Green/Middle": 320
+      },
+      "map": "indian-spring-country-club-east-course-18"
+    }
+  ],
+  "version": 1
+}

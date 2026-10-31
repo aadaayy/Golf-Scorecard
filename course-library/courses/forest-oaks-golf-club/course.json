@@ -1,0 +1,197 @@
+{
+  "id": "forest-oaks-golf-club",
+  "name": "Forest Oaks Golf Club",
+  "town": "Greenacres, FL",
+  "location": {
+    "lat": 26.610455,
+    "lng": -80.162363
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 412,
+        "White": 402,
+        "Red": 325
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 466,
+        "White": 391,
+        "Red": 324
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 240,
+        "White": 224,
+        "Red": 152
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 330,
+        "White": 315,
+        "Red": 288
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 347,
+        "White": 334,
+        "Red": 285
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 165,
+        "White": 147,
+        "Red": 132
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 410,
+        "White": 365,
+        "Red": 338
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 120,
+        "White": 107,
+        "Red": 73
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 397,
+        "White": 377,
+        "Red": 310
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 470,
+        "White": 412,
+        "Red": 308
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 195,
+        "White": 181,
+        "Red": 136
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 483,
+        "White": 462,
+        "Red": 355
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 187,
+        "White": 171,
+        "Red": 153
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 152,
+        "White": 135,
+        "Red": 125
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 380,
+        "White": 361,
+        "Red": 299
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 197,
+        "White": 172,
+        "Red": 134
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 369,
+        "White": 346,
+        "Red": 255
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 443,
+        "White": 406,
+        "Red": 375
+      }
+    }
+  ],
+  "version": 1
+}

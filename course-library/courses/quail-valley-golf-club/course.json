@@ -1,0 +1,291 @@
+{
+  "id": "quail-valley-golf-club",
+  "name": "Quail Valley Golf Club",
+  "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.714775,
+    "lng": -80.481573
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Web",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 414,
+        "Gold": 398,
+        "Web": 380,
+        "Blue": 378,
+        "White": 355,
+        "Green": 337,
+        "Red": 277
+      },
+      "map": "quail-valley-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 183,
+        "Gold": 174,
+        "Web": 165,
+        "Blue": 165,
+        "White": 155,
+        "Green": 145,
+        "Red": 131
+      },
+      "map": "quail-valley-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 622,
+        "Gold": 563,
+        "Web": 540,
+        "Blue": 484,
+        "White": 472,
+        "Green": 443,
+        "Red": 420
+      },
+      "map": "quail-valley-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 436,
+        "Gold": 420,
+        "Web": 387,
+        "Blue": 386,
+        "White": 364,
+        "Green": 337,
+        "Red": 299
+      },
+      "map": "quail-valley-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 455,
+        "Gold": 406,
+        "Web": 383,
+        "Blue": 385,
+        "White": 362,
+        "Green": 338,
+        "Red": 296
+      },
+      "map": "quail-valley-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 394,
+        "Gold": 373,
+        "Web": 355,
+        "Blue": 353,
+        "White": 335,
+        "Green": 314,
+        "Red": 279
+      },
+      "map": "quail-valley-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 575,
+        "Gold": 536,
+        "Web": 520,
+        "Blue": 516,
+        "White": 489,
+        "Green": 454,
+        "Red": 413
+      },
+      "map": "quail-valley-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 188,
+        "Gold": 172,
+        "Web": 172,
+        "Blue": 168,
+        "White": 158,
+        "Green": 146,
+        "Red": 129
+      },
+      "map": "quail-valley-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 437,
+        "Gold": 396,
+        "Web": 363,
+        "Blue": 367,
+        "White": 339,
+        "Green": 329,
+        "Red": 271
+      },
+      "map": "quail-valley-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 565,
+        "Gold": 524,
+        "Web": 510,
+        "Blue": 497,
+        "White": 470,
+        "Green": 444,
+        "Red": 423
+      },
+      "map": "quail-valley-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 444,
+        "Gold": 370,
+        "Web": 350,
+        "Blue": 351,
+        "White": 334,
+        "Green": 312,
+        "Red": 276
+      },
+      "map": "quail-valley-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 202,
+        "Gold": 166,
+        "Web": 160,
+        "Blue": 159,
+        "White": 145,
+        "Green": 138,
+        "Red": 121
+      },
+      "map": "quail-valley-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 465,
+        "Gold": 409,
+        "Web": 395,
+        "Blue": 386,
+        "White": 361,
+        "Green": 333,
+        "Red": 305
+      },
+      "map": "quail-valley-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 530,
+        "Gold": 507,
+        "Web": 495,
+        "Blue": 486,
+        "White": 464,
+        "Green": 439,
+        "Red": 413
+      },
+      "map": "quail-valley-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 429,
+        "Gold": 406,
+        "Web": 386,
+        "Blue": 381,
+        "White": 360,
+        "Green": 339,
+        "Red": 294
+      },
+      "map": "quail-valley-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 256,
+        "Gold": 223,
+        "Web": 200,
+        "Blue": 197,
+        "White": 176,
+        "Green": 159,
+        "Red": 143
+      },
+      "map": "quail-valley-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 413,
+        "Gold": 391,
+        "Web": 370,
+        "Blue": 368,
+        "White": 345,
+        "Green": 313,
+        "Red": 286
+      },
+      "map": "quail-valley-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 452,
+        "Gold": 430,
+        "Web": 409,
+        "Blue": 407,
+        "White": 382,
+        "Green": 355,
+        "Red": 305
+      },
+      "map": "quail-valley-golf-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,234 @@
+{
+  "id": "pinemoor-west-golf-club",
+  "name": "Pinemoor West Golf Club",
+  "town": "Rotonda West, FL",
+  "location": {
+    "lat": 26.910615,
+    "lng": -82.281768
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 420,
+        "Blue": 403,
+        "White": 360,
+        "Red": 339
+      },
+      "map": "pinemoor-west-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 568,
+        "Blue": 544,
+        "White": 523,
+        "Red": 490
+      },
+      "map": "pinemoor-west-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 363,
+        "Blue": 351,
+        "White": 326,
+        "Red": 286
+      },
+      "map": "pinemoor-west-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 366,
+        "Blue": 340,
+        "White": 321,
+        "Red": 302
+      },
+      "map": "pinemoor-west-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 205,
+        "Blue": 184,
+        "White": 157,
+        "Red": 134
+      },
+      "map": "pinemoor-west-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 579,
+        "Blue": 567,
+        "White": 556,
+        "Red": 495
+      },
+      "map": "pinemoor-west-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 573,
+        "Blue": 551,
+        "White": 519,
+        "Red": 491
+      },
+      "map": "pinemoor-west-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 186,
+        "Blue": 160,
+        "White": 144,
+        "Red": 125
+      },
+      "map": "pinemoor-west-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 380,
+        "Blue": 365,
+        "White": 350,
+        "Red": 335
+      },
+      "map": "pinemoor-west-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 155,
+        "Blue": 145,
+        "White": 125,
+        "Red": 96
+      },
+      "map": "pinemoor-west-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 313,
+        "Blue": 291,
+        "White": 270,
+        "Red": 255
+      },
+      "map": "pinemoor-west-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 317,
+        "Blue": 302,
+        "White": 278,
+        "Red": 268
+      },
+      "map": "pinemoor-west-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 155,
+        "Blue": 132,
+        "White": 112,
+        "Red": 99
+      },
+      "map": "pinemoor-west-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 158,
+        "Blue": 152,
+        "White": 142,
+        "Red": 121
+      },
+      "map": "pinemoor-west-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 352,
+        "Blue": 340,
+        "White": 320,
+        "Red": 263
+      },
+      "map": "pinemoor-west-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 192,
+        "Blue": 175,
+        "White": 170,
+        "Red": 156
+      },
+      "map": "pinemoor-west-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 435,
+        "Blue": 424,
+        "White": 409,
+        "Red": 392
+      },
+      "map": "pinemoor-west-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 340,
+        "Blue": 319,
+        "White": 299,
+        "Red": 278
+      },
+      "map": "pinemoor-west-golf-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "boca-west-country-club-fazio-ii",
+  "name": "Boca West Country Club Fazio Ii",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.379807,
+    "lng": -80.159912
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 409,
+        "Gold": 400,
+        "Blue": 372,
+        "White": 352,
+        "Green": 301
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 548,
+        "Gold": 538,
+        "Blue": 518,
+        "White": 498,
+        "Green": 420
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 360,
+        "Gold": 340,
+        "Blue": 329,
+        "White": 302,
+        "Green": 256
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 173,
+        "Gold": 166,
+        "Blue": 166,
+        "White": 149,
+        "Green": 125
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 367,
+        "Gold": 367,
+        "Blue": 358,
+        "White": 333,
+        "Green": 297
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 205,
+        "Gold": 192,
+        "Blue": 168,
+        "White": 152,
+        "Green": 103
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 353,
+        "Gold": 353,
+        "Blue": 343,
+        "White": 326,
+        "Green": 291
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 414,
+        "Gold": 400,
+        "Blue": 379,
+        "White": 361,
+        "Green": 327
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 397,
+        "Gold": 390,
+        "Blue": 368,
+        "White": 350,
+        "Green": 315
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 536,
+        "Gold": 511,
+        "Blue": 492,
+        "White": 460,
+        "Green": 389
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 370,
+        "Gold": 370,
+        "Blue": 348,
+        "White": 323,
+        "Green": 280
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 195,
+        "Gold": 179,
+        "Blue": 152,
+        "White": 142,
+        "Green": 114
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 562,
+        "Gold": 531,
+        "Blue": 488,
+        "White": 468,
+        "Green": 422
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 411,
+        "Gold": 390,
+        "Blue": 370,
+        "White": 348,
+        "Green": 315
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 390,
+        "Gold": 377,
+        "Blue": 360,
+        "White": 334,
+        "Green": 308
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 148,
+        "Gold": 145,
+        "Blue": 130,
+        "White": 115,
+        "Green": 96
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 450,
+        "Gold": 435,
+        "Blue": 402,
+        "White": 341,
+        "Green": 294
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 457,
+        "Gold": 416,
+        "Blue": 390,
+        "White": 340,
+        "Green": 287
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,291 @@
+{
+  "id": "turtle-creek-golf-club",
+  "name": "Turtle Creek Golf Club",
+  "town": "Tequesta, FL",
+  "location": {
+    "lat": 26.976309,
+    "lng": -80.117966
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Red",
+    "Red",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 474,
+        "Blue": 456,
+        "Blue/White": 431,
+        "White": 431,
+        "White/Red": 431,
+        "Red": 357,
+        "Orange": 275
+      },
+      "map": "turtle-creek-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 334,
+        "Blue": 317,
+        "Blue/White": 317,
+        "White": 278,
+        "White/Red": 278,
+        "Red": 243,
+        "Orange": 163
+      },
+      "map": "turtle-creek-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 163,
+        "Blue": 148,
+        "Blue/White": 148,
+        "White": 129,
+        "White/Red": 129,
+        "Red": 90,
+        "Orange": 90
+      },
+      "map": "turtle-creek-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 378,
+        "Blue": 359,
+        "Blue/White": 310,
+        "White": 310,
+        "White/Red": 264,
+        "Red": 264,
+        "Orange": 206
+      },
+      "map": "turtle-creek-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 393,
+        "Blue": 377,
+        "Blue/White": 315,
+        "White": 315,
+        "White/Red": 288,
+        "Red": 288,
+        "Orange": 211
+      },
+      "map": "turtle-creek-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 146,
+        "Blue": 143,
+        "Blue/White": 143,
+        "White": 131,
+        "White/Red": 131,
+        "Red": 119,
+        "Orange": 119
+      },
+      "map": "turtle-creek-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 480,
+        "Blue": 464,
+        "Blue/White": 426,
+        "White": 426,
+        "White/Red": 372,
+        "Red": 372,
+        "Orange": 279
+      },
+      "map": "turtle-creek-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 328,
+        "Blue": 316,
+        "Blue/White": 316,
+        "White": 299,
+        "White/Red": 299,
+        "Red": 250,
+        "Orange": 189
+      },
+      "map": "turtle-creek-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 338,
+        "Blue": 317,
+        "Blue/White": 317,
+        "White": 298,
+        "White/Red": 206,
+        "Red": 206,
+        "Orange": 172
+      },
+      "map": "turtle-creek-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 381,
+        "Blue": 364,
+        "Blue/White": 335,
+        "White": 335,
+        "White/Red": 287,
+        "Red": 287,
+        "Orange": 213
+      },
+      "map": "turtle-creek-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 351,
+        "Blue": 337,
+        "Blue/White": 337,
+        "White": 296,
+        "White/Red": 296,
+        "Red": 259,
+        "Orange": 188
+      },
+      "map": "turtle-creek-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 404,
+        "Blue": 385,
+        "Blue/White": 366,
+        "White": 366,
+        "White/Red": 318,
+        "Red": 318,
+        "Orange": 249
+      },
+      "map": "turtle-creek-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 189,
+        "Blue": 175,
+        "Blue/White": 175,
+        "White": 161,
+        "White/Red": 161,
+        "Red": 129,
+        "Orange": 129
+      },
+      "map": "turtle-creek-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Gold": 467,
+        "Blue": 451,
+        "Blue/White": 451,
+        "White": 406,
+        "White/Red": 406,
+        "Red": 373,
+        "Orange": 275
+      },
+      "map": "turtle-creek-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 170,
+        "Blue": 155,
+        "Blue/White": 140,
+        "White": 140,
+        "White/Red": 140,
+        "Red": 78,
+        "Orange": 78
+      },
+      "map": "turtle-creek-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 408,
+        "Blue": 393,
+        "Blue/White": 308,
+        "White": 308,
+        "White/Red": 265,
+        "Red": 265,
+        "Orange": 196
+      },
+      "map": "turtle-creek-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 493,
+        "Blue": 469,
+        "Blue/White": 469,
+        "White": 424,
+        "White/Red": 395,
+        "Red": 395,
+        "Orange": 279
+      },
+      "map": "turtle-creek-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 353,
+        "Blue": 338,
+        "Blue/White": 297,
+        "White": 297,
+        "White/Red": 216,
+        "Red": 216,
+        "Orange": 177
+      },
+      "map": "turtle-creek-golf-club-18"
+    }
+  ],
+  "version": 1
+}

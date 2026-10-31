@@ -1,0 +1,253 @@
+{
+  "id": "trump-national-doral-miami-blue-monster-course",
+  "name": "Trump National Doral Miami Blue Monster Course",
+  "town": "Doral, FL",
+  "location": {
+    "lat": 25.812967,
+    "lng": -80.338718
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 578,
+        "Gold": 559,
+        "Blue": 543,
+        "White": 528,
+        "Red": 433
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 446,
+        "Gold": 381,
+        "Blue": 364,
+        "White": 348,
+        "Red": 325
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 440,
+        "Gold": 404,
+        "Blue": 393,
+        "White": 361,
+        "Red": 297
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 227,
+        "Gold": 196,
+        "Blue": 176,
+        "White": 159,
+        "Red": 135
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 419,
+        "Gold": 402,
+        "Blue": 378,
+        "White": 354,
+        "Red": 314
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 430,
+        "Gold": 416,
+        "Blue": 402,
+        "White": 382,
+        "Red": 348
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 472,
+        "Gold": 442,
+        "Blue": 435,
+        "White": 420,
+        "Red": 390
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 550,
+        "Gold": 528,
+        "Blue": 497,
+        "White": 469,
+        "Red": 414
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 216,
+        "Gold": 207,
+        "Blue": 185,
+        "White": 180,
+        "Red": 143
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 608,
+        "Gold": 572,
+        "Blue": 560,
+        "White": 509,
+        "Red": 418
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 428,
+        "Gold": 344,
+        "Blue": 326,
+        "White": 310,
+        "Red": 285
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 600,
+        "Gold": 589,
+        "Blue": 573,
+        "White": 557,
+        "Red": 490
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 245,
+        "Gold": 230,
+        "Blue": 210,
+        "White": 197,
+        "Red": 172
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 475,
+        "Gold": 439,
+        "Blue": 418,
+        "White": 398,
+        "Red": 305
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 183,
+        "Gold": 157,
+        "Blue": 133,
+        "White": 126,
+        "Red": 117
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 370,
+        "Gold": 325,
+        "Blue": 313,
+        "White": 280,
+        "Red": 252
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 430,
+        "Gold": 410,
+        "Blue": 386,
+        "White": 370,
+        "Red": 289
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 473,
+        "Gold": 433,
+        "Blue": 406,
+        "White": 386,
+        "Red": 336
+      },
+      "map": "trump-national-doral-miami-blue-monster-course-18"
+    }
+  ],
+  "version": 1
+}

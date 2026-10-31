@@ -1,0 +1,292 @@
+{
+  "id": "shell-bay-club",
+  "name": "Shell Bay Club",
+  "town": "Hallandale Beach, FL",
+  "location": {
+    "lat": 25.992743,
+    "lng": -80.129659
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Black/Silver",
+    "Silver",
+    "Silver/Navy",
+    "Navy",
+    "Navy/Gold",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 412,
+        "Web": 412,
+        "Black/Silver": 412,
+        "Silver": 388,
+        "Silver/Navy": 388,
+        "Navy": 350,
+        "Navy/Gold": 299,
+        "Gold": 299
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 525,
+        "Web": 525,
+        "Black/Silver": 525,
+        "Silver": 510,
+        "Silver/Navy": 470,
+        "Navy": 470,
+        "Navy/Gold": 385,
+        "Gold": 385
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 195,
+        "Web": 195,
+        "Black/Silver": 195,
+        "Silver": 165,
+        "Silver/Navy": 135,
+        "Navy": 135,
+        "Navy/Gold": 135,
+        "Gold": 107
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 427,
+        "Web": 427,
+        "Black/Silver": 409,
+        "Silver": 406,
+        "Silver/Navy": 383,
+        "Navy": 383,
+        "Navy/Gold": 338,
+        "Gold": 338
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 291,
+        "Web": 291,
+        "Black/Silver": 235,
+        "Silver": 235,
+        "Silver/Navy": 195,
+        "Navy": 195,
+        "Navy/Gold": 158,
+        "Gold": 158
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 418,
+        "Web": 418,
+        "Black/Silver": 385,
+        "Silver": 385,
+        "Silver/Navy": 385,
+        "Navy": 359,
+        "Navy/Gold": 359,
+        "Gold": 290
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 378,
+        "Web": 378,
+        "Black/Silver": 378,
+        "Silver": 365,
+        "Silver/Navy": 365,
+        "Navy": 353,
+        "Navy/Gold": 353,
+        "Gold": 275
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 490,
+        "Web": 490,
+        "Black/Silver": 429,
+        "Silver": 429,
+        "Silver/Navy": 410,
+        "Navy": 410,
+        "Navy/Gold": 345,
+        "Gold": 345
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 344,
+        "Web": 344,
+        "Black/Silver": 344,
+        "Silver": 338,
+        "Silver/Navy": 338,
+        "Navy": 312,
+        "Navy/Gold": 312,
+        "Gold": 263
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 468,
+        "Web": 468,
+        "Black/Silver": 437,
+        "Silver": 437,
+        "Silver/Navy": 403,
+        "Navy": 403,
+        "Navy/Gold": 359,
+        "Gold": 359
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 627,
+        "Web": 627,
+        "Black/Silver": 545,
+        "Silver": 545,
+        "Silver/Navy": 499,
+        "Navy": 499,
+        "Navy/Gold": 411,
+        "Gold": 411
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 450,
+        "Web": 450,
+        "Black/Silver": 376,
+        "Silver": 376,
+        "Silver/Navy": 376,
+        "Navy": 315,
+        "Navy/Gold": 315,
+        "Gold": 250
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 360,
+        "Web": 360,
+        "Black/Silver": 360,
+        "Silver": 320,
+        "Silver/Navy": 320,
+        "Navy": 300,
+        "Navy/Gold": 300,
+        "Gold": 230
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 189,
+        "Web": 189,
+        "Black/Silver": 189,
+        "Silver": 180,
+        "Silver/Navy": 153,
+        "Navy": 153,
+        "Navy/Gold": 126,
+        "Gold": 126
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 479,
+        "Web": 479,
+        "Black/Silver": 407,
+        "Silver": 407,
+        "Silver/Navy": 366,
+        "Navy": 366,
+        "Navy/Gold": 366,
+        "Gold": 310
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 540,
+        "Web": 540,
+        "Black/Silver": 540,
+        "Silver": 514,
+        "Silver/Navy": 514,
+        "Navy": 482,
+        "Navy/Gold": 428,
+        "Gold": 428
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 199,
+        "Web": 199,
+        "Black/Silver": 199,
+        "Silver": 176,
+        "Silver/Navy": 147,
+        "Navy": 147,
+        "Navy/Gold": 147,
+        "Gold": 125
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 462,
+        "Web": 462,
+        "Black/Silver": 396,
+        "Silver": 396,
+        "Silver/Navy": 380,
+        "Navy": 380,
+        "Navy/Gold": 303,
+        "Gold": 303
+      }
+    }
+  ],
+  "version": 1
+}

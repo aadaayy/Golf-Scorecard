@@ -1,0 +1,272 @@
+{
+  "id": "lago-mar-country-club",
+  "name": "Lago Mar Country Club",
+  "town": "Fort Lauderdale, FL",
+  "location": {
+    "lat": 26.125712,
+    "lng": -80.318285
+  },
+  "tees": [
+    "#1",
+    "#2",
+    "#3",
+    "#4",
+    "Member",
+    "#5"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "#1": 408,
+        "#2": 373,
+        "#3": 365,
+        "#4": 333,
+        "Member": 333,
+        "#5": 305
+      },
+      "map": "lago-mar-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "#1": 383,
+        "#2": 353,
+        "#3": 288,
+        "#4": 279,
+        "Member": 279,
+        "#5": 254
+      },
+      "map": "lago-mar-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "#1": 463,
+        "#2": 445,
+        "#3": 389,
+        "#4": 380,
+        "Member": 350,
+        "#5": 350
+      },
+      "map": "lago-mar-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "#1": 567,
+        "#2": 527,
+        "#3": 499,
+        "#4": 482,
+        "Member": 450,
+        "#5": 450
+      },
+      "map": "lago-mar-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "#1": 132,
+        "#2": 132,
+        "#3": 117,
+        "#4": 109,
+        "Member": 109,
+        "#5": 92
+      },
+      "map": "lago-mar-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "#1": 368,
+        "#2": 356,
+        "#3": 326,
+        "#4": 314,
+        "Member": 288,
+        "#5": 288
+      },
+      "map": "lago-mar-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "#1": 552,
+        "#2": 540,
+        "#3": 468,
+        "#4": 459,
+        "Member": 459,
+        "#5": 383
+      },
+      "map": "lago-mar-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "#1": 187,
+        "#2": 168,
+        "#3": 158,
+        "#4": 133,
+        "Member": 129,
+        "#5": 129
+      },
+      "map": "lago-mar-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "#1": 460,
+        "#2": 440,
+        "#3": 371,
+        "#4": 360,
+        "Member": 327,
+        "#5": 327
+      },
+      "map": "lago-mar-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "#1": 544,
+        "#2": 530,
+        "#3": 510,
+        "#4": 478,
+        "Member": 442,
+        "#5": 442
+      },
+      "map": "lago-mar-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "#1": 435,
+        "#2": 407,
+        "#3": 381,
+        "#4": 351,
+        "Member": 287,
+        "#5": 287
+      },
+      "map": "lago-mar-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "#1": 449,
+        "#2": 407,
+        "#3": 376,
+        "#4": 351,
+        "Member": 344,
+        "#5": 344
+      },
+      "map": "lago-mar-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "#1": 524,
+        "#2": 506,
+        "#3": 498,
+        "#4": 481,
+        "Member": 481,
+        "#5": 419
+      },
+      "map": "lago-mar-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "#1": 210,
+        "#2": 175,
+        "#3": 163,
+        "#4": 144,
+        "Member": 144,
+        "#5": 132
+      },
+      "map": "lago-mar-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "#1": 374,
+        "#2": 349,
+        "#3": 338,
+        "#4": 308,
+        "Member": 308,
+        "#5": 301
+      },
+      "map": "lago-mar-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "#1": 404,
+        "#2": 359,
+        "#3": 342,
+        "#4": 313,
+        "Member": 313,
+        "#5": 302
+      },
+      "map": "lago-mar-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "#1": 167,
+        "#2": 158,
+        "#3": 146,
+        "#4": 132,
+        "Member": 99,
+        "#5": 99
+      },
+      "map": "lago-mar-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "#1": 409,
+        "#2": 382,
+        "#3": 350,
+        "#4": 323,
+        "Member": 284,
+        "#5": 284
+      },
+      "map": "lago-mar-country-club-18"
+    }
+  ],
+  "version": 1
+}

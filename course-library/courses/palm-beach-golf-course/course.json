@@ -1,0 +1,196 @@
+{
+  "id": "palm-beach-golf-course",
+  "name": "Palm Beach Golf Course",
+  "town": "Palm Beach, FL",
+  "location": {
+    "lat": 26.632223,
+    "lng": -80.038003
+  },
+  "tees": [
+    "Black",
+    "Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 167,
+        "Blue": 147
+      },
+      "map": "palm-beach-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 126,
+        "Blue": 110
+      },
+      "map": "palm-beach-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 196,
+        "Blue": 164
+      },
+      "map": "palm-beach-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 191,
+        "Blue": 162
+      },
+      "map": "palm-beach-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 176,
+        "Blue": 147
+      },
+      "map": "palm-beach-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 128,
+        "Blue": 103
+      },
+      "map": "palm-beach-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 108,
+        "Blue": 89
+      },
+      "map": "palm-beach-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 133,
+        "Blue": 112
+      },
+      "map": "palm-beach-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 81,
+        "Blue": 66
+      },
+      "map": "palm-beach-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 112,
+        "Blue": 91
+      },
+      "map": "palm-beach-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 108,
+        "Blue": 82
+      },
+      "map": "palm-beach-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 126,
+        "Blue": 104
+      },
+      "map": "palm-beach-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 127,
+        "Blue": 108
+      },
+      "map": "palm-beach-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 129,
+        "Blue": 110
+      },
+      "map": "palm-beach-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 156,
+        "Blue": 127
+      },
+      "map": "palm-beach-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 117,
+        "Blue": 103
+      },
+      "map": "palm-beach-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 148,
+        "Blue": 120
+      },
+      "map": "palm-beach-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 163,
+        "Blue": 134
+      },
+      "map": "palm-beach-golf-course-18"
+    }
+  ],
+  "version": 1
+}

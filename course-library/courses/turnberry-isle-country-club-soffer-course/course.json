@@ -1,0 +1,292 @@
+{
+  "id": "turnberry-isle-country-club-soffer-course",
+  "name": "Turnberry Isle Country Club Soffer Course",
+  "town": "Aventura, FL",
+  "location": {
+    "lat": 25.960639,
+    "lng": -80.137564
+  },
+  "tees": [
+    "Web",
+    "Black",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Green",
+    "Green/Gold",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 390,
+        "Black": 420,
+        "Blue": 311,
+        "Blue/White": 311,
+        "White": 287,
+        "Green": 257,
+        "Green/Gold": 257,
+        "Gold": 237
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Web": 558,
+        "Black": 558,
+        "Blue": 508,
+        "Blue/White": 508,
+        "White": 479,
+        "Green": 445,
+        "Green/Gold": 412,
+        "Gold": 412
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 163,
+        "Black": 163,
+        "Blue": 139,
+        "Blue/White": 139,
+        "White": 121,
+        "Green": 120,
+        "Green/Gold": 109,
+        "Gold": 109
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 483,
+        "Black": 483,
+        "Blue": 416,
+        "Blue/White": 375,
+        "White": 375,
+        "Green": 347,
+        "Green/Gold": 323,
+        "Gold": 323
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 452,
+        "Black": 472,
+        "Blue": 412,
+        "Blue/White": 395,
+        "White": 395,
+        "Green": 371,
+        "Green/Gold": 350,
+        "Gold": 350
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Web": 574,
+        "Black": 574,
+        "Blue": 505,
+        "Blue/White": 505,
+        "White": 468,
+        "Green": 423,
+        "Green/Gold": 387,
+        "Gold": 387
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Web": 190,
+        "Black": 190,
+        "Blue": 165,
+        "Blue/White": 165,
+        "White": 138,
+        "Green": 123,
+        "Green/Gold": 106,
+        "Gold": 106
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Web": 405,
+        "Black": 445,
+        "Blue": 349,
+        "Blue/White": 349,
+        "White": 316,
+        "Green": 274,
+        "Green/Gold": 274,
+        "Gold": 239
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 402,
+        "Black": 422,
+        "Blue": 362,
+        "Blue/White": 362,
+        "White": 337,
+        "Green": 314,
+        "Green/Gold": 284,
+        "Gold": 284
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 445,
+        "Black": 445,
+        "Blue": 400,
+        "Blue/White": 364,
+        "White": 364,
+        "Green": 326,
+        "Green/Gold": 326,
+        "Gold": 294
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Web": 537,
+        "Black": 537,
+        "Blue": 466,
+        "Blue/White": 466,
+        "White": 438,
+        "Green": 408,
+        "Green/Gold": 378,
+        "Gold": 378
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 428,
+        "Black": 428,
+        "Blue": 367,
+        "Blue/White": 367,
+        "White": 342,
+        "Green": 325,
+        "Green/Gold": 237,
+        "Gold": 237
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 192,
+        "Black": 192,
+        "Blue": 165,
+        "Blue/White": 165,
+        "White": 142,
+        "Green": 120,
+        "Green/Gold": 101,
+        "Gold": 101
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 435,
+        "Black": 435,
+        "Blue": 391,
+        "Blue/White": 391,
+        "White": 363,
+        "Green": 337,
+        "Green/Gold": 267,
+        "Gold": 267
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Web": 235,
+        "Black": 235,
+        "Blue": 197,
+        "Blue/White": 178,
+        "White": 178,
+        "Green": 152,
+        "Green/Gold": 120,
+        "Gold": 120
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Web": 403,
+        "Black": 403,
+        "Blue": 348,
+        "Blue/White": 348,
+        "White": 323,
+        "Green": 301,
+        "Green/Gold": 301,
+        "Gold": 282
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 184,
+        "Black": 184,
+        "Blue": 158,
+        "Blue/White": 158,
+        "White": 135,
+        "Green": 119,
+        "Green/Gold": 119,
+        "Gold": 101
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 571,
+        "Black": 435,
+        "Blue": 403,
+        "Blue/White": 368,
+        "White": 368,
+        "Green": 334,
+        "Green/Gold": 310,
+        "Gold": 310
+      }
+    }
+  ],
+  "version": 1
+}

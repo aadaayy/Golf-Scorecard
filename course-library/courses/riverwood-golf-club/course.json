@@ -1,0 +1,254 @@
+{
+  "id": "riverwood-golf-club",
+  "name": "Riverwood Golf Club",
+  "town": "Port Charlotte, FL",
+  "location": {
+    "lat": 26.988253,
+    "lng": -82.207173
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 396,
+        "Web": 396,
+        "Blue": 380,
+        "White": 369,
+        "Gold": 316,
+        "Red": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 375,
+        "Web": 375,
+        "Blue": 355,
+        "White": 335,
+        "Gold": 290,
+        "Red": 245
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 500,
+        "Web": 500,
+        "Blue": 472,
+        "White": 433,
+        "Gold": 396,
+        "Red": 367
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 400,
+        "Web": 400,
+        "Blue": 380,
+        "White": 358,
+        "Gold": 319,
+        "Red": 264
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 171,
+        "Web": 171,
+        "Blue": 141,
+        "White": 128,
+        "Gold": 122,
+        "Red": 100
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 424,
+        "Web": 424,
+        "Blue": 393,
+        "White": 360,
+        "Gold": 329,
+        "Red": 276
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 197,
+        "Web": 197,
+        "Blue": 188,
+        "White": 172,
+        "Gold": 163,
+        "Red": 122
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 435,
+        "Web": 435,
+        "Blue": 412,
+        "White": 401,
+        "Gold": 342,
+        "Red": 278
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 539,
+        "Web": 539,
+        "Blue": 503,
+        "White": 485,
+        "Gold": 432,
+        "Red": 381
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 405,
+        "Web": 405,
+        "Blue": 387,
+        "White": 352,
+        "Gold": 335,
+        "Red": 296
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 400,
+        "Web": 400,
+        "Blue": 382,
+        "White": 345,
+        "Gold": 310,
+        "Red": 270
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 554,
+        "Web": 554,
+        "Blue": 490,
+        "White": 485,
+        "Gold": 417,
+        "Red": 374
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 179,
+        "Web": 179,
+        "Blue": 167,
+        "White": 135,
+        "Gold": 123,
+        "Red": 97
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 421,
+        "Web": 421,
+        "Blue": 402,
+        "White": 358,
+        "Gold": 320,
+        "Red": 292
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 385,
+        "Web": 385,
+        "Blue": 335,
+        "White": 307,
+        "Gold": 278,
+        "Red": 253
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 217,
+        "Web": 217,
+        "Blue": 184,
+        "White": 149,
+        "Gold": 108,
+        "Red": 103
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 551,
+        "Web": 551,
+        "Blue": 514,
+        "White": 449,
+        "Gold": 439,
+        "Red": 396
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 455,
+        "Web": 455,
+        "Blue": 427,
+        "White": 413,
+        "Gold": 337,
+        "Red": 301
+      }
+    }
+  ],
+  "version": 1
+}

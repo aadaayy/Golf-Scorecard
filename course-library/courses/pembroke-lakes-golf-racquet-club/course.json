@@ -1,0 +1,253 @@
+{
+  "id": "pembroke-lakes-golf-racquet-club",
+  "name": "Pembroke Lakes Golf Racquet Club",
+  "town": "Pembroke Pines, FL",
+  "location": {
+    "lat": 26.019337,
+    "lng": -80.286794
+  },
+  "tees": [
+    "Championship/Gold",
+    "Back/Blue",
+    "Middle/White",
+    "Forward/Green",
+    "Front/Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship/Gold": 374,
+        "Back/Blue": 362,
+        "Middle/White": 339,
+        "Forward/Green": 321,
+        "Front/Red": 286
+      },
+      "map": "pembroke-lakes-golf-racquet-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship/Gold": 373,
+        "Back/Blue": 360,
+        "Middle/White": 339,
+        "Forward/Green": 323,
+        "Front/Red": 284
+      },
+      "map": "pembroke-lakes-golf-racquet-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Championship/Gold": 557,
+        "Back/Blue": 523,
+        "Middle/White": 495,
+        "Forward/Green": 463,
+        "Front/Red": 428
+      },
+      "map": "pembroke-lakes-golf-racquet-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship/Gold": 185,
+        "Back/Blue": 170,
+        "Middle/White": 145,
+        "Forward/Green": 125,
+        "Front/Red": 110
+      },
+      "map": "pembroke-lakes-golf-racquet-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship/Gold": 401,
+        "Back/Blue": 383,
+        "Middle/White": 366,
+        "Forward/Green": 342,
+        "Front/Red": 315
+      },
+      "map": "pembroke-lakes-golf-racquet-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Championship/Gold": 530,
+        "Back/Blue": 505,
+        "Middle/White": 481,
+        "Forward/Green": 459,
+        "Front/Red": 440
+      },
+      "map": "pembroke-lakes-golf-racquet-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship/Gold": 154,
+        "Back/Blue": 135,
+        "Middle/White": 122,
+        "Forward/Green": 110,
+        "Front/Red": 95
+      },
+      "map": "pembroke-lakes-golf-racquet-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship/Gold": 370,
+        "Back/Blue": 355,
+        "Middle/White": 342,
+        "Forward/Green": 330,
+        "Front/Red": 289
+      },
+      "map": "pembroke-lakes-golf-racquet-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship/Gold": 400,
+        "Back/Blue": 374,
+        "Middle/White": 364,
+        "Forward/Green": 332,
+        "Front/Red": 320
+      },
+      "map": "pembroke-lakes-golf-racquet-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Championship/Gold": 515,
+        "Back/Blue": 507,
+        "Middle/White": 484,
+        "Forward/Green": 467,
+        "Front/Red": 429
+      },
+      "map": "pembroke-lakes-golf-racquet-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship/Gold": 377,
+        "Back/Blue": 366,
+        "Middle/White": 333,
+        "Forward/Green": 326,
+        "Front/Red": 287
+      },
+      "map": "pembroke-lakes-golf-racquet-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship/Gold": 370,
+        "Back/Blue": 357,
+        "Middle/White": 333,
+        "Forward/Green": 293,
+        "Front/Red": 256
+      },
+      "map": "pembroke-lakes-golf-racquet-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship/Gold": 220,
+        "Back/Blue": 197,
+        "Middle/White": 183,
+        "Forward/Green": 154,
+        "Front/Red": 140
+      },
+      "map": "pembroke-lakes-golf-racquet-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Championship/Gold": 528,
+        "Back/Blue": 500,
+        "Middle/White": 487,
+        "Forward/Green": 461,
+        "Front/Red": 422
+      },
+      "map": "pembroke-lakes-golf-racquet-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship/Gold": 203,
+        "Back/Blue": 193,
+        "Middle/White": 147,
+        "Forward/Green": 136,
+        "Front/Red": 125
+      },
+      "map": "pembroke-lakes-golf-racquet-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship/Gold": 424,
+        "Back/Blue": 385,
+        "Middle/White": 370,
+        "Forward/Green": 344,
+        "Front/Red": 313
+      },
+      "map": "pembroke-lakes-golf-racquet-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship/Gold": 431,
+        "Back/Blue": 416,
+        "Middle/White": 394,
+        "Forward/Green": 379,
+        "Front/Red": 351
+      },
+      "map": "pembroke-lakes-golf-racquet-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship/Gold": 403,
+        "Back/Blue": 389,
+        "Middle/White": 352,
+        "Forward/Green": 302,
+        "Front/Red": 270
+      },
+      "map": "pembroke-lakes-golf-racquet-club-18"
+    }
+  ],
+  "version": 1
+}

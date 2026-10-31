@@ -1,0 +1,234 @@
+{
+  "id": "miami-beach-golf-club",
+  "name": "Miami Beach Golf Club",
+  "town": "Miami Beach, FL",
+  "location": {
+    "lat": 25.801561,
+    "lng": -80.137668
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 594,
+        "Blue": 570,
+        "White": 545,
+        "Red": 450
+      },
+      "map": "miami-beach-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 360,
+        "Blue": 343,
+        "White": 323,
+        "Red": 240
+      },
+      "map": "miami-beach-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 153,
+        "Blue": 140,
+        "White": 130,
+        "Red": 100
+      },
+      "map": "miami-beach-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 437,
+        "Blue": 420,
+        "White": 410,
+        "Red": 337
+      },
+      "map": "miami-beach-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 493,
+        "Blue": 473,
+        "White": 460,
+        "Red": 413
+      },
+      "map": "miami-beach-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 137,
+        "Blue": 120,
+        "White": 110,
+        "Red": 83
+      },
+      "map": "miami-beach-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 360,
+        "Blue": 333,
+        "White": 330,
+        "Red": 227
+      },
+      "map": "miami-beach-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 370,
+        "Blue": 353,
+        "White": 333,
+        "Red": 236
+      },
+      "map": "miami-beach-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 233,
+        "Blue": 207,
+        "White": 170,
+        "Red": 127
+      },
+      "map": "miami-beach-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 523,
+        "Blue": 500,
+        "White": 463,
+        "Red": 433
+      },
+      "map": "miami-beach-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 453,
+        "Blue": 437,
+        "White": 407,
+        "Red": 380
+      },
+      "map": "miami-beach-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 567,
+        "Blue": 550,
+        "White": 527,
+        "Red": 403
+      },
+      "map": "miami-beach-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 410,
+        "Blue": 377,
+        "White": 340,
+        "Red": 280
+      },
+      "map": "miami-beach-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 210,
+        "Blue": 193,
+        "White": 167,
+        "Red": 120
+      },
+      "map": "miami-beach-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 553,
+        "Blue": 533,
+        "White": 503,
+        "Red": 453
+      },
+      "map": "miami-beach-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 347,
+        "Blue": 323,
+        "White": 296,
+        "Red": 220
+      },
+      "map": "miami-beach-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 183,
+        "Blue": 158,
+        "White": 123,
+        "Red": 83
+      },
+      "map": "miami-beach-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 430,
+        "Blue": 400,
+        "White": 370,
+        "Red": 320
+      },
+      "map": "miami-beach-golf-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "championship-at-boca-raton-municipal-golf-course",
+  "name": "Championship At Boca Raton Municipal Golf Course",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.412873,
+    "lng": -80.104732
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 540,
+        "Blue": 527,
+        "White": 514,
+        "Gold": 493,
+        "Red": 450
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 409,
+        "Blue": 409,
+        "White": 383,
+        "Gold": 368,
+        "Red": 343
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 390,
+        "Blue": 390,
+        "White": 356,
+        "Gold": 341,
+        "Red": 317
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 189,
+        "Blue": 170,
+        "White": 160,
+        "Gold": 120,
+        "Red": 108
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 503,
+        "Blue": 503,
+        "White": 465,
+        "Gold": 434,
+        "Red": 426
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 353,
+        "Blue": 353,
+        "White": 321,
+        "Gold": 311,
+        "Red": 263
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 169,
+        "Blue": 148,
+        "White": 136,
+        "Gold": 128,
+        "Red": 94
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 448,
+        "Blue": 413,
+        "White": 390,
+        "Gold": 346,
+        "Red": 314
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 388,
+        "Blue": 388,
+        "White": 343,
+        "Gold": 328,
+        "Red": 313
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 354,
+        "Blue": 354,
+        "White": 345,
+        "Gold": 323,
+        "Red": 291
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 408,
+        "Blue": 371,
+        "White": 360,
+        "Gold": 337,
+        "Red": 306
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 545,
+        "Blue": 515,
+        "White": 498,
+        "Gold": 471,
+        "Red": 425
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 415,
+        "Blue": 396,
+        "White": 381,
+        "Gold": 362,
+        "Red": 317
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 180,
+        "Blue": 170,
+        "White": 153,
+        "Gold": 146,
+        "Red": 126
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 555,
+        "Blue": 526,
+        "White": 507,
+        "Gold": 492,
+        "Red": 438
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 369,
+        "Blue": 369,
+        "White": 352,
+        "Gold": 323,
+        "Red": 316
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 163,
+        "Blue": 163,
+        "White": 146,
+        "Gold": 131,
+        "Red": 97
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 336,
+        "Blue": 320,
+        "White": 298,
+        "Gold": 289,
+        "Red": 262
+      }
+    }
+  ],
+  "version": 1
+}

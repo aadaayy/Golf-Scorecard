@@ -1,0 +1,254 @@
+{
+  "id": "the-river-club",
+  "name": "The River Club",
+  "town": "Lakewood Ranch, FL",
+  "location": {
+    "lat": 27.423321,
+    "lng": -82.434776
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Silver",
+    "Red",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 415,
+        "Blue": 389,
+        "White": 361,
+        "Silver": 340,
+        "Red": 317,
+        "Orange": 240
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 203,
+        "Blue": 184,
+        "White": 155,
+        "Silver": 135,
+        "Red": 103,
+        "Orange": 103
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 542,
+        "Blue": 506,
+        "White": 480,
+        "Silver": 446,
+        "Red": 390,
+        "Orange": 295
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 369,
+        "Blue": 358,
+        "White": 316,
+        "Silver": 269,
+        "Red": 247,
+        "Orange": 238
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 587,
+        "Blue": 541,
+        "White": 506,
+        "Silver": 416,
+        "Red": 416,
+        "Orange": 305
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 354,
+        "Blue": 322,
+        "White": 297,
+        "Silver": 288,
+        "Red": 256,
+        "Orange": 200
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 428,
+        "Blue": 375,
+        "White": 347,
+        "Silver": 328,
+        "Red": 287,
+        "Orange": 216
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 168,
+        "Blue": 152,
+        "White": 144,
+        "Silver": 136,
+        "Red": 81,
+        "Orange": 81
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 345,
+        "Blue": 311,
+        "White": 278,
+        "Silver": 269,
+        "Red": 246,
+        "Orange": 200
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 403,
+        "Blue": 392,
+        "White": 360,
+        "Silver": 282,
+        "Red": 267,
+        "Orange": 210
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 422,
+        "Blue": 378,
+        "White": 347,
+        "Silver": 332,
+        "Red": 297,
+        "Orange": 222
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 195,
+        "Blue": 172,
+        "White": 162,
+        "Silver": 152,
+        "Red": 134,
+        "Orange": 134
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 523,
+        "Blue": 501,
+        "White": 481,
+        "Silver": 425,
+        "Red": 388,
+        "Orange": 284
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 434,
+        "Blue": 394,
+        "White": 359,
+        "Silver": 353,
+        "Red": 328,
+        "Orange": 265
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 169,
+        "Blue": 162,
+        "White": 147,
+        "Silver": 136,
+        "Red": 104,
+        "Orange": 104
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 398,
+        "Blue": 377,
+        "White": 355,
+        "Silver": 348,
+        "Red": 325,
+        "Orange": 225
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 517,
+        "Blue": 489,
+        "White": 454,
+        "Silver": 438,
+        "Red": 416,
+        "Orange": 283
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 358,
+        "Blue": 322,
+        "White": 310,
+        "Silver": 299,
+        "Red": 252,
+        "Orange": 166
+      }
+    }
+  ],
+  "version": 1
+}

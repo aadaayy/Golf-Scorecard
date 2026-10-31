@@ -1,0 +1,197 @@
+{
+  "id": "kings-gate-golf-club",
+  "name": "Kings Gate Golf Club",
+  "town": "Port Charlotte, FL",
+  "location": {
+    "lat": 27.005078,
+    "lng": -82.046503
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 258,
+        "White": 250,
+        "Red": 233
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 131,
+        "White": 123,
+        "Red": 93
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 127,
+        "White": 105,
+        "Red": 87
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 175,
+        "White": 163,
+        "Red": 135
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 123,
+        "White": 123,
+        "Red": 117
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 185,
+        "White": 175,
+        "Red": 125
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 143,
+        "White": 136,
+        "Red": 86
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 105,
+        "White": 93,
+        "Red": 81
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 315,
+        "White": 275,
+        "Red": 290
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 183,
+        "White": 166,
+        "Red": 130
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 168,
+        "White": 143,
+        "Red": 117
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 171,
+        "White": 151,
+        "Red": 118
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 289,
+        "White": 248,
+        "Red": 175
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 158,
+        "White": 111,
+        "Red": 82
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 144,
+        "White": 133,
+        "Red": 98
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 121,
+        "White": 102,
+        "Red": 93
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 113,
+        "White": 107,
+        "Red": 90
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 273,
+        "White": 254,
+        "Red": 234
+      }
+    }
+  ],
+  "version": 1
+}

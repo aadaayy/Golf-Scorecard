@@ -1,0 +1,216 @@
+{
+  "id": "glynlea-country-club",
+  "name": "Glynlea Country Club",
+  "town": "Port St. Lucie, FL",
+  "location": {
+    "lat": 27.345391,
+    "lng": -80.437714
+  },
+  "tees": [
+    "Navy",
+    "Green",
+    "White",
+    "Teal"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Navy": 461,
+        "Green": 437,
+        "White": 411,
+        "Teal": 356
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Navy": 357,
+        "Green": 332,
+        "White": 310,
+        "Teal": 257
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Navy": 521,
+        "Green": 507,
+        "White": 466,
+        "Teal": 419
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Navy": 369,
+        "Green": 349,
+        "White": 328,
+        "Teal": 274
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Navy": 189,
+        "Green": 180,
+        "White": 157,
+        "Teal": 122
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Navy": 317,
+        "Green": 285,
+        "White": 274,
+        "Teal": 228
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Navy": 519,
+        "Green": 491,
+        "White": 465,
+        "Teal": 414
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Navy": 158,
+        "Green": 142,
+        "White": 120,
+        "Teal": 100
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Navy": 421,
+        "Green": 396,
+        "White": 373,
+        "Teal": 319
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Navy": 412,
+        "Green": 383,
+        "White": 363,
+        "Teal": 305
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Navy": 493,
+        "Green": 464,
+        "White": 442,
+        "Teal": 389
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Navy": 424,
+        "Green": 400,
+        "White": 370,
+        "Teal": 311
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Navy": 143,
+        "Green": 132,
+        "White": 121,
+        "Teal": 107
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Navy": 590,
+        "Green": 567,
+        "White": 537,
+        "Teal": 484
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Navy": 146,
+        "Green": 141,
+        "White": 102,
+        "Teal": 66
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Navy": 413,
+        "Green": 387,
+        "White": 360,
+        "Teal": 308
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Navy": 171,
+        "Green": 159,
+        "White": 140,
+        "Teal": 101
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Navy": 526,
+        "Green": 501,
+        "White": 475,
+        "Teal": 411
+      }
+    }
+  ],
+  "version": 1
+}

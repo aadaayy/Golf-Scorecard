@@ -1,0 +1,178 @@
+{
+  "id": "gator-creek-golf-course",
+  "name": "Gator Creek Golf Course",
+  "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.267083,
+    "lng": -82.394774
+  },
+  "tees": [
+    "Black",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 559,
+        "Red": 515
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 409,
+        "Red": 342
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 218,
+        "Red": 175
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 392,
+        "Red": 352
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 430,
+        "Red": 391
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 382,
+        "Red": 328
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 593,
+        "Red": 545
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 162,
+        "Red": 132
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 368,
+        "Red": 337
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 515,
+        "Red": 466
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 412,
+        "Red": 352
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 179,
+        "Red": 149
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 410,
+        "Red": 372
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 516,
+        "Red": 479
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 382,
+        "Red": 339
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 422,
+        "Red": 359
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 241,
+        "Red": 173
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 462,
+        "Red": 412
+      }
+    }
+  ],
+  "version": 1
+}

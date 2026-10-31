@@ -1,0 +1,177 @@
+{
+  "id": "olde-florida-golf-club",
+  "name": "Olde Florida Golf Club",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.246854,
+    "lng": -81.649886
+  },
+  "tees": [
+    "Championship"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 392
+      },
+      "map": "olde-florida-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 422
+      },
+      "map": "olde-florida-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 172
+      },
+      "map": "olde-florida-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 352
+      },
+      "map": "olde-florida-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 190
+      },
+      "map": "olde-florida-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Championship": 516
+      },
+      "map": "olde-florida-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 364
+      },
+      "map": "olde-florida-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Championship": 549
+      },
+      "map": "olde-florida-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship": 441
+      },
+      "map": "olde-florida-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Championship": 575
+      },
+      "map": "olde-florida-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 363
+      },
+      "map": "olde-florida-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 400
+      },
+      "map": "olde-florida-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 181
+      },
+      "map": "olde-florida-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 406
+      },
+      "map": "olde-florida-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 437
+      },
+      "map": "olde-florida-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Championship": 558
+      },
+      "map": "olde-florida-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 162
+      },
+      "map": "olde-florida-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 467
+      },
+      "map": "olde-florida-golf-club-18"
+    }
+  ],
+  "version": 1
+}

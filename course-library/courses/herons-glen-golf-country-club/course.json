@@ -1,0 +1,234 @@
+{
+  "id": "herons-glen-golf-country-club",
+  "name": "Herons Glen Golf Country Club",
+  "town": "North Fort Myers, FL",
+  "location": {
+    "lat": 26.767463,
+    "lng": -81.916975
+  },
+  "tees": [
+    "Tee #1",
+    "Tee #2",
+    "Tee #3",
+    "Tee #5"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Tee #1": 476,
+        "Tee #2": 458,
+        "Tee #3": 443,
+        "Tee #5": 389
+      },
+      "map": "herons-glen-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Tee #1": 326,
+        "Tee #2": 298,
+        "Tee #3": 272,
+        "Tee #5": 217
+      },
+      "map": "herons-glen-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tee #1": 355,
+        "Tee #2": 329,
+        "Tee #3": 294,
+        "Tee #5": 227
+      },
+      "map": "herons-glen-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Tee #1": 175,
+        "Tee #2": 163,
+        "Tee #3": 136,
+        "Tee #5": 106
+      },
+      "map": "herons-glen-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tee #1": 404,
+        "Tee #2": 392,
+        "Tee #3": 371,
+        "Tee #5": 252
+      },
+      "map": "herons-glen-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tee #1": 367,
+        "Tee #2": 354,
+        "Tee #3": 328,
+        "Tee #5": 278
+      },
+      "map": "herons-glen-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Tee #1": 165,
+        "Tee #2": 149,
+        "Tee #3": 130,
+        "Tee #5": 107
+      },
+      "map": "herons-glen-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Tee #1": 325,
+        "Tee #2": 314,
+        "Tee #3": 295,
+        "Tee #5": 262
+      },
+      "map": "herons-glen-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Tee #1": 516,
+        "Tee #2": 493,
+        "Tee #3": 474,
+        "Tee #5": 428
+      },
+      "map": "herons-glen-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tee #1": 392,
+        "Tee #2": 373,
+        "Tee #3": 354,
+        "Tee #5": 289
+      },
+      "map": "herons-glen-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tee #1": 186,
+        "Tee #2": 156,
+        "Tee #3": 148,
+        "Tee #5": 120
+      },
+      "map": "herons-glen-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Tee #1": 508,
+        "Tee #2": 480,
+        "Tee #3": 452,
+        "Tee #5": 413
+      },
+      "map": "herons-glen-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tee #1": 381,
+        "Tee #2": 367,
+        "Tee #3": 351,
+        "Tee #5": 306
+      },
+      "map": "herons-glen-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Tee #1": 167,
+        "Tee #2": 160,
+        "Tee #3": 143,
+        "Tee #5": 117
+      },
+      "map": "herons-glen-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tee #1": 386,
+        "Tee #2": 361,
+        "Tee #3": 334,
+        "Tee #5": 271
+      },
+      "map": "herons-glen-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tee #1": 418,
+        "Tee #2": 401,
+        "Tee #3": 374,
+        "Tee #5": 317
+      },
+      "map": "herons-glen-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Tee #1": 540,
+        "Tee #2": 511,
+        "Tee #3": 501,
+        "Tee #5": 441
+      },
+      "map": "herons-glen-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Tee #1": 352,
+        "Tee #2": 310,
+        "Tee #3": 291,
+        "Tee #5": 219
+      },
+      "map": "herons-glen-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

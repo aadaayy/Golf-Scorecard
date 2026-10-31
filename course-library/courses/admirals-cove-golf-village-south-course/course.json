@@ -1,0 +1,107 @@
+{
+  "id": "admirals-cove-golf-village-south-course",
+  "name": "Admirals Cove Golf Village South Course",
+  "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.903945,
+    "lng": -80.097472
+  },
+  "tees": [
+    "Back",
+    "Member",
+    "Front"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Back": 310,
+        "Member": 298,
+        "Front": 237
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Back": 358,
+        "Member": 344,
+        "Front": 269
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Back": 526,
+        "Member": 478,
+        "Front": 413
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Back": 470,
+        "Member": 424,
+        "Front": 385
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Back": 163,
+        "Member": 139,
+        "Front": 109
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Back": 254,
+        "Member": 235,
+        "Front": 154
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Back": 376,
+        "Member": 355,
+        "Front": 236
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Back": 152,
+        "Member": 132,
+        "Front": 117
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Back": 322,
+        "Member": 266,
+        "Front": 250
+      }
+    }
+  ],
+  "version": 1
+}

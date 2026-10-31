@@ -1,0 +1,253 @@
+{
+  "id": "the-concession-golf-club",
+  "name": "The Concession Golf Club",
+  "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.403994,
+    "lng": -82.344749
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 428,
+        "Gold": 417,
+        "Blue": 381,
+        "White": 359,
+        "Red": 302
+      },
+      "map": "the-concession-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 474,
+        "Gold": 415,
+        "Blue": 401,
+        "White": 355,
+        "Red": 292
+      },
+      "map": "the-concession-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 596,
+        "Gold": 579,
+        "Blue": 503,
+        "White": 488,
+        "Red": 435
+      },
+      "map": "the-concession-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 233,
+        "Gold": 205,
+        "Blue": 192,
+        "White": 180,
+        "Red": 103
+      },
+      "map": "the-concession-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 473,
+        "Gold": 422,
+        "Blue": 383,
+        "White": 328,
+        "Red": 263
+      },
+      "map": "the-concession-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 178,
+        "Gold": 155,
+        "Blue": 145,
+        "White": 132,
+        "Red": 98
+      },
+      "map": "the-concession-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 604,
+        "Gold": 538,
+        "Blue": 524,
+        "White": 447,
+        "Red": 433
+      },
+      "map": "the-concession-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 397,
+        "Gold": 374,
+        "Blue": 324,
+        "White": 313,
+        "Red": 228
+      },
+      "map": "the-concession-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 449,
+        "Gold": 440,
+        "Blue": 393,
+        "White": 382,
+        "Red": 277
+      },
+      "map": "the-concession-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 407,
+        "Gold": 367,
+        "Blue": 347,
+        "White": 302,
+        "Red": 260
+      },
+      "map": "the-concession-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 210,
+        "Gold": 195,
+        "Blue": 179,
+        "White": 162,
+        "Red": 130
+      },
+      "map": "the-concession-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 361,
+        "Gold": 343,
+        "Blue": 297,
+        "White": 276,
+        "Red": 237
+      },
+      "map": "the-concession-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 539,
+        "Gold": 522,
+        "Blue": 496,
+        "White": 487,
+        "Red": 424
+      },
+      "map": "the-concession-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 216,
+        "Gold": 193,
+        "Blue": 174,
+        "White": 157,
+        "Red": 107
+      },
+      "map": "the-concession-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 437,
+        "Gold": 432,
+        "Blue": 355,
+        "White": 350,
+        "Red": 297
+      },
+      "map": "the-concession-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 416,
+        "Gold": 391,
+        "Blue": 382,
+        "White": 336,
+        "Red": 244
+      },
+      "map": "the-concession-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 590,
+        "Gold": 570,
+        "Blue": 532,
+        "White": 479,
+        "Red": 448
+      },
+      "map": "the-concession-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 484,
+        "Gold": 466,
+        "Blue": 436,
+        "White": 357,
+        "Red": 310
+      },
+      "map": "the-concession-golf-club-18"
+    }
+  ],
+  "version": 1
+}

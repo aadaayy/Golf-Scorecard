@@ -1,0 +1,106 @@
+{
+  "id": "eco-golf-course",
+  "name": "Eco Golf Course",
+  "town": "Hollywood, FL",
+  "location": {
+    "lat": 26.02678,
+    "lng": -80.135854
+  },
+  "tees": [
+    "Back",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Back": 104,
+        "Forward": 87
+      },
+      "map": "eco-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Back": 362,
+        "Forward": 315
+      },
+      "map": "eco-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Back": 137,
+        "Forward": 114
+      },
+      "map": "eco-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Back": 452,
+        "Forward": 401
+      },
+      "map": "eco-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Back": 124,
+        "Forward": 105
+      },
+      "map": "eco-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Back": 351,
+        "Forward": 283
+      },
+      "map": "eco-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Back": 183,
+        "Forward": 161
+      },
+      "map": "eco-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Back": 125,
+        "Forward": 108
+      },
+      "map": "eco-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Back": 325,
+        "Forward": 264
+      },
+      "map": "eco-golf-course-09"
+    }
+  ],
+  "version": 1
+}

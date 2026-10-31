@@ -1,0 +1,291 @@
+{
+  "id": "the-club-at-westminster",
+  "name": "The Club At Westminster",
+  "town": "Lehigh Acres, FL",
+  "location": {
+    "lat": 26.604708,
+    "lng": -81.732313
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red",
+    "Hybrid",
+    "Purple"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Gold": 500,
+        "Blue": 465,
+        "White": 440,
+        "Green": 425,
+        "Red": 384,
+        "Hybrid": 384,
+        "Purple": 341
+      },
+      "map": "the-club-at-westminster-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 385,
+        "Blue": 372,
+        "White": 345,
+        "Green": 299,
+        "Red": 278,
+        "Hybrid": 278,
+        "Purple": 224
+      },
+      "map": "the-club-at-westminster-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 184,
+        "Blue": 164,
+        "White": 145,
+        "Green": 135,
+        "Red": 111,
+        "Hybrid": 98,
+        "Purple": 98
+      },
+      "map": "the-club-at-westminster-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 425,
+        "Blue": 394,
+        "White": 350,
+        "Green": 330,
+        "Red": 313,
+        "Hybrid": 257,
+        "Purple": 257
+      },
+      "map": "the-club-at-westminster-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 353,
+        "Blue": 338,
+        "White": 320,
+        "Green": 310,
+        "Red": 266,
+        "Hybrid": 266,
+        "Purple": 230
+      },
+      "map": "the-club-at-westminster-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 216,
+        "Blue": 192,
+        "White": 168,
+        "Green": 148,
+        "Red": 143,
+        "Hybrid": 93,
+        "Purple": 93
+      },
+      "map": "the-club-at-westminster-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 494,
+        "Blue": 480,
+        "White": 465,
+        "Green": 450,
+        "Red": 420,
+        "Hybrid": 420,
+        "Purple": 345
+      },
+      "map": "the-club-at-westminster-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 400,
+        "Blue": 375,
+        "White": 352,
+        "Green": 340,
+        "Red": 296,
+        "Hybrid": 296,
+        "Purple": 223
+      },
+      "map": "the-club-at-westminster-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 448,
+        "Blue": 421,
+        "White": 395,
+        "Green": 333,
+        "Red": 327,
+        "Hybrid": 282,
+        "Purple": 282
+      },
+      "map": "the-club-at-westminster-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 400,
+        "Blue": 378,
+        "White": 361,
+        "Green": 335,
+        "Red": 311,
+        "Hybrid": 251,
+        "Purple": 251
+      },
+      "map": "the-club-at-westminster-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 412,
+        "Blue": 395,
+        "White": 380,
+        "Green": 365,
+        "Red": 332,
+        "Hybrid": 251,
+        "Purple": 251
+      },
+      "map": "the-club-at-westminster-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 523,
+        "Blue": 500,
+        "White": 478,
+        "Green": 430,
+        "Red": 407,
+        "Hybrid": 407,
+        "Purple": 339
+      },
+      "map": "the-club-at-westminster-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 205,
+        "Blue": 174,
+        "White": 162,
+        "Green": 138,
+        "Red": 125,
+        "Hybrid": 85,
+        "Purple": 85
+      },
+      "map": "the-club-at-westminster-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 371,
+        "Blue": 358,
+        "White": 339,
+        "Green": 302,
+        "Red": 295,
+        "Hybrid": 295,
+        "Purple": 240
+      },
+      "map": "the-club-at-westminster-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 400,
+        "Blue": 381,
+        "White": 367,
+        "Green": 348,
+        "Red": 322,
+        "Hybrid": 241,
+        "Purple": 241
+      },
+      "map": "the-club-at-westminster-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Gold": 220,
+        "Blue": 184,
+        "White": 156,
+        "Green": 143,
+        "Red": 119,
+        "Hybrid": 119,
+        "Purple": 104
+      },
+      "map": "the-club-at-westminster-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 337,
+        "Blue": 326,
+        "White": 315,
+        "Green": 305,
+        "Red": 269,
+        "Hybrid": 269,
+        "Purple": 230
+      },
+      "map": "the-club-at-westminster-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Gold": 527,
+        "Blue": 498,
+        "White": 473,
+        "Green": 419,
+        "Red": 412,
+        "Hybrid": 356,
+        "Purple": 356
+      },
+      "map": "the-club-at-westminster-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "trump-national-doral-miami-red-tiger-course",
+  "name": "Trump National Doral Miami Red Tiger Course",
+  "town": "Miami, FL",
+  "location": {
+    "lat": 25.812967,
+    "lng": -80.338718
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 608,
+        "Gold": 551,
+        "Blue": 535,
+        "White": 511,
+        "Red": 473
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 231,
+        "Gold": 201,
+        "Blue": 190,
+        "White": 160,
+        "Red": 150
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 487,
+        "Gold": 474,
+        "Blue": 468,
+        "White": 422,
+        "Red": 375
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 296,
+        "Gold": 283,
+        "Blue": 271,
+        "White": 244,
+        "Red": 210
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 487,
+        "Gold": 437,
+        "Blue": 425,
+        "White": 389,
+        "Red": 341
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 207,
+        "Gold": 166,
+        "Blue": 155,
+        "White": 121,
+        "Red": 114
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 370,
+        "Gold": 358,
+        "Blue": 346,
+        "White": 334,
+        "Red": 282
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 151,
+        "Gold": 144,
+        "Blue": 128,
+        "White": 120,
+        "Red": 112
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 401,
+        "Gold": 377,
+        "Blue": 360,
+        "White": 335,
+        "Red": 271
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 535,
+        "Gold": 474,
+        "Blue": 468,
+        "White": 393,
+        "Red": 386
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 185,
+        "Gold": 178,
+        "Blue": 159,
+        "White": 140,
+        "Red": 86
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 485,
+        "Gold": 449,
+        "Blue": 434,
+        "White": 420,
+        "Red": 353
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 359,
+        "Gold": 348,
+        "Blue": 321,
+        "White": 293,
+        "Red": 268
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 173,
+        "Gold": 165,
+        "Blue": 141,
+        "White": 129,
+        "Red": 92
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 394,
+        "Gold": 364,
+        "Blue": 354,
+        "White": 344,
+        "Red": 251
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 199,
+        "Gold": 181,
+        "Blue": 170,
+        "White": 160,
+        "Red": 117
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 301,
+        "Gold": 279,
+        "Blue": 268,
+        "White": 257,
+        "Red": 217
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 526,
+        "Gold": 489,
+        "Blue": 467,
+        "White": 457,
+        "Red": 427
+      }
+    }
+  ],
+  "version": 1
+}

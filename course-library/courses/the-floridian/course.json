@@ -1,0 +1,253 @@
+{
+  "id": "the-floridian",
+  "name": "The Floridian",
+  "town": "Palm City, FL",
+  "location": {
+    "lat": 27.207422,
+    "lng": -80.288892
+  },
+  "tees": [
+    "Tee I",
+    "Tee Ii",
+    "Tee Iii",
+    "Tee Iv",
+    "Tee V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tee I": 441,
+        "Tee Ii": 416,
+        "Tee Iii": 391,
+        "Tee Iv": 356,
+        "Tee V": 321
+      },
+      "map": "the-floridian-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tee I": 211,
+        "Tee Ii": 205,
+        "Tee Iii": 163,
+        "Tee Iv": 135,
+        "Tee V": 109
+      },
+      "map": "the-floridian-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tee I": 454,
+        "Tee Ii": 450,
+        "Tee Iii": 410,
+        "Tee Iv": 375,
+        "Tee V": 355
+      },
+      "map": "the-floridian-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Tee I": 182,
+        "Tee Ii": 174,
+        "Tee Iii": 158,
+        "Tee Iv": 139,
+        "Tee V": 117
+      },
+      "map": "the-floridian-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Tee I": 637,
+        "Tee Ii": 584,
+        "Tee Iii": 547,
+        "Tee Iv": 516,
+        "Tee V": 429
+      },
+      "map": "the-floridian-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tee I": 301,
+        "Tee Ii": 291,
+        "Tee Iii": 266,
+        "Tee Iv": 244,
+        "Tee V": 220
+      },
+      "map": "the-floridian-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Tee I": 577,
+        "Tee Ii": 571,
+        "Tee Iii": 533,
+        "Tee Iv": 488,
+        "Tee V": 458
+      },
+      "map": "the-floridian-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tee I": 153,
+        "Tee Ii": 136,
+        "Tee Iii": 124,
+        "Tee Iv": 112,
+        "Tee V": 99
+      },
+      "map": "the-floridian-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tee I": 497,
+        "Tee Ii": 454,
+        "Tee Iii": 415,
+        "Tee Iv": 364,
+        "Tee V": 327
+      },
+      "map": "the-floridian-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tee I": 401,
+        "Tee Ii": 394,
+        "Tee Iii": 362,
+        "Tee Iv": 337,
+        "Tee V": 308
+      },
+      "map": "the-floridian-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Tee I": 448,
+        "Tee Ii": 445,
+        "Tee Iii": 413,
+        "Tee Iv": 374,
+        "Tee V": 319
+      },
+      "map": "the-floridian-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tee I": 194,
+        "Tee Ii": 186,
+        "Tee Iii": 161,
+        "Tee Iv": 142,
+        "Tee V": 121
+      },
+      "map": "the-floridian-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Tee I": 529,
+        "Tee Ii": 504,
+        "Tee Iii": 477,
+        "Tee Iv": 444,
+        "Tee V": 380
+      },
+      "map": "the-floridian-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tee I": 456,
+        "Tee Ii": 428,
+        "Tee Iii": 378,
+        "Tee Iv": 351,
+        "Tee V": 312
+      },
+      "map": "the-floridian-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Tee I": 539,
+        "Tee Ii": 536,
+        "Tee Iii": 507,
+        "Tee Iv": 477,
+        "Tee V": 423
+      },
+      "map": "the-floridian-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tee I": 216,
+        "Tee Ii": 196,
+        "Tee Iii": 188,
+        "Tee Iv": 166,
+        "Tee V": 124
+      },
+      "map": "the-floridian-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tee I": 385,
+        "Tee Ii": 333,
+        "Tee Iii": 301,
+        "Tee Iv": 281,
+        "Tee V": 261
+      },
+      "map": "the-floridian-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tee I": 493,
+        "Tee Ii": 432,
+        "Tee Iii": 414,
+        "Tee Iv": 386,
+        "Tee V": 353
+      },
+      "map": "the-floridian-18"
+    }
+  ],
+  "version": 1
+}

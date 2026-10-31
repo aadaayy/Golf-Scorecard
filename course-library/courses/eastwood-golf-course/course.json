@@ -1,0 +1,216 @@
+{
+  "id": "eastwood-golf-course",
+  "name": "Eastwood Golf Course",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.618872,
+    "lng": -81.82107
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 415,
+        "Blue": 375,
+        "White": 355,
+        "Gold": 320
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 225,
+        "Blue": 194,
+        "White": 176,
+        "Gold": 159
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 510,
+        "Blue": 405,
+        "White": 360,
+        "Gold": 325
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 425,
+        "Blue": 375,
+        "White": 355,
+        "Gold": 320
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 423,
+        "Blue": 390,
+        "White": 365,
+        "Gold": 335
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 185,
+        "Blue": 161,
+        "White": 150,
+        "Gold": 132
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 382,
+        "Blue": 348,
+        "White": 322,
+        "Gold": 275
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 518,
+        "Blue": 502,
+        "White": 487,
+        "Gold": 428
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 460,
+        "Blue": 361,
+        "White": 345,
+        "Gold": 270
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 421,
+        "Blue": 393,
+        "White": 372,
+        "Gold": 355
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 462,
+        "Blue": 412,
+        "White": 377,
+        "Gold": 328
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 586,
+        "Blue": 543,
+        "White": 497,
+        "Gold": 468
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 218,
+        "Blue": 188,
+        "White": 163,
+        "Gold": 134
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 583,
+        "Blue": 555,
+        "White": 530,
+        "Gold": 483
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 392,
+        "Blue": 353,
+        "White": 332,
+        "Gold": 290
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 210,
+        "Blue": 187,
+        "White": 167,
+        "Gold": 138
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 390,
+        "Blue": 360,
+        "White": 347,
+        "Gold": 298
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 500,
+        "Blue": 470,
+        "White": 453,
+        "Gold": 378
+      }
+    }
+  ],
+  "version": 1
+}

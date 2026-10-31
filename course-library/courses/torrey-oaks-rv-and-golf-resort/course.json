@@ -1,0 +1,235 @@
+{
+  "id": "torrey-oaks-rv-and-golf-resort",
+  "name": "Torrey Oaks Rv And Golf Resort",
+  "town": "Bowling Green, FL",
+  "location": {
+    "lat": 27.603853,
+    "lng": -81.831007
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Web",
+    "Grey",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 350,
+        "White": 340,
+        "Web": 340,
+        "Grey": 320,
+        "Red": 290
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 495,
+        "White": 485,
+        "Web": 485,
+        "Grey": 450,
+        "Red": 395
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 160,
+        "White": 150,
+        "Web": 150,
+        "Grey": 130,
+        "Red": 125
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 350,
+        "White": 340,
+        "Web": 340,
+        "Grey": 330,
+        "Red": 325
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 125,
+        "White": 120,
+        "Web": 120,
+        "Grey": 115,
+        "Red": 105
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 370,
+        "White": 360,
+        "Web": 360,
+        "Grey": 340,
+        "Red": 290
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 365,
+        "White": 355,
+        "Web": 355,
+        "Grey": 340,
+        "Red": 290
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 495,
+        "White": 485,
+        "Web": 485,
+        "Grey": 455,
+        "Red": 400
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 370,
+        "White": 360,
+        "Web": 360,
+        "Grey": 340,
+        "Red": 260
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 180,
+        "White": 165,
+        "Web": 165,
+        "Grey": 155,
+        "Red": 145
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 400,
+        "White": 380,
+        "Web": 380,
+        "Grey": 350,
+        "Red": 320
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 175,
+        "White": 155,
+        "Web": 155,
+        "Grey": 145,
+        "Red": 110
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 370,
+        "White": 350,
+        "Web": 350,
+        "Grey": 340,
+        "Red": 320
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 500,
+        "White": 480,
+        "Web": 480,
+        "Grey": 450,
+        "Red": 400
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 345,
+        "White": 335,
+        "Web": 335,
+        "Grey": 310,
+        "Red": 250
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 345,
+        "White": 335,
+        "Web": 335,
+        "Grey": 310,
+        "Red": 280
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 390,
+        "White": 380,
+        "Web": 380,
+        "Grey": 340,
+        "Red": 280
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 550,
+        "White": 525,
+        "Web": 525,
+        "Grey": 510,
+        "Red": 490
+      }
+    }
+  ],
+  "version": 1
+}

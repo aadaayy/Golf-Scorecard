@@ -1,0 +1,216 @@
+{
+  "id": "indian-hills-golf-course",
+  "name": "Indian Hills Golf Course",
+  "town": "Fort Pierce, FL",
+  "location": {
+    "lat": 27.43207,
+    "lng": -80.325433
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 380,
+        "Blue": 355,
+        "White": 330,
+        "Green": 286
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 500,
+        "Blue": 475,
+        "White": 450,
+        "Green": 369
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 520,
+        "Blue": 490,
+        "White": 460,
+        "Green": 420
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 220,
+        "Blue": 195,
+        "White": 180,
+        "Green": 155
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 365,
+        "Blue": 345,
+        "White": 325,
+        "Green": 277
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 385,
+        "Blue": 350,
+        "White": 335,
+        "Green": 296
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 395,
+        "Blue": 375,
+        "White": 355,
+        "Green": 334
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 165,
+        "Blue": 145,
+        "White": 120,
+        "Green": 113
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 385,
+        "Blue": 365,
+        "White": 335,
+        "Green": 288
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 400,
+        "Blue": 380,
+        "White": 345,
+        "Green": 284
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 165,
+        "Blue": 150,
+        "White": 115,
+        "Green": 96
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 350,
+        "Blue": 330,
+        "White": 300,
+        "Green": 265
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 540,
+        "Blue": 520,
+        "White": 475,
+        "Green": 417
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 420,
+        "Blue": 395,
+        "White": 365,
+        "Green": 305
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 495,
+        "Blue": 470,
+        "White": 440,
+        "Green": 415
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 370,
+        "Blue": 350,
+        "White": 325,
+        "Green": 279
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 140,
+        "Blue": 130,
+        "White": 115,
+        "Green": 106
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 350,
+        "Blue": 335,
+        "White": 305,
+        "Green": 300
+      }
+    }
+  ],
+  "version": 1
+}

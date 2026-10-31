@@ -1,0 +1,67 @@
+{
+  "id": "rotonda-golf-country-club-long-marsh-the-pine-valley-course",
+  "name": "Rotonda Golf Country Club Long Marsh The Pine Valley Course",
+  "town": "Rotonda West, FL",
+  "location": {
+    "lat": 26.883826,
+    "lng": -82.293078
+  },
+  "tees": [],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {}
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 8,
+      "yards": {}
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {}
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 6,
+      "yards": {}
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {}
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {}
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {}
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {}
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {}
+    }
+  ],
+  "version": 1
+}

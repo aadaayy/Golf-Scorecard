@@ -1,0 +1,178 @@
+{
+  "id": "landings-yacht-golf-tennis-club",
+  "name": "Landings Yacht Golf Tennis Club",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.553245,
+    "lng": -81.915083
+  },
+  "tees": [
+    "III",
+    "II"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "III": 93,
+        "II": 82
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "III": 156,
+        "II": 147
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "III": 100,
+        "II": 92
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "III": 220,
+        "II": 207
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "III": 182,
+        "II": 161
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "III": 344,
+        "II": 281
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "III": 132,
+        "II": 122
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "III": 158,
+        "II": 143
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "III": 160,
+        "II": 144
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "III": 181,
+        "II": 160
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "III": 93,
+        "II": 83
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "III": 206,
+        "II": 198
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "III": 151,
+        "II": 135
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "III": 110,
+        "II": 100
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "III": 175,
+        "II": 160
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "III": 105,
+        "II": 93
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "III": 153,
+        "II": 131
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "III": 344,
+        "II": 324
+      }
+    }
+  ],
+  "version": 1
+}

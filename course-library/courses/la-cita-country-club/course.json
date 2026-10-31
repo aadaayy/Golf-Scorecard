@@ -1,0 +1,254 @@
+{
+  "id": "la-cita-country-club",
+  "name": "La Cita Country Club",
+  "town": "Boynton Beach, FL",
+  "location": {
+    "lat": 26.504377,
+    "lng": -80.103336
+  },
+  "tees": [
+    "Blue",
+    "Blend",
+    "White",
+    "Sr Blend",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 548,
+        "Blend": 482,
+        "White": 482,
+        "Sr Blend": 482,
+        "Green": 458,
+        "Red": 395
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 136,
+        "Blend": 136,
+        "White": 120,
+        "Sr Blend": 120,
+        "Green": 100,
+        "Red": 100
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 397,
+        "Blend": 361,
+        "White": 361,
+        "Sr Blend": 323,
+        "Green": 323,
+        "Red": 277
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 343,
+        "Blend": 343,
+        "White": 314,
+        "Sr Blend": 314,
+        "Green": 298,
+        "Red": 247
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 347,
+        "Blend": 322,
+        "White": 322,
+        "Sr Blend": 322,
+        "Green": 300,
+        "Red": 272
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 420,
+        "Blend": 385,
+        "White": 385,
+        "Sr Blend": 362,
+        "Green": 362,
+        "Red": 282
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 152,
+        "Blend": 152,
+        "White": 133,
+        "Sr Blend": 133,
+        "Green": 106,
+        "Red": 102
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 528,
+        "Blend": 528,
+        "White": 496,
+        "Sr Blend": 454,
+        "Green": 454,
+        "Red": 389
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 397,
+        "Blend": 365,
+        "White": 365,
+        "Sr Blend": 301,
+        "Green": 301,
+        "Red": 235
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 364,
+        "Blend": 364,
+        "White": 336,
+        "Sr Blend": 336,
+        "Green": 305,
+        "Red": 245
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 391,
+        "Blend": 366,
+        "White": 366,
+        "Sr Blend": 331,
+        "Green": 331,
+        "Red": 287
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 195,
+        "Blend": 171,
+        "White": 171,
+        "Sr Blend": 171,
+        "Green": 130,
+        "Red": 107
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 505,
+        "Blend": 505,
+        "White": 473,
+        "Sr Blend": 473,
+        "Green": 398,
+        "Red": 352
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 422,
+        "Blend": 392,
+        "White": 392,
+        "Sr Blend": 368,
+        "Green": 368,
+        "Red": 311
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 356,
+        "Blend": 356,
+        "White": 334,
+        "Sr Blend": 309,
+        "Green": 309,
+        "Red": 239
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 393,
+        "Blend": 380,
+        "White": 380,
+        "Sr Blend": 347,
+        "Green": 347,
+        "Red": 294
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 219,
+        "Blend": 201,
+        "White": 201,
+        "Sr Blend": 178,
+        "Green": 178,
+        "Red": 129
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 501,
+        "Blend": 501,
+        "White": 456,
+        "Sr Blend": 456,
+        "Green": 399,
+        "Red": 388
+      }
+    }
+  ],
+  "version": 1
+}

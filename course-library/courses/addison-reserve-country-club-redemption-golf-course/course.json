@@ -1,0 +1,126 @@
+{
+  "id": "addison-reserve-country-club-redemption-golf-course",
+  "name": "Addison Reserve Country Club Redemption Golf Course",
+  "town": "Delray Beach, FL",
+  "location": {
+    "lat": 26.436331,
+    "lng": -80.15713
+  },
+  "tees": [
+    "Back",
+    "Midle",
+    "Forward",
+    "Front"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Back": 363,
+        "Midle": 328,
+        "Forward": 312,
+        "Front": 261
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Back": 385,
+        "Midle": 331,
+        "Forward": 306,
+        "Front": 270
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Back": 506,
+        "Midle": 479,
+        "Forward": 442,
+        "Front": 417
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Back": 179,
+        "Midle": 144,
+        "Forward": 116,
+        "Front": 110
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Back": 389,
+        "Midle": 347,
+        "Forward": 316,
+        "Front": 268
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Back": 476,
+        "Midle": 460,
+        "Forward": 432,
+        "Front": 359
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Back": 417,
+        "Midle": 378,
+        "Forward": 338,
+        "Front": 311
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Back": 222,
+        "Midle": 187,
+        "Forward": 166,
+        "Front": 129
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Back": 333,
+        "Midle": 300,
+        "Forward": 273,
+        "Front": 244
+      },
+      "map": "addison-reserve-country-club-redemption-golf-course-09"
+    }
+  ],
+  "version": 1
+}

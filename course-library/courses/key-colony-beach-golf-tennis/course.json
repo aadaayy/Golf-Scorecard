@@ -1,0 +1,87 @@
+{
+  "id": "key-colony-beach-golf-tennis",
+  "name": "Key Colony Beach Golf Tennis",
+  "town": "Key Colony Beach, FL",
+  "location": {
+    "lat": 24.723515,
+    "lng": -81.021235
+  },
+  "tees": [
+    "Middle"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Middle": 95
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Middle": 66
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Middle": 130
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Middle": 72
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Middle": 102
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Middle": 117
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Middle": 127
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Middle": 121
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Middle": 132
+      }
+    }
+  ],
+  "version": 1
+}

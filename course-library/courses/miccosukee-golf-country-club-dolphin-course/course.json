@@ -1,0 +1,107 @@
+{
+  "id": "miccosukee-golf-country-club-dolphin-course",
+  "name": "Miccosukee Golf Country Club Dolphin Course",
+  "town": "Miami, FL",
+  "location": {
+    "lat": 25.706008,
+    "lng": -80.426393
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 536,
+        "White": 506,
+        "Red": 434
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 182,
+        "White": 160,
+        "Red": 117
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 437,
+        "White": 390,
+        "Red": 304
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 394,
+        "White": 336,
+        "Red": 236
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 362,
+        "White": 346,
+        "Red": 292
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 404,
+        "White": 391,
+        "Red": 285
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 606,
+        "White": 554,
+        "Red": 442
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 202,
+        "White": 178,
+        "Red": 137
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 380,
+        "White": 365,
+        "Red": 329
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,349 @@
+{
+  "id": "twineagles-golf-country-club-eagle-course",
+  "name": "Twineagles Golf Country Club Eagle Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.288307,
+    "lng": -81.631003
+  },
+  "tees": [
+    "Championship",
+    "Web",
+    "I",
+    "II",
+    "Black Ball",
+    "III",
+    "White Ball",
+    "IV",
+    "Red Ball",
+    "V",
+    "VI"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 416,
+        "Web": 416,
+        "I": 400,
+        "II": 380,
+        "Black Ball": 334,
+        "III": 334,
+        "White Ball": 281,
+        "IV": 281,
+        "Red Ball": 281,
+        "V": 250,
+        "VI": 243
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Championship": 587,
+        "Web": 587,
+        "I": 554,
+        "II": 501,
+        "Black Ball": 501,
+        "III": 465,
+        "White Ball": 413,
+        "IV": 413,
+        "Red Ball": 372,
+        "V": 372,
+        "VI": 357
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 458,
+        "Web": 458,
+        "I": 411,
+        "II": 366,
+        "Black Ball": 321,
+        "III": 321,
+        "White Ball": 321,
+        "IV": 266,
+        "Red Ball": 266,
+        "V": 239,
+        "VI": 224
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 202,
+        "Web": 202,
+        "I": 189,
+        "II": 168,
+        "Black Ball": 168,
+        "III": 135,
+        "White Ball": 135,
+        "IV": 122,
+        "Red Ball": 122,
+        "V": 122,
+        "VI": 122
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Championship": 557,
+        "Web": 557,
+        "I": 525,
+        "II": 503,
+        "Black Ball": 503,
+        "III": 473,
+        "White Ball": 473,
+        "IV": 410,
+        "Red Ball": 376,
+        "V": 376,
+        "VI": 354
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 483,
+        "Web": 483,
+        "I": 425,
+        "II": 390,
+        "Black Ball": 371,
+        "III": 371,
+        "White Ball": 327,
+        "IV": 318,
+        "Red Ball": 318,
+        "V": 281,
+        "VI": 212
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 475,
+        "Web": 475,
+        "I": 413,
+        "II": 392,
+        "Black Ball": 371,
+        "III": 371,
+        "White Ball": 327,
+        "IV": 327,
+        "Red Ball": 291,
+        "V": 291,
+        "VI": 246
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 224,
+        "Web": 224,
+        "I": 195,
+        "II": 185,
+        "Black Ball": 149,
+        "III": 149,
+        "White Ball": 129,
+        "IV": 129,
+        "Red Ball": 105,
+        "V": 105,
+        "VI": 103
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 441,
+        "Web": 441,
+        "I": 410,
+        "II": 395,
+        "Black Ball": 362,
+        "III": 362,
+        "White Ball": 304,
+        "IV": 304,
+        "Red Ball": 258,
+        "V": 258,
+        "VI": 242
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 489,
+        "Web": 489,
+        "I": 453,
+        "II": 426,
+        "Black Ball": 414,
+        "III": 414,
+        "White Ball": 340,
+        "IV": 340,
+        "Red Ball": 340,
+        "V": 291,
+        "VI": 280
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 478,
+        "Web": 478,
+        "I": 449,
+        "II": 405,
+        "Black Ball": 360,
+        "III": 360,
+        "White Ball": 312,
+        "IV": 312,
+        "Red Ball": 312,
+        "V": 268,
+        "VI": 239
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 233,
+        "Web": 233,
+        "I": 198,
+        "II": 171,
+        "Black Ball": 135,
+        "III": 135,
+        "White Ball": 135,
+        "IV": 92,
+        "Red Ball": 92,
+        "V": 92,
+        "VI": 92
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 470,
+        "Web": 470,
+        "I": 432,
+        "II": 391,
+        "Black Ball": 391,
+        "III": 360,
+        "White Ball": 332,
+        "IV": 332,
+        "Red Ball": 284,
+        "V": 284,
+        "VI": 255
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Championship": 570,
+        "Web": 570,
+        "I": 539,
+        "II": 486,
+        "Black Ball": 486,
+        "III": 448,
+        "White Ball": 448,
+        "IV": 416,
+        "Red Ball": 387,
+        "V": 387,
+        "VI": 322
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 498,
+        "Web": 498,
+        "I": 450,
+        "II": 409,
+        "Black Ball": 369,
+        "III": 369,
+        "White Ball": 316,
+        "IV": 316,
+        "Red Ball": 320,
+        "V": 320,
+        "VI": 257
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 326,
+        "Web": 326,
+        "I": 288,
+        "II": 252,
+        "Black Ball": 252,
+        "III": 219,
+        "White Ball": 219,
+        "IV": 167,
+        "Red Ball": 167,
+        "V": 167,
+        "VI": 167
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 191,
+        "Web": 191,
+        "I": 168,
+        "II": 165,
+        "Black Ball": 165,
+        "III": 136,
+        "White Ball": 136,
+        "IV": 118,
+        "Red Ball": 118,
+        "V": 118,
+        "VI": 109
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 509,
+        "Web": 509,
+        "I": 472,
+        "II": 435,
+        "Black Ball": 388,
+        "III": 388,
+        "White Ball": 334,
+        "IV": 334,
+        "Red Ball": 334,
+        "V": 303,
+        "VI": 243
+      }
+    }
+  ],
+  "version": 1
+}

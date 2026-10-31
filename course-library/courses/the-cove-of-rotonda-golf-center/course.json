@@ -1,0 +1,234 @@
+{
+  "id": "the-cove-of-rotonda-golf-center",
+  "name": "The Cove Of Rotonda Golf Center",
+  "town": "Port Charlotte, FL",
+  "location": {
+    "lat": 26.931048,
+    "lng": -82.242316
+  },
+  "tees": [
+    "Blue",
+    "Combo",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 299,
+        "Combo": 299,
+        "White": 263,
+        "Green": 230
+      },
+      "map": "the-cove-of-rotonda-golf-center-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 161,
+        "Combo": 161,
+        "White": 150,
+        "Green": 115
+      },
+      "map": "the-cove-of-rotonda-golf-center-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 122,
+        "Combo": 96,
+        "White": 96,
+        "Green": 71
+      },
+      "map": "the-cove-of-rotonda-golf-center-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 265,
+        "Combo": 232,
+        "White": 232,
+        "Green": 195
+      },
+      "map": "the-cove-of-rotonda-golf-center-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 173,
+        "Combo": 173,
+        "White": 111,
+        "Green": 100
+      },
+      "map": "the-cove-of-rotonda-golf-center-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 217,
+        "Combo": 178,
+        "White": 178,
+        "Green": 146
+      },
+      "map": "the-cove-of-rotonda-golf-center-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 177,
+        "Combo": 177,
+        "White": 149,
+        "Green": 124
+      },
+      "map": "the-cove-of-rotonda-golf-center-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 160,
+        "Combo": 127,
+        "White": 127,
+        "Green": 108
+      },
+      "map": "the-cove-of-rotonda-golf-center-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 362,
+        "Combo": 362,
+        "White": 326,
+        "Green": 250
+      },
+      "map": "the-cove-of-rotonda-golf-center-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 272,
+        "Combo": 229,
+        "White": 229,
+        "Green": 187
+      },
+      "map": "the-cove-of-rotonda-golf-center-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 193,
+        "Combo": 173,
+        "White": 173,
+        "Green": 153
+      },
+      "map": "the-cove-of-rotonda-golf-center-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 152,
+        "Combo": 152,
+        "White": 137,
+        "Green": 127
+      },
+      "map": "the-cove-of-rotonda-golf-center-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 108,
+        "Combo": 108,
+        "White": 92,
+        "Green": 61
+      },
+      "map": "the-cove-of-rotonda-golf-center-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 140,
+        "Combo": 120,
+        "White": 120,
+        "Green": 100
+      },
+      "map": "the-cove-of-rotonda-golf-center-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 179,
+        "Combo": 179,
+        "White": 164,
+        "Green": 148
+      },
+      "map": "the-cove-of-rotonda-golf-center-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 303,
+        "Combo": 303,
+        "White": 286,
+        "Green": 239
+      },
+      "map": "the-cove-of-rotonda-golf-center-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 163,
+        "Combo": 146,
+        "White": 146,
+        "Green": 129
+      },
+      "map": "the-cove-of-rotonda-golf-center-17"
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 154,
+        "Combo": 154,
+        "White": 140,
+        "Green": 123
+      },
+      "map": "the-cove-of-rotonda-golf-center-18"
+    }
+  ],
+  "version": 1
+}

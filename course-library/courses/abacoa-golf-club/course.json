@@ -1,0 +1,253 @@
+{
+  "id": "abacoa-golf-club",
+  "name": "Abacoa Golf Club",
+  "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.888523,
+    "lng": -80.119915
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 445,
+        "Blue": 411,
+        "White": 354,
+        "Green": 314,
+        "Red": 308
+      },
+      "map": "abacoa-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Gold": 535,
+        "Blue": 512,
+        "White": 497,
+        "Green": 484,
+        "Red": 421
+      },
+      "map": "abacoa-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 375,
+        "Blue": 346,
+        "White": 322,
+        "Green": 318,
+        "Red": 298
+      },
+      "map": "abacoa-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 214,
+        "Blue": 170,
+        "White": 140,
+        "Green": 130,
+        "Red": 115
+      },
+      "map": "abacoa-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 406,
+        "Blue": 395,
+        "White": 378,
+        "Green": 315,
+        "Red": 307
+      },
+      "map": "abacoa-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 585,
+        "Blue": 552,
+        "White": 534,
+        "Green": 519,
+        "Red": 454
+      },
+      "map": "abacoa-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 411,
+        "Blue": 385,
+        "White": 367,
+        "Green": 363,
+        "Red": 292
+      },
+      "map": "abacoa-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 208,
+        "Blue": 195,
+        "White": 174,
+        "Green": 146,
+        "Red": 142
+      },
+      "map": "abacoa-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 448,
+        "Blue": 413,
+        "White": 396,
+        "Green": 313,
+        "Red": 303
+      },
+      "map": "abacoa-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 535,
+        "Blue": 524,
+        "White": 505,
+        "Green": 450,
+        "Red": 422
+      },
+      "map": "abacoa-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 320,
+        "Blue": 311,
+        "White": 297,
+        "Green": 290,
+        "Red": 283
+      },
+      "map": "abacoa-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 441,
+        "Blue": 427,
+        "White": 403,
+        "Green": 357,
+        "Red": 350
+      },
+      "map": "abacoa-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 232,
+        "Blue": 186,
+        "White": 148,
+        "Green": 128,
+        "Red": 108
+      },
+      "map": "abacoa-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 404,
+        "Blue": 369,
+        "White": 348,
+        "Green": 335,
+        "Red": 318
+      },
+      "map": "abacoa-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 176,
+        "Blue": 164,
+        "White": 142,
+        "Green": 137,
+        "Red": 126
+      },
+      "map": "abacoa-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 416,
+        "Blue": 387,
+        "White": 368,
+        "Green": 364,
+        "Red": 330
+      },
+      "map": "abacoa-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 548,
+        "Blue": 518,
+        "White": 497,
+        "Green": 479,
+        "Red": 452
+      },
+      "map": "abacoa-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 455,
+        "Blue": 412,
+        "White": 338,
+        "Green": 336,
+        "Red": 306
+      },
+      "map": "abacoa-golf-club-18"
+    }
+  ],
+  "version": 1
+}

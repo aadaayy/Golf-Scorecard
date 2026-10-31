@@ -1,0 +1,311 @@
+{
+  "id": "esplanade-at-azario-lakewood-ranch",
+  "name": "Esplanade At Azario Lakewood Ranch",
+  "town": "Lakewood Ranch, FL",
+  "location": {
+    "lat": 27.465516,
+    "lng": -82.37942
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Black/Blue",
+    "Blue",
+    "White",
+    "White/Red",
+    "Red",
+    "Green",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 410,
+        "Web": 410,
+        "Black/Blue": 410,
+        "Blue": 377,
+        "White": 339,
+        "White/Red": 339,
+        "Red": 284,
+        "Green": 242,
+        "Gold": 183
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 550,
+        "Web": 550,
+        "Black/Blue": 527,
+        "Blue": 527,
+        "White": 512,
+        "White/Red": 415,
+        "Red": 415,
+        "Green": 379,
+        "Gold": 323
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 424,
+        "Web": 424,
+        "Black/Blue": 398,
+        "Blue": 398,
+        "White": 382,
+        "White/Red": 340,
+        "Red": 340,
+        "Green": 289,
+        "Gold": 234
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 432,
+        "Web": 432,
+        "Black/Blue": 397,
+        "Blue": 397,
+        "White": 350,
+        "White/Red": 350,
+        "Red": 309,
+        "Green": 257,
+        "Gold": 186
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 204,
+        "Web": 204,
+        "Black/Blue": 180,
+        "Blue": 180,
+        "White": 173,
+        "White/Red": 146,
+        "Red": 146,
+        "Green": 132,
+        "Gold": 104
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 571,
+        "Web": 571,
+        "Black/Blue": 571,
+        "Blue": 535,
+        "White": 489,
+        "White/Red": 489,
+        "Red": 446,
+        "Green": 406,
+        "Gold": 325
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 344,
+        "Web": 344,
+        "Black/Blue": 320,
+        "Blue": 320,
+        "White": 308,
+        "White/Red": 308,
+        "Red": 275,
+        "Green": 235,
+        "Gold": 184
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 178,
+        "Web": 178,
+        "Black/Blue": 178,
+        "Blue": 164,
+        "White": 152,
+        "White/Red": 152,
+        "Red": 133,
+        "Green": 119,
+        "Gold": 105
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 420,
+        "Web": 420,
+        "Black/Blue": 420,
+        "Blue": 389,
+        "White": 355,
+        "White/Red": 324,
+        "Red": 324,
+        "Green": 287,
+        "Gold": 223
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 392,
+        "Web": 392,
+        "Black/Blue": 363,
+        "Blue": 363,
+        "White": 325,
+        "White/Red": 325,
+        "Red": 283,
+        "Green": 242,
+        "Gold": 190
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 563,
+        "Web": 563,
+        "Black/Blue": 527,
+        "Blue": 527,
+        "White": 482,
+        "White/Red": 438,
+        "Red": 438,
+        "Green": 399,
+        "Gold": 334
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 158,
+        "Web": 158,
+        "Black/Blue": 158,
+        "Blue": 135,
+        "White": 124,
+        "White/Red": 124,
+        "Red": 109,
+        "Green": 95,
+        "Gold": 73
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 437,
+        "Web": 437,
+        "Black/Blue": 437,
+        "Blue": 404,
+        "White": 374,
+        "White/Red": 374,
+        "Red": 326,
+        "Green": 293,
+        "Gold": 205
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 432,
+        "Web": 432,
+        "Black/Blue": 432,
+        "Blue": 406,
+        "White": 376,
+        "White/Red": 335,
+        "Red": 335,
+        "Green": 300,
+        "Gold": 259
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 320,
+        "Web": 320,
+        "Black/Blue": 293,
+        "Blue": 293,
+        "White": 283,
+        "White/Red": 283,
+        "Red": 245,
+        "Green": 205,
+        "Gold": 150
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 401,
+        "Web": 401,
+        "Black/Blue": 377,
+        "Blue": 377,
+        "White": 342,
+        "White/Red": 301,
+        "Red": 301,
+        "Green": 261,
+        "Gold": 228
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 200,
+        "Web": 200,
+        "Black/Blue": 173,
+        "Blue": 173,
+        "White": 153,
+        "White/Red": 135,
+        "Red": 135,
+        "Green": 119,
+        "Gold": 98
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 571,
+        "Web": 571,
+        "Black/Blue": 571,
+        "Blue": 533,
+        "White": 493,
+        "White/Red": 493,
+        "Red": 443,
+        "Green": 384,
+        "Gold": 299
+      }
+    }
+  ],
+  "version": 1
+}

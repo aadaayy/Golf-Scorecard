@@ -1,0 +1,273 @@
+{
+  "id": "hills-at-jupiter-hills-club",
+  "name": "Hills At Jupiter Hills Club",
+  "town": "Tequesta, FL",
+  "location": {
+    "lat": 26.988476,
+    "lng": -80.095535
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "Blue Ii",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 503,
+        "Gold": 536,
+        "Blue": 524,
+        "Blue Ii": 524,
+        "White": 515,
+        "Green": 458,
+        "Red": 452
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 469,
+        "Gold": 446,
+        "Blue": 424,
+        "Blue Ii": 389,
+        "White": 389,
+        "Green": 330,
+        "Red": 321
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 187,
+        "Gold": 174,
+        "Blue": 160,
+        "Blue Ii": 160,
+        "White": 139,
+        "Green": 128,
+        "Red": 122
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 565,
+        "Gold": 537,
+        "Blue": 502,
+        "Blue Ii": 502,
+        "White": 481,
+        "Green": 442,
+        "Red": 433
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 457,
+        "Gold": 431,
+        "Blue": 403,
+        "Blue Ii": 365,
+        "White": 365,
+        "Green": 311,
+        "Red": 308
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 394,
+        "Gold": 377,
+        "Blue": 365,
+        "Blue Ii": 365,
+        "White": 344,
+        "Green": 318,
+        "Red": 281
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 433,
+        "Gold": 429,
+        "Blue": 412,
+        "Blue Ii": 412,
+        "White": 397,
+        "Green": 373,
+        "Red": 342
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 442,
+        "Gold": 413,
+        "Blue": 376,
+        "Blue Ii": 350,
+        "White": 350,
+        "Green": 317,
+        "Red": 277
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 227,
+        "Gold": 192,
+        "Blue": 173,
+        "Blue Ii": 173,
+        "White": 138,
+        "Green": 124,
+        "Red": 108
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 424,
+        "Gold": 408,
+        "Blue": 392,
+        "Blue Ii": 392,
+        "White": 375,
+        "Green": 343,
+        "Red": 333
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 197,
+        "Gold": 190,
+        "Blue": 183,
+        "Blue Ii": 183,
+        "White": 163,
+        "Green": 125,
+        "Red": 114
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 487,
+        "Gold": 441,
+        "Blue": 392,
+        "Blue Ii": 372,
+        "White": 372,
+        "Green": 333,
+        "Red": 323
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 601,
+        "Gold": 545,
+        "Blue": 510,
+        "Blue Ii": 510,
+        "White": 491,
+        "Green": 461,
+        "Red": 443
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 235,
+        "Gold": 219,
+        "Blue": 192,
+        "Blue Ii": 192,
+        "White": 183,
+        "Green": 150,
+        "Red": 126
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 429,
+        "Gold": 416,
+        "Blue": 401,
+        "Blue Ii": 369,
+        "White": 369,
+        "Green": 310,
+        "Red": 289
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 357,
+        "Gold": 341,
+        "Blue": 326,
+        "Blue Ii": 326,
+        "White": 294,
+        "Green": 279,
+        "Red": 265
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 469,
+        "Gold": 507,
+        "Blue": 499,
+        "Blue Ii": 499,
+        "White": 487,
+        "Green": 452,
+        "Red": 423
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 493,
+        "Gold": 420,
+        "Blue": 393,
+        "Blue Ii": 352,
+        "White": 352,
+        "Green": 306,
+        "Red": 272
+      }
+    }
+  ],
+  "version": 1
+}

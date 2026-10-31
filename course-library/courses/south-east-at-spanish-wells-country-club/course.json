@@ -1,0 +1,349 @@
+{
+  "id": "south-east-at-spanish-wells-country-club",
+  "name": "South East At Spanish Wells Country Club",
+  "town": "Bonita Springs, FL",
+  "location": {
+    "lat": 26.325007,
+    "lng": -81.797958
+  },
+  "tees": [
+    "Gold M",
+    "Blue M",
+    "Blue/White M",
+    "White M",
+    "White W",
+    "White/Red M",
+    "Red M",
+    "Red W",
+    "Red/Green W",
+    "Green M",
+    "Green W"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold M": 417,
+        "Blue M": 383,
+        "Blue/White M": 334,
+        "White M": 334,
+        "White W": 334,
+        "White/Red M": 325,
+        "Red M": 325,
+        "Red W": 325,
+        "Red/Green W": 271,
+        "Green M": 271,
+        "Green W": 271
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold M": 470,
+        "Blue M": 436,
+        "Blue/White M": 436,
+        "White M": 398,
+        "White W": 398,
+        "White/Red M": 380,
+        "Red M": 380,
+        "Red W": 380,
+        "Red/Green W": 317,
+        "Green M": 317,
+        "Green W": 317
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold M": 318,
+        "Blue M": 276,
+        "Blue/White M": 276,
+        "White M": 244,
+        "White W": 244,
+        "White/Red M": 244,
+        "Red M": 214,
+        "Red W": 214,
+        "Red/Green W": 214,
+        "Green M": 162,
+        "Green W": 162
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold M": 189,
+        "Blue M": 160,
+        "Blue/White M": 160,
+        "White M": 127,
+        "White W": 127,
+        "White/Red M": 119,
+        "Red M": 119,
+        "Red W": 119,
+        "Red/Green W": 119,
+        "Green M": 85,
+        "Green W": 85
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold M": 391,
+        "Blue M": 347,
+        "Blue/White M": 347,
+        "White M": 309,
+        "White W": 309,
+        "White/Red M": 298,
+        "Red M": 298,
+        "Red W": 298,
+        "Red/Green W": 298,
+        "Green M": 245,
+        "Green W": 245
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold M": 431,
+        "Blue M": 384,
+        "Blue/White M": 339,
+        "White M": 339,
+        "White W": 339,
+        "White/Red M": 339,
+        "Red M": 284,
+        "Red W": 284,
+        "Red/Green W": 284,
+        "Green M": 258,
+        "Green W": 258
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold M": 172,
+        "Blue M": 144,
+        "Blue/White M": 144,
+        "White M": 98,
+        "White W": 98,
+        "White/Red M": 98,
+        "Red M": 82,
+        "Red W": 82,
+        "Red/Green W": 82,
+        "Green M": 82,
+        "Green W": 82
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold M": 513,
+        "Blue M": 472,
+        "Blue/White M": 472,
+        "White M": 433,
+        "White W": 433,
+        "White/Red M": 433,
+        "Red M": 381,
+        "Red W": 381,
+        "Red/Green W": 349,
+        "Green M": 349,
+        "Green W": 349
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold M": 434,
+        "Blue M": 393,
+        "Blue/White M": 352,
+        "White M": 352,
+        "White W": 352,
+        "White/Red M": 352,
+        "Red M": 337,
+        "Red W": 337,
+        "Red/Green W": 284,
+        "Green M": 284,
+        "Green W": 284
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold M": 383,
+        "Blue M": 357,
+        "Blue/White M": 357,
+        "White M": 330,
+        "White W": 330,
+        "White/Red M": 330,
+        "Red M": 318,
+        "Red W": 318,
+        "Red/Green W": 318,
+        "Green M": 256,
+        "Green W": 256
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold M": 401,
+        "Blue M": 372,
+        "Blue/White M": 349,
+        "White M": 349,
+        "White W": 349,
+        "White/Red M": 325,
+        "Red M": 325,
+        "Red W": 325,
+        "Red/Green W": 269,
+        "Green M": 269,
+        "Green W": 269
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold M": 499,
+        "Blue M": 475,
+        "Blue/White M": 475,
+        "White M": 431,
+        "White W": 431,
+        "White/Red M": 411,
+        "Red M": 411,
+        "Red W": 411,
+        "Red/Green W": 351,
+        "Green M": 351,
+        "Green W": 351
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold M": 189,
+        "Blue M": 166,
+        "Blue/White M": 126,
+        "White M": 126,
+        "White W": 126,
+        "White/Red M": 126,
+        "Red M": 98,
+        "Red W": 98,
+        "Red/Green W": 98,
+        "Green M": 84,
+        "Green W": 84
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold M": 426,
+        "Blue M": 389,
+        "Blue/White M": 331,
+        "White M": 331,
+        "White W": 331,
+        "White/Red M": 331,
+        "Red M": 321,
+        "Red W": 321,
+        "Red/Green W": 321,
+        "Green M": 296,
+        "Green W": 296
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold M": 520,
+        "Blue M": 495,
+        "Blue/White M": 495,
+        "White M": 453,
+        "White W": 453,
+        "White/Red M": 433,
+        "Red M": 433,
+        "Red W": 433,
+        "Red/Green W": 373,
+        "Green M": 373,
+        "Green W": 373
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold M": 370,
+        "Blue M": 323,
+        "Blue/White M": 323,
+        "White M": 300,
+        "White W": 300,
+        "White/Red M": 300,
+        "Red M": 290,
+        "Red W": 290,
+        "Red/Green W": 290,
+        "Green M": 236,
+        "Green W": 236
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold M": 188,
+        "Blue M": 177,
+        "Blue/White M": 177,
+        "White M": 138,
+        "White W": 138,
+        "White/Red M": 138,
+        "Red M": 115,
+        "Red W": 115,
+        "Red/Green W": 115,
+        "Green M": 95,
+        "Green W": 95
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold M": 422,
+        "Blue M": 377,
+        "Blue/White M": 337,
+        "White M": 337,
+        "White W": 337,
+        "White/Red M": 328,
+        "Red M": 328,
+        "Red W": 328,
+        "Red/Green W": 298,
+        "Green M": 298,
+        "Green W": 298
+      }
+    }
+  ],
+  "version": 1
+}

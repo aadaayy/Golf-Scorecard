@@ -1,0 +1,235 @@
+{
+  "id": "mcarthur-golf-club-backyard-course",
+  "name": "Mcarthur Golf Club Backyard Course",
+  "town": "Hobe Sound, FL",
+  "location": {
+    "lat": 27.094252,
+    "lng": -80.167528
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 458,
+        "Gold": 433,
+        "Blue": 390,
+        "White": 357,
+        "Green": 320
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 393,
+        "Gold": 383,
+        "Blue": 366,
+        "White": 345,
+        "Green": 310
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 455,
+        "Gold": 431,
+        "Blue": 418,
+        "White": 342,
+        "Green": 267
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 297,
+        "Gold": 282,
+        "Blue": 261,
+        "White": 234,
+        "Green": 199
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 203,
+        "Gold": 188,
+        "Blue": 176,
+        "White": 145,
+        "Green": 139
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 382,
+        "Gold": 368,
+        "Blue": 349,
+        "White": 318,
+        "Green": 293
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 531,
+        "Gold": 509,
+        "Blue": 494,
+        "White": 453,
+        "Green": 421
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 261,
+        "Gold": 241,
+        "Blue": 187,
+        "White": 172,
+        "Green": 157
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 542,
+        "Gold": 537,
+        "Blue": 519,
+        "White": 459,
+        "Green": 432
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 164,
+        "Gold": 155,
+        "Blue": 135,
+        "White": 119,
+        "Green": 107
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 430,
+        "Gold": 397,
+        "Blue": 382,
+        "White": 351,
+        "Green": 341
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 392,
+        "Gold": 382,
+        "Blue": 363,
+        "White": 313,
+        "Green": 245
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 487,
+        "Gold": 459,
+        "Blue": 432,
+        "White": 404,
+        "Green": 322
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 138,
+        "Gold": 138,
+        "Blue": 125,
+        "White": 125,
+        "Green": 92
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 521,
+        "Gold": 501,
+        "Blue": 458,
+        "White": 438,
+        "Green": 403
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 196,
+        "Gold": 187,
+        "Blue": 174,
+        "White": 153,
+        "Green": 138
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 579,
+        "Gold": 551,
+        "Blue": 506,
+        "White": 469,
+        "Green": 389
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 473,
+        "Gold": 450,
+        "Blue": 407,
+        "White": 398,
+        "Green": 310
+      }
+    }
+  ],
+  "version": 1
+}

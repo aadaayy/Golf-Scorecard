@@ -1,0 +1,253 @@
+{
+  "id": "indian-creek-country-club",
+  "name": "Indian Creek Country Club",
+  "town": "Indian Creek, FL",
+  "location": {
+    "lat": 25.875664,
+    "lng": -80.141286
+  },
+  "tees": [
+    "Orange",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Orange": 353,
+        "Blue": 348,
+        "White": 332,
+        "Gold": 328,
+        "Red": 288
+      },
+      "map": "indian-creek-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Orange": 467,
+        "Blue": 426,
+        "White": 384,
+        "Gold": 380,
+        "Red": 325
+      },
+      "map": "indian-creek-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Orange": 574,
+        "Blue": 543,
+        "White": 528,
+        "Gold": 506,
+        "Red": 443
+      },
+      "map": "indian-creek-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Orange": 354,
+        "Blue": 335,
+        "White": 321,
+        "Gold": 315,
+        "Red": 278
+      },
+      "map": "indian-creek-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Orange": 190,
+        "Blue": 175,
+        "White": 155,
+        "Gold": 139,
+        "Red": 108
+      },
+      "map": "indian-creek-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Orange": 482,
+        "Blue": 452,
+        "White": 427,
+        "Gold": 383,
+        "Red": 345
+      },
+      "map": "indian-creek-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Orange": 362,
+        "Blue": 343,
+        "White": 325,
+        "Gold": 321,
+        "Red": 246
+      },
+      "map": "indian-creek-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Orange": 227,
+        "Blue": 202,
+        "White": 184,
+        "Gold": 160,
+        "Red": 116
+      },
+      "map": "indian-creek-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Orange": 570,
+        "Blue": 536,
+        "White": 512,
+        "Gold": 473,
+        "Red": 390
+      },
+      "map": "indian-creek-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Orange": 420,
+        "Blue": 414,
+        "White": 390,
+        "Gold": 355,
+        "Red": 322
+      },
+      "map": "indian-creek-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Orange": 590,
+        "Blue": 513,
+        "White": 498,
+        "Gold": 492,
+        "Red": 398
+      },
+      "map": "indian-creek-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Orange": 197,
+        "Blue": 190,
+        "White": 174,
+        "Gold": 160,
+        "Red": 131
+      },
+      "map": "indian-creek-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Orange": 324,
+        "Blue": 315,
+        "White": 306,
+        "Gold": 299,
+        "Red": 231
+      },
+      "map": "indian-creek-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Orange": 445,
+        "Blue": 430,
+        "White": 410,
+        "Gold": 350,
+        "Red": 300
+      },
+      "map": "indian-creek-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Orange": 170,
+        "Blue": 160,
+        "White": 142,
+        "Gold": 132,
+        "Red": 104
+      },
+      "map": "indian-creek-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Orange": 400,
+        "Blue": 374,
+        "White": 359,
+        "Gold": 346,
+        "Red": 279
+      },
+      "map": "indian-creek-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Orange": 410,
+        "Blue": 395,
+        "White": 379,
+        "Gold": 371,
+        "Red": 287
+      },
+      "map": "indian-creek-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Orange": 540,
+        "Blue": 501,
+        "White": 464,
+        "Gold": 445,
+        "Red": 385
+      },
+      "map": "indian-creek-country-club-18"
+    }
+  ],
+  "version": 1
+}

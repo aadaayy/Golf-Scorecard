@@ -1,0 +1,273 @@
+{
+  "id": "riverside-golf-course",
+  "name": "Riverside Golf Course",
+  "town": "Ruskin, FL",
+  "location": {
+    "lat": 27.682548,
+    "lng": -82.462249
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Gold",
+    "Silver",
+    "Red",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 339,
+        "Web": 319,
+        "White": 315,
+        "Gold": 302,
+        "Silver": 244,
+        "Red": 244,
+        "Green": 244
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 180,
+        "Web": 170,
+        "White": 165,
+        "Gold": 144,
+        "Silver": 144,
+        "Red": 130,
+        "Green": 130
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 379,
+        "Web": 367,
+        "White": 354,
+        "Gold": 335,
+        "Silver": 287,
+        "Red": 287,
+        "Green": 287
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 225,
+        "Web": 193,
+        "White": 193,
+        "Gold": 169,
+        "Silver": 169,
+        "Red": 150,
+        "Green": 132
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 393,
+        "Web": 388,
+        "White": 371,
+        "Gold": 348,
+        "Silver": 265,
+        "Red": 265,
+        "Green": 232
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 352,
+        "Web": 335,
+        "White": 333,
+        "Gold": 313,
+        "Silver": 313,
+        "Red": 268,
+        "Green": 216
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 505,
+        "Web": 490,
+        "White": 484,
+        "Gold": 467,
+        "Silver": 442,
+        "Red": 442,
+        "Green": 343
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 154,
+        "Web": 135,
+        "White": 135,
+        "Gold": 114,
+        "Silver": 114,
+        "Red": 104,
+        "Green": 104
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 298,
+        "Web": 305,
+        "White": 286,
+        "Gold": 276,
+        "Silver": 276,
+        "Red": 176,
+        "Green": 176
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 354,
+        "Web": 305,
+        "White": 303,
+        "Gold": 265,
+        "Silver": 265,
+        "Red": 197,
+        "Green": 197
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 499,
+        "Web": 389,
+        "White": 457,
+        "Gold": 411,
+        "Silver": 359,
+        "Red": 359,
+        "Green": 314
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 154,
+        "Web": 149,
+        "White": 145,
+        "Gold": 137,
+        "Silver": 110,
+        "Red": 110,
+        "Green": 56
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 384,
+        "Web": 357,
+        "White": 358,
+        "Gold": 340,
+        "Silver": 340,
+        "Red": 310,
+        "Green": 259
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 369,
+        "Web": 355,
+        "White": 349,
+        "Gold": 335,
+        "Silver": 296,
+        "Red": 296,
+        "Green": 238
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 409,
+        "Web": 377,
+        "White": 381,
+        "Gold": 358,
+        "Silver": 319,
+        "Red": 319,
+        "Green": 239
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 477,
+        "Web": 464,
+        "White": 458,
+        "Gold": 428,
+        "Silver": 428,
+        "Red": 367,
+        "Green": 367
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 340,
+        "Web": 330,
+        "White": 324,
+        "Gold": 308,
+        "Silver": 308,
+        "Red": 264,
+        "Green": 264
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 356,
+        "Web": 328,
+        "White": 326,
+        "Gold": 316,
+        "Silver": 282,
+        "Red": 277,
+        "Green": 228
+      }
+    }
+  ],
+  "version": 1
+}

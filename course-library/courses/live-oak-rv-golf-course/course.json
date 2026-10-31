@@ -1,0 +1,97 @@
+{
+  "id": "live-oak-rv-golf-course",
+  "name": "Live Oak Rv Golf Course",
+  "town": "Arcadia, FL",
+  "location": {
+    "lat": 27.037286,
+    "lng": -81.959294
+  },
+  "tees": [
+    "Center",
+    "Ladies"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Center": 172,
+        "Ladies": 172
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Center": 147,
+        "Ladies": 147
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Center": 102,
+        "Ladies": 102
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Center": 90,
+        "Ladies": 90
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Center": 190,
+        "Ladies": 150
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Center": 151,
+        "Ladies": 70
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Center": 113,
+        "Ladies": 113
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Center": 226,
+        "Ladies": 153
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Center": 190,
+        "Ladies": 190
+      }
+    }
+  ],
+  "version": 1
+}

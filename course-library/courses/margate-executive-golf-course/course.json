@@ -1,0 +1,67 @@
+{
+  "id": "margate-executive-golf-course",
+  "name": "Margate Executive Golf Course",
+  "town": "Margate, FL",
+  "location": {
+    "lat": 26.240119,
+    "lng": -80.229876
+  },
+  "tees": [],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 2,
+      "yards": {}
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {}
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 4,
+      "yards": {}
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {}
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 1,
+      "yards": {}
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 5,
+      "yards": {}
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {}
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {}
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 6,
+      "yards": {}
+    }
+  ],
+  "version": 1
+}

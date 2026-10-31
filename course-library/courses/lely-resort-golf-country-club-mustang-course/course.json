@@ -1,0 +1,254 @@
+{
+  "id": "lely-resort-golf-country-club-mustang-course",
+  "name": "Lely Resort Golf Country Club Mustang Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.084845,
+    "lng": -81.701262
+  },
+  "tees": [
+    "Championship/Black",
+    "Back/Green",
+    "Mustang/Green-White",
+    "Middle/White",
+    "Mustang/White-Aqua",
+    "Forward/Aqua"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Championship/Black": 531,
+        "Back/Green": 462,
+        "Mustang/Green-White": 462,
+        "Middle/White": 394,
+        "Mustang/White-Aqua": 394,
+        "Forward/Aqua": 359
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship/Black": 436,
+        "Back/Green": 396,
+        "Mustang/Green-White": 363,
+        "Middle/White": 363,
+        "Mustang/White-Aqua": 339,
+        "Forward/Aqua": 339
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship/Black": 439,
+        "Back/Green": 399,
+        "Mustang/Green-White": 374,
+        "Middle/White": 374,
+        "Mustang/White-Aqua": 343,
+        "Forward/Aqua": 343
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship/Black": 453,
+        "Back/Green": 425,
+        "Mustang/Green-White": 395,
+        "Middle/White": 395,
+        "Mustang/White-Aqua": 353,
+        "Forward/Aqua": 353
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship/Black": 162,
+        "Back/Green": 142,
+        "Mustang/Green-White": 142,
+        "Middle/White": 131,
+        "Mustang/White-Aqua": 131,
+        "Forward/Aqua": 110
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship/Black": 418,
+        "Back/Green": 382,
+        "Mustang/Green-White": 361,
+        "Middle/White": 361,
+        "Mustang/White-Aqua": 332,
+        "Forward/Aqua": 332
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Championship/Black": 545,
+        "Back/Green": 507,
+        "Mustang/Green-White": 507,
+        "Middle/White": 468,
+        "Mustang/White-Aqua": 420,
+        "Forward/Aqua": 420
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship/Black": 162,
+        "Back/Green": 150,
+        "Mustang/Green-White": 128,
+        "Middle/White": 128,
+        "Mustang/White-Aqua": 128,
+        "Forward/Aqua": 118
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship/Black": 436,
+        "Back/Green": 403,
+        "Mustang/Green-White": 363,
+        "Middle/White": 363,
+        "Mustang/White-Aqua": 333,
+        "Forward/Aqua": 333
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Championship/Black": 543,
+        "Back/Green": 511,
+        "Mustang/Green-White": 477,
+        "Middle/White": 477,
+        "Mustang/White-Aqua": 443,
+        "Forward/Aqua": 443
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship/Black": 478,
+        "Back/Green": 441,
+        "Mustang/Green-White": 399,
+        "Middle/White": 399,
+        "Mustang/White-Aqua": 318,
+        "Forward/Aqua": 318
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Championship/Black": 183,
+        "Back/Green": 170,
+        "Mustang/Green-White": 132,
+        "Middle/White": 132,
+        "Mustang/White-Aqua": 132,
+        "Forward/Aqua": 104
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship/Black": 425,
+        "Back/Green": 389,
+        "Mustang/Green-White": 338,
+        "Middle/White": 338,
+        "Mustang/White-Aqua": 338,
+        "Forward/Aqua": 253
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Championship/Black": 563,
+        "Back/Green": 515,
+        "Mustang/Green-White": 515,
+        "Middle/White": 470,
+        "Mustang/White-Aqua": 470,
+        "Forward/Aqua": 402
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship/Black": 478,
+        "Back/Green": 458,
+        "Mustang/Green-White": 430,
+        "Middle/White": 430,
+        "Mustang/White-Aqua": 343,
+        "Forward/Aqua": 343
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship/Black": 167,
+        "Back/Green": 141,
+        "Mustang/Green-White": 141,
+        "Middle/White": 126,
+        "Mustang/White-Aqua": 126,
+        "Forward/Aqua": 94
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship/Black": 416,
+        "Back/Green": 376,
+        "Mustang/Green-White": 355,
+        "Middle/White": 355,
+        "Mustang/White-Aqua": 310,
+        "Forward/Aqua": 310
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Championship/Black": 395,
+        "Back/Green": 360,
+        "Mustang/Green-White": 360,
+        "Middle/White": 314,
+        "Mustang/White-Aqua": 314,
+        "Forward/Aqua": 275
+      }
+    }
+  ],
+  "version": 1
+}

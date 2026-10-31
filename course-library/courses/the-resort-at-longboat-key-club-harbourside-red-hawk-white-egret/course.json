@@ -1,0 +1,273 @@
+{
+  "id": "the-resort-at-longboat-key-club-harbourside-red-hawk-white-egret",
+  "name": "The Resort At Longboat Key Club Harbourside Red Hawk White Egret",
+  "town": "Longboat Key, FL",
+  "location": {
+    "lat": 27.330562,
+    "lng": -82.590709
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Black",
+    "Gold",
+    "Green",
+    "Green/Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 382,
+        "Web": 382,
+        "White": 365,
+        "Black": 340,
+        "Gold": 330,
+        "Green": 320,
+        "Green/Red": 315
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 397,
+        "Web": 397,
+        "White": 365,
+        "Black": 340,
+        "Gold": 315,
+        "Green": 312,
+        "Green/Red": 230
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 175,
+        "Web": 175,
+        "White": 165,
+        "Black": 150,
+        "Gold": 125,
+        "Green": 110,
+        "Green/Red": 100
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 518,
+        "Web": 518,
+        "White": 500,
+        "Black": 475,
+        "Gold": 440,
+        "Green": 430,
+        "Green/Red": 410
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 338,
+        "Web": 338,
+        "White": 322,
+        "Black": 310,
+        "Gold": 290,
+        "Green": 280,
+        "Green/Red": 275
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 184,
+        "Web": 184,
+        "White": 170,
+        "Black": 160,
+        "Gold": 140,
+        "Green": 126,
+        "Green/Red": 120
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 401,
+        "Web": 401,
+        "White": 375,
+        "Black": 345,
+        "Gold": 330,
+        "Green": 305,
+        "Green/Red": 255
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 558,
+        "Web": 558,
+        "White": 520,
+        "Black": 505,
+        "Gold": 480,
+        "Green": 370,
+        "Green/Red": 370
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 384,
+        "Web": 384,
+        "White": 367,
+        "Black": 345,
+        "Gold": 330,
+        "Green": 320,
+        "Green/Red": 315
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 401,
+        "Web": 401,
+        "White": 390,
+        "Black": 360,
+        "Gold": 350,
+        "Green": 330,
+        "Green/Red": 325
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 415,
+        "Web": 415,
+        "White": 388,
+        "Black": 370,
+        "Gold": 345,
+        "Green": 335,
+        "Green/Red": 270
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 540,
+        "Web": 540,
+        "White": 505,
+        "Black": 450,
+        "Gold": 440,
+        "Green": 376,
+        "Green/Red": 310
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 390,
+        "Web": 390,
+        "White": 369,
+        "Black": 335,
+        "Gold": 325,
+        "Green": 315,
+        "Green/Red": 305
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 210,
+        "Web": 210,
+        "White": 185,
+        "Black": 170,
+        "Gold": 150,
+        "Green": 130,
+        "Green/Red": 125
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 383,
+        "Web": 383,
+        "White": 365,
+        "Black": 358,
+        "Gold": 330,
+        "Green": 320,
+        "Green/Red": 315
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 191,
+        "Web": 191,
+        "White": 165,
+        "Black": 155,
+        "Gold": 130,
+        "Green": 125,
+        "Green/Red": 115
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 526,
+        "Web": 526,
+        "White": 510,
+        "Black": 485,
+        "Gold": 460,
+        "Green": 425,
+        "Green/Red": 415
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 353,
+        "Web": 353,
+        "White": 325,
+        "Black": 280,
+        "Gold": 255,
+        "Green": 230,
+        "Green/Red": 225
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,107 @@
+{
+  "id": "executive-at-boca-raton-municipal-golf-course",
+  "name": "Executive At Boca Raton Municipal Golf Course",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.412873,
+    "lng": -80.104732
+  },
+  "tees": [
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "White": 330,
+        "Gold": 318,
+        "Red": 305
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "White": 144,
+        "Gold": 125,
+        "Red": 107
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "White": 162,
+        "Gold": 156,
+        "Red": 147
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "White": 310,
+        "Gold": 290,
+        "Red": 280
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "White": 160,
+        "Gold": 152,
+        "Red": 140
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 122,
+        "Gold": 113,
+        "Red": 106
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 124,
+        "Gold": 101,
+        "Red": 95
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "White": 361,
+        "Gold": 345,
+        "Red": 317
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "White": 164,
+        "Gold": 143,
+        "Red": 131
+      }
+    }
+  ],
+  "version": 1
+}

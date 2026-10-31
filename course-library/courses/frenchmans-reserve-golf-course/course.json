@@ -1,0 +1,254 @@
+{
+  "id": "frenchmans-reserve-golf-course",
+  "name": "Frenchmans Reserve Golf Course",
+  "town": "Palm Beach Gardens, FL",
+  "location": {
+    "lat": 26.861316,
+    "lng": -80.085877
+  },
+  "tees": [
+    "Blue",
+    "Silver",
+    "White",
+    "Green",
+    "Orange",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 511,
+        "Silver": 511,
+        "White": 497,
+        "Green": 442,
+        "Orange": 389,
+        "Red": 389
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 150,
+        "Silver": 150,
+        "White": 124,
+        "Green": 101,
+        "Orange": 101,
+        "Red": 68
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 401,
+        "Silver": 379,
+        "White": 379,
+        "Green": 350,
+        "Orange": 302,
+        "Red": 302
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 179,
+        "Silver": 153,
+        "White": 153,
+        "Green": 126,
+        "Orange": 126,
+        "Red": 111
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 347,
+        "Silver": 324,
+        "White": 324,
+        "Green": 297,
+        "Orange": 256,
+        "Red": 256
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 407,
+        "Silver": 394,
+        "White": 394,
+        "Green": 375,
+        "Orange": 308,
+        "Red": 308
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 389,
+        "Silver": 389,
+        "White": 359,
+        "Green": 348,
+        "Orange": 322,
+        "Red": 322
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 509,
+        "Silver": 486,
+        "White": 486,
+        "Green": 458,
+        "Orange": 406,
+        "Red": 406
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 377,
+        "Silver": 350,
+        "White": 350,
+        "Green": 262,
+        "Orange": 262,
+        "Red": 212
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 499,
+        "Silver": 499,
+        "White": 459,
+        "Green": 447,
+        "Orange": 378,
+        "Red": 378
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 148,
+        "Silver": 148,
+        "White": 141,
+        "Green": 118,
+        "Orange": 118,
+        "Red": 106
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 344,
+        "Silver": 344,
+        "White": 331,
+        "Green": 302,
+        "Orange": 302,
+        "Red": 277
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 497,
+        "Silver": 484,
+        "White": 484,
+        "Green": 446,
+        "Orange": 385,
+        "Red": 385
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 192,
+        "Silver": 192,
+        "White": 173,
+        "Green": 149,
+        "Orange": 149,
+        "Red": 109
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 294,
+        "Silver": 294,
+        "White": 263,
+        "Green": 236,
+        "Orange": 236,
+        "Red": 210
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 374,
+        "Silver": 337,
+        "White": 337,
+        "Green": 322,
+        "Orange": 272,
+        "Red": 272
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 356,
+        "Silver": 356,
+        "White": 332,
+        "Green": 305,
+        "Orange": 305,
+        "Red": 259
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 418,
+        "Silver": 395,
+        "White": 395,
+        "Green": 373,
+        "Orange": 332,
+        "Red": 332
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,87 @@
+{
+  "id": "sebring-lakeside-golf-resort",
+  "name": "Sebring Lakeside Golf Resort",
+  "town": "Sebring, FL",
+  "location": {
+    "lat": 27.519673,
+    "lng": -81.483922
+  },
+  "tees": [
+    "White"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "White": 87
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "White": 160
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "White": 105
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "White": 84
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "White": 83
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "White": 110
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "White": 80
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 140
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 165
+      }
+    }
+  ],
+  "version": 1
+}

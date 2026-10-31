@@ -1,0 +1,215 @@
+{
+  "id": "the-bridges-at-springtree-golf-club",
+  "name": "The Bridges At Springtree Golf Club",
+  "town": "Sunrise, FL",
+  "location": {
+    "lat": 26.170606,
+    "lng": -80.258142
+  },
+  "tees": [
+    "Black",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 161,
+        "White": 139,
+        "Green": 122
+      },
+      "map": "the-bridges-at-springtree-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 182,
+        "White": 142,
+        "Green": 123
+      },
+      "map": "the-bridges-at-springtree-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 209,
+        "White": 158,
+        "Green": 139
+      },
+      "map": "the-bridges-at-springtree-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 109,
+        "White": 94,
+        "Green": 88
+      },
+      "map": "the-bridges-at-springtree-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 229,
+        "White": 188,
+        "Green": 164
+      },
+      "map": "the-bridges-at-springtree-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 312,
+        "White": 281,
+        "Green": 254
+      },
+      "map": "the-bridges-at-springtree-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 183,
+        "White": 143,
+        "Green": 104
+      },
+      "map": "the-bridges-at-springtree-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 174,
+        "White": 141,
+        "Green": 121
+      },
+      "map": "the-bridges-at-springtree-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 317,
+        "White": 291,
+        "Green": 274
+      },
+      "map": "the-bridges-at-springtree-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 126,
+        "White": 105,
+        "Green": 86
+      },
+      "map": "the-bridges-at-springtree-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 449,
+        "White": 395,
+        "Green": 376
+      },
+      "map": "the-bridges-at-springtree-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 166,
+        "White": 148,
+        "Green": 93
+      },
+      "map": "the-bridges-at-springtree-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 98,
+        "White": 82,
+        "Green": 75
+      },
+      "map": "the-bridges-at-springtree-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 344,
+        "White": 319,
+        "Green": 271
+      },
+      "map": "the-bridges-at-springtree-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 186,
+        "White": 147,
+        "Green": 112
+      },
+      "map": "the-bridges-at-springtree-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 124,
+        "White": 98,
+        "Green": 84
+      },
+      "map": "the-bridges-at-springtree-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 345,
+        "White": 308,
+        "Green": 281
+      },
+      "map": "the-bridges-at-springtree-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 328,
+        "White": 287,
+        "Green": 257
+      },
+      "map": "the-bridges-at-springtree-golf-club-18"
+    }
+  ],
+  "version": 1
+}

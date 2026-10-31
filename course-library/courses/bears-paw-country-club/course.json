@@ -1,0 +1,291 @@
+{
+  "id": "bears-paw-country-club",
+  "name": "Bears Paw Country Club",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.172054,
+    "lng": -81.775244
+  },
+  "tees": [
+    "The Paw",
+    "Championship",
+    "One",
+    "Hybrid",
+    "Two",
+    "Three",
+    "Four"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "The Paw": 365,
+        "Championship": 355,
+        "One": 335,
+        "Hybrid": 335,
+        "Two": 316,
+        "Three": 300,
+        "Four": 286
+      },
+      "map": "bears-paw-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "The Paw": 212,
+        "Championship": 194,
+        "One": 180,
+        "Hybrid": 150,
+        "Two": 150,
+        "Three": 140,
+        "Four": 127
+      },
+      "map": "bears-paw-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "The Paw": 571,
+        "Championship": 510,
+        "One": 500,
+        "Hybrid": 470,
+        "Two": 470,
+        "Three": 460,
+        "Four": 422
+      },
+      "map": "bears-paw-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "The Paw": 405,
+        "Championship": 350,
+        "One": 345,
+        "Hybrid": 290,
+        "Two": 290,
+        "Three": 285,
+        "Four": 285
+      },
+      "map": "bears-paw-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "The Paw": 365,
+        "Championship": 355,
+        "One": 306,
+        "Hybrid": 306,
+        "Two": 286,
+        "Three": 262,
+        "Four": 257
+      },
+      "map": "bears-paw-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "The Paw": 497,
+        "Championship": 415,
+        "One": 405,
+        "Hybrid": 351,
+        "Two": 351,
+        "Three": 343,
+        "Four": 300
+      },
+      "map": "bears-paw-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "The Paw": 521,
+        "Championship": 510,
+        "One": 490,
+        "Hybrid": 490,
+        "Two": 432,
+        "Three": 425,
+        "Four": 389
+      },
+      "map": "bears-paw-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "The Paw": 185,
+        "Championship": 180,
+        "One": 135,
+        "Hybrid": 135,
+        "Two": 129,
+        "Three": 118,
+        "Four": 111
+      },
+      "map": "bears-paw-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "The Paw": 438,
+        "Championship": 400,
+        "One": 395,
+        "Hybrid": 360,
+        "Two": 360,
+        "Three": 301,
+        "Four": 287
+      },
+      "map": "bears-paw-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "The Paw": 374,
+        "Championship": 365,
+        "One": 319,
+        "Hybrid": 256,
+        "Two": 256,
+        "Three": 244,
+        "Four": 232
+      },
+      "map": "bears-paw-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "The Paw": 539,
+        "Championship": 494,
+        "One": 486,
+        "Hybrid": 486,
+        "Two": 448,
+        "Three": 439,
+        "Four": 408
+      },
+      "map": "bears-paw-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "The Paw": 393,
+        "Championship": 385,
+        "One": 334,
+        "Hybrid": 334,
+        "Two": 309,
+        "Three": 300,
+        "Four": 290
+      },
+      "map": "bears-paw-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "The Paw": 556,
+        "Championship": 539,
+        "One": 502,
+        "Hybrid": 445,
+        "Two": 445,
+        "Three": 435,
+        "Four": 397
+      },
+      "map": "bears-paw-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "The Paw": 218,
+        "Championship": 183,
+        "One": 151,
+        "Hybrid": 151,
+        "Two": 130,
+        "Three": 124,
+        "Four": 80
+      },
+      "map": "bears-paw-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "The Paw": 430,
+        "Championship": 362,
+        "One": 347,
+        "Hybrid": 347,
+        "Two": 288,
+        "Three": 275,
+        "Four": 259
+      },
+      "map": "bears-paw-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "The Paw": 185,
+        "Championship": 172,
+        "One": 158,
+        "Hybrid": 136,
+        "Two": 136,
+        "Three": 115,
+        "Four": 90
+      },
+      "map": "bears-paw-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "The Paw": 410,
+        "Championship": 371,
+        "One": 361,
+        "Hybrid": 342,
+        "Two": 342,
+        "Three": 321,
+        "Four": 286
+      },
+      "map": "bears-paw-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "The Paw": 403,
+        "Championship": 391,
+        "One": 366,
+        "Hybrid": 285,
+        "Two": 285,
+        "Three": 274,
+        "Four": 264
+      },
+      "map": "bears-paw-country-club-18"
+    }
+  ],
+  "version": 1
+}

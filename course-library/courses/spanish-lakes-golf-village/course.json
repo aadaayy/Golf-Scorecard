@@ -1,0 +1,97 @@
+{
+  "id": "spanish-lakes-golf-village",
+  "name": "Spanish Lakes Golf Village",
+  "town": "Port St. Lucie, FL",
+  "location": {
+    "lat": 27.305201,
+    "lng": -80.294652
+  },
+  "tees": [
+    "Ladies",
+    "Mens"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Ladies": 123,
+        "Mens": 123
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Ladies": 120,
+        "Mens": 120
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Ladies": 71,
+        "Mens": 71
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Ladies": 89,
+        "Mens": 89
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Ladies": 118,
+        "Mens": 118
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Ladies": 103,
+        "Mens": 103
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Ladies": 66,
+        "Mens": 66
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Ladies": 139,
+        "Mens": 139
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Ladies": 64,
+        "Mens": 64
+      }
+    }
+  ],
+  "version": 1
+}

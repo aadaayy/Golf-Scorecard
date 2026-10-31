@@ -1,0 +1,292 @@
+{
+  "id": "soleta-golf-golf-club",
+  "name": "Soleta Golf Golf Club",
+  "town": "Myakka City, FL",
+  "location": {
+    "lat": 27.339167,
+    "lng": -82.198047
+  },
+  "tees": [
+    "Black",
+    "Black/Gold",
+    "Gold",
+    "Gold/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 435,
+        "Black/Gold": 435,
+        "Gold": 364,
+        "Gold/Blue": 364,
+        "Blue": 341,
+        "Blue/White": 341,
+        "White": 316,
+        "Green": 279
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 428,
+        "Black/Gold": 399,
+        "Gold": 399,
+        "Gold/Blue": 378,
+        "Blue": 378,
+        "Blue/White": 344,
+        "White": 344,
+        "Green": 303
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 186,
+        "Black/Gold": 186,
+        "Gold": 175,
+        "Gold/Blue": 175,
+        "Blue": 163,
+        "Blue/White": 163,
+        "White": 149,
+        "Green": 129
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 467,
+        "Black/Gold": 405,
+        "Gold": 405,
+        "Gold/Blue": 386,
+        "Blue": 386,
+        "Blue/White": 352,
+        "White": 352,
+        "Green": 315
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 598,
+        "Black/Gold": 598,
+        "Gold": 553,
+        "Gold/Blue": 553,
+        "Blue": 525,
+        "Blue/White": 525,
+        "White": 480,
+        "Green": 423
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 386,
+        "Black/Gold": 386,
+        "Gold": 354,
+        "Gold/Blue": 354,
+        "Blue": 334,
+        "Blue/White": 334,
+        "White": 304,
+        "Green": 273
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 142,
+        "Black/Gold": 142,
+        "Gold": 131,
+        "Gold/Blue": 131,
+        "Blue": 125,
+        "Blue/White": 125,
+        "White": 114,
+        "Green": 101
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 572,
+        "Black/Gold": 572,
+        "Gold": 529,
+        "Gold/Blue": 529,
+        "Blue": 502,
+        "Blue/White": 502,
+        "White": 459,
+        "Green": 405
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 465,
+        "Black/Gold": 430,
+        "Gold": 430,
+        "Gold/Blue": 408,
+        "Blue": 408,
+        "Blue/White": 370,
+        "White": 370,
+        "Green": 329
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 467,
+        "Black/Gold": 419,
+        "Gold": 419,
+        "Gold/Blue": 398,
+        "Blue": 398,
+        "Blue/White": 363,
+        "White": 363,
+        "Green": 321
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 474,
+        "Black/Gold": 439,
+        "Gold": 439,
+        "Gold/Blue": 416,
+        "Blue": 416,
+        "Blue/White": 380,
+        "White": 380,
+        "Green": 336
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 168,
+        "Black/Gold": 168,
+        "Gold": 156,
+        "Gold/Blue": 156,
+        "Blue": 148,
+        "Blue/White": 148,
+        "White": 135,
+        "Green": 123
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 429,
+        "Black/Gold": 429,
+        "Gold": 384,
+        "Gold/Blue": 384,
+        "Blue": 359,
+        "Blue/White": 359,
+        "White": 326,
+        "Green": 290
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 488,
+        "Black/Gold": 426,
+        "Gold": 426,
+        "Gold/Blue": 404,
+        "Blue": 404,
+        "Blue/White": 367,
+        "White": 367,
+        "Green": 331
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 588,
+        "Black/Gold": 588,
+        "Gold": 544,
+        "Gold/Blue": 544,
+        "Blue": 517,
+        "Blue/White": 517,
+        "White": 472,
+        "Green": 413
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 235,
+        "Black/Gold": 218,
+        "Gold": 218,
+        "Gold/Blue": 180,
+        "Blue": 180,
+        "Blue/White": 166,
+        "White": 166,
+        "Green": 149
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 333,
+        "Black/Gold": 333,
+        "Gold": 308,
+        "Gold/Blue": 308,
+        "Blue": 292,
+        "Blue/White": 292,
+        "White": 267,
+        "Green": 236
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 550,
+        "Black/Gold": 550,
+        "Gold": 509,
+        "Gold/Blue": 509,
+        "Blue": 483,
+        "Blue/White": 483,
+        "White": 441,
+        "Green": 389
+      }
+    }
+  ],
+  "version": 1
+}

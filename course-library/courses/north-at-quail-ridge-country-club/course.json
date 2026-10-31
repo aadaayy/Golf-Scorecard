@@ -1,0 +1,159 @@
+{
+  "id": "north-at-quail-ridge-country-club",
+  "name": "North At Quail Ridge Country Club",
+  "town": "Boynton Beach, FL",
+  "location": {
+    "lat": 26.526738,
+    "lng": -80.102041
+  },
+  "tees": [
+    "Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 356
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 327
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Blue": 557
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 141
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 367
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 315
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 192
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Blue": 503
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 399
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Blue": 502
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 361
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 206
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 425
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 514
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 405
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 385
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 158
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 395
+      }
+    }
+  ],
+  "version": 1
+}

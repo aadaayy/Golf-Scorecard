@@ -1,0 +1,329 @@
+{
+  "id": "the-wanderers-club-at-wellington",
+  "name": "The Wanderers Club At Wellington",
+  "town": "Wellington, FL",
+  "location": {
+    "lat": 26.655185,
+    "lng": -80.290065
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Blue/Green",
+    "Green",
+    "Green/Gold",
+    "Gold",
+    "Gold/Silver",
+    "Silver",
+    "Family Ii"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 415,
+        "Blue": 400,
+        "Blue/Green": 400,
+        "Green": 391,
+        "Green/Gold": 310,
+        "Gold": 310,
+        "Gold/Silver": 310,
+        "Silver": 281,
+        "Family Ii": 250
+      },
+      "map": "the-wanderers-club-at-wellington-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 578,
+        "Blue": 547,
+        "Blue/Green": 528,
+        "Green": 528,
+        "Green/Gold": 457,
+        "Gold": 457,
+        "Gold/Silver": 457,
+        "Silver": 409,
+        "Family Ii": 375
+      },
+      "map": "the-wanderers-club-at-wellington-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 220,
+        "Blue": 192,
+        "Blue/Green": 163,
+        "Green": 163,
+        "Green/Gold": 163,
+        "Gold": 151,
+        "Gold/Silver": 135,
+        "Silver": 135,
+        "Family Ii": 125
+      },
+      "map": "the-wanderers-club-at-wellington-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 450,
+        "Blue": 419,
+        "Blue/Green": 419,
+        "Green": 394,
+        "Green/Gold": 363,
+        "Gold": 363,
+        "Gold/Silver": 314,
+        "Silver": 314,
+        "Family Ii": 255
+      },
+      "map": "the-wanderers-club-at-wellington-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 170,
+        "Blue": 147,
+        "Blue/Green": 147,
+        "Green": 140,
+        "Green/Gold": 140,
+        "Gold": 121,
+        "Gold/Silver": 121,
+        "Silver": 83,
+        "Family Ii": 85
+      },
+      "map": "the-wanderers-club-at-wellington-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 450,
+        "Blue": 403,
+        "Blue/Green": 382,
+        "Green": 382,
+        "Green/Gold": 373,
+        "Gold": 373,
+        "Gold/Silver": 320,
+        "Silver": 320,
+        "Family Ii": 240
+      },
+      "map": "the-wanderers-club-at-wellington-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 550,
+        "Blue": 509,
+        "Blue/Green": 483,
+        "Green": 483,
+        "Green/Gold": 483,
+        "Gold": 407,
+        "Gold/Silver": 407,
+        "Silver": 378,
+        "Family Ii": 320
+      },
+      "map": "the-wanderers-club-at-wellington-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 326,
+        "Blue": 302,
+        "Blue/Green": 302,
+        "Green": 292,
+        "Green/Gold": 292,
+        "Gold": 266,
+        "Gold/Silver": 226,
+        "Silver": 226,
+        "Family Ii": 180
+      },
+      "map": "the-wanderers-club-at-wellington-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 360,
+        "Blue": 331,
+        "Blue/Green": 331,
+        "Green": 297,
+        "Green/Gold": 297,
+        "Gold": 269,
+        "Gold/Silver": 269,
+        "Silver": 241,
+        "Family Ii": 220
+      },
+      "map": "the-wanderers-club-at-wellington-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 387,
+        "Blue": 358,
+        "Blue/Green": 358,
+        "Green": 349,
+        "Green/Gold": 349,
+        "Gold": 329,
+        "Gold/Silver": 283,
+        "Silver": 283,
+        "Family Ii": 250
+      },
+      "map": "the-wanderers-club-at-wellington-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 219,
+        "Blue": 200,
+        "Blue/Green": 189,
+        "Green": 189,
+        "Green/Gold": 168,
+        "Gold": 168,
+        "Gold/Silver": 129,
+        "Silver": 129,
+        "Family Ii": 100
+      },
+      "map": "the-wanderers-club-at-wellington-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 565,
+        "Blue": 546,
+        "Blue/Green": 486,
+        "Green": 486,
+        "Green/Gold": 463,
+        "Gold": 463,
+        "Gold/Silver": 463,
+        "Silver": 383,
+        "Family Ii": 360
+      },
+      "map": "the-wanderers-club-at-wellington-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 355,
+        "Blue": 331,
+        "Blue/Green": 331,
+        "Green": 294,
+        "Green/Gold": 294,
+        "Gold": 265,
+        "Gold/Silver": 228,
+        "Silver": 228,
+        "Family Ii": 195
+      },
+      "map": "the-wanderers-club-at-wellington-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 407,
+        "Blue": 381,
+        "Blue/Green": 372,
+        "Green": 372,
+        "Green/Gold": 340,
+        "Gold": 340,
+        "Gold/Silver": 275,
+        "Silver": 275,
+        "Family Ii": 240
+      },
+      "map": "the-wanderers-club-at-wellington-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 218,
+        "Blue": 193,
+        "Blue/Green": 168,
+        "Green": 168,
+        "Green/Gold": 168,
+        "Gold": 148,
+        "Gold/Silver": 148,
+        "Silver": 103,
+        "Family Ii": 140
+      },
+      "map": "the-wanderers-club-at-wellington-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 421,
+        "Blue": 398,
+        "Blue/Green": 398,
+        "Green": 388,
+        "Green/Gold": 350,
+        "Gold": 350,
+        "Gold/Silver": 350,
+        "Silver": 283,
+        "Family Ii": 260
+      },
+      "map": "the-wanderers-club-at-wellington-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 491,
+        "Blue": 470,
+        "Blue/Green": 470,
+        "Green": 432,
+        "Green/Gold": 432,
+        "Gold": 388,
+        "Gold/Silver": 353,
+        "Silver": 353,
+        "Family Ii": 280
+      },
+      "map": "the-wanderers-club-at-wellington-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 416,
+        "Blue": 387,
+        "Blue/Green": 353,
+        "Green": 353,
+        "Green/Gold": 344,
+        "Gold": 344,
+        "Gold/Silver": 304,
+        "Silver": 304,
+        "Family Ii": 255
+      },
+      "map": "the-wanderers-club-at-wellington-18"
+    }
+  ],
+  "version": 1
+}

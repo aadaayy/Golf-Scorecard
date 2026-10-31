@@ -1,0 +1,254 @@
+{
+  "id": "admirals-cove-east-course",
+  "name": "Admirals Cove East Course",
+  "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.90863,
+    "lng": -80.084395
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Green",
+    "Red",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 394,
+        "Blue": 388,
+        "White": 381,
+        "Green": 350,
+        "Red": 292,
+        "Gold": 292
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 585,
+        "Blue": 555,
+        "White": 534,
+        "Green": 456,
+        "Red": 428,
+        "Gold": 428
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 203,
+        "Blue": 189,
+        "White": 169,
+        "Green": 157,
+        "Red": 153,
+        "Gold": 110
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 440,
+        "Blue": 406,
+        "White": 366,
+        "Green": 338,
+        "Red": 313,
+        "Gold": 217
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 173,
+        "Blue": 168,
+        "White": 152,
+        "Green": 128,
+        "Red": 115,
+        "Gold": 103
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 422,
+        "Blue": 393,
+        "White": 359,
+        "Green": 347,
+        "Red": 331,
+        "Gold": 298
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 428,
+        "Blue": 399,
+        "White": 373,
+        "Green": 351,
+        "Red": 401,
+        "Gold": 346
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 391,
+        "Blue": 372,
+        "White": 360,
+        "Green": 329,
+        "Red": 305,
+        "Gold": 305
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 387,
+        "Blue": 381,
+        "White": 363,
+        "Green": 343,
+        "Red": 289,
+        "Gold": 256
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 173,
+        "Blue": 161,
+        "White": 142,
+        "Green": 124,
+        "Red": 106,
+        "Gold": 106
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 544,
+        "Blue": 521,
+        "White": 496,
+        "Green": 470,
+        "Red": 447,
+        "Gold": 412
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 415,
+        "Blue": 400,
+        "White": 385,
+        "Green": 344,
+        "Red": 339,
+        "Gold": 300
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 335,
+        "Blue": 323,
+        "White": 307,
+        "Green": 291,
+        "Red": 279,
+        "Gold": 234
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 159,
+        "Blue": 148,
+        "White": 140,
+        "Green": 124,
+        "Red": 118,
+        "Gold": 97
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 406,
+        "Blue": 391,
+        "White": 366,
+        "Green": 340,
+        "Red": 292,
+        "Gold": 292
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 213,
+        "Blue": 185,
+        "White": 164,
+        "Green": 142,
+        "Red": 136,
+        "Gold": 105
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 644,
+        "Blue": 584,
+        "White": 528,
+        "Green": 487,
+        "Red": 411,
+        "Gold": 411
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 463,
+        "Blue": 414,
+        "White": 396,
+        "Green": 357,
+        "Red": 357,
+        "Gold": 352
+      }
+    }
+  ],
+  "version": 1
+}

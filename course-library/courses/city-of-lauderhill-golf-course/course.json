@@ -1,0 +1,97 @@
+{
+  "id": "city-of-lauderhill-golf-course",
+  "name": "City Of Lauderhill Golf Course",
+  "town": "Fort Lauderdale, FL",
+  "location": {
+    "lat": 26.146654,
+    "lng": -80.206093
+  },
+  "tees": [
+    "Middle",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Middle": 85,
+        "Forward": 60
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Middle": 200,
+        "Forward": 140
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Middle": 110,
+        "Forward": 90
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Middle": 70,
+        "Forward": 50
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Middle": 180,
+        "Forward": 140
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Middle": 80,
+        "Forward": 65
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Middle": 275,
+        "Forward": 185
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Middle": 120,
+        "Forward": 85
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Middle": 100,
+        "Forward": 60
+      }
+    }
+  ],
+  "version": 1
+}

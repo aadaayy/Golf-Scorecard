@@ -1,0 +1,234 @@
+{
+  "id": "key-west-golf-club",
+  "name": "Key West Golf Club",
+  "town": "Key West, FL",
+  "location": {
+    "lat": 24.577541,
+    "lng": -81.745714
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 373,
+        "White": 361,
+        "Gold": 340,
+        "Red": 306
+      },
+      "map": "key-west-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 440,
+        "White": 430,
+        "Gold": 392,
+        "Red": 322
+      },
+      "map": "key-west-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 480,
+        "White": 441,
+        "Gold": 416,
+        "Red": 376
+      },
+      "map": "key-west-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 354,
+        "White": 336,
+        "Gold": 323,
+        "Red": 307
+      },
+      "map": "key-west-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 156,
+        "White": 133,
+        "Gold": 111,
+        "Red": 91
+      },
+      "map": "key-west-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 416,
+        "White": 393,
+        "Gold": 374,
+        "Red": 352
+      },
+      "map": "key-west-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 365,
+        "White": 345,
+        "Gold": 324,
+        "Red": 291
+      },
+      "map": "key-west-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 167,
+        "White": 140,
+        "Gold": 128,
+        "Red": 120
+      },
+      "map": "key-west-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 385,
+        "White": 352,
+        "Gold": 327,
+        "Red": 274
+      },
+      "map": "key-west-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 389,
+        "White": 359,
+        "Gold": 339,
+        "Red": 273
+      },
+      "map": "key-west-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 440,
+        "White": 419,
+        "Gold": 402,
+        "Red": 371
+      },
+      "map": "key-west-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 370,
+        "White": 344,
+        "Gold": 318,
+        "Red": 292
+      },
+      "map": "key-west-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 183,
+        "White": 158,
+        "Gold": 140,
+        "Red": 118
+      },
+      "map": "key-west-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 349,
+        "White": 330,
+        "Gold": 311,
+        "Red": 274
+      },
+      "map": "key-west-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 396,
+        "White": 375,
+        "Gold": 356,
+        "Red": 289
+      },
+      "map": "key-west-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 151,
+        "White": 128,
+        "Gold": 107,
+        "Red": 74
+      },
+      "map": "key-west-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 345,
+        "White": 299,
+        "Gold": 287,
+        "Red": 276
+      },
+      "map": "key-west-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 549,
+        "White": 534,
+        "Gold": 496,
+        "Red": 434
+      },
+      "map": "key-west-golf-club-18"
+    }
+  ],
+  "version": 1
+}

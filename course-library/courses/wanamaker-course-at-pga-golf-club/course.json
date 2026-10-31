@@ -1,0 +1,254 @@
+{
+  "id": "wanamaker-course-at-pga-golf-club",
+  "name": "Wanamaker Course At Pga Golf Club",
+  "town": "Port St. Lucie, FL",
+  "location": {
+    "lat": 27.309743,
+    "lng": -80.429569
+  },
+  "tees": [
+    "Medal",
+    "Tournament",
+    "Standard",
+    "Standard/Middle",
+    "Middle (W)",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Medal": 548,
+        "Tournament": 520,
+        "Standard": 483,
+        "Standard/Middle": 460,
+        "Middle (W)": 460,
+        "Forward": 370
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Medal": 463,
+        "Tournament": 428,
+        "Standard": 401,
+        "Standard/Middle": 369,
+        "Middle (W)": 369,
+        "Forward": 341
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Medal": 417,
+        "Tournament": 384,
+        "Standard": 353,
+        "Standard/Middle": 343,
+        "Middle (W)": 281,
+        "Forward": 270
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Medal": 222,
+        "Tournament": 198,
+        "Standard": 174,
+        "Standard/Middle": 159,
+        "Middle (W)": 159,
+        "Forward": 147
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Medal": 403,
+        "Tournament": 356,
+        "Standard": 311,
+        "Standard/Middle": 311,
+        "Middle (W)": 293,
+        "Forward": 287
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Medal": 180,
+        "Tournament": 165,
+        "Standard": 143,
+        "Standard/Middle": 143,
+        "Middle (W)": 109,
+        "Forward": 98
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Medal": 535,
+        "Tournament": 507,
+        "Standard": 505,
+        "Standard/Middle": 505,
+        "Middle (W)": 483,
+        "Forward": 424
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Medal": 365,
+        "Tournament": 340,
+        "Standard": 326,
+        "Standard/Middle": 326,
+        "Middle (W)": 308,
+        "Forward": 263
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Medal": 449,
+        "Tournament": 404,
+        "Standard": 390,
+        "Standard/Middle": 365,
+        "Middle (W)": 365,
+        "Forward": 320
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Medal": 365,
+        "Tournament": 362,
+        "Standard": 347,
+        "Standard/Middle": 319,
+        "Middle (W)": 319,
+        "Forward": 266
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Medal": 199,
+        "Tournament": 166,
+        "Standard": 145,
+        "Standard/Middle": 145,
+        "Middle (W)": 123,
+        "Forward": 89
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Medal": 400,
+        "Tournament": 375,
+        "Standard": 338,
+        "Standard/Middle": 338,
+        "Middle (W)": 292,
+        "Forward": 270
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Medal": 551,
+        "Tournament": 492,
+        "Standard": 461,
+        "Standard/Middle": 461,
+        "Middle (W)": 430,
+        "Forward": 416
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Medal": 460,
+        "Tournament": 436,
+        "Standard": 396,
+        "Standard/Middle": 359,
+        "Middle (W)": 359,
+        "Forward": 309
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Medal": 356,
+        "Tournament": 337,
+        "Standard": 320,
+        "Standard/Middle": 320,
+        "Middle (W)": 287,
+        "Forward": 234
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Medal": 507,
+        "Tournament": 475,
+        "Standard": 455,
+        "Standard/Middle": 455,
+        "Middle (W)": 438,
+        "Forward": 416
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Medal": 217,
+        "Tournament": 207,
+        "Standard": 191,
+        "Standard/Middle": 158,
+        "Middle (W)": 158,
+        "Forward": 92
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Medal": 442,
+        "Tournament": 401,
+        "Standard": 356,
+        "Standard/Middle": 340,
+        "Middle (W)": 340,
+        "Forward": 290
+      }
+    }
+  ],
+  "version": 1
+}

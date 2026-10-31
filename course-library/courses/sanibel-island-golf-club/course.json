@@ -1,0 +1,235 @@
+{
+  "id": "sanibel-island-golf-club",
+  "name": "Sanibel Island Golf Club",
+  "town": "Sanibel, FL",
+  "location": {
+    "lat": 26.436785,
+    "lng": -82.049829
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 403,
+        "White": 383,
+        "White/Gold": 368,
+        "Gold": 368,
+        "Red": 277
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 386,
+        "White": 360,
+        "White/Gold": 315,
+        "Gold": 315,
+        "Red": 302
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 167,
+        "White": 134,
+        "White/Gold": 134,
+        "Gold": 96,
+        "Red": 84
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 377,
+        "White": 348,
+        "White/Gold": 317,
+        "Gold": 317,
+        "Red": 278
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 392,
+        "White": 349,
+        "White/Gold": 270,
+        "Gold": 270,
+        "Red": 266
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 148,
+        "White": 141,
+        "White/Gold": 141,
+        "Gold": 95,
+        "Red": 91
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 358,
+        "White": 299,
+        "White/Gold": 299,
+        "Gold": 285,
+        "Red": 275
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 370,
+        "White": 356,
+        "White/Gold": 356,
+        "Gold": 343,
+        "Red": 204
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 531,
+        "White": 500,
+        "White/Gold": 460,
+        "Gold": 460,
+        "Red": 373
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 293,
+        "White": 289,
+        "White/Gold": 289,
+        "Gold": 275,
+        "Red": 272
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 339,
+        "White": 315,
+        "White/Gold": 270,
+        "Gold": 270,
+        "Red": 263
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 347,
+        "White": 311,
+        "White/Gold": 311,
+        "Gold": 291,
+        "Red": 236
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 151,
+        "White": 139,
+        "White/Gold": 139,
+        "Gold": 126,
+        "Red": 106
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 321,
+        "White": 316,
+        "White/Gold": 299,
+        "Gold": 299,
+        "Red": 286
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 432,
+        "White": 407,
+        "White/Gold": 348,
+        "Gold": 348,
+        "Red": 324
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 164,
+        "White": 147,
+        "White/Gold": 147,
+        "Gold": 127,
+        "Red": 96
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 388,
+        "White": 346,
+        "White/Gold": 293,
+        "Gold": 293,
+        "Red": 232
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 489,
+        "White": 431,
+        "White/Gold": 431,
+        "Gold": 342,
+        "Red": 338
+      }
+    }
+  ],
+  "version": 1
+}

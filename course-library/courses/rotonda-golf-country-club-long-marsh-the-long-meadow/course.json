@@ -1,0 +1,117 @@
+{
+  "id": "rotonda-golf-country-club-long-marsh-the-long-meadow",
+  "name": "Rotonda Golf Country Club Long Marsh The Long Meadow",
+  "town": "Rotonda West, FL",
+  "location": {
+    "lat": 26.887208,
+    "lng": -82.259256
+  },
+  "tees": [
+    "Gold",
+    "Green",
+    "White",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 400,
+        "Green": 379,
+        "White": 344,
+        "Orange": 286
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 428,
+        "Green": 399,
+        "White": 367,
+        "Orange": 324
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 520,
+        "Green": 498,
+        "White": 474,
+        "Orange": 410
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 382,
+        "Green": 361,
+        "White": 331,
+        "Orange": 301
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 179,
+        "Green": 163,
+        "White": 142,
+        "Orange": 104
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 543,
+        "Green": 510,
+        "White": 471,
+        "Orange": 423
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 459,
+        "Green": 434,
+        "White": 389,
+        "Orange": 346
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Gold": 235,
+        "Green": 213,
+        "White": 176,
+        "Orange": 148
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 406,
+        "Green": 396,
+        "White": 351,
+        "Orange": 259
+      }
+    }
+  ],
+  "version": 1
+}

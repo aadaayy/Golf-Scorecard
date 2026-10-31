@@ -1,0 +1,273 @@
+{
+  "id": "sailfish-point-golf-club",
+  "name": "Sailfish Point Golf Club",
+  "town": "Stuart, FL",
+  "location": {
+    "lat": 27.177731,
+    "lng": -80.158316
+  },
+  "tees": [
+    "Champ",
+    "Back",
+    "Member",
+    "Middle",
+    "Combo",
+    "Forward",
+    "Tee It Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Champ": 390,
+        "Back": 390,
+        "Member": 362,
+        "Middle": 344,
+        "Combo": 344,
+        "Forward": 288,
+        "Tee It Forward": 235
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Champ": 560,
+        "Back": 560,
+        "Member": 521,
+        "Middle": 500,
+        "Combo": 443,
+        "Forward": 435,
+        "Tee It Forward": 340
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Champ": 405,
+        "Back": 340,
+        "Member": 325,
+        "Middle": 268,
+        "Combo": 268,
+        "Forward": 264,
+        "Tee It Forward": 180
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Champ": 185,
+        "Back": 185,
+        "Member": 165,
+        "Middle": 142,
+        "Combo": 142,
+        "Forward": 127,
+        "Tee It Forward": 101
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Champ": 414,
+        "Back": 384,
+        "Member": 355,
+        "Middle": 330,
+        "Combo": 287,
+        "Forward": 278,
+        "Tee It Forward": 210
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Champ": 549,
+        "Back": 549,
+        "Member": 510,
+        "Middle": 479,
+        "Combo": 437,
+        "Forward": 437,
+        "Tee It Forward": 357
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Champ": 315,
+        "Back": 305,
+        "Member": 295,
+        "Middle": 279,
+        "Combo": 279,
+        "Forward": 207,
+        "Tee It Forward": 188
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Champ": 176,
+        "Back": 176,
+        "Member": 154,
+        "Middle": 131,
+        "Combo": 103,
+        "Forward": 124,
+        "Tee It Forward": 103
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Champ": 445,
+        "Back": 415,
+        "Member": 390,
+        "Middle": 340,
+        "Combo": 340,
+        "Forward": 284,
+        "Tee It Forward": 211
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Champ": 520,
+        "Back": 484,
+        "Member": 475,
+        "Middle": 450,
+        "Combo": 420,
+        "Forward": 390,
+        "Tee It Forward": 370
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Champ": 372,
+        "Back": 355,
+        "Member": 336,
+        "Middle": 284,
+        "Combo": 284,
+        "Forward": 230,
+        "Tee It Forward": 176
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Champ": 187,
+        "Back": 175,
+        "Member": 167,
+        "Middle": 135,
+        "Combo": 116,
+        "Forward": 112,
+        "Tee It Forward": 116
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Champ": 453,
+        "Back": 420,
+        "Member": 380,
+        "Middle": 340,
+        "Combo": 340,
+        "Forward": 303,
+        "Tee It Forward": 250
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Champ": 614,
+        "Back": 520,
+        "Member": 513,
+        "Middle": 465,
+        "Combo": 427,
+        "Forward": 439,
+        "Tee It Forward": 295
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Champ": 419,
+        "Back": 380,
+        "Member": 372,
+        "Middle": 341,
+        "Combo": 341,
+        "Forward": 290,
+        "Tee It Forward": 223
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Champ": 204,
+        "Back": 193,
+        "Member": 182,
+        "Middle": 158,
+        "Combo": 145,
+        "Forward": 135,
+        "Tee It Forward": 90
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Champ": 437,
+        "Back": 424,
+        "Member": 403,
+        "Middle": 380,
+        "Combo": 380,
+        "Forward": 302,
+        "Tee It Forward": 250
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Champ": 443,
+        "Back": 390,
+        "Member": 375,
+        "Middle": 360,
+        "Combo": 330,
+        "Forward": 313,
+        "Tee It Forward": 240
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,141 @@
+{
+  "id": "st-andrews-club",
+  "name": "St Andrews Club",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.416158,
+    "lng": -80.164157
+  },
+  "tees": [
+    "Web"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yards": {
+        "Web": 360
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "yards": {
+        "Web": 205
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "yards": {
+        "Web": 585
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "yards": {
+        "Web": 375
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yards": {
+        "Web": 445
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "yards": {
+        "Web": 220
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "yards": {
+        "Web": 515
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "yards": {
+        "Web": 340
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "yards": {
+        "Web": 405
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "yards": {
+        "Web": 470
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "yards": {
+        "Web": 405
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "yards": {
+        "Web": 160
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "yards": {
+        "Web": 560
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "yards": {
+        "Web": 395
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "yards": {
+        "Web": 535
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "yards": {
+        "Web": 165
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "yards": {
+        "Web": 405
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yards": {
+        "Web": 455
+      }
+    }
+  ],
+  "version": 1
+}

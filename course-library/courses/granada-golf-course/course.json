@@ -1,0 +1,116 @@
+{
+  "id": "granada-golf-course",
+  "name": "Granada Golf Course",
+  "town": "Coral Gables, FL",
+  "location": {
+    "lat": 25.75257,
+    "lng": -80.274685
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 398,
+        "White": 370,
+        "Red": 332
+      },
+      "map": "granada-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 357,
+        "White": 313,
+        "Red": 282
+      },
+      "map": "granada-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 209,
+        "White": 155,
+        "Red": 130
+      },
+      "map": "granada-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 466,
+        "White": 401,
+        "Red": 369
+      },
+      "map": "granada-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 191,
+        "White": 170,
+        "Red": 124
+      },
+      "map": "granada-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 499,
+        "White": 454,
+        "Red": 414
+      },
+      "map": "granada-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 124,
+        "White": 113,
+        "Red": 103
+      },
+      "map": "granada-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 372,
+        "White": 307,
+        "Red": 282
+      },
+      "map": "granada-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 441,
+        "White": 388,
+        "Red": 363
+      },
+      "map": "granada-golf-course-09"
+    }
+  ],
+  "version": 1
+}

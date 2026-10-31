@@ -1,0 +1,272 @@
+{
+  "id": "championship-at-hollybrook-golf-tennis-club",
+  "name": "Championship At Hollybrook Golf Tennis Club",
+  "town": "Pembroke Pines, FL",
+  "location": {
+    "lat": 26.000457,
+    "lng": -80.264914
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "Green",
+    "Black",
+    "Silver",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 439,
+        "Web": 439,
+        "Green": 414,
+        "Black": 386,
+        "Silver": 345,
+        "Gold": 319
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Blue": 500,
+        "Web": 500,
+        "Green": 467,
+        "Black": 452,
+        "Silver": 400,
+        "Gold": 357
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 173,
+        "Web": 173,
+        "Green": 155,
+        "Black": 130,
+        "Silver": 107,
+        "Gold": 93
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 391,
+        "Web": 391,
+        "Green": 373,
+        "Black": 346,
+        "Silver": 290,
+        "Gold": 260
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 394,
+        "Web": 394,
+        "Green": 363,
+        "Black": 346,
+        "Silver": 321,
+        "Gold": 280
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 410,
+        "Web": 410,
+        "Green": 375,
+        "Black": 346,
+        "Silver": 315,
+        "Gold": 287
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 195,
+        "Web": 195,
+        "Green": 172,
+        "Black": 148,
+        "Silver": 125,
+        "Gold": 106
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 374,
+        "Web": 374,
+        "Green": 345,
+        "Black": 315,
+        "Silver": 287,
+        "Gold": 243
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 542,
+        "Web": 542,
+        "Green": 511,
+        "Black": 487,
+        "Silver": 469,
+        "Gold": 439
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 336,
+        "Web": 336,
+        "Green": 320,
+        "Black": 294,
+        "Silver": 282,
+        "Gold": 235
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Blue": 484,
+        "Web": 484,
+        "Green": 450,
+        "Black": 423,
+        "Silver": 392,
+        "Gold": 365
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 164,
+        "Web": 164,
+        "Green": 146,
+        "Black": 134,
+        "Silver": 122,
+        "Gold": 110
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 396,
+        "Web": 396,
+        "Green": 373,
+        "Black": 355,
+        "Silver": 308,
+        "Gold": 283
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 357,
+        "Web": 357,
+        "Green": 338,
+        "Black": 316,
+        "Silver": 301,
+        "Gold": 248
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 300,
+        "Web": 300,
+        "Green": 277,
+        "Black": 253,
+        "Silver": 211,
+        "Gold": 175
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 511,
+        "Web": 511,
+        "Green": 481,
+        "Black": 457,
+        "Silver": 434,
+        "Gold": 390
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 178,
+        "Web": 178,
+        "Green": 164,
+        "Black": 131,
+        "Silver": 111,
+        "Gold": 81
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 400,
+        "Web": 400,
+        "Green": 371,
+        "Black": 339,
+        "Silver": 303,
+        "Gold": 270
+      },
+      "map": "championship-at-hollybrook-golf-tennis-club-18"
+    }
+  ],
+  "version": 1
+}

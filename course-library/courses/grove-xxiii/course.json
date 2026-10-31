@@ -1,0 +1,234 @@
+{
+  "id": "grove-xxiii",
+  "name": "Grove Xxiii",
+  "town": "Hobe Sound, FL",
+  "location": {
+    "lat": 27.077691,
+    "lng": -80.216556
+  },
+  "tees": [
+    "Teal",
+    "Red",
+    "Blue",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Teal": 406,
+        "Red": 365,
+        "Blue": 334,
+        "Gold": 298
+      },
+      "map": "grove-xxiii-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Teal": 340,
+        "Red": 309,
+        "Blue": 299,
+        "Gold": 257
+      },
+      "map": "grove-xxiii-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Teal": 210,
+        "Red": 191,
+        "Blue": 173,
+        "Gold": 173
+      },
+      "map": "grove-xxiii-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Teal": 576,
+        "Red": 526,
+        "Blue": 465,
+        "Gold": 465
+      },
+      "map": "grove-xxiii-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Teal": 386,
+        "Red": 350,
+        "Blue": 314,
+        "Gold": 288
+      },
+      "map": "grove-xxiii-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Teal": 412,
+        "Red": 371,
+        "Blue": 348,
+        "Gold": 324
+      },
+      "map": "grove-xxiii-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Teal": 156,
+        "Red": 142,
+        "Blue": 110,
+        "Gold": 110
+      },
+      "map": "grove-xxiii-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Teal": 535,
+        "Red": 515,
+        "Blue": 475,
+        "Gold": 414
+      },
+      "map": "grove-xxiii-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Teal": 437,
+        "Red": 390,
+        "Blue": 365,
+        "Gold": 324
+      },
+      "map": "grove-xxiii-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Teal": 416,
+        "Red": 375,
+        "Blue": 356,
+        "Gold": 301
+      },
+      "map": "grove-xxiii-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Teal": 550,
+        "Red": 510,
+        "Blue": 487,
+        "Gold": 422
+      },
+      "map": "grove-xxiii-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Teal": 440,
+        "Red": 420,
+        "Blue": 395,
+        "Gold": 362
+      },
+      "map": "grove-xxiii-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Teal": 221,
+        "Red": 208,
+        "Blue": 193,
+        "Gold": 186
+      },
+      "map": "grove-xxiii-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Teal": 440,
+        "Red": 399,
+        "Blue": 379,
+        "Gold": 341
+      },
+      "map": "grove-xxiii-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Teal": 150,
+        "Red": 136,
+        "Blue": 126,
+        "Gold": 136
+      },
+      "map": "grove-xxiii-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Teal": 325,
+        "Red": 280,
+        "Blue": 126,
+        "Gold": 126
+      },
+      "map": "grove-xxiii-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Teal": 515,
+        "Red": 495,
+        "Blue": 440,
+        "Gold": 382
+      },
+      "map": "grove-xxiii-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Teal": 448,
+        "Red": 413,
+        "Blue": 381,
+        "Gold": 325
+      },
+      "map": "grove-xxiii-18"
+    }
+  ],
+  "version": 1
+}

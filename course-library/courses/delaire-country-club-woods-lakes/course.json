@@ -1,0 +1,273 @@
+{
+  "id": "delaire-country-club-woods-lakes",
+  "name": "Delaire Country Club Woods Lakes",
+  "town": "Delray Beach, FL",
+  "location": {
+    "lat": 26.428566,
+    "lng": -80.115203
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Silver",
+    "Gold",
+    "Red",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 451,
+        "Blue": 406,
+        "White": 375,
+        "Silver": 358,
+        "Gold": 350,
+        "Red": 326,
+        "Green": 230
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 508,
+        "Blue": 491,
+        "White": 459,
+        "Silver": 427,
+        "Gold": 419,
+        "Red": 379,
+        "Green": 335
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 150,
+        "Blue": 137,
+        "White": 131,
+        "Silver": 125,
+        "Gold": 112,
+        "Red": 107,
+        "Green": 93
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 373,
+        "Blue": 373,
+        "White": 354,
+        "Silver": 329,
+        "Gold": 323,
+        "Red": 298,
+        "Green": 230
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 519,
+        "Blue": 498,
+        "White": 468,
+        "Silver": 420,
+        "Gold": 412,
+        "Red": 369,
+        "Green": 335
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 384,
+        "Blue": 365,
+        "White": 346,
+        "Silver": 340,
+        "Gold": 299,
+        "Red": 262,
+        "Green": 210
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 151,
+        "Blue": 143,
+        "White": 133,
+        "Silver": 127,
+        "Gold": 115,
+        "Red": 89,
+        "Green": 85
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 340,
+        "Blue": 322,
+        "White": 318,
+        "Silver": 312,
+        "Gold": 297,
+        "Red": 282,
+        "Green": 205
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 420,
+        "Blue": 400,
+        "White": 367,
+        "Silver": 346,
+        "Gold": 342,
+        "Red": 314,
+        "Green": 260
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 376,
+        "Blue": 369,
+        "White": 354,
+        "Silver": 349,
+        "Gold": 286,
+        "Red": 279,
+        "Green": 238
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 534,
+        "Blue": 508,
+        "White": 477,
+        "Silver": 450,
+        "Gold": 442,
+        "Red": 379,
+        "Green": 330
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 392,
+        "Blue": 390,
+        "White": 362,
+        "Silver": 332,
+        "Gold": 294,
+        "Red": 287,
+        "Green": 240
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 220,
+        "Blue": 195,
+        "White": 185,
+        "Silver": 158,
+        "Gold": 150,
+        "Red": 138,
+        "Green": 130
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 358,
+        "Blue": 346,
+        "White": 329,
+        "Silver": 321,
+        "Gold": 304,
+        "Red": 299,
+        "Green": 200
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 498,
+        "Blue": 488,
+        "White": 467,
+        "Silver": 442,
+        "Gold": 439,
+        "Red": 398,
+        "Green": 340
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 158,
+        "Blue": 150,
+        "White": 136,
+        "Silver": 127,
+        "Gold": 112,
+        "Red": 108,
+        "Green": 103
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 369,
+        "Blue": 359,
+        "White": 342,
+        "Silver": 333,
+        "Gold": 317,
+        "Red": 307,
+        "Green": 215
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 421,
+        "Blue": 407,
+        "White": 389,
+        "Silver": 350,
+        "Gold": 322,
+        "Red": 316,
+        "Green": 260
+      }
+    }
+  ],
+  "version": 1
+}

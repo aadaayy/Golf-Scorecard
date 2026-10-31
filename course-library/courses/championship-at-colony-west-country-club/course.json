@@ -1,0 +1,253 @@
+{
+  "id": "championship-at-colony-west-country-club",
+  "name": "Championship At Colony West Country Club",
+  "town": "Tamarac, FL",
+  "location": {
+    "lat": 26.206481,
+    "lng": -80.266856
+  },
+  "tees": [
+    "Green",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Green": 583,
+        "Blue": 552,
+        "White": 482,
+        "Gold": 367,
+        "Red": 350
+      },
+      "map": "championship-at-colony-west-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Green": 424,
+        "Blue": 396,
+        "White": 367,
+        "Gold": 344,
+        "Red": 272
+      },
+      "map": "championship-at-colony-west-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Green": 420,
+        "Blue": 392,
+        "White": 351,
+        "Gold": 313,
+        "Red": 238
+      },
+      "map": "championship-at-colony-west-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Green": 434,
+        "Blue": 397,
+        "White": 365,
+        "Gold": 303,
+        "Red": 233
+      },
+      "map": "championship-at-colony-west-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Green": 234,
+        "Blue": 198,
+        "White": 174,
+        "Gold": 150,
+        "Red": 131
+      },
+      "map": "championship-at-colony-west-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Green": 396,
+        "Blue": 372,
+        "White": 350,
+        "Gold": 276,
+        "Red": 227
+      },
+      "map": "championship-at-colony-west-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Green": 575,
+        "Blue": 536,
+        "White": 506,
+        "Gold": 446,
+        "Red": 355
+      },
+      "map": "championship-at-colony-west-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Green": 200,
+        "Blue": 180,
+        "White": 160,
+        "Gold": 141,
+        "Red": 131
+      },
+      "map": "championship-at-colony-west-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Green": 447,
+        "Blue": 426,
+        "White": 403,
+        "Gold": 357,
+        "Red": 345
+      },
+      "map": "championship-at-colony-west-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 386,
+        "Blue": 367,
+        "White": 350,
+        "Gold": 255,
+        "Red": 249
+      },
+      "map": "championship-at-colony-west-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Green": 425,
+        "Blue": 383,
+        "White": 353,
+        "Gold": 255,
+        "Red": 246
+      },
+      "map": "championship-at-colony-west-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Green": 410,
+        "Blue": 392,
+        "White": 347,
+        "Gold": 309,
+        "Red": 293
+      },
+      "map": "championship-at-colony-west-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Green": 196,
+        "Blue": 171,
+        "White": 152,
+        "Gold": 136,
+        "Red": 122
+      },
+      "map": "championship-at-colony-west-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Green": 561,
+        "Blue": 524,
+        "White": 503,
+        "Gold": 422,
+        "Red": 410
+      },
+      "map": "championship-at-colony-west-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Green": 451,
+        "Blue": 421,
+        "White": 400,
+        "Gold": 314,
+        "Red": 270
+      },
+      "map": "championship-at-colony-west-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Green": 421,
+        "Blue": 365,
+        "White": 337,
+        "Gold": 310,
+        "Red": 253
+      },
+      "map": "championship-at-colony-west-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Green": 167,
+        "Blue": 157,
+        "White": 143,
+        "Gold": 130,
+        "Red": 120
+      },
+      "map": "championship-at-colony-west-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Green": 431,
+        "Blue": 385,
+        "White": 337,
+        "Gold": 303,
+        "Red": 271
+      },
+      "map": "championship-at-colony-west-country-club-18"
+    }
+  ],
+  "version": 1
+}

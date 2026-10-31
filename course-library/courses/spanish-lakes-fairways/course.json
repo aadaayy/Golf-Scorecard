@@ -1,0 +1,178 @@
+{
+  "id": "spanish-lakes-fairways",
+  "name": "Spanish Lakes Fairways",
+  "town": "Fort Pierce, FL",
+  "location": {
+    "lat": 27.547516,
+    "lng": -80.466613
+  },
+  "tees": [
+    "Mens",
+    "Ladies"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Mens": 179,
+        "Ladies": 136
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Mens": 147,
+        "Ladies": 92
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Mens": 79,
+        "Ladies": 56
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Mens": 125,
+        "Ladies": 54
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Mens": 71,
+        "Ladies": 63
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Mens": 94,
+        "Ladies": 75
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Mens": 131,
+        "Ladies": 112
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Mens": 92,
+        "Ladies": 67
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Mens": 111,
+        "Ladies": 97
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Mens": 162,
+        "Ladies": 129
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Mens": 153,
+        "Ladies": 120
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Mens": 132,
+        "Ladies": 106
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Mens": 130,
+        "Ladies": 101
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Mens": 120,
+        "Ladies": 104
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Mens": 131,
+        "Ladies": 66
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Mens": 139,
+        "Ladies": 113
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Mens": 167,
+        "Ladies": 142
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Mens": 144,
+        "Ladies": 118
+      }
+    }
+  ],
+  "version": 1
+}

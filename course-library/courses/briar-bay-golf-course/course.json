@@ -1,0 +1,116 @@
+{
+  "id": "briar-bay-golf-course",
+  "name": "Briar Bay Golf Course",
+  "town": "Miami, FL",
+  "location": {
+    "lat": 25.645517,
+    "lng": -80.346106
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 148,
+        "White": 138,
+        "Red": 104
+      },
+      "map": "briar-bay-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 262,
+        "White": 251,
+        "Red": 240
+      },
+      "map": "briar-bay-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 312,
+        "White": 298,
+        "Red": 261
+      },
+      "map": "briar-bay-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 327,
+        "White": 292,
+        "Red": 229
+      },
+      "map": "briar-bay-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 123,
+        "White": 112,
+        "Red": 104
+      },
+      "map": "briar-bay-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 371,
+        "White": 330,
+        "Red": 316
+      },
+      "map": "briar-bay-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 126,
+        "White": 116,
+        "Red": 92
+      },
+      "map": "briar-bay-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 137,
+        "White": 126,
+        "Red": 115
+      },
+      "map": "briar-bay-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 143,
+        "White": 132,
+        "Red": 119
+      },
+      "map": "briar-bay-golf-course-09"
+    }
+  ],
+  "version": 1
+}

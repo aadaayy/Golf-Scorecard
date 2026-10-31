@@ -1,0 +1,292 @@
+{
+  "id": "the-bobcat-at-forest-country-club",
+  "name": "The Bobcat At Forest Country Club",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.501225,
+    "lng": -81.862373
+  },
+  "tees": [
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Red",
+    "Red/Green",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 331,
+        "Black/Blue": 331,
+        "Blue": 317,
+        "Blue/White": 317,
+        "White": 295,
+        "Red": 269,
+        "Red/Green": 269,
+        "Green": 240
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 548,
+        "Black/Blue": 522,
+        "Blue": 522,
+        "Blue/White": 483,
+        "White": 483,
+        "Red": 447,
+        "Red/Green": 415,
+        "Green": 415
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 308,
+        "Black/Blue": 308,
+        "Blue": 299,
+        "Blue/White": 299,
+        "White": 265,
+        "Red": 251,
+        "Red/Green": 251,
+        "Green": 211
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 191,
+        "Black/Blue": 191,
+        "Blue": 180,
+        "Blue/White": 166,
+        "White": 166,
+        "Red": 143,
+        "Red/Green": 143,
+        "Green": 127
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 385,
+        "Black/Blue": 369,
+        "Blue": 369,
+        "Blue/White": 330,
+        "White": 330,
+        "Red": 309,
+        "Red/Green": 275,
+        "Green": 275
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 507,
+        "Black/Blue": 507,
+        "Blue": 492,
+        "Blue/White": 492,
+        "White": 439,
+        "Red": 422,
+        "Red/Green": 422,
+        "Green": 372
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 434,
+        "Black/Blue": 397,
+        "Blue": 397,
+        "Blue/White": 369,
+        "White": 369,
+        "Red": 349,
+        "Red/Green": 310,
+        "Green": 310
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 164,
+        "Black/Blue": 164,
+        "Blue": 145,
+        "Blue/White": 145,
+        "White": 135,
+        "Red": 111,
+        "Red/Green": 111,
+        "Green": 87
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 411,
+        "Black/Blue": 377,
+        "Blue": 377,
+        "Blue/White": 349,
+        "White": 349,
+        "Red": 328,
+        "Red/Green": 270,
+        "Green": 270
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 372,
+        "Black/Blue": 372,
+        "Blue": 321,
+        "Blue/White": 321,
+        "White": 307,
+        "Red": 288,
+        "Red/Green": 238,
+        "Green": 238
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 406,
+        "Black/Blue": 349,
+        "Blue": 349,
+        "Blue/White": 331,
+        "White": 331,
+        "Red": 315,
+        "Red/Green": 273,
+        "Green": 273
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 540,
+        "Black/Blue": 505,
+        "Blue": 505,
+        "Blue/White": 445,
+        "White": 445,
+        "Red": 425,
+        "Red/Green": 425,
+        "Green": 385
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 214,
+        "Black/Blue": 159,
+        "Blue": 159,
+        "Blue/White": 159,
+        "White": 144,
+        "Red": 126,
+        "Red/Green": 126,
+        "Green": 96
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 315,
+        "Black/Blue": 315,
+        "Blue": 305,
+        "Blue/White": 305,
+        "White": 284,
+        "Red": 267,
+        "Red/Green": 267,
+        "Green": 223
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 405,
+        "Black/Blue": 367,
+        "Blue": 367,
+        "Blue/White": 339,
+        "White": 339,
+        "Red": 319,
+        "Red/Green": 273,
+        "Green": 273
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 506,
+        "Black/Blue": 506,
+        "Blue": 485,
+        "Blue/White": 485,
+        "White": 435,
+        "Red": 419,
+        "Red/Green": 396,
+        "Green": 396
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 206,
+        "Black/Blue": 182,
+        "Blue": 182,
+        "Blue/White": 160,
+        "White": 160,
+        "Red": 146,
+        "Red/Green": 131,
+        "Green": 131
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 319,
+        "Black/Blue": 319,
+        "Blue": 305,
+        "Blue/White": 305,
+        "White": 288,
+        "Red": 258,
+        "Red/Green": 258,
+        "Green": 225
+      }
+    }
+  ],
+  "version": 1
+}

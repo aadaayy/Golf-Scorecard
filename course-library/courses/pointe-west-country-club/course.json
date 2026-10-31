@@ -1,0 +1,235 @@
+{
+  "id": "pointe-west-country-club",
+  "name": "Pointe West Country Club",
+  "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.629183,
+    "lng": -80.481878
+  },
+  "tees": [
+    "Tournament",
+    "Back",
+    "Middle",
+    "Standard",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tournament": 401,
+        "Back": 374,
+        "Middle": 345,
+        "Standard": 317,
+        "Forward": 282
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Tournament": 520,
+        "Back": 490,
+        "Middle": 475,
+        "Standard": 428,
+        "Forward": 388
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tournament": 435,
+        "Back": 405,
+        "Middle": 364,
+        "Standard": 347,
+        "Forward": 321
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tournament": 338,
+        "Back": 326,
+        "Middle": 293,
+        "Standard": 269,
+        "Forward": 244
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tournament": 172,
+        "Back": 152,
+        "Middle": 127,
+        "Standard": 116,
+        "Forward": 92
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tournament": 380,
+        "Back": 354,
+        "Middle": 327,
+        "Standard": 293,
+        "Forward": 282
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tournament": 381,
+        "Back": 370,
+        "Middle": 331,
+        "Standard": 302,
+        "Forward": 271
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tournament": 202,
+        "Back": 176,
+        "Middle": 164,
+        "Standard": 146,
+        "Forward": 133
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Tournament": 522,
+        "Back": 488,
+        "Middle": 477,
+        "Standard": 462,
+        "Forward": 400
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Tournament": 549,
+        "Back": 540,
+        "Middle": 486,
+        "Standard": 469,
+        "Forward": 431
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tournament": 184,
+        "Back": 158,
+        "Middle": 147,
+        "Standard": 115,
+        "Forward": 102
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tournament": 455,
+        "Back": 418,
+        "Middle": 386,
+        "Standard": 360,
+        "Forward": 347
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tournament": 380,
+        "Back": 366,
+        "Middle": 319,
+        "Standard": 285,
+        "Forward": 249
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tournament": 199,
+        "Back": 168,
+        "Middle": 135,
+        "Standard": 120,
+        "Forward": 115
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tournament": 423,
+        "Back": 365,
+        "Middle": 353,
+        "Standard": 311,
+        "Forward": 276
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Tournament": 587,
+        "Back": 528,
+        "Middle": 486,
+        "Standard": 441,
+        "Forward": 406
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tournament": 446,
+        "Back": 435,
+        "Middle": 353,
+        "Standard": 327,
+        "Forward": 317
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tournament": 290,
+        "Back": 286,
+        "Middle": 258,
+        "Standard": 248,
+        "Forward": 223
+      }
+    }
+  ],
+  "version": 1
+}

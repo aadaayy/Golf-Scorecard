@@ -1,0 +1,272 @@
+{
+  "id": "lexington-country-club",
+  "name": "Lexington Country Club",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.494561,
+    "lng": -81.906742
+  },
+  "tees": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "I": 538,
+        "II": 526,
+        "III": 513,
+        "IV": 467,
+        "V": 433,
+        "VI": 387
+      },
+      "map": "lexington-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I": 396,
+        "II": 375,
+        "III": 354,
+        "IV": 343,
+        "V": 284,
+        "VI": 277
+      },
+      "map": "lexington-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "I": 622,
+        "II": 552,
+        "III": 504,
+        "IV": 480,
+        "V": 420,
+        "VI": 407
+      },
+      "map": "lexington-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I": 188,
+        "II": 171,
+        "III": 160,
+        "IV": 135,
+        "V": 111,
+        "VI": 86
+      },
+      "map": "lexington-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "I": 447,
+        "II": 384,
+        "III": 360,
+        "IV": 348,
+        "V": 298,
+        "VI": 288
+      },
+      "map": "lexington-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 196,
+        "II": 173,
+        "III": 159,
+        "IV": 132,
+        "V": 117,
+        "VI": 94
+      },
+      "map": "lexington-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "I": 359,
+        "II": 319,
+        "III": 298,
+        "IV": 288,
+        "V": 269,
+        "VI": 225
+      },
+      "map": "lexington-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "I": 379,
+        "II": 368,
+        "III": 339,
+        "IV": 316,
+        "V": 279,
+        "VI": 255
+      },
+      "map": "lexington-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I": 375,
+        "II": 375,
+        "III": 346,
+        "IV": 316,
+        "V": 262,
+        "VI": 228
+      },
+      "map": "lexington-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "I": 442,
+        "II": 390,
+        "III": 383,
+        "IV": 354,
+        "V": 319,
+        "VI": 298
+      },
+      "map": "lexington-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "I": 251,
+        "II": 214,
+        "III": 199,
+        "IV": 157,
+        "V": 147,
+        "VI": 113
+      },
+      "map": "lexington-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "I": 361,
+        "II": 330,
+        "III": 323,
+        "IV": 303,
+        "V": 267,
+        "VI": 237
+      },
+      "map": "lexington-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "I": 565,
+        "II": 556,
+        "III": 514,
+        "IV": 504,
+        "V": 472,
+        "VI": 424
+      },
+      "map": "lexington-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 208,
+        "II": 199,
+        "III": 165,
+        "IV": 151,
+        "V": 128,
+        "VI": 107
+      },
+      "map": "lexington-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "I": 330,
+        "II": 328,
+        "III": 322,
+        "IV": 304,
+        "V": 283,
+        "VI": 258
+      },
+      "map": "lexington-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "I": 558,
+        "II": 512,
+        "III": 480,
+        "IV": 447,
+        "V": 427,
+        "VI": 387
+      },
+      "map": "lexington-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "I": 411,
+        "II": 384,
+        "III": 330,
+        "IV": 310,
+        "V": 302,
+        "VI": 262
+      },
+      "map": "lexington-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 378,
+        "II": 378,
+        "III": 358,
+        "IV": 334,
+        "V": 280,
+        "VI": 238
+      },
+      "map": "lexington-country-club-18"
+    }
+  ],
+  "version": 1
+}

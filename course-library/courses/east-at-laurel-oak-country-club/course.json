@@ -1,0 +1,273 @@
+{
+  "id": "east-at-laurel-oak-country-club",
+  "name": "East At Laurel Oak Country Club",
+  "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.307638,
+    "lng": -82.416268
+  },
+  "tees": [
+    "Black",
+    "Combo Black/Gold",
+    "Gold",
+    "Combo Green",
+    "Blue",
+    "Combo Yellow",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 418,
+        "Combo Black/Gold": 418,
+        "Gold": 403,
+        "Combo Green": 357,
+        "Blue": 357,
+        "Combo Yellow": 305,
+        "Red": 305
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 402,
+        "Combo Black/Gold": 402,
+        "Gold": 380,
+        "Combo Green": 380,
+        "Blue": 349,
+        "Combo Yellow": 324,
+        "Red": 292
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 208,
+        "Combo Black/Gold": 208,
+        "Gold": 173,
+        "Combo Green": 173,
+        "Blue": 163,
+        "Combo Yellow": 121,
+        "Red": 114
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 558,
+        "Combo Black/Gold": 558,
+        "Gold": 495,
+        "Combo Green": 460,
+        "Blue": 460,
+        "Combo Yellow": 377,
+        "Red": 377
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 390,
+        "Combo Black/Gold": 334,
+        "Gold": 334,
+        "Combo Green": 307,
+        "Blue": 307,
+        "Combo Yellow": 239,
+        "Red": 239
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 230,
+        "Combo Black/Gold": 186,
+        "Gold": 186,
+        "Combo Green": 164,
+        "Blue": 164,
+        "Combo Yellow": 86,
+        "Red": 86
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 357,
+        "Combo Black/Gold": 357,
+        "Gold": 338,
+        "Combo Green": 338,
+        "Blue": 330,
+        "Combo Yellow": 287,
+        "Red": 278
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 475,
+        "Combo Black/Gold": 420,
+        "Gold": 420,
+        "Combo Green": 384,
+        "Blue": 384,
+        "Combo Yellow": 284,
+        "Red": 284
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 504,
+        "Combo Black/Gold": 504,
+        "Gold": 482,
+        "Combo Green": 482,
+        "Blue": 461,
+        "Combo Yellow": 439,
+        "Red": 362
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 458,
+        "Combo Black/Gold": 408,
+        "Gold": 408,
+        "Combo Green": 388,
+        "Blue": 388,
+        "Combo Yellow": 325,
+        "Red": 325
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 360,
+        "Combo Black/Gold": 360,
+        "Gold": 334,
+        "Combo Green": 334,
+        "Blue": 309,
+        "Combo Yellow": 286,
+        "Red": 247
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 393,
+        "Combo Black/Gold": 393,
+        "Gold": 366,
+        "Combo Green": 346,
+        "Blue": 346,
+        "Combo Yellow": 257,
+        "Red": 257
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 180,
+        "Combo Black/Gold": 180,
+        "Gold": 157,
+        "Combo Green": 157,
+        "Blue": 136,
+        "Combo Yellow": 117,
+        "Red": 83
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 438,
+        "Combo Black/Gold": 388,
+        "Gold": 388,
+        "Combo Green": 388,
+        "Blue": 381,
+        "Combo Yellow": 304,
+        "Red": 283
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 416,
+        "Combo Black/Gold": 381,
+        "Gold": 381,
+        "Combo Green": 351,
+        "Blue": 351,
+        "Combo Yellow": 283,
+        "Red": 283
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 561,
+        "Combo Black/Gold": 518,
+        "Gold": 518,
+        "Combo Green": 461,
+        "Blue": 461,
+        "Combo Yellow": 360,
+        "Red": 360
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 154,
+        "Combo Black/Gold": 154,
+        "Gold": 148,
+        "Combo Green": 148,
+        "Blue": 131,
+        "Combo Yellow": 120,
+        "Red": 94
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 508,
+        "Combo Black/Gold": 508,
+        "Gold": 493,
+        "Combo Green": 493,
+        "Blue": 454,
+        "Combo Yellow": 433,
+        "Red": 404
+      }
+    }
+  ],
+  "version": 1
+}

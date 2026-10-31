@@ -1,0 +1,197 @@
+{
+  "id": "old-orange-at-verandah",
+  "name": "Old Orange At Verandah",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.689954,
+    "lng": -81.752451
+  },
+  "tees": [
+    "No. 1",
+    "No. 2",
+    "No. 5"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "No. 1": 401,
+        "No. 2": 369,
+        "No. 5": 285
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "No. 1": 215,
+        "No. 2": 194,
+        "No. 5": 133
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "No. 1": 450,
+        "No. 2": 417,
+        "No. 5": 313
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "No. 1": 401,
+        "No. 2": 358,
+        "No. 5": 313
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "No. 1": 549,
+        "No. 2": 527,
+        "No. 5": 417
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "No. 1": 156,
+        "No. 2": 151,
+        "No. 5": 97
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "No. 1": 415,
+        "No. 2": 386,
+        "No. 5": 298
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "No. 1": 328,
+        "No. 2": 290,
+        "No. 5": 240
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "No. 1": 541,
+        "No. 2": 510,
+        "No. 5": 437
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "No. 1": 438,
+        "No. 2": 422,
+        "No. 5": 317
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "No. 1": 251,
+        "No. 2": 212,
+        "No. 5": 138
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "No. 1": 382,
+        "No. 2": 356,
+        "No. 5": 285
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "No. 1": 651,
+        "No. 2": 596,
+        "No. 5": 449
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "No. 1": 445,
+        "No. 2": 411,
+        "No. 5": 323
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "No. 1": 517,
+        "No. 2": 479,
+        "No. 5": 408
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "No. 1": 416,
+        "No. 2": 380,
+        "No. 5": 316
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "No. 1": 123,
+        "No. 2": 116,
+        "No. 5": 95
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "No. 1": 404,
+        "No. 2": 367,
+        "No. 5": 296
+      }
+    }
+  ],
+  "version": 1
+}

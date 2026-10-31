@@ -1,0 +1,87 @@
+{
+  "id": "golfview-golf-recreation",
+  "name": "Golfview Golf Recreation",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.524963,
+    "lng": -81.892454
+  },
+  "tees": [
+    "Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 132
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 91
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 119
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 165
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 101
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 146
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 135
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 117
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 80
+      }
+    }
+  ],
+  "version": 1
+}

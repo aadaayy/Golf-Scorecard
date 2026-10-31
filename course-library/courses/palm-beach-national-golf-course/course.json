@@ -1,0 +1,234 @@
+{
+  "id": "palm-beach-national-golf-course",
+  "name": "Palm Beach National Golf Course",
+  "town": "Greenacres, FL",
+  "location": {
+    "lat": 26.626274,
+    "lng": -80.165054
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Blue": 504,
+        "White": 483,
+        "Gold": 391,
+        "Red": 374
+      },
+      "map": "palm-beach-national-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 378,
+        "White": 349,
+        "Gold": 314,
+        "Red": 286
+      },
+      "map": "palm-beach-national-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 158,
+        "White": 141,
+        "Gold": 123,
+        "Red": 91
+      },
+      "map": "palm-beach-national-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 399,
+        "White": 353,
+        "Gold": 310,
+        "Red": 272
+      },
+      "map": "palm-beach-national-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 411,
+        "White": 405,
+        "Gold": 367,
+        "Red": 298
+      },
+      "map": "palm-beach-national-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 412,
+        "White": 398,
+        "Gold": 318,
+        "Red": 280
+      },
+      "map": "palm-beach-national-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 492,
+        "White": 465,
+        "Gold": 438,
+        "Red": 396
+      },
+      "map": "palm-beach-national-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 174,
+        "White": 155,
+        "Gold": 137,
+        "Red": 120
+      },
+      "map": "palm-beach-national-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 361,
+        "White": 339,
+        "Gold": 300,
+        "Red": 275
+      },
+      "map": "palm-beach-national-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 404,
+        "White": 370,
+        "Gold": 339,
+        "Red": 308
+      },
+      "map": "palm-beach-national-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 154,
+        "White": 145,
+        "Gold": 136,
+        "Red": 127
+      },
+      "map": "palm-beach-national-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 361,
+        "White": 348,
+        "Gold": 329,
+        "Red": 287
+      },
+      "map": "palm-beach-national-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 413,
+        "White": 385,
+        "Gold": 350,
+        "Red": 328
+      },
+      "map": "palm-beach-national-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Blue": 501,
+        "White": 472,
+        "Gold": 403,
+        "Red": 388
+      },
+      "map": "palm-beach-national-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 378,
+        "White": 356,
+        "Gold": 311,
+        "Red": 308
+      },
+      "map": "palm-beach-national-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 384,
+        "White": 353,
+        "Gold": 296,
+        "Red": 259
+      },
+      "map": "palm-beach-national-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 349,
+        "White": 332,
+        "Gold": 313,
+        "Red": 300
+      },
+      "map": "palm-beach-national-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 343,
+        "White": 311,
+        "Gold": 294,
+        "Red": 271
+      },
+      "map": "palm-beach-national-golf-course-18"
+    }
+  ],
+  "version": 1
+}

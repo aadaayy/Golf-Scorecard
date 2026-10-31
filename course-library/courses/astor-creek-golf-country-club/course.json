@@ -1,0 +1,292 @@
+{
+  "id": "astor-creek-golf-country-club",
+  "name": "Astor Creek Golf Country Club",
+  "town": "Port St. Lucie, FL",
+  "location": {
+    "lat": 27.300491,
+    "lng": -80.458418
+  },
+  "tees": [
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/Grey",
+    "Grey",
+    "Grey/White",
+    "White",
+    "Astor"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 426,
+        "Black/Blue": 395,
+        "Blue": 395,
+        "Blue/Grey": 351,
+        "Grey": 351,
+        "Grey/White": 307,
+        "White": 307,
+        "Astor": 241
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 148,
+        "Black/Blue": 148,
+        "Blue": 124,
+        "Blue/Grey": 124,
+        "Grey": 109,
+        "Grey/White": 92,
+        "White": 92,
+        "Astor": 70
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 447,
+        "Black/Blue": 403,
+        "Blue": 403,
+        "Blue/Grey": 403,
+        "Grey": 367,
+        "Grey/White": 367,
+        "White": 321,
+        "Astor": 265
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 552,
+        "Black/Blue": 552,
+        "Blue": 509,
+        "Blue/Grey": 473,
+        "Grey": 473,
+        "Grey/White": 411,
+        "White": 411,
+        "Astor": 275
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 360,
+        "Black/Blue": 322,
+        "Blue": 322,
+        "Blue/Grey": 322,
+        "Grey": 283,
+        "Grey/White": 241,
+        "White": 241,
+        "Astor": 196
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 171,
+        "Black/Blue": 171,
+        "Blue": 152,
+        "Blue/Grey": 152,
+        "Grey": 135,
+        "Grey/White": 135,
+        "White": 111,
+        "Astor": 83
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 429,
+        "Black/Blue": 378,
+        "Blue": 378,
+        "Blue/Grey": 378,
+        "Grey": 335,
+        "Grey/White": 335,
+        "White": 276,
+        "Astor": 218
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 566,
+        "Black/Blue": 520,
+        "Blue": 520,
+        "Blue/Grey": 520,
+        "Grey": 467,
+        "Grey/White": 467,
+        "White": 408,
+        "Astor": 318
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 382,
+        "Black/Blue": 382,
+        "Blue": 337,
+        "Blue/Grey": 289,
+        "Grey": 289,
+        "Grey/White": 289,
+        "White": 246,
+        "Astor": 194
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 414,
+        "Black/Blue": 414,
+        "Blue": 365,
+        "Blue/Grey": 365,
+        "Grey": 324,
+        "Grey/White": 324,
+        "White": 259,
+        "Astor": 185
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 339,
+        "Black/Blue": 303,
+        "Blue": 303,
+        "Blue/Grey": 267,
+        "Grey": 267,
+        "Grey/White": 219,
+        "White": 219,
+        "Astor": 179
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 205,
+        "Black/Blue": 205,
+        "Blue": 174,
+        "Blue/Grey": 157,
+        "Grey": 157,
+        "Grey/White": 157,
+        "White": 121,
+        "Astor": 84
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 522,
+        "Black/Blue": 522,
+        "Blue": 503,
+        "Blue/Grey": 503,
+        "Grey": 446,
+        "Grey/White": 446,
+        "White": 384,
+        "Astor": 310
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 434,
+        "Black/Blue": 391,
+        "Blue": 391,
+        "Blue/Grey": 391,
+        "Grey": 340,
+        "Grey/White": 340,
+        "White": 284,
+        "Astor": 237
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 157,
+        "Black/Blue": 157,
+        "Blue": 137,
+        "Blue/Grey": 137,
+        "Grey": 113,
+        "Grey/White": 91,
+        "White": 91,
+        "Astor": 70
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 573,
+        "Black/Blue": 573,
+        "Blue": 518,
+        "Blue/Grey": 518,
+        "Grey": 467,
+        "Grey/White": 419,
+        "White": 419,
+        "Astor": 340
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 393,
+        "Black/Blue": 393,
+        "Blue": 347,
+        "Blue/Grey": 347,
+        "Grey": 288,
+        "Grey/White": 288,
+        "White": 245,
+        "Astor": 179
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 385,
+        "Black/Blue": 360,
+        "Blue": 360,
+        "Blue/Grey": 318,
+        "Grey": 318,
+        "Grey/White": 264,
+        "White": 264,
+        "Astor": 209
+      }
+    }
+  ],
+  "version": 1
+}

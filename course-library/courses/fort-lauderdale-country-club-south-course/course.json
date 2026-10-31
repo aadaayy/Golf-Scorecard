@@ -1,0 +1,197 @@
+{
+  "id": "fort-lauderdale-country-club-south-course",
+  "name": "Fort Lauderdale Country Club South Course",
+  "town": "Plantation, FL",
+  "location": {
+    "lat": 26.11506,
+    "lng": -80.20788
+  },
+  "tees": [
+    "Champion",
+    "Member/Middle",
+    "Middle"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Champion": 344,
+        "Member/Middle": 314,
+        "Middle": 314
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Champion": 408,
+        "Member/Middle": 391,
+        "Middle": 351
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Champion": 204,
+        "Member/Middle": 175,
+        "Middle": 175
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Champion": 408,
+        "Member/Middle": 383,
+        "Middle": 373
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Champion": 353,
+        "Member/Middle": 330,
+        "Middle": 330
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Champion": 543,
+        "Member/Middle": 510,
+        "Middle": 462
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Champion": 391,
+        "Member/Middle": 358,
+        "Middle": 358
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Champion": 175,
+        "Member/Middle": 150,
+        "Middle": 125
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Champion": 435,
+        "Member/Middle": 390,
+        "Middle": 378
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Champion": 398,
+        "Member/Middle": 388,
+        "Middle": 388
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Champion": 411,
+        "Member/Middle": 383,
+        "Middle": 346
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Champion": 187,
+        "Member/Middle": 180,
+        "Middle": 180
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Champion": 373,
+        "Member/Middle": 337,
+        "Middle": 337
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Champion": 466,
+        "Member/Middle": 430,
+        "Middle": 430
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Champion": 409,
+        "Member/Middle": 365,
+        "Middle": 365
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Champion": 517,
+        "Member/Middle": 482,
+        "Middle": 472
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Champion": 198,
+        "Member/Middle": 158,
+        "Middle": 138
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Champion": 416,
+        "Member/Middle": 381,
+        "Middle": 369
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,292 @@
+{
+  "id": "glen-eagle-golf-country-club",
+  "name": "Glen Eagle Golf Country Club",
+  "town": "East Naples, FL",
+  "location": {
+    "lat": 26.141511,
+    "lng": -81.730984
+  },
+  "tees": [
+    "Tee 1",
+    "Tee 1/2",
+    "Tee 2",
+    "Tee 2/3",
+    "Tee 3",
+    "Tee 3/4",
+    "Tee 4",
+    "Tee 5"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tee 1": 369,
+        "Tee 1/2": 369,
+        "Tee 2": 346,
+        "Tee 2/3": 346,
+        "Tee 3": 318,
+        "Tee 3/4": 292,
+        "Tee 4": 292,
+        "Tee 5": 223
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Tee 1": 216,
+        "Tee 1/2": 191,
+        "Tee 2": 191,
+        "Tee 2/3": 155,
+        "Tee 3": 155,
+        "Tee 3/4": 155,
+        "Tee 4": 131,
+        "Tee 5": 131
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Tee 1": 445,
+        "Tee 1/2": 418,
+        "Tee 2": 418,
+        "Tee 2/3": 412,
+        "Tee 3": 412,
+        "Tee 3/4": 403,
+        "Tee 4": 403,
+        "Tee 5": 403
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tee 1": 157,
+        "Tee 1/2": 157,
+        "Tee 2": 138,
+        "Tee 2/3": 138,
+        "Tee 3": 116,
+        "Tee 3/4": 116,
+        "Tee 4": 102,
+        "Tee 5": 74
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tee 1": 316,
+        "Tee 1/2": 316,
+        "Tee 2": 287,
+        "Tee 2/3": 287,
+        "Tee 3": 263,
+        "Tee 3/4": 263,
+        "Tee 4": 239,
+        "Tee 5": 171
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tee 1": 130,
+        "Tee 1/2": 130,
+        "Tee 2": 112,
+        "Tee 2/3": 112,
+        "Tee 3": 95,
+        "Tee 3/4": 95,
+        "Tee 4": 77,
+        "Tee 5": 77
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Tee 1": 351,
+        "Tee 1/2": 295,
+        "Tee 2": 295,
+        "Tee 2/3": 244,
+        "Tee 3": 244,
+        "Tee 3/4": 244,
+        "Tee 4": 237,
+        "Tee 5": 237
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tee 1": 403,
+        "Tee 1/2": 369,
+        "Tee 2": 369,
+        "Tee 2/3": 354,
+        "Tee 3": 354,
+        "Tee 3/4": 339,
+        "Tee 4": 339,
+        "Tee 5": 339
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Tee 1": 452,
+        "Tee 1/2": 452,
+        "Tee 2": 407,
+        "Tee 2/3": 407,
+        "Tee 3": 393,
+        "Tee 3/4": 347,
+        "Tee 4": 347,
+        "Tee 5": 347
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Tee 1": 281,
+        "Tee 1/2": 281,
+        "Tee 2": 254,
+        "Tee 2/3": 254,
+        "Tee 3": 235,
+        "Tee 3/4": 235,
+        "Tee 4": 217,
+        "Tee 5": 217
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tee 1": 316,
+        "Tee 1/2": 299,
+        "Tee 2": 299,
+        "Tee 2/3": 282,
+        "Tee 3": 282,
+        "Tee 3/4": 225,
+        "Tee 4": 225,
+        "Tee 5": 225
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tee 1": 196,
+        "Tee 1/2": 196,
+        "Tee 2": 148,
+        "Tee 2/3": 148,
+        "Tee 3": 115,
+        "Tee 3/4": 115,
+        "Tee 4": 90,
+        "Tee 5": 90
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tee 1": 333,
+        "Tee 1/2": 291,
+        "Tee 2": 291,
+        "Tee 2/3": 269,
+        "Tee 3": 269,
+        "Tee 3/4": 269,
+        "Tee 4": 249,
+        "Tee 5": 249
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Tee 1": 186,
+        "Tee 1/2": 172,
+        "Tee 2": 172,
+        "Tee 2/3": 159,
+        "Tee 3": 159,
+        "Tee 3/4": 159,
+        "Tee 4": 139,
+        "Tee 5": 139
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tee 1": 329,
+        "Tee 1/2": 295,
+        "Tee 2": 295,
+        "Tee 2/3": 284,
+        "Tee 3": 284,
+        "Tee 3/4": 273,
+        "Tee 4": 273,
+        "Tee 5": 204
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Tee 1": 301,
+        "Tee 1/2": 301,
+        "Tee 2": 275,
+        "Tee 2/3": 275,
+        "Tee 3": 276,
+        "Tee 3/4": 265,
+        "Tee 4": 265,
+        "Tee 5": 265
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Tee 1": 498,
+        "Tee 1/2": 458,
+        "Tee 2": 458,
+        "Tee 2/3": 430,
+        "Tee 3": 430,
+        "Tee 3/4": 414,
+        "Tee 4": 414,
+        "Tee 5": 332
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tee 1": 353,
+        "Tee 1/2": 353,
+        "Tee 2": 328,
+        "Tee 2/3": 328,
+        "Tee 3": 286,
+        "Tee 3/4": 263,
+        "Tee 4": 263,
+        "Tee 5": 263
+      }
+    }
+  ],
+  "version": 1
+}

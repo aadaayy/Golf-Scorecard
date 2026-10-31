@@ -1,0 +1,273 @@
+{
+  "id": "country-club-of-naples",
+  "name": "Country Club Of Naples",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.20431,
+    "lng": -81.786169
+  },
+  "tees": [
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Red",
+    "Red/Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 380,
+        "Blue/White": 380,
+        "White": 365,
+        "White/Gold": 365,
+        "Gold": 312,
+        "Red": 278,
+        "Red/Silver": 278
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 177,
+        "Blue/White": 177,
+        "White": 159,
+        "White/Gold": 159,
+        "Gold": 145,
+        "Red": 131,
+        "Red/Silver": 131
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 469,
+        "Blue/White": 400,
+        "White": 400,
+        "White/Gold": 366,
+        "Gold": 366,
+        "Red": 342,
+        "Red/Silver": 301
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 436,
+        "Blue/White": 367,
+        "White": 367,
+        "White/Gold": 367,
+        "Gold": 339,
+        "Red": 325,
+        "Red/Silver": 287
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 504,
+        "Blue/White": 504,
+        "White": 472,
+        "White/Gold": 434,
+        "Gold": 434,
+        "Red": 402,
+        "Red/Silver": 360
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 159,
+        "Blue/White": 159,
+        "White": 149,
+        "White/Gold": 149,
+        "Gold": 125,
+        "Red": 113,
+        "Red/Silver": 113
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 535,
+        "Blue/White": 535,
+        "White": 510,
+        "White/Gold": 438,
+        "Gold": 438,
+        "Red": 424,
+        "Red/Silver": 424
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 359,
+        "Blue/White": 344,
+        "White": 344,
+        "White/Gold": 344,
+        "Gold": 333,
+        "Red": 320,
+        "Red/Silver": 289
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 402,
+        "Blue/White": 366,
+        "White": 366,
+        "White/Gold": 366,
+        "Gold": 338,
+        "Red": 309,
+        "Red/Silver": 309
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 364,
+        "Blue/White": 364,
+        "White": 342,
+        "White/Gold": 342,
+        "Gold": 296,
+        "Red": 274,
+        "Red/Silver": 274
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 397,
+        "Blue/White": 384,
+        "White": 384,
+        "White/Gold": 339,
+        "Gold": 339,
+        "Red": 317,
+        "Red/Silver": 262
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 214,
+        "Blue/White": 183,
+        "White": 183,
+        "White/Gold": 183,
+        "Gold": 151,
+        "Red": 138,
+        "Red/Silver": 107
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 573,
+        "Blue/White": 494,
+        "White": 494,
+        "White/Gold": 435,
+        "Gold": 435,
+        "Red": 416,
+        "Red/Silver": 377
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 387,
+        "Blue/White": 387,
+        "White": 373,
+        "White/Gold": 330,
+        "Gold": 330,
+        "Red": 299,
+        "Red/Silver": 299
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 215,
+        "Blue/White": 151,
+        "White": 151,
+        "White/Gold": 151,
+        "Gold": 117,
+        "Red": 106,
+        "Red/Silver": 106
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 376,
+        "Blue/White": 340,
+        "White": 340,
+        "White/Gold": 291,
+        "Gold": 291,
+        "Red": 279,
+        "Red/Silver": 279
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 394,
+        "Blue/White": 394,
+        "White": 352,
+        "White/Gold": 352,
+        "Gold": 328,
+        "Red": 316,
+        "Red/Silver": 316
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Blue": 473,
+        "Blue/White": 473,
+        "White": 456,
+        "White/Gold": 456,
+        "Gold": 379,
+        "Red": 370,
+        "Red/Silver": 370
+      }
+    }
+  ],
+  "version": 1
+}

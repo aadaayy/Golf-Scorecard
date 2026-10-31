@@ -1,0 +1,330 @@
+{
+  "id": "west-at-wycliffe-country-club",
+  "name": "West At Wycliffe Country Club",
+  "town": "Wellington, FL",
+  "location": {
+    "lat": 26.611487,
+    "lng": -80.211825
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Silver",
+    "White",
+    "Bronze",
+    "Gold",
+    "Orange",
+    "Green",
+    "Red",
+    "Platinum"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 323,
+        "Blue": 300,
+        "Silver": 300,
+        "White": 284,
+        "Bronze": 284,
+        "Gold": 265,
+        "Orange": 221,
+        "Green": 221,
+        "Red": 221,
+        "Platinum": 221
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 344,
+        "Blue": 301,
+        "Silver": 301,
+        "White": 276,
+        "Bronze": 276,
+        "Gold": 243,
+        "Orange": 243,
+        "Green": 206,
+        "Red": 206,
+        "Platinum": 206
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 144,
+        "Blue": 132,
+        "Silver": 132,
+        "White": 120,
+        "Bronze": 120,
+        "Gold": 111,
+        "Orange": 99,
+        "Green": 99,
+        "Red": 99,
+        "Platinum": 69
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 553,
+        "Blue": 528,
+        "Silver": 483,
+        "White": 483,
+        "Bronze": 448,
+        "Gold": 448,
+        "Orange": 410,
+        "Green": 410,
+        "Red": 300,
+        "Platinum": 300
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 388,
+        "Blue": 361,
+        "Silver": 298,
+        "White": 298,
+        "Bronze": 298,
+        "Gold": 280,
+        "Orange": 280,
+        "Green": 266,
+        "Red": 266,
+        "Platinum": 204
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 456,
+        "Blue": 437,
+        "Silver": 392,
+        "White": 392,
+        "Bronze": 377,
+        "Gold": 377,
+        "Orange": 354,
+        "Green": 354,
+        "Red": 188,
+        "Platinum": 188
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 384,
+        "Blue": 372,
+        "Silver": 346,
+        "White": 346,
+        "Bronze": 284,
+        "Gold": 284,
+        "Orange": 284,
+        "Green": 245,
+        "Red": 245,
+        "Platinum": 177
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 372,
+        "Blue": 343,
+        "Silver": 343,
+        "White": 306,
+        "Bronze": 283,
+        "Gold": 283,
+        "Orange": 247,
+        "Green": 247,
+        "Red": 247,
+        "Platinum": 200
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 187,
+        "Blue": 160,
+        "Silver": 160,
+        "White": 121,
+        "Bronze": 121,
+        "Gold": 104,
+        "Orange": 104,
+        "Green": 92,
+        "Red": 92,
+        "Platinum": 92
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 408,
+        "Blue": 377,
+        "Silver": 349,
+        "White": 349,
+        "Bronze": 326,
+        "Gold": 326,
+        "Orange": 326,
+        "Green": 305,
+        "Red": 213,
+        "Platinum": 213
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 376,
+        "Blue": 376,
+        "Silver": 329,
+        "White": 329,
+        "Bronze": 329,
+        "Gold": 292,
+        "Orange": 227,
+        "Green": 227,
+        "Red": 227,
+        "Platinum": 180
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 411,
+        "Blue": 363,
+        "Silver": 363,
+        "White": 328,
+        "Bronze": 328,
+        "Gold": 293,
+        "Orange": 293,
+        "Green": 269,
+        "Red": 269,
+        "Platinum": 205
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 356,
+        "Blue": 356,
+        "Silver": 325,
+        "White": 325,
+        "Bronze": 297,
+        "Gold": 297,
+        "Orange": 297,
+        "Green": 273,
+        "Red": 273,
+        "Platinum": 195
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 346,
+        "Blue": 325,
+        "Silver": 325,
+        "White": 296,
+        "Bronze": 296,
+        "Gold": 248,
+        "Orange": 248,
+        "Green": 224,
+        "Red": 224,
+        "Platinum": 190
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 475,
+        "Blue": 461,
+        "Silver": 461,
+        "White": 426,
+        "Bronze": 392,
+        "Gold": 392,
+        "Orange": 392,
+        "Green": 366,
+        "Red": 310,
+        "Platinum": 310
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 147,
+        "Blue": 129,
+        "Silver": 129,
+        "White": 114,
+        "Bronze": 114,
+        "Gold": 98,
+        "Orange": 98,
+        "Green": 86,
+        "Red": 86,
+        "Platinum": 86
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 270,
+        "Blue": 257,
+        "Silver": 257,
+        "White": 242,
+        "Bronze": 242,
+        "Gold": 242,
+        "Orange": 242,
+        "Green": 195,
+        "Red": 195,
+        "Platinum": 195
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 426,
+        "Blue": 393,
+        "Silver": 310,
+        "White": 310,
+        "Bronze": 310,
+        "Gold": 310,
+        "Orange": 310,
+        "Green": 283,
+        "Red": 210,
+        "Platinum": 210
+      }
+    }
+  ],
+  "version": 1
+}

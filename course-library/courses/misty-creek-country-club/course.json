@@ -1,0 +1,235 @@
+{
+  "id": "misty-creek-country-club",
+  "name": "Misty Creek Country Club",
+  "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.272651,
+    "lng": -82.400689
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 485,
+        "Blue": 470,
+        "White": 445,
+        "Red": 415,
+        "Green": 355
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 384,
+        "Blue": 342,
+        "White": 324,
+        "Red": 291,
+        "Green": 256
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 401,
+        "Blue": 366,
+        "White": 356,
+        "Red": 279,
+        "Green": 249
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 165,
+        "Blue": 144,
+        "White": 124,
+        "Red": 101,
+        "Green": 101
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 452,
+        "Blue": 419,
+        "White": 393,
+        "Red": 337,
+        "Green": 307
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 355,
+        "Blue": 328,
+        "White": 318,
+        "Red": 283,
+        "Green": 238
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 221,
+        "Blue": 192,
+        "White": 160,
+        "Red": 129,
+        "Green": 129
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 605,
+        "Blue": 566,
+        "White": 521,
+        "Red": 433,
+        "Green": 388
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 432,
+        "Blue": 392,
+        "White": 378,
+        "Red": 317,
+        "Green": 232
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 404,
+        "Blue": 373,
+        "White": 360,
+        "Red": 326,
+        "Green": 296
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 500,
+        "Blue": 476,
+        "White": 456,
+        "Red": 424,
+        "Green": 394
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 167,
+        "Blue": 143,
+        "White": 126,
+        "Red": 102,
+        "Green": 102
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 417,
+        "Blue": 391,
+        "White": 374,
+        "Red": 298,
+        "Green": 245
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 382,
+        "Blue": 358,
+        "White": 330,
+        "Red": 267,
+        "Green": 237
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 512,
+        "Blue": 483,
+        "White": 471,
+        "Red": 420,
+        "Green": 400
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 398,
+        "Blue": 369,
+        "White": 347,
+        "Red": 302,
+        "Green": 277
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 211,
+        "Blue": 193,
+        "White": 174,
+        "Red": 139,
+        "Green": 109
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 404,
+        "Blue": 379,
+        "White": 350,
+        "Red": 315,
+        "Green": 280
+      }
+    }
+  ],
+  "version": 1
+}

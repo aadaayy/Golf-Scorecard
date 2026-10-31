@@ -1,0 +1,216 @@
+{
+  "id": "north-east-at-ocean-breeze-golf-country-club",
+  "name": "North East At Ocean Breeze Golf Country Club",
+  "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.845733,
+    "lng": -80.089508
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 411,
+        "White": 406,
+        "Gold": 379,
+        "Red": 335
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 241,
+        "White": 213,
+        "Gold": 177,
+        "Red": 145
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 418,
+        "White": 413,
+        "Gold": 390,
+        "Red": 359
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Blue": 530,
+        "White": 525,
+        "Gold": 505,
+        "Red": 474
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 195,
+        "White": 190,
+        "Gold": 168,
+        "Red": 158
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 530,
+        "White": 494,
+        "Gold": 479,
+        "Red": 455
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 492,
+        "White": 472,
+        "Gold": 441,
+        "Red": 363
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 417,
+        "White": 412,
+        "Gold": 379,
+        "Red": 310
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 560,
+        "White": 522,
+        "Gold": 482,
+        "Red": 462
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 380,
+        "White": 374,
+        "Gold": 352,
+        "Red": 307
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 414,
+        "White": 404,
+        "Gold": 393,
+        "Red": 378
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 195,
+        "White": 187,
+        "Gold": 167,
+        "Red": 153
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 563,
+        "White": 551,
+        "Gold": 499,
+        "Red": 429
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 334,
+        "White": 324,
+        "Gold": 313,
+        "Red": 300
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 520,
+        "White": 506,
+        "Gold": 483,
+        "Red": 465
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 147,
+        "White": 141,
+        "Gold": 136,
+        "Red": 131
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 355,
+        "White": 350,
+        "Gold": 343,
+        "Red": 275
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 409,
+        "White": 400,
+        "Gold": 335,
+        "Red": 320
+      }
+    }
+  ],
+  "version": 1
+}

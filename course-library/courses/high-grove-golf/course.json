@@ -1,0 +1,216 @@
+{
+  "id": "high-grove-golf",
+  "name": "High Grove Golf",
+  "town": "Lake Placid, FL",
+  "location": {
+    "lat": 27.171821,
+    "lng": -81.308935
+  },
+  "tees": [
+    "Green",
+    "Navy",
+    "Orange",
+    "White"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Green": 446,
+        "Navy": 422,
+        "Orange": 386,
+        "White": 299
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Green": 481,
+        "Navy": 476,
+        "Orange": 457,
+        "White": 371
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Green": 512,
+        "Navy": 486,
+        "Orange": 446,
+        "White": 365
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Green": 326,
+        "Navy": 310,
+        "Orange": 289,
+        "White": 241
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Green": 196,
+        "Navy": 182,
+        "Orange": 157,
+        "White": 157
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Green": 545,
+        "Navy": 529,
+        "Orange": 476,
+        "White": 389
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Green": 351,
+        "Navy": 332,
+        "Orange": 307,
+        "White": 225
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Green": 437,
+        "Navy": 424,
+        "Orange": 395,
+        "White": 302
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Green": 121,
+        "Navy": 114,
+        "Orange": 114,
+        "White": 84
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Green": 389,
+        "Navy": 377,
+        "Orange": 330,
+        "White": 221
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Green": 238,
+        "Navy": 210,
+        "Orange": 180,
+        "White": 120
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Green": 316,
+        "Navy": 257,
+        "Orange": 257,
+        "White": 187
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Green": 589,
+        "Navy": 558,
+        "Orange": 521,
+        "White": 470
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Green": 419,
+        "Navy": 411,
+        "Orange": 372,
+        "White": 298
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 439,
+        "Navy": 411,
+        "Orange": 392,
+        "White": 311
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Green": 387,
+        "Navy": 363,
+        "Orange": 332,
+        "White": 268
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Green": 150,
+        "Navy": 137,
+        "Orange": 112,
+        "White": 89
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Green": 545,
+        "Navy": 502,
+        "Orange": 445,
+        "White": 368
+      }
+    }
+  ],
+  "version": 1
+}

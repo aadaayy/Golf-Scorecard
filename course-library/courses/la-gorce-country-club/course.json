@@ -1,0 +1,254 @@
+{
+  "id": "la-gorce-country-club",
+  "name": "La Gorce Country Club",
+  "town": "Miami Beach, FL",
+  "location": {
+    "lat": 25.836766,
+    "lng": -80.129491
+  },
+  "tees": [
+    "Coconuts",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Coconuts": 387,
+        "Blue": 358,
+        "Blue/White": 358,
+        "White": 350,
+        "Gold": 342,
+        "Red": 309
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Coconuts": 458,
+        "Blue": 435,
+        "Blue/White": 407,
+        "White": 407,
+        "Gold": 358,
+        "Red": 341
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Coconuts": 528,
+        "Blue": 518,
+        "Blue/White": 518,
+        "White": 500,
+        "Gold": 485,
+        "Red": 454
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Coconuts": 373,
+        "Blue": 351,
+        "Blue/White": 351,
+        "White": 334,
+        "Gold": 296,
+        "Red": 247
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Coconuts": 379,
+        "Blue": 368,
+        "Blue/White": 368,
+        "White": 342,
+        "Gold": 303,
+        "Red": 281
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Coconuts": 245,
+        "Blue": 202,
+        "Blue/White": 176,
+        "White": 176,
+        "Gold": 157,
+        "Red": 124
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Coconuts": 433,
+        "Blue": 407,
+        "Blue/White": 383,
+        "White": 383,
+        "Gold": 368,
+        "Red": 309
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Coconuts": 203,
+        "Blue": 176,
+        "Blue/White": 176,
+        "White": 142,
+        "Gold": 130,
+        "Red": 110
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Coconuts": 365,
+        "Blue": 349,
+        "Blue/White": 349,
+        "White": 335,
+        "Gold": 313,
+        "Red": 278
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Coconuts": 400,
+        "Blue": 371,
+        "Blue/White": 371,
+        "White": 357,
+        "Gold": 340,
+        "Red": 328
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Coconuts": 614,
+        "Blue": 535,
+        "Blue/White": 514,
+        "White": 514,
+        "Gold": 502,
+        "Red": 457
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Coconuts": 366,
+        "Blue": 350,
+        "Blue/White": 350,
+        "White": 327,
+        "Gold": 317,
+        "Red": 280
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Coconuts": 161,
+        "Blue": 140,
+        "Blue/White": 140,
+        "White": 126,
+        "Gold": 116,
+        "Red": 104
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Coconuts": 418,
+        "Blue": 393,
+        "Blue/White": 373,
+        "White": 373,
+        "Gold": 353,
+        "Red": 325
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Coconuts": 524,
+        "Blue": 503,
+        "Blue/White": 503,
+        "White": 487,
+        "Gold": 470,
+        "Red": 431
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Coconuts": 185,
+        "Blue": 166,
+        "Blue/White": 166,
+        "White": 146,
+        "Gold": 137,
+        "Red": 122
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Coconuts": 463,
+        "Blue": 413,
+        "Blue/White": 386,
+        "White": 386,
+        "Gold": 350,
+        "Red": 313
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Coconuts": 469,
+        "Blue": 455,
+        "Blue/White": 455,
+        "White": 433,
+        "Gold": 397,
+        "Red": 367
+      }
+    }
+  ],
+  "version": 1
+}

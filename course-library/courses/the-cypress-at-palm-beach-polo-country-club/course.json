@@ -1,0 +1,254 @@
+{
+  "id": "the-cypress-at-palm-beach-polo-country-club",
+  "name": "The Cypress At Palm Beach Polo Country Club",
+  "town": "Wellington, FL",
+  "location": {
+    "lat": 26.644699,
+    "lng": -80.232793
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "Green",
+    "White",
+    "Black",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 350,
+        "Blue": 340,
+        "Green": 335,
+        "White": 310,
+        "Black": 292,
+        "Red": 264
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 532,
+        "Blue": 512,
+        "Green": 507,
+        "White": 475,
+        "Black": 443,
+        "Red": 412
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 382,
+        "Blue": 359,
+        "Green": 346,
+        "White": 315,
+        "Black": 315,
+        "Red": 270
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 428,
+        "Blue": 404,
+        "Green": 399,
+        "White": 356,
+        "Black": 306,
+        "Red": 317
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 427,
+        "Blue": 398,
+        "Green": 374,
+        "White": 358,
+        "Black": 334,
+        "Red": 331
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 197,
+        "Blue": 181,
+        "Green": 176,
+        "White": 150,
+        "Black": 125,
+        "Red": 90
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 513,
+        "Blue": 500,
+        "Green": 485,
+        "White": 449,
+        "Black": 404,
+        "Red": 385
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 172,
+        "Blue": 156,
+        "Green": 151,
+        "White": 145,
+        "Black": 130,
+        "Red": 111
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 421,
+        "Blue": 382,
+        "Green": 377,
+        "White": 346,
+        "Black": 333,
+        "Red": 319
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Gold": 521,
+        "Blue": 488,
+        "Green": 483,
+        "White": 449,
+        "Black": 425,
+        "Red": 419
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 182,
+        "Blue": 164,
+        "Green": 159,
+        "White": 130,
+        "Black": 104,
+        "Red": 98
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 389,
+        "Blue": 341,
+        "Green": 336,
+        "White": 318,
+        "Black": 295,
+        "Red": 295
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 462,
+        "Blue": 435,
+        "Green": 411,
+        "White": 381,
+        "Black": 380,
+        "Red": 380
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 376,
+        "Blue": 360,
+        "Green": 355,
+        "White": 332,
+        "Black": 270,
+        "Red": 273
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 442,
+        "Blue": 432,
+        "Green": 411,
+        "White": 378,
+        "Black": 335,
+        "Red": 335
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 231,
+        "Blue": 207,
+        "Green": 177,
+        "White": 143,
+        "Black": 140,
+        "Red": 114
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 641,
+        "Blue": 611,
+        "Green": 572,
+        "White": 520,
+        "Black": 495,
+        "Red": 472
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 450,
+        "Blue": 408,
+        "Green": 369,
+        "White": 342,
+        "Black": 331,
+        "Red": 318
+      }
+    }
+  ],
+  "version": 1
+}

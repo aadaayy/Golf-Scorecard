@@ -1,0 +1,253 @@
+{
+  "id": "boca-rio-golf-club",
+  "name": "Boca Rio Golf Club",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.347873,
+    "lng": -80.173106
+  },
+  "tees": [
+    "Blue",
+    "Red",
+    "White",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 487,
+        "Red": 474,
+        "White": 446,
+        "Gold": 431,
+        "Green": 378
+      },
+      "map": "boca-rio-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 421,
+        "Red": 411,
+        "White": 388,
+        "Gold": 266,
+        "Green": 224
+      },
+      "map": "boca-rio-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 190,
+        "Red": 155,
+        "White": 143,
+        "Gold": 131,
+        "Green": 119
+      },
+      "map": "boca-rio-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 363,
+        "Red": 352,
+        "White": 309,
+        "Gold": 284,
+        "Green": 223
+      },
+      "map": "boca-rio-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 400,
+        "Red": 373,
+        "White": 356,
+        "Gold": 339,
+        "Green": 269
+      },
+      "map": "boca-rio-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 185,
+        "Red": 173,
+        "White": 153,
+        "Gold": 125,
+        "Green": 113
+      },
+      "map": "boca-rio-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 456,
+        "Red": 442,
+        "White": 411,
+        "Gold": 325,
+        "Green": 292
+      },
+      "map": "boca-rio-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 542,
+        "Red": 519,
+        "White": 506,
+        "Gold": 437,
+        "Green": 399
+      },
+      "map": "boca-rio-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 412,
+        "Red": 398,
+        "White": 372,
+        "Gold": 335,
+        "Green": 329
+      },
+      "map": "boca-rio-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 585,
+        "Red": 522,
+        "White": 492,
+        "Gold": 426,
+        "Green": 393
+      },
+      "map": "boca-rio-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 465,
+        "Red": 429,
+        "White": 407,
+        "Gold": 362,
+        "Green": 345
+      },
+      "map": "boca-rio-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 353,
+        "Red": 341,
+        "White": 320,
+        "Gold": 300,
+        "Green": 274
+      },
+      "map": "boca-rio-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 218,
+        "Red": 191,
+        "White": 171,
+        "Gold": 135,
+        "Green": 130
+      },
+      "map": "boca-rio-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 410,
+        "Red": 393,
+        "White": 363,
+        "Gold": 320,
+        "Green": 282
+      },
+      "map": "boca-rio-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 442,
+        "Red": 413,
+        "White": 400,
+        "Gold": 325,
+        "Green": 261
+      },
+      "map": "boca-rio-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 528,
+        "Red": 518,
+        "White": 477,
+        "Gold": 430,
+        "Green": 389
+      },
+      "map": "boca-rio-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 177,
+        "Red": 166,
+        "White": 138,
+        "Gold": 123,
+        "Green": 105
+      },
+      "map": "boca-rio-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 421,
+        "Red": 407,
+        "White": 384,
+        "Gold": 345,
+        "Green": 328
+      },
+      "map": "boca-rio-golf-club-18"
+    }
+  ],
+  "version": 1
+}

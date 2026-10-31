@@ -1,0 +1,107 @@
+{
+  "id": "captiva-course-at-south-seas-island-resort",
+  "name": "Captiva Course At South Seas Island Resort",
+  "town": "Captiva, FL",
+  "location": {
+    "lat": 26.525262,
+    "lng": -82.19089
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 174,
+        "White": 145,
+        "Red": 110
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 117,
+        "White": 97,
+        "Red": 72
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 103,
+        "White": 90,
+        "Red": 78
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 141,
+        "White": 116,
+        "Red": 100
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 180,
+        "White": 150,
+        "Red": 120
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 182,
+        "White": 153,
+        "Red": 123
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 163,
+        "White": 142,
+        "Red": 110
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 127,
+        "White": 98,
+        "Red": 75
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 207,
+        "White": 140,
+        "Red": 112
+      }
+    }
+  ],
+  "version": 1
+}

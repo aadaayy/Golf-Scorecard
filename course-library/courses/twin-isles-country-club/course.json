@@ -1,0 +1,310 @@
+{
+  "id": "twin-isles-country-club",
+  "name": "Twin Isles Country Club",
+  "town": "Punta Gorda, FL",
+  "location": {
+    "lat": 26.887654,
+    "lng": -82.031859
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "Blue/Black",
+    "Black",
+    "White",
+    "White/Red",
+    "Red",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 408,
+        "Blue": 381,
+        "Blue/Black": 381,
+        "Black": 370,
+        "White": 344,
+        "White/Red": 312,
+        "Red": 312,
+        "Green": 237
+      },
+      "map": "twin-isles-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 400,
+        "Blue": 385,
+        "Blue/Black": 336,
+        "Black": 336,
+        "White": 331,
+        "White/Red": 302,
+        "Red": 302,
+        "Green": 230
+      },
+      "map": "twin-isles-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 419,
+        "Blue": 405,
+        "Blue/Black": 355,
+        "Black": 355,
+        "White": 350,
+        "White/Red": 320,
+        "Red": 320,
+        "Green": 235
+      },
+      "map": "twin-isles-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 185,
+        "Blue": 168,
+        "Blue/Black": 168,
+        "Black": 163,
+        "White": 157,
+        "White/Red": 157,
+        "Red": 145,
+        "Green": 101
+      },
+      "map": "twin-isles-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 521,
+        "Blue": 500,
+        "Blue/Black": 500,
+        "Black": 480,
+        "White": 472,
+        "White/Red": 472,
+        "Red": 425,
+        "Green": 330
+      },
+      "map": "twin-isles-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 355,
+        "Blue": 345,
+        "Blue/Black": 345,
+        "Black": 327,
+        "White": 302,
+        "White/Red": 302,
+        "Red": 280,
+        "Green": 207
+      },
+      "map": "twin-isles-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 410,
+        "Blue": 385,
+        "Blue/Black": 357,
+        "Black": 357,
+        "White": 350,
+        "White/Red": 316,
+        "Red": 316,
+        "Green": 242
+      },
+      "map": "twin-isles-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 526,
+        "Blue": 500,
+        "Blue/Black": 500,
+        "Black": 471,
+        "White": 466,
+        "White/Red": 435,
+        "Red": 435,
+        "Green": 335
+      },
+      "map": "twin-isles-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 185,
+        "Blue": 175,
+        "Blue/Black": 175,
+        "Black": 159,
+        "White": 155,
+        "White/Red": 155,
+        "Red": 131,
+        "Green": 131
+      },
+      "map": "twin-isles-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 512,
+        "Blue": 489,
+        "Blue/Black": 489,
+        "Black": 474,
+        "White": 464,
+        "White/Red": 422,
+        "Red": 422,
+        "Green": 332
+      },
+      "map": "twin-isles-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 399,
+        "Blue": 380,
+        "Blue/Black": 350,
+        "Black": 350,
+        "White": 344,
+        "White/Red": 307,
+        "Red": 307,
+        "Green": 215
+      },
+      "map": "twin-isles-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 166,
+        "Blue": 143,
+        "Blue/Black": 143,
+        "Black": 136,
+        "White": 120,
+        "White/Red": 120,
+        "Red": 112,
+        "Green": 112
+      },
+      "map": "twin-isles-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 432,
+        "Blue": 416,
+        "Blue/Black": 378,
+        "Black": 378,
+        "White": 373,
+        "White/Red": 373,
+        "Red": 364,
+        "Green": 246
+      },
+      "map": "twin-isles-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 366,
+        "Blue": 352,
+        "Blue/Black": 352,
+        "Black": 337,
+        "White": 326,
+        "White/Red": 326,
+        "Red": 302,
+        "Green": 213
+      },
+      "map": "twin-isles-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 375,
+        "Blue": 361,
+        "Blue/Black": 323,
+        "Black": 323,
+        "White": 311,
+        "White/Red": 288,
+        "Red": 288,
+        "Green": 217
+      },
+      "map": "twin-isles-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 192,
+        "Blue": 177,
+        "Blue/Black": 177,
+        "Black": 155,
+        "White": 139,
+        "White/Red": 139,
+        "Red": 121,
+        "Green": 121
+      },
+      "map": "twin-isles-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 338,
+        "Blue": 330,
+        "Blue/Black": 330,
+        "Black": 316,
+        "White": 271,
+        "White/Red": 271,
+        "Red": 247,
+        "Green": 198
+      },
+      "map": "twin-isles-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 533,
+        "Blue": 500,
+        "Blue/Black": 500,
+        "Black": 483,
+        "White": 476,
+        "White/Red": 429,
+        "Red": 429,
+        "Green": 329
+      },
+      "map": "twin-isles-country-club-18"
+    }
+  ],
+  "version": 1
+}

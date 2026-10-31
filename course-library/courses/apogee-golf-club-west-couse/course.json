@@ -1,0 +1,254 @@
+{
+  "id": "apogee-golf-club-west-couse",
+  "name": "Apogee Golf Club West Couse",
+  "town": "Indiantown, FL",
+  "location": {
+    "lat": 27.059337,
+    "lng": -80.295108
+  },
+  "tees": [
+    "Black",
+    "Maroon",
+    "White",
+    "Navy",
+    "Gray",
+    "Light Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 527,
+        "Maroon": 505,
+        "White": 480,
+        "Navy": 451,
+        "Gray": 412,
+        "Light Blue": 287
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 421,
+        "Maroon": 395,
+        "White": 363,
+        "Navy": 347,
+        "Gray": 298,
+        "Light Blue": 234
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 446,
+        "Maroon": 433,
+        "White": 397,
+        "Navy": 369,
+        "Gray": 284,
+        "Light Blue": 269
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 203,
+        "Maroon": 190,
+        "White": 168,
+        "Navy": 157,
+        "Gray": 131,
+        "Light Blue": 91
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 303,
+        "Maroon": 292,
+        "White": 270,
+        "Navy": 256,
+        "Gray": 238,
+        "Light Blue": 159
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 599,
+        "Maroon": 574,
+        "White": 543,
+        "Navy": 464,
+        "Gray": 439,
+        "Light Blue": 393
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 409,
+        "Maroon": 377,
+        "White": 366,
+        "Navy": 335,
+        "Gray": 306,
+        "Light Blue": 272
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 155,
+        "Maroon": 144,
+        "White": 134,
+        "Navy": 108,
+        "Gray": 105,
+        "Light Blue": 80
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 481,
+        "Maroon": 440,
+        "White": 393,
+        "Navy": 368,
+        "Gray": 308,
+        "Light Blue": 308
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 569,
+        "Maroon": 551,
+        "White": 519,
+        "Navy": 511,
+        "Gray": 336,
+        "Light Blue": 336
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 357,
+        "Maroon": 346,
+        "White": 301,
+        "Navy": 262,
+        "Gray": 226,
+        "Light Blue": 226
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 472,
+        "Maroon": 431,
+        "White": 409,
+        "Navy": 368,
+        "Gray": 333,
+        "Light Blue": 333
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 131,
+        "Maroon": 119,
+        "White": 114,
+        "Navy": 100,
+        "Gray": 79,
+        "Light Blue": 72
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 274,
+        "Maroon": 257,
+        "White": 230,
+        "Navy": 212,
+        "Gray": 195,
+        "Light Blue": 154
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 516,
+        "Maroon": 490,
+        "White": 464,
+        "Navy": 419,
+        "Gray": 385,
+        "Light Blue": 339
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 247,
+        "Maroon": 231,
+        "White": 196,
+        "Navy": 177,
+        "Gray": 159,
+        "Light Blue": 101
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 416,
+        "Maroon": 400,
+        "White": 381,
+        "Navy": 341,
+        "Gray": 294,
+        "Light Blue": 256
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 512,
+        "Maroon": 496,
+        "White": 456,
+        "Navy": 408,
+        "Gray": 364,
+        "Light Blue": 330
+      }
+    }
+  ],
+  "version": 1
+}

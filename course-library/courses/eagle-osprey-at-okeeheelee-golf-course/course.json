@@ -1,0 +1,254 @@
+{
+  "id": "eagle-osprey-at-okeeheelee-golf-course",
+  "name": "Eagle Osprey At Okeeheelee Golf Course",
+  "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.656964,
+    "lng": -80.156129
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 512,
+        "Web": 512,
+        "Gold": 482,
+        "Blue": 428,
+        "White": 413,
+        "Green": 348
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 145,
+        "Web": 145,
+        "Gold": 132,
+        "Blue": 112,
+        "White": 96,
+        "Green": 80
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 383,
+        "Web": 383,
+        "Gold": 372,
+        "Blue": 340,
+        "White": 311,
+        "Green": 295
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 413,
+        "Web": 413,
+        "Gold": 398,
+        "Blue": 347,
+        "White": 324,
+        "Green": 281
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 373,
+        "Web": 373,
+        "Gold": 365,
+        "Blue": 345,
+        "White": 330,
+        "Green": 300
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 374,
+        "Web": 374,
+        "Gold": 346,
+        "Blue": 332,
+        "White": 300,
+        "Green": 259
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 200,
+        "Web": 200,
+        "Gold": 190,
+        "Blue": 173,
+        "White": 107,
+        "Green": 94
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 508,
+        "Web": 508,
+        "Gold": 478,
+        "Blue": 461,
+        "White": 436,
+        "Green": 372
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 464,
+        "Web": 464,
+        "Gold": 425,
+        "Blue": 392,
+        "White": 379,
+        "Green": 339
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 518,
+        "Web": 518,
+        "Gold": 486,
+        "Blue": 476,
+        "White": 433,
+        "Green": 352
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 166,
+        "Web": 166,
+        "Gold": 140,
+        "Blue": 135,
+        "White": 113,
+        "Green": 95
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 359,
+        "Web": 359,
+        "Gold": 316,
+        "Blue": 275,
+        "White": 266,
+        "Green": 245
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 406,
+        "Web": 406,
+        "Gold": 359,
+        "Blue": 311,
+        "White": 299,
+        "Green": 269
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 527,
+        "Web": 527,
+        "Gold": 479,
+        "Blue": 471,
+        "White": 462,
+        "Green": 402
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 207,
+        "Web": 207,
+        "Gold": 190,
+        "Blue": 177,
+        "White": 157,
+        "Green": 105
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 397,
+        "Web": 397,
+        "Gold": 385,
+        "Blue": 302,
+        "White": 292,
+        "Green": 275
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 182,
+        "Web": 182,
+        "Gold": 153,
+        "Blue": 143,
+        "White": 133,
+        "Green": 100
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 539,
+        "Web": 539,
+        "Gold": 492,
+        "Blue": 482,
+        "White": 447,
+        "Green": 401
+      }
+    }
+  ],
+  "version": 1
+}

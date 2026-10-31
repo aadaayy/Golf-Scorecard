@@ -1,0 +1,273 @@
+{
+  "id": "lost-city-golf-club-east-north",
+  "name": "Lost City Golf Club East North",
+  "town": "Atlantis, FL",
+  "location": {
+    "lat": 26.594655,
+    "lng": -80.098492
+  },
+  "tees": [
+    "Gold",
+    "Gold/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Green",
+    "Teal"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 420,
+        "Gold/Blue": 395,
+        "Blue": 395,
+        "Blue/White": 375,
+        "White": 375,
+        "Green": 355,
+        "Teal": 325
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 410,
+        "Gold/Blue": 360,
+        "Blue": 360,
+        "Blue/White": 340,
+        "White": 340,
+        "Green": 320,
+        "Teal": 300
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 520,
+        "Gold/Blue": 520,
+        "Blue": 470,
+        "Blue/White": 445,
+        "White": 445,
+        "Green": 415,
+        "Teal": 395
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 160,
+        "Gold/Blue": 145,
+        "Blue": 145,
+        "Blue/White": 145,
+        "White": 135,
+        "Green": 125,
+        "Teal": 125
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 350,
+        "Gold/Blue": 350,
+        "Blue": 325,
+        "Blue/White": 325,
+        "White": 290,
+        "Green": 285,
+        "Teal": 285
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 380,
+        "Gold/Blue": 380,
+        "Blue": 345,
+        "Blue/White": 320,
+        "White": 320,
+        "Green": 315,
+        "Teal": 315
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 355,
+        "Gold/Blue": 355,
+        "Blue": 325,
+        "Blue/White": 325,
+        "White": 310,
+        "Green": 300,
+        "Teal": 300
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 170,
+        "Gold/Blue": 160,
+        "Blue": 160,
+        "Blue/White": 160,
+        "White": 145,
+        "Green": 140,
+        "Teal": 140
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Gold": 500,
+        "Gold/Blue": 500,
+        "Blue": 470,
+        "Blue/White": 470,
+        "White": 405,
+        "Green": 400,
+        "Teal": 370
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 495,
+        "Gold/Blue": 495,
+        "Blue": 475,
+        "Blue/White": 460,
+        "White": 460,
+        "Green": 410,
+        "Teal": 400
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 380,
+        "Gold/Blue": 380,
+        "Blue": 355,
+        "Blue/White": 355,
+        "White": 290,
+        "Green": 285,
+        "Teal": 285
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 335,
+        "Gold/Blue": 335,
+        "Blue": 315,
+        "Blue/White": 315,
+        "White": 295,
+        "Green": 275,
+        "Teal": 275
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 525,
+        "Gold/Blue": 495,
+        "Blue": 495,
+        "Blue/White": 430,
+        "White": 430,
+        "Green": 395,
+        "Teal": 395
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 200,
+        "Gold/Blue": 180,
+        "Blue": 180,
+        "Blue/White": 170,
+        "White": 170,
+        "Green": 145,
+        "Teal": 125
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 420,
+        "Gold/Blue": 395,
+        "Blue": 395,
+        "Blue/White": 350,
+        "White": 350,
+        "Green": 330,
+        "Teal": 310
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 365,
+        "Gold/Blue": 365,
+        "Blue": 325,
+        "Blue/White": 325,
+        "White": 300,
+        "Green": 280,
+        "Teal": 280
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 175,
+        "Gold/Blue": 145,
+        "Blue": 145,
+        "Blue/White": 145,
+        "White": 130,
+        "Green": 125,
+        "Teal": 125
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 395,
+        "Gold/Blue": 370,
+        "Blue": 370,
+        "Blue/White": 340,
+        "White": 340,
+        "Green": 335,
+        "Teal": 310
+      }
+    }
+  ],
+  "version": 1
+}

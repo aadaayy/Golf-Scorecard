@@ -1,0 +1,197 @@
+{
+  "id": "boca-west-country-club-dye-iv",
+  "name": "Boca West Country Club Dye Iv",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.379807,
+    "lng": -80.159912
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 534,
+        "White": 503,
+        "Green": 439
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 181,
+        "White": 170,
+        "Green": 118
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 487,
+        "White": 462,
+        "Green": 394
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 378,
+        "White": 357,
+        "Green": 296
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 356,
+        "White": 335,
+        "Green": 281
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 152,
+        "White": 138,
+        "Green": 119
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 370,
+        "White": 356,
+        "Green": 293
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 190,
+        "White": 159,
+        "Green": 126
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 397,
+        "White": 368,
+        "Green": 310
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 545,
+        "White": 518,
+        "Green": 436
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 339,
+        "White": 327,
+        "Green": 265
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 167,
+        "White": 134,
+        "Green": 88
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 371,
+        "White": 320,
+        "Green": 264
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 160,
+        "White": 149,
+        "Green": 106
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 394,
+        "White": 329,
+        "Green": 290
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 490,
+        "White": 471,
+        "Green": 402
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 383,
+        "White": 344,
+        "Green": 289
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 362,
+        "White": 344,
+        "Green": 310
+      }
+    }
+  ],
+  "version": 1
+}

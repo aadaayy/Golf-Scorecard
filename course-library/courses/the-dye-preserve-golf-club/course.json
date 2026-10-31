@@ -1,0 +1,272 @@
+{
+  "id": "the-dye-preserve-golf-club",
+  "name": "The Dye Preserve Golf Club",
+  "town": "Jupiter, FL",
+  "location": {
+    "lat": 26.96339,
+    "lng": -80.232073
+  },
+  "tees": [
+    "Championship",
+    "Brown",
+    "Blue",
+    "Green/Blue",
+    "Green/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Championship": 563,
+        "Brown": 563,
+        "Blue": 539,
+        "Green/Blue": 482,
+        "Green/Red": 482,
+        "Red": 408
+      },
+      "map": "the-dye-preserve-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 368,
+        "Brown": 368,
+        "Blue": 345,
+        "Green/Blue": 322,
+        "Green/Red": 322,
+        "Red": 287
+      },
+      "map": "the-dye-preserve-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Championship": 160,
+        "Brown": 160,
+        "Blue": 152,
+        "Green/Blue": 130,
+        "Green/Red": 130,
+        "Red": 130
+      },
+      "map": "the-dye-preserve-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 473,
+        "Brown": 448,
+        "Blue": 410,
+        "Green/Blue": 367,
+        "Green/Red": 324,
+        "Red": 324
+      },
+      "map": "the-dye-preserve-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Championship": 298,
+        "Brown": 298,
+        "Blue": 277,
+        "Green/Blue": 265,
+        "Green/Red": 265,
+        "Red": 253
+      },
+      "map": "the-dye-preserve-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Championship": 560,
+        "Brown": 530,
+        "Blue": 513,
+        "Green/Blue": 485,
+        "Green/Red": 431,
+        "Red": 431
+      },
+      "map": "the-dye-preserve-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 224,
+        "Brown": 215,
+        "Blue": 176,
+        "Green/Blue": 161,
+        "Green/Red": 138,
+        "Red": 138
+      },
+      "map": "the-dye-preserve-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 404,
+        "Brown": 390,
+        "Blue": 362,
+        "Green/Blue": 338,
+        "Green/Red": 287,
+        "Red": 287
+      },
+      "map": "the-dye-preserve-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 510,
+        "Brown": 452,
+        "Blue": 422,
+        "Green/Blue": 385,
+        "Green/Red": 312,
+        "Red": 312
+      },
+      "map": "the-dye-preserve-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Championship": 553,
+        "Brown": 553,
+        "Blue": 521,
+        "Green/Blue": 478,
+        "Green/Red": 478,
+        "Red": 417
+      },
+      "map": "the-dye-preserve-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 501,
+        "Brown": 464,
+        "Blue": 431,
+        "Green/Blue": 406,
+        "Green/Red": 332,
+        "Red": 332
+      },
+      "map": "the-dye-preserve-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 431,
+        "Brown": 431,
+        "Blue": 403,
+        "Green/Blue": 386,
+        "Green/Red": 311,
+        "Red": 311
+      },
+      "map": "the-dye-preserve-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Championship": 230,
+        "Brown": 208,
+        "Blue": 182,
+        "Green/Blue": 152,
+        "Green/Red": 152,
+        "Red": 120
+      },
+      "map": "the-dye-preserve-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Championship": 378,
+        "Brown": 378,
+        "Blue": 367,
+        "Green/Blue": 332,
+        "Green/Red": 332,
+        "Red": 293
+      },
+      "map": "the-dye-preserve-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Championship": 574,
+        "Brown": 549,
+        "Blue": 508,
+        "Green/Blue": 482,
+        "Green/Red": 416,
+        "Red": 416
+      },
+      "map": "the-dye-preserve-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Championship": 386,
+        "Brown": 369,
+        "Blue": 345,
+        "Green/Blue": 319,
+        "Green/Red": 319,
+        "Red": 300
+      },
+      "map": "the-dye-preserve-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Championship": 241,
+        "Brown": 223,
+        "Blue": 201,
+        "Green/Blue": 158,
+        "Green/Red": 124,
+        "Red": 124
+      },
+      "map": "the-dye-preserve-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 458,
+        "Brown": 458,
+        "Blue": 424,
+        "Green/Blue": 382,
+        "Green/Red": 309,
+        "Red": 309
+      },
+      "map": "the-dye-preserve-golf-club-18"
+    }
+  ],
+  "version": 1
+}

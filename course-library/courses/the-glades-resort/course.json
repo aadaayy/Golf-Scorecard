@@ -1,0 +1,117 @@
+{
+  "id": "the-glades-resort",
+  "name": "The Glades Resort",
+  "town": "Moore Haven, FL",
+  "location": {
+    "lat": 26.782467,
+    "lng": -81.231242
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 507,
+        "White": 479,
+        "Gold": 451,
+        "Red": 392
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 361,
+        "White": 346,
+        "Gold": 317,
+        "Red": 259
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 380,
+        "White": 365,
+        "Gold": 312,
+        "Red": 258
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 185,
+        "White": 152,
+        "Gold": 132,
+        "Red": 105
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 353,
+        "White": 306,
+        "Gold": 268,
+        "Red": 237
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 200,
+        "White": 179,
+        "Gold": 160,
+        "Red": 145
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 518,
+        "White": 485,
+        "Gold": 402,
+        "Red": 393
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 335,
+        "White": 321,
+        "Gold": 300,
+        "Red": 235
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 328,
+        "White": 313,
+        "Gold": 271,
+        "Red": 237
+      }
+    }
+  ],
+  "version": 1
+}

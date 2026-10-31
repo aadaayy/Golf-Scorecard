@@ -1,0 +1,310 @@
+{
+  "id": "trump-international-golf-club",
+  "name": "Trump International Golf Club",
+  "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.665965,
+    "lng": -80.098567
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "Powder Blue",
+    "White",
+    "Silver",
+    "Green",
+    "Mint"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 487,
+        "Gold": 449,
+        "Blue": 417,
+        "Powder Blue": 389,
+        "White": 389,
+        "Silver": 354,
+        "Green": 335,
+        "Mint": 335
+      },
+      "map": "trump-international-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 426,
+        "Gold": 417,
+        "Blue": 372,
+        "Powder Blue": 372,
+        "White": 353,
+        "Silver": 337,
+        "Green": 312,
+        "Mint": 312
+      },
+      "map": "trump-international-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 551,
+        "Gold": 519,
+        "Blue": 500,
+        "Powder Blue": 500,
+        "White": 482,
+        "Silver": 443,
+        "Green": 416,
+        "Mint": 416
+      },
+      "map": "trump-international-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 401,
+        "Gold": 381,
+        "Blue": 371,
+        "Powder Blue": 371,
+        "White": 345,
+        "Silver": 321,
+        "Green": 300,
+        "Mint": 234
+      },
+      "map": "trump-international-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 235,
+        "Gold": 215,
+        "Blue": 197,
+        "Powder Blue": 197,
+        "White": 170,
+        "Silver": 145,
+        "Green": 133,
+        "Mint": 133
+      },
+      "map": "trump-international-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 335,
+        "Gold": 330,
+        "Blue": 323,
+        "Powder Blue": 323,
+        "White": 311,
+        "Silver": 279,
+        "Green": 253,
+        "Mint": 253
+      },
+      "map": "trump-international-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 191,
+        "Gold": 181,
+        "Blue": 176,
+        "Powder Blue": 176,
+        "White": 161,
+        "Silver": 128,
+        "Green": 117,
+        "Mint": 117
+      },
+      "map": "trump-international-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 491,
+        "Gold": 447,
+        "Blue": 430,
+        "Powder Blue": 400,
+        "White": 400,
+        "Silver": 389,
+        "Green": 362,
+        "Mint": 362
+      },
+      "map": "trump-international-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 561,
+        "Gold": 527,
+        "Blue": 513,
+        "Powder Blue": 476,
+        "White": 476,
+        "Silver": 435,
+        "Green": 410,
+        "Mint": 380
+      },
+      "map": "trump-international-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 419,
+        "Gold": 405,
+        "Blue": 389,
+        "Powder Blue": 389,
+        "White": 372,
+        "Silver": 358,
+        "Green": 339,
+        "Mint": 339
+      },
+      "map": "trump-international-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 177,
+        "Gold": 172,
+        "Blue": 164,
+        "Powder Blue": 164,
+        "White": 148,
+        "Silver": 123,
+        "Green": 108,
+        "Mint": 108
+      },
+      "map": "trump-international-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 631,
+        "Gold": 559,
+        "Blue": 531,
+        "Powder Blue": 531,
+        "White": 503,
+        "Silver": 452,
+        "Green": 424,
+        "Mint": 424
+      },
+      "map": "trump-international-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 479,
+        "Gold": 433,
+        "Blue": 414,
+        "Powder Blue": 385,
+        "White": 385,
+        "Silver": 370,
+        "Green": 344,
+        "Mint": 344
+      },
+      "map": "trump-international-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 425,
+        "Gold": 407,
+        "Blue": 399,
+        "Powder Blue": 346,
+        "White": 346,
+        "Silver": 328,
+        "Green": 302,
+        "Mint": 272
+      },
+      "map": "trump-international-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 569,
+        "Gold": 505,
+        "Blue": 491,
+        "Powder Blue": 491,
+        "White": 474,
+        "Silver": 419,
+        "Green": 401,
+        "Mint": 401
+      },
+      "map": "trump-international-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 406,
+        "Gold": 385,
+        "Blue": 369,
+        "Powder Blue": 369,
+        "White": 350,
+        "Silver": 329,
+        "Green": 287,
+        "Mint": 230
+      },
+      "map": "trump-international-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 221,
+        "Gold": 200,
+        "Blue": 190,
+        "Powder Blue": 164,
+        "White": 164,
+        "Silver": 143,
+        "Green": 124,
+        "Mint": 124
+      },
+      "map": "trump-international-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 491,
+        "Gold": 441,
+        "Blue": 420,
+        "Powder Blue": 374,
+        "White": 374,
+        "Silver": 355,
+        "Green": 320,
+        "Mint": 320
+      },
+      "map": "trump-international-golf-club-18"
+    }
+  ],
+  "version": 1
+}

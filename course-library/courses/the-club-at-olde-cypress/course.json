@@ -1,0 +1,330 @@
+{
+  "id": "the-club-at-olde-cypress",
+  "name": "The Club At Olde Cypress",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.277831,
+    "lng": -81.720501
+  },
+  "tees": [
+    "Champion",
+    "Tournament",
+    "Dye",
+    "Preserve",
+    "Palmetto",
+    "Pines",
+    "Cypress",
+    "Cypress Front",
+    "Lady Dye",
+    "Calusa"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Champion": 360,
+        "Tournament": 341,
+        "Dye": 341,
+        "Preserve": 329,
+        "Palmetto": 329,
+        "Pines": 311,
+        "Cypress": 290,
+        "Cypress Front": 290,
+        "Lady Dye": 241,
+        "Calusa": 241
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Champion": 533,
+        "Tournament": 507,
+        "Dye": 507,
+        "Preserve": 479,
+        "Palmetto": 450,
+        "Pines": 450,
+        "Cypress": 423,
+        "Cypress Front": 423,
+        "Lady Dye": 423,
+        "Calusa": 390
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Champion": 338,
+        "Tournament": 314,
+        "Dye": 314,
+        "Preserve": 303,
+        "Palmetto": 303,
+        "Pines": 292,
+        "Cypress": 254,
+        "Cypress Front": 254,
+        "Lady Dye": 254,
+        "Calusa": 249
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Champion": 160,
+        "Tournament": 154,
+        "Dye": 154,
+        "Preserve": 142,
+        "Palmetto": 142,
+        "Pines": 132,
+        "Cypress": 116,
+        "Cypress Front": 116,
+        "Lady Dye": 116,
+        "Calusa": 78
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Champion": 357,
+        "Tournament": 347,
+        "Dye": 347,
+        "Preserve": 325,
+        "Palmetto": 325,
+        "Pines": 312,
+        "Cypress": 298,
+        "Cypress Front": 298,
+        "Lady Dye": 251,
+        "Calusa": 251
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Champion": 396,
+        "Tournament": 378,
+        "Dye": 368,
+        "Preserve": 368,
+        "Palmetto": 351,
+        "Pines": 351,
+        "Cypress": 327,
+        "Cypress Front": 327,
+        "Lady Dye": 259,
+        "Calusa": 259
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Champion": 227,
+        "Tournament": 218,
+        "Dye": 184,
+        "Preserve": 184,
+        "Palmetto": 152,
+        "Pines": 152,
+        "Cypress": 141,
+        "Cypress Front": 141,
+        "Lady Dye": 103,
+        "Calusa": 103
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Champion": 477,
+        "Tournament": 468,
+        "Dye": 425,
+        "Preserve": 425,
+        "Palmetto": 396,
+        "Pines": 396,
+        "Cypress": 343,
+        "Cypress Front": 343,
+        "Lady Dye": 343,
+        "Calusa": 319
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Champion": 351,
+        "Tournament": 328,
+        "Dye": 328,
+        "Preserve": 308,
+        "Palmetto": 308,
+        "Pines": 278,
+        "Cypress": 254,
+        "Cypress Front": 254,
+        "Lady Dye": 254,
+        "Calusa": 201
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Champion": 349,
+        "Tournament": 334,
+        "Dye": 324,
+        "Preserve": 324,
+        "Palmetto": 269,
+        "Pines": 269,
+        "Cypress": 261,
+        "Cypress Front": 261,
+        "Lady Dye": 261,
+        "Calusa": 195
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Champion": 374,
+        "Tournament": 349,
+        "Dye": 349,
+        "Preserve": 337,
+        "Palmetto": 337,
+        "Pines": 309,
+        "Cypress": 294,
+        "Cypress Front": 294,
+        "Lady Dye": 211,
+        "Calusa": 211
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Champion": 122,
+        "Tournament": 108,
+        "Dye": 108,
+        "Preserve": 84,
+        "Palmetto": 84,
+        "Pines": 73,
+        "Cypress": 69,
+        "Cypress Front": 69,
+        "Lady Dye": 69,
+        "Calusa": 64
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Champion": 594,
+        "Tournament": 557,
+        "Dye": 523,
+        "Preserve": 523,
+        "Palmetto": 508,
+        "Pines": 508,
+        "Cypress": 494,
+        "Cypress Front": 359,
+        "Lady Dye": 359,
+        "Calusa": 359
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Champion": 185,
+        "Tournament": 157,
+        "Dye": 147,
+        "Preserve": 147,
+        "Palmetto": 147,
+        "Pines": 125,
+        "Cypress": 94,
+        "Cypress Front": 94,
+        "Lady Dye": 94,
+        "Calusa": 83
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Champion": 417,
+        "Tournament": 393,
+        "Dye": 393,
+        "Preserve": 387,
+        "Palmetto": 387,
+        "Pines": 355,
+        "Cypress": 330,
+        "Cypress Front": 330,
+        "Lady Dye": 274,
+        "Calusa": 274
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Champion": 455,
+        "Tournament": 426,
+        "Dye": 406,
+        "Preserve": 406,
+        "Palmetto": 342,
+        "Pines": 342,
+        "Cypress": 338,
+        "Cypress Front": 338,
+        "Lady Dye": 247,
+        "Calusa": 247
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Champion": 437,
+        "Tournament": 419,
+        "Dye": 388,
+        "Preserve": 388,
+        "Palmetto": 362,
+        "Pines": 362,
+        "Cypress": 325,
+        "Cypress Front": 325,
+        "Lady Dye": 256,
+        "Calusa": 256
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Champion": 507,
+        "Tournament": 457,
+        "Dye": 443,
+        "Preserve": 443,
+        "Palmetto": 412,
+        "Pines": 412,
+        "Cypress": 361,
+        "Cypress Front": 361,
+        "Lady Dye": 361,
+        "Calusa": 320
+      }
+    }
+  ],
+  "version": 1
+}

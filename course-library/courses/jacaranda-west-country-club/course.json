@@ -1,0 +1,253 @@
+{
+  "id": "jacaranda-west-country-club",
+  "name": "Jacaranda West Country Club",
+  "town": "Venice, FL",
+  "location": {
+    "lat": 27.065023,
+    "lng": -82.393321
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Red",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 355,
+        "Blue": 338,
+        "White": 327,
+        "Red": 284,
+        "Yellow": 258
+      },
+      "map": "jacaranda-west-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 386,
+        "Blue": 377,
+        "White": 339,
+        "Red": 326,
+        "Yellow": 275
+      },
+      "map": "jacaranda-west-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 386,
+        "Blue": 358,
+        "White": 331,
+        "Red": 307,
+        "Yellow": 225
+      },
+      "map": "jacaranda-west-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 174,
+        "Blue": 167,
+        "White": 139,
+        "Red": 123,
+        "Yellow": 103
+      },
+      "map": "jacaranda-west-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 519,
+        "Blue": 506,
+        "White": 486,
+        "Red": 455,
+        "Yellow": 393
+      },
+      "map": "jacaranda-west-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 204,
+        "Blue": 174,
+        "White": 160,
+        "Red": 135,
+        "Yellow": 120
+      },
+      "map": "jacaranda-west-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 396,
+        "Blue": 384,
+        "White": 354,
+        "Red": 334,
+        "Yellow": 266
+      },
+      "map": "jacaranda-west-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 325,
+        "Blue": 312,
+        "White": 296,
+        "Red": 284,
+        "Yellow": 215
+      },
+      "map": "jacaranda-west-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 472,
+        "Blue": 460,
+        "White": 445,
+        "Red": 393,
+        "Yellow": 344
+      },
+      "map": "jacaranda-west-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 497,
+        "Blue": 486,
+        "White": 472,
+        "Red": 433,
+        "Yellow": 354
+      },
+      "map": "jacaranda-west-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 176,
+        "Blue": 166,
+        "White": 146,
+        "Red": 128,
+        "Yellow": 74
+      },
+      "map": "jacaranda-west-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 351,
+        "Blue": 334,
+        "White": 308,
+        "Red": 288,
+        "Yellow": 250
+      },
+      "map": "jacaranda-west-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 523,
+        "Blue": 475,
+        "White": 450,
+        "Red": 419,
+        "Yellow": 348
+      },
+      "map": "jacaranda-west-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 431,
+        "Blue": 372,
+        "White": 346,
+        "Red": 322,
+        "Yellow": 263
+      },
+      "map": "jacaranda-west-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 356,
+        "Blue": 341,
+        "White": 297,
+        "Red": 277,
+        "Yellow": 236
+      },
+      "map": "jacaranda-west-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 396,
+        "Blue": 348,
+        "White": 340,
+        "Red": 293,
+        "Yellow": 228
+      },
+      "map": "jacaranda-west-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 187,
+        "Blue": 176,
+        "White": 149,
+        "Red": 118,
+        "Yellow": 98
+      },
+      "map": "jacaranda-west-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 406,
+        "Blue": 385,
+        "White": 372,
+        "Red": 327,
+        "Yellow": 252
+      },
+      "map": "jacaranda-west-country-club-18"
+    }
+  ],
+  "version": 1
+}

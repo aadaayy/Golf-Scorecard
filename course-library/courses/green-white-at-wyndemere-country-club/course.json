@@ -1,0 +1,291 @@
+{
+  "id": "green-white-at-wyndemere-country-club",
+  "name": "Green White At Wyndemere Country Club",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.187655,
+    "lng": -81.744765
+  },
+  "tees": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "V/Vi",
+    "VI"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "I": 463,
+        "II": 399,
+        "III": 366,
+        "IV": 355,
+        "V": 351,
+        "V/Vi": 268,
+        "VI": 268
+      },
+      "map": "green-white-at-wyndemere-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "I": 532,
+        "II": 499,
+        "III": 449,
+        "IV": 430,
+        "V": 425,
+        "V/Vi": 425,
+        "VI": 377
+      },
+      "map": "green-white-at-wyndemere-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "I": 188,
+        "II": 157,
+        "III": 140,
+        "IV": 126,
+        "V": 105,
+        "V/Vi": 95,
+        "VI": 95
+      },
+      "map": "green-white-at-wyndemere-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "I": 358,
+        "II": 325,
+        "III": 309,
+        "IV": 292,
+        "V": 260,
+        "V/Vi": 250,
+        "VI": 250
+      },
+      "map": "green-white-at-wyndemere-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "I": 425,
+        "II": 366,
+        "III": 318,
+        "IV": 318,
+        "V": 307,
+        "V/Vi": 307,
+        "VI": 252
+      },
+      "map": "green-white-at-wyndemere-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "I": 295,
+        "II": 276,
+        "III": 266,
+        "IV": 258,
+        "V": 246,
+        "V/Vi": 246,
+        "VI": 246
+      },
+      "map": "green-white-at-wyndemere-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "I": 413,
+        "II": 388,
+        "III": 370,
+        "IV": 352,
+        "V": 344,
+        "V/Vi": 294,
+        "VI": 294
+      },
+      "map": "green-white-at-wyndemere-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "I": 139,
+        "II": 125,
+        "III": 115,
+        "IV": 105,
+        "V": 97,
+        "V/Vi": 97,
+        "VI": 87
+      },
+      "map": "green-white-at-wyndemere-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "I": 507,
+        "II": 485,
+        "III": 469,
+        "IV": 434,
+        "V": 422,
+        "V/Vi": 422,
+        "VI": 360
+      },
+      "map": "green-white-at-wyndemere-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "I": 341,
+        "II": 328,
+        "III": 316,
+        "IV": 284,
+        "V": 274,
+        "V/Vi": 274,
+        "VI": 246
+      },
+      "map": "green-white-at-wyndemere-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "I": 447,
+        "II": 413,
+        "III": 376,
+        "IV": 362,
+        "V": 327,
+        "V/Vi": 247,
+        "VI": 247
+      },
+      "map": "green-white-at-wyndemere-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "I": 524,
+        "II": 504,
+        "III": 480,
+        "IV": 461,
+        "V": 424,
+        "V/Vi": 424,
+        "VI": 369
+      },
+      "map": "green-white-at-wyndemere-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "I": 177,
+        "II": 147,
+        "III": 137,
+        "IV": 128,
+        "V": 128,
+        "V/Vi": 96,
+        "VI": 96
+      },
+      "map": "green-white-at-wyndemere-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "I": 402,
+        "II": 364,
+        "III": 324,
+        "IV": 296,
+        "V": 280,
+        "V/Vi": 238,
+        "VI": 238
+      },
+      "map": "green-white-at-wyndemere-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "I": 503,
+        "II": 476,
+        "III": 457,
+        "IV": 429,
+        "V": 402,
+        "V/Vi": 402,
+        "VI": 378
+      },
+      "map": "green-white-at-wyndemere-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "I": 187,
+        "II": 163,
+        "III": 155,
+        "IV": 134,
+        "V": 122,
+        "V/Vi": 117,
+        "VI": 117
+      },
+      "map": "green-white-at-wyndemere-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "I": 458,
+        "II": 414,
+        "III": 387,
+        "IV": 351,
+        "V": 340,
+        "V/Vi": 309,
+        "VI": 309
+      },
+      "map": "green-white-at-wyndemere-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "I": 381,
+        "II": 350,
+        "III": 336,
+        "IV": 321,
+        "V": 299,
+        "V/Vi": 299,
+        "VI": 289
+      },
+      "map": "green-white-at-wyndemere-country-club-18"
+    }
+  ],
+  "version": 1
+}

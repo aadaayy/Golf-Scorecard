@@ -1,0 +1,311 @@
+{
+  "id": "tpc-prestancia-the-stadium-course",
+  "name": "Tpc Prestancia The Stadium Course",
+  "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.245665,
+    "lng": -82.480157
+  },
+  "tees": [
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Green",
+    "Green",
+    "Green/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 396,
+        "Black/Blue": 368,
+        "Blue": 368,
+        "Blue/White": 347,
+        "White": 347,
+        "White/Green": 306,
+        "Green": 306,
+        "Green/Red": 306,
+        "Red": 277
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 512,
+        "Black/Blue": 512,
+        "Blue": 495,
+        "Blue/White": 495,
+        "White": 490,
+        "White/Green": 420,
+        "Green": 420,
+        "Green/Red": 387,
+        "Red": 387
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 404,
+        "Black/Blue": 394,
+        "Blue": 394,
+        "Blue/White": 384,
+        "White": 384,
+        "White/Green": 353,
+        "Green": 353,
+        "Green/Red": 300,
+        "Red": 300
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 167,
+        "Black/Blue": 167,
+        "Blue": 145,
+        "Blue/White": 145,
+        "White": 99,
+        "White/Green": 99,
+        "Green": 99,
+        "Green/Red": 99,
+        "Red": 76
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 390,
+        "Black/Blue": 390,
+        "Blue": 345,
+        "Blue/White": 345,
+        "White": 325,
+        "White/Green": 305,
+        "Green": 305,
+        "Green/Red": 305,
+        "Red": 280
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 545,
+        "Black/Blue": 511,
+        "Blue": 511,
+        "Blue/White": 479,
+        "White": 479,
+        "White/Green": 440,
+        "Green": 440,
+        "Green/Red": 395,
+        "Red": 395
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 201,
+        "Black/Blue": 201,
+        "Blue": 177,
+        "Blue/White": 177,
+        "White": 168,
+        "White/Green": 157,
+        "Green": 157,
+        "Green/Red": 75,
+        "Red": 75
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 409,
+        "Black/Blue": 390,
+        "Blue": 390,
+        "Blue/White": 355,
+        "White": 355,
+        "White/Green": 333,
+        "Green": 333,
+        "Green/Red": 293,
+        "Red": 293
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 370,
+        "Black/Blue": 370,
+        "Blue": 344,
+        "Blue/White": 344,
+        "White": 320,
+        "White/Green": 249,
+        "Green": 249,
+        "Green/Red": 249,
+        "Red": 240
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 363,
+        "Black/Blue": 363,
+        "Blue": 342,
+        "Blue/White": 342,
+        "White": 312,
+        "White/Green": 312,
+        "Green": 280,
+        "Green/Red": 280,
+        "Red": 260
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 442,
+        "Black/Blue": 412,
+        "Blue": 412,
+        "Blue/White": 392,
+        "White": 392,
+        "White/Green": 358,
+        "Green": 358,
+        "Green/Red": 298,
+        "Red": 298
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 571,
+        "Black/Blue": 571,
+        "Blue": 519,
+        "Blue/White": 519,
+        "White": 502,
+        "White/Green": 502,
+        "Green": 466,
+        "Green/Red": 426,
+        "Red": 426
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 226,
+        "Black/Blue": 198,
+        "Blue": 198,
+        "Blue/White": 184,
+        "White": 184,
+        "White/Green": 153,
+        "Green": 153,
+        "Green/Red": 123,
+        "Red": 123
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 437,
+        "Black/Blue": 402,
+        "Blue": 402,
+        "Blue/White": 372,
+        "White": 372,
+        "White/Green": 313,
+        "Green": 313,
+        "Green/Red": 313,
+        "Red": 283
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 540,
+        "Black/Blue": 540,
+        "Blue": 489,
+        "Blue/White": 476,
+        "White": 476,
+        "White/Green": 476,
+        "Green": 443,
+        "Green/Red": 443,
+        "Red": 393
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 169,
+        "Black/Blue": 169,
+        "Blue": 144,
+        "Blue/White": 144,
+        "White": 129,
+        "White/Green": 129,
+        "Green": 100,
+        "Green/Red": 100,
+        "Red": 75
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 418,
+        "Black/Blue": 379,
+        "Blue": 379,
+        "Blue/White": 358,
+        "White": 358,
+        "White/Green": 325,
+        "Green": 325,
+        "Green/Red": 260,
+        "Red": 260
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 381,
+        "Black/Blue": 363,
+        "Blue": 363,
+        "Blue/White": 340,
+        "White": 340,
+        "White/Green": 264,
+        "Green": 264,
+        "Green/Red": 264,
+        "Red": 224
+      }
+    }
+  ],
+  "version": 1
+}

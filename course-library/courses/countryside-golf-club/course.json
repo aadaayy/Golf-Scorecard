@@ -1,0 +1,234 @@
+{
+  "id": "countryside-golf-club",
+  "name": "Countryside Golf Club",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.141877,
+    "lng": -81.724395
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Yellow",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 344,
+        "White": 312,
+        "Yellow": 302,
+        "Red": 263
+      },
+      "map": "countryside-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 501,
+        "White": 476,
+        "Yellow": 446,
+        "Red": 436
+      },
+      "map": "countryside-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 368,
+        "White": 338,
+        "Yellow": 305,
+        "Red": 275
+      },
+      "map": "countryside-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 328,
+        "White": 328,
+        "Yellow": 297,
+        "Red": 274
+      },
+      "map": "countryside-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 290,
+        "White": 290,
+        "Yellow": 260,
+        "Red": 229
+      },
+      "map": "countryside-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 134,
+        "White": 134,
+        "Yellow": 100,
+        "Red": 92
+      },
+      "map": "countryside-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 324,
+        "White": 324,
+        "Yellow": 280,
+        "Red": 237
+      },
+      "map": "countryside-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 268,
+        "White": 268,
+        "Yellow": 236,
+        "Red": 194
+      },
+      "map": "countryside-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 178,
+        "White": 164,
+        "Yellow": 142,
+        "Red": 112
+      },
+      "map": "countryside-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 263,
+        "White": 263,
+        "Yellow": 238,
+        "Red": 224
+      },
+      "map": "countryside-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 371,
+        "White": 348,
+        "Yellow": 322,
+        "Red": 316
+      },
+      "map": "countryside-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 316,
+        "White": 316,
+        "Yellow": 271,
+        "Red": 257
+      },
+      "map": "countryside-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 210,
+        "White": 157,
+        "Yellow": 141,
+        "Red": 114
+      },
+      "map": "countryside-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 518,
+        "White": 472,
+        "Yellow": 457,
+        "Red": 422
+      },
+      "map": "countryside-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 297,
+        "White": 297,
+        "Yellow": 248,
+        "Red": 229
+      },
+      "map": "countryside-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 329,
+        "White": 302,
+        "Yellow": 295,
+        "Red": 274
+      },
+      "map": "countryside-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 151,
+        "White": 151,
+        "Yellow": 126,
+        "Red": 111
+      },
+      "map": "countryside-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 382,
+        "White": 364,
+        "Yellow": 345,
+        "Red": 276
+      },
+      "map": "countryside-golf-club-18"
+    }
+  ],
+  "version": 1
+}

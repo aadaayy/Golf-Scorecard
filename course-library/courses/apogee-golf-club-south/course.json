@@ -1,0 +1,254 @@
+{
+  "id": "apogee-golf-club-south",
+  "name": "Apogee Golf Club South",
+  "town": "Indiantown, FL",
+  "location": {
+    "lat": 27.059337,
+    "lng": -80.295108
+  },
+  "tees": [
+    "VI",
+    "V",
+    "IV",
+    "III",
+    "II",
+    "I"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "VI": 427,
+        "V": 384,
+        "IV": 363,
+        "III": 326,
+        "II": 275,
+        "I": 225
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "VI": 410,
+        "V": 374,
+        "IV": 337,
+        "III": 308,
+        "II": 226,
+        "I": 196
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "VI": 141,
+        "V": 120,
+        "IV": 104,
+        "III": 91,
+        "II": 70,
+        "I": 60
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "VI": 503,
+        "V": 475,
+        "IV": 449,
+        "III": 423,
+        "II": 363,
+        "I": 331
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "VI": 473,
+        "V": 438,
+        "IV": 415,
+        "III": 377,
+        "II": 323,
+        "I": 286
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "VI": 213,
+        "V": 185,
+        "IV": 166,
+        "III": 148,
+        "II": 129,
+        "I": 110
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "VI": 428,
+        "V": 400,
+        "IV": 365,
+        "III": 347,
+        "II": 311,
+        "I": 251
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "VI": 340,
+        "V": 314,
+        "IV": 286,
+        "III": 239,
+        "II": 206,
+        "I": 167
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "VI": 583,
+        "V": 561,
+        "IV": 529,
+        "III": 474,
+        "II": 423,
+        "I": 386
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "VI": 439,
+        "V": 406,
+        "IV": 370,
+        "III": 351,
+        "II": 269,
+        "I": 221
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "VI": 160,
+        "V": 146,
+        "IV": 126,
+        "III": 111,
+        "II": 82,
+        "I": 66
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "VI": 526,
+        "V": 499,
+        "IV": 462,
+        "III": 413,
+        "II": 369,
+        "I": 329
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "VI": 352,
+        "V": 309,
+        "IV": 292,
+        "III": 249,
+        "II": 199,
+        "I": 167
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "VI": 483,
+        "V": 441,
+        "IV": 408,
+        "III": 376,
+        "II": 330,
+        "I": 283
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "VI": 592,
+        "V": 566,
+        "IV": 536,
+        "III": 501,
+        "II": 436,
+        "I": 395
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "VI": 331,
+        "V": 292,
+        "IV": 274,
+        "III": 236,
+        "II": 183,
+        "I": 150
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "VI": 251,
+        "V": 221,
+        "IV": 197,
+        "III": 164,
+        "II": 139,
+        "I": 118
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "VI": 486,
+        "V": 446,
+        "IV": 383,
+        "III": 359,
+        "II": 332,
+        "I": 298
+      }
+    }
+  ],
+  "version": 1
+}

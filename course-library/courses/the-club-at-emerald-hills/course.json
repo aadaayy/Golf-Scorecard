@@ -1,0 +1,330 @@
+{
+  "id": "the-club-at-emerald-hills",
+  "name": "The Club At Emerald Hills",
+  "town": "Hollywood, FL",
+  "location": {
+    "lat": 26.04189,
+    "lng": -80.186066
+  },
+  "tees": [
+    "Emerald",
+    "Gold 1",
+    "Gold 2",
+    "Black",
+    "Blue",
+    "Member",
+    "White",
+    "Forward Member",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Emerald": 600,
+        "Gold 1": 580,
+        "Gold 2": 580,
+        "Black": 562,
+        "Blue": 546,
+        "Member": 546,
+        "White": 489,
+        "Forward Member": 489,
+        "Silver": 456,
+        "Red": 446
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Emerald": 434,
+        "Gold 1": 434,
+        "Gold 2": 434,
+        "Black": 425,
+        "Blue": 407,
+        "Member": 381,
+        "White": 381,
+        "Forward Member": 335,
+        "Silver": 335,
+        "Red": 321
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Emerald": 268,
+        "Gold 1": 168,
+        "Gold 2": 168,
+        "Black": 160,
+        "Blue": 143,
+        "Member": 143,
+        "White": 129,
+        "Forward Member": 129,
+        "Silver": 116,
+        "Red": 104
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Emerald": 360,
+        "Gold 1": 360,
+        "Gold 2": 360,
+        "Black": 349,
+        "Blue": 330,
+        "Member": 330,
+        "White": 303,
+        "Forward Member": 303,
+        "Silver": 262,
+        "Red": 247
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Emerald": 643,
+        "Gold 1": 576,
+        "Gold 2": 576,
+        "Black": 531,
+        "Blue": 508,
+        "Member": 508,
+        "White": 472,
+        "Forward Member": 400,
+        "Silver": 400,
+        "Red": 360
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Emerald": 170,
+        "Gold 1": 170,
+        "Gold 2": 170,
+        "Black": 156,
+        "Blue": 145,
+        "Member": 145,
+        "White": 133,
+        "Forward Member": 133,
+        "Silver": 111,
+        "Red": 85
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Emerald": 454,
+        "Gold 1": 454,
+        "Gold 2": 454,
+        "Black": 410,
+        "Blue": 375,
+        "Member": 344,
+        "White": 344,
+        "Forward Member": 326,
+        "Silver": 326,
+        "Red": 271
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Emerald": 518,
+        "Gold 1": 518,
+        "Gold 2": 466,
+        "Black": 430,
+        "Blue": 400,
+        "Member": 377,
+        "White": 377,
+        "Forward Member": 349,
+        "Silver": 349,
+        "Red": 308
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Emerald": 419,
+        "Gold 1": 419,
+        "Gold 2": 419,
+        "Black": 412,
+        "Blue": 392,
+        "Member": 361,
+        "White": 361,
+        "Forward Member": 303,
+        "Silver": 303,
+        "Red": 260
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Emerald": 532,
+        "Gold 1": 438,
+        "Gold 2": 438,
+        "Black": 421,
+        "Blue": 407,
+        "Member": 378,
+        "White": 378,
+        "Forward Member": 313,
+        "Silver": 313,
+        "Red": 285
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Emerald": 414,
+        "Gold 1": 380,
+        "Gold 2": 380,
+        "Black": 374,
+        "Blue": 357,
+        "Member": 357,
+        "White": 336,
+        "Forward Member": 336,
+        "Silver": 323,
+        "Red": 312
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Emerald": 608,
+        "Gold 1": 577,
+        "Gold 2": 577,
+        "Black": 552,
+        "Blue": 526,
+        "Member": 526,
+        "White": 502,
+        "Forward Member": 502,
+        "Silver": 487,
+        "Red": 473
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Emerald": 473,
+        "Gold 1": 426,
+        "Gold 2": 426,
+        "Black": 398,
+        "Blue": 371,
+        "Member": 349,
+        "White": 349,
+        "Forward Member": 328,
+        "Silver": 328,
+        "Red": 246
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Emerald": 150,
+        "Gold 1": 150,
+        "Gold 2": 150,
+        "Black": 139,
+        "Blue": 129,
+        "Member": 129,
+        "White": 115,
+        "Forward Member": 115,
+        "Silver": 104,
+        "Red": 93
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Emerald": 395,
+        "Gold 1": 395,
+        "Gold 2": 395,
+        "Black": 373,
+        "Blue": 354,
+        "Member": 354,
+        "White": 337,
+        "Forward Member": 337,
+        "Silver": 316,
+        "Red": 282
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Emerald": 454,
+        "Gold 1": 454,
+        "Gold 2": 454,
+        "Black": 444,
+        "Blue": 421,
+        "Member": 394,
+        "White": 394,
+        "Forward Member": 333,
+        "Silver": 333,
+        "Red": 314
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Emerald": 253,
+        "Gold 1": 218,
+        "Gold 2": 218,
+        "Black": 206,
+        "Blue": 187,
+        "Member": 164,
+        "White": 164,
+        "Forward Member": 164,
+        "Silver": 144,
+        "Red": 122
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Emerald": 682,
+        "Gold 1": 651,
+        "Gold 2": 609,
+        "Black": 589,
+        "Blue": 565,
+        "Member": 542,
+        "White": 542,
+        "Forward Member": 471,
+        "Silver": 471,
+        "Red": 410
+      }
+    }
+  ],
+  "version": 1
+}

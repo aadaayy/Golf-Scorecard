@@ -1,0 +1,127 @@
+{
+  "id": "boca-lago-country-club-west-course",
+  "name": "Boca Lago Country Club West Course",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.35572,
+    "lng": -80.181792
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Yellow",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 513,
+        "Blue": 491,
+        "Yellow": 422,
+        "White": 398,
+        "Green": 318
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 196,
+        "Blue": 175,
+        "Yellow": 156,
+        "White": 144,
+        "Green": 116
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 551,
+        "Blue": 512,
+        "Yellow": 447,
+        "White": 426,
+        "Green": 388
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 382,
+        "Blue": 351,
+        "Yellow": 311,
+        "White": 290,
+        "Green": 237
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 367,
+        "Blue": 353,
+        "Yellow": 312,
+        "White": 254,
+        "Green": 206
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 192,
+        "Blue": 173,
+        "Yellow": 156,
+        "White": 137,
+        "Green": 120
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 353,
+        "Blue": 317,
+        "Yellow": 287,
+        "White": 270,
+        "Green": 233
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 146,
+        "Blue": 133,
+        "Yellow": 119,
+        "White": 104,
+        "Green": 95
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 541,
+        "Blue": 495,
+        "Yellow": 436,
+        "White": 385,
+        "Green": 347
+      }
+    }
+  ],
+  "version": 1
+}

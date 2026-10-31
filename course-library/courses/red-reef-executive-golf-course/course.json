@@ -1,0 +1,97 @@
+{
+  "id": "red-reef-executive-golf-course",
+  "name": "Red Reef Executive Golf Course",
+  "town": "Boca Raton, FL",
+  "location": {
+    "lat": 26.361801,
+    "lng": -80.070332
+  },
+  "tees": [
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "White": 132,
+        "Red": 99
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "White": 116,
+        "Red": 101
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "White": 176,
+        "Red": 161
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 65,
+        "Red": 58
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "White": 185,
+        "Red": 169
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "White": 205,
+        "Red": 184
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 86,
+        "Red": 75
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "White": 165,
+        "Red": 147
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "White": 227,
+        "Red": 193
+      }
+    }
+  ],
+  "version": 1
+}

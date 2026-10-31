@@ -1,0 +1,272 @@
+{
+  "id": "old-corkscrew-golf-club",
+  "name": "Old Corkscrew Golf Club",
+  "town": "Estero, FL",
+  "location": {
+    "lat": 26.448614,
+    "lng": -81.671709
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Blue",
+    "White",
+    "Green",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 438,
+        "Web": 438,
+        "Blue": 388,
+        "White": 371,
+        "Green": 312,
+        "Gold": 312
+      },
+      "map": "old-corkscrew-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 217,
+        "Web": 217,
+        "Blue": 180,
+        "White": 133,
+        "Green": 133,
+        "Gold": 103
+      },
+      "map": "old-corkscrew-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 548,
+        "Web": 548,
+        "Blue": 499,
+        "White": 482,
+        "Green": 410,
+        "Gold": 410
+      },
+      "map": "old-corkscrew-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 336,
+        "Web": 336,
+        "Blue": 313,
+        "White": 292,
+        "Green": 292,
+        "Gold": 234
+      },
+      "map": "old-corkscrew-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 442,
+        "Web": 442,
+        "Blue": 381,
+        "White": 339,
+        "Green": 306,
+        "Gold": 306
+      },
+      "map": "old-corkscrew-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 472,
+        "Web": 472,
+        "Blue": 422,
+        "White": 408,
+        "Green": 347,
+        "Gold": 347
+      },
+      "map": "old-corkscrew-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 236,
+        "Web": 236,
+        "Blue": 201,
+        "White": 160,
+        "Green": 118,
+        "Gold": 118
+      },
+      "map": "old-corkscrew-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 537,
+        "Web": 537,
+        "Blue": 497,
+        "White": 480,
+        "Green": 480,
+        "Gold": 395
+      },
+      "map": "old-corkscrew-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 423,
+        "Web": 423,
+        "Blue": 377,
+        "White": 356,
+        "Green": 356,
+        "Gold": 291
+      },
+      "map": "old-corkscrew-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 491,
+        "Web": 491,
+        "Blue": 431,
+        "White": 415,
+        "Green": 350,
+        "Gold": 350
+      },
+      "map": "old-corkscrew-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 537,
+        "Web": 537,
+        "Blue": 489,
+        "White": 472,
+        "Green": 472,
+        "Gold": 420
+      },
+      "map": "old-corkscrew-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 190,
+        "Web": 190,
+        "Blue": 136,
+        "White": 119,
+        "Green": 119,
+        "Gold": 107
+      },
+      "map": "old-corkscrew-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 353,
+        "Web": 353,
+        "Blue": 322,
+        "White": 306,
+        "Green": 306,
+        "Gold": 226
+      },
+      "map": "old-corkscrew-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 450,
+        "Web": 450,
+        "Blue": 404,
+        "White": 387,
+        "Green": 314,
+        "Gold": 314
+      },
+      "map": "old-corkscrew-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 610,
+        "Web": 610,
+        "Blue": 544,
+        "White": 522,
+        "Green": 522,
+        "Gold": 447
+      },
+      "map": "old-corkscrew-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 396,
+        "Web": 396,
+        "Blue": 313,
+        "White": 296,
+        "Green": 296,
+        "Gold": 264
+      },
+      "map": "old-corkscrew-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 169,
+        "Web": 169,
+        "Blue": 160,
+        "White": 126,
+        "Green": 126,
+        "Gold": 100
+      },
+      "map": "old-corkscrew-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 460,
+        "Web": 460,
+        "Blue": 422,
+        "White": 400,
+        "Green": 310,
+        "Gold": 310
+      },
+      "map": "old-corkscrew-golf-club-18"
+    }
+  ],
+  "version": 1
+}

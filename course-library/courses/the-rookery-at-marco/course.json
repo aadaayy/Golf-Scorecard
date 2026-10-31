@@ -1,0 +1,329 @@
+{
+  "id": "the-rookery-at-marco",
+  "name": "The Rookery At Marco",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.023536,
+    "lng": -81.677266
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Member",
+    "Yellow",
+    "Senior",
+    "Green",
+    "Red",
+    "Purple"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 414,
+        "Blue": 389,
+        "White": 361,
+        "Member": 334,
+        "Yellow": 334,
+        "Senior": 293,
+        "Green": 293,
+        "Red": 284,
+        "Purple": 284
+      },
+      "map": "the-rookery-at-marco-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 363,
+        "Blue": 342,
+        "White": 321,
+        "Member": 321,
+        "Yellow": 294,
+        "Senior": 294,
+        "Green": 289,
+        "Red": 255,
+        "Purple": 255
+      },
+      "map": "the-rookery-at-marco-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 166,
+        "Blue": 150,
+        "White": 134,
+        "Member": 134,
+        "Yellow": 127,
+        "Senior": 127,
+        "Green": 127,
+        "Red": 114,
+        "Purple": 114
+      },
+      "map": "the-rookery-at-marco-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 562,
+        "Blue": 523,
+        "White": 508,
+        "Member": 482,
+        "Yellow": 482,
+        "Senior": 482,
+        "Green": 433,
+        "Red": 426,
+        "Purple": 384
+      },
+      "map": "the-rookery-at-marco-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 452,
+        "Blue": 418,
+        "White": 397,
+        "Member": 374,
+        "Yellow": 374,
+        "Senior": 320,
+        "Green": 320,
+        "Red": 315,
+        "Purple": 315
+      },
+      "map": "the-rookery-at-marco-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 405,
+        "Blue": 384,
+        "White": 363,
+        "Member": 363,
+        "Yellow": 351,
+        "Senior": 351,
+        "Green": 307,
+        "Red": 277,
+        "Purple": 277
+      },
+      "map": "the-rookery-at-marco-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 415,
+        "Blue": 396,
+        "White": 374,
+        "Member": 374,
+        "Yellow": 341,
+        "Senior": 341,
+        "Green": 295,
+        "Red": 288,
+        "Purple": 288
+      },
+      "map": "the-rookery-at-marco-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 209,
+        "Blue": 188,
+        "White": 170,
+        "Member": 170,
+        "Yellow": 152,
+        "Senior": 152,
+        "Green": 152,
+        "Red": 130,
+        "Purple": 128
+      },
+      "map": "the-rookery-at-marco-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 542,
+        "Blue": 523,
+        "White": 500,
+        "Member": 500,
+        "Yellow": 478,
+        "Senior": 478,
+        "Green": 413,
+        "Red": 408,
+        "Purple": 368
+      },
+      "map": "the-rookery-at-marco-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 437,
+        "Blue": 410,
+        "White": 386,
+        "Member": 356,
+        "Yellow": 356,
+        "Senior": 356,
+        "Green": 312,
+        "Red": 303,
+        "Purple": 303
+      },
+      "map": "the-rookery-at-marco-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 587,
+        "Blue": 561,
+        "White": 537,
+        "Member": 537,
+        "Yellow": 494,
+        "Senior": 494,
+        "Green": 486,
+        "Red": 393,
+        "Purple": 393
+      },
+      "map": "the-rookery-at-marco-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 414,
+        "Blue": 396,
+        "White": 379,
+        "Member": 364,
+        "Yellow": 364,
+        "Senior": 364,
+        "Green": 278,
+        "Red": 271,
+        "Purple": 271
+      },
+      "map": "the-rookery-at-marco-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 459,
+        "Blue": 436,
+        "White": 417,
+        "Member": 389,
+        "Yellow": 389,
+        "Senior": 380,
+        "Green": 380,
+        "Red": 329,
+        "Purple": 297
+      },
+      "map": "the-rookery-at-marco-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 217,
+        "Blue": 197,
+        "White": 168,
+        "Member": 168,
+        "Yellow": 140,
+        "Senior": 140,
+        "Green": 135,
+        "Red": 130,
+        "Purple": 130
+      },
+      "map": "the-rookery-at-marco-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 521,
+        "Blue": 495,
+        "White": 483,
+        "Member": 483,
+        "Yellow": 464,
+        "Senior": 464,
+        "Green": 417,
+        "Red": 409,
+        "Purple": 362
+      },
+      "map": "the-rookery-at-marco-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 169,
+        "Blue": 158,
+        "White": 146,
+        "Member": 146,
+        "Yellow": 142,
+        "Senior": 142,
+        "Green": 127,
+        "Red": 112,
+        "Purple": 112
+      },
+      "map": "the-rookery-at-marco-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 393,
+        "Blue": 371,
+        "White": 347,
+        "Member": 347,
+        "Yellow": 319,
+        "Senior": 319,
+        "Green": 311,
+        "Red": 262,
+        "Purple": 262
+      },
+      "map": "the-rookery-at-marco-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 445,
+        "Blue": 412,
+        "White": 364,
+        "Member": 364,
+        "Yellow": 309,
+        "Senior": 309,
+        "Green": 309,
+        "Red": 278,
+        "Purple": 278
+      },
+      "map": "the-rookery-at-marco-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,67 @@
+{
+  "id": "estuary-at-river-strand-golf-and-country-club",
+  "name": "Estuary At River Strand Golf And Country Club",
+  "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.508617,
+    "lng": -82.468076
+  },
+  "tees": [],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {}
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {}
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 6,
+      "yards": {}
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 8,
+      "yards": {}
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {}
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {}
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {}
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {}
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {}
+    }
+  ],
+  "version": 1
+}

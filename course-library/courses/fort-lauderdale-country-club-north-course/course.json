@@ -1,0 +1,311 @@
+{
+  "id": "fort-lauderdale-country-club-north-course",
+  "name": "Fort Lauderdale Country Club North Course",
+  "town": "Plantation, FL",
+  "location": {
+    "lat": 26.11506,
+    "lng": -80.20788
+  },
+  "tees": [
+    "Champion",
+    "Champion/Back",
+    "Back",
+    "Back/Member",
+    "Member",
+    "Member/Middle",
+    "Middle",
+    "Middle/Forward",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Champion": 404,
+        "Champion/Back": 404,
+        "Back": 382,
+        "Back/Member": 382,
+        "Member": 366,
+        "Member/Middle": 318,
+        "Middle": 318,
+        "Middle/Forward": 318,
+        "Forward": 311
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Champion": 403,
+        "Champion/Back": 403,
+        "Back": 378,
+        "Back/Member": 346,
+        "Member": 346,
+        "Member/Middle": 346,
+        "Middle": 306,
+        "Middle/Forward": 306,
+        "Forward": 217
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Champion": 588,
+        "Champion/Back": 551,
+        "Back": 551,
+        "Back/Member": 516,
+        "Member": 516,
+        "Member/Middle": 493,
+        "Middle": 493,
+        "Middle/Forward": 468,
+        "Forward": 468
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Champion": 217,
+        "Champion/Back": 217,
+        "Back": 188,
+        "Back/Member": 162,
+        "Member": 162,
+        "Member/Middle": 162,
+        "Middle": 128,
+        "Middle/Forward": 97,
+        "Forward": 97
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Champion": 348,
+        "Champion/Back": 348,
+        "Back": 313,
+        "Back/Member": 313,
+        "Member": 280,
+        "Member/Middle": 280,
+        "Middle": 255,
+        "Middle/Forward": 255,
+        "Forward": 211
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Champion": 367,
+        "Champion/Back": 367,
+        "Back": 343,
+        "Back/Member": 343,
+        "Member": 303,
+        "Member/Middle": 303,
+        "Middle": 276,
+        "Middle/Forward": 276,
+        "Forward": 248
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Champion": 539,
+        "Champion/Back": 507,
+        "Back": 507,
+        "Back/Member": 507,
+        "Member": 466,
+        "Member/Middle": 466,
+        "Middle": 452,
+        "Middle/Forward": 420,
+        "Forward": 420
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Champion": 220,
+        "Champion/Back": 188,
+        "Back": 188,
+        "Back/Member": 155,
+        "Member": 155,
+        "Member/Middle": 135,
+        "Middle": 135,
+        "Middle/Forward": 135,
+        "Forward": 109
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Champion": 461,
+        "Champion/Back": 437,
+        "Back": 437,
+        "Back/Member": 401,
+        "Member": 401,
+        "Member/Middle": 368,
+        "Middle": 368,
+        "Middle/Forward": 328,
+        "Forward": 328
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Champion": 451,
+        "Champion/Back": 419,
+        "Back": 419,
+        "Back/Member": 400,
+        "Member": 400,
+        "Member/Middle": 363,
+        "Middle": 363,
+        "Middle/Forward": 337,
+        "Forward": 337
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Champion": 191,
+        "Champion/Back": 170,
+        "Back": 170,
+        "Back/Member": 170,
+        "Member": 146,
+        "Member/Middle": 146,
+        "Middle": 122,
+        "Middle/Forward": 122,
+        "Forward": 106
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Champion": 409,
+        "Champion/Back": 409,
+        "Back": 388,
+        "Back/Member": 369,
+        "Member": 369,
+        "Member/Middle": 342,
+        "Middle": 342,
+        "Middle/Forward": 295,
+        "Forward": 295
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Champion": 346,
+        "Champion/Back": 346,
+        "Back": 301,
+        "Back/Member": 301,
+        "Member": 280,
+        "Member/Middle": 280,
+        "Middle": 254,
+        "Middle/Forward": 254,
+        "Forward": 217
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Champion": 518,
+        "Champion/Back": 518,
+        "Back": 479,
+        "Back/Member": 479,
+        "Member": 444,
+        "Member/Middle": 444,
+        "Middle": 411,
+        "Middle/Forward": 370,
+        "Forward": 370
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Champion": 234,
+        "Champion/Back": 210,
+        "Back": 210,
+        "Back/Member": 183,
+        "Member": 183,
+        "Member/Middle": 183,
+        "Middle": 145,
+        "Middle/Forward": 145,
+        "Forward": 121
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Champion": 395,
+        "Champion/Back": 395,
+        "Back": 350,
+        "Back/Member": 350,
+        "Member": 325,
+        "Member/Middle": 325,
+        "Middle": 303,
+        "Middle/Forward": 303,
+        "Forward": 280
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Champion": 602,
+        "Champion/Back": 567,
+        "Back": 567,
+        "Back/Member": 515,
+        "Member": 515,
+        "Member/Middle": 465,
+        "Middle": 465,
+        "Middle/Forward": 407,
+        "Forward": 407
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Champion": 414,
+        "Champion/Back": 414,
+        "Back": 385,
+        "Back/Member": 385,
+        "Member": 356,
+        "Member/Middle": 335,
+        "Middle": 335,
+        "Middle/Forward": 335,
+        "Forward": 261
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "lakewood-national-golf-club-piper-course",
+  "name": "Lakewood National Golf Club Piper Course",
+  "town": "Lakewood Ranch, FL",
+  "location": {
+    "lat": 27.437137,
+    "lng": -82.370681
+  },
+  "tees": [
+    "King",
+    "Arnold",
+    "National",
+    "Palmer",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "King": 615,
+        "Arnold": 593,
+        "National": 572,
+        "Palmer": 532,
+        "Friendly": 500
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "King": 441,
+        "Arnold": 423,
+        "National": 398,
+        "Palmer": 382,
+        "Friendly": 360
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "King": 186,
+        "Arnold": 164,
+        "National": 156,
+        "Palmer": 142,
+        "Friendly": 126
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "King": 453,
+        "Arnold": 426,
+        "National": 414,
+        "Palmer": 380,
+        "Friendly": 317
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "King": 167,
+        "Arnold": 155,
+        "National": 144,
+        "Palmer": 135,
+        "Friendly": 121
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "King": 476,
+        "Arnold": 452,
+        "National": 425,
+        "Palmer": 412,
+        "Friendly": 376
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "King": 467,
+        "Arnold": 439,
+        "National": 400,
+        "Palmer": 391,
+        "Friendly": 369
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "King": 548,
+        "Arnold": 532,
+        "National": 499,
+        "Palmer": 481,
+        "Friendly": 456
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "King": 334,
+        "Arnold": 313,
+        "National": 281,
+        "Palmer": 259,
+        "Friendly": 236
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "King": 445,
+        "Arnold": 420,
+        "National": 404,
+        "Palmer": 376,
+        "Friendly": 345
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "King": 646,
+        "Arnold": 598,
+        "National": 579,
+        "Palmer": 562,
+        "Friendly": 525
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "King": 457,
+        "Arnold": 434,
+        "National": 420,
+        "Palmer": 383,
+        "Friendly": 367
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "King": 158,
+        "Arnold": 130,
+        "National": 124,
+        "Palmer": 108,
+        "Friendly": 101
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "King": 342,
+        "Arnold": 316,
+        "National": 310,
+        "Palmer": 294,
+        "Friendly": 288
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "King": 588,
+        "Arnold": 543,
+        "National": 521,
+        "Palmer": 499,
+        "Friendly": 464
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "King": 170,
+        "Arnold": 157,
+        "National": 142,
+        "Palmer": 138,
+        "Friendly": 132
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "King": 377,
+        "Arnold": 351,
+        "National": 333,
+        "Palmer": 327,
+        "Friendly": 286
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "King": 421,
+        "Arnold": 397,
+        "National": 377,
+        "Palmer": 333,
+        "Friendly": 303
+      }
+    }
+  ],
+  "version": 1
+}

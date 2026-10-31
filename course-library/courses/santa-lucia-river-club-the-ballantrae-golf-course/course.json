@@ -1,0 +1,273 @@
+{
+  "id": "santa-lucia-river-club-the-ballantrae-golf-course",
+  "name": "Santa Lucia River Club The Ballantrae Golf Course",
+  "town": "Port Saint Lucie, FL",
+  "location": {
+    "lat": 27.243916,
+    "lng": -80.300268
+  },
+  "tees": [
+    "Bear",
+    "Green",
+    "Blue",
+    "White",
+    "Gold",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Bear": 339,
+        "Green": 330,
+        "Blue": 305,
+        "White": 296,
+        "Gold": 256,
+        "Silver": 256,
+        "Red": 249
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Bear": 549,
+        "Green": 486,
+        "Blue": 469,
+        "White": 459,
+        "Gold": 411,
+        "Silver": 411,
+        "Red": 405
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Bear": 178,
+        "Green": 167,
+        "Blue": 139,
+        "White": 122,
+        "Gold": 122,
+        "Silver": 106,
+        "Red": 99
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Bear": 414,
+        "Green": 390,
+        "Blue": 351,
+        "White": 319,
+        "Gold": 319,
+        "Silver": 308,
+        "Red": 283
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Bear": 563,
+        "Green": 534,
+        "Blue": 510,
+        "White": 501,
+        "Gold": 501,
+        "Silver": 462,
+        "Red": 453
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Bear": 437,
+        "Green": 410,
+        "Blue": 392,
+        "White": 354,
+        "Gold": 354,
+        "Silver": 311,
+        "Red": 304
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Bear": 401,
+        "Green": 381,
+        "Blue": 370,
+        "White": 330,
+        "Gold": 330,
+        "Silver": 291,
+        "Red": 283
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Bear": 345,
+        "Green": 338,
+        "Blue": 324,
+        "White": 309,
+        "Gold": 278,
+        "Silver": 248,
+        "Red": 239
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Bear": 226,
+        "Green": 211,
+        "Blue": 189,
+        "White": 174,
+        "Gold": 150,
+        "Silver": 150,
+        "Red": 116
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Bear": 521,
+        "Green": 513,
+        "Blue": 490,
+        "White": 471,
+        "Gold": 471,
+        "Silver": 432,
+        "Red": 421
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Bear": 391,
+        "Green": 379,
+        "Blue": 347,
+        "White": 329,
+        "Gold": 302,
+        "Silver": 302,
+        "Red": 258
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Bear": 413,
+        "Green": 390,
+        "Blue": 375,
+        "White": 345,
+        "Gold": 293,
+        "Silver": 293,
+        "Red": 285
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Bear": 575,
+        "Green": 542,
+        "Blue": 519,
+        "White": 508,
+        "Gold": 508,
+        "Silver": 471,
+        "Red": 434
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Bear": 185,
+        "Green": 173,
+        "Blue": 150,
+        "White": 135,
+        "Gold": 135,
+        "Silver": 121,
+        "Red": 103
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Bear": 404,
+        "Green": 393,
+        "Blue": 371,
+        "White": 352,
+        "Gold": 326,
+        "Silver": 326,
+        "Red": 314
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Bear": 434,
+        "Green": 362,
+        "Blue": 355,
+        "White": 338,
+        "Gold": 338,
+        "Silver": 330,
+        "Red": 311
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Bear": 196,
+        "Green": 175,
+        "Blue": 160,
+        "White": 145,
+        "Gold": 119,
+        "Silver": 119,
+        "Red": 109
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Bear": 400,
+        "Green": 369,
+        "Blue": 358,
+        "White": 347,
+        "Gold": 304,
+        "Silver": 304,
+        "Red": 262
+      }
+    }
+  ],
+  "version": 1
+}

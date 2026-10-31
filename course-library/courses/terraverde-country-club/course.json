@@ -1,0 +1,97 @@
+{
+  "id": "terraverde-country-club",
+  "name": "Terraverde Country Club",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.493225,
+    "lng": -81.857324
+  },
+  "tees": [
+    "Web",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Web": 120,
+        "Forward": 89
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Web": 145,
+        "Forward": 113
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Web": 195,
+        "Forward": 157
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Web": 110,
+        "Forward": 84
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Web": 135,
+        "Forward": 109
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Web": 180,
+        "Forward": 161
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Web": 160,
+        "Forward": 135
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Web": 90,
+        "Forward": 71
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Web": 125,
+        "Forward": 99
+      }
+    }
+  ],
+  "version": 1
+}

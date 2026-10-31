@@ -1,0 +1,273 @@
+{
+  "id": "the-national-golf-country-club",
+  "name": "The National Golf Country Club",
+  "town": "Ave Maria, FL",
+  "location": {
+    "lat": 26.312862,
+    "lng": -81.426018
+  },
+  "tees": [
+    "Silver",
+    "Orange",
+    "Red",
+    "Black",
+    "Purple",
+    "Blue",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Silver": 366,
+        "Orange": 366,
+        "Red": 340,
+        "Black": 318,
+        "Purple": 318,
+        "Blue": 264,
+        "Gold": 234
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Silver": 576,
+        "Orange": 508,
+        "Red": 508,
+        "Black": 486,
+        "Purple": 486,
+        "Blue": 418,
+        "Gold": 373
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Silver": 407,
+        "Orange": 407,
+        "Red": 385,
+        "Black": 363,
+        "Purple": 288,
+        "Blue": 288,
+        "Gold": 253
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Silver": 373,
+        "Orange": 373,
+        "Red": 318,
+        "Black": 296,
+        "Purple": 296,
+        "Blue": 235,
+        "Gold": 213
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Silver": 242,
+        "Orange": 209,
+        "Red": 209,
+        "Black": 143,
+        "Purple": 143,
+        "Blue": 117,
+        "Gold": 100
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Silver": 364,
+        "Orange": 364,
+        "Red": 333,
+        "Black": 311,
+        "Purple": 311,
+        "Blue": 246,
+        "Gold": 224
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Silver": 266,
+        "Orange": 222,
+        "Red": 222,
+        "Black": 187,
+        "Purple": 187,
+        "Blue": 132,
+        "Gold": 112
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Silver": 563,
+        "Orange": 502,
+        "Red": 502,
+        "Black": 485,
+        "Purple": 420,
+        "Blue": 420,
+        "Gold": 383
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Silver": 454,
+        "Orange": 399,
+        "Red": 399,
+        "Black": 377,
+        "Purple": 333,
+        "Blue": 333,
+        "Gold": 303
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Silver": 440,
+        "Orange": 380,
+        "Red": 380,
+        "Black": 358,
+        "Purple": 358,
+        "Blue": 325,
+        "Gold": 280
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Silver": 474,
+        "Orange": 444,
+        "Red": 444,
+        "Black": 422,
+        "Purple": 354,
+        "Blue": 354,
+        "Gold": 313
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Silver": 394,
+        "Orange": 292,
+        "Red": 292,
+        "Black": 276,
+        "Purple": 276,
+        "Blue": 260,
+        "Gold": 243
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Silver": 114,
+        "Orange": 114,
+        "Red": 107,
+        "Black": 100,
+        "Purple": 100,
+        "Blue": 93,
+        "Gold": 74
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Silver": 598,
+        "Orange": 544,
+        "Red": 544,
+        "Black": 522,
+        "Purple": 437,
+        "Blue": 437,
+        "Gold": 413
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Silver": 409,
+        "Orange": 409,
+        "Red": 347,
+        "Black": 337,
+        "Purple": 337,
+        "Blue": 300,
+        "Gold": 272
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Silver": 701,
+        "Orange": 571,
+        "Red": 571,
+        "Black": 549,
+        "Purple": 448,
+        "Blue": 448,
+        "Gold": 426
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Silver": 171,
+        "Orange": 171,
+        "Red": 159,
+        "Black": 137,
+        "Purple": 137,
+        "Blue": 111,
+        "Gold": 88
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Silver": 397,
+        "Orange": 397,
+        "Red": 375,
+        "Black": 353,
+        "Purple": 353,
+        "Blue": 279,
+        "Gold": 242
+      }
+    }
+  ],
+  "version": 1
+}

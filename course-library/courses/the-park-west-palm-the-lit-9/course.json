@@ -1,0 +1,97 @@
+{
+  "id": "the-park-west-palm-the-lit-9",
+  "name": "The Park West Palm The Lit 9",
+  "town": "West Palm Beach, FL",
+  "location": {
+    "lat": 26.65141,
+    "lng": -80.060941
+  },
+  "tees": [
+    "Ladies",
+    "Mens"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Ladies": 75,
+        "Mens": 75
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Ladies": 81,
+        "Mens": 81
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Ladies": 70,
+        "Mens": 70
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Ladies": 77,
+        "Mens": 77
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Ladies": 60,
+        "Mens": 60
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Ladies": 64,
+        "Mens": 64
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Ladies": 87,
+        "Mens": 87
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Ladies": 90,
+        "Mens": 90
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Ladies": 75,
+        "Mens": 75
+      }
+    }
+  ],
+  "version": 1
+}

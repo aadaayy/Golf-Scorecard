@@ -1,0 +1,310 @@
+{
+  "id": "colonial-country-club",
+  "name": "Colonial Country Club",
+  "town": "Fort Myers, FL",
+  "location": {
+    "lat": 26.600995,
+    "lng": -81.790847
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Blue/White",
+    "White/Blue",
+    "White/Gren",
+    "Green",
+    "Green/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 384,
+        "Blue": 341,
+        "Blue/White": 341,
+        "White/Blue": 306,
+        "White/Gren": 258,
+        "Green": 258,
+        "Green/Red": 258,
+        "Red": 247
+      },
+      "map": "colonial-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 464,
+        "Blue": 441,
+        "Blue/White": 381,
+        "White/Blue": 381,
+        "White/Gren": 340,
+        "Green": 340,
+        "Green/Red": 340,
+        "Red": 275
+      },
+      "map": "colonial-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 627,
+        "Blue": 570,
+        "Blue/White": 509,
+        "White/Blue": 509,
+        "White/Gren": 441,
+        "Green": 441,
+        "Green/Red": 387,
+        "Red": 387
+      },
+      "map": "colonial-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 468,
+        "Blue": 398,
+        "Blue/White": 398,
+        "White/Blue": 344,
+        "White/Gren": 308,
+        "Green": 308,
+        "Green/Red": 308,
+        "Red": 292
+      },
+      "map": "colonial-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 209,
+        "Blue": 184,
+        "Blue/White": 162,
+        "White/Blue": 162,
+        "White/Gren": 123,
+        "Green": 123,
+        "Green/Red": 123,
+        "Red": 101
+      },
+      "map": "colonial-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 584,
+        "Blue": 516,
+        "Blue/White": 516,
+        "White/Blue": 491,
+        "White/Gren": 491,
+        "Green": 430,
+        "Green/Red": 430,
+        "Red": 389
+      },
+      "map": "colonial-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 207,
+        "Blue": 151,
+        "Blue/White": 151,
+        "White/Blue": 134,
+        "White/Gren": 134,
+        "Green": 118,
+        "Green/Red": 118,
+        "Red": 108
+      },
+      "map": "colonial-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 388,
+        "Blue": 338,
+        "Blue/White": 338,
+        "White/Blue": 297,
+        "White/Gren": 297,
+        "Green": 250,
+        "Green/Red": 250,
+        "Red": 206
+      },
+      "map": "colonial-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 417,
+        "Blue": 344,
+        "Blue/White": 344,
+        "White/Blue": 329,
+        "White/Gren": 302,
+        "Green": 302,
+        "Green/Red": 302,
+        "Red": 256
+      },
+      "map": "colonial-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 485,
+        "Blue": 459,
+        "Blue/White": 459,
+        "White/Blue": 447,
+        "White/Gren": 414,
+        "Green": 414,
+        "Green/Red": 414,
+        "Red": 365
+      },
+      "map": "colonial-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 453,
+        "Blue": 403,
+        "Blue/White": 403,
+        "White/Blue": 376,
+        "White/Gren": 335,
+        "Green": 335,
+        "Green/Red": 299,
+        "Red": 299
+      },
+      "map": "colonial-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 593,
+        "Blue": 514,
+        "Blue/White": 482,
+        "White/Blue": 482,
+        "White/Gren": 482,
+        "Green": 443,
+        "Green/Red": 443,
+        "Red": 390
+      },
+      "map": "colonial-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 222,
+        "Blue": 209,
+        "Blue/White": 166,
+        "White/Blue": 166,
+        "White/Gren": 133,
+        "Green": 133,
+        "Green/Red": 103,
+        "Red": 103
+      },
+      "map": "colonial-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 439,
+        "Blue": 367,
+        "Blue/White": 367,
+        "White/Blue": 320,
+        "White/Gren": 320,
+        "Green": 278,
+        "Green/Red": 278,
+        "Red": 246
+      },
+      "map": "colonial-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 424,
+        "Blue": 365,
+        "Blue/White": 365,
+        "White/Blue": 334,
+        "White/Gren": 334,
+        "Green": 296,
+        "Green/Red": 296,
+        "Red": 257
+      },
+      "map": "colonial-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 451,
+        "Blue": 381,
+        "Blue/White": 367,
+        "White/Blue": 367,
+        "White/Gren": 318,
+        "Green": 318,
+        "Green/Red": 282,
+        "Red": 282
+      },
+      "map": "colonial-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 168,
+        "Blue": 152,
+        "Blue/White": 152,
+        "White/Blue": 135,
+        "White/Gren": 135,
+        "Green": 100,
+        "Green/Red": 100,
+        "Red": 82
+      },
+      "map": "colonial-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 369,
+        "Blue": 351,
+        "Blue/White": 351,
+        "White/Blue": 284,
+        "White/Gren": 284,
+        "Green": 240,
+        "Green/Red": 240,
+        "Red": 212
+      },
+      "map": "colonial-country-club-18"
+    }
+  ],
+  "version": 1
+}

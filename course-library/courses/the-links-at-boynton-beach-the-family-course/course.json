@@ -1,0 +1,117 @@
+{
+  "id": "the-links-at-boynton-beach-the-family-course",
+  "name": "The Links At Boynton Beach The Family Course",
+  "town": "Boynton Beach, FL",
+  "location": {
+    "lat": 26.560772,
+    "lng": -80.134791
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 342,
+        "Blue": 331,
+        "White": 316,
+        "Red": 262
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 372,
+        "Blue": 343,
+        "White": 273,
+        "Red": 265
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 136,
+        "Blue": 123,
+        "White": 111,
+        "Red": 100
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Gold": 126,
+        "Blue": 115,
+        "White": 99,
+        "Red": 64
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Gold": 170,
+        "Blue": 156,
+        "White": 144,
+        "Red": 62
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 334,
+        "Blue": 320,
+        "White": 307,
+        "Red": 203
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Gold": 141,
+        "Blue": 121,
+        "White": 97,
+        "Red": 80
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 126,
+        "Blue": 111,
+        "White": 96,
+        "Red": 68
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 144,
+        "Blue": 136,
+        "White": 124,
+        "Red": 102
+      }
+    }
+  ],
+  "version": 1
+}

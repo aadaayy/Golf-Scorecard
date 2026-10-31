@@ -1,0 +1,329 @@
+{
+  "id": "the-cape-club-of-palm-city",
+  "name": "The Cape Club Of Palm City",
+  "town": "Palm City, FL",
+  "location": {
+    "lat": 27.19233,
+    "lng": -80.397058
+  },
+  "tees": [
+    "Black",
+    "Black/Gold",
+    "Gold",
+    "Gold/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 508,
+        "Black/Gold": 493,
+        "Gold": 487,
+        "Gold/Blue": 487,
+        "Blue": 454,
+        "Blue/White": 454,
+        "White": 427,
+        "White/Red": 427,
+        "Red": 377
+      },
+      "map": "the-cape-club-of-palm-city-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 368,
+        "Black/Gold": 355,
+        "Gold": 327,
+        "Gold/Blue": 327,
+        "Blue": 296,
+        "Blue/White": 269,
+        "White": 269,
+        "White/Red": 269,
+        "Red": 269
+      },
+      "map": "the-cape-club-of-palm-city-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 439,
+        "Black/Gold": 412,
+        "Gold": 415,
+        "Gold/Blue": 400,
+        "Blue": 400,
+        "Blue/White": 368,
+        "White": 368,
+        "White/Red": 368,
+        "Red": 368
+      },
+      "map": "the-cape-club-of-palm-city-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 411,
+        "Black/Gold": 359,
+        "Gold": 363,
+        "Gold/Blue": 363,
+        "Blue": 346,
+        "Blue/White": 310,
+        "White": 310,
+        "White/Red": 266,
+        "Red": 266
+      },
+      "map": "the-cape-club-of-palm-city-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 172,
+        "Black/Gold": 166,
+        "Gold": 157,
+        "Gold/Blue": 157,
+        "Blue": 147,
+        "Blue/White": 147,
+        "White": 133,
+        "White/Red": 133,
+        "Red": 133
+      },
+      "map": "the-cape-club-of-palm-city-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 379,
+        "Black/Gold": 376,
+        "Gold": 379,
+        "Gold/Blue": 334,
+        "Blue": 334,
+        "Blue/White": 334,
+        "White": 314,
+        "White/Red": 314,
+        "Red": 238
+      },
+      "map": "the-cape-club-of-palm-city-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 203,
+        "Black/Gold": 179,
+        "Gold": 179,
+        "Gold/Blue": 179,
+        "Blue": 146,
+        "Blue/White": 146,
+        "White": 134,
+        "White/Red": 134,
+        "Red": 83
+      },
+      "map": "the-cape-club-of-palm-city-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 536,
+        "Black/Gold": 499,
+        "Gold": 508,
+        "Gold/Blue": 484,
+        "Blue": 484,
+        "Blue/White": 423,
+        "White": 423,
+        "White/Red": 423,
+        "Red": 423
+      },
+      "map": "the-cape-club-of-palm-city-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 401,
+        "Black/Gold": 393,
+        "Gold": 385,
+        "Gold/Blue": 385,
+        "Blue": 358,
+        "Blue/White": 358,
+        "White": 338,
+        "White/Red": 338,
+        "Red": 338
+      },
+      "map": "the-cape-club-of-palm-city-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 356,
+        "Black/Gold": 374,
+        "Gold": 317,
+        "Gold/Blue": 304,
+        "Blue": 304,
+        "Blue/White": 276,
+        "White": 276,
+        "White/Red": 236,
+        "Red": 236
+      },
+      "map": "the-cape-club-of-palm-city-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 444,
+        "Black/Gold": 417,
+        "Gold": 422,
+        "Gold/Blue": 385,
+        "Blue": 385,
+        "Blue/White": 341,
+        "White": 341,
+        "White/Red": 341,
+        "Red": 341
+      },
+      "map": "the-cape-club-of-palm-city-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 545,
+        "Black/Gold": 521,
+        "Gold": 502,
+        "Gold/Blue": 502,
+        "Blue": 491,
+        "Blue/White": 491,
+        "White": 461,
+        "White/Red": 461,
+        "Red": 425
+      },
+      "map": "the-cape-club-of-palm-city-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 436,
+        "Black/Gold": 426,
+        "Gold": 407,
+        "Gold/Blue": 407,
+        "Blue": 397,
+        "Blue/White": 369,
+        "White": 369,
+        "White/Red": 301,
+        "Red": 301
+      },
+      "map": "the-cape-club-of-palm-city-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 427,
+        "Black/Gold": 391,
+        "Gold": 397,
+        "Gold/Blue": 385,
+        "Blue": 385,
+        "Blue/White": 358,
+        "White": 358,
+        "White/Red": 358,
+        "Red": 271
+      },
+      "map": "the-cape-club-of-palm-city-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 162,
+        "Black/Gold": 159,
+        "Gold": 152,
+        "Gold/Blue": 152,
+        "Blue": 143,
+        "Blue/White": 143,
+        "White": 109,
+        "White/Red": 109,
+        "Red": 109
+      },
+      "map": "the-cape-club-of-palm-city-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 440,
+        "Black/Gold": 393,
+        "Gold": 401,
+        "Gold/Blue": 375,
+        "Blue": 375,
+        "Blue/White": 375,
+        "White": 366,
+        "White/Red": 277,
+        "Red": 277
+      },
+      "map": "the-cape-club-of-palm-city-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 190,
+        "Black/Gold": 187,
+        "Gold": 178,
+        "Gold/Blue": 178,
+        "Blue": 158,
+        "Blue/White": 158,
+        "White": 135,
+        "White/Red": 135,
+        "Red": 135
+      },
+      "map": "the-cape-club-of-palm-city-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 586,
+        "Black/Gold": 586,
+        "Gold": 586,
+        "Gold/Blue": 538,
+        "Blue": 538,
+        "Blue/White": 538,
+        "White": 520,
+        "White/Red": 456,
+        "Red": 456
+      },
+      "map": "the-cape-club-of-palm-city-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,159 @@
+{
+  "id": "bonita-bay-east-cypress-course",
+  "name": "Bonita Bay East Cypress Course",
+  "town": "Naples, FL",
+  "location": {
+    "lat": 26.292659,
+    "lng": -81.652883
+  },
+  "tees": [
+    "Tee V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tee V": 432
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tee V": 204
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tee V": 435
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Tee V": 545
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Tee V": 230
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tee V": 400
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tee V": 459
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Tee V": 549
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tee V": 445
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tee V": 417
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Tee V": 181
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Tee V": 549
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tee V": 394
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Tee V": 331
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Tee V": 527
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Tee V": 219
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tee V": 319
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tee V": 453
+      }
+    }
+  ],
+  "version": 1
+}

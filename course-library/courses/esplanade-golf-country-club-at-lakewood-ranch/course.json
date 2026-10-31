@@ -1,0 +1,235 @@
+{
+  "id": "esplanade-golf-country-club-at-lakewood-ranch",
+  "name": "Esplanade Golf Country Club At Lakewood Ranch",
+  "town": "Lakewood Ranch, FL",
+  "location": {
+    "lat": 27.45504,
+    "lng": -82.413246
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Silver",
+    "Copper",
+    "Jade"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 396,
+        "Gold": 359,
+        "Silver": 347,
+        "Copper": 309,
+        "Jade": 265
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 532,
+        "Gold": 499,
+        "Silver": 489,
+        "Copper": 444,
+        "Jade": 405
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 443,
+        "Gold": 411,
+        "Silver": 399,
+        "Copper": 341,
+        "Jade": 289
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 181,
+        "Gold": 152,
+        "Silver": 146,
+        "Copper": 125,
+        "Jade": 97
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 530,
+        "Gold": 486,
+        "Silver": 475,
+        "Copper": 432,
+        "Jade": 394
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 341,
+        "Gold": 307,
+        "Silver": 297,
+        "Copper": 271,
+        "Jade": 213
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 426,
+        "Gold": 374,
+        "Silver": 368,
+        "Copper": 324,
+        "Jade": 285
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 204,
+        "Gold": 173,
+        "Silver": 160,
+        "Copper": 139,
+        "Jade": 127
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 421,
+        "Gold": 376,
+        "Silver": 366,
+        "Copper": 339,
+        "Jade": 294
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 388,
+        "Gold": 342,
+        "Silver": 331,
+        "Copper": 291,
+        "Jade": 252
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 401,
+        "Gold": 372,
+        "Silver": 360,
+        "Copper": 318,
+        "Jade": 266
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 178,
+        "Gold": 168,
+        "Silver": 158,
+        "Copper": 137,
+        "Jade": 125
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 538,
+        "Gold": 489,
+        "Silver": 482,
+        "Copper": 424,
+        "Jade": 384
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 353,
+        "Gold": 324,
+        "Silver": 313,
+        "Copper": 275,
+        "Jade": 211
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 149,
+        "Gold": 141,
+        "Silver": 127,
+        "Copper": 116,
+        "Jade": 94
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 328,
+        "Gold": 300,
+        "Silver": 289,
+        "Copper": 245,
+        "Jade": 210
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 557,
+        "Gold": 529,
+        "Silver": 517,
+        "Copper": 461,
+        "Jade": 415
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 390,
+        "Gold": 355,
+        "Silver": 343,
+        "Copper": 304,
+        "Jade": 271
+      }
+    }
+  ],
+  "version": 1
+}

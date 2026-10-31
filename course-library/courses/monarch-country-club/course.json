@@ -1,0 +1,253 @@
+{
+  "id": "monarch-country-club",
+  "name": "Monarch Country Club",
+  "town": "Palm City, FL",
+  "location": {
+    "lat": 27.181275,
+    "lng": -80.284863
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "Silver",
+    "White",
+    "Black"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 400,
+        "Blue": 367,
+        "Silver": 367,
+        "White": 319,
+        "Black": 220
+      },
+      "map": "monarch-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 207,
+        "Blue": 157,
+        "Silver": 142,
+        "White": 142,
+        "Black": 132
+      },
+      "map": "monarch-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 389,
+        "Blue": 356,
+        "Silver": 356,
+        "White": 338,
+        "Black": 232
+      },
+      "map": "monarch-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 420,
+        "Blue": 385,
+        "Silver": 351,
+        "White": 351,
+        "Black": 228
+      },
+      "map": "monarch-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 186,
+        "Blue": 176,
+        "Silver": 176,
+        "White": 144,
+        "Black": 109
+      },
+      "map": "monarch-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 497,
+        "Blue": 474,
+        "Silver": 474,
+        "White": 438,
+        "Black": 350
+      },
+      "map": "monarch-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 430,
+        "Blue": 402,
+        "Silver": 385,
+        "White": 385,
+        "Black": 253
+      },
+      "map": "monarch-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 522,
+        "Blue": 511,
+        "Silver": 487,
+        "White": 487,
+        "Black": 324
+      },
+      "map": "monarch-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 388,
+        "Blue": 340,
+        "Silver": 340,
+        "White": 308,
+        "Black": 243
+      },
+      "map": "monarch-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 403,
+        "Blue": 376,
+        "Silver": 358,
+        "White": 358,
+        "Black": 242
+      },
+      "map": "monarch-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 404,
+        "Blue": 371,
+        "Silver": 371,
+        "White": 352,
+        "Black": 247
+      },
+      "map": "monarch-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 158,
+        "Blue": 135,
+        "Silver": 135,
+        "White": 111,
+        "Black": 96
+      },
+      "map": "monarch-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 441,
+        "Blue": 403,
+        "Silver": 375,
+        "White": 375,
+        "Black": 251
+      },
+      "map": "monarch-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 539,
+        "Blue": 510,
+        "Silver": 510,
+        "White": 446,
+        "Black": 339
+      },
+      "map": "monarch-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 392,
+        "Blue": 354,
+        "Silver": 354,
+        "White": 325,
+        "Black": 218
+      },
+      "map": "monarch-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 180,
+        "Blue": 159,
+        "Silver": 144,
+        "White": 144,
+        "Black": 113
+      },
+      "map": "monarch-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 387,
+        "Blue": 373,
+        "Silver": 344,
+        "White": 344,
+        "Black": 277
+      },
+      "map": "monarch-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 551,
+        "Blue": 510,
+        "Silver": 510,
+        "White": 453,
+        "Black": 318
+      },
+      "map": "monarch-country-club-18"
+    }
+  ],
+  "version": 1
+}

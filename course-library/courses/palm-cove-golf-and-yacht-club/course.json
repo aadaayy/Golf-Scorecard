@@ -1,0 +1,216 @@
+{
+  "id": "palm-cove-golf-and-yacht-club",
+  "name": "Palm Cove Golf And Yacht Club",
+  "town": "Palm City, FL",
+  "location": {
+    "lat": 27.201001,
+    "lng": -80.282921
+  },
+  "tees": [
+    "Gold",
+    "Black",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 407,
+        "Black": 372,
+        "White": 354,
+        "Red": 272
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 106,
+        "Black": 100,
+        "White": 95,
+        "Red": 76
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 421,
+        "Black": 397,
+        "White": 375,
+        "Red": 322
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 322,
+        "Black": 310,
+        "White": 290,
+        "Red": 256
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 163,
+        "Black": 150,
+        "White": 139,
+        "Red": 83
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 530,
+        "Black": 464,
+        "White": 433,
+        "Red": 400
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 379,
+        "Black": 369,
+        "White": 276,
+        "Red": 254
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 192,
+        "Black": 180,
+        "White": 163,
+        "Red": 136
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 396,
+        "Black": 356,
+        "White": 321,
+        "Red": 285
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 339,
+        "Black": 305,
+        "White": 295,
+        "Red": 270
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 347,
+        "Black": 284,
+        "White": 274,
+        "Red": 257
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 380,
+        "Black": 361,
+        "White": 342,
+        "Red": 290
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 353,
+        "Black": 333,
+        "White": 210,
+        "Red": 187
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 553,
+        "Black": 450,
+        "White": 440,
+        "Red": 400
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 182,
+        "Black": 164,
+        "White": 147,
+        "Red": 115
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 580,
+        "Black": 530,
+        "White": 510,
+        "Red": 460
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 150,
+        "Black": 140,
+        "White": 140,
+        "Red": 130
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 540,
+        "Black": 515,
+        "White": 488,
+        "Red": 450
+      }
+    }
+  ],
+  "version": 1
+}

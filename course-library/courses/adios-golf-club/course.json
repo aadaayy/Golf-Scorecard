@@ -1,0 +1,216 @@
+{
+  "id": "adios-golf-club",
+  "name": "Adios Golf Club",
+  "town": "Coconut Creek, FL",
+  "location": {
+    "lat": 26.326914,
+    "lng": -80.174026
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 518,
+        "Gold": 482,
+        "Blue": 460,
+        "White": 428
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 446,
+        "Gold": 409,
+        "Blue": 386,
+        "White": 320
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 398,
+        "Gold": 382,
+        "Blue": 348,
+        "White": 302
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 172,
+        "Gold": 154,
+        "Blue": 138,
+        "White": 126
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 393,
+        "Gold": 351,
+        "Blue": 304,
+        "White": 248
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 560,
+        "Gold": 520,
+        "Blue": 497,
+        "White": 463
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 213,
+        "Gold": 197,
+        "Blue": 179,
+        "White": 163
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 403,
+        "Gold": 385,
+        "Blue": 366,
+        "White": 350
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 457,
+        "Gold": 442,
+        "Blue": 409,
+        "White": 389
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 302,
+        "Gold": 286,
+        "Blue": 238,
+        "White": 223
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 434,
+        "Gold": 408,
+        "Blue": 382,
+        "White": 353
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 173,
+        "Gold": 156,
+        "Blue": 146,
+        "White": 126
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 539,
+        "Gold": 515,
+        "Blue": 493,
+        "White": 459
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 425,
+        "Gold": 392,
+        "Blue": 378,
+        "White": 349
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 432,
+        "Gold": 416,
+        "Blue": 393,
+        "White": 365
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 342,
+        "Gold": 331,
+        "Blue": 313,
+        "White": 292
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 180,
+        "Gold": 168,
+        "Blue": 131,
+        "White": 118
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 562,
+        "Gold": 526,
+        "Blue": 495,
+        "White": 463
+      }
+    }
+  ],
+  "version": 1
+}

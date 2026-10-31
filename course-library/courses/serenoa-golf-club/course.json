@@ -1,0 +1,235 @@
+{
+  "id": "serenoa-golf-club",
+  "name": "Serenoa Golf Club",
+  "town": "Sarasota, FL",
+  "location": {
+    "lat": 27.250903,
+    "lng": -82.437147
+  },
+  "tees": [
+    "Blue",
+    "Blue/White",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 332,
+        "Blue/White": 332,
+        "White": 315,
+        "Gold": 281,
+        "Red": 272
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 203,
+        "Blue/White": 193,
+        "White": 193,
+        "Gold": 122,
+        "Red": 109
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 320,
+        "Blue/White": 320,
+        "White": 316,
+        "Gold": 265,
+        "Red": 254
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 365,
+        "Blue/White": 332,
+        "White": 332,
+        "Gold": 282,
+        "Red": 268
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 488,
+        "Blue/White": 488,
+        "White": 470,
+        "Gold": 429,
+        "Red": 415
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 174,
+        "Blue/White": 174,
+        "White": 153,
+        "Gold": 131,
+        "Red": 116
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 380,
+        "Blue/White": 347,
+        "White": 347,
+        "Gold": 279,
+        "Red": 270
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 390,
+        "Blue/White": 390,
+        "White": 370,
+        "Gold": 291,
+        "Red": 285
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Blue": 512,
+        "Blue/White": 512,
+        "White": 500,
+        "Gold": 427,
+        "Red": 418
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 439,
+        "Blue/White": 380,
+        "White": 380,
+        "Gold": 345,
+        "Red": 324
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 384,
+        "Blue/White": 384,
+        "White": 370,
+        "Gold": 322,
+        "Red": 310
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 509,
+        "Blue/White": 509,
+        "White": 493,
+        "Gold": 473,
+        "Red": 436
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 194,
+        "Blue/White": 167,
+        "White": 167,
+        "Gold": 157,
+        "Red": 114
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 356,
+        "Blue/White": 356,
+        "White": 341,
+        "Gold": 324,
+        "Red": 254
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 342,
+        "Blue/White": 342,
+        "White": 329,
+        "Gold": 302,
+        "Red": 289
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 379,
+        "Blue/White": 379,
+        "White": 356,
+        "Gold": 317,
+        "Red": 303
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 177,
+        "Blue/White": 160,
+        "White": 160,
+        "Gold": 144,
+        "Red": 135
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Blue": 470,
+        "Blue/White": 470,
+        "White": 458,
+        "Gold": 419,
+        "Red": 402
+      }
+    }
+  ],
+  "version": 1
+}

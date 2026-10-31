@@ -1,0 +1,216 @@
+{
+  "id": "country-club-of-miami-east",
+  "name": "Country Club Of Miami East",
+  "town": "Hialeah, FL",
+  "location": {
+    "lat": 25.943677,
+    "lng": -80.313579
+  },
+  "tees": [
+    "Blue",
+    "Gold",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 350,
+        "Gold": 340,
+        "White": 319,
+        "Red": 267
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 539,
+        "Gold": 513,
+        "White": 465,
+        "Red": 445
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 436,
+        "Gold": 423,
+        "White": 394,
+        "Red": 372
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 342,
+        "Gold": 327,
+        "White": 298,
+        "Red": 279
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 186,
+        "Gold": 166,
+        "White": 128,
+        "Red": 98
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 392,
+        "Gold": 372,
+        "White": 355,
+        "Red": 339
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 372,
+        "Gold": 354,
+        "White": 336,
+        "Red": 320
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 283,
+        "Gold": 257,
+        "White": 236,
+        "Red": 193
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 184,
+        "Gold": 173,
+        "White": 152,
+        "Red": 133
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 429,
+        "Gold": 374,
+        "White": 349,
+        "Red": 322
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 373,
+        "Gold": 345,
+        "White": 323,
+        "Red": 302
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 393,
+        "Gold": 353,
+        "White": 341,
+        "Red": 300
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 200,
+        "Gold": 171,
+        "White": 149,
+        "Red": 105
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 412,
+        "Gold": 390,
+        "White": 374,
+        "Red": 358
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 426,
+        "Gold": 376,
+        "White": 362,
+        "Red": 348
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 566,
+        "Gold": 531,
+        "White": 508,
+        "Red": 460
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 194,
+        "Gold": 169,
+        "White": 110,
+        "Red": 89
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 374,
+        "Gold": 349,
+        "White": 329,
+        "Red": 295
+      }
+    }
+  ],
+  "version": 1
+}

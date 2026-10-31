@@ -1,0 +1,349 @@
+{
+  "id": "gleneagles-country-club-legends-course",
+  "name": "Gleneagles Country Club Legends Course",
+  "town": "Delray Beach, FL",
+  "location": {
+    "lat": 26.441719,
+    "lng": -80.165454
+  },
+  "tees": [
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/Gold",
+    "Gold",
+    "Gold/White",
+    "White",
+    "White/Green",
+    "Green",
+    "Green/Silver",
+    "Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 397,
+        "Black/Blue": 397,
+        "Blue": 368,
+        "Blue/Gold": 342,
+        "Gold": 342,
+        "Gold/White": 342,
+        "White": 335,
+        "White/Green": 335,
+        "Green": 283,
+        "Green/Silver": 283,
+        "Silver": 278
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 446,
+        "Black/Blue": 402,
+        "Blue": 402,
+        "Blue/Gold": 353,
+        "Gold": 353,
+        "Gold/White": 297,
+        "White": 297,
+        "White/Green": 290,
+        "Green": 290,
+        "Green/Silver": 267,
+        "Silver": 267
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 527,
+        "Black/Blue": 486,
+        "Blue": 486,
+        "Blue/Gold": 486,
+        "Gold": 430,
+        "Gold/White": 421,
+        "White": 421,
+        "White/Green": 415,
+        "Green": 415,
+        "Green/Silver": 364,
+        "Silver": 364
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 377,
+        "Black/Blue": 377,
+        "Blue": 328,
+        "Blue/Gold": 328,
+        "Gold": 311,
+        "Gold/White": 311,
+        "White": 254,
+        "White/Green": 254,
+        "Green": 242,
+        "Green/Silver": 242,
+        "Silver": 220
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 385,
+        "Black/Blue": 385,
+        "Blue": 350,
+        "Blue/Gold": 350,
+        "Gold": 343,
+        "Gold/White": 343,
+        "White": 300,
+        "White/Green": 300,
+        "Green": 290,
+        "Green/Silver": 290,
+        "Silver": 275
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 206,
+        "Black/Blue": 206,
+        "Blue": 188,
+        "Blue/Gold": 165,
+        "Gold": 165,
+        "Gold/White": 165,
+        "White": 145,
+        "White/Green": 145,
+        "Green": 130,
+        "Green/Silver": 130,
+        "Silver": 120
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 555,
+        "Black/Blue": 525,
+        "Blue": 525,
+        "Blue/Gold": 515,
+        "Gold": 515,
+        "Gold/White": 477,
+        "White": 477,
+        "White/Green": 470,
+        "Green": 470,
+        "Green/Silver": 450,
+        "Silver": 450
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 241,
+        "Black/Blue": 216,
+        "Blue": 216,
+        "Blue/Gold": 168,
+        "Gold": 168,
+        "Gold/White": 135,
+        "White": 135,
+        "White/Green": 130,
+        "Green": 130,
+        "Green/Silver": 106,
+        "Silver": 106
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 395,
+        "Black/Blue": 395,
+        "Blue": 373,
+        "Blue/Gold": 373,
+        "Gold": 367,
+        "Gold/White": 367,
+        "White": 297,
+        "White/Green": 297,
+        "Green": 292,
+        "Green/Silver": 292,
+        "Silver": 260
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 388,
+        "Black/Blue": 359,
+        "Blue": 359,
+        "Blue/Gold": 325,
+        "Gold": 325,
+        "Gold/White": 315,
+        "White": 315,
+        "White/Green": 296,
+        "Green": 296,
+        "Green/Silver": 288,
+        "Silver": 288
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 370,
+        "Black/Blue": 370,
+        "Blue": 332,
+        "Blue/Gold": 258,
+        "Gold": 258,
+        "Gold/White": 258,
+        "White": 256,
+        "White/Green": 256,
+        "Green": 252,
+        "Green/Silver": 252,
+        "Silver": 185
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 637,
+        "Black/Blue": 530,
+        "Blue": 530,
+        "Blue/Gold": 510,
+        "Gold": 510,
+        "Gold/White": 473,
+        "White": 473,
+        "White/Green": 423,
+        "Green": 423,
+        "Green/Silver": 415,
+        "Silver": 415
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 393,
+        "Black/Blue": 368,
+        "Blue": 368,
+        "Blue/Gold": 358,
+        "Gold": 358,
+        "Gold/White": 328,
+        "White": 328,
+        "White/Green": 320,
+        "Green": 320,
+        "Green/Silver": 268,
+        "Silver": 268
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 356,
+        "Black/Blue": 356,
+        "Blue": 306,
+        "Blue/Gold": 306,
+        "Gold": 285,
+        "Gold/White": 285,
+        "White": 275,
+        "White/Green": 275,
+        "Green": 260,
+        "Green/Silver": 260,
+        "Silver": 185
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 160,
+        "Black/Blue": 160,
+        "Blue": 141,
+        "Blue/Gold": 141,
+        "Gold": 123,
+        "Gold/White": 123,
+        "White": 105,
+        "White/Green": 105,
+        "Green": 102,
+        "Green/Silver": 102,
+        "Silver": 86
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 456,
+        "Black/Blue": 438,
+        "Blue": 438,
+        "Blue/Gold": 347,
+        "Gold": 347,
+        "Gold/White": 337,
+        "White": 337,
+        "White/Green": 327,
+        "Green": 327,
+        "Green/Silver": 290,
+        "Silver": 290
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 185,
+        "Black/Blue": 185,
+        "Blue": 162,
+        "Blue/Gold": 162,
+        "Gold": 138,
+        "Gold/White": 138,
+        "White": 130,
+        "White/Green": 130,
+        "Green": 120,
+        "Green/Silver": 120,
+        "Silver": 110
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 573,
+        "Black/Blue": 549,
+        "Blue": 549,
+        "Blue/Gold": 520,
+        "Gold": 520,
+        "Gold/White": 427,
+        "White": 427,
+        "White/Green": 420,
+        "Green": 420,
+        "Green/Silver": 390,
+        "Silver": 390
+      }
+    }
+  ],
+  "version": 1
+}

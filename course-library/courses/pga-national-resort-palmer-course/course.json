@@ -1,0 +1,273 @@
+{
+  "id": "pga-national-resort-palmer-course",
+  "name": "Pga National Resort Palmer Course",
+  "town": "Palm Beach Gardens, FL",
+  "location": {
+    "lat": 26.829755,
+    "lng": -80.141198
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Blue/White Combo",
+    "White",
+    "Green",
+    "Green/Red Combo",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 454,
+        "Blue": 421,
+        "Blue/White Combo": 376,
+        "White": 376,
+        "Green": 328,
+        "Green/Red Combo": 328,
+        "Red": 268
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 177,
+        "Blue": 171,
+        "Blue/White Combo": 141,
+        "White": 141,
+        "Green": 109,
+        "Green/Red Combo": 109,
+        "Red": 94
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 409,
+        "Blue": 385,
+        "Blue/White Combo": 355,
+        "White": 355,
+        "Green": 341,
+        "Green/Red Combo": 306,
+        "Red": 306
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 546,
+        "Blue": 518,
+        "Blue/White Combo": 518,
+        "White": 499,
+        "Green": 437,
+        "Green/Red Combo": 437,
+        "Red": 391
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 235,
+        "Blue": 198,
+        "Blue/White Combo": 153,
+        "White": 153,
+        "Green": 120,
+        "Green/Red Combo": 120,
+        "Red": 90
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 418,
+        "Blue": 403,
+        "Blue/White Combo": 387,
+        "White": 387,
+        "Green": 374,
+        "Green/Red Combo": 316,
+        "Red": 316
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 378,
+        "Blue": 370,
+        "Blue/White Combo": 370,
+        "White": 337,
+        "Green": 275,
+        "Green/Red Combo": 275,
+        "Red": 233
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 561,
+        "Blue": 546,
+        "Blue/White Combo": 546,
+        "White": 467,
+        "Green": 438,
+        "Green/Red Combo": 438,
+        "Red": 416
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 421,
+        "Blue": 393,
+        "Blue/White Combo": 362,
+        "White": 362,
+        "Green": 347,
+        "Green/Red Combo": 285,
+        "Red": 285
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 202,
+        "Blue": 183,
+        "Blue/White Combo": 171,
+        "White": 171,
+        "Green": 161,
+        "Green/Red Combo": 119,
+        "Red": 119
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 415,
+        "Blue": 386,
+        "Blue/White Combo": 358,
+        "White": 358,
+        "Green": 346,
+        "Green/Red Combo": 296,
+        "Red": 296
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 502,
+        "Blue": 487,
+        "Blue/White Combo": 487,
+        "White": 469,
+        "Green": 425,
+        "Green/Red Combo": 425,
+        "Red": 396
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 159,
+        "Blue": 150,
+        "Blue/White Combo": 128,
+        "White": 128,
+        "Green": 107,
+        "Green/Red Combo": 107,
+        "Red": 90
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 358,
+        "Blue": 340,
+        "Blue/White Combo": 340,
+        "White": 308,
+        "Green": 292,
+        "Green/Red Combo": 292,
+        "Red": 239
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 374,
+        "Blue": 351,
+        "Blue/White Combo": 351,
+        "White": 330,
+        "Green": 289,
+        "Green/Red Combo": 289,
+        "Red": 229
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 435,
+        "Blue": 408,
+        "Blue/White Combo": 374,
+        "White": 374,
+        "Green": 348,
+        "Green/Red Combo": 318,
+        "Red": 318
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 432,
+        "Blue": 406,
+        "Blue/White Combo": 375,
+        "White": 375,
+        "Green": 299,
+        "Green/Red Combo": 299,
+        "Red": 262
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 601,
+        "Blue": 574,
+        "Blue/White Combo": 537,
+        "White": 537,
+        "Green": 482,
+        "Green/Red Combo": 418,
+        "Red": 418
+      }
+    }
+  ],
+  "version": 1
+}

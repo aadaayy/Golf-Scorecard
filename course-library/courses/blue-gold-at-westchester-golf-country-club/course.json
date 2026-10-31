@@ -1,0 +1,235 @@
+{
+  "id": "blue-gold-at-westchester-golf-country-club",
+  "name": "Blue Gold At Westchester Golf Country Club",
+  "town": "Boynton Beach, FL",
+  "location": {
+    "lat": 26.495517,
+    "lng": -80.145741
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Black",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 402,
+        "Blue": 376,
+        "White": 351,
+        "Black": 299,
+        "Red": 299
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 217,
+        "Blue": 192,
+        "White": 169,
+        "Black": 125,
+        "Red": 119
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 378,
+        "Blue": 353,
+        "White": 330,
+        "Black": 285,
+        "Red": 275
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 360,
+        "Blue": 337,
+        "White": 314,
+        "Black": 291,
+        "Red": 268
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 493,
+        "Blue": 467,
+        "White": 439,
+        "Black": 406,
+        "Red": 396
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 381,
+        "Blue": 337,
+        "White": 311,
+        "Black": 272,
+        "Red": 262
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 506,
+        "Blue": 479,
+        "White": 444,
+        "Black": 404,
+        "Red": 404
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 206,
+        "Blue": 188,
+        "White": 155,
+        "Black": 118,
+        "Red": 92
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 385,
+        "Blue": 360,
+        "White": 348,
+        "Black": 318,
+        "Red": 274
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 379,
+        "Blue": 362,
+        "White": 339,
+        "Black": 310,
+        "Red": 272
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 404,
+        "Blue": 365,
+        "White": 348,
+        "Black": 331,
+        "Red": 290
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 521,
+        "Blue": 486,
+        "White": 475,
+        "Black": 444,
+        "Red": 371
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 207,
+        "Blue": 175,
+        "White": 142,
+        "Black": 136,
+        "Red": 124
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 383,
+        "Blue": 358,
+        "White": 318,
+        "Black": 253,
+        "Red": 253
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 511,
+        "Blue": 478,
+        "White": 458,
+        "Black": 426,
+        "Red": 374
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 201,
+        "Blue": 182,
+        "White": 174,
+        "Black": 158,
+        "Red": 118
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 399,
+        "Blue": 378,
+        "White": 346,
+        "Black": 290,
+        "Red": 285
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 420,
+        "Blue": 385,
+        "White": 364,
+        "Black": 252,
+        "Red": 252
+      }
+    }
+  ],
+  "version": 1
+}

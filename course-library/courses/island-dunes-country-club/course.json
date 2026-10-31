@@ -1,0 +1,97 @@
+{
+  "id": "island-dunes-country-club",
+  "name": "Island Dunes Country Club",
+  "town": "Jensen Beach, FL",
+  "location": {
+    "lat": 27.302135,
+    "lng": -80.218417
+  },
+  "tees": [
+    "Middle",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Middle": 151,
+        "Forward": 112
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Middle": 318,
+        "Forward": 284
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Middle": 98,
+        "Forward": 80
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Middle": 136,
+        "Forward": 119
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Middle": 140,
+        "Forward": 125
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Middle": 310,
+        "Forward": 301
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Middle": 344,
+        "Forward": 329
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Middle": 133,
+        "Forward": 122
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Middle": 329,
+        "Forward": 303
+      }
+    }
+  ],
+  "version": 1
+}

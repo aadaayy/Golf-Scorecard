@@ -1,0 +1,216 @@
+{
+  "id": "rosedale-golf-country-club",
+  "name": "Rosedale Golf Country Club",
+  "town": "Bradenton, FL",
+  "location": {
+    "lat": 27.447855,
+    "lng": -82.452234
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 380,
+        "Blue": 347,
+        "White": 325,
+        "Red": 293
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 422,
+        "Blue": 391,
+        "White": 361,
+        "Red": 331
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 353,
+        "Blue": 330,
+        "White": 309,
+        "Red": 264
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 181,
+        "Blue": 169,
+        "White": 153,
+        "Red": 123
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 438,
+        "Blue": 413,
+        "White": 373,
+        "Red": 336
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 487,
+        "Blue": 466,
+        "White": 448,
+        "Red": 380
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 170,
+        "Blue": 155,
+        "White": 149,
+        "Red": 129
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 499,
+        "Blue": 479,
+        "White": 447,
+        "Red": 400
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 362,
+        "Blue": 345,
+        "White": 324,
+        "Red": 287
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 371,
+        "Blue": 359,
+        "White": 331,
+        "Red": 259
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 393,
+        "Blue": 382,
+        "White": 362,
+        "Red": 315
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 523,
+        "Blue": 503,
+        "White": 467,
+        "Red": 403
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 192,
+        "Blue": 175,
+        "White": 156,
+        "Red": 134
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 353,
+        "Blue": 334,
+        "White": 302,
+        "Red": 272
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 418,
+        "Blue": 391,
+        "White": 363,
+        "Red": 317
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 436,
+        "Blue": 412,
+        "White": 382,
+        "Red": 290
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 210,
+        "Blue": 186,
+        "White": 175,
+        "Red": 144
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 526,
+        "Blue": 500,
+        "White": 455,
+        "Red": 387
+      }
+    }
+  ],
+  "version": 1
+}

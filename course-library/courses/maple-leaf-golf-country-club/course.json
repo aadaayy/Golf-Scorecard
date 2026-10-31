@@ -1,0 +1,273 @@
+{
+  "id": "maple-leaf-golf-country-club",
+  "name": "Maple Leaf Golf Country Club",
+  "town": "Port Charlotte, FL",
+  "location": {
+    "lat": 26.999795,
+    "lng": -82.052958
+  },
+  "tees": [
+    "Black",
+    "Orange Combo",
+    "Silver",
+    "Brown Combo",
+    "Jade",
+    "Teal Combo",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 274,
+        "Orange Combo": 264,
+        "Silver": 264,
+        "Brown Combo": 264,
+        "Jade": 213,
+        "Teal Combo": 213,
+        "Gold": 156
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 115,
+        "Orange Combo": 115,
+        "Silver": 105,
+        "Brown Combo": 105,
+        "Jade": 92,
+        "Teal Combo": 92,
+        "Gold": 77
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 116,
+        "Orange Combo": 104,
+        "Silver": 104,
+        "Brown Combo": 104,
+        "Jade": 92,
+        "Teal Combo": 82,
+        "Gold": 82
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 311,
+        "Orange Combo": 311,
+        "Silver": 296,
+        "Brown Combo": 259,
+        "Jade": 259,
+        "Teal Combo": 259,
+        "Gold": 168
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 336,
+        "Orange Combo": 318,
+        "Silver": 318,
+        "Brown Combo": 275,
+        "Jade": 275,
+        "Teal Combo": 248,
+        "Gold": 248
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 181,
+        "Orange Combo": 161,
+        "Silver": 161,
+        "Brown Combo": 138,
+        "Jade": 138,
+        "Teal Combo": 138,
+        "Gold": 92
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 306,
+        "Orange Combo": 306,
+        "Silver": 294,
+        "Brown Combo": 294,
+        "Jade": 275,
+        "Teal Combo": 275,
+        "Gold": 225
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 158,
+        "Orange Combo": 149,
+        "Silver": 149,
+        "Brown Combo": 136,
+        "Jade": 136,
+        "Teal Combo": 136,
+        "Gold": 77
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 136,
+        "Orange Combo": 119,
+        "Silver": 119,
+        "Brown Combo": 104,
+        "Jade": 104,
+        "Teal Combo": 91,
+        "Gold": 91
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 290,
+        "Orange Combo": 263,
+        "Silver": 263,
+        "Brown Combo": 256,
+        "Jade": 256,
+        "Teal Combo": 256,
+        "Gold": 180
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 133,
+        "Orange Combo": 133,
+        "Silver": 110,
+        "Brown Combo": 110,
+        "Jade": 109,
+        "Teal Combo": 109,
+        "Gold": 84
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 297,
+        "Orange Combo": 297,
+        "Silver": 281,
+        "Brown Combo": 281,
+        "Jade": 248,
+        "Teal Combo": 248,
+        "Gold": 184
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 146,
+        "Orange Combo": 127,
+        "Silver": 127,
+        "Brown Combo": 127,
+        "Jade": 108,
+        "Teal Combo": 108,
+        "Gold": 87
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 127,
+        "Orange Combo": 127,
+        "Silver": 119,
+        "Brown Combo": 119,
+        "Jade": 108,
+        "Teal Combo": 108,
+        "Gold": 97
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 332,
+        "Orange Combo": 316,
+        "Silver": 316,
+        "Brown Combo": 255,
+        "Jade": 255,
+        "Teal Combo": 255,
+        "Gold": 212
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 153,
+        "Orange Combo": 128,
+        "Silver": 128,
+        "Brown Combo": 119,
+        "Jade": 119,
+        "Teal Combo": 119,
+        "Gold": 111
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 317,
+        "Orange Combo": 317,
+        "Silver": 299,
+        "Brown Combo": 299,
+        "Jade": 210,
+        "Teal Combo": 210,
+        "Gold": 174
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 143,
+        "Orange Combo": 129,
+        "Silver": 129,
+        "Brown Combo": 114,
+        "Jade": 114,
+        "Teal Combo": 75,
+        "Gold": 75
+      }
+    }
+  ],
+  "version": 1
+}
