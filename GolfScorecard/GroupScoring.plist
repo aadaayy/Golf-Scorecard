@@ -14,9 +14,9 @@
 -->
 <dict>
 	<key>SupabaseURL</key>
-	<string>https://YOUR-PROJECT.supabase.co</string>
+	<string>https://bwevchyweouadpjlwwsd.supabase.co</string>
 	<key>SupabaseAnonKey</key>
-	<string>YOUR-ANON-OR-PUBLISHABLE-KEY</string>
+	<string>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ3ZXZjaHl3ZW91YWRwamx3d3NkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM0MzY2NzYsImV4cCI6MjEwOTAxMjY3Nn0.FpO_xoebZLBwztrgMYETEvNgkK4VTPZLGSyhCOoIcRQ</string>
 	<!-- Sign in with Apple needs a paid Apple Developer account. Turn on later (README step 6). -->
 	<key>AppleSignIn</key>
 	<false/>
