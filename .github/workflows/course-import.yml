@@ -73,6 +73,7 @@ jobs:
       - name: Build the courses
         if: steps.decide.outputs.rebuild == 'yes'
         run: |
+          python3 -m pip install --quiet shapely  # merges overlapping ponds, fairways and bunkers
           python3 Tools/CourseImport/florida.py build course-library --osm "$RUNNER_TEMP/osm.json.gz"
           python3 Tools/CourseLibrary/build_index.py course-library
           python3 Tools/CourseLibrary/build_index.py course-library --check

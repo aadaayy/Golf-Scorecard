@@ -40,6 +40,12 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+try:  # merges overlapping shapes, so two maps of one pond draw as one pond
+    from shapely.geometry import Polygon, box as shapely_box
+    from shapely.ops import unary_union
+except ImportError:  # pragma: no cover
+    Polygon = None
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(HERE, "cache")
 API_CACHE = os.path.join(CACHE, "api")
@@ -823,10 +829,31 @@ def drawing(osm, way):
         # Page coordinates: x right, y down.
         return "M" + "L".join(f"{p[0] * UNITS_PER_METER:.1f},{-p[1] * UNITS_PER_METER:.1f}" for p in ring) + "Z"
 
+    # Clip a little past the page, so a pond cut by the edge shows no outline along it.
+    cx0, cx1, cy0, cy1 = x0 - 2, x1 + 2, y0 - 2, y1 + 40 / UNITS_PER_METER + 2
+
+    def merged(rings, gap=0.0):
+        """Overlapping shapes of one kind as one shape, so no outline runs through the middle.
+        With a gap, shapes that nearly touch join too (two maps of one pond a few meters apart)."""
+        if Polygon is None or len(rings) < 2:
+            return rings
+        shapes = []
+        for ring in rings:
+            if len(ring) >= 3:
+                shape = Polygon(ring)
+                shapes.append(shape if shape.is_valid else shape.buffer(0))
+        union = unary_union([shape.buffer(gap / 2) for shape in shapes]) if gap else unary_union(shapes)
+        if gap:
+            union = union.buffer(-gap / 2)
+        union = union.simplify(0.2).intersection(shapely_box(cx0, cy0, cx1, cy1))
+        parts = getattr(union, "geoms", [union])
+        return [list(part.exterior.coords)[:-1] for part in parts
+                if part.geom_type == "Polygon" and not part.is_empty]
+
     def layer(rings, fill, stroke=None, stroke_width=0):
         out = []
         for ring in rings:
-            ring = clip(ring, x0, y0, x1, y1)
+            ring = clip(ring, cx0, cy0, cx1, cy1)
             if len(ring) < 3 or area(ring) < 4:
                 continue
             extra = f' stroke="{stroke}" stroke-width="{stroke_width}" stroke-linejoin="round"' if stroke else ""
@@ -836,9 +863,9 @@ def drawing(osm, way):
     parts = []
     # The app's order: rough first, so a pond inside the hole's rough shows.
     parts += layer([rough], STYLE["rough"])
-    parts += layer(waters, STYLE["water"], STYLE["water_edge"], 3)
-    parts += layer(fairways, STYLE["fairway"])
-    parts += layer(sands, STYLE["sand"], STYLE["sand_edge"], 2)
+    parts += layer(merged(waters, gap=5), STYLE["water"], STYLE["water_edge"], 3)
+    parts += layer(merged(fairways), STYLE["fairway"])
+    parts += layer(merged(sands), STYLE["sand"], STYLE["sand_edge"], 2)
     parts += layer(([green] if green else []) + tees, STYLE["green"], STYLE["green_edge"], 2.5)
     u = UNITS_PER_METER
     # Real trees, where the course's were traced: in the box, and never on a green, tee, bunker or water.
