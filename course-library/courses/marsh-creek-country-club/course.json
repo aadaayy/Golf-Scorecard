@@ -110,7 +110,8 @@
         "White": 134,
         "Green": 88,
         "Red": 83
-      }
+      },
+      "map": "marsh-creek-country-club-07"
     },
     {
       "number": 8,
@@ -220,7 +221,8 @@
         "White": 164,
         "Green": 149,
         "Red": 107
-      }
+      },
+      "map": "marsh-creek-country-club-15"
     },
     {
       "number": 16,
@@ -265,5 +267,5 @@
       "map": "marsh-creek-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

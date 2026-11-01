@@ -34,7 +34,8 @@
         "Green": 221,
         "Red": 221,
         "Platinum": 221
-      }
+      },
+      "map": "west-at-wycliffe-country-club-01"
     },
     {
       "number": 2,
@@ -51,7 +52,8 @@
         "Green": 206,
         "Red": 206,
         "Platinum": 206
-      }
+      },
+      "map": "west-at-wycliffe-country-club-02"
     },
     {
       "number": 3,
@@ -68,7 +70,8 @@
         "Green": 99,
         "Red": 99,
         "Platinum": 69
-      }
+      },
+      "map": "west-at-wycliffe-country-club-03"
     },
     {
       "number": 4,
@@ -85,7 +88,8 @@
         "Green": 410,
         "Red": 300,
         "Platinum": 300
-      }
+      },
+      "map": "west-at-wycliffe-country-club-04"
     },
     {
       "number": 5,
@@ -102,7 +106,8 @@
         "Green": 266,
         "Red": 266,
         "Platinum": 204
-      }
+      },
+      "map": "west-at-wycliffe-country-club-05"
     },
     {
       "number": 6,
@@ -119,7 +124,8 @@
         "Green": 354,
         "Red": 188,
         "Platinum": 188
-      }
+      },
+      "map": "west-at-wycliffe-country-club-06"
     },
     {
       "number": 7,
@@ -136,7 +142,8 @@
         "Green": 245,
         "Red": 245,
         "Platinum": 177
-      }
+      },
+      "map": "west-at-wycliffe-country-club-07"
     },
     {
       "number": 8,
@@ -153,7 +160,8 @@
         "Green": 247,
         "Red": 247,
         "Platinum": 200
-      }
+      },
+      "map": "west-at-wycliffe-country-club-08"
     },
     {
       "number": 9,
@@ -170,7 +178,8 @@
         "Green": 92,
         "Red": 92,
         "Platinum": 92
-      }
+      },
+      "map": "west-at-wycliffe-country-club-09"
     },
     {
       "number": 10,
@@ -187,7 +196,8 @@
         "Green": 305,
         "Red": 213,
         "Platinum": 213
-      }
+      },
+      "map": "west-at-wycliffe-country-club-10"
     },
     {
       "number": 11,
@@ -221,7 +231,8 @@
         "Green": 269,
         "Red": 269,
         "Platinum": 205
-      }
+      },
+      "map": "west-at-wycliffe-country-club-12"
     },
     {
       "number": 13,
@@ -238,7 +249,8 @@
         "Green": 273,
         "Red": 273,
         "Platinum": 195
-      }
+      },
+      "map": "west-at-wycliffe-country-club-13"
     },
     {
       "number": 14,
@@ -255,7 +267,8 @@
         "Green": 224,
         "Red": 224,
         "Platinum": 190
-      }
+      },
+      "map": "west-at-wycliffe-country-club-14"
     },
     {
       "number": 15,
@@ -272,7 +285,8 @@
         "Green": 366,
         "Red": 310,
         "Platinum": 310
-      }
+      },
+      "map": "west-at-wycliffe-country-club-15"
     },
     {
       "number": 16,
@@ -289,7 +303,8 @@
         "Green": 86,
         "Red": 86,
         "Platinum": 86
-      }
+      },
+      "map": "west-at-wycliffe-country-club-16"
     },
     {
       "number": 17,
@@ -326,5 +341,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

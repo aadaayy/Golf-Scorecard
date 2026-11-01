@@ -115,7 +115,8 @@
         "Yellow": 369,
         "Red": 343,
         "White": 263
-      }
+      },
+      "map": "bay-hill-club-lodge-championship-course-08"
     },
     {
       "number": 9,
@@ -192,7 +193,8 @@
         "Yellow": 163,
         "Red": 139,
         "White": 122
-      }
+      },
+      "map": "bay-hill-club-lodge-championship-course-14"
     },
     {
       "number": 15,
@@ -247,5 +249,5 @@
       "map": "bay-hill-club-lodge-championship-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

@@ -108,7 +108,8 @@
       "yards": {
         "Blue": 509,
         "White": 493
-      }
+      },
+      "map": "preserve-at-quail-west-golf-country-club-10"
     },
     {
       "number": 11,
@@ -117,7 +118,8 @@
       "yards": {
         "Blue": 165,
         "White": 147
-      }
+      },
+      "map": "preserve-at-quail-west-golf-country-club-11"
     },
     {
       "number": 12,
@@ -190,5 +192,5 @@
       "map": "preserve-at-quail-west-golf-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

@@ -83,7 +83,8 @@
         "Gold/Red": 125,
         "Red": 125,
         "Green": 120
-      }
+      },
+      "map": "weston-hills-country-club-players-course-04"
     },
     {
       "number": 5,
@@ -150,7 +151,8 @@
         "Gold/Red": 105,
         "Red": 105,
         "Green": 105
-      }
+      },
+      "map": "weston-hills-country-club-players-course-08"
     },
     {
       "number": 9,
@@ -234,7 +236,8 @@
         "Gold/Red": 105,
         "Red": 105,
         "Green": 105
-      }
+      },
+      "map": "weston-hills-country-club-players-course-13"
     },
     {
       "number": 14,
@@ -267,7 +270,8 @@
         "Gold/Red": 300,
         "Red": 300,
         "Green": 190
-      }
+      },
+      "map": "weston-hills-country-club-players-course-15"
     },
     {
       "number": 16,
@@ -300,7 +304,8 @@
         "Gold/Red": 80,
         "Red": 80,
         "Green": 80
-      }
+      },
+      "map": "weston-hills-country-club-players-course-17"
     },
     {
       "number": 18,
@@ -320,5 +325,5 @@
       "map": "weston-hills-country-club-players-course-18"
     }
   ],
-  "version": 7
+  "version": 8
 }

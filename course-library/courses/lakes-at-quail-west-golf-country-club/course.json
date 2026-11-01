@@ -75,13 +75,15 @@
       "number": 10,
       "par": 4,
       "handicap": 18,
-      "yards": {}
+      "yards": {},
+      "map": "lakes-at-quail-west-golf-country-club-10"
     },
     {
       "number": 11,
       "par": 5,
       "handicap": 8,
-      "yards": {}
+      "yards": {},
+      "map": "lakes-at-quail-west-golf-country-club-11"
     },
     {
       "number": 12,
@@ -133,5 +135,5 @@
       "map": "lakes-at-quail-west-golf-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

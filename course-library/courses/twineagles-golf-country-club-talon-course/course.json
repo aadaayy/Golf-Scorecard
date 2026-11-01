@@ -178,7 +178,8 @@
         "Tee Iv": 312,
         "Tee Iv/V": 312,
         "Tee V": 278
-      }
+      },
+      "map": "twineagles-golf-country-club-talon-course-09"
     },
     {
       "number": 10,
@@ -231,7 +232,8 @@
         "Tee Iv": 139,
         "Tee Iv/V": 119,
         "Tee V": 119
-      }
+      },
+      "map": "twineagles-golf-country-club-talon-course-12"
     },
     {
       "number": 13,
@@ -342,5 +344,5 @@
       "map": "twineagles-golf-country-club-talon-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

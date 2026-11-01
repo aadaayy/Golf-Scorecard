@@ -96,7 +96,8 @@
         "White": 319,
         "Green": 312,
         "Friendly": 242
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-06"
     },
     {
       "number": 7,
@@ -123,7 +124,8 @@
         "White": 134,
         "Green": 112,
         "Friendly": 112
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-08"
     },
     {
       "number": 9,
@@ -140,5 +142,5 @@
       "map": "cherry-hills-course-at-palmer-legends-09"
     }
   ],
-  "version": 6
+  "version": 7
 }

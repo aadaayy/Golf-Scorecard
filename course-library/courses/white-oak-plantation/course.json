@@ -20,7 +20,8 @@
         "Web": 425,
         "Blue": 375,
         "Red": 261
-      }
+      },
+      "map": "white-oak-plantation-01"
     },
     {
       "number": 2,
@@ -30,7 +31,8 @@
         "Web": 464,
         "Blue": 421,
         "Red": 342
-      }
+      },
+      "map": "white-oak-plantation-02"
     },
     {
       "number": 3,
@@ -40,7 +42,8 @@
         "Web": 410,
         "Blue": 381,
         "Red": 307
-      }
+      },
+      "map": "white-oak-plantation-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "Web": 567,
         "Blue": 515,
         "Red": 396
-      }
+      },
+      "map": "white-oak-plantation-05"
     },
     {
       "number": 6,
@@ -80,7 +84,8 @@
         "Web": 502,
         "Blue": 502,
         "Red": 404
-      }
+      },
+      "map": "white-oak-plantation-07"
     },
     {
       "number": 8,
@@ -90,7 +95,8 @@
         "Web": 165,
         "Blue": 125,
         "Red": 90
-      }
+      },
+      "map": "white-oak-plantation-08"
     },
     {
       "number": 9,
@@ -100,8 +106,9 @@
         "Web": 423,
         "Blue": 363,
         "Red": 335
-      }
+      },
+      "map": "white-oak-plantation-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

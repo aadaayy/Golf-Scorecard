@@ -88,7 +88,8 @@
         "Green": 120,
         "Green/Red Combo": 120,
         "Red": 90
-      }
+      },
+      "map": "pga-national-resort-palmer-course-05"
     },
     {
       "number": 6,
@@ -207,7 +208,8 @@
         "Green": 107,
         "Green/Red Combo": 107,
         "Red": 90
-      }
+      },
+      "map": "pga-national-resort-palmer-course-13"
     },
     {
       "number": 14,
@@ -285,5 +287,5 @@
       "map": "pga-national-resort-palmer-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

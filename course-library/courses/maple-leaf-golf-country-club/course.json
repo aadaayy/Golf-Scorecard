@@ -237,7 +237,8 @@
         "Jade": 255,
         "Teal Combo": 255,
         "Gold": 212
-      }
+      },
+      "map": "maple-leaf-golf-country-club-15"
     },
     {
       "number": 16,
@@ -266,7 +267,8 @@
         "Jade": 210,
         "Teal Combo": 210,
         "Gold": 174
-      }
+      },
+      "map": "maple-leaf-golf-country-club-17"
     },
     {
       "number": 18,
@@ -284,5 +286,5 @@
       "map": "maple-leaf-golf-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

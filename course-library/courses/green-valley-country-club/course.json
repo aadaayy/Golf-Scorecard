@@ -82,7 +82,8 @@
         "White": 330,
         "Gold": 320,
         "Red": 307
-      }
+      },
+      "map": "green-valley-country-club-06"
     },
     {
       "number": 7,
@@ -129,7 +130,8 @@
         "White": 312,
         "Gold": 261,
         "Red": 257
-      }
+      },
+      "map": "green-valley-country-club-10"
     },
     {
       "number": 11,
@@ -228,5 +230,5 @@
       "map": "green-valley-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

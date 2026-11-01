@@ -222,7 +222,8 @@
         "White": 366,
         "Black": 366,
         "Red": 286
-      }
+      },
+      "map": "tpc-tampa-bay-15"
     },
     {
       "number": 16,
@@ -267,5 +268,5 @@
       "map": "tpc-tampa-bay-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

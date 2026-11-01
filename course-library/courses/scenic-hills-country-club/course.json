@@ -138,7 +138,8 @@
         "Orange": 329,
         "Red": 322,
         "Purple": 244
-      }
+      },
+      "map": "scenic-hills-country-club-09"
     },
     {
       "number": 10,
@@ -205,7 +206,8 @@
         "Orange": 244,
         "Red": 238,
         "Purple": 207
-      }
+      },
+      "map": "scenic-hills-country-club-14"
     },
     {
       "number": 15,
@@ -264,5 +266,5 @@
       "map": "scenic-hills-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

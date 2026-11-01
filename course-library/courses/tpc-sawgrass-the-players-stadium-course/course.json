@@ -142,7 +142,8 @@
         "White/Green": 168,
         "White/Green (W)": 168,
         "Green (W)": 121
-      }
+      },
+      "map": "tpc-sawgrass-the-players-stadium-course-08"
     },
     {
       "number": 9,
@@ -189,7 +190,8 @@
         "White/Green": 395,
         "White/Green (W)": 395,
         "Green (W)": 395
-      }
+      },
+      "map": "tpc-sawgrass-the-players-stadium-course-11"
     },
     {
       "number": 12,
@@ -236,7 +238,8 @@
         "White/Green": 334,
         "White/Green (W)": 334,
         "Green (W)": 334
-      }
+      },
+      "map": "tpc-sawgrass-the-players-stadium-course-14"
     },
     {
       "number": 15,
@@ -251,7 +254,8 @@
         "White/Green": 366,
         "White/Green (W)": 366,
         "Green (W)": 288
-      }
+      },
+      "map": "tpc-sawgrass-the-players-stadium-course-15"
     },
     {
       "number": 16,
@@ -302,5 +306,5 @@
       "map": "tpc-sawgrass-the-players-stadium-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

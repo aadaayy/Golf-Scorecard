@@ -167,7 +167,8 @@
         "Green": 306,
         "Red": 303,
         "Silver": 280
-      }
+      },
+      "map": "temple-terrace-golf-country-club-12"
     },
     {
       "number": 13,
@@ -179,7 +180,8 @@
         "Green": 324,
         "Red": 321,
         "Silver": 270
-      }
+      },
+      "map": "temple-terrace-golf-country-club-13"
     },
     {
       "number": 14,
@@ -247,5 +249,5 @@
       "map": "temple-terrace-golf-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

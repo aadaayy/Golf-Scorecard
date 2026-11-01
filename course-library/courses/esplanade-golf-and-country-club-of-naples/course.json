@@ -30,7 +30,8 @@
         "Copper": 298,
         "Copper/Jade": 298,
         "Jade": 247
-      }
+      },
+      "map": "esplanade-golf-and-country-club-of-naples-01"
     },
     {
       "number": 2,
@@ -93,7 +94,8 @@
         "Copper": 264,
         "Copper/Jade": 264,
         "Jade": 209
-      }
+      },
+      "map": "esplanade-golf-and-country-club-of-naples-05"
     },
     {
       "number": 6,
@@ -172,7 +174,8 @@
         "Copper": 294,
         "Copper/Jade": 294,
         "Jade": 255
-      }
+      },
+      "map": "esplanade-golf-and-country-club-of-naples-10"
     },
     {
       "number": 11,
@@ -251,7 +254,8 @@
         "Copper": 153,
         "Copper/Jade": 134,
         "Jade": 134
-      }
+      },
+      "map": "esplanade-golf-and-country-club-of-naples-15"
     },
     {
       "number": 16,
@@ -302,5 +306,5 @@
       "map": "esplanade-golf-and-country-club-of-naples-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

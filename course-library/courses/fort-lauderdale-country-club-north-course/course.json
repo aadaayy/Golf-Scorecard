@@ -83,7 +83,8 @@
         "Middle": 128,
         "Middle/Forward": 97,
         "Forward": 97
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-04"
     },
     {
       "number": 5,
@@ -99,7 +100,8 @@
         "Middle": 255,
         "Middle/Forward": 255,
         "Forward": 211
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-05"
     },
     {
       "number": 6,
@@ -323,5 +325,5 @@
       "map": "fort-lauderdale-country-club-north-course-18"
     }
   ],
-  "version": 7
+  "version": 8
 }

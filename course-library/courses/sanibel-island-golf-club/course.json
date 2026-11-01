@@ -76,7 +76,8 @@
         "White/Gold": 270,
         "Gold": 270,
         "Red": 266
-      }
+      },
+      "map": "sanibel-island-golf-club-05"
     },
     {
       "number": 6,
@@ -153,7 +154,8 @@
         "White/Gold": 270,
         "Gold": 270,
         "Red": 263
-      }
+      },
+      "map": "sanibel-island-golf-club-11"
     },
     {
       "number": 12,
@@ -247,5 +249,5 @@
       "map": "sanibel-island-golf-club-18"
     }
   ],
-  "version": 7
+  "version": 8
 }

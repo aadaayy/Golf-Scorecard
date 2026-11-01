@@ -128,7 +128,8 @@
         "White": 331,
         "Green": 302,
         "Red": 161
-      }
+      },
+      "map": "julington-creek-golf-club-09"
     },
     {
       "number": 10,
@@ -179,7 +180,8 @@
         "White": 147,
         "Green": 130,
         "Red": 73
-      }
+      },
+      "map": "julington-creek-golf-club-13"
     },
     {
       "number": 14,
@@ -204,7 +206,8 @@
         "White": 251,
         "Green": 210,
         "Red": 114
-      }
+      },
+      "map": "julington-creek-golf-club-15"
     },
     {
       "number": 16,
@@ -246,5 +249,5 @@
       "map": "julington-creek-golf-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

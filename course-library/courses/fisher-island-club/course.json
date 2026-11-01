@@ -24,7 +24,8 @@
         "Blue": 286,
         "White": 267,
         "Red": 252
-      }
+      },
+      "map": "fisher-island-club-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "Blue": 364,
         "White": 329,
         "Red": 289
-      }
+      },
+      "map": "fisher-island-club-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "Blue": 98,
         "White": 94,
         "Red": 75
-      }
+      },
+      "map": "fisher-island-club-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "Blue": 362,
         "White": 350,
         "Red": 328
-      }
+      },
+      "map": "fisher-island-club-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
         "Blue": 306,
         "White": 283,
         "Red": 267
-      }
+      },
+      "map": "fisher-island-club-05"
     },
     {
       "number": 6,
@@ -108,7 +113,8 @@
         "Blue": 226,
         "White": 187,
         "Red": 165
-      }
+      },
+      "map": "fisher-island-club-08"
     },
     {
       "number": 9,
@@ -120,8 +126,9 @@
         "Blue": 480,
         "White": 457,
         "Red": 433
-      }
+      },
+      "map": "fisher-island-club-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

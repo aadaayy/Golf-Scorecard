@@ -58,7 +58,8 @@
         "White": 195,
         "Black": 145,
         "Red": 136
-      }
+      },
+      "map": "blackstone-golf-course-04"
     },
     {
       "number": 5,
@@ -201,7 +202,8 @@
         "White": 337,
         "Black": 310,
         "Red": 302
-      }
+      },
+      "map": "blackstone-golf-course-16"
     },
     {
       "number": 17,
@@ -212,7 +214,8 @@
         "White": 144,
         "Black": 130,
         "Red": 109
-      }
+      },
+      "map": "blackstone-golf-course-17"
     },
     {
       "number": 18,
@@ -227,5 +230,5 @@
       "map": "blackstone-golf-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

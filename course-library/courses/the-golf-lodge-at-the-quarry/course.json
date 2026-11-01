@@ -46,7 +46,8 @@
         "Stone": 139,
         "Gold": 139,
         "Quartz": 139
-      }
+      },
+      "map": "the-golf-lodge-at-the-quarry-02"
     },
     {
       "number": 3,
@@ -77,7 +78,8 @@
         "Stone": 340,
         "Gold": 340,
         "Quartz": 283
-      }
+      },
+      "map": "the-golf-lodge-at-the-quarry-04"
     },
     {
       "number": 5,
@@ -284,7 +286,8 @@
         "Stone": 341,
         "Gold": 300,
         "Quartz": 300
-      }
+      },
+      "map": "the-golf-lodge-at-the-quarry-17"
     },
     {
       "number": 18,
@@ -299,8 +302,9 @@
         "Stone": 323,
         "Gold": 323,
         "Quartz": 323
-      }
+      },
+      "map": "the-golf-lodge-at-the-quarry-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

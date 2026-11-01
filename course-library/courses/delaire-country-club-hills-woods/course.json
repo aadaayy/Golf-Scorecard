@@ -43,7 +43,8 @@
         "Gold": 139,
         "Red": 114,
         "Green": 107
-      }
+      },
+      "map": "delaire-country-club-hills-woods-02"
     },
     {
       "number": 3,
@@ -147,7 +148,8 @@
         "Gold": 310,
         "Red": 267,
         "Green": 225
-      }
+      },
+      "map": "delaire-country-club-hills-woods-09"
     },
     {
       "number": 10,
@@ -161,7 +163,8 @@
         "Gold": 350,
         "Red": 326,
         "Green": 230
-      }
+      },
+      "map": "delaire-country-club-hills-woods-10"
     },
     {
       "number": 11,
@@ -175,7 +178,8 @@
         "Gold": 419,
         "Red": 379,
         "Green": 335
-      }
+      },
+      "map": "delaire-country-club-hills-woods-11"
     },
     {
       "number": 12,
@@ -189,7 +193,8 @@
         "Gold": 112,
         "Red": 107,
         "Green": 93
-      }
+      },
+      "map": "delaire-country-club-hills-woods-12"
     },
     {
       "number": 13,
@@ -203,7 +208,8 @@
         "Gold": 323,
         "Red": 298,
         "Green": 230
-      }
+      },
+      "map": "delaire-country-club-hills-woods-13"
     },
     {
       "number": 14,
@@ -217,7 +223,8 @@
         "Gold": 412,
         "Red": 369,
         "Green": 335
-      }
+      },
+      "map": "delaire-country-club-hills-woods-14"
     },
     {
       "number": 15,
@@ -231,7 +238,8 @@
         "Gold": 299,
         "Red": 262,
         "Green": 210
-      }
+      },
+      "map": "delaire-country-club-hills-woods-15"
     },
     {
       "number": 16,
@@ -245,7 +253,8 @@
         "Gold": 115,
         "Red": 89,
         "Green": 85
-      }
+      },
+      "map": "delaire-country-club-hills-woods-16"
     },
     {
       "number": 17,
@@ -259,7 +268,8 @@
         "Gold": 297,
         "Red": 282,
         "Green": 205
-      }
+      },
+      "map": "delaire-country-club-hills-woods-17"
     },
     {
       "number": 18,
@@ -273,8 +283,9 @@
         "Gold": 342,
         "Red": 314,
         "Green": 260
-      }
+      },
+      "map": "delaire-country-club-hills-woods-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

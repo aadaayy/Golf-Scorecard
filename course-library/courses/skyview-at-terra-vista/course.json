@@ -118,7 +118,8 @@
         "White/Red": 150,
         "Red": 117,
         "Green": 117
-      }
+      },
+      "map": "skyview-at-terra-vista-07"
     },
     {
       "number": 8,
@@ -222,7 +223,8 @@
         "White/Red": 131,
         "Red": 125,
         "Green": 125
-      }
+      },
+      "map": "skyview-at-terra-vista-14"
     },
     {
       "number": 15,
@@ -285,5 +287,5 @@
       "map": "skyview-at-terra-vista-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

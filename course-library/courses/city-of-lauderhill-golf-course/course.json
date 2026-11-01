@@ -78,7 +78,8 @@
       "yards": {
         "Middle": 275,
         "Forward": 185
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-07"
     },
     {
       "number": 8,
@@ -101,5 +102,5 @@
       "map": "city-of-lauderhill-golf-course-09"
     }
   ],
-  "version": 3
+  "version": 4
 }

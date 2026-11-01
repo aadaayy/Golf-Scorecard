@@ -83,7 +83,8 @@
         "Green": 99,
         "Green/Red": 99,
         "Red": 76
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-04"
     },
     {
       "number": 5,
@@ -99,7 +100,8 @@
         "Green": 305,
         "Green/Red": 305,
         "Red": 280
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-05"
     },
     {
       "number": 6,
@@ -323,5 +325,5 @@
       "map": "tpc-prestancia-the-stadium-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

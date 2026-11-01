@@ -52,7 +52,8 @@
         "V": 293,
         "V-Vi": 293,
         "VI": 270
-      }
+      },
+      "map": "naples-lakes-country-club-02"
     },
     {
       "number": 3,
@@ -177,7 +178,8 @@
         "V": 328,
         "V-Vi": 263,
         "VI": 263
-      }
+      },
+      "map": "naples-lakes-country-club-09"
     },
     {
       "number": 10,
@@ -266,7 +268,8 @@
         "V": 286,
         "V-Vi": 286,
         "VI": 250
-      }
+      },
+      "map": "naples-lakes-country-club-14"
     },
     {
       "number": 15,
@@ -341,5 +344,5 @@
       "map": "naples-lakes-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

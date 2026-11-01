@@ -52,7 +52,8 @@
         "Red": 330,
         "Red/Magenta": 330,
         "Red/Gold": 302
-      }
+      },
+      "map": "sunrise-course-at-country-club-at-mirasol-02"
     },
     {
       "number": 3,
@@ -69,7 +70,8 @@
         "Red": 119,
         "Red/Magenta": 119,
         "Red/Gold": 119
-      }
+      },
+      "map": "sunrise-course-at-country-club-at-mirasol-03"
     },
     {
       "number": 4,
@@ -248,7 +250,8 @@
         "Red": 309,
         "Red/Magenta": 309,
         "Red/Gold": 309
-      }
+      },
+      "map": "sunrise-course-at-country-club-at-mirasol-13"
     },
     {
       "number": 14,
@@ -265,7 +268,8 @@
         "Red": 315,
         "Red/Magenta": 315,
         "Red/Gold": 281
-      }
+      },
+      "map": "sunrise-course-at-country-club-at-mirasol-14"
     },
     {
       "number": 15,
@@ -300,7 +304,8 @@
         "Red": 341,
         "Red/Magenta": 321,
         "Red/Gold": 321
-      }
+      },
+      "map": "sunrise-course-at-country-club-at-mirasol-16"
     },
     {
       "number": 17,
@@ -339,5 +344,5 @@
       "map": "sunrise-course-at-country-club-at-mirasol-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

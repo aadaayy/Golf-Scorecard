@@ -88,7 +88,8 @@
         "White": 365,
         "Green": 311,
         "Red": 308
-      }
+      },
+      "map": "hills-at-jupiter-hills-club-05"
     },
     {
       "number": 6,
@@ -147,7 +148,8 @@
         "White": 138,
         "Green": 124,
         "Red": 108
-      }
+      },
+      "map": "hills-at-jupiter-hills-club-09"
     },
     {
       "number": 10,
@@ -191,7 +193,8 @@
         "White": 372,
         "Green": 333,
         "Red": 323
-      }
+      },
+      "map": "hills-at-jupiter-hills-club-12"
     },
     {
       "number": 13,
@@ -220,7 +223,8 @@
         "White": 183,
         "Green": 150,
         "Red": 126
-      }
+      },
+      "map": "hills-at-jupiter-hills-club-14"
     },
     {
       "number": 15,
@@ -279,8 +283,9 @@
         "White": 352,
         "Green": 306,
         "Red": 272
-      }
+      },
+      "map": "hills-at-jupiter-hills-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

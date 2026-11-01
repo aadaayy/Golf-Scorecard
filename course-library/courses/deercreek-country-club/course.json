@@ -50,7 +50,8 @@
         "Green": 157,
         "White": 141,
         "Red": 107
-      }
+      },
+      "map": "deercreek-country-club-03"
     },
     {
       "number": 4,
@@ -127,7 +128,8 @@
         "Green": 361,
         "White": 354,
         "Red": 217
-      }
+      },
+      "map": "deercreek-country-club-09"
     },
     {
       "number": 10,
@@ -165,7 +167,8 @@
         "Green": 309,
         "White": 265,
         "Red": 219
-      }
+      },
+      "map": "deercreek-country-club-12"
     },
     {
       "number": 13,
@@ -229,7 +232,8 @@
         "Green": 379,
         "White": 364,
         "Red": 319
-      }
+      },
+      "map": "deercreek-country-club-17"
     },
     {
       "number": 18,
@@ -245,5 +249,5 @@
       "map": "deercreek-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

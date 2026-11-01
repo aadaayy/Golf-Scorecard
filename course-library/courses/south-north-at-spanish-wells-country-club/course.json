@@ -32,7 +32,8 @@
         "Red": 236,
         "Red/Green": 236,
         "Green": 215
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-01"
     },
     {
       "number": 2,
@@ -48,7 +49,8 @@
         "Red": 89,
         "Red/Green": 89,
         "Green": 89
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-02"
     },
     {
       "number": 3,
@@ -64,7 +66,8 @@
         "Red": 247,
         "Red/Green": 247,
         "Green": 213
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-03"
     },
     {
       "number": 4,
@@ -80,7 +83,8 @@
         "Red": 281,
         "Red/Green": 226,
         "Green": 226
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-04"
     },
     {
       "number": 5,
@@ -96,7 +100,8 @@
         "Red": 412,
         "Red/Green": 354,
         "Green": 354
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-05"
     },
     {
       "number": 6,
@@ -112,7 +117,8 @@
         "Red": 236,
         "Red/Green": 236,
         "Green": 170
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-06"
     },
     {
       "number": 7,
@@ -128,7 +134,8 @@
         "Red": 414,
         "Red/Green": 342,
         "Green": 342
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-07"
     },
     {
       "number": 8,
@@ -144,7 +151,8 @@
         "Red": 116,
         "Red/Green": 116,
         "Green": 79
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-08"
     },
     {
       "number": 9,
@@ -160,7 +168,8 @@
         "Red": 260,
         "Red/Green": 260,
         "Green": 191
-      }
+      },
+      "map": "south-north-at-spanish-wells-country-club-09"
     },
     {
       "number": 10,
@@ -307,5 +316,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

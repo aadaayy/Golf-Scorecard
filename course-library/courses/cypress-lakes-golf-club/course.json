@@ -26,7 +26,8 @@
         "#4": 315,
         "#5": 250,
         "#6": 200
-      }
+      },
+      "map": "cypress-lakes-golf-club-01"
     },
     {
       "number": 2,
@@ -95,7 +96,8 @@
         "#4": 298,
         "#5": 260,
         "#6": 200
-      }
+      },
+      "map": "cypress-lakes-golf-club-06"
     },
     {
       "number": 7,
@@ -206,7 +208,8 @@
         "#4": 131,
         "#5": 110,
         "#6": 110
-      }
+      },
+      "map": "cypress-lakes-golf-club-14"
     },
     {
       "number": 15,
@@ -219,7 +222,8 @@
         "#4": 302,
         "#5": 245,
         "#6": 180
-      }
+      },
+      "map": "cypress-lakes-golf-club-15"
     },
     {
       "number": 16,
@@ -264,5 +268,5 @@
       "map": "cypress-lakes-golf-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

@@ -160,7 +160,8 @@
         "Green": 231,
         "Green/Red": 231,
         "Red": 215
-      }
+      },
+      "map": "mizner-country-club-08"
     },
     {
       "number": 9,
@@ -177,7 +178,8 @@
         "Green": 109,
         "Green/Red": 99,
         "Red": 99
-      }
+      },
+      "map": "mizner-country-club-09"
     },
     {
       "number": 10,
@@ -334,5 +336,5 @@
       }
     }
   ],
-  "version": 6
+  "version": 7
 }

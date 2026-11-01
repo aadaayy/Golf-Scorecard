@@ -24,7 +24,8 @@
         "White": 292,
         "Yellow": 250,
         "Red": 247
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-01"
     },
     {
       "number": 2,
@@ -49,7 +50,8 @@
         "White": 252,
         "Yellow": 248,
         "Red": 168
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-03"
     },
     {
       "number": 4,
@@ -238,5 +240,5 @@
       }
     }
   ],
-  "version": 6
+  "version": 7
 }

@@ -54,7 +54,8 @@
         "White": 362,
         "Senior": 333,
         "Red": 285
-      }
+      },
+      "map": "avila-golf-country-club-03"
     },
     {
       "number": 4,
@@ -123,7 +124,8 @@
         "White": 168,
         "Senior": 153,
         "Red": 119
-      }
+      },
+      "map": "avila-golf-country-club-08"
     },
     {
       "number": 9,
@@ -206,7 +208,8 @@
         "White": 153,
         "Senior": 146,
         "Red": 122
-      }
+      },
+      "map": "avila-golf-country-club-14"
     },
     {
       "number": 15,
@@ -265,5 +268,5 @@
       "map": "avila-golf-country-club-18"
     }
   ],
-  "version": 7
+  "version": 8
 }

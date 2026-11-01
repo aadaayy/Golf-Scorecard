@@ -58,7 +58,8 @@
         "Gold": 366,
         "Red": 342,
         "Red/Silver": 301
-      }
+      },
+      "map": "country-club-of-naples-03"
     },
     {
       "number": 4,
@@ -117,7 +118,8 @@
         "Gold": 438,
         "Red": 424,
         "Red/Silver": 424
-      }
+      },
+      "map": "country-club-of-naples-07"
     },
     {
       "number": 8,
@@ -221,7 +223,8 @@
         "Gold": 330,
         "Red": 299,
         "Red/Silver": 299
-      }
+      },
+      "map": "country-club-of-naples-14"
     },
     {
       "number": 15,
@@ -235,7 +238,8 @@
         "Gold": 117,
         "Red": 106,
         "Red/Silver": 106
-      }
+      },
+      "map": "country-club-of-naples-15"
     },
     {
       "number": 16,
@@ -283,5 +287,5 @@
       "map": "country-club-of-naples-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

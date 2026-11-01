@@ -222,7 +222,8 @@
         "Bay Colony": 288,
         "Member": 265,
         "Forward": 211
-      }
+      },
+      "map": "bay-colony-golf-club-15"
     },
     {
       "number": 16,
@@ -235,7 +236,8 @@
         "Bay Colony": 135,
         "Member": 124,
         "Forward": 103
-      }
+      },
+      "map": "bay-colony-golf-club-16"
     },
     {
       "number": 17,
@@ -266,5 +268,5 @@
       "map": "bay-colony-golf-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

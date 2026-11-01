@@ -66,7 +66,8 @@
         "White": 101,
         "White/Red": 101,
         "Red": 86
-      }
+      },
+      "map": "the-palencia-club-03"
     },
     {
       "number": 4,
@@ -201,7 +202,8 @@
         "White": 295,
         "White/Red": 295,
         "Red": 240
-      }
+      },
+      "map": "the-palencia-club-11"
     },
     {
       "number": 12,
@@ -323,5 +325,5 @@
       "map": "the-palencia-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

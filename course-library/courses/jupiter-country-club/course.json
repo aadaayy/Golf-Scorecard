@@ -50,7 +50,8 @@
         "Blue": 301,
         "White": 256,
         "Red": 238
-      }
+      },
+      "map": "jupiter-country-club-03"
     },
     {
       "number": 4,
@@ -75,7 +76,8 @@
         "Blue": 352,
         "White": 322,
         "Red": 294
-      }
+      },
+      "map": "jupiter-country-club-05"
     },
     {
       "number": 6,
@@ -87,7 +89,8 @@
         "Blue": 164,
         "White": 147,
         "Red": 128
-      }
+      },
+      "map": "jupiter-country-club-06"
     },
     {
       "number": 7,
@@ -229,7 +232,8 @@
         "Blue": 169,
         "White": 132,
         "Red": 113
-      }
+      },
+      "map": "jupiter-country-club-17"
     },
     {
       "number": 18,
@@ -245,5 +249,5 @@
       "map": "jupiter-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

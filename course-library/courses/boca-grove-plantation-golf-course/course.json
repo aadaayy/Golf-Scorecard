@@ -86,7 +86,8 @@
         "Black": 579,
         "Green": 470,
         "Yellow": 460
-      }
+      },
+      "map": "boca-grove-plantation-golf-course-07"
     },
     {
       "number": 8,
@@ -96,7 +97,8 @@
         "Black": 245,
         "Green": 160,
         "Yellow": 155
-      }
+      },
+      "map": "boca-grove-plantation-golf-course-08"
     },
     {
       "number": 9,
@@ -209,5 +211,5 @@
       "map": "boca-grove-plantation-golf-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

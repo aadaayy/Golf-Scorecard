@@ -410,7 +410,7 @@
         "Green": 4753,
         "Friendly": 3590
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/amelia-caroline-at-mallory-hill-golf-course",
       "files": [
         "amelia-caroline-at-mallory-hill-golf-course-01.svg",
@@ -420,10 +420,20 @@
         "amelia-caroline-at-mallory-hill-golf-course-05.svg",
         "amelia-caroline-at-mallory-hill-golf-course-06.svg",
         "amelia-caroline-at-mallory-hill-golf-course-07.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-08.svg",
         "amelia-caroline-at-mallory-hill-golf-course-09.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-10.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-11.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-12.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-13.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-14.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-15.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-16.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-17.svg",
+        "amelia-caroline-at-mallory-hill-golf-course-18.svg",
         "course.json"
       ],
-      "bytes": 42425,
+      "bytes": 91830,
       "lat": 28.895278,
       "lng": -81.967586
     },
@@ -447,7 +457,7 @@
         "White": 5876,
         "Red": 5176
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/amelia-national-golf-and-country-club",
       "files": [
         "amelia-national-golf-and-country-club-01.svg",
@@ -456,6 +466,7 @@
         "amelia-national-golf-and-country-club-04.svg",
         "amelia-national-golf-and-country-club-05.svg",
         "amelia-national-golf-and-country-club-06.svg",
+        "amelia-national-golf-and-country-club-07.svg",
         "amelia-national-golf-and-country-club-08.svg",
         "amelia-national-golf-and-country-club-09.svg",
         "amelia-national-golf-and-country-club-10.svg",
@@ -469,7 +480,7 @@
         "amelia-national-golf-and-country-club-18.svg",
         "course.json"
       ],
-      "bytes": 107091,
+      "bytes": 114477,
       "lat": 30.60063,
       "lng": -81.539949
     },
@@ -711,7 +722,7 @@
         "Green": 4651,
         "Friendly": 3593
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/ashley-torri-at-nancy-lopez-legacy-golf-country-club",
       "files": [
         "ashley-torri-at-nancy-lopez-legacy-golf-country-club-01.svg",
@@ -723,9 +734,18 @@
         "ashley-torri-at-nancy-lopez-legacy-golf-country-club-07.svg",
         "ashley-torri-at-nancy-lopez-legacy-golf-country-club-08.svg",
         "ashley-torri-at-nancy-lopez-legacy-golf-country-club-09.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-10.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-11.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-12.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-13.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-14.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-15.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-16.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-17.svg",
+        "ashley-torri-at-nancy-lopez-legacy-golf-country-club-18.svg",
         "course.json"
       ],
-      "bytes": 41680,
+      "bytes": 85705,
       "lat": 28.973091,
       "lng": -82.014098
     },
@@ -838,27 +858,30 @@
         "Senior": 5433,
         "Red": 4890
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/avila-golf-country-club",
       "files": [
         "avila-golf-country-club-01.svg",
         "avila-golf-country-club-02.svg",
+        "avila-golf-country-club-03.svg",
         "avila-golf-country-club-04.svg",
         "avila-golf-country-club-05.svg",
         "avila-golf-country-club-06.svg",
         "avila-golf-country-club-07.svg",
+        "avila-golf-country-club-08.svg",
         "avila-golf-country-club-09.svg",
         "avila-golf-country-club-10.svg",
         "avila-golf-country-club-11.svg",
         "avila-golf-country-club-12.svg",
         "avila-golf-country-club-13.svg",
+        "avila-golf-country-club-14.svg",
         "avila-golf-country-club-15.svg",
         "avila-golf-country-club-16.svg",
         "avila-golf-country-club-17.svg",
         "avila-golf-country-club-18.svg",
         "course.json"
       ],
-      "bytes": 80260,
+      "bytes": 90719,
       "lat": 28.109465,
       "lng": -82.471329
     },
@@ -916,12 +939,30 @@
         "Blue": 4989,
         "Gold": 4493
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/babcock-national",
       "files": [
+        "babcock-national-01.svg",
+        "babcock-national-02.svg",
+        "babcock-national-03.svg",
+        "babcock-national-04.svg",
+        "babcock-national-05.svg",
+        "babcock-national-06.svg",
+        "babcock-national-07.svg",
+        "babcock-national-08.svg",
+        "babcock-national-09.svg",
+        "babcock-national-10.svg",
+        "babcock-national-11.svg",
+        "babcock-national-12.svg",
+        "babcock-national-13.svg",
+        "babcock-national-14.svg",
+        "babcock-national-15.svg",
+        "babcock-national-16.svg",
+        "babcock-national-17.svg",
+        "babcock-national-18.svg",
         "course.json"
       ],
-      "bytes": 3845,
+      "bytes": 48857,
       "lat": 26.796515,
       "lng": -81.733724
     },
@@ -1044,7 +1085,7 @@
         "Green": 4716,
         "Short": 3943
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/ballenisles-country-club-north-course",
       "files": [
         "ballenisles-country-club-north-course-01.svg",
@@ -1067,7 +1108,7 @@
         "ballenisles-country-club-north-course-18.svg",
         "course.json"
       ],
-      "bytes": 113349,
+      "bytes": 107012,
       "lat": 26.832116,
       "lng": -80.116677
     },
@@ -1101,7 +1142,7 @@
         "Green": 4830,
         "Short": 4129
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/ballenisles-country-club-south-course",
       "files": [
         "ballenisles-country-club-south-course-01.svg",
@@ -1124,7 +1165,7 @@
         "ballenisles-country-club-south-course-18.svg",
         "course.json"
       ],
-      "bytes": 113420,
+      "bytes": 104741,
       "lat": 26.832116,
       "lng": -80.116677
     },
@@ -1285,7 +1326,7 @@
         "Member": 5878,
         "Forward": 5088
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/bay-colony-golf-club",
       "files": [
         "bay-colony-golf-club-01.svg",
@@ -1302,11 +1343,13 @@
         "bay-colony-golf-club-12.svg",
         "bay-colony-golf-club-13.svg",
         "bay-colony-golf-club-14.svg",
+        "bay-colony-golf-club-15.svg",
+        "bay-colony-golf-club-16.svg",
         "bay-colony-golf-club-17.svg",
         "bay-colony-golf-club-18.svg",
         "course.json"
       ],
-      "bytes": 81795,
+      "bytes": 88843,
       "lat": 26.264108,
       "lng": -81.794928
     },
@@ -1330,7 +1373,7 @@
         "Red": 5849,
         "White": 5131
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/bay-hill-club-lodge-championship-course",
       "files": [
         "bay-hill-club-lodge-championship-course-01.svg",
@@ -1340,18 +1383,20 @@
         "bay-hill-club-lodge-championship-course-05.svg",
         "bay-hill-club-lodge-championship-course-06.svg",
         "bay-hill-club-lodge-championship-course-07.svg",
+        "bay-hill-club-lodge-championship-course-08.svg",
         "bay-hill-club-lodge-championship-course-09.svg",
         "bay-hill-club-lodge-championship-course-10.svg",
         "bay-hill-club-lodge-championship-course-11.svg",
         "bay-hill-club-lodge-championship-course-12.svg",
         "bay-hill-club-lodge-championship-course-13.svg",
+        "bay-hill-club-lodge-championship-course-14.svg",
         "bay-hill-club-lodge-championship-course-15.svg",
         "bay-hill-club-lodge-championship-course-16.svg",
         "bay-hill-club-lodge-championship-course-17.svg",
         "bay-hill-club-lodge-championship-course-18.svg",
         "course.json"
       ],
-      "bytes": 135549,
+      "bytes": 148544,
       "lat": 28.458333,
       "lng": -81.510556
     },
@@ -1567,7 +1612,7 @@
         "Green": 5472,
         "Red": 5210
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/bayou-club",
       "files": [
         "bayou-club-01.svg",
@@ -1582,13 +1627,15 @@
         "bayou-club-10.svg",
         "bayou-club-11.svg",
         "bayou-club-12.svg",
+        "bayou-club-13.svg",
         "bayou-club-14.svg",
         "bayou-club-15.svg",
+        "bayou-club-16.svg",
         "bayou-club-17.svg",
         "bayou-club-18.svg",
         "course.json"
       ],
-      "bytes": 65956,
+      "bytes": 71701,
       "lat": 27.863001,
       "lng": -82.74818
     },
@@ -1978,7 +2025,7 @@
         "White": 6044,
         "Red": 5168
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/belle-glade-municipal-golf-club",
       "files": [
         "belle-glade-municipal-golf-club-01.svg",
@@ -1990,6 +2037,9 @@
         "belle-glade-municipal-golf-club-07.svg",
         "belle-glade-municipal-golf-club-08.svg",
         "belle-glade-municipal-golf-club-09.svg",
+        "belle-glade-municipal-golf-club-10.svg",
+        "belle-glade-municipal-golf-club-11.svg",
+        "belle-glade-municipal-golf-club-12.svg",
         "belle-glade-municipal-golf-club-13.svg",
         "belle-glade-municipal-golf-club-14.svg",
         "belle-glade-municipal-golf-club-15.svg",
@@ -1998,7 +2048,7 @@
         "belle-glade-municipal-golf-club-18.svg",
         "course.json"
       ],
-      "bytes": 50343,
+      "bytes": 61317,
       "lat": 26.705708,
       "lng": -80.701425
     },
@@ -2018,7 +2068,7 @@
         "Gold": 1358,
         "Green": 1063
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/belmont-at-the-villages-executive-golf-trail",
       "files": [
         "belmont-at-the-villages-executive-golf-trail-01.svg",
@@ -2032,7 +2082,7 @@
         "belmont-at-the-villages-executive-golf-trail-09.svg",
         "course.json"
       ],
-      "bytes": 35860,
+      "bytes": 35359,
       "lat": 28.919859,
       "lng": -82.018379
     },
@@ -2291,12 +2341,13 @@
         "Black": 5570,
         "Red": 4970
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/blackstone-golf-course",
       "files": [
         "blackstone-golf-course-01.svg",
         "blackstone-golf-course-02.svg",
         "blackstone-golf-course-03.svg",
+        "blackstone-golf-course-04.svg",
         "blackstone-golf-course-05.svg",
         "blackstone-golf-course-06.svg",
         "blackstone-golf-course-07.svg",
@@ -2308,10 +2359,12 @@
         "blackstone-golf-course-13.svg",
         "blackstone-golf-course-14.svg",
         "blackstone-golf-course-15.svg",
+        "blackstone-golf-course-16.svg",
+        "blackstone-golf-course-17.svg",
         "blackstone-golf-course-18.svg",
         "course.json"
       ],
-      "bytes": 46148,
+      "bytes": 51718,
       "lat": 30.740258,
       "lng": -86.334983
     },
@@ -2442,7 +2495,7 @@
         "#2": 5899,
         "#3": 5421
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/blue-red-at-foxfire-country-club",
       "files": [
         "blue-red-at-foxfire-country-club-01.svg",
@@ -2454,13 +2507,18 @@
         "blue-red-at-foxfire-country-club-07.svg",
         "blue-red-at-foxfire-country-club-08.svg",
         "blue-red-at-foxfire-country-club-09.svg",
+        "blue-red-at-foxfire-country-club-10.svg",
         "blue-red-at-foxfire-country-club-11.svg",
+        "blue-red-at-foxfire-country-club-12.svg",
         "blue-red-at-foxfire-country-club-13.svg",
+        "blue-red-at-foxfire-country-club-14.svg",
         "blue-red-at-foxfire-country-club-15.svg",
+        "blue-red-at-foxfire-country-club-16.svg",
         "blue-red-at-foxfire-country-club-17.svg",
+        "blue-red-at-foxfire-country-club-18.svg",
         "course.json"
       ],
-      "bytes": 53062,
+      "bytes": 71218,
       "lat": 26.145474,
       "lng": -81.747373
     },
@@ -2513,7 +2571,7 @@
         "Green": 5405,
         "Yellow": 4886
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/blue-white-at-sugar-mill-country-club",
       "files": [
         "blue-white-at-sugar-mill-country-club-01.svg",
@@ -2526,10 +2584,11 @@
         "blue-white-at-sugar-mill-country-club-08.svg",
         "blue-white-at-sugar-mill-country-club-09.svg",
         "blue-white-at-sugar-mill-country-club-16.svg",
+        "blue-white-at-sugar-mill-country-club-17.svg",
         "blue-white-at-sugar-mill-country-club-18.svg",
         "course.json"
       ],
-      "bytes": 38690,
+      "bytes": 41758,
       "lat": 29.044009,
       "lng": -80.984883
     },
@@ -2642,7 +2701,7 @@
         "Green": 5857,
         "Yellow": 5609
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/boca-grove-plantation-golf-course",
       "files": [
         "boca-grove-plantation-golf-course-01.svg",
@@ -2651,6 +2710,8 @@
         "boca-grove-plantation-golf-course-04.svg",
         "boca-grove-plantation-golf-course-05.svg",
         "boca-grove-plantation-golf-course-06.svg",
+        "boca-grove-plantation-golf-course-07.svg",
+        "boca-grove-plantation-golf-course-08.svg",
         "boca-grove-plantation-golf-course-09.svg",
         "boca-grove-plantation-golf-course-10.svg",
         "boca-grove-plantation-golf-course-11.svg",
@@ -2663,7 +2724,7 @@
         "boca-grove-plantation-golf-course-18.svg",
         "course.json"
       ],
-      "bytes": 84624,
+      "bytes": 94892,
       "lat": 26.360944,
       "lng": -80.163521
     },
@@ -3057,19 +3118,30 @@
         "Green": 4883,
         "Friendly": 3932
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/bonifay-country-club-fort-walton-pensacola",
       "files": [
         "bonifay-country-club-fort-walton-pensacola-01.svg",
         "bonifay-country-club-fort-walton-pensacola-02.svg",
         "bonifay-country-club-fort-walton-pensacola-03.svg",
         "bonifay-country-club-fort-walton-pensacola-04.svg",
+        "bonifay-country-club-fort-walton-pensacola-05.svg",
         "bonifay-country-club-fort-walton-pensacola-06.svg",
         "bonifay-country-club-fort-walton-pensacola-07.svg",
         "bonifay-country-club-fort-walton-pensacola-08.svg",
+        "bonifay-country-club-fort-walton-pensacola-09.svg",
+        "bonifay-country-club-fort-walton-pensacola-10.svg",
+        "bonifay-country-club-fort-walton-pensacola-11.svg",
+        "bonifay-country-club-fort-walton-pensacola-12.svg",
+        "bonifay-country-club-fort-walton-pensacola-13.svg",
+        "bonifay-country-club-fort-walton-pensacola-14.svg",
+        "bonifay-country-club-fort-walton-pensacola-15.svg",
+        "bonifay-country-club-fort-walton-pensacola-16.svg",
+        "bonifay-country-club-fort-walton-pensacola-17.svg",
+        "bonifay-country-club-fort-walton-pensacola-18.svg",
         "course.json"
       ],
-      "bytes": 35989,
+      "bytes": 84056,
       "lat": 28.859561,
       "lng": -81.975659
     },
@@ -3312,19 +3384,21 @@
         "White": 1224,
         "Red": 950
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/briarwood-at-the-villages-executive-golf-trail",
       "files": [
         "briarwood-at-the-villages-executive-golf-trail-01.svg",
+        "briarwood-at-the-villages-executive-golf-trail-02.svg",
         "briarwood-at-the-villages-executive-golf-trail-03.svg",
         "briarwood-at-the-villages-executive-golf-trail-04.svg",
         "briarwood-at-the-villages-executive-golf-trail-05.svg",
+        "briarwood-at-the-villages-executive-golf-trail-06.svg",
         "briarwood-at-the-villages-executive-golf-trail-07.svg",
         "briarwood-at-the-villages-executive-golf-trail-08.svg",
         "briarwood-at-the-villages-executive-golf-trail-09.svg",
         "course.json"
       ],
-      "bytes": 18071,
+      "bytes": 22504,
       "lat": 28.972604,
       "lng": -82.011578
     },
@@ -3820,7 +3894,7 @@
         "Green": 4902,
         "Friendly": 3893
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cane-garden-country-club-allamanda-hibiscus-course",
       "files": [
         "cane-garden-country-club-allamanda-hibiscus-course-01.svg",
@@ -3829,11 +3903,21 @@
         "cane-garden-country-club-allamanda-hibiscus-course-04.svg",
         "cane-garden-country-club-allamanda-hibiscus-course-05.svg",
         "cane-garden-country-club-allamanda-hibiscus-course-06.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-07.svg",
         "cane-garden-country-club-allamanda-hibiscus-course-08.svg",
         "cane-garden-country-club-allamanda-hibiscus-course-09.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-10.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-11.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-12.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-13.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-14.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-15.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-16.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-17.svg",
+        "cane-garden-country-club-allamanda-hibiscus-course-18.svg",
         "course.json"
       ],
-      "bytes": 46545,
+      "bytes": 86375,
       "lat": 28.892843,
       "lng": -81.994343
     },
@@ -3859,7 +3943,7 @@
         "Green": 4765,
         "Friendly": 3864
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cane-garden-country-club-hibiscus-jacaranda-course",
       "files": [
         "cane-garden-country-club-hibiscus-jacaranda-course-01.svg",
@@ -3871,9 +3955,18 @@
         "cane-garden-country-club-hibiscus-jacaranda-course-07.svg",
         "cane-garden-country-club-hibiscus-jacaranda-course-08.svg",
         "cane-garden-country-club-hibiscus-jacaranda-course-09.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-10.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-11.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-12.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-13.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-14.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-15.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-16.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-17.svg",
+        "cane-garden-country-club-hibiscus-jacaranda-course-18.svg",
         "course.json"
       ],
-      "bytes": 41134,
+      "bytes": 85046,
       "lat": 28.892843,
       "lng": -81.994343
     },
@@ -3901,7 +3994,7 @@
         "Green": 5016,
         "Friendly": 3971
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cane-garden-country-club-jacaranda-allamanda-course",
       "files": [
         "cane-garden-country-club-jacaranda-allamanda-course-01.svg",
@@ -3913,9 +4006,18 @@
         "cane-garden-country-club-jacaranda-allamanda-course-07.svg",
         "cane-garden-country-club-jacaranda-allamanda-course-08.svg",
         "cane-garden-country-club-jacaranda-allamanda-course-09.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-10.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-11.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-12.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-13.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-14.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-15.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-16.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-17.svg",
+        "cane-garden-country-club-jacaranda-allamanda-course-18.svg",
         "course.json"
       ],
-      "bytes": 48727,
+      "bytes": 93976,
       "lat": 28.892843,
       "lng": -81.994343
     },
@@ -3939,7 +4041,7 @@
         "Yellow": 5215,
         "Red": 4698
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cape-royal-golf-club-king-prince",
       "files": [
         "cape-royal-golf-club-king-prince-01.svg",
@@ -3949,10 +4051,11 @@
         "cape-royal-golf-club-king-prince-05.svg",
         "cape-royal-golf-club-king-prince-06.svg",
         "cape-royal-golf-club-king-prince-07.svg",
+        "cape-royal-golf-club-king-prince-08.svg",
         "cape-royal-golf-club-king-prince-09.svg",
         "course.json"
       ],
-      "bytes": 27088,
+      "bytes": 28773,
       "lat": 26.624264,
       "lng": -82.032889
     },
@@ -3976,10 +4079,12 @@
         "Yellow": 5199,
         "Red": 4610
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cape-royal-golf-club-prince-queen",
       "files": [
+        "cape-royal-golf-club-prince-queen-01.svg",
         "cape-royal-golf-club-prince-queen-02.svg",
+        "cape-royal-golf-club-prince-queen-03.svg",
         "cape-royal-golf-club-prince-queen-04.svg",
         "cape-royal-golf-club-prince-queen-05.svg",
         "cape-royal-golf-club-prince-queen-06.svg",
@@ -3988,7 +4093,7 @@
         "cape-royal-golf-club-prince-queen-09.svg",
         "course.json"
       ],
-      "bytes": 22693,
+      "bytes": 29476,
       "lat": 26.624264,
       "lng": -82.032889
     },
@@ -4266,12 +4371,13 @@
         "Red": 5006,
         "Yellow": 4112
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/carrollwood-country-club-pines-cypress-course",
       "files": [
         "carrollwood-country-club-pines-cypress-course-01.svg",
         "carrollwood-country-club-pines-cypress-course-02.svg",
         "carrollwood-country-club-pines-cypress-course-03.svg",
+        "carrollwood-country-club-pines-cypress-course-04.svg",
         "carrollwood-country-club-pines-cypress-course-05.svg",
         "carrollwood-country-club-pines-cypress-course-06.svg",
         "carrollwood-country-club-pines-cypress-course-07.svg",
@@ -4279,7 +4385,7 @@
         "carrollwood-country-club-pines-cypress-course-09.svg",
         "course.json"
       ],
-      "bytes": 38797,
+      "bytes": 43127,
       "lat": 28.073265,
       "lng": -82.513487
     },
@@ -4712,7 +4818,7 @@
         "Green": 2481,
         "Friendly": 1926
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cherry-hills-course-at-palmer-legends",
       "files": [
         "cherry-hills-course-at-palmer-legends-01.svg",
@@ -4720,11 +4826,13 @@
         "cherry-hills-course-at-palmer-legends-03.svg",
         "cherry-hills-course-at-palmer-legends-04.svg",
         "cherry-hills-course-at-palmer-legends-05.svg",
+        "cherry-hills-course-at-palmer-legends-06.svg",
         "cherry-hills-course-at-palmer-legends-07.svg",
+        "cherry-hills-course-at-palmer-legends-08.svg",
         "cherry-hills-course-at-palmer-legends-09.svg",
         "course.json"
       ],
-      "bytes": 39000,
+      "bytes": 48355,
       "lat": 28.910194,
       "lng": -81.993289
     },
@@ -4861,21 +4969,19 @@
         "Gold": 1485,
         "Green": 1040
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/churchill-greens-at-the-villages-executive-golf-trail",
       "files": [
         "churchill-greens-at-the-villages-executive-golf-trail-01.svg",
         "churchill-greens-at-the-villages-executive-golf-trail-02.svg",
         "churchill-greens-at-the-villages-executive-golf-trail-03.svg",
-        "churchill-greens-at-the-villages-executive-golf-trail-04.svg",
-        "churchill-greens-at-the-villages-executive-golf-trail-05.svg",
         "churchill-greens-at-the-villages-executive-golf-trail-06.svg",
         "churchill-greens-at-the-villages-executive-golf-trail-07.svg",
         "churchill-greens-at-the-villages-executive-golf-trail-08.svg",
         "churchill-greens-at-the-villages-executive-golf-trail-09.svg",
         "course.json"
       ],
-      "bytes": 35957,
+      "bytes": 26677,
       "lat": 28.919859,
       "lng": -82.018379
     },
@@ -4981,7 +5087,7 @@
         "Middle": 1220,
         "Forward": 875
       },
-      "version": 3,
+      "version": 4,
       "folder": "courses/city-of-lauderhill-golf-course",
       "files": [
         "city-of-lauderhill-golf-course-01.svg",
@@ -4990,11 +5096,12 @@
         "city-of-lauderhill-golf-course-04.svg",
         "city-of-lauderhill-golf-course-05.svg",
         "city-of-lauderhill-golf-course-06.svg",
+        "city-of-lauderhill-golf-course-07.svg",
         "city-of-lauderhill-golf-course-08.svg",
         "city-of-lauderhill-golf-course-09.svg",
         "course.json"
       ],
-      "bytes": 11559,
+      "bytes": 12978,
       "lat": 26.146654,
       "lng": -80.206093
     },
@@ -5322,7 +5429,7 @@
         "Coral": 5227,
         "Green": 4820
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/coral-creek-club",
       "files": [
         "coral-creek-club-01.svg",
@@ -5330,6 +5437,7 @@
         "coral-creek-club-03.svg",
         "coral-creek-club-04.svg",
         "coral-creek-club-05.svg",
+        "coral-creek-club-06.svg",
         "coral-creek-club-07.svg",
         "coral-creek-club-08.svg",
         "coral-creek-club-09.svg",
@@ -5344,7 +5452,7 @@
         "coral-creek-club-18.svg",
         "course.json"
       ],
-      "bytes": 155937,
+      "bytes": 161162,
       "lat": 26.839843,
       "lng": -82.26573
     },
@@ -5486,7 +5594,7 @@
         "White": 5528,
         "Red": 5025
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/country-club-of-miami-east",
       "files": [
         "country-club-of-miami-east-01.svg",
@@ -5502,12 +5610,13 @@
         "country-club-of-miami-east-11.svg",
         "country-club-of-miami-east-13.svg",
         "country-club-of-miami-east-14.svg",
+        "country-club-of-miami-east-15.svg",
         "country-club-of-miami-east-16.svg",
         "country-club-of-miami-east-17.svg",
         "country-club-of-miami-east-18.svg",
         "course.json"
       ],
-      "bytes": 72801,
+      "bytes": 77864,
       "lat": 25.943677,
       "lng": -80.313579
     },
@@ -5562,26 +5671,30 @@
         "Red": 5159,
         "Red/Silver": 4882
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/country-club-of-naples",
       "files": [
         "country-club-of-naples-01.svg",
         "country-club-of-naples-02.svg",
+        "country-club-of-naples-03.svg",
         "country-club-of-naples-04.svg",
         "country-club-of-naples-05.svg",
         "country-club-of-naples-06.svg",
+        "country-club-of-naples-07.svg",
         "country-club-of-naples-08.svg",
         "country-club-of-naples-09.svg",
         "country-club-of-naples-10.svg",
         "country-club-of-naples-11.svg",
         "country-club-of-naples-12.svg",
         "country-club-of-naples-13.svg",
+        "country-club-of-naples-14.svg",
+        "country-club-of-naples-15.svg",
         "country-club-of-naples-16.svg",
         "country-club-of-naples-17.svg",
         "country-club-of-naples-18.svg",
         "course.json"
       ],
-      "bytes": 63913,
+      "bytes": 81279,
       "lat": 26.20431,
       "lng": -81.786169
     },
@@ -5885,26 +5998,12 @@
       "par": 72,
       "tees": [],
       "yards": {},
-      "version": 6,
+      "version": 7,
       "folder": "courses/creek-at-quail-creek-country-club",
       "files": [
-        "course.json",
-        "creek-at-quail-creek-country-club-01.svg",
-        "creek-at-quail-creek-country-club-02.svg",
-        "creek-at-quail-creek-country-club-03.svg",
-        "creek-at-quail-creek-country-club-04.svg",
-        "creek-at-quail-creek-country-club-05.svg",
-        "creek-at-quail-creek-country-club-06.svg",
-        "creek-at-quail-creek-country-club-08.svg",
-        "creek-at-quail-creek-country-club-09.svg",
-        "creek-at-quail-creek-country-club-10.svg",
-        "creek-at-quail-creek-country-club-11.svg",
-        "creek-at-quail-creek-country-club-13.svg",
-        "creek-at-quail-creek-country-club-14.svg",
-        "creek-at-quail-creek-country-club-15.svg",
-        "creek-at-quail-creek-country-club-17.svg"
+        "course.json"
       ],
-      "bytes": 73020,
+      "bytes": 1815,
       "lat": 26.295887,
       "lng": -81.729669
     },
@@ -6210,7 +6309,7 @@
         "Gold": 5405,
         "Red": 5214
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cypress-at-palm-aire-country-club",
       "files": [
         "course.json",
@@ -6220,6 +6319,7 @@
         "cypress-at-palm-aire-country-club-04.svg",
         "cypress-at-palm-aire-country-club-05.svg",
         "cypress-at-palm-aire-country-club-06.svg",
+        "cypress-at-palm-aire-country-club-07.svg",
         "cypress-at-palm-aire-country-club-08.svg",
         "cypress-at-palm-aire-country-club-09.svg",
         "cypress-at-palm-aire-country-club-10.svg",
@@ -6232,7 +6332,7 @@
         "cypress-at-palm-aire-country-club-17.svg",
         "cypress-at-palm-aire-country-club-18.svg"
       ],
-      "bytes": 72244,
+      "bytes": 75959,
       "lat": 26.219146,
       "lng": -80.17728
     },
@@ -6256,26 +6356,30 @@
         "Iv/V": 5198,
         "V": 4787
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cypress-at-royal-poinciana-golf-club",
       "files": [
         "course.json",
         "cypress-at-royal-poinciana-golf-club-01.svg",
+        "cypress-at-royal-poinciana-golf-club-02.svg",
         "cypress-at-royal-poinciana-golf-club-03.svg",
         "cypress-at-royal-poinciana-golf-club-04.svg",
         "cypress-at-royal-poinciana-golf-club-05.svg",
         "cypress-at-royal-poinciana-golf-club-06.svg",
         "cypress-at-royal-poinciana-golf-club-07.svg",
+        "cypress-at-royal-poinciana-golf-club-08.svg",
         "cypress-at-royal-poinciana-golf-club-09.svg",
         "cypress-at-royal-poinciana-golf-club-10.svg",
         "cypress-at-royal-poinciana-golf-club-11.svg",
+        "cypress-at-royal-poinciana-golf-club-12.svg",
         "cypress-at-royal-poinciana-golf-club-13.svg",
         "cypress-at-royal-poinciana-golf-club-14.svg",
         "cypress-at-royal-poinciana-golf-club-15.svg",
         "cypress-at-royal-poinciana-golf-club-16.svg",
+        "cypress-at-royal-poinciana-golf-club-17.svg",
         "cypress-at-royal-poinciana-golf-club-18.svg"
       ],
-      "bytes": 65307,
+      "bytes": 84550,
       "lat": 26.196523,
       "lng": -81.779581
     },
@@ -6509,14 +6613,16 @@
         "#5": 4119,
         "#6": 3416
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/cypress-lakes-golf-club",
       "files": [
         "course.json",
+        "cypress-lakes-golf-club-01.svg",
         "cypress-lakes-golf-club-02.svg",
         "cypress-lakes-golf-club-03.svg",
         "cypress-lakes-golf-club-04.svg",
         "cypress-lakes-golf-club-05.svg",
+        "cypress-lakes-golf-club-06.svg",
         "cypress-lakes-golf-club-07.svg",
         "cypress-lakes-golf-club-08.svg",
         "cypress-lakes-golf-club-09.svg",
@@ -6524,11 +6630,13 @@
         "cypress-lakes-golf-club-11.svg",
         "cypress-lakes-golf-club-12.svg",
         "cypress-lakes-golf-club-13.svg",
+        "cypress-lakes-golf-club-14.svg",
+        "cypress-lakes-golf-club-15.svg",
         "cypress-lakes-golf-club-16.svg",
         "cypress-lakes-golf-club-17.svg",
         "cypress-lakes-golf-club-18.svg"
       ],
-      "bytes": 46422,
+      "bytes": 58630,
       "lat": 30.579174,
       "lng": -87.271713
     },
@@ -6937,26 +7045,30 @@
         "White": 5504,
         "Red": 4703
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/deercreek-country-club",
       "files": [
         "course.json",
         "deercreek-country-club-01.svg",
         "deercreek-country-club-02.svg",
+        "deercreek-country-club-03.svg",
         "deercreek-country-club-04.svg",
         "deercreek-country-club-05.svg",
         "deercreek-country-club-06.svg",
         "deercreek-country-club-07.svg",
         "deercreek-country-club-08.svg",
+        "deercreek-country-club-09.svg",
         "deercreek-country-club-10.svg",
         "deercreek-country-club-11.svg",
+        "deercreek-country-club-12.svg",
         "deercreek-country-club-13.svg",
         "deercreek-country-club-14.svg",
         "deercreek-country-club-15.svg",
         "deercreek-country-club-16.svg",
+        "deercreek-country-club-17.svg",
         "deercreek-country-club-18.svg"
       ],
-      "bytes": 66680,
+      "bytes": 85746,
       "lat": 30.18594,
       "lng": -81.538282
     },
@@ -6984,7 +7096,7 @@
         "Green": 5152,
         "Red": 4512
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/deering-bay-yacht-country-club",
       "files": [
         "course.json",
@@ -7003,10 +7115,11 @@
         "deering-bay-yacht-country-club-13.svg",
         "deering-bay-yacht-country-club-14.svg",
         "deering-bay-yacht-country-club-15.svg",
+        "deering-bay-yacht-country-club-16.svg",
         "deering-bay-yacht-country-club-17.svg",
         "deering-bay-yacht-country-club-18.svg"
       ],
-      "bytes": 58352,
+      "bytes": 60779,
       "lat": 25.6375,
       "lng": -80.291667
     },
@@ -7034,19 +7147,30 @@
         "Red": 4852,
         "Green": 3997
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/delaire-country-club-hills-woods",
       "files": [
         "course.json",
         "delaire-country-club-hills-woods-01.svg",
+        "delaire-country-club-hills-woods-02.svg",
         "delaire-country-club-hills-woods-03.svg",
         "delaire-country-club-hills-woods-04.svg",
         "delaire-country-club-hills-woods-05.svg",
         "delaire-country-club-hills-woods-06.svg",
         "delaire-country-club-hills-woods-07.svg",
-        "delaire-country-club-hills-woods-08.svg"
+        "delaire-country-club-hills-woods-08.svg",
+        "delaire-country-club-hills-woods-09.svg",
+        "delaire-country-club-hills-woods-10.svg",
+        "delaire-country-club-hills-woods-11.svg",
+        "delaire-country-club-hills-woods-12.svg",
+        "delaire-country-club-hills-woods-13.svg",
+        "delaire-country-club-hills-woods-14.svg",
+        "delaire-country-club-hills-woods-15.svg",
+        "delaire-country-club-hills-woods-16.svg",
+        "delaire-country-club-hills-woods-17.svg",
+        "delaire-country-club-hills-woods-18.svg"
       ],
-      "bytes": 37339,
+      "bytes": 87246,
       "lat": 26.428566,
       "lng": -80.115203
     },
@@ -7125,19 +7249,30 @@
         "Red": 4937,
         "Green": 4039
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/delaire-country-club-woods-lakes",
       "files": [
         "course.json",
+        "delaire-country-club-woods-lakes-01.svg",
         "delaire-country-club-woods-lakes-02.svg",
         "delaire-country-club-woods-lakes-03.svg",
         "delaire-country-club-woods-lakes-04.svg",
+        "delaire-country-club-woods-lakes-05.svg",
         "delaire-country-club-woods-lakes-06.svg",
         "delaire-country-club-woods-lakes-07.svg",
         "delaire-country-club-woods-lakes-08.svg",
-        "delaire-country-club-woods-lakes-09.svg"
+        "delaire-country-club-woods-lakes-09.svg",
+        "delaire-country-club-woods-lakes-10.svg",
+        "delaire-country-club-woods-lakes-11.svg",
+        "delaire-country-club-woods-lakes-12.svg",
+        "delaire-country-club-woods-lakes-13.svg",
+        "delaire-country-club-woods-lakes-14.svg",
+        "delaire-country-club-woods-lakes-15.svg",
+        "delaire-country-club-woods-lakes-16.svg",
+        "delaire-country-club-woods-lakes-17.svg",
+        "delaire-country-club-woods-lakes-18.svg"
       ],
-      "bytes": 36583,
+      "bytes": 88247,
       "lat": 26.428566,
       "lng": -80.115203
     },
@@ -7311,21 +7446,27 @@
         "White": 6574,
         "Red": 5200
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/disneys-magnolia-golf-course",
       "files": [
         "course.json",
         "disneys-magnolia-golf-course-01.svg",
+        "disneys-magnolia-golf-course-02.svg",
         "disneys-magnolia-golf-course-03.svg",
         "disneys-magnolia-golf-course-04.svg",
         "disneys-magnolia-golf-course-05.svg",
         "disneys-magnolia-golf-course-06.svg",
         "disneys-magnolia-golf-course-07.svg",
         "disneys-magnolia-golf-course-08.svg",
-        "disneys-magnolia-golf-course-15.svg",
+        "disneys-magnolia-golf-course-09.svg",
+        "disneys-magnolia-golf-course-10.svg",
+        "disneys-magnolia-golf-course-11.svg",
+        "disneys-magnolia-golf-course-12.svg",
+        "disneys-magnolia-golf-course-13.svg",
+        "disneys-magnolia-golf-course-16.svg",
         "disneys-magnolia-golf-course-18.svg"
       ],
-      "bytes": 48215,
+      "bytes": 89157,
       "lat": 28.40357,
       "lng": -81.592402
     },
@@ -7544,12 +7685,30 @@
         "Green": 5068,
         "Red": 4907
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/dunes-at-sandridge-golf-club",
       "files": [
-        "course.json"
+        "course.json",
+        "dunes-at-sandridge-golf-club-01.svg",
+        "dunes-at-sandridge-golf-club-02.svg",
+        "dunes-at-sandridge-golf-club-03.svg",
+        "dunes-at-sandridge-golf-club-04.svg",
+        "dunes-at-sandridge-golf-club-05.svg",
+        "dunes-at-sandridge-golf-club-06.svg",
+        "dunes-at-sandridge-golf-club-07.svg",
+        "dunes-at-sandridge-golf-club-08.svg",
+        "dunes-at-sandridge-golf-club-09.svg",
+        "dunes-at-sandridge-golf-club-10.svg",
+        "dunes-at-sandridge-golf-club-11.svg",
+        "dunes-at-sandridge-golf-club-12.svg",
+        "dunes-at-sandridge-golf-club-13.svg",
+        "dunes-at-sandridge-golf-club-14.svg",
+        "dunes-at-sandridge-golf-club-15.svg",
+        "dunes-at-sandridge-golf-club-16.svg",
+        "dunes-at-sandridge-golf-club-17.svg",
+        "dunes-at-sandridge-golf-club-18.svg"
       ],
-      "bytes": 3886,
+      "bytes": 101214,
       "lat": 27.727447,
       "lng": -80.439966
     },
@@ -8121,7 +8280,7 @@
         "Combo Yellow": 4947,
         "Red": 4673
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/east-at-laurel-oak-country-club",
       "files": [
         "course.json",
@@ -8129,11 +8288,13 @@
         "east-at-laurel-oak-country-club-02.svg",
         "east-at-laurel-oak-country-club-03.svg",
         "east-at-laurel-oak-country-club-04.svg",
+        "east-at-laurel-oak-country-club-05.svg",
+        "east-at-laurel-oak-country-club-06.svg",
         "east-at-laurel-oak-country-club-07.svg",
         "east-at-laurel-oak-country-club-08.svg",
         "east-at-laurel-oak-country-club-09.svg"
       ],
-      "bytes": 52120,
+      "bytes": 63834,
       "lat": 27.307638,
       "lng": -82.416268
     },
@@ -8153,10 +8314,11 @@
         "Blue": 6051,
         "White": 5795
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/east-at-orangebrook-country-club",
       "files": [
         "course.json",
+        "east-at-orangebrook-country-club-01.svg",
         "east-at-orangebrook-country-club-02.svg",
         "east-at-orangebrook-country-club-03.svg",
         "east-at-orangebrook-country-club-04.svg",
@@ -8175,7 +8337,7 @@
         "east-at-orangebrook-country-club-17.svg",
         "east-at-orangebrook-country-club-18.svg"
       ],
-      "bytes": 57292,
+      "bytes": 59479,
       "lat": 26.006221,
       "lng": -80.173772
     },
@@ -8207,7 +8369,7 @@
         "Orange": 5338,
         "Green": 5062
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/east-at-wycliffe-country-club",
       "files": [
         "course.json",
@@ -8217,6 +8379,7 @@
         "east-at-wycliffe-country-club-04.svg",
         "east-at-wycliffe-country-club-05.svg",
         "east-at-wycliffe-country-club-06.svg",
+        "east-at-wycliffe-country-club-07.svg",
         "east-at-wycliffe-country-club-08.svg",
         "east-at-wycliffe-country-club-09.svg",
         "east-at-wycliffe-country-club-10.svg",
@@ -8228,7 +8391,7 @@
         "east-at-wycliffe-country-club-16.svg",
         "east-at-wycliffe-country-club-17.svg"
       ],
-      "bytes": 61430,
+      "bytes": 65025,
       "lat": 26.611487,
       "lng": -80.211825
     },
@@ -8295,7 +8458,7 @@
         "Gold": 5333,
         "Silver": 4717
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/east-course-at-belleair-country-club",
       "files": [
         "course.json",
@@ -8306,6 +8469,8 @@
         "east-course-at-belleair-country-club-05.svg",
         "east-course-at-belleair-country-club-06.svg",
         "east-course-at-belleair-country-club-07.svg",
+        "east-course-at-belleair-country-club-08.svg",
+        "east-course-at-belleair-country-club-09.svg",
         "east-course-at-belleair-country-club-10.svg",
         "east-course-at-belleair-country-club-11.svg",
         "east-course-at-belleair-country-club-12.svg",
@@ -8316,7 +8481,7 @@
         "east-course-at-belleair-country-club-17.svg",
         "east-course-at-belleair-country-club-18.svg"
       ],
-      "bytes": 117958,
+      "bytes": 129731,
       "lat": 27.94241,
       "lng": -82.808473
     },
@@ -8390,7 +8555,7 @@
         "White": 6153,
         "Gold": 5436
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/eastwood-golf-course",
       "files": [
         "course.json",
@@ -8402,6 +8567,7 @@
         "eastwood-golf-course-06.svg",
         "eastwood-golf-course-07.svg",
         "eastwood-golf-course-08.svg",
+        "eastwood-golf-course-09.svg",
         "eastwood-golf-course-10.svg",
         "eastwood-golf-course-11.svg",
         "eastwood-golf-course-12.svg",
@@ -8412,7 +8578,7 @@
         "eastwood-golf-course-17.svg",
         "eastwood-golf-course-18.svg"
       ],
-      "bytes": 135336,
+      "bytes": 144598,
       "lat": 26.618872,
       "lng": -81.82107
     },
@@ -8771,7 +8937,7 @@
         "Green": 4799,
         "Friendly": 3801
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/erinn-ashley-at-nancy-lopez-legacy-golf-country-club",
       "files": [
         "course.json",
@@ -8783,9 +8949,18 @@
         "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-06.svg",
         "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-07.svg",
         "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-08.svg",
-        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-09.svg"
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-09.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-10.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-11.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-12.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-13.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-14.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-15.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-16.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-17.svg",
+        "erinn-ashley-at-nancy-lopez-legacy-golf-country-club-18.svg"
       ],
-      "bytes": 42870,
+      "bytes": 80113,
       "lat": 28.973091,
       "lng": -82.014098
     },
@@ -8887,26 +9062,30 @@
         "Copper/Jade": 5128,
         "Jade": 4739
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/esplanade-golf-and-country-club-of-naples",
       "files": [
         "course.json",
+        "esplanade-golf-and-country-club-of-naples-01.svg",
         "esplanade-golf-and-country-club-of-naples-02.svg",
         "esplanade-golf-and-country-club-of-naples-03.svg",
         "esplanade-golf-and-country-club-of-naples-04.svg",
+        "esplanade-golf-and-country-club-of-naples-05.svg",
         "esplanade-golf-and-country-club-of-naples-06.svg",
         "esplanade-golf-and-country-club-of-naples-07.svg",
         "esplanade-golf-and-country-club-of-naples-08.svg",
         "esplanade-golf-and-country-club-of-naples-09.svg",
+        "esplanade-golf-and-country-club-of-naples-10.svg",
         "esplanade-golf-and-country-club-of-naples-11.svg",
         "esplanade-golf-and-country-club-of-naples-12.svg",
         "esplanade-golf-and-country-club-of-naples-13.svg",
         "esplanade-golf-and-country-club-of-naples-14.svg",
+        "esplanade-golf-and-country-club-of-naples-15.svg",
         "esplanade-golf-and-country-club-of-naples-16.svg",
         "esplanade-golf-and-country-club-of-naples-17.svg",
         "esplanade-golf-and-country-club-of-naples-18.svg"
       ],
-      "bytes": 81874,
+      "bytes": 101986,
       "lat": 26.289246,
       "lng": -81.699737
     },
@@ -9047,7 +9226,7 @@
         "Green": 4744,
         "Friendly": 3929
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/evans-prairie-country-club-egret-killdeer",
       "files": [
         "course.json",
@@ -9059,9 +9238,18 @@
         "evans-prairie-country-club-egret-killdeer-06.svg",
         "evans-prairie-country-club-egret-killdeer-07.svg",
         "evans-prairie-country-club-egret-killdeer-08.svg",
-        "evans-prairie-country-club-egret-killdeer-09.svg"
+        "evans-prairie-country-club-egret-killdeer-09.svg",
+        "evans-prairie-country-club-egret-killdeer-10.svg",
+        "evans-prairie-country-club-egret-killdeer-11.svg",
+        "evans-prairie-country-club-egret-killdeer-12.svg",
+        "evans-prairie-country-club-egret-killdeer-13.svg",
+        "evans-prairie-country-club-egret-killdeer-14.svg",
+        "evans-prairie-country-club-egret-killdeer-15.svg",
+        "evans-prairie-country-club-egret-killdeer-16.svg",
+        "evans-prairie-country-club-egret-killdeer-17.svg",
+        "evans-prairie-country-club-egret-killdeer-18.svg"
       ],
-      "bytes": 56612,
+      "bytes": 107377,
       "lat": 28.854436,
       "lng": -81.998303
     },
@@ -9089,7 +9277,7 @@
         "Green": 4873,
         "Friendly": 3874
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/evans-prairie-country-club-killdeer-osprey",
       "files": [
         "course.json",
@@ -9101,9 +9289,18 @@
         "evans-prairie-country-club-killdeer-osprey-06.svg",
         "evans-prairie-country-club-killdeer-osprey-07.svg",
         "evans-prairie-country-club-killdeer-osprey-08.svg",
-        "evans-prairie-country-club-killdeer-osprey-09.svg"
+        "evans-prairie-country-club-killdeer-osprey-09.svg",
+        "evans-prairie-country-club-killdeer-osprey-10.svg",
+        "evans-prairie-country-club-killdeer-osprey-11.svg",
+        "evans-prairie-country-club-killdeer-osprey-12.svg",
+        "evans-prairie-country-club-killdeer-osprey-13.svg",
+        "evans-prairie-country-club-killdeer-osprey-14.svg",
+        "evans-prairie-country-club-killdeer-osprey-15.svg",
+        "evans-prairie-country-club-killdeer-osprey-16.svg",
+        "evans-prairie-country-club-killdeer-osprey-17.svg",
+        "evans-prairie-country-club-killdeer-osprey-18.svg"
       ],
-      "bytes": 55562,
+      "bytes": 103782,
       "lat": 28.854436,
       "lng": -81.998303
     },
@@ -9129,7 +9326,7 @@
         "Green": 4761,
         "Friendly": 3787
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/evans-prairie-country-club-osprey-egret",
       "files": [
         "course.json",
@@ -9141,9 +9338,18 @@
         "evans-prairie-country-club-osprey-egret-06.svg",
         "evans-prairie-country-club-osprey-egret-07.svg",
         "evans-prairie-country-club-osprey-egret-08.svg",
-        "evans-prairie-country-club-osprey-egret-09.svg"
+        "evans-prairie-country-club-osprey-egret-09.svg",
+        "evans-prairie-country-club-osprey-egret-10.svg",
+        "evans-prairie-country-club-osprey-egret-11.svg",
+        "evans-prairie-country-club-osprey-egret-12.svg",
+        "evans-prairie-country-club-osprey-egret-13.svg",
+        "evans-prairie-country-club-osprey-egret-14.svg",
+        "evans-prairie-country-club-osprey-egret-15.svg",
+        "evans-prairie-country-club-osprey-egret-16.svg",
+        "evans-prairie-country-club-osprey-egret-17.svg",
+        "evans-prairie-country-club-osprey-egret-18.svg"
       ],
-      "bytes": 52606,
+      "bytes": 104786,
       "lat": 28.854436,
       "lng": -81.998303
     },
@@ -9392,12 +9598,30 @@
         "White": 6173,
         "Red": 4690
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/first-second-at-lake-venice-golf-club",
       "files": [
-        "course.json"
+        "course.json",
+        "first-second-at-lake-venice-golf-club-01.svg",
+        "first-second-at-lake-venice-golf-club-02.svg",
+        "first-second-at-lake-venice-golf-club-03.svg",
+        "first-second-at-lake-venice-golf-club-04.svg",
+        "first-second-at-lake-venice-golf-club-05.svg",
+        "first-second-at-lake-venice-golf-club-06.svg",
+        "first-second-at-lake-venice-golf-club-07.svg",
+        "first-second-at-lake-venice-golf-club-08.svg",
+        "first-second-at-lake-venice-golf-club-09.svg",
+        "first-second-at-lake-venice-golf-club-10.svg",
+        "first-second-at-lake-venice-golf-club-11.svg",
+        "first-second-at-lake-venice-golf-club-12.svg",
+        "first-second-at-lake-venice-golf-club-13.svg",
+        "first-second-at-lake-venice-golf-club-14.svg",
+        "first-second-at-lake-venice-golf-club-15.svg",
+        "first-second-at-lake-venice-golf-club-16.svg",
+        "first-second-at-lake-venice-golf-club-17.svg",
+        "first-second-at-lake-venice-golf-club-18.svg"
       ],
-      "bytes": 3103,
+      "bytes": 66890,
       "lat": 27.064481,
       "lng": -82.445978
     },
@@ -9421,12 +9645,19 @@
         "White": 2376,
         "Red": 2174
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/fisher-island-club",
       "files": [
-        "course.json"
+        "course.json",
+        "fisher-island-club-01.svg",
+        "fisher-island-club-02.svg",
+        "fisher-island-club-03.svg",
+        "fisher-island-club-04.svg",
+        "fisher-island-club-05.svg",
+        "fisher-island-club-08.svg",
+        "fisher-island-club-09.svg"
       ],
-      "bytes": 2055,
+      "bytes": 38007,
       "lat": 25.76349,
       "lng": -80.138802
     },
@@ -9619,12 +9850,13 @@
         "White": 5308,
         "Red": 4367
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/forest-oaks-golf-club",
       "files": [
         "course.json",
         "forest-oaks-golf-club-01.svg",
         "forest-oaks-golf-club-02.svg",
+        "forest-oaks-golf-club-03.svg",
         "forest-oaks-golf-club-04.svg",
         "forest-oaks-golf-club-05.svg",
         "forest-oaks-golf-club-06.svg",
@@ -9641,7 +9873,7 @@
         "forest-oaks-golf-club-17.svg",
         "forest-oaks-golf-club-18.svg"
       ],
-      "bytes": 51553,
+      "bytes": 54801,
       "lat": 26.610455,
       "lng": -80.162363
     },
@@ -9673,13 +9905,15 @@
         "Middle/Forward": 5171,
         "Forward": 4803
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/fort-lauderdale-country-club-north-course",
       "files": [
         "course.json",
         "fort-lauderdale-country-club-north-course-01.svg",
         "fort-lauderdale-country-club-north-course-02.svg",
         "fort-lauderdale-country-club-north-course-03.svg",
+        "fort-lauderdale-country-club-north-course-04.svg",
+        "fort-lauderdale-country-club-north-course-05.svg",
         "fort-lauderdale-country-club-north-course-06.svg",
         "fort-lauderdale-country-club-north-course-07.svg",
         "fort-lauderdale-country-club-north-course-08.svg",
@@ -9694,7 +9928,7 @@
         "fort-lauderdale-country-club-north-course-17.svg",
         "fort-lauderdale-country-club-north-course-18.svg"
       ],
-      "bytes": 53231,
+      "bytes": 58879,
       "lat": 26.11506,
       "lng": -80.20788
     },
@@ -10005,7 +10239,7 @@
         "White": 5600,
         "Red": 4873
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/gasparilla-inn-golf-course",
       "files": [
         "course.json",
@@ -10014,6 +10248,7 @@
         "gasparilla-inn-golf-course-03.svg",
         "gasparilla-inn-golf-course-04.svg",
         "gasparilla-inn-golf-course-05.svg",
+        "gasparilla-inn-golf-course-06.svg",
         "gasparilla-inn-golf-course-07.svg",
         "gasparilla-inn-golf-course-08.svg",
         "gasparilla-inn-golf-course-09.svg",
@@ -10027,7 +10262,7 @@
         "gasparilla-inn-golf-course-17.svg",
         "gasparilla-inn-golf-course-18.svg"
       ],
-      "bytes": 160080,
+      "bytes": 164584,
       "lat": 26.755841,
       "lng": -82.256909
     },
@@ -10874,7 +11109,7 @@
         "Red": 4579,
         "Green": 4182
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/great-outdoors-rv-golf-resort",
       "files": [
         "course.json",
@@ -10889,13 +11124,15 @@
         "great-outdoors-rv-golf-resort-09.svg",
         "great-outdoors-rv-golf-resort-10.svg",
         "great-outdoors-rv-golf-resort-11.svg",
+        "great-outdoors-rv-golf-resort-12.svg",
         "great-outdoors-rv-golf-resort-13.svg",
+        "great-outdoors-rv-golf-resort-14.svg",
         "great-outdoors-rv-golf-resort-15.svg",
         "great-outdoors-rv-golf-resort-16.svg",
         "great-outdoors-rv-golf-resort-17.svg",
         "great-outdoors-rv-golf-resort-18.svg"
       ],
-      "bytes": 81766,
+      "bytes": 96721,
       "lat": 28.52474,
       "lng": -80.864
     },
@@ -10917,7 +11154,7 @@
         "Gold": 5349,
         "Red": 5059
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/green-valley-country-club",
       "files": [
         "course.json",
@@ -10926,9 +11163,11 @@
         "green-valley-country-club-03.svg",
         "green-valley-country-club-04.svg",
         "green-valley-country-club-05.svg",
+        "green-valley-country-club-06.svg",
         "green-valley-country-club-07.svg",
         "green-valley-country-club-08.svg",
         "green-valley-country-club-09.svg",
+        "green-valley-country-club-10.svg",
         "green-valley-country-club-11.svg",
         "green-valley-country-club-12.svg",
         "green-valley-country-club-13.svg",
@@ -10938,7 +11177,7 @@
         "green-valley-country-club-17.svg",
         "green-valley-country-club-18.svg"
       ],
-      "bytes": 80122,
+      "bytes": 91546,
       "lat": 28.561647,
       "lng": -81.814429
     },
@@ -11013,11 +11252,12 @@
         "IV": 5470,
         "V": 4870
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/grey-oaks-country-club-estuary-golf-course",
       "files": [
         "course.json",
         "grey-oaks-country-club-estuary-golf-course-01.svg",
+        "grey-oaks-country-club-estuary-golf-course-02.svg",
         "grey-oaks-country-club-estuary-golf-course-03.svg",
         "grey-oaks-country-club-estuary-golf-course-04.svg",
         "grey-oaks-country-club-estuary-golf-course-05.svg",
@@ -11032,9 +11272,10 @@
         "grey-oaks-country-club-estuary-golf-course-14.svg",
         "grey-oaks-country-club-estuary-golf-course-15.svg",
         "grey-oaks-country-club-estuary-golf-course-16.svg",
+        "grey-oaks-country-club-estuary-golf-course-17.svg",
         "grey-oaks-country-club-estuary-golf-course-18.svg"
       ],
-      "bytes": 100365,
+      "bytes": 112115,
       "lat": 26.188596,
       "lng": -81.759719
     },
@@ -11111,7 +11352,7 @@
         "IV": 5564,
         "V": 4991
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/grey-oaks-country-club-pine-golf-course",
       "files": [
         "course.json",
@@ -11127,9 +11368,14 @@
         "grey-oaks-country-club-pine-golf-course-10.svg",
         "grey-oaks-country-club-pine-golf-course-11.svg",
         "grey-oaks-country-club-pine-golf-course-12.svg",
-        "grey-oaks-country-club-pine-golf-course-13.svg"
+        "grey-oaks-country-club-pine-golf-course-13.svg",
+        "grey-oaks-country-club-pine-golf-course-14.svg",
+        "grey-oaks-country-club-pine-golf-course-15.svg",
+        "grey-oaks-country-club-pine-golf-course-16.svg",
+        "grey-oaks-country-club-pine-golf-course-17.svg",
+        "grey-oaks-country-club-pine-golf-course-18.svg"
       ],
-      "bytes": 68578,
+      "bytes": 95696,
       "lat": 26.188596,
       "lng": -81.759719
     },
@@ -11139,14 +11385,18 @@
       "town": "North Miami Beach, FL",
       "holes": 9,
       "par": 36,
-      "tees": [],
-      "yards": {},
-      "version": 1,
+      "tees": [
+        "Blue"
+      ],
+      "yards": {
+        "Blue": 3090
+      },
+      "version": 2,
       "folder": "courses/greynolds-golf-course",
       "files": [
         "course.json"
       ],
-      "bytes": 1001,
+      "bytes": 1069,
       "lat": 25.939453,
       "lng": -80.156891
     },
@@ -11783,7 +12033,7 @@
         "Green": 4961,
         "Friendly": 3797
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/hemingway-kilimanjaro-at-havana-country-club",
       "files": [
         "course.json",
@@ -11795,9 +12045,18 @@
         "hemingway-kilimanjaro-at-havana-country-club-06.svg",
         "hemingway-kilimanjaro-at-havana-country-club-07.svg",
         "hemingway-kilimanjaro-at-havana-country-club-08.svg",
-        "hemingway-kilimanjaro-at-havana-country-club-09.svg"
+        "hemingway-kilimanjaro-at-havana-country-club-09.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-10.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-11.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-12.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-13.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-14.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-15.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-16.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-17.svg",
+        "hemingway-kilimanjaro-at-havana-country-club-18.svg"
       ],
-      "bytes": 44266,
+      "bytes": 89661,
       "lat": 28.87093,
       "lng": -81.965756
     },
@@ -11859,12 +12118,21 @@
         "Green": 2788,
         "Red": 2439
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/heritage-bay-golf-and-country-club-oak-course",
       "files": [
-        "course.json"
+        "course.json",
+        "heritage-bay-golf-and-country-club-oak-course-01.svg",
+        "heritage-bay-golf-and-country-club-oak-course-02.svg",
+        "heritage-bay-golf-and-country-club-oak-course-03.svg",
+        "heritage-bay-golf-and-country-club-oak-course-04.svg",
+        "heritage-bay-golf-and-country-club-oak-course-05.svg",
+        "heritage-bay-golf-and-country-club-oak-course-06.svg",
+        "heritage-bay-golf-and-country-club-oak-course-07.svg",
+        "heritage-bay-golf-and-country-club-oak-course-08.svg",
+        "heritage-bay-golf-and-country-club-oak-course-09.svg"
       ],
-      "bytes": 2108,
+      "bytes": 53163,
       "lat": 26.284704,
       "lng": -81.662287
     },
@@ -11888,12 +12156,20 @@
         "Green": 2668,
         "Red": 2322
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/heritage-bay-golf-and-country-club-pine-course",
       "files": [
-        "course.json"
+        "course.json",
+        "heritage-bay-golf-and-country-club-pine-course-01.svg",
+        "heritage-bay-golf-and-country-club-pine-course-02.svg",
+        "heritage-bay-golf-and-country-club-pine-course-03.svg",
+        "heritage-bay-golf-and-country-club-pine-course-04.svg",
+        "heritage-bay-golf-and-country-club-pine-course-05.svg",
+        "heritage-bay-golf-and-country-club-pine-course-07.svg",
+        "heritage-bay-golf-and-country-club-pine-course-08.svg",
+        "heritage-bay-golf-and-country-club-pine-course-09.svg"
       ],
-      "bytes": 2110,
+      "bytes": 61069,
       "lat": 26.284704,
       "lng": -81.662287
     },
@@ -12133,12 +12409,23 @@
         "White": 5470,
         "Green": 4848
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/heron-eagle-at-okeeheelee-golf-course",
       "files": [
-        "course.json"
+        "course.json",
+        "heron-eagle-at-okeeheelee-golf-course-01.svg",
+        "heron-eagle-at-okeeheelee-golf-course-02.svg",
+        "heron-eagle-at-okeeheelee-golf-course-03.svg",
+        "heron-eagle-at-okeeheelee-golf-course-04.svg",
+        "heron-eagle-at-okeeheelee-golf-course-05.svg",
+        "heron-eagle-at-okeeheelee-golf-course-06.svg",
+        "heron-eagle-at-okeeheelee-golf-course-07.svg",
+        "heron-eagle-at-okeeheelee-golf-course-08.svg",
+        "heron-eagle-at-okeeheelee-golf-course-09.svg",
+        "heron-eagle-at-okeeheelee-golf-course-15.svg",
+        "heron-eagle-at-okeeheelee-golf-course-16.svg"
       ],
-      "bytes": 3945,
+      "bytes": 49505,
       "lat": 26.656964,
       "lng": -80.156129
     },
@@ -12348,20 +12635,12 @@
       "par": 27,
       "tees": [],
       "yards": {},
-      "version": 5,
+      "version": 6,
       "folder": "courses/high-point-country-club",
       "files": [
-        "course.json",
-        "high-point-country-club-01.svg",
-        "high-point-country-club-02.svg",
-        "high-point-country-club-03.svg",
-        "high-point-country-club-04.svg",
-        "high-point-country-club-05.svg",
-        "high-point-country-club-06.svg",
-        "high-point-country-club-07.svg",
-        "high-point-country-club-08.svg"
+        "course.json"
       ],
-      "bytes": 31700,
+      "bytes": 993,
       "lat": 26.18613,
       "lng": -81.797147
     },
@@ -12535,7 +12814,7 @@
         "Green": 5560,
         "Red": 5232
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/hills-at-jupiter-hills-club",
       "files": [
         "course.json",
@@ -12543,17 +12822,22 @@
         "hills-at-jupiter-hills-club-02.svg",
         "hills-at-jupiter-hills-club-03.svg",
         "hills-at-jupiter-hills-club-04.svg",
+        "hills-at-jupiter-hills-club-05.svg",
         "hills-at-jupiter-hills-club-06.svg",
         "hills-at-jupiter-hills-club-07.svg",
         "hills-at-jupiter-hills-club-08.svg",
+        "hills-at-jupiter-hills-club-09.svg",
         "hills-at-jupiter-hills-club-10.svg",
         "hills-at-jupiter-hills-club-11.svg",
+        "hills-at-jupiter-hills-club-12.svg",
         "hills-at-jupiter-hills-club-13.svg",
+        "hills-at-jupiter-hills-club-14.svg",
         "hills-at-jupiter-hills-club-15.svg",
         "hills-at-jupiter-hills-club-16.svg",
-        "hills-at-jupiter-hills-club-17.svg"
+        "hills-at-jupiter-hills-club-17.svg",
+        "hills-at-jupiter-hills-club-18.svg"
       ],
-      "bytes": 68449,
+      "bytes": 97130,
       "lat": 26.988476,
       "lng": -80.095535
     },
@@ -12635,12 +12919,19 @@
         "Gold": 1400,
         "Green": 997
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/honeysuckle-at-the-villages-executive-golf-trail",
       "files": [
-        "course.json"
+        "course.json",
+        "honeysuckle-at-the-villages-executive-golf-trail-01.svg",
+        "honeysuckle-at-the-villages-executive-golf-trail-02.svg",
+        "honeysuckle-at-the-villages-executive-golf-trail-03.svg",
+        "honeysuckle-at-the-villages-executive-golf-trail-04.svg",
+        "honeysuckle-at-the-villages-executive-golf-trail-05.svg",
+        "honeysuckle-at-the-villages-executive-golf-trail-08.svg",
+        "honeysuckle-at-the-villages-executive-golf-trail-09.svg"
       ],
-      "bytes": 1916,
+      "bytes": 28346,
       "lat": 28.971125,
       "lng": -82.029636
     },
@@ -12939,12 +13230,29 @@
         "Red": 4357,
         "Green": 3444
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/indian-river-colony-club",
       "files": [
-        "course.json"
+        "course.json",
+        "indian-river-colony-club-01.svg",
+        "indian-river-colony-club-02.svg",
+        "indian-river-colony-club-03.svg",
+        "indian-river-colony-club-04.svg",
+        "indian-river-colony-club-05.svg",
+        "indian-river-colony-club-06.svg",
+        "indian-river-colony-club-07.svg",
+        "indian-river-colony-club-08.svg",
+        "indian-river-colony-club-09.svg",
+        "indian-river-colony-club-10.svg",
+        "indian-river-colony-club-11.svg",
+        "indian-river-colony-club-12.svg",
+        "indian-river-colony-club-13.svg",
+        "indian-river-colony-club-14.svg",
+        "indian-river-colony-club-15.svg",
+        "indian-river-colony-club-17.svg",
+        "indian-river-colony-club-18.svg"
       ],
-      "bytes": 3892,
+      "bytes": 106578,
       "lat": 28.25037,
       "lng": -80.710393
     },
@@ -13257,12 +13565,30 @@
         "White": 5900,
         "Red": 4975
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/innisbrook-resort-golf-club-south-course",
       "files": [
-        "course.json"
+        "course.json",
+        "innisbrook-resort-golf-club-south-course-01.svg",
+        "innisbrook-resort-golf-club-south-course-02.svg",
+        "innisbrook-resort-golf-club-south-course-03.svg",
+        "innisbrook-resort-golf-club-south-course-04.svg",
+        "innisbrook-resort-golf-club-south-course-05.svg",
+        "innisbrook-resort-golf-club-south-course-06.svg",
+        "innisbrook-resort-golf-club-south-course-07.svg",
+        "innisbrook-resort-golf-club-south-course-08.svg",
+        "innisbrook-resort-golf-club-south-course-09.svg",
+        "innisbrook-resort-golf-club-south-course-10.svg",
+        "innisbrook-resort-golf-club-south-course-11.svg",
+        "innisbrook-resort-golf-club-south-course-12.svg",
+        "innisbrook-resort-golf-club-south-course-13.svg",
+        "innisbrook-resort-golf-club-south-course-14.svg",
+        "innisbrook-resort-golf-club-south-course-15.svg",
+        "innisbrook-resort-golf-club-south-course-16.svg",
+        "innisbrook-resort-golf-club-south-course-17.svg",
+        "innisbrook-resort-golf-club-south-course-18.svg"
       ],
-      "bytes": 3541,
+      "bytes": 77701,
       "lat": 28.112316,
       "lng": -82.756941
     },
@@ -13759,7 +14085,7 @@
         "Green": 5077,
         "Red": 2801
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/julington-creek-golf-club",
       "files": [
         "course.json",
@@ -13771,15 +14097,18 @@
         "julington-creek-golf-club-06.svg",
         "julington-creek-golf-club-07.svg",
         "julington-creek-golf-club-08.svg",
+        "julington-creek-golf-club-09.svg",
         "julington-creek-golf-club-10.svg",
         "julington-creek-golf-club-11.svg",
         "julington-creek-golf-club-12.svg",
+        "julington-creek-golf-club-13.svg",
         "julington-creek-golf-club-14.svg",
+        "julington-creek-golf-club-15.svg",
         "julington-creek-golf-club-16.svg",
         "julington-creek-golf-club-17.svg",
         "julington-creek-golf-club-18.svg"
       ],
-      "bytes": 69528,
+      "bytes": 82524,
       "lat": 30.11172,
       "lng": -81.608833
     },
@@ -13803,13 +14132,16 @@
         "White": 5831,
         "Red": 5289
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/jupiter-country-club",
       "files": [
         "course.json",
         "jupiter-country-club-01.svg",
         "jupiter-country-club-02.svg",
+        "jupiter-country-club-03.svg",
         "jupiter-country-club-04.svg",
+        "jupiter-country-club-05.svg",
+        "jupiter-country-club-06.svg",
         "jupiter-country-club-07.svg",
         "jupiter-country-club-08.svg",
         "jupiter-country-club-09.svg",
@@ -13820,9 +14152,10 @@
         "jupiter-country-club-14.svg",
         "jupiter-country-club-15.svg",
         "jupiter-country-club-16.svg",
+        "jupiter-country-club-17.svg",
         "jupiter-country-club-18.svg"
       ],
-      "bytes": 98231,
+      "bytes": 120643,
       "lat": 26.939777,
       "lng": -80.161515
     },
@@ -13892,12 +14225,30 @@
         "Sterling": 5436,
         "Magnolia": 4989
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/kelly-plantation-golf-club",
       "files": [
-        "course.json"
+        "course.json",
+        "kelly-plantation-golf-club-01.svg",
+        "kelly-plantation-golf-club-02.svg",
+        "kelly-plantation-golf-club-03.svg",
+        "kelly-plantation-golf-club-04.svg",
+        "kelly-plantation-golf-club-05.svg",
+        "kelly-plantation-golf-club-06.svg",
+        "kelly-plantation-golf-club-07.svg",
+        "kelly-plantation-golf-club-08.svg",
+        "kelly-plantation-golf-club-09.svg",
+        "kelly-plantation-golf-club-10.svg",
+        "kelly-plantation-golf-club-11.svg",
+        "kelly-plantation-golf-club-12.svg",
+        "kelly-plantation-golf-club-13.svg",
+        "kelly-plantation-golf-club-14.svg",
+        "kelly-plantation-golf-club-15.svg",
+        "kelly-plantation-golf-club-16.svg",
+        "kelly-plantation-golf-club-17.svg",
+        "kelly-plantation-golf-club-18.svg"
       ],
-      "bytes": 5457,
+      "bytes": 101978,
       "lat": 30.399941,
       "lng": -86.437958
     },
@@ -13960,19 +14311,30 @@
         "Green": 4914,
         "Friendly": 3772
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/kenya-hemingway-at-havana-country-club",
       "files": [
         "course.json",
         "kenya-hemingway-at-havana-country-club-01.svg",
         "kenya-hemingway-at-havana-country-club-02.svg",
         "kenya-hemingway-at-havana-country-club-03.svg",
+        "kenya-hemingway-at-havana-country-club-04.svg",
         "kenya-hemingway-at-havana-country-club-05.svg",
         "kenya-hemingway-at-havana-country-club-06.svg",
+        "kenya-hemingway-at-havana-country-club-07.svg",
         "kenya-hemingway-at-havana-country-club-08.svg",
-        "kenya-hemingway-at-havana-country-club-09.svg"
+        "kenya-hemingway-at-havana-country-club-09.svg",
+        "kenya-hemingway-at-havana-country-club-10.svg",
+        "kenya-hemingway-at-havana-country-club-11.svg",
+        "kenya-hemingway-at-havana-country-club-12.svg",
+        "kenya-hemingway-at-havana-country-club-13.svg",
+        "kenya-hemingway-at-havana-country-club-14.svg",
+        "kenya-hemingway-at-havana-country-club-15.svg",
+        "kenya-hemingway-at-havana-country-club-16.svg",
+        "kenya-hemingway-at-havana-country-club-17.svg",
+        "kenya-hemingway-at-havana-country-club-18.svg"
       ],
-      "bytes": 39429,
+      "bytes": 87182,
       "lat": 28.87093,
       "lng": -81.965756
     },
@@ -14064,7 +14426,7 @@
         "Green": 4997,
         "Friendly": 3963
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/kilimanjaro-kenya-at-havana-country-club",
       "files": [
         "course.json",
@@ -14073,11 +14435,21 @@
         "kilimanjaro-kenya-at-havana-country-club-03.svg",
         "kilimanjaro-kenya-at-havana-country-club-04.svg",
         "kilimanjaro-kenya-at-havana-country-club-05.svg",
+        "kilimanjaro-kenya-at-havana-country-club-06.svg",
         "kilimanjaro-kenya-at-havana-country-club-07.svg",
         "kilimanjaro-kenya-at-havana-country-club-08.svg",
-        "kilimanjaro-kenya-at-havana-country-club-09.svg"
+        "kilimanjaro-kenya-at-havana-country-club-09.svg",
+        "kilimanjaro-kenya-at-havana-country-club-10.svg",
+        "kilimanjaro-kenya-at-havana-country-club-11.svg",
+        "kilimanjaro-kenya-at-havana-country-club-12.svg",
+        "kilimanjaro-kenya-at-havana-country-club-13.svg",
+        "kilimanjaro-kenya-at-havana-country-club-14.svg",
+        "kilimanjaro-kenya-at-havana-country-club-15.svg",
+        "kilimanjaro-kenya-at-havana-country-club-16.svg",
+        "kilimanjaro-kenya-at-havana-country-club-17.svg",
+        "kilimanjaro-kenya-at-havana-country-club-18.svg"
       ],
-      "bytes": 45917,
+      "bytes": 92770,
       "lat": 28.87093,
       "lng": -81.965756
     },
@@ -14352,13 +14724,14 @@
         "Gold": 5734,
         "Red": 5180
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/la-gorce-country-club",
       "files": [
         "course.json",
         "la-gorce-country-club-01.svg",
         "la-gorce-country-club-02.svg",
         "la-gorce-country-club-03.svg",
+        "la-gorce-country-club-04.svg",
         "la-gorce-country-club-05.svg",
         "la-gorce-country-club-07.svg",
         "la-gorce-country-club-08.svg",
@@ -14373,7 +14746,7 @@
         "la-gorce-country-club-17.svg",
         "la-gorce-country-club-18.svg"
       ],
-      "bytes": 71854,
+      "bytes": 74779,
       "lat": 25.836766,
       "lng": -80.129491
     },
@@ -14630,12 +15003,30 @@
         "Green": 5784,
         "Red": 5184
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/lake-jovita-golf-country-club-north-course",
       "files": [
-        "course.json"
+        "course.json",
+        "lake-jovita-golf-country-club-north-course-01.svg",
+        "lake-jovita-golf-country-club-north-course-02.svg",
+        "lake-jovita-golf-country-club-north-course-03.svg",
+        "lake-jovita-golf-country-club-north-course-04.svg",
+        "lake-jovita-golf-country-club-north-course-05.svg",
+        "lake-jovita-golf-country-club-north-course-06.svg",
+        "lake-jovita-golf-country-club-north-course-07.svg",
+        "lake-jovita-golf-country-club-north-course-08.svg",
+        "lake-jovita-golf-country-club-north-course-09.svg",
+        "lake-jovita-golf-country-club-north-course-10.svg",
+        "lake-jovita-golf-country-club-north-course-11.svg",
+        "lake-jovita-golf-country-club-north-course-12.svg",
+        "lake-jovita-golf-country-club-north-course-13.svg",
+        "lake-jovita-golf-country-club-north-course-14.svg",
+        "lake-jovita-golf-country-club-north-course-15.svg",
+        "lake-jovita-golf-country-club-north-course-16.svg",
+        "lake-jovita-golf-country-club-north-course-17.svg",
+        "lake-jovita-golf-country-club-north-course-18.svg"
       ],
-      "bytes": 3914,
+      "bytes": 84581,
       "lat": 28.34574,
       "lng": -82.250224
     },
@@ -14858,12 +15249,30 @@
         "White/Gold": 5418,
         "Gold": 5091
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/lakes-at-boca-woods-country-club",
       "files": [
-        "course.json"
+        "course.json",
+        "lakes-at-boca-woods-country-club-01.svg",
+        "lakes-at-boca-woods-country-club-02.svg",
+        "lakes-at-boca-woods-country-club-03.svg",
+        "lakes-at-boca-woods-country-club-04.svg",
+        "lakes-at-boca-woods-country-club-05.svg",
+        "lakes-at-boca-woods-country-club-06.svg",
+        "lakes-at-boca-woods-country-club-07.svg",
+        "lakes-at-boca-woods-country-club-08.svg",
+        "lakes-at-boca-woods-country-club-09.svg",
+        "lakes-at-boca-woods-country-club-10.svg",
+        "lakes-at-boca-woods-country-club-11.svg",
+        "lakes-at-boca-woods-country-club-12.svg",
+        "lakes-at-boca-woods-country-club-13.svg",
+        "lakes-at-boca-woods-country-club-14.svg",
+        "lakes-at-boca-woods-country-club-15.svg",
+        "lakes-at-boca-woods-country-club-16.svg",
+        "lakes-at-boca-woods-country-club-17.svg",
+        "lakes-at-boca-woods-country-club-18.svg"
       ],
-      "bytes": 4029,
+      "bytes": 86919,
       "lat": 26.357042,
       "lng": -80.213572
     },
@@ -14892,7 +15301,7 @@
       "par": 72,
       "tees": [],
       "yards": {},
-      "version": 6,
+      "version": 7,
       "folder": "courses/lakes-at-quail-west-golf-country-club",
       "files": [
         "course.json",
@@ -14905,6 +15314,8 @@
         "lakes-at-quail-west-golf-country-club-07.svg",
         "lakes-at-quail-west-golf-country-club-08.svg",
         "lakes-at-quail-west-golf-country-club-09.svg",
+        "lakes-at-quail-west-golf-country-club-10.svg",
+        "lakes-at-quail-west-golf-country-club-11.svg",
         "lakes-at-quail-west-golf-country-club-12.svg",
         "lakes-at-quail-west-golf-country-club-13.svg",
         "lakes-at-quail-west-golf-country-club-14.svg",
@@ -14913,7 +15324,7 @@
         "lakes-at-quail-west-golf-country-club-17.svg",
         "lakes-at-quail-west-golf-country-club-18.svg"
       ],
-      "bytes": 65432,
+      "bytes": 74333,
       "lat": 26.316665,
       "lng": -81.736511
     },
@@ -14966,7 +15377,7 @@
         "White": 5496,
         "Red": 4985
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/lakes-dolphin-golf-course-at-cocoa-beach-country-club",
       "files": [
         "course.json",
@@ -14978,9 +15389,18 @@
         "lakes-dolphin-golf-course-at-cocoa-beach-country-club-06.svg",
         "lakes-dolphin-golf-course-at-cocoa-beach-country-club-07.svg",
         "lakes-dolphin-golf-course-at-cocoa-beach-country-club-08.svg",
-        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-09.svg"
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-09.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-10.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-11.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-12.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-13.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-14.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-15.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-16.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-17.svg",
+        "lakes-dolphin-golf-course-at-cocoa-beach-country-club-18.svg"
       ],
-      "bytes": 36241,
+      "bytes": 62413,
       "lat": 28.312838,
       "lng": -80.635595
     },
@@ -15006,12 +15426,30 @@
         "Green": 4780,
         "Friendly": 4008
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/lakes-oaks-at-hacienda-hills-golf-country-club",
       "files": [
-        "course.json"
+        "course.json",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-01.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-02.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-03.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-04.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-05.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-06.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-07.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-08.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-09.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-10.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-11.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-12.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-13.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-14.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-15.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-16.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-17.svg",
+        "lakes-oaks-at-hacienda-hills-golf-country-club-18.svg"
       ],
-      "bytes": 4388,
+      "bytes": 88626,
       "lat": 28.938814,
       "lng": -81.968252
     },
@@ -15035,7 +15473,7 @@
         "White": 5861,
         "Red": 5294
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/lakes-river-golf-course-cocoa-beach-country-club",
       "files": [
         "course.json",
@@ -15045,9 +15483,20 @@
         "lakes-river-golf-course-cocoa-beach-country-club-04.svg",
         "lakes-river-golf-course-cocoa-beach-country-club-05.svg",
         "lakes-river-golf-course-cocoa-beach-country-club-06.svg",
-        "lakes-river-golf-course-cocoa-beach-country-club-07.svg"
+        "lakes-river-golf-course-cocoa-beach-country-club-07.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-08.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-09.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-10.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-11.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-12.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-13.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-14.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-15.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-16.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-17.svg",
+        "lakes-river-golf-course-cocoa-beach-country-club-18.svg"
       ],
-      "bytes": 24323,
+      "bytes": 61675,
       "lat": 28.312838,
       "lng": -80.635595
     },
@@ -15466,12 +15915,30 @@
         "Flamingo/White-Aqua": 5515,
         "Forward/Aqua": 5313
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/lely-resort-golf-country-club-flamingo-island-course",
       "files": [
-        "course.json"
+        "course.json",
+        "lely-resort-golf-country-club-flamingo-island-course-01.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-02.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-03.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-04.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-05.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-06.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-07.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-08.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-09.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-10.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-11.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-12.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-13.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-14.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-15.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-16.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-17.svg",
+        "lely-resort-golf-country-club-flamingo-island-course-18.svg"
       ],
-      "bytes": 5575,
+      "bytes": 110136,
       "lat": 26.084833,
       "lng": -81.701092
     },
@@ -15497,7 +15964,7 @@
         "Mustang/White-Aqua": 5567,
         "Forward/Aqua": 5249
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/lely-resort-golf-country-club-mustang-course",
       "files": [
         "course.json",
@@ -15513,13 +15980,14 @@
         "lely-resort-golf-country-club-mustang-course-10.svg",
         "lely-resort-golf-country-club-mustang-course-11.svg",
         "lely-resort-golf-country-club-mustang-course-12.svg",
+        "lely-resort-golf-country-club-mustang-course-13.svg",
         "lely-resort-golf-country-club-mustang-course-14.svg",
         "lely-resort-golf-country-club-mustang-course-15.svg",
         "lely-resort-golf-country-club-mustang-course-16.svg",
         "lely-resort-golf-country-club-mustang-course-17.svg",
         "lely-resort-golf-country-club-mustang-course-18.svg"
       ],
-      "bytes": 97530,
+      "bytes": 103555,
       "lat": 26.084845,
       "lng": -81.701262
     },
@@ -15729,13 +16197,15 @@
         "Red": 4998,
         "Silver": 4256
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/links-of-lake-bernadette",
       "files": [
         "course.json",
         "links-of-lake-bernadette-01.svg",
+        "links-of-lake-bernadette-02.svg",
         "links-of-lake-bernadette-03.svg",
         "links-of-lake-bernadette-04.svg",
+        "links-of-lake-bernadette-05.svg",
         "links-of-lake-bernadette-06.svg",
         "links-of-lake-bernadette-07.svg",
         "links-of-lake-bernadette-08.svg",
@@ -15744,12 +16214,13 @@
         "links-of-lake-bernadette-11.svg",
         "links-of-lake-bernadette-12.svg",
         "links-of-lake-bernadette-13.svg",
+        "links-of-lake-bernadette-14.svg",
         "links-of-lake-bernadette-15.svg",
         "links-of-lake-bernadette-16.svg",
         "links-of-lake-bernadette-17.svg",
         "links-of-lake-bernadette-18.svg"
       ],
-      "bytes": 68284,
+      "bytes": 81944,
       "lat": 28.236389,
       "lng": -82.235278
     },
@@ -15949,15 +16420,12 @@
         "Gold": 1475,
         "Red": 983
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/longleaf-executive-golf-course",
       "files": [
-        "course.json",
-        "longleaf-executive-golf-course-01.svg",
-        "longleaf-executive-golf-course-08.svg",
-        "longleaf-executive-golf-course-09.svg"
+        "course.json"
       ],
-      "bytes": 6436,
+      "bytes": 1656,
       "lat": 28.792844,
       "lng": -82.009834
     },
@@ -15985,7 +16453,7 @@
         "Green": 5235,
         "Teal": 5060
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/lost-city-golf-club-east-north",
       "files": [
         "course.json",
@@ -16004,9 +16472,10 @@
         "lost-city-golf-club-east-north-14.svg",
         "lost-city-golf-club-east-north-15.svg",
         "lost-city-golf-club-east-north-16.svg",
+        "lost-city-golf-club-east-north-17.svg",
         "lost-city-golf-club-east-north-18.svg"
       ],
-      "bytes": 71623,
+      "bytes": 74454,
       "lat": 26.594655,
       "lng": -80.098492
     },
@@ -16096,7 +16565,7 @@
         "Red": 4807,
         "Orange": 4137
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/lost-key-golf-club",
       "files": [
         "course.json",
@@ -16115,10 +16584,11 @@
         "lost-key-golf-club-13.svg",
         "lost-key-golf-club-14.svg",
         "lost-key-golf-club-15.svg",
+        "lost-key-golf-club-16.svg",
         "lost-key-golf-club-17.svg",
         "lost-key-golf-club-18.svg"
       ],
-      "bytes": 96994,
+      "bytes": 100785,
       "lat": 30.297011,
       "lng": -87.4411
     },
@@ -16630,7 +17100,7 @@
         "Teal Combo": 3022,
         "Gold": 2420
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/maple-leaf-golf-country-club",
       "files": [
         "course.json",
@@ -16647,10 +17117,12 @@
         "maple-leaf-golf-country-club-12.svg",
         "maple-leaf-golf-country-club-13.svg",
         "maple-leaf-golf-country-club-14.svg",
+        "maple-leaf-golf-country-club-15.svg",
         "maple-leaf-golf-country-club-16.svg",
+        "maple-leaf-golf-country-club-17.svg",
         "maple-leaf-golf-country-club-18.svg"
       ],
-      "bytes": 52059,
+      "bytes": 59270,
       "lat": 26.999795,
       "lng": -82.052958
     },
@@ -16808,16 +17280,18 @@
         "Tee Iii": 5667,
         "Tee Ii-I": 4981
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/marsh-at-bonita-bay-club",
       "files": [
         "course.json",
         "marsh-at-bonita-bay-club-01.svg",
+        "marsh-at-bonita-bay-club-02.svg",
         "marsh-at-bonita-bay-club-03.svg",
         "marsh-at-bonita-bay-club-04.svg",
         "marsh-at-bonita-bay-club-05.svg",
         "marsh-at-bonita-bay-club-06.svg",
         "marsh-at-bonita-bay-club-07.svg",
+        "marsh-at-bonita-bay-club-08.svg",
         "marsh-at-bonita-bay-club-09.svg",
         "marsh-at-bonita-bay-club-10.svg",
         "marsh-at-bonita-bay-club-11.svg",
@@ -16826,9 +17300,10 @@
         "marsh-at-bonita-bay-club-14.svg",
         "marsh-at-bonita-bay-club-15.svg",
         "marsh-at-bonita-bay-club-16.svg",
-        "marsh-at-bonita-bay-club-17.svg"
+        "marsh-at-bonita-bay-club-17.svg",
+        "marsh-at-bonita-bay-club-18.svg"
       ],
-      "bytes": 78071,
+      "bytes": 90676,
       "lat": 26.3522,
       "lng": -81.813653
     },
@@ -16854,7 +17329,7 @@
         "Green": 4991,
         "Red": 4440
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/marsh-creek-country-club",
       "files": [
         "course.json",
@@ -16864,17 +17339,19 @@
         "marsh-creek-country-club-04.svg",
         "marsh-creek-country-club-05.svg",
         "marsh-creek-country-club-06.svg",
+        "marsh-creek-country-club-07.svg",
         "marsh-creek-country-club-08.svg",
         "marsh-creek-country-club-09.svg",
         "marsh-creek-country-club-11.svg",
         "marsh-creek-country-club-12.svg",
         "marsh-creek-country-club-13.svg",
         "marsh-creek-country-club-14.svg",
+        "marsh-creek-country-club-15.svg",
         "marsh-creek-country-club-16.svg",
         "marsh-creek-country-club-17.svg",
         "marsh-creek-country-club-18.svg"
       ],
-      "bytes": 58596,
+      "bytes": 64185,
       "lat": 29.839753,
       "lng": -81.281166
     },
@@ -17005,11 +17482,12 @@
         "White": 5780,
         "Green": 5003
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/mcarthur-golf-club",
       "files": [
         "course.json",
         "mcarthur-golf-club-01.svg",
+        "mcarthur-golf-club-02.svg",
         "mcarthur-golf-club-03.svg",
         "mcarthur-golf-club-04.svg",
         "mcarthur-golf-club-05.svg",
@@ -17026,7 +17504,7 @@
         "mcarthur-golf-club-17.svg",
         "mcarthur-golf-club-18.svg"
       ],
-      "bytes": 75214,
+      "bytes": 79248,
       "lat": 27.094252,
       "lng": -80.167528
     },
@@ -17348,20 +17826,12 @@
         "Blue": 3503,
         "White": 3226
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/miccosukee-golf-country-club-barracuda-course",
       "files": [
-        "course.json",
-        "miccosukee-golf-country-club-barracuda-course-01.svg",
-        "miccosukee-golf-country-club-barracuda-course-02.svg",
-        "miccosukee-golf-country-club-barracuda-course-03.svg",
-        "miccosukee-golf-country-club-barracuda-course-04.svg",
-        "miccosukee-golf-country-club-barracuda-course-05.svg",
-        "miccosukee-golf-country-club-barracuda-course-06.svg",
-        "miccosukee-golf-country-club-barracuda-course-07.svg",
-        "miccosukee-golf-country-club-barracuda-course-09.svg"
+        "course.json"
       ],
-      "bytes": 41896,
+      "bytes": 1505,
       "lat": 25.706008,
       "lng": -80.426393
     },
@@ -17413,20 +17883,12 @@
         "Blue": 3503,
         "White": 3226
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/miccosukee-golf-country-club-marlin-course",
       "files": [
-        "course.json",
-        "miccosukee-golf-country-club-marlin-course-01.svg",
-        "miccosukee-golf-country-club-marlin-course-02.svg",
-        "miccosukee-golf-country-club-marlin-course-03.svg",
-        "miccosukee-golf-country-club-marlin-course-04.svg",
-        "miccosukee-golf-country-club-marlin-course-05.svg",
-        "miccosukee-golf-country-club-marlin-course-06.svg",
-        "miccosukee-golf-country-club-marlin-course-07.svg",
-        "miccosukee-golf-country-club-marlin-course-09.svg"
+        "course.json"
       ],
-      "bytes": 41866,
+      "bytes": 1499,
       "lat": 25.706008,
       "lng": -80.426393
     },
@@ -17528,12 +17990,30 @@
         "5": 5010,
         "6": 4497
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/miromar-lakes-golf-club",
       "files": [
-        "course.json"
+        "course.json",
+        "miromar-lakes-golf-club-01.svg",
+        "miromar-lakes-golf-club-02.svg",
+        "miromar-lakes-golf-club-03.svg",
+        "miromar-lakes-golf-club-04.svg",
+        "miromar-lakes-golf-club-05.svg",
+        "miromar-lakes-golf-club-06.svg",
+        "miromar-lakes-golf-club-07.svg",
+        "miromar-lakes-golf-club-08.svg",
+        "miromar-lakes-golf-club-09.svg",
+        "miromar-lakes-golf-club-10.svg",
+        "miromar-lakes-golf-club-11.svg",
+        "miromar-lakes-golf-club-12.svg",
+        "miromar-lakes-golf-club-13.svg",
+        "miromar-lakes-golf-club-14.svg",
+        "miromar-lakes-golf-club-15.svg",
+        "miromar-lakes-golf-club-16.svg",
+        "miromar-lakes-golf-club-17.svg",
+        "miromar-lakes-golf-club-18.svg"
       ],
-      "bytes": 4279,
+      "bytes": 76977,
       "lat": 26.47093,
       "lng": -81.787733
     },
@@ -17631,7 +18111,7 @@
         "Green/Red": 5097,
         "Red": 4913
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/mizner-country-club",
       "files": [
         "course.json",
@@ -17642,9 +18122,11 @@
         "mizner-country-club-05.svg",
         "mizner-country-club-06.svg",
         "mizner-country-club-07.svg",
+        "mizner-country-club-08.svg",
+        "mizner-country-club-09.svg",
         "mizner-country-club-14.svg"
       ],
-      "bytes": 58579,
+      "bytes": 69935,
       "lat": 26.435706,
       "lng": -80.185414
     },
@@ -17972,27 +18454,30 @@
         "V-Vi": 4667,
         "VI": 4344
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/naples-lakes-country-club",
       "files": [
         "course.json",
         "naples-lakes-country-club-01.svg",
+        "naples-lakes-country-club-02.svg",
         "naples-lakes-country-club-03.svg",
         "naples-lakes-country-club-04.svg",
         "naples-lakes-country-club-05.svg",
         "naples-lakes-country-club-06.svg",
         "naples-lakes-country-club-07.svg",
         "naples-lakes-country-club-08.svg",
+        "naples-lakes-country-club-09.svg",
         "naples-lakes-country-club-10.svg",
         "naples-lakes-country-club-11.svg",
         "naples-lakes-country-club-12.svg",
         "naples-lakes-country-club-13.svg",
+        "naples-lakes-country-club-14.svg",
         "naples-lakes-country-club-15.svg",
         "naples-lakes-country-club-16.svg",
         "naples-lakes-country-club-17.svg",
         "naples-lakes-country-club-18.svg"
       ],
-      "bytes": 75553,
+      "bytes": 92905,
       "lat": 26.116896,
       "lng": -81.688144
     },
@@ -18474,12 +18959,30 @@
       "yards": {
         "Blue": 6508
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/north-at-quail-ridge-country-club",
       "files": [
-        "course.json"
+        "course.json",
+        "north-at-quail-ridge-country-club-01.svg",
+        "north-at-quail-ridge-country-club-02.svg",
+        "north-at-quail-ridge-country-club-03.svg",
+        "north-at-quail-ridge-country-club-04.svg",
+        "north-at-quail-ridge-country-club-05.svg",
+        "north-at-quail-ridge-country-club-06.svg",
+        "north-at-quail-ridge-country-club-07.svg",
+        "north-at-quail-ridge-country-club-08.svg",
+        "north-at-quail-ridge-country-club-09.svg",
+        "north-at-quail-ridge-country-club-10.svg",
+        "north-at-quail-ridge-country-club-11.svg",
+        "north-at-quail-ridge-country-club-12.svg",
+        "north-at-quail-ridge-country-club-13.svg",
+        "north-at-quail-ridge-country-club-14.svg",
+        "north-at-quail-ridge-country-club-15.svg",
+        "north-at-quail-ridge-country-club-16.svg",
+        "north-at-quail-ridge-country-club-17.svg",
+        "north-at-quail-ridge-country-club-18.svg"
       ],
-      "bytes": 2322,
+      "bytes": 28406,
       "lat": 26.526738,
       "lng": -80.102041
     },
@@ -18863,7 +19366,7 @@
         "Gold": 5829,
         "Red": 4910
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/oaks-national-golf-club",
       "files": [
         "course.json",
@@ -18872,6 +19375,7 @@
         "oaks-national-golf-club-03.svg",
         "oaks-national-golf-club-04.svg",
         "oaks-national-golf-club-05.svg",
+        "oaks-national-golf-club-06.svg",
         "oaks-national-golf-club-07.svg",
         "oaks-national-golf-club-08.svg",
         "oaks-national-golf-club-09.svg",
@@ -18883,7 +19387,7 @@
         "oaks-national-golf-club-15.svg",
         "oaks-national-golf-club-16.svg"
       ],
-      "bytes": 74171,
+      "bytes": 77933,
       "lat": 28.256882,
       "lng": -81.429248
     },
@@ -18905,12 +19409,30 @@
         "Green": 4597,
         "Friendly": 3800
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/oaks-palms-at-hacienda-hills-golf-country-club",
       "files": [
-        "course.json"
+        "course.json",
+        "oaks-palms-at-hacienda-hills-golf-country-club-01.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-02.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-03.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-04.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-05.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-06.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-07.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-08.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-09.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-10.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-11.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-12.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-13.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-14.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-15.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-16.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-17.svg",
+        "oaks-palms-at-hacienda-hills-golf-country-club-18.svg"
       ],
-      "bytes": 3607,
+      "bytes": 84377,
       "lat": 28.938814,
       "lng": -81.968252
     },
@@ -19238,19 +19760,15 @@
         "Black": 1439,
         "Gold": 1190
       },
-      "version": 3,
+      "version": 4,
       "folder": "courses/okeechobee-at-the-villages-executive-golf-trail",
       "files": [
         "course.json",
         "okeechobee-at-the-villages-executive-golf-trail-01.svg",
-        "okeechobee-at-the-villages-executive-golf-trail-02.svg",
-        "okeechobee-at-the-villages-executive-golf-trail-04.svg",
-        "okeechobee-at-the-villages-executive-golf-trail-06.svg",
-        "okeechobee-at-the-villages-executive-golf-trail-07.svg",
         "okeechobee-at-the-villages-executive-golf-trail-08.svg",
         "okeechobee-at-the-villages-executive-golf-trail-09.svg"
       ],
-      "bytes": 16392,
+      "bytes": 11690,
       "lat": 28.858622,
       "lng": -81.951166
     },
@@ -19400,12 +19918,30 @@
         "Silver/White": 5137,
         "White": 4936
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/old-palm-golf-club",
       "files": [
-        "course.json"
+        "course.json",
+        "old-palm-golf-club-01.svg",
+        "old-palm-golf-club-02.svg",
+        "old-palm-golf-club-03.svg",
+        "old-palm-golf-club-04.svg",
+        "old-palm-golf-club-05.svg",
+        "old-palm-golf-club-06.svg",
+        "old-palm-golf-club-07.svg",
+        "old-palm-golf-club-08.svg",
+        "old-palm-golf-club-09.svg",
+        "old-palm-golf-club-10.svg",
+        "old-palm-golf-club-11.svg",
+        "old-palm-golf-club-12.svg",
+        "old-palm-golf-club-13.svg",
+        "old-palm-golf-club-14.svg",
+        "old-palm-golf-club-15.svg",
+        "old-palm-golf-club-16.svg",
+        "old-palm-golf-club-17.svg",
+        "old-palm-golf-club-18.svg"
       ],
-      "bytes": 5406,
+      "bytes": 128585,
       "lat": 26.850859,
       "lng": -80.123268
     },
@@ -19722,7 +20258,7 @@
         "White": 5436,
         "Silver": 4923
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/osprey-point-golf-club-hawk-raven-course",
       "files": [
         "course.json",
@@ -19734,9 +20270,18 @@
         "osprey-point-golf-club-hawk-raven-course-06.svg",
         "osprey-point-golf-club-hawk-raven-course-07.svg",
         "osprey-point-golf-club-hawk-raven-course-08.svg",
-        "osprey-point-golf-club-hawk-raven-course-09.svg"
+        "osprey-point-golf-club-hawk-raven-course-09.svg",
+        "osprey-point-golf-club-hawk-raven-course-10.svg",
+        "osprey-point-golf-club-hawk-raven-course-11.svg",
+        "osprey-point-golf-club-hawk-raven-course-12.svg",
+        "osprey-point-golf-club-hawk-raven-course-13.svg",
+        "osprey-point-golf-club-hawk-raven-course-14.svg",
+        "osprey-point-golf-club-hawk-raven-course-15.svg",
+        "osprey-point-golf-club-hawk-raven-course-16.svg",
+        "osprey-point-golf-club-hawk-raven-course-17.svg",
+        "osprey-point-golf-club-hawk-raven-course-18.svg"
       ],
-      "bytes": 60165,
+      "bytes": 108020,
       "lat": 26.367421,
       "lng": -80.244135
     },
@@ -20121,7 +20666,7 @@
         "White": 6124,
         "Red": 4630
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/palmetto-golf-course",
       "files": [
         "course.json",
@@ -20133,6 +20678,7 @@
         "palmetto-golf-course-06.svg",
         "palmetto-golf-course-07.svg",
         "palmetto-golf-course-08.svg",
+        "palmetto-golf-course-09.svg",
         "palmetto-golf-course-10.svg",
         "palmetto-golf-course-11.svg",
         "palmetto-golf-course-12.svg",
@@ -20143,7 +20689,7 @@
         "palmetto-golf-course-17.svg",
         "palmetto-golf-course-18.svg"
       ],
-      "bytes": 63391,
+      "bytes": 68000,
       "lat": 25.628424,
       "lng": -80.344124
     },
@@ -20272,12 +20818,30 @@
         "Green": 4599,
         "Friendly": 3902
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/palms-lakes-at-hacienda-hills-golf-country-club",
       "files": [
-        "course.json"
+        "course.json",
+        "palms-lakes-at-hacienda-hills-golf-country-club-01.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-02.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-03.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-04.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-05.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-06.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-07.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-08.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-09.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-10.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-11.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-12.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-13.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-14.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-15.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-16.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-17.svg",
+        "palms-lakes-at-hacienda-hills-golf-country-club-18.svg"
       ],
-      "bytes": 4018,
+      "bytes": 88398,
       "lat": 28.938814,
       "lng": -81.968252
     },
@@ -20352,12 +20916,17 @@
         "VI": 5059,
         "VII": 4492
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/panther-national-championship-course",
       "files": [
-        "course.json"
+        "course.json",
+        "panther-national-championship-course-01.svg",
+        "panther-national-championship-course-02.svg",
+        "panther-national-championship-course-03.svg",
+        "panther-national-championship-course-14.svg",
+        "panther-national-championship-course-15.svg"
       ],
-      "bytes": 4553,
+      "bytes": 28331,
       "lat": 26.828398,
       "lng": -80.2581
     },
@@ -20621,7 +21190,7 @@
         "VI": 4959,
         "VII": 4020
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/pelican-marsh-golf-club",
       "files": [
         "course.json",
@@ -20637,12 +21206,14 @@
         "pelican-marsh-golf-club-10.svg",
         "pelican-marsh-golf-club-11.svg",
         "pelican-marsh-golf-club-12.svg",
+        "pelican-marsh-golf-club-13.svg",
         "pelican-marsh-golf-club-14.svg",
         "pelican-marsh-golf-club-15.svg",
         "pelican-marsh-golf-club-16.svg",
-        "pelican-marsh-golf-club-17.svg"
+        "pelican-marsh-golf-club-17.svg",
+        "pelican-marsh-golf-club-18.svg"
       ],
-      "bytes": 99853,
+      "bytes": 112949,
       "lat": 26.252787,
       "lng": -81.78099
     },
@@ -20695,7 +21266,7 @@
         "Black": 5520,
         "Red": 4702
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/pelican-pointe-golf-country-club-meadows-preserve-course",
       "files": [
         "course.json",
@@ -20709,11 +21280,16 @@
         "pelican-pointe-golf-country-club-meadows-preserve-course-08.svg",
         "pelican-pointe-golf-country-club-meadows-preserve-course-09.svg",
         "pelican-pointe-golf-country-club-meadows-preserve-course-10.svg",
+        "pelican-pointe-golf-country-club-meadows-preserve-course-11.svg",
+        "pelican-pointe-golf-country-club-meadows-preserve-course-12.svg",
         "pelican-pointe-golf-country-club-meadows-preserve-course-13.svg",
         "pelican-pointe-golf-country-club-meadows-preserve-course-14.svg",
-        "pelican-pointe-golf-country-club-meadows-preserve-course-17.svg"
+        "pelican-pointe-golf-country-club-meadows-preserve-course-15.svg",
+        "pelican-pointe-golf-country-club-meadows-preserve-course-16.svg",
+        "pelican-pointe-golf-country-club-meadows-preserve-course-17.svg",
+        "pelican-pointe-golf-country-club-meadows-preserve-course-18.svg"
       ],
-      "bytes": 69652,
+      "bytes": 95922,
       "lat": 27.085422,
       "lng": -82.402186
     },
@@ -20926,7 +21502,7 @@
         "Blue": 6348,
         "White": 5988
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/pga-national-resort-champion-course",
       "files": [
         "course.json",
@@ -20934,6 +21510,7 @@
         "pga-national-resort-champion-course-02.svg",
         "pga-national-resort-champion-course-03.svg",
         "pga-national-resort-champion-course-04.svg",
+        "pga-national-resort-champion-course-05.svg",
         "pga-national-resort-champion-course-06.svg",
         "pga-national-resort-champion-course-07.svg",
         "pga-national-resort-champion-course-08.svg",
@@ -20948,7 +21525,7 @@
         "pga-national-resort-champion-course-17.svg",
         "pga-national-resort-champion-course-18.svg"
       ],
-      "bytes": 132632,
+      "bytes": 139414,
       "lat": 26.829755,
       "lng": -80.141198
     },
@@ -21030,7 +21607,7 @@
         "Green/Red Combo": 5177,
         "Red": 4766
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/pga-national-resort-palmer-course",
       "files": [
         "course.json",
@@ -21038,6 +21615,7 @@
         "pga-national-resort-palmer-course-02.svg",
         "pga-national-resort-palmer-course-03.svg",
         "pga-national-resort-palmer-course-04.svg",
+        "pga-national-resort-palmer-course-05.svg",
         "pga-national-resort-palmer-course-06.svg",
         "pga-national-resort-palmer-course-07.svg",
         "pga-national-resort-palmer-course-08.svg",
@@ -21045,13 +21623,14 @@
         "pga-national-resort-palmer-course-10.svg",
         "pga-national-resort-palmer-course-11.svg",
         "pga-national-resort-palmer-course-12.svg",
+        "pga-national-resort-palmer-course-13.svg",
         "pga-national-resort-palmer-course-14.svg",
         "pga-national-resort-palmer-course-15.svg",
         "pga-national-resort-palmer-course-16.svg",
         "pga-national-resort-palmer-course-17.svg",
         "pga-national-resort-palmer-course-18.svg"
       ],
-      "bytes": 112975,
+      "bytes": 123165,
       "lat": 26.829755,
       "lng": -80.141198
     },
@@ -21466,12 +22045,30 @@
         "Iv/V": 5201,
         "V": 4938
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/pines-at-royal-poinciana-golf-club",
       "files": [
-        "course.json"
+        "course.json",
+        "pines-at-royal-poinciana-golf-club-01.svg",
+        "pines-at-royal-poinciana-golf-club-02.svg",
+        "pines-at-royal-poinciana-golf-club-03.svg",
+        "pines-at-royal-poinciana-golf-club-04.svg",
+        "pines-at-royal-poinciana-golf-club-05.svg",
+        "pines-at-royal-poinciana-golf-club-06.svg",
+        "pines-at-royal-poinciana-golf-club-07.svg",
+        "pines-at-royal-poinciana-golf-club-08.svg",
+        "pines-at-royal-poinciana-golf-club-09.svg",
+        "pines-at-royal-poinciana-golf-club-10.svg",
+        "pines-at-royal-poinciana-golf-club-11.svg",
+        "pines-at-royal-poinciana-golf-club-12.svg",
+        "pines-at-royal-poinciana-golf-club-13.svg",
+        "pines-at-royal-poinciana-golf-club-14.svg",
+        "pines-at-royal-poinciana-golf-club-15.svg",
+        "pines-at-royal-poinciana-golf-club-16.svg",
+        "pines-at-royal-poinciana-golf-club-17.svg",
+        "pines-at-royal-poinciana-golf-club-18.svg"
       ],
-      "bytes": 4484,
+      "bytes": 87072,
       "lat": 26.196523,
       "lng": -81.779581
     },
@@ -21524,12 +22121,30 @@
         "Silver": 5019,
         "Forward": 4565
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/plantation-at-ponte-vedra",
       "files": [
-        "course.json"
+        "course.json",
+        "plantation-at-ponte-vedra-01.svg",
+        "plantation-at-ponte-vedra-02.svg",
+        "plantation-at-ponte-vedra-03.svg",
+        "plantation-at-ponte-vedra-04.svg",
+        "plantation-at-ponte-vedra-05.svg",
+        "plantation-at-ponte-vedra-06.svg",
+        "plantation-at-ponte-vedra-07.svg",
+        "plantation-at-ponte-vedra-08.svg",
+        "plantation-at-ponte-vedra-09.svg",
+        "plantation-at-ponte-vedra-10.svg",
+        "plantation-at-ponte-vedra-11.svg",
+        "plantation-at-ponte-vedra-12.svg",
+        "plantation-at-ponte-vedra-13.svg",
+        "plantation-at-ponte-vedra-14.svg",
+        "plantation-at-ponte-vedra-15.svg",
+        "plantation-at-ponte-vedra-16.svg",
+        "plantation-at-ponte-vedra-17.svg",
+        "plantation-at-ponte-vedra-18.svg"
       ],
-      "bytes": 5006,
+      "bytes": 126907,
       "lat": 30.173483,
       "lng": -81.375941
     },
@@ -21690,12 +22305,30 @@
         "Gold": 5563,
         "Red": 4691
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/plantation-palms-golf-club",
       "files": [
-        "course.json"
+        "course.json",
+        "plantation-palms-golf-club-01.svg",
+        "plantation-palms-golf-club-02.svg",
+        "plantation-palms-golf-club-03.svg",
+        "plantation-palms-golf-club-04.svg",
+        "plantation-palms-golf-club-05.svg",
+        "plantation-palms-golf-club-06.svg",
+        "plantation-palms-golf-club-07.svg",
+        "plantation-palms-golf-club-08.svg",
+        "plantation-palms-golf-club-09.svg",
+        "plantation-palms-golf-club-10.svg",
+        "plantation-palms-golf-club-11.svg",
+        "plantation-palms-golf-club-12.svg",
+        "plantation-palms-golf-club-13.svg",
+        "plantation-palms-golf-club-14.svg",
+        "plantation-palms-golf-club-15.svg",
+        "plantation-palms-golf-club-16.svg",
+        "plantation-palms-golf-club-17.svg",
+        "plantation-palms-golf-club-18.svg"
       ],
-      "bytes": 3477,
+      "bytes": 71410,
       "lat": 28.206077,
       "lng": -82.42995
     },
@@ -21770,7 +22403,7 @@
         "Standard": 5356,
         "Forward": 4879
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/pointe-west-country-club",
       "files": [
         "course.json",
@@ -21778,18 +22411,22 @@
         "pointe-west-country-club-02.svg",
         "pointe-west-country-club-03.svg",
         "pointe-west-country-club-04.svg",
+        "pointe-west-country-club-05.svg",
         "pointe-west-country-club-06.svg",
         "pointe-west-country-club-07.svg",
+        "pointe-west-country-club-08.svg",
         "pointe-west-country-club-09.svg",
         "pointe-west-country-club-10.svg",
         "pointe-west-country-club-11.svg",
         "pointe-west-country-club-12.svg",
         "pointe-west-country-club-13.svg",
+        "pointe-west-country-club-14.svg",
         "pointe-west-country-club-15.svg",
         "pointe-west-country-club-16.svg",
+        "pointe-west-country-club-17.svg",
         "pointe-west-country-club-18.svg"
       ],
-      "bytes": 96381,
+      "bytes": 118708,
       "lat": 27.629183,
       "lng": -80.481878
     },
@@ -21921,7 +22558,7 @@
         "Blue": 6306,
         "White": 5874
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/preserve-at-quail-west-golf-country-club",
       "files": [
         "course.json",
@@ -21934,6 +22571,8 @@
         "preserve-at-quail-west-golf-country-club-07.svg",
         "preserve-at-quail-west-golf-country-club-08.svg",
         "preserve-at-quail-west-golf-country-club-09.svg",
+        "preserve-at-quail-west-golf-country-club-10.svg",
+        "preserve-at-quail-west-golf-country-club-11.svg",
         "preserve-at-quail-west-golf-country-club-12.svg",
         "preserve-at-quail-west-golf-country-club-13.svg",
         "preserve-at-quail-west-golf-country-club-14.svg",
@@ -21942,7 +22581,7 @@
         "preserve-at-quail-west-golf-country-club-17.svg",
         "preserve-at-quail-west-golf-country-club-18.svg"
       ],
-      "bytes": 65418,
+      "bytes": 74586,
       "lat": 26.316665,
       "lng": -81.736511
     },
@@ -21981,26 +22620,12 @@
       "par": 72,
       "tees": [],
       "yards": {},
-      "version": 6,
+      "version": 7,
       "folder": "courses/quail-at-quail-creek-country-club",
       "files": [
-        "course.json",
-        "quail-at-quail-creek-country-club-01.svg",
-        "quail-at-quail-creek-country-club-02.svg",
-        "quail-at-quail-creek-country-club-03.svg",
-        "quail-at-quail-creek-country-club-04.svg",
-        "quail-at-quail-creek-country-club-05.svg",
-        "quail-at-quail-creek-country-club-06.svg",
-        "quail-at-quail-creek-country-club-08.svg",
-        "quail-at-quail-creek-country-club-09.svg",
-        "quail-at-quail-creek-country-club-10.svg",
-        "quail-at-quail-creek-country-club-11.svg",
-        "quail-at-quail-creek-country-club-13.svg",
-        "quail-at-quail-creek-country-club-14.svg",
-        "quail-at-quail-creek-country-club-15.svg",
-        "quail-at-quail-creek-country-club-17.svg"
+        "course.json"
       ],
-      "bytes": 73020,
+      "bytes": 1815,
       "lat": 26.295887,
       "lng": -81.729669
     },
@@ -22188,12 +22813,30 @@
         "White": 5351,
         "Silver": 4822
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/quarry-at-black-diamond-ranch-golf-country-club",
       "files": [
-        "course.json"
+        "course.json",
+        "quarry-at-black-diamond-ranch-golf-country-club-01.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-02.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-03.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-04.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-05.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-06.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-07.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-08.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-09.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-10.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-11.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-12.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-13.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-14.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-15.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-16.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-17.svg",
+        "quarry-at-black-diamond-ranch-golf-country-club-18.svg"
       ],
-      "bytes": 3200,
+      "bytes": 113593,
       "lat": 28.907393,
       "lng": -82.489858
     },
@@ -22420,7 +23063,7 @@
         "#4": 4955,
         "#5": 4241
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/red-silver-at-foxfire-country-club",
       "files": [
         "course.json",
@@ -22430,6 +23073,7 @@
         "red-silver-at-foxfire-country-club-04.svg",
         "red-silver-at-foxfire-country-club-05.svg",
         "red-silver-at-foxfire-country-club-06.svg",
+        "red-silver-at-foxfire-country-club-07.svg",
         "red-silver-at-foxfire-country-club-08.svg",
         "red-silver-at-foxfire-country-club-09.svg",
         "red-silver-at-foxfire-country-club-10.svg",
@@ -22442,7 +23086,7 @@
         "red-silver-at-foxfire-country-club-17.svg",
         "red-silver-at-foxfire-country-club-18.svg"
       ],
-      "bytes": 67871,
+      "bytes": 71265,
       "lat": 26.145474,
       "lng": -81.747373
     },
@@ -22576,15 +23220,17 @@
         "Green": 4817,
         "Orange": 4138
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/regatta-bay-golf-yacht-club",
       "files": [
         "course.json",
         "regatta-bay-golf-yacht-club-01.svg",
         "regatta-bay-golf-yacht-club-02.svg",
+        "regatta-bay-golf-yacht-club-03.svg",
         "regatta-bay-golf-yacht-club-04.svg",
         "regatta-bay-golf-yacht-club-05.svg",
         "regatta-bay-golf-yacht-club-06.svg",
+        "regatta-bay-golf-yacht-club-07.svg",
         "regatta-bay-golf-yacht-club-08.svg",
         "regatta-bay-golf-yacht-club-09.svg",
         "regatta-bay-golf-yacht-club-10.svg",
@@ -22597,7 +23243,7 @@
         "regatta-bay-golf-yacht-club-17.svg",
         "regatta-bay-golf-yacht-club-18.svg"
       ],
-      "bytes": 84749,
+      "bytes": 92708,
       "lat": 30.394087,
       "lng": -86.41785
     },
@@ -22765,11 +23411,12 @@
         "Green": 2336,
         "Friendly": 1808
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/riley-grove-course-at-palmer-legends",
       "files": [
         "course.json",
         "riley-grove-course-at-palmer-legends-01.svg",
+        "riley-grove-course-at-palmer-legends-02.svg",
         "riley-grove-course-at-palmer-legends-03.svg",
         "riley-grove-course-at-palmer-legends-04.svg",
         "riley-grove-course-at-palmer-legends-05.svg",
@@ -22778,7 +23425,7 @@
         "riley-grove-course-at-palmer-legends-08.svg",
         "riley-grove-course-at-palmer-legends-09.svg"
       ],
-      "bytes": 41261,
+      "bytes": 45898,
       "lat": 28.910194,
       "lng": -81.993289
     },
@@ -23116,11 +23763,12 @@
         "Gold": 5219,
         "Red": 4647
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/riviera-country-club",
       "files": [
         "course.json",
         "riviera-country-club-01.svg",
+        "riviera-country-club-02.svg",
         "riviera-country-club-03.svg",
         "riviera-country-club-04.svg",
         "riviera-country-club-05.svg",
@@ -23130,13 +23778,14 @@
         "riviera-country-club-09.svg",
         "riviera-country-club-11.svg",
         "riviera-country-club-12.svg",
+        "riviera-country-club-13.svg",
         "riviera-country-club-14.svg",
         "riviera-country-club-15.svg",
         "riviera-country-club-16.svg",
         "riviera-country-club-17.svg",
         "riviera-country-club-18.svg"
       ],
-      "bytes": 66794,
+      "bytes": 75985,
       "lat": 25.727816,
       "lng": -80.275419
     },
@@ -23840,26 +24489,30 @@
         "Forward": 4958,
         "Tee It Forward": 3935
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/sailfish-point-golf-club",
       "files": [
         "course.json",
         "sailfish-point-golf-club-01.svg",
         "sailfish-point-golf-club-02.svg",
+        "sailfish-point-golf-club-03.svg",
         "sailfish-point-golf-club-04.svg",
         "sailfish-point-golf-club-05.svg",
         "sailfish-point-golf-club-06.svg",
         "sailfish-point-golf-club-07.svg",
         "sailfish-point-golf-club-08.svg",
+        "sailfish-point-golf-club-09.svg",
         "sailfish-point-golf-club-10.svg",
         "sailfish-point-golf-club-11.svg",
+        "sailfish-point-golf-club-12.svg",
+        "sailfish-point-golf-club-13.svg",
         "sailfish-point-golf-club-14.svg",
         "sailfish-point-golf-club-15.svg",
         "sailfish-point-golf-club-16.svg",
         "sailfish-point-golf-club-17.svg",
         "sailfish-point-golf-club-18.svg"
       ],
-      "bytes": 91900,
+      "bytes": 112751,
       "lat": 27.177731,
       "lng": -80.158316
     },
@@ -24159,7 +24812,7 @@
         "Gold": 4920,
         "Red": 4303
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/sanibel-island-golf-club",
       "files": [
         "course.json",
@@ -24167,11 +24820,13 @@
         "sanibel-island-golf-club-02.svg",
         "sanibel-island-golf-club-03.svg",
         "sanibel-island-golf-club-04.svg",
+        "sanibel-island-golf-club-05.svg",
         "sanibel-island-golf-club-06.svg",
         "sanibel-island-golf-club-07.svg",
         "sanibel-island-golf-club-08.svg",
         "sanibel-island-golf-club-09.svg",
         "sanibel-island-golf-club-10.svg",
+        "sanibel-island-golf-club-11.svg",
         "sanibel-island-golf-club-12.svg",
         "sanibel-island-golf-club-13.svg",
         "sanibel-island-golf-club-14.svg",
@@ -24180,7 +24835,7 @@
         "sanibel-island-golf-club-17.svg",
         "sanibel-island-golf-club-18.svg"
       ],
-      "bytes": 83976,
+      "bytes": 96271,
       "lat": 26.436785,
       "lng": -82.049829
     },
@@ -24392,18 +25047,12 @@
         "Gold": 979,
         "Green": 791
       },
-      "version": 3,
+      "version": 4,
       "folder": "courses/sarasota-at-the-villages-executive-golf-trail",
       "files": [
-        "course.json",
-        "sarasota-at-the-villages-executive-golf-trail-01.svg",
-        "sarasota-at-the-villages-executive-golf-trail-02.svg",
-        "sarasota-at-the-villages-executive-golf-trail-03.svg",
-        "sarasota-at-the-villages-executive-golf-trail-07.svg",
-        "sarasota-at-the-villages-executive-golf-trail-08.svg",
-        "sarasota-at-the-villages-executive-golf-trail-09.svg"
+        "course.json"
       ],
-      "bytes": 16235,
+      "bytes": 1902,
       "lat": 28.860942,
       "lng": -81.96009
     },
@@ -24531,7 +25180,7 @@
         "Green/Red": 5536,
         "Red": 5155
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/sawgrass-country-club-south-west",
       "files": [
         "course.json",
@@ -24545,10 +25194,12 @@
         "sawgrass-country-club-south-west-08.svg",
         "sawgrass-country-club-south-west-09.svg",
         "sawgrass-country-club-south-west-13.svg",
+        "sawgrass-country-club-south-west-15.svg",
+        "sawgrass-country-club-south-west-16.svg",
         "sawgrass-country-club-south-west-17.svg",
         "sawgrass-country-club-south-west-18.svg"
       ],
-      "bytes": 86275,
+      "bytes": 99096,
       "lat": 30.188018,
       "lng": -81.370232
     },
@@ -24580,7 +25231,7 @@
         "Green/Red": 5400,
         "Red": 5169
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/sawgrass-country-club-west-east",
       "files": [
         "course.json",
@@ -24594,10 +25245,11 @@
         "sawgrass-country-club-west-east-08.svg",
         "sawgrass-country-club-west-east-09.svg",
         "sawgrass-country-club-west-east-13.svg",
+        "sawgrass-country-club-west-east-16.svg",
         "sawgrass-country-club-west-east-17.svg",
         "sawgrass-country-club-west-east-18.svg"
       ],
-      "bytes": 90663,
+      "bytes": 95829,
       "lat": 30.188018,
       "lng": -81.370232
     },
@@ -24623,7 +25275,7 @@
         "Red": 4860,
         "Purple": 4103
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/scenic-hills-country-club",
       "files": [
         "course.json",
@@ -24635,14 +25287,16 @@
         "scenic-hills-country-club-06.svg",
         "scenic-hills-country-club-07.svg",
         "scenic-hills-country-club-08.svg",
+        "scenic-hills-country-club-09.svg",
         "scenic-hills-country-club-10.svg",
         "scenic-hills-country-club-13.svg",
+        "scenic-hills-country-club-14.svg",
         "scenic-hills-country-club-15.svg",
         "scenic-hills-country-club-16.svg",
         "scenic-hills-country-club-17.svg",
         "scenic-hills-country-club-18.svg"
       ],
-      "bytes": 43937,
+      "bytes": 49669,
       "lat": 30.54324,
       "lng": -87.235605
     },
@@ -24917,7 +25571,7 @@
         "Gold": 5013,
         "Red": 4416
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/second-third-at-lake-venice-golf-club",
       "files": [
         "course.json",
@@ -24929,9 +25583,18 @@
         "second-third-at-lake-venice-golf-club-06.svg",
         "second-third-at-lake-venice-golf-club-07.svg",
         "second-third-at-lake-venice-golf-club-08.svg",
-        "second-third-at-lake-venice-golf-club-09.svg"
+        "second-third-at-lake-venice-golf-club-09.svg",
+        "second-third-at-lake-venice-golf-club-10.svg",
+        "second-third-at-lake-venice-golf-club-11.svg",
+        "second-third-at-lake-venice-golf-club-12.svg",
+        "second-third-at-lake-venice-golf-club-13.svg",
+        "second-third-at-lake-venice-golf-club-14.svg",
+        "second-third-at-lake-venice-golf-club-15.svg",
+        "second-third-at-lake-venice-golf-club-16.svg",
+        "second-third-at-lake-venice-golf-club-17.svg",
+        "second-third-at-lake-venice-golf-club-18.svg"
       ],
-      "bytes": 35182,
+      "bytes": 66439,
       "lat": 27.064481,
       "lng": -82.445978
     },
@@ -25503,7 +26166,7 @@
         "Red": 5295,
         "Green": 4769
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/skyview-at-terra-vista",
       "files": [
         "course.json",
@@ -25513,18 +26176,20 @@
         "skyview-at-terra-vista-04.svg",
         "skyview-at-terra-vista-05.svg",
         "skyview-at-terra-vista-06.svg",
+        "skyview-at-terra-vista-07.svg",
         "skyview-at-terra-vista-08.svg",
         "skyview-at-terra-vista-09.svg",
         "skyview-at-terra-vista-10.svg",
         "skyview-at-terra-vista-11.svg",
         "skyview-at-terra-vista-12.svg",
         "skyview-at-terra-vista-13.svg",
+        "skyview-at-terra-vista-14.svg",
         "skyview-at-terra-vista-15.svg",
         "skyview-at-terra-vista-16.svg",
         "skyview-at-terra-vista-17.svg",
         "skyview-at-terra-vista-18.svg"
       ],
-      "bytes": 97357,
+      "bytes": 104511,
       "lat": 28.89418,
       "lng": -82.451052
     },
@@ -25685,7 +26350,7 @@
         "Gold": 5317,
         "Red": 5074
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/south-at-bay-palms-golf-complex",
       "files": [
         "course.json",
@@ -25701,13 +26366,14 @@
         "south-at-bay-palms-golf-complex-10.svg",
         "south-at-bay-palms-golf-complex-11.svg",
         "south-at-bay-palms-golf-complex-12.svg",
+        "south-at-bay-palms-golf-complex-13.svg",
         "south-at-bay-palms-golf-complex-14.svg",
         "south-at-bay-palms-golf-complex-15.svg",
         "south-at-bay-palms-golf-complex-16.svg",
         "south-at-bay-palms-golf-complex-17.svg",
         "south-at-bay-palms-golf-complex-18.svg"
       ],
-      "bytes": 91527,
+      "bytes": 96232,
       "lat": 27.836204,
       "lng": -82.47151
     },
@@ -26040,12 +26706,21 @@
         "Red/Green": 4324,
         "Green": 3932
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/south-north-at-spanish-wells-country-club",
       "files": [
-        "course.json"
+        "course.json",
+        "south-north-at-spanish-wells-country-club-01.svg",
+        "south-north-at-spanish-wells-country-club-02.svg",
+        "south-north-at-spanish-wells-country-club-03.svg",
+        "south-north-at-spanish-wells-country-club-04.svg",
+        "south-north-at-spanish-wells-country-club-05.svg",
+        "south-north-at-spanish-wells-country-club-06.svg",
+        "south-north-at-spanish-wells-country-club-07.svg",
+        "south-north-at-spanish-wells-country-club-08.svg",
+        "south-north-at-spanish-wells-country-club-09.svg"
       ],
-      "bytes": 5751,
+      "bytes": 39685,
       "lat": 26.325007,
       "lng": -81.797958
     },
@@ -27217,7 +27892,7 @@
         "Silver/Gold": 5796,
         "Gold": 5512
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/streamsong-resort-blue-course",
       "files": [
         "course.json",
@@ -27228,6 +27903,7 @@
         "streamsong-resort-blue-course-05.svg",
         "streamsong-resort-blue-course-06.svg",
         "streamsong-resort-blue-course-07.svg",
+        "streamsong-resort-blue-course-08.svg",
         "streamsong-resort-blue-course-09.svg",
         "streamsong-resort-blue-course-10.svg",
         "streamsong-resort-blue-course-11.svg",
@@ -27239,7 +27915,7 @@
         "streamsong-resort-blue-course-17.svg",
         "streamsong-resort-blue-course-18.svg"
       ],
-      "bytes": 153799,
+      "bytes": 162876,
       "lat": 27.677705,
       "lng": -81.932506
     },
@@ -27269,7 +27945,7 @@
         "Silver/Gold": 5309,
         "Gold": 4861
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/streamsong-resort-red-course",
       "files": [
         "course.json",
@@ -27277,6 +27953,7 @@
         "streamsong-resort-red-course-02.svg",
         "streamsong-resort-red-course-03.svg",
         "streamsong-resort-red-course-04.svg",
+        "streamsong-resort-red-course-05.svg",
         "streamsong-resort-red-course-06.svg",
         "streamsong-resort-red-course-07.svg",
         "streamsong-resort-red-course-08.svg",
@@ -27291,7 +27968,7 @@
         "streamsong-resort-red-course-17.svg",
         "streamsong-resort-red-course-18.svg"
       ],
-      "bytes": 179720,
+      "bytes": 189974,
       "lat": 27.692897,
       "lng": -81.93434
     },
@@ -27431,12 +28108,28 @@
         "Red": 4724,
         "Purple": 4017
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/summerglen-golf-club",
       "files": [
-        "course.json"
+        "course.json",
+        "summerglen-golf-club-01.svg",
+        "summerglen-golf-club-02.svg",
+        "summerglen-golf-club-03.svg",
+        "summerglen-golf-club-04.svg",
+        "summerglen-golf-club-06.svg",
+        "summerglen-golf-club-07.svg",
+        "summerglen-golf-club-09.svg",
+        "summerglen-golf-club-10.svg",
+        "summerglen-golf-club-11.svg",
+        "summerglen-golf-club-12.svg",
+        "summerglen-golf-club-13.svg",
+        "summerglen-golf-club-14.svg",
+        "summerglen-golf-club-15.svg",
+        "summerglen-golf-club-16.svg",
+        "summerglen-golf-club-17.svg",
+        "summerglen-golf-club-18.svg"
       ],
-      "bytes": 4891,
+      "bytes": 61813,
       "lat": 28.99061,
       "lng": -82.150833
     },
@@ -27493,11 +28186,13 @@
         "Red/Magenta": 5127,
         "Red/Gold": 4892
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/sunrise-course-at-country-club-at-mirasol",
       "files": [
         "course.json",
         "sunrise-course-at-country-club-at-mirasol-01.svg",
+        "sunrise-course-at-country-club-at-mirasol-02.svg",
+        "sunrise-course-at-country-club-at-mirasol-03.svg",
         "sunrise-course-at-country-club-at-mirasol-04.svg",
         "sunrise-course-at-country-club-at-mirasol-05.svg",
         "sunrise-course-at-country-club-at-mirasol-06.svg",
@@ -27507,11 +28202,14 @@
         "sunrise-course-at-country-club-at-mirasol-10.svg",
         "sunrise-course-at-country-club-at-mirasol-11.svg",
         "sunrise-course-at-country-club-at-mirasol-12.svg",
+        "sunrise-course-at-country-club-at-mirasol-13.svg",
+        "sunrise-course-at-country-club-at-mirasol-14.svg",
         "sunrise-course-at-country-club-at-mirasol-15.svg",
+        "sunrise-course-at-country-club-at-mirasol-16.svg",
         "sunrise-course-at-country-club-at-mirasol-17.svg",
         "sunrise-course-at-country-club-at-mirasol-18.svg"
       ],
-      "bytes": 69289,
+      "bytes": 89387,
       "lat": 26.848776,
       "lng": -80.157729
     },
@@ -27787,7 +28485,7 @@
         "Red": 4957,
         "Green": 3667
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/tanglewood-golf-and-country-club",
       "files": [
         "course.json",
@@ -27796,6 +28494,7 @@
         "tanglewood-golf-and-country-club-03.svg",
         "tanglewood-golf-and-country-club-04.svg",
         "tanglewood-golf-and-country-club-05.svg",
+        "tanglewood-golf-and-country-club-06.svg",
         "tanglewood-golf-and-country-club-07.svg",
         "tanglewood-golf-and-country-club-08.svg",
         "tanglewood-golf-and-country-club-09.svg",
@@ -27806,9 +28505,10 @@
         "tanglewood-golf-and-country-club-14.svg",
         "tanglewood-golf-and-country-club-15.svg",
         "tanglewood-golf-and-country-club-16.svg",
+        "tanglewood-golf-and-country-club-17.svg",
         "tanglewood-golf-and-country-club-18.svg"
       ],
-      "bytes": 69556,
+      "bytes": 77117,
       "lat": 30.650592,
       "lng": -87.078939
     },
@@ -28011,7 +28711,7 @@
         "Red": 5434,
         "Silver": 4846
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/temple-terrace-golf-country-club",
       "files": [
         "course.json",
@@ -28026,13 +28726,15 @@
         "temple-terrace-golf-country-club-09.svg",
         "temple-terrace-golf-country-club-10.svg",
         "temple-terrace-golf-country-club-11.svg",
+        "temple-terrace-golf-country-club-12.svg",
+        "temple-terrace-golf-country-club-13.svg",
         "temple-terrace-golf-country-club-14.svg",
         "temple-terrace-golf-country-club-15.svg",
         "temple-terrace-golf-country-club-16.svg",
         "temple-terrace-golf-country-club-17.svg",
         "temple-terrace-golf-country-club-18.svg"
       ],
-      "bytes": 68847,
+      "bytes": 76268,
       "lat": 28.036132,
       "lng": -82.384947
     },
@@ -28609,7 +29311,7 @@
         "Red/Aqua": 4843,
         "Aqua": 4623
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-classics-country-club",
       "files": [
         "course.json",
@@ -28620,16 +29322,19 @@
         "the-classics-country-club-05.svg",
         "the-classics-country-club-06.svg",
         "the-classics-country-club-07.svg",
+        "the-classics-country-club-08.svg",
         "the-classics-country-club-09.svg",
+        "the-classics-country-club-10.svg",
         "the-classics-country-club-11.svg",
         "the-classics-country-club-12.svg",
+        "the-classics-country-club-13.svg",
         "the-classics-country-club-14.svg",
         "the-classics-country-club-15.svg",
         "the-classics-country-club-16.svg",
         "the-classics-country-club-17.svg",
         "the-classics-country-club-18.svg"
       ],
-      "bytes": 100763,
+      "bytes": 121866,
       "lat": 26.090936,
       "lng": -81.697586
     },
@@ -28768,7 +29473,7 @@
         "White": 5754,
         "White/Green": 5454
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/the-club-at-ibis-the-heritage-course",
       "files": [
         "course.json",
@@ -28782,13 +29487,14 @@
         "the-club-at-ibis-the-heritage-course-08.svg",
         "the-club-at-ibis-the-heritage-course-09.svg",
         "the-club-at-ibis-the-heritage-course-10.svg",
+        "the-club-at-ibis-the-heritage-course-11.svg",
         "the-club-at-ibis-the-heritage-course-12.svg",
         "the-club-at-ibis-the-heritage-course-14.svg",
         "the-club-at-ibis-the-heritage-course-15.svg",
         "the-club-at-ibis-the-heritage-course-16.svg",
         "the-club-at-ibis-the-heritage-course-17.svg"
       ],
-      "bytes": 88535,
+      "bytes": 92070,
       "lat": 26.797874,
       "lng": -80.206642
     },
@@ -28820,12 +29526,30 @@
         "1.5": 4736,
         "I": 4503
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/the-club-at-ibis-the-legend-course",
       "files": [
-        "course.json"
+        "course.json",
+        "the-club-at-ibis-the-legend-course-01.svg",
+        "the-club-at-ibis-the-legend-course-02.svg",
+        "the-club-at-ibis-the-legend-course-03.svg",
+        "the-club-at-ibis-the-legend-course-04.svg",
+        "the-club-at-ibis-the-legend-course-05.svg",
+        "the-club-at-ibis-the-legend-course-06.svg",
+        "the-club-at-ibis-the-legend-course-07.svg",
+        "the-club-at-ibis-the-legend-course-08.svg",
+        "the-club-at-ibis-the-legend-course-09.svg",
+        "the-club-at-ibis-the-legend-course-10.svg",
+        "the-club-at-ibis-the-legend-course-11.svg",
+        "the-club-at-ibis-the-legend-course-12.svg",
+        "the-club-at-ibis-the-legend-course-13.svg",
+        "the-club-at-ibis-the-legend-course-14.svg",
+        "the-club-at-ibis-the-legend-course-15.svg",
+        "the-club-at-ibis-the-legend-course-16.svg",
+        "the-club-at-ibis-the-legend-course-17.svg",
+        "the-club-at-ibis-the-legend-course-18.svg"
       ],
-      "bytes": 5159,
+      "bytes": 99830,
       "lat": 26.797874,
       "lng": -80.206642
     },
@@ -28857,7 +29581,7 @@
         "II": 5242,
         "Forward": 3792
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-club-at-ibis-the-tradition-course",
       "files": [
         "course.json",
@@ -28865,7 +29589,12 @@
         "the-club-at-ibis-the-tradition-course-02.svg",
         "the-club-at-ibis-the-tradition-course-03.svg",
         "the-club-at-ibis-the-tradition-course-04.svg",
+        "the-club-at-ibis-the-tradition-course-05.svg",
+        "the-club-at-ibis-the-tradition-course-06.svg",
+        "the-club-at-ibis-the-tradition-course-07.svg",
         "the-club-at-ibis-the-tradition-course-08.svg",
+        "the-club-at-ibis-the-tradition-course-09.svg",
+        "the-club-at-ibis-the-tradition-course-10.svg",
         "the-club-at-ibis-the-tradition-course-11.svg",
         "the-club-at-ibis-the-tradition-course-12.svg",
         "the-club-at-ibis-the-tradition-course-13.svg",
@@ -28875,7 +29604,7 @@
         "the-club-at-ibis-the-tradition-course-17.svg",
         "the-club-at-ibis-the-tradition-course-18.svg"
       ],
-      "bytes": 84370,
+      "bytes": 108810,
       "lat": 26.797874,
       "lng": -80.206642
     },
@@ -28909,12 +29638,30 @@
         "Iv/V": 5505,
         "V": 5205
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/the-club-at-mediterra-north-course",
       "files": [
-        "course.json"
+        "course.json",
+        "the-club-at-mediterra-north-course-01.svg",
+        "the-club-at-mediterra-north-course-02.svg",
+        "the-club-at-mediterra-north-course-03.svg",
+        "the-club-at-mediterra-north-course-04.svg",
+        "the-club-at-mediterra-north-course-05.svg",
+        "the-club-at-mediterra-north-course-06.svg",
+        "the-club-at-mediterra-north-course-07.svg",
+        "the-club-at-mediterra-north-course-08.svg",
+        "the-club-at-mediterra-north-course-09.svg",
+        "the-club-at-mediterra-north-course-10.svg",
+        "the-club-at-mediterra-north-course-11.svg",
+        "the-club-at-mediterra-north-course-12.svg",
+        "the-club-at-mediterra-north-course-13.svg",
+        "the-club-at-mediterra-north-course-14.svg",
+        "the-club-at-mediterra-north-course-15.svg",
+        "the-club-at-mediterra-north-course-16.svg",
+        "the-club-at-mediterra-north-course-17.svg",
+        "the-club-at-mediterra-north-course-18.svg"
       ],
-      "bytes": 5674,
+      "bytes": 110435,
       "lat": 26.310088,
       "lng": -81.770639
     },
@@ -28946,12 +29693,15 @@
         "Iv/V": 5397,
         "V": 5074
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-club-at-mediterra-south-course",
       "files": [
         "course.json",
         "the-club-at-mediterra-south-course-01.svg",
+        "the-club-at-mediterra-south-course-02.svg",
+        "the-club-at-mediterra-south-course-03.svg",
         "the-club-at-mediterra-south-course-04.svg",
+        "the-club-at-mediterra-south-course-05.svg",
         "the-club-at-mediterra-south-course-06.svg",
         "the-club-at-mediterra-south-course-07.svg",
         "the-club-at-mediterra-south-course-08.svg",
@@ -28963,9 +29713,10 @@
         "the-club-at-mediterra-south-course-14.svg",
         "the-club-at-mediterra-south-course-15.svg",
         "the-club-at-mediterra-south-course-16.svg",
+        "the-club-at-mediterra-south-course-17.svg",
         "the-club-at-mediterra-south-course-18.svg"
       ],
-      "bytes": 91250,
+      "bytes": 108205,
       "lat": 26.310088,
       "lng": -81.770639
     },
@@ -28999,7 +29750,7 @@
         "Lady Dye": 4376,
         "Calusa": 4100
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/the-club-at-olde-cypress",
       "files": [
         "course.json",
@@ -29009,16 +29760,20 @@
         "the-club-at-olde-cypress-04.svg",
         "the-club-at-olde-cypress-05.svg",
         "the-club-at-olde-cypress-06.svg",
+        "the-club-at-olde-cypress-07.svg",
         "the-club-at-olde-cypress-08.svg",
         "the-club-at-olde-cypress-09.svg",
+        "the-club-at-olde-cypress-10.svg",
         "the-club-at-olde-cypress-11.svg",
         "the-club-at-olde-cypress-12.svg",
         "the-club-at-olde-cypress-13.svg",
         "the-club-at-olde-cypress-14.svg",
         "the-club-at-olde-cypress-15.svg",
-        "the-club-at-olde-cypress-17.svg"
+        "the-club-at-olde-cypress-16.svg",
+        "the-club-at-olde-cypress-17.svg",
+        "the-club-at-olde-cypress-18.svg"
       ],
-      "bytes": 76049,
+      "bytes": 96495,
       "lat": 26.277831,
       "lng": -81.720501
     },
@@ -29112,12 +29867,30 @@
         "Red": 4521,
         "Scoring": 3854
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/the-club-at-the-strand-preserve-savannah-course",
       "files": [
-        "course.json"
+        "course.json",
+        "the-club-at-the-strand-preserve-savannah-course-01.svg",
+        "the-club-at-the-strand-preserve-savannah-course-02.svg",
+        "the-club-at-the-strand-preserve-savannah-course-03.svg",
+        "the-club-at-the-strand-preserve-savannah-course-04.svg",
+        "the-club-at-the-strand-preserve-savannah-course-05.svg",
+        "the-club-at-the-strand-preserve-savannah-course-06.svg",
+        "the-club-at-the-strand-preserve-savannah-course-07.svg",
+        "the-club-at-the-strand-preserve-savannah-course-08.svg",
+        "the-club-at-the-strand-preserve-savannah-course-09.svg",
+        "the-club-at-the-strand-preserve-savannah-course-10.svg",
+        "the-club-at-the-strand-preserve-savannah-course-11.svg",
+        "the-club-at-the-strand-preserve-savannah-course-12.svg",
+        "the-club-at-the-strand-preserve-savannah-course-13.svg",
+        "the-club-at-the-strand-preserve-savannah-course-14.svg",
+        "the-club-at-the-strand-preserve-savannah-course-15.svg",
+        "the-club-at-the-strand-preserve-savannah-course-16.svg",
+        "the-club-at-the-strand-preserve-savannah-course-17.svg",
+        "the-club-at-the-strand-preserve-savannah-course-18.svg"
       ],
-      "bytes": 6259,
+      "bytes": 98516,
       "lat": 26.292532,
       "lng": -81.747026
     },
@@ -29153,12 +29926,30 @@
         "Red": 4503,
         "Scoring": 3759
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/the-club-at-the-strand-sabal-preserve-course",
       "files": [
-        "course.json"
+        "course.json",
+        "the-club-at-the-strand-sabal-preserve-course-01.svg",
+        "the-club-at-the-strand-sabal-preserve-course-02.svg",
+        "the-club-at-the-strand-sabal-preserve-course-03.svg",
+        "the-club-at-the-strand-sabal-preserve-course-04.svg",
+        "the-club-at-the-strand-sabal-preserve-course-05.svg",
+        "the-club-at-the-strand-sabal-preserve-course-06.svg",
+        "the-club-at-the-strand-sabal-preserve-course-07.svg",
+        "the-club-at-the-strand-sabal-preserve-course-08.svg",
+        "the-club-at-the-strand-sabal-preserve-course-09.svg",
+        "the-club-at-the-strand-sabal-preserve-course-10.svg",
+        "the-club-at-the-strand-sabal-preserve-course-11.svg",
+        "the-club-at-the-strand-sabal-preserve-course-12.svg",
+        "the-club-at-the-strand-sabal-preserve-course-13.svg",
+        "the-club-at-the-strand-sabal-preserve-course-14.svg",
+        "the-club-at-the-strand-sabal-preserve-course-15.svg",
+        "the-club-at-the-strand-sabal-preserve-course-16.svg",
+        "the-club-at-the-strand-sabal-preserve-course-17.svg",
+        "the-club-at-the-strand-sabal-preserve-course-18.svg"
       ],
-      "bytes": 6625,
+      "bytes": 100905,
       "lat": 26.292532,
       "lng": -81.747026
     },
@@ -29192,12 +29983,30 @@
         "Red": 4622,
         "Scoring": 3955
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/the-club-at-the-strand-savannah-sabal-course",
       "files": [
-        "course.json"
+        "course.json",
+        "the-club-at-the-strand-savannah-sabal-course-01.svg",
+        "the-club-at-the-strand-savannah-sabal-course-02.svg",
+        "the-club-at-the-strand-savannah-sabal-course-03.svg",
+        "the-club-at-the-strand-savannah-sabal-course-04.svg",
+        "the-club-at-the-strand-savannah-sabal-course-05.svg",
+        "the-club-at-the-strand-savannah-sabal-course-06.svg",
+        "the-club-at-the-strand-savannah-sabal-course-07.svg",
+        "the-club-at-the-strand-savannah-sabal-course-08.svg",
+        "the-club-at-the-strand-savannah-sabal-course-09.svg",
+        "the-club-at-the-strand-savannah-sabal-course-10.svg",
+        "the-club-at-the-strand-savannah-sabal-course-11.svg",
+        "the-club-at-the-strand-savannah-sabal-course-12.svg",
+        "the-club-at-the-strand-savannah-sabal-course-13.svg",
+        "the-club-at-the-strand-savannah-sabal-course-14.svg",
+        "the-club-at-the-strand-savannah-sabal-course-15.svg",
+        "the-club-at-the-strand-savannah-sabal-course-16.svg",
+        "the-club-at-the-strand-savannah-sabal-course-17.svg",
+        "the-club-at-the-strand-savannah-sabal-course-18.svg"
       ],
-      "bytes": 6252,
+      "bytes": 102145,
       "lat": 26.292532,
       "lng": -81.747026
     },
@@ -29331,19 +30140,30 @@
         "Red/Green": 4490,
         "Green": 4337
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-club-pelican-bay-club-bay-course",
       "files": [
         "course.json",
         "the-club-pelican-bay-club-bay-course-01.svg",
         "the-club-pelican-bay-club-bay-course-02.svg",
+        "the-club-pelican-bay-club-bay-course-03.svg",
+        "the-club-pelican-bay-club-bay-course-04.svg",
         "the-club-pelican-bay-club-bay-course-05.svg",
         "the-club-pelican-bay-club-bay-course-06.svg",
         "the-club-pelican-bay-club-bay-course-07.svg",
         "the-club-pelican-bay-club-bay-course-08.svg",
-        "the-club-pelican-bay-club-bay-course-09.svg"
+        "the-club-pelican-bay-club-bay-course-09.svg",
+        "the-club-pelican-bay-club-bay-course-10.svg",
+        "the-club-pelican-bay-club-bay-course-11.svg",
+        "the-club-pelican-bay-club-bay-course-12.svg",
+        "the-club-pelican-bay-club-bay-course-13.svg",
+        "the-club-pelican-bay-club-bay-course-14.svg",
+        "the-club-pelican-bay-club-bay-course-15.svg",
+        "the-club-pelican-bay-club-bay-course-16.svg",
+        "the-club-pelican-bay-club-bay-course-17.svg",
+        "the-club-pelican-bay-club-bay-course-18.svg"
       ],
-      "bytes": 51433,
+      "bytes": 111070,
       "lat": 26.231334,
       "lng": -81.806743
     },
@@ -29375,19 +30195,30 @@
         "Red/Green": 4624,
         "Green": 4417
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-club-pelican-bay-club-pelican-course",
       "files": [
         "course.json",
         "the-club-pelican-bay-club-pelican-course-01.svg",
         "the-club-pelican-bay-club-pelican-course-02.svg",
+        "the-club-pelican-bay-club-pelican-course-03.svg",
         "the-club-pelican-bay-club-pelican-course-04.svg",
         "the-club-pelican-bay-club-pelican-course-05.svg",
         "the-club-pelican-bay-club-pelican-course-06.svg",
         "the-club-pelican-bay-club-pelican-course-07.svg",
-        "the-club-pelican-bay-club-pelican-course-08.svg"
+        "the-club-pelican-bay-club-pelican-course-08.svg",
+        "the-club-pelican-bay-club-pelican-course-09.svg",
+        "the-club-pelican-bay-club-pelican-course-10.svg",
+        "the-club-pelican-bay-club-pelican-course-11.svg",
+        "the-club-pelican-bay-club-pelican-course-12.svg",
+        "the-club-pelican-bay-club-pelican-course-13.svg",
+        "the-club-pelican-bay-club-pelican-course-14.svg",
+        "the-club-pelican-bay-club-pelican-course-15.svg",
+        "the-club-pelican-bay-club-pelican-course-16.svg",
+        "the-club-pelican-bay-club-pelican-course-17.svg",
+        "the-club-pelican-bay-club-pelican-course-18.svg"
       ],
-      "bytes": 44885,
+      "bytes": 118184,
       "lat": 26.231334,
       "lng": -81.806743
     },
@@ -29524,21 +30355,12 @@
         "Web": 3832,
         "White": 1088
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-concession-golf-club-the-gimme-course",
       "files": [
-        "course.json",
-        "the-concession-golf-club-the-gimme-course-01.svg",
-        "the-concession-golf-club-the-gimme-course-02.svg",
-        "the-concession-golf-club-the-gimme-course-03.svg",
-        "the-concession-golf-club-the-gimme-course-04.svg",
-        "the-concession-golf-club-the-gimme-course-05.svg",
-        "the-concession-golf-club-the-gimme-course-06.svg",
-        "the-concession-golf-club-the-gimme-course-07.svg",
-        "the-concession-golf-club-the-gimme-course-08.svg",
-        "the-concession-golf-club-the-gimme-course-09.svg"
+        "course.json"
       ],
-      "bytes": 63372,
+      "bytes": 1491,
       "lat": 27.403994,
       "lng": -82.344749
     },
@@ -29712,7 +30534,7 @@
         "IV": 3997,
         "V": 3204
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-dunes-golf-tennis-club",
       "files": [
         "course.json",
@@ -29729,12 +30551,13 @@
         "the-dunes-golf-tennis-club-11.svg",
         "the-dunes-golf-tennis-club-12.svg",
         "the-dunes-golf-tennis-club-13.svg",
+        "the-dunes-golf-tennis-club-14.svg",
         "the-dunes-golf-tennis-club-15.svg",
         "the-dunes-golf-tennis-club-16.svg",
         "the-dunes-golf-tennis-club-17.svg",
         "the-dunes-golf-tennis-club-18.svg"
       ],
-      "bytes": 101309,
+      "bytes": 107931,
       "lat": 26.454512,
       "lng": -82.042271
     },
@@ -30294,12 +31117,14 @@
         "Gold": 5091,
         "Quartz": 4749
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-golf-lodge-at-the-quarry",
       "files": [
         "course.json",
         "the-golf-lodge-at-the-quarry-01.svg",
+        "the-golf-lodge-at-the-quarry-02.svg",
         "the-golf-lodge-at-the-quarry-03.svg",
+        "the-golf-lodge-at-the-quarry-04.svg",
         "the-golf-lodge-at-the-quarry-05.svg",
         "the-golf-lodge-at-the-quarry-06.svg",
         "the-golf-lodge-at-the-quarry-07.svg",
@@ -30311,9 +31136,11 @@
         "the-golf-lodge-at-the-quarry-13.svg",
         "the-golf-lodge-at-the-quarry-14.svg",
         "the-golf-lodge-at-the-quarry-15.svg",
-        "the-golf-lodge-at-the-quarry-16.svg"
+        "the-golf-lodge-at-the-quarry-16.svg",
+        "the-golf-lodge-at-the-quarry-17.svg",
+        "the-golf-lodge-at-the-quarry-18.svg"
       ],
-      "bytes": 82456,
+      "bytes": 106468,
       "lat": 26.27864,
       "lng": -81.677213
     },
@@ -30948,12 +31775,13 @@
         "White/Red": 5123,
         "Red": 4839
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-palencia-club",
       "files": [
         "course.json",
         "the-palencia-club-01.svg",
         "the-palencia-club-02.svg",
+        "the-palencia-club-03.svg",
         "the-palencia-club-04.svg",
         "the-palencia-club-05.svg",
         "the-palencia-club-06.svg",
@@ -30961,6 +31789,7 @@
         "the-palencia-club-08.svg",
         "the-palencia-club-09.svg",
         "the-palencia-club-10.svg",
+        "the-palencia-club-11.svg",
         "the-palencia-club-12.svg",
         "the-palencia-club-13.svg",
         "the-palencia-club-14.svg",
@@ -30969,7 +31798,7 @@
         "the-palencia-club-17.svg",
         "the-palencia-club-18.svg"
       ],
-      "bytes": 70306,
+      "bytes": 77381,
       "lat": 30.026354,
       "lng": -81.385205
     },
@@ -31599,7 +32428,7 @@
         "Gold": 5042,
         "Red": 4337
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/third-first-at-lake-venice-golf-club",
       "files": [
         "course.json",
@@ -31611,9 +32440,18 @@
         "third-first-at-lake-venice-golf-club-06.svg",
         "third-first-at-lake-venice-golf-club-07.svg",
         "third-first-at-lake-venice-golf-club-08.svg",
-        "third-first-at-lake-venice-golf-club-09.svg"
+        "third-first-at-lake-venice-golf-club-09.svg",
+        "third-first-at-lake-venice-golf-club-10.svg",
+        "third-first-at-lake-venice-golf-club-11.svg",
+        "third-first-at-lake-venice-golf-club-12.svg",
+        "third-first-at-lake-venice-golf-club-13.svg",
+        "third-first-at-lake-venice-golf-club-14.svg",
+        "third-first-at-lake-venice-golf-club-15.svg",
+        "third-first-at-lake-venice-golf-club-16.svg",
+        "third-first-at-lake-venice-golf-club-17.svg",
+        "third-first-at-lake-venice-golf-club-18.svg"
       ],
-      "bytes": 34738,
+      "bytes": 66826,
       "lat": 27.064481,
       "lng": -82.445978
     },
@@ -31698,11 +32536,12 @@
         "Blue/Lavender": 5391,
         "Lavender": 5112
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/tiburon-golf-club-the-gold-course",
       "files": [
         "course.json",
         "tiburon-golf-club-the-gold-course-01.svg",
+        "tiburon-golf-club-the-gold-course-02.svg",
         "tiburon-golf-club-the-gold-course-03.svg",
         "tiburon-golf-club-the-gold-course-04.svg",
         "tiburon-golf-club-the-gold-course-05.svg",
@@ -31717,9 +32556,10 @@
         "tiburon-golf-club-the-gold-course-14.svg",
         "tiburon-golf-club-the-gold-course-15.svg",
         "tiburon-golf-club-the-gold-course-16.svg",
-        "tiburon-golf-club-the-gold-course-17.svg"
+        "tiburon-golf-club-the-gold-course-17.svg",
+        "tiburon-golf-club-the-gold-course-18.svg"
       ],
-      "bytes": 84306,
+      "bytes": 96664,
       "lat": 26.247831,
       "lng": -81.764888
     },
@@ -31743,7 +32583,7 @@
         "Gray": 5597,
         "Red": 5241
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/tiger-point-golf-club",
       "files": [
         "course.json",
@@ -31762,9 +32602,11 @@
         "tiger-point-golf-club-13.svg",
         "tiger-point-golf-club-14.svg",
         "tiger-point-golf-club-15.svg",
-        "tiger-point-golf-club-16.svg"
+        "tiger-point-golf-club-16.svg",
+        "tiger-point-golf-club-17.svg",
+        "tiger-point-golf-club-18.svg"
       ],
-      "bytes": 91986,
+      "bytes": 100238,
       "lat": 30.383366,
       "lng": -87.078554
     },
@@ -32012,19 +32854,30 @@
         "Green": 4732,
         "Friendly": 3751
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/torri-erinn-at-nancy-lopez-legacy-golf-country-club",
       "files": [
         "course.json",
         "torri-erinn-at-nancy-lopez-legacy-golf-country-club-01.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-02.svg",
         "torri-erinn-at-nancy-lopez-legacy-golf-country-club-03.svg",
         "torri-erinn-at-nancy-lopez-legacy-golf-country-club-04.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-05.svg",
         "torri-erinn-at-nancy-lopez-legacy-golf-country-club-06.svg",
         "torri-erinn-at-nancy-lopez-legacy-golf-country-club-07.svg",
         "torri-erinn-at-nancy-lopez-legacy-golf-country-club-08.svg",
-        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-09.svg"
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-09.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-10.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-11.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-12.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-13.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-14.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-15.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-16.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-17.svg",
+        "torri-erinn-at-nancy-lopez-legacy-golf-country-club-18.svg"
       ],
-      "bytes": 37834,
+      "bytes": 87247,
       "lat": 28.973091,
       "lng": -82.014098
     },
@@ -32120,13 +32973,15 @@
         "Green/Red": 4916,
         "Red": 4665
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/tpc-prestancia-the-stadium-course",
       "files": [
         "course.json",
         "tpc-prestancia-the-stadium-course-01.svg",
         "tpc-prestancia-the-stadium-course-02.svg",
         "tpc-prestancia-the-stadium-course-03.svg",
+        "tpc-prestancia-the-stadium-course-04.svg",
+        "tpc-prestancia-the-stadium-course-05.svg",
         "tpc-prestancia-the-stadium-course-06.svg",
         "tpc-prestancia-the-stadium-course-07.svg",
         "tpc-prestancia-the-stadium-course-08.svg",
@@ -32141,7 +32996,7 @@
         "tpc-prestancia-the-stadium-course-17.svg",
         "tpc-prestancia-the-stadium-course-18.svg"
       ],
-      "bytes": 93671,
+      "bytes": 103566,
       "lat": 27.245665,
       "lng": -82.480157
     },
@@ -32218,7 +33073,7 @@
         "White/Green (W)": 5509,
         "Green (W)": 5019
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/tpc-sawgrass-the-players-stadium-course",
       "files": [
         "course.json",
@@ -32229,15 +33084,19 @@
         "tpc-sawgrass-the-players-stadium-course-05.svg",
         "tpc-sawgrass-the-players-stadium-course-06.svg",
         "tpc-sawgrass-the-players-stadium-course-07.svg",
+        "tpc-sawgrass-the-players-stadium-course-08.svg",
         "tpc-sawgrass-the-players-stadium-course-09.svg",
         "tpc-sawgrass-the-players-stadium-course-10.svg",
+        "tpc-sawgrass-the-players-stadium-course-11.svg",
         "tpc-sawgrass-the-players-stadium-course-12.svg",
         "tpc-sawgrass-the-players-stadium-course-13.svg",
+        "tpc-sawgrass-the-players-stadium-course-14.svg",
+        "tpc-sawgrass-the-players-stadium-course-15.svg",
         "tpc-sawgrass-the-players-stadium-course-16.svg",
         "tpc-sawgrass-the-players-stadium-course-17.svg",
         "tpc-sawgrass-the-players-stadium-course-18.svg"
       ],
-      "bytes": 105193,
+      "bytes": 132813,
       "lat": 30.198002,
       "lng": -81.395514
     },
@@ -32263,7 +33122,7 @@
         "Black": 5519,
         "Red": 4990
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/tpc-tampa-bay",
       "files": [
         "course.json",
@@ -32281,11 +33140,12 @@
         "tpc-tampa-bay-12.svg",
         "tpc-tampa-bay-13.svg",
         "tpc-tampa-bay-14.svg",
+        "tpc-tampa-bay-15.svg",
         "tpc-tampa-bay-16.svg",
         "tpc-tampa-bay-17.svg",
         "tpc-tampa-bay-18.svg"
       ],
-      "bytes": 97232,
+      "bytes": 103982,
       "lat": 28.1548,
       "lng": -82.528631
     },
@@ -32315,12 +33175,30 @@
         "Treviso": 4643,
         "Bay": 4190
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/tpc-treviso-bay",
       "files": [
-        "course.json"
+        "course.json",
+        "tpc-treviso-bay-01.svg",
+        "tpc-treviso-bay-02.svg",
+        "tpc-treviso-bay-03.svg",
+        "tpc-treviso-bay-04.svg",
+        "tpc-treviso-bay-05.svg",
+        "tpc-treviso-bay-06.svg",
+        "tpc-treviso-bay-07.svg",
+        "tpc-treviso-bay-08.svg",
+        "tpc-treviso-bay-09.svg",
+        "tpc-treviso-bay-10.svg",
+        "tpc-treviso-bay-11.svg",
+        "tpc-treviso-bay-12.svg",
+        "tpc-treviso-bay-13.svg",
+        "tpc-treviso-bay-14.svg",
+        "tpc-treviso-bay-15.svg",
+        "tpc-treviso-bay-16.svg",
+        "tpc-treviso-bay-17.svg",
+        "tpc-treviso-bay-18.svg"
       ],
-      "bytes": 5483,
+      "bytes": 103630,
       "lat": 26.071767,
       "lng": -81.733539
     },
@@ -32588,12 +33466,30 @@
         "White": 5653,
         "Red": 4858
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/trump-national-doral-miami-golden-palm-course",
       "files": [
-        "course.json"
+        "course.json",
+        "trump-national-doral-miami-golden-palm-course-01.svg",
+        "trump-national-doral-miami-golden-palm-course-02.svg",
+        "trump-national-doral-miami-golden-palm-course-03.svg",
+        "trump-national-doral-miami-golden-palm-course-04.svg",
+        "trump-national-doral-miami-golden-palm-course-05.svg",
+        "trump-national-doral-miami-golden-palm-course-06.svg",
+        "trump-national-doral-miami-golden-palm-course-07.svg",
+        "trump-national-doral-miami-golden-palm-course-08.svg",
+        "trump-national-doral-miami-golden-palm-course-09.svg",
+        "trump-national-doral-miami-golden-palm-course-10.svg",
+        "trump-national-doral-miami-golden-palm-course-11.svg",
+        "trump-national-doral-miami-golden-palm-course-12.svg",
+        "trump-national-doral-miami-golden-palm-course-13.svg",
+        "trump-national-doral-miami-golden-palm-course-14.svg",
+        "trump-national-doral-miami-golden-palm-course-15.svg",
+        "trump-national-doral-miami-golden-palm-course-16.svg",
+        "trump-national-doral-miami-golden-palm-course-17.svg",
+        "trump-national-doral-miami-golden-palm-course-18.svg"
       ],
-      "bytes": 3916,
+      "bytes": 98988,
       "lat": 25.812967,
       "lng": -80.338718
     },
@@ -32617,12 +33513,30 @@
         "White": 5229,
         "Red": 4525
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/trump-national-doral-miami-red-tiger-course",
       "files": [
-        "course.json"
+        "course.json",
+        "trump-national-doral-miami-red-tiger-course-01.svg",
+        "trump-national-doral-miami-red-tiger-course-02.svg",
+        "trump-national-doral-miami-red-tiger-course-03.svg",
+        "trump-national-doral-miami-red-tiger-course-04.svg",
+        "trump-national-doral-miami-red-tiger-course-05.svg",
+        "trump-national-doral-miami-red-tiger-course-06.svg",
+        "trump-national-doral-miami-red-tiger-course-07.svg",
+        "trump-national-doral-miami-red-tiger-course-08.svg",
+        "trump-national-doral-miami-red-tiger-course-09.svg",
+        "trump-national-doral-miami-red-tiger-course-10.svg",
+        "trump-national-doral-miami-red-tiger-course-11.svg",
+        "trump-national-doral-miami-red-tiger-course-12.svg",
+        "trump-national-doral-miami-red-tiger-course-13.svg",
+        "trump-national-doral-miami-red-tiger-course-14.svg",
+        "trump-national-doral-miami-red-tiger-course-15.svg",
+        "trump-national-doral-miami-red-tiger-course-16.svg",
+        "trump-national-doral-miami-red-tiger-course-17.svg",
+        "trump-national-doral-miami-red-tiger-course-18.svg"
       ],
-      "bytes": 3911,
+      "bytes": 108513,
       "lat": 25.812967,
       "lng": -80.338718
     },
@@ -32736,12 +33650,25 @@
         "Green/Gold": 4661,
         "Gold": 4537
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/turnberry-isle-country-club-soffer-course",
       "files": [
-        "course.json"
+        "course.json",
+        "turnberry-isle-country-club-soffer-course-01.svg",
+        "turnberry-isle-country-club-soffer-course-02.svg",
+        "turnberry-isle-country-club-soffer-course-08.svg",
+        "turnberry-isle-country-club-soffer-course-09.svg",
+        "turnberry-isle-country-club-soffer-course-10.svg",
+        "turnberry-isle-country-club-soffer-course-11.svg",
+        "turnberry-isle-country-club-soffer-course-12.svg",
+        "turnberry-isle-country-club-soffer-course-13.svg",
+        "turnberry-isle-country-club-soffer-course-14.svg",
+        "turnberry-isle-country-club-soffer-course-15.svg",
+        "turnberry-isle-country-club-soffer-course-16.svg",
+        "turnberry-isle-country-club-soffer-course-17.svg",
+        "turnberry-isle-country-club-soffer-course-18.svg"
       ],
-      "bytes": 5329,
+      "bytes": 127418,
       "lat": 25.960639,
       "lng": -80.137564
     },
@@ -33171,22 +34098,27 @@
         "V": 4524,
         "VI": 4067
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/twineagles-golf-country-club-eagle-course",
       "files": [
         "course.json",
         "twineagles-golf-country-club-eagle-course-01.svg",
         "twineagles-golf-country-club-eagle-course-02.svg",
         "twineagles-golf-country-club-eagle-course-03.svg",
+        "twineagles-golf-country-club-eagle-course-04.svg",
+        "twineagles-golf-country-club-eagle-course-05.svg",
         "twineagles-golf-country-club-eagle-course-06.svg",
+        "twineagles-golf-country-club-eagle-course-07.svg",
         "twineagles-golf-country-club-eagle-course-08.svg",
         "twineagles-golf-country-club-eagle-course-09.svg",
+        "twineagles-golf-country-club-eagle-course-10.svg",
+        "twineagles-golf-country-club-eagle-course-11.svg",
+        "twineagles-golf-country-club-eagle-course-12.svg",
+        "twineagles-golf-country-club-eagle-course-13.svg",
         "twineagles-golf-country-club-eagle-course-14.svg",
-        "twineagles-golf-country-club-eagle-course-15.svg",
-        "twineagles-golf-country-club-eagle-course-16.svg",
-        "twineagles-golf-country-club-eagle-course-18.svg"
+        "twineagles-golf-country-club-eagle-course-15.svg"
       ],
-      "bytes": 64265,
+      "bytes": 106554,
       "lat": 26.288307,
       "lng": -81.631003
     },
@@ -33220,7 +34152,7 @@
         "Tee Iv/V": 4870,
         "Tee V": 4503
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/twineagles-golf-country-club-talon-course",
       "files": [
         "course.json",
@@ -33232,8 +34164,10 @@
         "twineagles-golf-country-club-talon-course-06.svg",
         "twineagles-golf-country-club-talon-course-07.svg",
         "twineagles-golf-country-club-talon-course-08.svg",
+        "twineagles-golf-country-club-talon-course-09.svg",
         "twineagles-golf-country-club-talon-course-10.svg",
         "twineagles-golf-country-club-talon-course-11.svg",
+        "twineagles-golf-country-club-talon-course-12.svg",
         "twineagles-golf-country-club-talon-course-13.svg",
         "twineagles-golf-country-club-talon-course-14.svg",
         "twineagles-golf-country-club-talon-course-15.svg",
@@ -33241,7 +34175,7 @@
         "twineagles-golf-country-club-talon-course-17.svg",
         "twineagles-golf-country-club-talon-course-18.svg"
       ],
-      "bytes": 106486,
+      "bytes": 116004,
       "lat": 26.288307,
       "lng": -81.631003
     },
@@ -33490,20 +34424,30 @@
         "Green": 4623,
         "Friendly": 3553
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/virginia-amelia-at-mallory-hill-golf-course",
       "files": [
         "course.json",
         "virginia-amelia-at-mallory-hill-golf-course-01.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-02.svg",
         "virginia-amelia-at-mallory-hill-golf-course-03.svg",
         "virginia-amelia-at-mallory-hill-golf-course-04.svg",
         "virginia-amelia-at-mallory-hill-golf-course-05.svg",
         "virginia-amelia-at-mallory-hill-golf-course-06.svg",
         "virginia-amelia-at-mallory-hill-golf-course-07.svg",
         "virginia-amelia-at-mallory-hill-golf-course-08.svg",
-        "virginia-amelia-at-mallory-hill-golf-course-09.svg"
+        "virginia-amelia-at-mallory-hill-golf-course-09.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-10.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-11.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-12.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-13.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-14.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-15.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-16.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-17.svg",
+        "virginia-amelia-at-mallory-hill-golf-course-18.svg"
       ],
-      "bytes": 42134,
+      "bytes": 86979,
       "lat": 28.895278,
       "lng": -81.967586
     },
@@ -33596,7 +34540,7 @@
         "Gold": 1292,
         "Green": 1030
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/walnut-grove-at-the-villages-executive-golf-trail",
       "files": [
         "course.json",
@@ -33610,7 +34554,7 @@
         "walnut-grove-at-the-villages-executive-golf-trail-08.svg",
         "walnut-grove-at-the-villages-executive-golf-trail-09.svg"
       ],
-      "bytes": 23401,
+      "bytes": 24672,
       "lat": 28.972416,
       "lng": -82.011467
     },
@@ -33834,7 +34778,7 @@
         "White": 5940,
         "Green": 5158
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/wellington-national-golf-club",
       "files": [
         "course.json",
@@ -33850,13 +34794,14 @@
         "wellington-national-golf-club-10.svg",
         "wellington-national-golf-club-11.svg",
         "wellington-national-golf-club-12.svg",
+        "wellington-national-golf-club-13.svg",
         "wellington-national-golf-club-14.svg",
         "wellington-national-golf-club-15.svg",
         "wellington-national-golf-club-16.svg",
         "wellington-national-golf-club-17.svg",
         "wellington-national-golf-club-18.svg"
       ],
-      "bytes": 43259,
+      "bytes": 44599,
       "lat": 26.676628,
       "lng": -80.292715
     },
@@ -33926,30 +34871,12 @@
       "par": 72,
       "tees": [],
       "yards": {},
-      "version": 5,
+      "version": 6,
       "folder": "courses/west-at-imperial-golf-club",
       "files": [
-        "course.json",
-        "west-at-imperial-golf-club-01.svg",
-        "west-at-imperial-golf-club-02.svg",
-        "west-at-imperial-golf-club-03.svg",
-        "west-at-imperial-golf-club-04.svg",
-        "west-at-imperial-golf-club-05.svg",
-        "west-at-imperial-golf-club-06.svg",
-        "west-at-imperial-golf-club-07.svg",
-        "west-at-imperial-golf-club-08.svg",
-        "west-at-imperial-golf-club-09.svg",
-        "west-at-imperial-golf-club-10.svg",
-        "west-at-imperial-golf-club-11.svg",
-        "west-at-imperial-golf-club-12.svg",
-        "west-at-imperial-golf-club-13.svg",
-        "west-at-imperial-golf-club-14.svg",
-        "west-at-imperial-golf-club-15.svg",
-        "west-at-imperial-golf-club-16.svg",
-        "west-at-imperial-golf-club-17.svg",
-        "west-at-imperial-golf-club-18.svg"
+        "course.json"
       ],
-      "bytes": 74197,
+      "bytes": 1801,
       "lat": 26.294496,
       "lng": -81.777242
     },
@@ -34101,12 +35028,27 @@
         "Red": 3871,
         "Platinum": 3441
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/west-at-wycliffe-country-club",
       "files": [
-        "course.json"
+        "course.json",
+        "west-at-wycliffe-country-club-01.svg",
+        "west-at-wycliffe-country-club-02.svg",
+        "west-at-wycliffe-country-club-03.svg",
+        "west-at-wycliffe-country-club-04.svg",
+        "west-at-wycliffe-country-club-05.svg",
+        "west-at-wycliffe-country-club-06.svg",
+        "west-at-wycliffe-country-club-07.svg",
+        "west-at-wycliffe-country-club-08.svg",
+        "west-at-wycliffe-country-club-09.svg",
+        "west-at-wycliffe-country-club-10.svg",
+        "west-at-wycliffe-country-club-12.svg",
+        "west-at-wycliffe-country-club-13.svg",
+        "west-at-wycliffe-country-club-14.svg",
+        "west-at-wycliffe-country-club-15.svg",
+        "west-at-wycliffe-country-club-16.svg"
       ],
-      "bytes": 6037,
+      "bytes": 59258,
       "lat": 26.611487,
       "lng": -80.211825
     },
@@ -34208,25 +35150,30 @@
         "Red": 4960,
         "Green": 4375
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/weston-hills-country-club-players-course",
       "files": [
         "course.json",
         "weston-hills-country-club-players-course-01.svg",
         "weston-hills-country-club-players-course-02.svg",
         "weston-hills-country-club-players-course-03.svg",
+        "weston-hills-country-club-players-course-04.svg",
         "weston-hills-country-club-players-course-05.svg",
         "weston-hills-country-club-players-course-06.svg",
         "weston-hills-country-club-players-course-07.svg",
+        "weston-hills-country-club-players-course-08.svg",
         "weston-hills-country-club-players-course-09.svg",
         "weston-hills-country-club-players-course-10.svg",
         "weston-hills-country-club-players-course-11.svg",
         "weston-hills-country-club-players-course-12.svg",
+        "weston-hills-country-club-players-course-13.svg",
         "weston-hills-country-club-players-course-14.svg",
+        "weston-hills-country-club-players-course-15.svg",
         "weston-hills-country-club-players-course-16.svg",
+        "weston-hills-country-club-players-course-17.svg",
         "weston-hills-country-club-players-course-18.svg"
       ],
-      "bytes": 74360,
+      "bytes": 91630,
       "lat": 26.098609,
       "lng": -80.404798
     },
@@ -34445,12 +35392,19 @@
         "Blue": 3187,
         "Red": 2559
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/white-oak-plantation",
       "files": [
-        "course.json"
+        "course.json",
+        "white-oak-plantation-01.svg",
+        "white-oak-plantation-02.svg",
+        "white-oak-plantation-03.svg",
+        "white-oak-plantation-05.svg",
+        "white-oak-plantation-07.svg",
+        "white-oak-plantation-08.svg",
+        "white-oak-plantation-09.svg"
       ],
-      "bytes": 1627,
+      "bytes": 92775,
       "lat": 30.75357,
       "lng": -81.776485
     },
@@ -34901,20 +35855,12 @@
         "Green": 4527,
         "Orange": 3731
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/woods-at-boca-woods-country-club",
       "files": [
-        "course.json",
-        "woods-at-boca-woods-country-club-01.svg",
-        "woods-at-boca-woods-country-club-02.svg",
-        "woods-at-boca-woods-country-club-04.svg",
-        "woods-at-boca-woods-country-club-05.svg",
-        "woods-at-boca-woods-country-club-07.svg",
-        "woods-at-boca-woods-country-club-09.svg",
-        "woods-at-boca-woods-country-club-17.svg",
-        "woods-at-boca-woods-country-club-18.svg"
+        "course.json"
       ],
-      "bytes": 50589,
+      "bytes": 6312,
       "lat": 26.357042,
       "lng": -80.213572
     },

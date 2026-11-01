@@ -37,7 +37,8 @@
         "IV": 310,
         "Iv/V": 310,
         "V": 291
-      }
+      },
+      "map": "cypress-at-royal-poinciana-golf-club-02"
     },
     {
       "number": 3,
@@ -114,7 +115,8 @@
         "IV": 135,
         "Iv/V": 135,
         "V": 118
-      }
+      },
+      "map": "cypress-at-royal-poinciana-golf-club-08"
     },
     {
       "number": 9,
@@ -165,7 +167,8 @@
         "IV": 104,
         "Iv/V": 110,
         "V": 85
-      }
+      },
+      "map": "cypress-at-royal-poinciana-golf-club-12"
     },
     {
       "number": 13,
@@ -229,7 +232,8 @@
         "IV": 320,
         "Iv/V": 296,
         "V": 294
-      }
+      },
+      "map": "cypress-at-royal-poinciana-golf-club-17"
     },
     {
       "number": 18,
@@ -245,5 +249,5 @@
       "map": "cypress-at-royal-poinciana-golf-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

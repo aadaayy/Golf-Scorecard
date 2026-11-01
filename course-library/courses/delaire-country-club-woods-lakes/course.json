@@ -28,7 +28,8 @@
         "Gold": 350,
         "Red": 326,
         "Green": 230
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-01"
     },
     {
       "number": 2,
@@ -87,7 +88,8 @@
         "Gold": 412,
         "Red": 369,
         "Green": 335
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-05"
     },
     {
       "number": 6,
@@ -161,7 +163,8 @@
         "Gold": 286,
         "Red": 279,
         "Green": 238
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-10"
     },
     {
       "number": 11,
@@ -175,7 +178,8 @@
         "Gold": 442,
         "Red": 379,
         "Green": 330
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-11"
     },
     {
       "number": 12,
@@ -189,7 +193,8 @@
         "Gold": 294,
         "Red": 287,
         "Green": 240
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-12"
     },
     {
       "number": 13,
@@ -203,7 +208,8 @@
         "Gold": 150,
         "Red": 138,
         "Green": 130
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-13"
     },
     {
       "number": 14,
@@ -217,7 +223,8 @@
         "Gold": 304,
         "Red": 299,
         "Green": 200
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-14"
     },
     {
       "number": 15,
@@ -231,7 +238,8 @@
         "Gold": 439,
         "Red": 398,
         "Green": 340
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-15"
     },
     {
       "number": 16,
@@ -245,7 +253,8 @@
         "Gold": 112,
         "Red": 108,
         "Green": 103
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-16"
     },
     {
       "number": 17,
@@ -259,7 +268,8 @@
         "Gold": 317,
         "Red": 307,
         "Green": 215
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-17"
     },
     {
       "number": 18,
@@ -273,8 +283,9 @@
         "Gold": 322,
         "Red": 316,
         "Green": 260
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

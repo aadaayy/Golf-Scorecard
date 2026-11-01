@@ -100,7 +100,8 @@
         "Tee 2.5": 353,
         "II": 312,
         "Forward": 212
-      }
+      },
+      "map": "the-club-at-ibis-the-tradition-course-05"
     },
     {
       "number": 6,
@@ -116,7 +117,8 @@
         "Tee 2.5": 144,
         "II": 126,
         "Forward": 57
-      }
+      },
+      "map": "the-club-at-ibis-the-tradition-course-06"
     },
     {
       "number": 7,
@@ -132,7 +134,8 @@
         "Tee 2.5": 322,
         "II": 322,
         "Forward": 222
-      }
+      },
+      "map": "the-club-at-ibis-the-tradition-course-07"
     },
     {
       "number": 8,
@@ -165,7 +168,8 @@
         "Tee 2.5": 311,
         "II": 311,
         "Forward": 211
-      }
+      },
+      "map": "the-club-at-ibis-the-tradition-course-09"
     },
     {
       "number": 10,
@@ -181,7 +185,8 @@
         "Tee 2.5": 303,
         "II": 303,
         "Forward": 230
-      }
+      },
+      "map": "the-club-at-ibis-the-tradition-course-10"
     },
     {
       "number": 11,
@@ -320,5 +325,5 @@
       "map": "the-club-at-ibis-the-tradition-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

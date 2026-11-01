@@ -34,7 +34,8 @@
         "White": 108,
         "Gold": 98,
         "Red": 83
-      }
+      },
+      "map": "riviera-country-club-02"
     },
     {
       "number": 3,
@@ -164,7 +165,8 @@
         "White": 281,
         "Gold": 244,
         "Red": 216
-      }
+      },
+      "map": "riviera-country-club-13"
     },
     {
       "number": 14,
@@ -227,5 +229,5 @@
       "map": "riviera-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

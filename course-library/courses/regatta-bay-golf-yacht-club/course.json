@@ -54,7 +54,8 @@
         "Gold": 124,
         "Green": 106,
         "Orange": 106
-      }
+      },
+      "map": "regatta-bay-golf-yacht-club-03"
     },
     {
       "number": 4,
@@ -109,7 +110,8 @@
         "Gold": 369,
         "Green": 333,
         "Orange": 264
-      }
+      },
+      "map": "regatta-bay-golf-yacht-club-07"
     },
     {
       "number": 8,
@@ -266,5 +268,5 @@
       "map": "regatta-bay-golf-yacht-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

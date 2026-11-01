@@ -49,7 +49,8 @@
         "IV": 321,
         "Iv/V": 321,
         "V": 293
-      }
+      },
+      "map": "the-club-at-mediterra-south-course-02"
     },
     {
       "number": 3,
@@ -65,7 +66,8 @@
         "IV": 143,
         "Iv/V": 119,
         "V": 119
-      }
+      },
+      "map": "the-club-at-mediterra-south-course-03"
     },
     {
       "number": 4,
@@ -98,7 +100,8 @@
         "IV": 333,
         "Iv/V": 297,
         "V": 297
-      }
+      },
+      "map": "the-club-at-mediterra-south-course-05"
     },
     {
       "number": 6,
@@ -301,7 +304,8 @@
         "IV": 125,
         "Iv/V": 125,
         "V": 112
-      }
+      },
+      "map": "the-club-at-mediterra-south-course-17"
     },
     {
       "number": 18,
@@ -321,5 +325,5 @@
       "map": "the-club-at-mediterra-south-course-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

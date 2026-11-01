@@ -93,7 +93,8 @@
         "Red Ball": 122,
         "V": 122,
         "VI": 122
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-04"
     },
     {
       "number": 5,
@@ -111,7 +112,8 @@
         "Red Ball": 376,
         "V": 376,
         "VI": 354
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-05"
     },
     {
       "number": 6,
@@ -148,7 +150,8 @@
         "Red Ball": 291,
         "V": 291,
         "VI": 246
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-07"
     },
     {
       "number": 8,
@@ -204,7 +207,8 @@
         "Red Ball": 340,
         "V": 291,
         "VI": 280
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-10"
     },
     {
       "number": 11,
@@ -222,7 +226,8 @@
         "Red Ball": 312,
         "V": 268,
         "VI": 239
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-11"
     },
     {
       "number": 12,
@@ -240,7 +245,8 @@
         "Red Ball": 92,
         "V": 92,
         "VI": 92
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-12"
     },
     {
       "number": 13,
@@ -258,7 +264,8 @@
         "Red Ball": 284,
         "V": 284,
         "VI": 255
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-13"
     },
     {
       "number": 14,
@@ -314,8 +321,7 @@
         "Red Ball": 167,
         "V": 167,
         "VI": 167
-      },
-      "map": "twineagles-golf-country-club-eagle-course-16"
+      }
     },
     {
       "number": 17,
@@ -351,9 +357,8 @@
         "Red Ball": 334,
         "V": 303,
         "VI": 243
-      },
-      "map": "twineagles-golf-country-club-eagle-course-18"
+      }
     }
   ],
-  "version": 6
+  "version": 7
 }

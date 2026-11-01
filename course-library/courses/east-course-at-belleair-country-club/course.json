@@ -115,7 +115,8 @@
         "White": 262,
         "Gold": 257,
         "Silver": 253
-      }
+      },
+      "map": "east-course-at-belleair-country-club-08"
     },
     {
       "number": 9,
@@ -127,7 +128,8 @@
         "White": 322,
         "Gold": 310,
         "Silver": 277
-      }
+      },
+      "map": "east-course-at-belleair-country-club-09"
     },
     {
       "number": 10,
@@ -247,5 +249,5 @@
       "map": "east-course-at-belleair-country-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

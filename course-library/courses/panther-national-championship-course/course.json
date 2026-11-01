@@ -28,7 +28,8 @@
         "V": 313,
         "VI": 276,
         "VII": 225
-      }
+      },
+      "map": "panther-national-championship-course-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "V": 150,
         "VI": 128,
         "VII": 128
-      }
+      },
+      "map": "panther-national-championship-course-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "V": 419,
         "VI": 419,
         "VII": 395
-      }
+      },
+      "map": "panther-national-championship-course-03"
     },
     {
       "number": 4,
@@ -210,7 +213,8 @@
         "V": 346,
         "VI": 346,
         "VII": 310
-      }
+      },
+      "map": "panther-national-championship-course-14"
     },
     {
       "number": 15,
@@ -224,7 +228,8 @@
         "V": 164,
         "VI": 141,
         "VII": 102
-      }
+      },
+      "map": "panther-national-championship-course-15"
     },
     {
       "number": 16,
@@ -269,5 +274,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

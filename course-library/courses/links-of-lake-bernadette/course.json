@@ -37,7 +37,8 @@
         "Gold": 300,
         "Red": 293,
         "Silver": 230
-      }
+      },
+      "map": "links-of-lake-bernadette-02"
     },
     {
       "number": 3,
@@ -75,7 +76,8 @@
         "Gold": 340,
         "Red": 340,
         "Silver": 267
-      }
+      },
+      "map": "links-of-lake-bernadette-05"
     },
     {
       "number": 6,
@@ -191,7 +193,8 @@
         "Gold": 310,
         "Red": 307,
         "Silver": 290
-      }
+      },
+      "map": "links-of-lake-bernadette-14"
     },
     {
       "number": 15,
@@ -246,5 +249,5 @@
       "map": "links-of-lake-bernadette-18"
     }
   ],
-  "version": 5
+  "version": 6
 }

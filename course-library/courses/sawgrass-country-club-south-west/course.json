@@ -250,7 +250,8 @@
         "Green": 436,
         "Green/Red": 436,
         "Red": 409
-      }
+      },
+      "map": "sawgrass-country-club-south-west-15"
     },
     {
       "number": 16,
@@ -265,7 +266,8 @@
         "Green": 142,
         "Green/Red": 120,
         "Red": 120
-      }
+      },
+      "map": "sawgrass-country-club-south-west-16"
     },
     {
       "number": 17,
@@ -300,5 +302,5 @@
       "map": "sawgrass-country-club-south-west-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

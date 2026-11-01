@@ -58,7 +58,8 @@
         "Combo": 268,
         "Forward": 264,
         "Tee It Forward": 180
-      }
+      },
+      "map": "sailfish-point-golf-club-03"
     },
     {
       "number": 4,
@@ -147,7 +148,8 @@
         "Combo": 340,
         "Forward": 284,
         "Tee It Forward": 211
-      }
+      },
+      "map": "sailfish-point-golf-club-09"
     },
     {
       "number": 10,
@@ -191,7 +193,8 @@
         "Combo": 116,
         "Forward": 112,
         "Tee It Forward": 116
-      }
+      },
+      "map": "sailfish-point-golf-club-12"
     },
     {
       "number": 13,
@@ -205,7 +208,8 @@
         "Combo": 340,
         "Forward": 303,
         "Tee It Forward": 250
-      }
+      },
+      "map": "sailfish-point-golf-club-13"
     },
     {
       "number": 14,
@@ -283,5 +287,5 @@
       "map": "sailfish-point-golf-club-18"
     }
   ],
-  "version": 6
+  "version": 7
 }

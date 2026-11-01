@@ -88,7 +88,8 @@
         "Blue": 307,
         "Combo Yellow": 239,
         "Red": 239
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-05"
     },
     {
       "number": 6,
@@ -102,7 +103,8 @@
         "Blue": 164,
         "Combo Yellow": 86,
         "Red": 86
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-06"
     },
     {
       "number": 7,
@@ -276,5 +278,5 @@
       }
     }
   ],
-  "version": 7
+  "version": 8
 }

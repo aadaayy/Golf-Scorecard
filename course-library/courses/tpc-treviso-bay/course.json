@@ -30,7 +30,8 @@
         "Club": 280,
         "Treviso": 225,
         "Bay": 225
-      }
+      },
+      "map": "tpc-treviso-bay-01"
     },
     {
       "number": 2,
@@ -45,7 +46,8 @@
         "Club": 410,
         "Treviso": 410,
         "Bay": 317
-      }
+      },
+      "map": "tpc-treviso-bay-02"
     },
     {
       "number": 3,
@@ -60,7 +62,8 @@
         "Club": 114,
         "Treviso": 114,
         "Bay": 75
-      }
+      },
+      "map": "tpc-treviso-bay-03"
     },
     {
       "number": 4,
@@ -75,7 +78,8 @@
         "Club": 455,
         "Treviso": 391,
         "Bay": 391
-      }
+      },
+      "map": "tpc-treviso-bay-04"
     },
     {
       "number": 5,
@@ -90,7 +94,8 @@
         "Club": 236,
         "Treviso": 236,
         "Bay": 181
-      }
+      },
+      "map": "tpc-treviso-bay-05"
     },
     {
       "number": 6,
@@ -105,7 +110,8 @@
         "Club": 279,
         "Treviso": 240,
         "Bay": 240
-      }
+      },
+      "map": "tpc-treviso-bay-06"
     },
     {
       "number": 7,
@@ -120,7 +126,8 @@
         "Club": 131,
         "Treviso": 108,
         "Bay": 108
-      }
+      },
+      "map": "tpc-treviso-bay-07"
     },
     {
       "number": 8,
@@ -135,7 +142,8 @@
         "Club": 304,
         "Treviso": 229,
         "Bay": 229
-      }
+      },
+      "map": "tpc-treviso-bay-08"
     },
     {
       "number": 9,
@@ -150,7 +158,8 @@
         "Club": 274,
         "Treviso": 274,
         "Bay": 237
-      }
+      },
+      "map": "tpc-treviso-bay-09"
     },
     {
       "number": 10,
@@ -165,7 +174,8 @@
         "Club": 328,
         "Treviso": 328,
         "Bay": 277
-      }
+      },
+      "map": "tpc-treviso-bay-10"
     },
     {
       "number": 11,
@@ -180,7 +190,8 @@
         "Club": 228,
         "Treviso": 228,
         "Bay": 199
-      }
+      },
+      "map": "tpc-treviso-bay-11"
     },
     {
       "number": 12,
@@ -195,7 +206,8 @@
         "Club": 481,
         "Treviso": 368,
         "Bay": 368
-      }
+      },
+      "map": "tpc-treviso-bay-12"
     },
     {
       "number": 13,
@@ -210,7 +222,8 @@
         "Club": 269,
         "Treviso": 216,
         "Bay": 216
-      }
+      },
+      "map": "tpc-treviso-bay-13"
     },
     {
       "number": 14,
@@ -225,7 +238,8 @@
         "Club": 125,
         "Treviso": 125,
         "Bay": 107
-      }
+      },
+      "map": "tpc-treviso-bay-14"
     },
     {
       "number": 15,
@@ -240,7 +254,8 @@
         "Club": 338,
         "Treviso": 338,
         "Bay": 258
-      }
+      },
+      "map": "tpc-treviso-bay-15"
     },
     {
       "number": 16,
@@ -255,7 +270,8 @@
         "Club": 363,
         "Treviso": 286,
         "Bay": 286
-      }
+      },
+      "map": "tpc-treviso-bay-16"
     },
     {
       "number": 17,
@@ -270,7 +286,8 @@
         "Club": 122,
         "Treviso": 111,
         "Bay": 111
-      }
+      },
+      "map": "tpc-treviso-bay-17"
     },
     {
       "number": 18,
@@ -285,8 +302,9 @@
         "Club": 416,
         "Treviso": 416,
         "Bay": 365
-      }
+      },
+      "map": "tpc-treviso-bay-18"
     }
   ],
-  "version": 1
+  "version": 2
 }
