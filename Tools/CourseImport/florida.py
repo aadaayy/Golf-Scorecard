@@ -48,6 +48,8 @@ REPORT_FILE = os.path.join(HERE, "florida-report.json")
 # Scorecards the open data has wrong, set right by hand from the course's own card.
 # Each entry's fields replace the same fields of that course's record; "why" says what was wrong.
 CARD_FIXES_FILE = os.path.join(HERE, "card-fixes.json")
+# Shapes traced from public-domain USGS aerial photos where OpenStreetMap has none yet.
+TRACED_FOLDER = os.path.join(HERE, "traced")
 
 API = "https://api.opengolfapi.org/api/v1/courses/"
 DAILY_CALLS = 490  # the free API answers about 500 calls a day, then says to wait
@@ -384,6 +386,8 @@ class OSM:
         self.outlines = []   # (area, ring, bbox, name)
         self.holes = []      # golf=hole lines
         self.shapes = []     # (kind, ring, bbox)
+        self.trees = []      # (lat, lng, radius in meters), traced from aerial photos
+        self.lines = []      # lines of play traced from aerial photos, where the map's runs through trees
         for e in elements:
             tags = e["tags"]
             rings = [r for r in e.get("rings", []) if len(r) >= 4]
@@ -444,6 +448,32 @@ class OSM:
 
     def shapes_near(self, s, w, n, e):
         return [(k, r) for k, r, (bs, bw, bn, be) in self.shapes if bs <= n and bn >= s and bw <= e and be >= w]
+
+    def trees_near(self, s, w, n, e):
+        return [t for t in self.trees if s <= t[0] <= n and w <= t[1] <= e]
+
+    def add_traced(self, folder):
+        """Greens, fairways, water and trees traced from aerial photos, one file a course."""
+        if not os.path.isdir(folder):
+            return
+        for name in sorted(os.listdir(folder)):
+            if not name.endswith(".json"):
+                continue
+            traced = json.load(open(os.path.join(folder, name), encoding="utf-8"))
+            for key, kind in (("greens", "green"), ("fairways", "fairway"), ("water", "water"), ("bunkers", "sand")):
+                for shape in traced.get(key, []):
+                    ring = [tuple(p) for p in shape["ring"]]
+                    if len(ring) >= 4:
+                        self.shapes.append((kind, ring, bbox(ring)))
+            self.trees += [tuple(t) for t in traced.get("trees", [])]
+            self.lines += [[tuple(p) for p in line["line"]] for line in traced.get("lines", [])]
+
+    def line_for(self, geometry):
+        """A traced line of play for the same hole (same tee and green), or the map's own."""
+        for line in self.lines:
+            if meters(line[0], geometry[0]) < 60 and meters(line[-1], geometry[-1]) < 60:
+                return line
+        return geometry
 
 
 def hole_label(tags):
@@ -645,6 +675,7 @@ STYLE = {
     "sand": "#F0DDA6", "sand_edge": "#D9C07A",
     "green": "#3E9A56", "green_edge": "#2B7340",
     "line": "#1F3A2B", "flag": "#D8433B",
+    "tree": "#5E8F55",  # the app draws circles in this color as the course's own trees
 }
 UNITS_PER_METER = 3.0
 
@@ -757,7 +788,7 @@ def area(ring):
 
 def drawing(osm, way):
     """One hole as an SVG in the app's yardage book colors, or None."""
-    geo = way["geometry"]
+    geo = osm.line_for(way["geometry"])
     frame = Frame(geo)
     path = [frame(p) for p in geo]
     length = sum(math.hypot(b[0] - a[0], b[1] - a[1]) for a, b in zip(path, path[1:]))
@@ -803,12 +834,22 @@ def drawing(osm, way):
         return out
 
     parts = []
-    parts += layer(waters, STYLE["water"], STYLE["water_edge"], 3)
+    # The app's order: rough first, so a pond inside the hole's rough shows.
     parts += layer([rough], STYLE["rough"])
+    parts += layer(waters, STYLE["water"], STYLE["water_edge"], 3)
     parts += layer(fairways, STYLE["fairway"])
     parts += layer(sands, STYLE["sand"], STYLE["sand_edge"], 2)
     parts += layer(([green] if green else []) + tees, STYLE["green"], STYLE["green_edge"], 2.5)
     u = UNITS_PER_METER
+    # Real trees, where the course's were traced: in the box, and never on a green, tee, bunker or water.
+    keep_clear = waters + sands + tees + ([green] if green else [])
+    for lat, lng, radius in osm.trees_near(s - pad, w - pad, n + pad, e + pad):
+        x, y = frame((lat, lng))
+        if not (x0 + radius <= x <= x1 - radius and y0 + radius <= y <= y1 - radius):
+            continue
+        if any(contains(r, (x, y)) or distance_to_path((x, y), r + r[:1]) < radius * 0.8 for r in keep_clear):
+            continue
+        parts.append(f'<circle cx="{x * u:.1f}" cy="{-y * u:.1f}" r="{radius * u:.1f}" fill="{STYLE["tree"]}"/>')
     points = " ".join(f"{p[0] * u:.1f},{-p[1] * u:.1f}" for p in path)
     parts.append(f'<polyline points="{points}" fill="none" stroke="{STYLE["line"]}" stroke-width="3.5" '
                  'stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>')
@@ -886,6 +927,8 @@ def build(args):
     ids = json.load(open(IDS_FILE)) if os.path.exists(IDS_FILE) else {}
     used = set(ids.values()) | set(SKIP.values())
     osm = OSM(args.osm) if args.osm else None
+    if osm:
+        osm.add_traced(TRACED_FOLDER)
     report = {"fetched": 0, "added": 0, "with_drawings": 0, "with_yardages": 0, "with_location": 0, "skipped": {},
               "no_drawing": {}}
     seen = set()
