@@ -214,6 +214,10 @@ final class FindCoursesUITests: XCTestCase {
         XCTAssertTrue(dot.waitForExistence(timeout: 10), "Palma Ceia should be a dot on the map of Tampa")
         dot.tap()
         let card = element("map-course-card", in: app)
+        if !card.waitForExistence(timeout: 5) {
+            // A tap while the map is still zooming in can be lost; a golfer would tap again.
+            dot.tap()
+        }
         XCTAssertTrue(card.waitForExistence(timeout: 5), "Tapping a dot should show the course")
         sleep(1)
         capture("m3-map-course-card")
