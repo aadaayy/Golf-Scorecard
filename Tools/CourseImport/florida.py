@@ -852,6 +852,44 @@ def drawing(osm, way):
         return [list(part.exterior.coords)[:-1] for part in parts
                 if part.geom_type == "Polygon" and not part.is_empty]
 
+    def shapes(rings):
+        out = []
+        for ring in rings:
+            if len(ring) >= 3:
+                shape = Polygon(ring)
+                out.append(shape if shape.is_valid else shape.buffer(0))
+        return out
+
+    def outer_rings(shape):
+        return [list(part.exterior.coords)[:-1] for part in getattr(shape, "geoms", [shape])
+                if part.geom_type == "Polygon" and not part.is_empty]
+
+    def rounded(rings, radius=2.5):
+        """Tee boxes with soft corners, the way real ones are mowed, not sharp rectangles."""
+        if Polygon is None:
+            return rings
+        out = []
+        for shape in shapes(rings):
+            r, best = radius, None
+            while r > 0.4 and best is None:
+                soft = shape.buffer(-r, join_style=2).buffer(r, resolution=4)
+                if not soft.is_empty and soft.area > 0.6 * shape.area:
+                    best = soft
+                r /= 2
+            out += outer_rings((best or shape).simplify(0.05))
+        return out
+
+    def clear_of(water_rings, keep, margin=3.0):
+        """Water pulled back from the tees, so a tee by a pond sits on grass, as it does on the course.
+        A map's pond edge is often a few meters off; a tee out in the middle of a pond (an island tee) stays."""
+        if Polygon is None or not keep or not water_rings:
+            return water_rings
+        clear = unary_union([shape.buffer(margin) for shape in shapes(keep)])
+        out = []
+        for shape in shapes(water_rings):
+            out += outer_rings(shape.difference(clear))
+        return out
+
     def layer(rings, fill, stroke=None, stroke_width=0):
         out = []
         for ring in rings:
@@ -865,10 +903,11 @@ def drawing(osm, way):
     parts = []
     # The app's order: rough first, so a pond inside the hole's rough shows.
     parts += layer([rough], STYLE["rough"])
-    parts += layer(merged(waters, gap=5), STYLE["water"], STYLE["water_edge"], 3)
+    tee_shapes = rounded(tees)
+    parts += layer(clear_of(merged(waters, gap=5), tee_shapes), STYLE["water"], STYLE["water_edge"], 3)
     parts += layer(merged(fairways), STYLE["fairway"])
     parts += layer(merged(sands), STYLE["sand"], STYLE["sand_edge"], 2)
-    parts += layer(([green] if green else []) + tees, STYLE["green"], STYLE["green_edge"], 2.5)
+    parts += layer(([green] if green else []) + tee_shapes, STYLE["green"], STYLE["green_edge"], 2.5)
     u = UNITS_PER_METER
     # Real trees, where the course's were traced: in the box, and never on a green, tee, bunker or water.
     keep_clear = waters + sands + tees + ([green] if green else [])
