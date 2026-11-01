@@ -46,7 +46,10 @@ struct CardPane: View {
     private var sizingTotals: Int { part == .switchable ? totalsCount : 2 }
     /// Total columns (OUT, IN, TOT) are wider, so four-digit yardages fit.
     private static let totalWidthFactor: CGFloat = 1.4
-    private var hasHandicaps: Bool { course.holes.contains(where: { $0.handicap != nil }) }
+    /// A half of the full card on a sideways phone, where height is scarcest:
+    /// no FRONT 9 / BACK 9 title and no handicap row, so a foursome fits.
+    private var tightFullCard: Bool { part != .switchable && verticalSizeClass == .compact }
+    private var hasHandicaps: Bool { !tightFullCard && course.holes.contains(where: { $0.handicap != nil }) }
     private var rowCount: Int { 2 + teeRows.count + (hasHandicaps ? 1 : 0) + round.players.count }
 
     /// Cell width, label width and row height that fill the grid's space.
@@ -57,7 +60,7 @@ struct CardPane: View {
         let columns = CGFloat(nineHoles.count) + CGFloat(sizingTotals) * Self.totalWidthFactor
         let cell = min(Self.maxCell, max(Self.minCell, width * 0.83 / columns)).rounded(.down)
         let total = (cell * Self.totalWidthFactor).rounded(.down)
-        let used = cell * CGFloat(nineHoles.count) + total * CGFloat(totalsCount)
+        let used = cell * CGFloat(nineHoles.count) + total * CGFloat(sizingTotals)
         let label = min(max(88, cell * 2.4), max(Self.minLabel, width - used)).rounded(.down)
         let minRow: CGFloat = compact ? 28 : 34
         let maxRow = max(minRow, cell * 1.4)
@@ -84,7 +87,9 @@ struct CardPane: View {
 
     var body: some View {
         VStack(spacing: verticalSizeClass == .compact ? 8 : 12) {
-            if part != .switchable {
+            if tightFullCard {
+                EmptyView()
+            } else if part != .switchable {
                 Text(part == .back ? "BACK 9" : "FRONT 9")
                     .font(Book.title(20, relativeTo: .title3))
                     .accessibilityLabel(part == .back ? "Back 9" : "Front 9")

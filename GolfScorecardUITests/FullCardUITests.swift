@@ -39,6 +39,8 @@ final class FullCardUITests: XCTestCase {
         XCTAssertTrue(app.buttons["score-2-18"].exists, "Hole 18 should be on the card")
         XCTAssertTrue(app.otherElements["round-totals"].exists, "The half without the + and − should show the totals")
         sleep(1)
+        // Every player's row fits on screen without scrolling.
+        XCTAssertTrue(app.buttons["score-2-1"].isHittable, "The third player's row should be on screen")
         capture("c1-sideways-full-card")
 
         // Score hole 12 on the back nine: the + and − move to that half.
