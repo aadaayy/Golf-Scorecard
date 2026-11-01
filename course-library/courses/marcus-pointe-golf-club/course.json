@@ -1,0 +1,253 @@
+{
+  "id": "marcus-pointe-golf-club",
+  "name": "Marcus Pointe Golf Club",
+  "town": "Pensacola, FL",
+  "location": {
+    "lat": 30.474567,
+    "lng": -87.275368
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 356,
+        "Blue": 350,
+        "White": 326,
+        "Gold": 309,
+        "Red": 280
+      },
+      "map": "marcus-pointe-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 469,
+        "Blue": 461,
+        "White": 448,
+        "Gold": 411,
+        "Red": 373
+      },
+      "map": "marcus-pointe-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 369,
+        "Blue": 350,
+        "White": 332,
+        "Gold": 315,
+        "Red": 275
+      },
+      "map": "marcus-pointe-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 176,
+        "Blue": 167,
+        "White": 153,
+        "Gold": 139,
+        "Red": 112
+      },
+      "map": "marcus-pointe-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 460,
+        "Blue": 420,
+        "White": 402,
+        "Gold": 366,
+        "Red": 301
+      },
+      "map": "marcus-pointe-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 523,
+        "Blue": 495,
+        "White": 476,
+        "Gold": 430,
+        "Red": 323
+      },
+      "map": "marcus-pointe-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 369,
+        "Blue": 343,
+        "White": 326,
+        "Gold": 300,
+        "Red": 261
+      },
+      "map": "marcus-pointe-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 197,
+        "Blue": 177,
+        "White": 162,
+        "Gold": 147,
+        "Red": 117
+      },
+      "map": "marcus-pointe-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 422,
+        "Blue": 409,
+        "White": 387,
+        "Gold": 335,
+        "Red": 330
+      },
+      "map": "marcus-pointe-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 422,
+        "Blue": 392,
+        "White": 376,
+        "Gold": 338,
+        "Red": 264
+      },
+      "map": "marcus-pointe-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 390,
+        "Blue": 380,
+        "White": 363,
+        "Gold": 346,
+        "Red": 314
+      },
+      "map": "marcus-pointe-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 142,
+        "Blue": 135,
+        "White": 126,
+        "Gold": 117,
+        "Red": 97
+      },
+      "map": "marcus-pointe-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 378,
+        "Blue": 338,
+        "White": 317,
+        "Gold": 283,
+        "Red": 240
+      },
+      "map": "marcus-pointe-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 382,
+        "Blue": 377,
+        "White": 349,
+        "Gold": 321,
+        "Red": 312
+      },
+      "map": "marcus-pointe-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 157,
+        "Blue": 148,
+        "White": 133,
+        "Gold": 118,
+        "Red": 103
+      },
+      "map": "marcus-pointe-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 502,
+        "Blue": 467,
+        "White": 449,
+        "Gold": 394,
+        "Red": 350
+      },
+      "map": "marcus-pointe-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 413,
+        "Blue": 374,
+        "White": 355,
+        "Gold": 292,
+        "Red": 288
+      },
+      "map": "marcus-pointe-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 526,
+        "Blue": 508,
+        "White": 458,
+        "Gold": 413,
+        "Red": 406
+      },
+      "map": "marcus-pointe-golf-club-18"
+    }
+  ],
+  "version": 1
+}

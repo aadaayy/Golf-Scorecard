@@ -1,0 +1,116 @@
+{
+  "id": "pimlico-at-the-villages-executive-golf-trail",
+  "name": "Pimlico At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.919109,
+    "lng": -82.017421
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 139,
+        "Gold": 108,
+        "Green": 77
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 141,
+        "Gold": 108,
+        "Green": 75
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 132,
+        "Gold": 108,
+        "Green": 70
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 134,
+        "Gold": 107,
+        "Green": 82
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 254,
+        "Gold": 232,
+        "Green": 176
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 300,
+        "Gold": 274,
+        "Green": 245
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 125,
+        "Gold": 97,
+        "Green": 64
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 160,
+        "Gold": 131,
+        "Green": 102
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 154,
+        "Gold": 125,
+        "Green": 100
+      },
+      "map": "pimlico-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

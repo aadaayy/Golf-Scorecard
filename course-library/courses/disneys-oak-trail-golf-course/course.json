@@ -1,0 +1,107 @@
+{
+  "id": "disneys-oak-trail-golf-course",
+  "name": "Disneys Oak Trail Golf Course",
+  "town": "Lake Buena Vista, FL",
+  "location": {
+    "lat": 28.403317,
+    "lng": -81.592476
+  },
+  "tees": [
+    "White",
+    "Red",
+    "Gold/Junior"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "White": 260,
+        "Red": 234,
+        "Gold/Junior": 155
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "White": 160,
+        "Red": 132,
+        "Gold/Junior": 101
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "White": 352,
+        "Red": 318,
+        "Gold/Junior": 231
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "White": 324,
+        "Red": 296,
+        "Gold/Junior": 222
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "White": 517,
+        "Red": 438,
+        "Gold/Junior": 270
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "White": 378,
+        "Red": 329,
+        "Gold/Junior": 205
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "White": 489,
+        "Red": 425,
+        "Gold/Junior": 281
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "White": 297,
+        "Red": 268,
+        "Gold/Junior": 163
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 136,
+        "Red": 112,
+        "Gold/Junior": 85
+      }
+    }
+  ],
+  "version": 1
+}

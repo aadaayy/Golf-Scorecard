@@ -1,0 +1,97 @@
+{
+  "id": "cabot-citrus-farms-the-squeeze-course",
+  "name": "Cabot Citrus Farms The Squeeze Course",
+  "town": "Brooksville, FL",
+  "location": {
+    "lat": 28.68337,
+    "lng": -82.479932
+  },
+  "tees": [
+    "Black",
+    "Tangerine"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 290,
+        "Tangerine": 255
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 285,
+        "Tangerine": 255
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 125,
+        "Tangerine": 120
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 559,
+        "Tangerine": 478
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 353,
+        "Tangerine": 316
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 304,
+        "Tangerine": 265
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 115,
+        "Tangerine": 100
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 181,
+        "Tangerine": 156
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 414,
+        "Tangerine": 359
+      }
+    }
+  ],
+  "version": 1
+}

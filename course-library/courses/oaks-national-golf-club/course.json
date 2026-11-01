@@ -1,0 +1,216 @@
+{
+  "id": "oaks-national-golf-club",
+  "name": "Oaks National Golf Club",
+  "town": "Kissimmee, FL",
+  "location": {
+    "lat": 28.256882,
+    "lng": -81.429248
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 390,
+        "White": 361,
+        "Gold": 349,
+        "Red": 289
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Blue": 485,
+        "White": 453,
+        "Gold": 445,
+        "Red": 382
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 154,
+        "White": 138,
+        "Gold": 125,
+        "Red": 76
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 367,
+        "White": 333,
+        "Gold": 224,
+        "Red": 203
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 559,
+        "White": 546,
+        "Gold": 537,
+        "Red": 460
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 244,
+        "White": 187,
+        "Gold": 149,
+        "Red": 100
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 445,
+        "White": 410,
+        "Gold": 347,
+        "Red": 325
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 354,
+        "White": 333,
+        "Gold": 318,
+        "Red": 249
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 361,
+        "White": 349,
+        "Gold": 332,
+        "Red": 261
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 420,
+        "White": 412,
+        "Gold": 386,
+        "Red": 317
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 473,
+        "White": 468,
+        "Gold": 443,
+        "Red": 418
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 194,
+        "White": 179,
+        "Gold": 169,
+        "Red": 104
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 441,
+        "White": 420,
+        "Gold": 357,
+        "Red": 334
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 215,
+        "White": 177,
+        "Gold": 167,
+        "Red": 147
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 549,
+        "White": 530,
+        "Gold": 462,
+        "Red": 397
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 388,
+        "White": 372,
+        "Gold": 361,
+        "Red": 300
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 364,
+        "White": 336,
+        "Gold": 300,
+        "Red": 258
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 393,
+        "White": 379,
+        "Gold": 358,
+        "Red": 290
+      }
+    }
+  ],
+  "version": 1
+}

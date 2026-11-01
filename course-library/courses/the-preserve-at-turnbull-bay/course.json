@@ -1,0 +1,310 @@
+{
+  "id": "the-preserve-at-turnbull-bay",
+  "name": "The Preserve At Turnbull Bay",
+  "town": "New Smyrna Beach, FL",
+  "location": {
+    "lat": 29.057667,
+    "lng": -80.971466
+  },
+  "tees": [
+    "Web",
+    "Green",
+    "Blue",
+    "White",
+    "Black Stripe",
+    "Gold",
+    "Red",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Web": 425,
+        "Green": 444,
+        "Blue": 407,
+        "White": 361,
+        "Black Stripe": 317,
+        "Gold": 317,
+        "Red": 284,
+        "Orange": 230
+      },
+      "map": "the-preserve-at-turnbull-bay-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 372,
+        "Green": 386,
+        "Blue": 357,
+        "White": 332,
+        "Black Stripe": 332,
+        "Gold": 292,
+        "Red": 266,
+        "Orange": 205
+      },
+      "map": "the-preserve-at-turnbull-bay-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 395,
+        "Green": 378,
+        "Blue": 369,
+        "White": 350,
+        "Black Stripe": 350,
+        "Gold": 320,
+        "Red": 291,
+        "Orange": 215
+      },
+      "map": "the-preserve-at-turnbull-bay-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Web": 160,
+        "Green": 170,
+        "Blue": 162,
+        "White": 151,
+        "Black Stripe": 151,
+        "Gold": 131,
+        "Red": 99,
+        "Orange": 93
+      },
+      "map": "the-preserve-at-turnbull-bay-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Web": 539,
+        "Green": 544,
+        "Blue": 513,
+        "White": 475,
+        "Black Stripe": 440,
+        "Gold": 440,
+        "Red": 399,
+        "Orange": 320
+      },
+      "map": "the-preserve-at-turnbull-bay-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Web": 125,
+        "Green": 119,
+        "Blue": 113,
+        "White": 101,
+        "Black Stripe": 101,
+        "Gold": 91,
+        "Red": 83,
+        "Orange": 83
+      },
+      "map": "the-preserve-at-turnbull-bay-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Web": 565,
+        "Green": 534,
+        "Blue": 525,
+        "White": 465,
+        "Black Stripe": 465,
+        "Gold": 445,
+        "Red": 380,
+        "Orange": 325
+      },
+      "map": "the-preserve-at-turnbull-bay-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Web": 385,
+        "Green": 355,
+        "Blue": 347,
+        "White": 316,
+        "Black Stripe": 316,
+        "Gold": 300,
+        "Red": 247,
+        "Orange": 230
+      },
+      "map": "the-preserve-at-turnbull-bay-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Web": 390,
+        "Green": 373,
+        "Blue": 359,
+        "White": 333,
+        "Black Stripe": 287,
+        "Gold": 287,
+        "Red": 253,
+        "Orange": 237
+      },
+      "map": "the-preserve-at-turnbull-bay-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 348,
+        "Green": 351,
+        "Blue": 323,
+        "White": 303,
+        "Black Stripe": 303,
+        "Gold": 293,
+        "Red": 283,
+        "Orange": 220
+      },
+      "map": "the-preserve-at-turnbull-bay-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Web": 443,
+        "Green": 415,
+        "Blue": 406,
+        "White": 396,
+        "Black Stripe": 369,
+        "Gold": 369,
+        "Red": 344,
+        "Orange": 285
+      },
+      "map": "the-preserve-at-turnbull-bay-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 135,
+        "Green": 154,
+        "Blue": 150,
+        "White": 133,
+        "Black Stripe": 133,
+        "Gold": 117,
+        "Red": 101,
+        "Orange": 93
+      },
+      "map": "the-preserve-at-turnbull-bay-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Web": 530,
+        "Green": 512,
+        "Blue": 504,
+        "White": 489,
+        "Black Stripe": 441,
+        "Gold": 441,
+        "Red": 368,
+        "Orange": 305
+      },
+      "map": "the-preserve-at-turnbull-bay-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Web": 382,
+        "Green": 431,
+        "Blue": 363,
+        "White": 343,
+        "Black Stripe": 343,
+        "Gold": 333,
+        "Red": 297,
+        "Orange": 200
+      },
+      "map": "the-preserve-at-turnbull-bay-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Web": 165,
+        "Green": 164,
+        "Blue": 160,
+        "White": 144,
+        "Black Stripe": 144,
+        "Gold": 131,
+        "Red": 88,
+        "Orange": 80
+      },
+      "map": "the-preserve-at-turnbull-bay-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Web": 341,
+        "Green": 340,
+        "Blue": 323,
+        "White": 297,
+        "Black Stripe": 297,
+        "Gold": 272,
+        "Red": 219,
+        "Orange": 219
+      },
+      "map": "the-preserve-at-turnbull-bay-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Web": 311,
+        "Green": 296,
+        "Blue": 292,
+        "White": 273,
+        "Black Stripe": 273,
+        "Gold": 259,
+        "Red": 232,
+        "Orange": 225
+      },
+      "map": "the-preserve-at-turnbull-bay-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 418,
+        "Green": 420,
+        "Blue": 404,
+        "White": 363,
+        "Black Stripe": 282,
+        "Gold": 282,
+        "Red": 248,
+        "Orange": 210
+      },
+      "map": "the-preserve-at-turnbull-bay-18"
+    }
+  ],
+  "version": 1
+}

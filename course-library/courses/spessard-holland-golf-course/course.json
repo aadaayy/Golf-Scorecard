@@ -1,0 +1,234 @@
+{
+  "id": "spessard-holland-golf-course",
+  "name": "Spessard Holland Golf Course",
+  "town": "Melbourne Beach, FL",
+  "location": {
+    "lat": 28.049471,
+    "lng": -80.550618
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 322,
+        "Blue": 299,
+        "White": 284,
+        "Green": 257
+      },
+      "map": "spessard-holland-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 313,
+        "Blue": 305,
+        "White": 296,
+        "Green": 266
+      },
+      "map": "spessard-holland-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 350,
+        "Blue": 340,
+        "White": 329,
+        "Green": 292
+      },
+      "map": "spessard-holland-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 175,
+        "Blue": 138,
+        "White": 110,
+        "Green": 84
+      },
+      "map": "spessard-holland-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 374,
+        "Blue": 360,
+        "White": 327,
+        "Green": 316
+      },
+      "map": "spessard-holland-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 278,
+        "Blue": 266,
+        "White": 230,
+        "Green": 218
+      },
+      "map": "spessard-holland-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 171,
+        "Blue": 140,
+        "White": 124,
+        "Green": 93
+      },
+      "map": "spessard-holland-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 353,
+        "Blue": 316,
+        "White": 267,
+        "Green": 258
+      },
+      "map": "spessard-holland-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 148,
+        "Blue": 141,
+        "White": 134,
+        "Green": 113
+      },
+      "map": "spessard-holland-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 325,
+        "Blue": 283,
+        "White": 273,
+        "Green": 229
+      },
+      "map": "spessard-holland-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 182,
+        "Blue": 154,
+        "White": 144,
+        "Green": 134
+      },
+      "map": "spessard-holland-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 331,
+        "Blue": 280,
+        "White": 264,
+        "Green": 255
+      },
+      "map": "spessard-holland-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 444,
+        "Blue": 434,
+        "White": 422,
+        "Green": 367
+      },
+      "map": "spessard-holland-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 325,
+        "Blue": 301,
+        "White": 280,
+        "Green": 240
+      },
+      "map": "spessard-holland-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 157,
+        "Blue": 142,
+        "White": 128,
+        "Green": 102
+      },
+      "map": "spessard-holland-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 293,
+        "Blue": 259,
+        "White": 249,
+        "Green": 223
+      },
+      "map": "spessard-holland-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 133,
+        "Blue": 129,
+        "White": 125,
+        "Green": 107
+      },
+      "map": "spessard-holland-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 304,
+        "Blue": 259,
+        "White": 250,
+        "Green": 225
+      },
+      "map": "spessard-holland-golf-course-18"
+    }
+  ],
+  "version": 1
+}

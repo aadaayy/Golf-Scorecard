@@ -1,0 +1,253 @@
+{
+  "id": "cypress-head-golf-club",
+  "name": "Cypress Head Golf Club",
+  "town": "Port Orange, FL",
+  "location": {
+    "lat": 29.066034,
+    "lng": -81.021617
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 339,
+        "Blue": 332,
+        "White": 316,
+        "Gold": 303,
+        "Red": 266
+      },
+      "map": "cypress-head-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 520,
+        "Blue": 492,
+        "White": 474,
+        "Gold": 415,
+        "Red": 399
+      },
+      "map": "cypress-head-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 414,
+        "Blue": 371,
+        "White": 359,
+        "Gold": 344,
+        "Red": 306
+      },
+      "map": "cypress-head-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 393,
+        "Blue": 359,
+        "White": 309,
+        "Gold": 268,
+        "Red": 257
+      },
+      "map": "cypress-head-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 341,
+        "Blue": 318,
+        "White": 295,
+        "Gold": 226,
+        "Red": 219
+      },
+      "map": "cypress-head-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 202,
+        "Blue": 179,
+        "White": 160,
+        "Gold": 123,
+        "Red": 113
+      },
+      "map": "cypress-head-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 162,
+        "Blue": 146,
+        "White": 120,
+        "Gold": 105,
+        "Red": 90
+      },
+      "map": "cypress-head-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 520,
+        "Blue": 509,
+        "White": 446,
+        "Gold": 406,
+        "Red": 400
+      },
+      "map": "cypress-head-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 413,
+        "Blue": 384,
+        "White": 363,
+        "Gold": 323,
+        "Red": 320
+      },
+      "map": "cypress-head-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 413,
+        "Blue": 390,
+        "White": 364,
+        "Gold": 344,
+        "Red": 279
+      },
+      "map": "cypress-head-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 450,
+        "Blue": 411,
+        "White": 380,
+        "Gold": 304,
+        "Red": 299
+      },
+      "map": "cypress-head-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 216,
+        "Blue": 192,
+        "White": 130,
+        "Gold": 118,
+        "Red": 106
+      },
+      "map": "cypress-head-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 385,
+        "Blue": 366,
+        "White": 321,
+        "Gold": 278,
+        "Red": 243
+      },
+      "map": "cypress-head-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 466,
+        "Blue": 434,
+        "White": 402,
+        "Gold": 363,
+        "Red": 330
+      },
+      "map": "cypress-head-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 362,
+        "Blue": 337,
+        "White": 320,
+        "Gold": 287,
+        "Red": 281
+      },
+      "map": "cypress-head-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 181,
+        "Blue": 103,
+        "White": 87,
+        "Gold": 76,
+        "Red": 62
+      },
+      "map": "cypress-head-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 525,
+        "Blue": 494,
+        "White": 463,
+        "Gold": 453,
+        "Red": 435
+      },
+      "map": "cypress-head-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 503,
+        "Blue": 495,
+        "White": 466,
+        "Gold": 417,
+        "Red": 409
+      },
+      "map": "cypress-head-golf-club-18"
+    }
+  ],
+  "version": 1
+}

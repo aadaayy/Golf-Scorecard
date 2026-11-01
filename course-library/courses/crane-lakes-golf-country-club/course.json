@@ -1,0 +1,216 @@
+{
+  "id": "crane-lakes-golf-country-club",
+  "name": "Crane Lakes Golf Country Club",
+  "town": "Port Orange, FL",
+  "location": {
+    "lat": 29.105411,
+    "lng": -81.05582
+  },
+  "tees": [
+    "Black",
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 317,
+        "White": 296,
+        "Blue": 272,
+        "Red": 242
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 196,
+        "White": 152,
+        "Blue": 133,
+        "Red": 116
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 435,
+        "White": 365,
+        "Blue": 301,
+        "Red": 262
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 174,
+        "White": 145,
+        "Blue": 123,
+        "Red": 106
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 495,
+        "White": 464,
+        "Blue": 401,
+        "Red": 352
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 170,
+        "White": 161,
+        "Blue": 126,
+        "Red": 108
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 326,
+        "White": 267,
+        "Blue": 221,
+        "Red": 202
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 315,
+        "White": 288,
+        "Blue": 242,
+        "Red": 207
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 154,
+        "White": 131,
+        "Blue": 109,
+        "Red": 84
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 377,
+        "White": 332,
+        "Blue": 278,
+        "Red": 257
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 200,
+        "White": 178,
+        "Blue": 154,
+        "Red": 121
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 310,
+        "White": 278,
+        "Blue": 254,
+        "Red": 235
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 160,
+        "White": 143,
+        "Blue": 126,
+        "Red": 105
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 381,
+        "White": 345,
+        "Blue": 314,
+        "Red": 288
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 152,
+        "White": 137,
+        "Blue": 120,
+        "Red": 94
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 386,
+        "White": 349,
+        "Blue": 313,
+        "Red": 278
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 156,
+        "White": 136,
+        "Blue": 107,
+        "Red": 84
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 482,
+        "White": 425,
+        "Blue": 413,
+        "Red": 372
+      }
+    }
+  ],
+  "version": 1
+}

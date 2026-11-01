@@ -1,0 +1,98 @@
+{
+  "id": "jo-daddys-golf-course",
+  "name": "Jo Daddys Golf Course",
+  "town": "Malabar, FL",
+  "location": {
+    "lat": 27.95803,
+    "lng": -80.558555
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "yards": {
+        "Blue": 100,
+        "White": 100,
+        "Red": 95
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "yards": {
+        "Blue": 135,
+        "White": 129,
+        "Red": 123
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "yards": {
+        "Blue": 131,
+        "White": 126,
+        "Red": 120
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "yards": {
+        "Blue": 298,
+        "White": 292,
+        "Red": 285
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yards": {
+        "Blue": 297,
+        "White": 290,
+        "Red": 283
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "yards": {
+        "Blue": 117,
+        "White": 112,
+        "Red": 107
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "yards": {
+        "Blue": 161,
+        "White": 156,
+        "Red": 84
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "yards": {
+        "Blue": 115,
+        "White": 110,
+        "Red": 70
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "yards": {
+        "Blue": 116,
+        "White": 110,
+        "Red": 103
+      }
+    }
+  ],
+  "version": 1
+}

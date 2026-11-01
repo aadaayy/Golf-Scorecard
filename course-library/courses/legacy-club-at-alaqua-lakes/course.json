@@ -1,0 +1,254 @@
+{
+  "id": "legacy-club-at-alaqua-lakes",
+  "name": "Legacy Club At Alaqua Lakes",
+  "town": "Longwood, FL",
+  "location": {
+    "lat": 28.757955,
+    "lng": -81.383722
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 438,
+        "Blue": 403,
+        "White": 386,
+        "Gold": 365,
+        "Silver": 313,
+        "Red": 313
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 185,
+        "Blue": 165,
+        "White": 155,
+        "Gold": 140,
+        "Silver": 140,
+        "Red": 114
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 410,
+        "Blue": 374,
+        "White": 349,
+        "Gold": 325,
+        "Silver": 292,
+        "Red": 292
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 540,
+        "Blue": 514,
+        "White": 499,
+        "Gold": 469,
+        "Silver": 469,
+        "Red": 385
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 465,
+        "Blue": 425,
+        "White": 386,
+        "Gold": 377,
+        "Silver": 327,
+        "Red": 327
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 215,
+        "Blue": 191,
+        "White": 180,
+        "Gold": 168,
+        "Silver": 168,
+        "Red": 143
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 507,
+        "Blue": 475,
+        "White": 443,
+        "Gold": 398,
+        "Silver": 398,
+        "Red": 340
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 446,
+        "Blue": 419,
+        "White": 379,
+        "Gold": 337,
+        "Silver": 311,
+        "Red": 311
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 405,
+        "Blue": 383,
+        "White": 348,
+        "Gold": 305,
+        "Silver": 256,
+        "Red": 256
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 432,
+        "Blue": 402,
+        "White": 391,
+        "Gold": 368,
+        "Silver": 305,
+        "Red": 305
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 528,
+        "Blue": 489,
+        "White": 459,
+        "Gold": 432,
+        "Silver": 432,
+        "Red": 407
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 190,
+        "Blue": 167,
+        "White": 147,
+        "Gold": 128,
+        "Silver": 128,
+        "Red": 96
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 456,
+        "Blue": 433,
+        "White": 411,
+        "Gold": 365,
+        "Silver": 340,
+        "Red": 340
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 398,
+        "Blue": 377,
+        "White": 370,
+        "Gold": 343,
+        "Silver": 292,
+        "Red": 292
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 560,
+        "Blue": 539,
+        "White": 493,
+        "Gold": 445,
+        "Silver": 445,
+        "Red": 400
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 420,
+        "Blue": 394,
+        "White": 383,
+        "Gold": 361,
+        "Silver": 303,
+        "Red": 303
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 165,
+        "Blue": 157,
+        "White": 131,
+        "Gold": 109,
+        "Silver": 109,
+        "Red": 81
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 409,
+        "Blue": 388,
+        "White": 377,
+        "Gold": 353,
+        "Silver": 281,
+        "Red": 281
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "hunters-green-country-club",
+  "name": "Hunters Green Country Club",
+  "town": "Tampa, FL",
+  "location": {
+    "lat": 28.135447,
+    "lng": -82.351436
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 317,
+        "Blue": 288,
+        "White": 275,
+        "Green": 245,
+        "Red": 235
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 374,
+        "Blue": 367,
+        "White": 360,
+        "Green": 276,
+        "Red": 269
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 484,
+        "Blue": 479,
+        "White": 475,
+        "Green": 383,
+        "Red": 378
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 194,
+        "Blue": 179,
+        "White": 128,
+        "Green": 120,
+        "Red": 113
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 419,
+        "Blue": 391,
+        "White": 338,
+        "Green": 295,
+        "Red": 278
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 430,
+        "Blue": 405,
+        "White": 395,
+        "Green": 367,
+        "Red": 355
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 175,
+        "Blue": 164,
+        "White": 153,
+        "Green": 140,
+        "Red": 126
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 418,
+        "Blue": 404,
+        "White": 388,
+        "Green": 308,
+        "Red": 303
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 570,
+        "Blue": 549,
+        "White": 527,
+        "Green": 391,
+        "Red": 383
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 384,
+        "Blue": 361,
+        "White": 351,
+        "Green": 298,
+        "Red": 293
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 202,
+        "Blue": 182,
+        "White": 169,
+        "Green": 132,
+        "Red": 128
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 519,
+        "Blue": 496,
+        "White": 476,
+        "Green": 394,
+        "Red": 388
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 359,
+        "Blue": 331,
+        "White": 323,
+        "Green": 283,
+        "Red": 277
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 205,
+        "Blue": 175,
+        "White": 142,
+        "Green": 138,
+        "Red": 114
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 422,
+        "Blue": 408,
+        "White": 381,
+        "Green": 342,
+        "Red": 267
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 548,
+        "Blue": 521,
+        "White": 510,
+        "Green": 442,
+        "Red": 433
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 445,
+        "Blue": 408,
+        "White": 372,
+        "Green": 337,
+        "Red": 330
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 407,
+        "Blue": 392,
+        "White": 378,
+        "Green": 361,
+        "Red": 303
+      }
+    }
+  ],
+  "version": 1
+}

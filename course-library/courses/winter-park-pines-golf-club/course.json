@@ -1,0 +1,235 @@
+{
+  "id": "winter-park-pines-golf-club",
+  "name": "Winter Park Pines Golf Club",
+  "town": "Winter Park, FL",
+  "location": {
+    "lat": 28.585028,
+    "lng": -81.311031
+  },
+  "tees": [
+    "Web",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Web": 361,
+        "Blue": 387,
+        "White": 374,
+        "Green": 362,
+        "Red": 348
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 300,
+        "Blue": 305,
+        "White": 301,
+        "Green": 291,
+        "Red": 282
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 356,
+        "Blue": 266,
+        "White": 234,
+        "Green": 214,
+        "Red": 194
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 150,
+        "Blue": 343,
+        "White": 335,
+        "Green": 331,
+        "Red": 321
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Web": 400,
+        "Blue": 155,
+        "White": 150,
+        "Green": 143,
+        "Red": 135
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Web": 344,
+        "Blue": 226,
+        "White": 219,
+        "Green": 204,
+        "Red": 191
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Web": 480,
+        "Blue": 161,
+        "White": 152,
+        "Green": 140,
+        "Red": 127
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Web": 163,
+        "Blue": 210,
+        "White": 198,
+        "Green": 157,
+        "Red": 122
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 472,
+        "Blue": 328,
+        "White": 318,
+        "Green": 309,
+        "Red": 301
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 373,
+        "Blue": 362,
+        "White": 352,
+        "Green": 345,
+        "Red": 301
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Web": 341,
+        "Blue": 283,
+        "White": 275,
+        "Green": 267,
+        "Red": 237
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 224,
+        "Blue": 375,
+        "White": 348,
+        "Green": 332,
+        "Red": 280
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Web": 346,
+        "Blue": 150,
+        "White": 136,
+        "Green": 119,
+        "Red": 103
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 159,
+        "Blue": 398,
+        "White": 371,
+        "Green": 367,
+        "Red": 322
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 215,
+        "Blue": 326,
+        "White": 308,
+        "Green": 296,
+        "Red": 244
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Web": 164,
+        "Blue": 464,
+        "White": 452,
+        "Green": 435,
+        "Red": 353
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Web": 213,
+        "Blue": 153,
+        "White": 140,
+        "Green": 113,
+        "Red": 95
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Web": 340,
+        "Blue": 462,
+        "White": 444,
+        "Green": 428,
+        "Red": 380
+      }
+    }
+  ],
+  "version": 1
+}

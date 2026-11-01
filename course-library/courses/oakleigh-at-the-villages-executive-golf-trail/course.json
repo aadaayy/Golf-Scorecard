@@ -1,0 +1,116 @@
+{
+  "id": "oakleigh-at-the-villages-executive-golf-trail",
+  "name": "Oakleigh At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.971125,
+    "lng": -82.029636
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 159,
+        "Gold": 118,
+        "Green": 98
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 150,
+        "Gold": 131,
+        "Green": 107
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 108,
+        "Gold": 82,
+        "Green": 61
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 172,
+        "Gold": 140,
+        "Green": 94
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 159,
+        "Gold": 135,
+        "Green": 109
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 304,
+        "Gold": 251,
+        "Green": 200
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 116,
+        "Gold": 92,
+        "Green": 70
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 147,
+        "Gold": 127,
+        "Green": 111
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 202,
+        "Gold": 181,
+        "Green": 155
+      },
+      "map": "oakleigh-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

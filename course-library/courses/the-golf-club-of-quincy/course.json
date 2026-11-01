@@ -1,0 +1,216 @@
+{
+  "id": "the-golf-club-of-quincy",
+  "name": "The Golf Club Of Quincy",
+  "town": "Gretna, FL",
+  "location": {
+    "lat": 30.615473,
+    "lng": -84.625839
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Blue": 489,
+        "White": 477,
+        "Gold": 432,
+        "Red": 399
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 377,
+        "White": 369,
+        "Gold": 354,
+        "Red": 223
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 437,
+        "White": 384,
+        "Gold": 359,
+        "Red": 298
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 219,
+        "White": 176,
+        "Gold": 159,
+        "Red": 132
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 381,
+        "White": 359,
+        "Gold": 326,
+        "Red": 252
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 499,
+        "White": 475,
+        "Gold": 419,
+        "Red": 341
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 199,
+        "White": 185,
+        "Gold": 167,
+        "Red": 159
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 385,
+        "White": 363,
+        "Gold": 300,
+        "Red": 300
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 510,
+        "White": 498,
+        "Gold": 400,
+        "Red": 387
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 413,
+        "White": 406,
+        "Gold": 321,
+        "Red": 317
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 403,
+        "White": 368,
+        "Gold": 352,
+        "Red": 199
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 163,
+        "White": 159,
+        "Gold": 147,
+        "Red": 138
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 423,
+        "White": 378,
+        "Gold": 355,
+        "Red": 169
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 418,
+        "White": 397,
+        "Gold": 368,
+        "Red": 345
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 147,
+        "White": 134,
+        "Gold": 119,
+        "Red": 113
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Blue": 519,
+        "White": 494,
+        "Gold": 410,
+        "Red": 380
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 413,
+        "White": 385,
+        "Gold": 297,
+        "Red": 289
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 537,
+        "White": 506,
+        "Gold": 376,
+        "Red": 372
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,273 @@
+{
+  "id": "torri-erinn-at-nancy-lopez-legacy-golf-country-club",
+  "name": "Torri Erinn At Nancy Lopez Legacy Golf Country Club",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.973091,
+    "lng": -82.014098
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 554,
+        "Web": 554,
+        "Gold": 534,
+        "Blue": 513,
+        "White": 438,
+        "Green": 430,
+        "Friendly": 310
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 224,
+        "Web": 224,
+        "Gold": 185,
+        "Blue": 151,
+        "White": 113,
+        "Green": 105,
+        "Friendly": 66
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 325,
+        "Web": 325,
+        "Gold": 315,
+        "Blue": 290,
+        "White": 265,
+        "Green": 235,
+        "Friendly": 195
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 366,
+        "Web": 366,
+        "Gold": 361,
+        "Blue": 340,
+        "White": 317,
+        "Green": 265,
+        "Friendly": 190
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 470,
+        "Web": 470,
+        "Gold": 389,
+        "Blue": 366,
+        "White": 306,
+        "Green": 238,
+        "Friendly": 202
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 398,
+        "Web": 398,
+        "Gold": 368,
+        "Blue": 345,
+        "White": 323,
+        "Green": 269,
+        "Friendly": 220
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 370,
+        "Web": 370,
+        "Gold": 366,
+        "Blue": 351,
+        "White": 330,
+        "Green": 271,
+        "Friendly": 230
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 168,
+        "Web": 168,
+        "Gold": 164,
+        "Blue": 150,
+        "White": 128,
+        "Green": 100,
+        "Friendly": 96
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 515,
+        "Web": 515,
+        "Gold": 498,
+        "Blue": 480,
+        "White": 465,
+        "Green": 389,
+        "Friendly": 312
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 385,
+        "Web": 385,
+        "Gold": 371,
+        "Blue": 340,
+        "White": 280,
+        "Green": 255,
+        "Friendly": 200
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 202,
+        "Web": 202,
+        "Gold": 183,
+        "Blue": 169,
+        "White": 140,
+        "Green": 113,
+        "Friendly": 78
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 452,
+        "Web": 452,
+        "Gold": 425,
+        "Blue": 400,
+        "White": 345,
+        "Green": 295,
+        "Friendly": 235
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 568,
+        "Web": 568,
+        "Gold": 542,
+        "Blue": 527,
+        "White": 468,
+        "Green": 430,
+        "Friendly": 375
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 410,
+        "Web": 410,
+        "Gold": 384,
+        "Blue": 360,
+        "White": 300,
+        "Green": 265,
+        "Friendly": 225
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 179,
+        "Web": 179,
+        "Gold": 175,
+        "Blue": 155,
+        "White": 146,
+        "Green": 89,
+        "Friendly": 80
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 400,
+        "Web": 400,
+        "Gold": 390,
+        "Blue": 369,
+        "White": 287,
+        "Green": 275,
+        "Friendly": 192
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 557,
+        "Web": 557,
+        "Gold": 522,
+        "Blue": 492,
+        "White": 473,
+        "Green": 438,
+        "Friendly": 314
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 359,
+        "Web": 359,
+        "Gold": 345,
+        "Blue": 331,
+        "White": 310,
+        "Green": 270,
+        "Friendly": 231
+      }
+    }
+  ],
+  "version": 1
+}

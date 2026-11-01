@@ -1,0 +1,254 @@
+{
+  "id": "fox-hollow-golf-club",
+  "name": "Fox Hollow Golf Club",
+  "town": "Trinity, FL",
+  "location": {
+    "lat": 28.178653,
+    "lng": -82.648651
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 379,
+        "Blue": 367,
+        "White": 352,
+        "Gold": 341,
+        "Silver": 320,
+        "Red": 264
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 367,
+        "Blue": 357,
+        "White": 326,
+        "Gold": 314,
+        "Silver": 303,
+        "Red": 249
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 447,
+        "Blue": 433,
+        "White": 400,
+        "Gold": 367,
+        "Silver": 354,
+        "Red": 283
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 520,
+        "Blue": 510,
+        "White": 475,
+        "Gold": 452,
+        "Silver": 442,
+        "Red": 422
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 191,
+        "Blue": 175,
+        "White": 153,
+        "Gold": 127,
+        "Silver": 127,
+        "Red": 110
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 407,
+        "Blue": 394,
+        "White": 363,
+        "Gold": 341,
+        "Silver": 324,
+        "Red": 267
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 430,
+        "Blue": 415,
+        "White": 386,
+        "Gold": 366,
+        "Silver": 336,
+        "Red": 260
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 191,
+        "Blue": 174,
+        "White": 150,
+        "Gold": 135,
+        "Silver": 135,
+        "Red": 102
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 420,
+        "Blue": 403,
+        "White": 370,
+        "Gold": 341,
+        "Silver": 322,
+        "Red": 256
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 398,
+        "Blue": 384,
+        "White": 360,
+        "Gold": 345,
+        "Silver": 330,
+        "Red": 284
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 554,
+        "Blue": 536,
+        "White": 495,
+        "Gold": 482,
+        "Silver": 447,
+        "Red": 421
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 230,
+        "Blue": 201,
+        "White": 182,
+        "Gold": 157,
+        "Silver": 157,
+        "Red": 138
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 423,
+        "Blue": 400,
+        "White": 361,
+        "Gold": 344,
+        "Silver": 303,
+        "Red": 289
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 489,
+        "Blue": 471,
+        "White": 450,
+        "Gold": 429,
+        "Silver": 366,
+        "Red": 342
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 535,
+        "Blue": 517,
+        "White": 489,
+        "Gold": 471,
+        "Silver": 449,
+        "Red": 410
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 167,
+        "Blue": 156,
+        "White": 145,
+        "Gold": 116,
+        "Silver": 116,
+        "Red": 84
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 486,
+        "Blue": 433,
+        "White": 414,
+        "Gold": 383,
+        "Silver": 356,
+        "Red": 326
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 445,
+        "Blue": 431,
+        "White": 417,
+        "Gold": 397,
+        "Silver": 342,
+        "Red": 318
+      }
+    }
+  ],
+  "version": 1
+}

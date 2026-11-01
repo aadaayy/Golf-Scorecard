@@ -1,0 +1,254 @@
+{
+  "id": "cypress-course-at-stonegate-golf-club",
+  "name": "Cypress Course At Stonegate Golf Club",
+  "town": "Kissimmee, FL",
+  "location": {
+    "lat": 28.136038,
+    "lng": -81.481802
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red",
+    "Green",
+    "Silver/Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 441,
+        "Blue": 420,
+        "White": 389,
+        "Red": 358,
+        "Green": 311,
+        "Silver/Green": 278
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 416,
+        "Blue": 390,
+        "White": 370,
+        "Red": 349,
+        "Green": 270,
+        "Silver/Green": 235
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 174,
+        "Blue": 159,
+        "White": 139,
+        "Red": 117,
+        "Green": 115,
+        "Silver/Green": 115
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 531,
+        "Blue": 511,
+        "White": 486,
+        "Red": 396,
+        "Green": 396,
+        "Silver/Green": 326
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 409,
+        "Blue": 379,
+        "White": 335,
+        "Red": 335,
+        "Green": 307,
+        "Silver/Green": 307
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 538,
+        "Blue": 515,
+        "White": 492,
+        "Red": 447,
+        "Green": 447,
+        "Silver/Green": 377
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 361,
+        "Blue": 341,
+        "White": 325,
+        "Red": 307,
+        "Green": 229,
+        "Silver/Green": 229
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 171,
+        "Blue": 143,
+        "White": 127,
+        "Red": 120,
+        "Green": 85,
+        "Silver/Green": 85
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 378,
+        "Blue": 348,
+        "White": 330,
+        "Red": 330,
+        "Green": 264,
+        "Silver/Green": 264
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 405,
+        "Blue": 379,
+        "White": 351,
+        "Red": 351,
+        "Green": 291,
+        "Silver/Green": 291
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 370,
+        "Blue": 349,
+        "White": 325,
+        "Red": 303,
+        "Green": 263,
+        "Silver/Green": 263
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 157,
+        "Blue": 136,
+        "White": 123,
+        "Red": 110,
+        "Green": 95,
+        "Silver/Green": 95
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 411,
+        "Blue": 386,
+        "White": 356,
+        "Red": 280,
+        "Green": 280,
+        "Silver/Green": 280
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 494,
+        "Blue": 473,
+        "White": 442,
+        "Red": 415,
+        "Green": 386,
+        "Silver/Green": 311
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 368,
+        "Blue": 343,
+        "White": 301,
+        "Red": 301,
+        "Green": 253,
+        "Silver/Green": 253
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 198,
+        "Blue": 186,
+        "White": 164,
+        "Red": 138,
+        "Green": 108,
+        "Silver/Green": 108
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 420,
+        "Blue": 391,
+        "White": 365,
+        "Red": 334,
+        "Green": 306,
+        "Silver/Green": 271
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Gold": 518,
+        "Blue": 489,
+        "White": 462,
+        "Red": 436,
+        "Green": 420,
+        "Silver/Green": 352
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,272 @@
+{
+  "id": "bonifay-country-club-destin-fort-walton",
+  "name": "Bonifay Country Club Destin Fort Walton",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.859561,
+    "lng": -81.975659
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 582,
+        "Gold": 549,
+        "Blue": 512,
+        "White": 474,
+        "Green": 429,
+        "Friendly": 333
+      },
+      "map": "bonifay-country-club-destin-fort-walton-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 181,
+        "Gold": 164,
+        "Blue": 142,
+        "White": 115,
+        "Green": 86,
+        "Friendly": 66
+      },
+      "map": "bonifay-country-club-destin-fort-walton-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 372,
+        "Gold": 364,
+        "Blue": 335,
+        "White": 269,
+        "Green": 245,
+        "Friendly": 201
+      },
+      "map": "bonifay-country-club-destin-fort-walton-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 461,
+        "Gold": 416,
+        "Blue": 386,
+        "White": 354,
+        "Green": 329,
+        "Friendly": 275
+      },
+      "map": "bonifay-country-club-destin-fort-walton-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 220,
+        "Gold": 177,
+        "Blue": 167,
+        "White": 119,
+        "Green": 95,
+        "Friendly": 91
+      },
+      "map": "bonifay-country-club-destin-fort-walton-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 555,
+        "Gold": 512,
+        "Blue": 482,
+        "White": 445,
+        "Green": 384,
+        "Friendly": 296
+      },
+      "map": "bonifay-country-club-destin-fort-walton-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 348,
+        "Gold": 338,
+        "Blue": 325,
+        "White": 286,
+        "Green": 254,
+        "Friendly": 244
+      },
+      "map": "bonifay-country-club-destin-fort-walton-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 203,
+        "Gold": 188,
+        "Blue": 161,
+        "White": 129,
+        "Green": 101,
+        "Friendly": 97
+      },
+      "map": "bonifay-country-club-destin-fort-walton-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 543,
+        "Gold": 531,
+        "Blue": 505,
+        "White": 467,
+        "Green": 427,
+        "Friendly": 340
+      },
+      "map": "bonifay-country-club-destin-fort-walton-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 596,
+        "Gold": 557,
+        "Blue": 526,
+        "White": 480,
+        "Green": 416,
+        "Friendly": 323
+      },
+      "map": "bonifay-country-club-destin-fort-walton-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 195,
+        "Gold": 184,
+        "Blue": 164,
+        "White": 132,
+        "Green": 108,
+        "Friendly": 86
+      },
+      "map": "bonifay-country-club-destin-fort-walton-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 367,
+        "Gold": 340,
+        "Blue": 313,
+        "White": 275,
+        "Green": 256,
+        "Friendly": 197
+      },
+      "map": "bonifay-country-club-destin-fort-walton-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 436,
+        "Gold": 390,
+        "Blue": 359,
+        "White": 329,
+        "Green": 293,
+        "Friendly": 235
+      },
+      "map": "bonifay-country-club-destin-fort-walton-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 426,
+        "Gold": 401,
+        "Blue": 373,
+        "White": 366,
+        "Green": 301,
+        "Friendly": 247
+      },
+      "map": "bonifay-country-club-destin-fort-walton-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 599,
+        "Gold": 547,
+        "Blue": 514,
+        "White": 464,
+        "Green": 370,
+        "Friendly": 337
+      },
+      "map": "bonifay-country-club-destin-fort-walton-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 390,
+        "Gold": 377,
+        "Blue": 350,
+        "White": 314,
+        "Green": 263,
+        "Friendly": 259
+      },
+      "map": "bonifay-country-club-destin-fort-walton-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 185,
+        "Gold": 178,
+        "Blue": 161,
+        "White": 138,
+        "Green": 110,
+        "Friendly": 90
+      },
+      "map": "bonifay-country-club-destin-fort-walton-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 444,
+        "Gold": 408,
+        "Blue": 378,
+        "White": 341,
+        "Green": 296,
+        "Friendly": 208
+      },
+      "map": "bonifay-country-club-destin-fort-walton-18"
+    }
+  ],
+  "version": 1
+}

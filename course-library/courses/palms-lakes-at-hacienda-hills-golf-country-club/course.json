@@ -1,0 +1,235 @@
+{
+  "id": "palms-lakes-at-hacienda-hills-golf-country-club",
+  "name": "Palms Lakes At Hacienda Hills Golf Country Club",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.938814,
+    "lng": -81.968252
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 509,
+        "Blue": 485,
+        "White": 432,
+        "Green": 330,
+        "Friendly": 312
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 386,
+        "Blue": 362,
+        "White": 279,
+        "Green": 263,
+        "Friendly": 204
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 172,
+        "Blue": 160,
+        "White": 136,
+        "Green": 112,
+        "Friendly": 82
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 522,
+        "Blue": 493,
+        "White": 443,
+        "Green": 391,
+        "Friendly": 326
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 399,
+        "Blue": 373,
+        "White": 341,
+        "Green": 282,
+        "Friendly": 233
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 350,
+        "Blue": 310,
+        "White": 265,
+        "Green": 214,
+        "Friendly": 186
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 391,
+        "Blue": 345,
+        "White": 310,
+        "Green": 267,
+        "Friendly": 235
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 132,
+        "Blue": 118,
+        "White": 107,
+        "Green": 93,
+        "Friendly": 89
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 336,
+        "Blue": 328,
+        "White": 300,
+        "Green": 241,
+        "Friendly": 180
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Gold": 453,
+        "Blue": 433,
+        "White": 413,
+        "Green": 355,
+        "Friendly": 317
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 417,
+        "Blue": 392,
+        "White": 339,
+        "Green": 333,
+        "Friendly": 289
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 152,
+        "Blue": 134,
+        "White": 110,
+        "Green": 104,
+        "Friendly": 82
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 336,
+        "Blue": 313,
+        "White": 291,
+        "Green": 225,
+        "Friendly": 179
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 429,
+        "Blue": 407,
+        "White": 336,
+        "Green": 304,
+        "Friendly": 260
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 402,
+        "Blue": 384,
+        "White": 334,
+        "Green": 300,
+        "Friendly": 252
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 383,
+        "Blue": 360,
+        "White": 306,
+        "Green": 284,
+        "Friendly": 240
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 171,
+        "Blue": 148,
+        "White": 129,
+        "Green": 111,
+        "Friendly": 86
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Gold": 506,
+        "Blue": 478,
+        "White": 441,
+        "Green": 390,
+        "Friendly": 350
+      }
+    }
+  ],
+  "version": 1
+}

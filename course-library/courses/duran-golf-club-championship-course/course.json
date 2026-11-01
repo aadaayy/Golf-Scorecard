@@ -1,0 +1,272 @@
+{
+  "id": "duran-golf-club-championship-course",
+  "name": "Duran Golf Club Championship Course",
+  "town": "Melbourne, FL",
+  "location": {
+    "lat": 28.237373,
+    "lng": -80.736018
+  },
+  "tees": [
+    "Web",
+    "Onyx",
+    "Gold",
+    "Royal",
+    "Ivory",
+    "Ruby"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Web": 571,
+        "Onyx": 568,
+        "Gold": 538,
+        "Royal": 501,
+        "Ivory": 467,
+        "Ruby": 422
+      },
+      "map": "duran-golf-club-championship-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 453,
+        "Onyx": 454,
+        "Gold": 432,
+        "Royal": 390,
+        "Ivory": 363,
+        "Ruby": 333
+      },
+      "map": "duran-golf-club-championship-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Web": 343,
+        "Onyx": 345,
+        "Gold": 338,
+        "Royal": 313,
+        "Ivory": 291,
+        "Ruby": 264
+      },
+      "map": "duran-golf-club-championship-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Web": 162,
+        "Onyx": 160,
+        "Gold": 145,
+        "Royal": 137,
+        "Ivory": 122,
+        "Ruby": 104
+      },
+      "map": "duran-golf-club-championship-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 427,
+        "Onyx": 427,
+        "Gold": 408,
+        "Royal": 375,
+        "Ivory": 349,
+        "Ruby": 316
+      },
+      "map": "duran-golf-club-championship-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 393,
+        "Onyx": 393,
+        "Gold": 370,
+        "Royal": 344,
+        "Ivory": 322,
+        "Ruby": 292
+      },
+      "map": "duran-golf-club-championship-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Web": 196,
+        "Onyx": 196,
+        "Gold": 190,
+        "Royal": 172,
+        "Ivory": 162,
+        "Ruby": 147
+      },
+      "map": "duran-golf-club-championship-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 439,
+        "Onyx": 433,
+        "Gold": 413,
+        "Royal": 375,
+        "Ivory": 353,
+        "Ruby": 326
+      },
+      "map": "duran-golf-club-championship-course-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Web": 540,
+        "Onyx": 542,
+        "Gold": 513,
+        "Royal": 472,
+        "Ivory": 438,
+        "Ruby": 399
+      },
+      "map": "duran-golf-club-championship-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Web": 394,
+        "Onyx": 394,
+        "Gold": 376,
+        "Royal": 345,
+        "Ivory": 323,
+        "Ruby": 290
+      },
+      "map": "duran-golf-club-championship-course-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Web": 531,
+        "Onyx": 515,
+        "Gold": 495,
+        "Royal": 476,
+        "Ivory": 442,
+        "Ruby": 393
+      },
+      "map": "duran-golf-club-championship-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 438,
+        "Onyx": 434,
+        "Gold": 413,
+        "Royal": 380,
+        "Ivory": 354,
+        "Ruby": 319
+      },
+      "map": "duran-golf-club-championship-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 187,
+        "Onyx": 187,
+        "Gold": 178,
+        "Royal": 162,
+        "Ivory": 142,
+        "Ruby": 128
+      },
+      "map": "duran-golf-club-championship-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 401,
+        "Onyx": 397,
+        "Gold": 376,
+        "Royal": 347,
+        "Ivory": 321,
+        "Ruby": 290
+      },
+      "map": "duran-golf-club-championship-course-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Web": 542,
+        "Onyx": 540,
+        "Gold": 514,
+        "Royal": 495,
+        "Ivory": 466,
+        "Ruby": 433
+      },
+      "map": "duran-golf-club-championship-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 385,
+        "Onyx": 385,
+        "Gold": 357,
+        "Royal": 336,
+        "Ivory": 325,
+        "Ruby": 279
+      },
+      "map": "duran-golf-club-championship-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Web": 234,
+        "Onyx": 234,
+        "Gold": 209,
+        "Royal": 182,
+        "Ivory": 170,
+        "Ruby": 115
+      },
+      "map": "duran-golf-club-championship-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 449,
+        "Onyx": 447,
+        "Gold": 422,
+        "Royal": 396,
+        "Ivory": 370,
+        "Ruby": 334
+      },
+      "map": "duran-golf-club-championship-course-18"
+    }
+  ],
+  "version": 1
+}

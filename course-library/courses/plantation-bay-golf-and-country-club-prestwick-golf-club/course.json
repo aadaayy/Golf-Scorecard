@@ -1,0 +1,235 @@
+{
+  "id": "plantation-bay-golf-and-country-club-prestwick-golf-club",
+  "name": "Plantation Bay Golf And Country Club Prestwick Golf Club",
+  "town": "Ormond Beach, FL",
+  "location": {
+    "lat": 29.401611,
+    "lng": -81.158443
+  },
+  "tees": [
+    "Black",
+    "Green",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 560,
+        "Green": 545,
+        "White": 500,
+        "Gold": 475,
+        "Red": 460
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 210,
+        "Green": 190,
+        "White": 140,
+        "Gold": 120,
+        "Red": 100
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 510,
+        "Green": 495,
+        "White": 465,
+        "Gold": 420,
+        "Red": 410
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 175,
+        "Green": 175,
+        "White": 115,
+        "Gold": 100,
+        "Red": 85
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 375,
+        "Green": 370,
+        "White": 330,
+        "Gold": 275,
+        "Red": 270
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 430,
+        "Green": 415,
+        "White": 380,
+        "Gold": 310,
+        "Red": 305
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 170,
+        "Green": 150,
+        "White": 115,
+        "Gold": 95,
+        "Red": 90
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 340,
+        "Green": 330,
+        "White": 310,
+        "Gold": 300,
+        "Red": 220
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 380,
+        "Green": 365,
+        "White": 345,
+        "Gold": 265,
+        "Red": 260
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 350,
+        "Green": 345,
+        "White": 315,
+        "Gold": 305,
+        "Red": 250
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 195,
+        "Green": 180,
+        "White": 140,
+        "Gold": 115,
+        "Red": 100
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 395,
+        "Green": 385,
+        "White": 350,
+        "Gold": 275,
+        "Red": 270
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 405,
+        "Green": 390,
+        "White": 350,
+        "Gold": 300,
+        "Red": 260
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 535,
+        "Green": 505,
+        "White": 445,
+        "Gold": 415,
+        "Red": 370
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 370,
+        "Green": 345,
+        "White": 315,
+        "Gold": 260,
+        "Red": 255
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 195,
+        "Green": 180,
+        "White": 135,
+        "Gold": 115,
+        "Red": 100
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 530,
+        "Green": 520,
+        "White": 475,
+        "Gold": 455,
+        "Red": 415
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 350,
+        "Green": 330,
+        "White": 300,
+        "Gold": 280,
+        "Red": 210
+      }
+    }
+  ],
+  "version": 1
+}

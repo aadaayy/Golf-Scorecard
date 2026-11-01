@@ -1,0 +1,273 @@
+{
+  "id": "cane-garden-country-club-jacaranda-allamanda-course",
+  "name": "Cane Garden Country Club Jacaranda Allamanda Course",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.892843,
+    "lng": -81.994343
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 580,
+        "Web": 580,
+        "Gold": 549,
+        "Blue": 524,
+        "White": 488,
+        "Green": 453,
+        "Friendly": 339
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 206,
+        "Web": 206,
+        "Gold": 180,
+        "Blue": 156,
+        "White": 131,
+        "Green": 109,
+        "Friendly": 71
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 423,
+        "Web": 423,
+        "Gold": 401,
+        "Blue": 361,
+        "White": 313,
+        "Green": 246,
+        "Friendly": 208
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 441,
+        "Web": 441,
+        "Gold": 398,
+        "Blue": 384,
+        "White": 358,
+        "Green": 330,
+        "Friendly": 265
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 397,
+        "Web": 397,
+        "Gold": 371,
+        "Blue": 346,
+        "White": 321,
+        "Green": 247,
+        "Friendly": 210
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 399,
+        "Web": 399,
+        "Gold": 378,
+        "Blue": 358,
+        "White": 301,
+        "Green": 258,
+        "Friendly": 223
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 369,
+        "Web": 369,
+        "Gold": 361,
+        "Blue": 349,
+        "White": 320,
+        "Green": 279,
+        "Friendly": 260
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 186,
+        "Web": 186,
+        "Gold": 160,
+        "Blue": 133,
+        "White": 111,
+        "Green": 86,
+        "Friendly": 86
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 582,
+        "Web": 582,
+        "Gold": 540,
+        "Blue": 507,
+        "White": 475,
+        "Green": 446,
+        "Friendly": 309
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 414,
+        "Web": 414,
+        "Gold": 380,
+        "Blue": 350,
+        "White": 332,
+        "Green": 283,
+        "Friendly": 183
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 187,
+        "Web": 187,
+        "Gold": 155,
+        "Blue": 136,
+        "White": 113,
+        "Green": 85,
+        "Friendly": 85
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 534,
+        "Web": 534,
+        "Gold": 500,
+        "Blue": 485,
+        "White": 462,
+        "Green": 445,
+        "Friendly": 340
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 423,
+        "Web": 423,
+        "Gold": 387,
+        "Blue": 365,
+        "White": 317,
+        "Green": 299,
+        "Friendly": 236
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 408,
+        "Web": 408,
+        "Gold": 377,
+        "Blue": 356,
+        "White": 311,
+        "Green": 279,
+        "Friendly": 221
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 407,
+        "Web": 407,
+        "Gold": 374,
+        "Blue": 353,
+        "White": 331,
+        "Green": 325,
+        "Friendly": 220
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 224,
+        "Web": 224,
+        "Gold": 181,
+        "Blue": 154,
+        "White": 133,
+        "Green": 110,
+        "Friendly": 110
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 423,
+        "Web": 423,
+        "Gold": 401,
+        "Blue": 379,
+        "White": 318,
+        "Green": 282,
+        "Friendly": 213
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 586,
+        "Web": 586,
+        "Gold": 555,
+        "Blue": 530,
+        "White": 503,
+        "Green": 454,
+        "Friendly": 392
+      }
+    }
+  ],
+  "version": 1
+}

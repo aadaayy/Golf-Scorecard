@@ -1,0 +1,254 @@
+{
+  "id": "westchase-golf-club",
+  "name": "Westchase Golf Club",
+  "town": "Tampa, FL",
+  "location": {
+    "lat": 28.047853,
+    "lng": -82.616053
+  },
+  "tees": [
+    "Championship",
+    "Champion/Clifton",
+    "Clifton",
+    "Clifton/Club",
+    "Club",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 326,
+        "Champion/Clifton": 326,
+        "Clifton": 297,
+        "Clifton/Club": 297,
+        "Club": 253,
+        "Forward": 227
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Championship": 532,
+        "Champion/Clifton": 508,
+        "Clifton": 508,
+        "Clifton/Club": 494,
+        "Club": 494,
+        "Forward": 425
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Championship": 205,
+        "Champion/Clifton": 177,
+        "Clifton": 177,
+        "Clifton/Club": 117,
+        "Club": 117,
+        "Forward": 77
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Championship": 368,
+        "Champion/Clifton": 368,
+        "Clifton": 336,
+        "Clifton/Club": 336,
+        "Club": 254,
+        "Forward": 254
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 416,
+        "Champion/Clifton": 391,
+        "Clifton": 391,
+        "Clifton/Club": 365,
+        "Club": 365,
+        "Forward": 303
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 409,
+        "Champion/Clifton": 376,
+        "Clifton": 376,
+        "Clifton/Club": 376,
+        "Club": 352,
+        "Forward": 261
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 160,
+        "Champion/Clifton": 160,
+        "Clifton": 123,
+        "Clifton/Club": 123,
+        "Club": 96,
+        "Forward": 80
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Championship": 513,
+        "Champion/Clifton": 486,
+        "Clifton": 486,
+        "Clifton/Club": 486,
+        "Club": 458,
+        "Forward": 389
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 402,
+        "Champion/Clifton": 373,
+        "Clifton": 373,
+        "Clifton/Club": 347,
+        "Club": 347,
+        "Forward": 289
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Championship": 499,
+        "Champion/Clifton": 472,
+        "Clifton": 472,
+        "Clifton/Club": 472,
+        "Club": 459,
+        "Forward": 408
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Championship": 185,
+        "Champion/Clifton": 166,
+        "Clifton": 166,
+        "Clifton/Club": 144,
+        "Club": 144,
+        "Forward": 79
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 359,
+        "Champion/Clifton": 359,
+        "Clifton": 334,
+        "Clifton/Club": 334,
+        "Club": 319,
+        "Forward": 227
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Championship": 493,
+        "Champion/Clifton": 493,
+        "Clifton": 446,
+        "Clifton/Club": 446,
+        "Club": 430,
+        "Forward": 405
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 352,
+        "Champion/Clifton": 352,
+        "Clifton": 291,
+        "Clifton/Club": 291,
+        "Club": 274,
+        "Forward": 240
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 152,
+        "Champion/Clifton": 152,
+        "Clifton": 125,
+        "Clifton/Club": 125,
+        "Club": 125,
+        "Forward": 102
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 342,
+        "Champion/Clifton": 308,
+        "Clifton": 308,
+        "Clifton/Club": 308,
+        "Club": 296,
+        "Forward": 237
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 394,
+        "Champion/Clifton": 367,
+        "Clifton": 367,
+        "Clifton/Club": 349,
+        "Club": 349,
+        "Forward": 274
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 380,
+        "Champion/Clifton": 380,
+        "Clifton": 347,
+        "Clifton/Club": 347,
+        "Club": 333,
+        "Forward": 239
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,291 @@
+{
+  "id": "tranquilo-golf-club-at-four-seasons-resort-orlando",
+  "name": "Tranquilo Golf Club At Four Seasons Resort Orlando",
+  "town": "Lake Buena Vista, FL",
+  "location": {
+    "lat": 28.399242,
+    "lng": -81.547805
+  },
+  "tees": [
+    "Golden",
+    "Golden/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Golden": 355,
+        "Golden/Blue": 355,
+        "Blue": 338,
+        "Blue/White": 338,
+        "White": 326,
+        "White/Red": 326,
+        "Red": 275
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Golden": 401,
+        "Golden/Blue": 388,
+        "Blue": 388,
+        "Blue/White": 340,
+        "White": 340,
+        "White/Red": 269,
+        "Red": 269
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Golden": 194,
+        "Golden/Blue": 164,
+        "Blue": 164,
+        "Blue/White": 164,
+        "White": 140,
+        "White/Red": 140,
+        "Red": 107
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Golden": 399,
+        "Golden/Blue": 399,
+        "Blue": 389,
+        "Blue/White": 309,
+        "White": 309,
+        "White/Red": 309,
+        "Red": 252
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Golden": 215,
+        "Golden/Blue": 192,
+        "Blue": 192,
+        "Blue/White": 176,
+        "White": 176,
+        "White/Red": 134,
+        "Red": 134
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Golden": 412,
+        "Golden/Blue": 412,
+        "Blue": 396,
+        "Blue/White": 340,
+        "White": 340,
+        "White/Red": 340,
+        "Red": 297
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Golden": 575,
+        "Golden/Blue": 544,
+        "Blue": 544,
+        "Blue/White": 544,
+        "White": 512,
+        "White/Red": 464,
+        "Red": 464
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Golden": 430,
+        "Golden/Blue": 430,
+        "Blue": 382,
+        "Blue/White": 382,
+        "White": 348,
+        "White/Red": 297,
+        "Red": 297
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Golden": 510,
+        "Golden/Blue": 510,
+        "Blue": 464,
+        "Blue/White": 464,
+        "White": 430,
+        "White/Red": 430,
+        "Red": 340
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Golden": 440,
+        "Golden/Blue": 393,
+        "Blue": 393,
+        "Blue/White": 366,
+        "White": 366,
+        "White/Red": 366,
+        "Red": 327
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Golden": 404,
+        "Golden/Blue": 367,
+        "Blue": 367,
+        "Blue/White": 315,
+        "White": 315,
+        "White/Red": 315,
+        "Red": 277
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Golden": 540,
+        "Golden/Blue": 540,
+        "Blue": 525,
+        "Blue/White": 486,
+        "White": 486,
+        "White/Red": 443,
+        "Red": 443
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Golden": 179,
+        "Golden/Blue": 159,
+        "Blue": 159,
+        "Blue/White": 159,
+        "White": 153,
+        "White/Red": 125,
+        "Red": 125
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Golden": 454,
+        "Golden/Blue": 429,
+        "Blue": 429,
+        "Blue/White": 407,
+        "White": 407,
+        "White/Red": 314,
+        "Red": 314
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Golden": 340,
+        "Golden/Blue": 340,
+        "Blue": 324,
+        "Blue/White": 324,
+        "White": 288,
+        "White/Red": 288,
+        "Red": 263
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Golden": 160,
+        "Golden/Blue": 160,
+        "Blue": 131,
+        "Blue/White": 131,
+        "White": 110,
+        "White/Red": 92,
+        "Red": 92
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Golden": 516,
+        "Golden/Blue": 516,
+        "Blue": 481,
+        "Blue/White": 481,
+        "White": 454,
+        "White/Red": 454,
+        "Red": 424
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-17"
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Golden": 214,
+        "Golden/Blue": 205,
+        "Blue": 205,
+        "Blue/White": 187,
+        "White": 187,
+        "White/Red": 133,
+        "Red": 133
+      },
+      "map": "tranquilo-golf-club-at-four-seasons-resort-orlando-18"
+    }
+  ],
+  "version": 1
+}

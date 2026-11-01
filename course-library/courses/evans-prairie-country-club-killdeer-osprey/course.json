@@ -1,0 +1,273 @@
+{
+  "id": "evans-prairie-country-club-killdeer-osprey",
+  "name": "Evans Prairie Country Club Killdeer Osprey",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.854436,
+    "lng": -81.998303
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 406,
+        "Web": 406,
+        "Gold": 385,
+        "Blue": 350,
+        "White": 317,
+        "Green": 270,
+        "Friendly": 224
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 448,
+        "Web": 448,
+        "Gold": 421,
+        "Blue": 378,
+        "White": 355,
+        "Green": 317,
+        "Friendly": 252
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 523,
+        "Web": 523,
+        "Gold": 514,
+        "Blue": 450,
+        "White": 418,
+        "Green": 366,
+        "Friendly": 296
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 207,
+        "Web": 207,
+        "Gold": 202,
+        "Blue": 185,
+        "White": 167,
+        "Green": 88,
+        "Friendly": 82
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 425,
+        "Web": 425,
+        "Gold": 389,
+        "Blue": 363,
+        "White": 357,
+        "Green": 318,
+        "Friendly": 210
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 167,
+        "Web": 167,
+        "Gold": 158,
+        "Blue": 137,
+        "White": 130,
+        "Green": 99,
+        "Friendly": 93
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 459,
+        "Web": 459,
+        "Gold": 425,
+        "Blue": 405,
+        "White": 313,
+        "Green": 305,
+        "Friendly": 247
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 530,
+        "Web": 530,
+        "Gold": 497,
+        "Blue": 464,
+        "White": 420,
+        "Green": 376,
+        "Friendly": 322
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 421,
+        "Web": 421,
+        "Gold": 392,
+        "Blue": 384,
+        "White": 353,
+        "Green": 289,
+        "Friendly": 282
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 435,
+        "Web": 435,
+        "Gold": 414,
+        "Blue": 383,
+        "White": 352,
+        "Green": 268,
+        "Friendly": 232
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 559,
+        "Web": 559,
+        "Gold": 550,
+        "Blue": 517,
+        "White": 487,
+        "Green": 442,
+        "Friendly": 285
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 374,
+        "Web": 374,
+        "Gold": 343,
+        "Blue": 314,
+        "White": 285,
+        "Green": 245,
+        "Friendly": 207
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 180,
+        "Web": 180,
+        "Gold": 165,
+        "Blue": 151,
+        "White": 114,
+        "Green": 104,
+        "Friendly": 81
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 335,
+        "Web": 335,
+        "Gold": 328,
+        "Blue": 291,
+        "White": 265,
+        "Green": 243,
+        "Friendly": 213
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 175,
+        "Web": 175,
+        "Gold": 168,
+        "Blue": 147,
+        "White": 122,
+        "Green": 107,
+        "Friendly": 101
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 407,
+        "Web": 407,
+        "Gold": 376,
+        "Blue": 367,
+        "White": 337,
+        "Green": 308,
+        "Friendly": 185
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 528,
+        "Web": 528,
+        "Gold": 491,
+        "Blue": 478,
+        "White": 458,
+        "Green": 417,
+        "Friendly": 307
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 446,
+        "Web": 446,
+        "Gold": 437,
+        "Blue": 406,
+        "White": 373,
+        "Green": 311,
+        "Friendly": 255
+      }
+    }
+  ],
+  "version": 1
+}

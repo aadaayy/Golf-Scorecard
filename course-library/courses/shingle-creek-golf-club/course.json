@@ -1,0 +1,253 @@
+{
+  "id": "shingle-creek-golf-club",
+  "name": "Shingle Creek Golf Club",
+  "town": "Orlando, FL",
+  "location": {
+    "lat": 28.426488,
+    "lng": -81.435731
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "Silver",
+    "Ivory"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 398,
+        "Gold": 359,
+        "Blue": 339,
+        "Silver": 310,
+        "Ivory": 275
+      },
+      "map": "shingle-creek-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 556,
+        "Gold": 534,
+        "Blue": 505,
+        "Silver": 459,
+        "Ivory": 423
+      },
+      "map": "shingle-creek-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 389,
+        "Gold": 367,
+        "Blue": 352,
+        "Silver": 311,
+        "Ivory": 280
+      },
+      "map": "shingle-creek-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 400,
+        "Gold": 371,
+        "Blue": 346,
+        "Silver": 303,
+        "Ivory": 254
+      },
+      "map": "shingle-creek-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 189,
+        "Gold": 161,
+        "Blue": 139,
+        "Silver": 125,
+        "Ivory": 98
+      },
+      "map": "shingle-creek-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 425,
+        "Gold": 393,
+        "Blue": 376,
+        "Silver": 345,
+        "Ivory": 291
+      },
+      "map": "shingle-creek-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 241,
+        "Gold": 234,
+        "Blue": 197,
+        "Silver": 180,
+        "Ivory": 154
+      },
+      "map": "shingle-creek-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 607,
+        "Gold": 574,
+        "Blue": 564,
+        "Silver": 525,
+        "Ivory": 493
+      },
+      "map": "shingle-creek-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 522,
+        "Gold": 449,
+        "Blue": 437,
+        "Silver": 366,
+        "Ivory": 342
+      },
+      "map": "shingle-creek-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 392,
+        "Gold": 346,
+        "Blue": 316,
+        "Silver": 300,
+        "Ivory": 277
+      },
+      "map": "shingle-creek-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 451,
+        "Gold": 423,
+        "Blue": 398,
+        "Silver": 366,
+        "Ivory": 317
+      },
+      "map": "shingle-creek-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 387,
+        "Gold": 345,
+        "Blue": 337,
+        "Silver": 292,
+        "Ivory": 280
+      },
+      "map": "shingle-creek-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 562,
+        "Gold": 493,
+        "Blue": 485,
+        "Silver": 432,
+        "Ivory": 334
+      },
+      "map": "shingle-creek-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 318,
+        "Gold": 262,
+        "Blue": 233,
+        "Silver": 223,
+        "Ivory": 197
+      },
+      "map": "shingle-creek-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 188,
+        "Gold": 156,
+        "Blue": 148,
+        "Silver": 134,
+        "Ivory": 95
+      },
+      "map": "shingle-creek-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 480,
+        "Gold": 461,
+        "Blue": 443,
+        "Silver": 409,
+        "Ivory": 342
+      },
+      "map": "shingle-creek-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 211,
+        "Gold": 191,
+        "Blue": 169,
+        "Silver": 158,
+        "Ivory": 132
+      },
+      "map": "shingle-creek-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 431,
+        "Gold": 405,
+        "Blue": 388,
+        "Silver": 340,
+        "Ivory": 312
+      },
+      "map": "shingle-creek-golf-club-18"
+    }
+  ],
+  "version": 1
+}

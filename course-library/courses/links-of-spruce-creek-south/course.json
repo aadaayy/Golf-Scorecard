@@ -1,0 +1,178 @@
+{
+  "id": "links-of-spruce-creek-south",
+  "name": "Links Of Spruce Creek South",
+  "town": "Lady Lake, FL",
+  "location": {
+    "lat": 28.959669,
+    "lng": -81.982666
+  },
+  "tees": [
+    "Championship",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 380,
+        "Forward": 288
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 153,
+        "Forward": 118
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 367,
+        "Forward": 310
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 282,
+        "Forward": 246
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 358,
+        "Forward": 277
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Championship": 487,
+        "Forward": 442
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 407,
+        "Forward": 352
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 154,
+        "Forward": 95
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Championship": 523,
+        "Forward": 432
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 290,
+        "Forward": 187
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 181,
+        "Forward": 96
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 421,
+        "Forward": 315
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 362,
+        "Forward": 270
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 374,
+        "Forward": 295
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Championship": 486,
+        "Forward": 379
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 166,
+        "Forward": 117
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 417,
+        "Forward": 320
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Championship": 517,
+        "Forward": 383
+      }
+    }
+  ],
+  "version": 1
+}

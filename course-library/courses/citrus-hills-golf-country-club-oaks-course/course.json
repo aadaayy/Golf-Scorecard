@@ -1,0 +1,216 @@
+{
+  "id": "citrus-hills-golf-country-club-oaks-course",
+  "name": "Citrus Hills Golf Country Club Oaks Course",
+  "town": "Hernando, FL",
+  "location": {
+    "lat": 28.887281,
+    "lng": -82.426407
+  },
+  "tees": [
+    "Championship/Gold",
+    "Club/Blue",
+    "Interim/White",
+    "Forward/Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship/Gold": 407,
+        "Club/Blue": 385,
+        "Interim/White": 349,
+        "Forward/Red": 308
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship/Gold": 359,
+        "Club/Blue": 325,
+        "Interim/White": 295,
+        "Forward/Red": 282
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship/Gold": 152,
+        "Club/Blue": 138,
+        "Interim/White": 124,
+        "Forward/Red": 93
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship/Gold": 408,
+        "Club/Blue": 383,
+        "Interim/White": 349,
+        "Forward/Red": 322
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Championship/Gold": 187,
+        "Club/Blue": 177,
+        "Interim/White": 160,
+        "Forward/Red": 107
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Championship/Gold": 526,
+        "Club/Blue": 488,
+        "Interim/White": 449,
+        "Forward/Red": 412
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Championship/Gold": 244,
+        "Club/Blue": 206,
+        "Interim/White": 176,
+        "Forward/Red": 155
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Championship/Gold": 398,
+        "Club/Blue": 370,
+        "Interim/White": 339,
+        "Forward/Red": 289
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Championship/Gold": 487,
+        "Club/Blue": 470,
+        "Interim/White": 424,
+        "Forward/Red": 398
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship/Gold": 183,
+        "Club/Blue": 174,
+        "Interim/White": 155,
+        "Forward/Red": 128
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship/Gold": 415,
+        "Club/Blue": 375,
+        "Interim/White": 336,
+        "Forward/Red": 309
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Championship/Gold": 214,
+        "Club/Blue": 194,
+        "Interim/White": 160,
+        "Forward/Red": 126
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Championship/Gold": 504,
+        "Club/Blue": 485,
+        "Interim/White": 457,
+        "Forward/Red": 371
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship/Gold": 340,
+        "Club/Blue": 318,
+        "Interim/White": 263,
+        "Forward/Red": 215
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship/Gold": 377,
+        "Club/Blue": 344,
+        "Interim/White": 299,
+        "Forward/Red": 265
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship/Gold": 378,
+        "Club/Blue": 335,
+        "Interim/White": 298,
+        "Forward/Red": 259
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Championship/Gold": 254,
+        "Club/Blue": 254,
+        "Interim/White": 254,
+        "Forward/Red": 237
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Championship/Gold": 507,
+        "Club/Blue": 480,
+        "Interim/White": 429,
+        "Forward/Red": 419
+      }
+    }
+  ],
+  "version": 1
+}

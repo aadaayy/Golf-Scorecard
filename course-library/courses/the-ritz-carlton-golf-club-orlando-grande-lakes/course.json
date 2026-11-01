@@ -1,0 +1,254 @@
+{
+  "id": "the-ritz-carlton-golf-club-orlando-grande-lakes",
+  "name": "The Ritz Carlton Golf Club Orlando Grande Lakes",
+  "town": "Orlando, FL",
+  "location": {
+    "lat": 28.401727,
+    "lng": -81.43132
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Green (W)"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 423,
+        "Gold": 387,
+        "Blue": 376,
+        "Blue/White": 338,
+        "White": 338,
+        "Green (W)": 292
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 410,
+        "Gold": 381,
+        "Blue": 343,
+        "Blue/White": 343,
+        "White": 335,
+        "Green (W)": 301
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 529,
+        "Gold": 511,
+        "Blue": 476,
+        "Blue/White": 476,
+        "White": 458,
+        "Green (W)": 421
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 178,
+        "Gold": 166,
+        "Blue": 145,
+        "Blue/White": 145,
+        "White": 122,
+        "Green (W)": 97
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 558,
+        "Gold": 536,
+        "Blue": 509,
+        "Blue/White": 498,
+        "White": 498,
+        "Green (W)": 455
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 422,
+        "Gold": 398,
+        "Blue": 385,
+        "Blue/White": 351,
+        "White": 351,
+        "Green (W)": 304
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 363,
+        "Gold": 349,
+        "Blue": 320,
+        "Blue/White": 320,
+        "White": 291,
+        "Green (W)": 282
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 214,
+        "Gold": 191,
+        "Blue": 171,
+        "Blue/White": 145,
+        "White": 145,
+        "Green (W)": 102
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 453,
+        "Gold": 434,
+        "Blue": 387,
+        "Blue/White": 387,
+        "White": 372,
+        "Green (W)": 308
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 387,
+        "Gold": 361,
+        "Blue": 336,
+        "Blue/White": 336,
+        "White": 300,
+        "Green (W)": 264
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 410,
+        "Gold": 396,
+        "Blue": 373,
+        "Blue/White": 348,
+        "White": 348,
+        "Green (W)": 321
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 193,
+        "Gold": 173,
+        "Blue": 161,
+        "Blue/White": 161,
+        "White": 144,
+        "Green (W)": 99
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 352,
+        "Gold": 327,
+        "Blue": 317,
+        "Blue/White": 317,
+        "White": 257,
+        "Green (W)": 245
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 585,
+        "Gold": 565,
+        "Blue": 544,
+        "Blue/White": 496,
+        "White": 496,
+        "Green (W)": 485
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 467,
+        "Gold": 434,
+        "Blue": 423,
+        "Blue/White": 396,
+        "White": 396,
+        "Green (W)": 343
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 405,
+        "Gold": 387,
+        "Blue": 365,
+        "Blue/White": 341,
+        "White": 341,
+        "Green (W)": 315
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 216,
+        "Gold": 185,
+        "Blue": 172,
+        "Blue/White": 172,
+        "White": 147,
+        "Green (W)": 125
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 557,
+        "Gold": 527,
+        "Blue": 521,
+        "Blue/White": 496,
+        "White": 496,
+        "Green (W)": 464
+      }
+    }
+  ],
+  "version": 1
+}

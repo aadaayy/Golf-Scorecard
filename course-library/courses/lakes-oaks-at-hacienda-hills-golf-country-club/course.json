@@ -1,0 +1,254 @@
+{
+  "id": "lakes-oaks-at-hacienda-hills-golf-country-club",
+  "name": "Lakes Oaks At Hacienda Hills Golf Country Club",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.938814,
+    "lng": -81.968252
+  },
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Gold": 453,
+        "Web": 453,
+        "Blue": 433,
+        "White": 413,
+        "Green": 355,
+        "Friendly": 317
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 417,
+        "Web": 417,
+        "Blue": 392,
+        "White": 339,
+        "Green": 333,
+        "Friendly": 289
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 152,
+        "Web": 152,
+        "Blue": 134,
+        "White": 110,
+        "Green": 104,
+        "Friendly": 82
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 336,
+        "Web": 336,
+        "Blue": 313,
+        "White": 291,
+        "Green": 225,
+        "Friendly": 179
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 429,
+        "Web": 429,
+        "Blue": 407,
+        "White": 336,
+        "Green": 304,
+        "Friendly": 260
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 402,
+        "Web": 402,
+        "Blue": 384,
+        "White": 334,
+        "Green": 300,
+        "Friendly": 252
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 383,
+        "Web": 383,
+        "Blue": 360,
+        "White": 306,
+        "Green": 284,
+        "Friendly": 240
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 171,
+        "Web": 171,
+        "Blue": 148,
+        "White": 129,
+        "Green": 111,
+        "Friendly": 86
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Gold": 506,
+        "Web": 506,
+        "Blue": 478,
+        "White": 441,
+        "Green": 390,
+        "Friendly": 350
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 485,
+        "Web": 485,
+        "Blue": 466,
+        "White": 446,
+        "Green": 375,
+        "Friendly": 304
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 150,
+        "Web": 150,
+        "Blue": 139,
+        "White": 122,
+        "Green": 117,
+        "Friendly": 76
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 337,
+        "Web": 337,
+        "Blue": 314,
+        "White": 294,
+        "Green": 245,
+        "Friendly": 208
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Gold": 480,
+        "Web": 480,
+        "Blue": 461,
+        "White": 441,
+        "Green": 390,
+        "Friendly": 350
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 316,
+        "Web": 316,
+        "Blue": 295,
+        "White": 274,
+        "Green": 233,
+        "Friendly": 195
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 438,
+        "Web": 438,
+        "Blue": 399,
+        "White": 350,
+        "Green": 312,
+        "Friendly": 222
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 179,
+        "Web": 179,
+        "Blue": 160,
+        "White": 136,
+        "Green": 113,
+        "Friendly": 98
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 378,
+        "Web": 378,
+        "Blue": 349,
+        "White": 339,
+        "Green": 301,
+        "Friendly": 255
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 405,
+        "Web": 405,
+        "Blue": 373,
+        "White": 291,
+        "Green": 288,
+        "Friendly": 245
+      }
+    }
+  ],
+  "version": 1
+}

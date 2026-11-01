@@ -1,0 +1,116 @@
+{
+  "id": "bellaire-at-the-villages-executive-golf-trail",
+  "name": "Bellaire At The Villages Executive Golf Trail",
+  "town": "Sumterville, FL",
+  "location": {
+    "lat": 28.761614,
+    "lng": -81.987903
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 113,
+        "Gold": 90,
+        "Green": 76
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 97,
+        "Gold": 80,
+        "Green": 62
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 106,
+        "Gold": 84,
+        "Green": 62
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 130,
+        "Gold": 111,
+        "Green": 96
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 178,
+        "Gold": 163,
+        "Green": 142
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 162,
+        "Gold": 150,
+        "Green": 129
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 130,
+        "Gold": 125,
+        "Green": 85
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 139,
+        "Gold": 109,
+        "Green": 80
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 193,
+        "Gold": 161,
+        "Green": 142
+      },
+      "map": "bellaire-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

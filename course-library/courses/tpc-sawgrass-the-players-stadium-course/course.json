@@ -1,0 +1,292 @@
+{
+  "id": "tpc-sawgrass-the-players-stadium-course",
+  "name": "Tpc Sawgrass The Players Stadium Course",
+  "town": "Ponte Vedra Beach, FL",
+  "location": {
+    "lat": 30.198002,
+    "lng": -81.395514
+  },
+  "tees": [
+    "The Players",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White (W)",
+    "White/Green",
+    "White/Green (W)",
+    "Green (W)"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "The Players": 424,
+        "Blue": 394,
+        "Blue/White": 360,
+        "White": 360,
+        "White (W)": 360,
+        "White/Green": 360,
+        "White/Green (W)": 360,
+        "Green (W)": 292
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "The Players": 555,
+        "Blue": 507,
+        "Blue/White": 507,
+        "White": 469,
+        "White (W)": 469,
+        "White/Green": 469,
+        "White/Green (W)": 469,
+        "Green (W)": 381
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "The Players": 182,
+        "Blue": 160,
+        "Blue/White": 160,
+        "White": 134,
+        "White (W)": 134,
+        "White/Green": 134,
+        "White/Green (W)": 134,
+        "Green (W)": 97
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "The Players": 387,
+        "Blue": 359,
+        "Blue/White": 359,
+        "White": 324,
+        "White (W)": 324,
+        "White/Green": 263,
+        "White/Green (W)": 263,
+        "Green (W)": 263
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "The Players": 469,
+        "Blue": 446,
+        "Blue/White": 422,
+        "White": 422,
+        "White (W)": 422,
+        "White/Green": 360,
+        "White/Green (W)": 360,
+        "Green (W)": 360
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "The Players": 413,
+        "Blue": 360,
+        "Blue/White": 360,
+        "White": 333,
+        "White (W)": 333,
+        "White/Green": 333,
+        "White/Green (W)": 333,
+        "Green (W)": 269
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "The Players": 450,
+        "Blue": 407,
+        "Blue/White": 382,
+        "White": 382,
+        "White (W)": 382,
+        "White/Green": 329,
+        "White/Green (W)": 329,
+        "Green (W)": 329
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "The Players": 236,
+        "Blue": 195,
+        "Blue/White": 168,
+        "White": 168,
+        "White (W)": 168,
+        "White/Green": 168,
+        "White/Green (W)": 168,
+        "Green (W)": 121
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "The Players": 601,
+        "Blue": 546,
+        "Blue/White": 546,
+        "White": 522,
+        "White (W)": 522,
+        "White/Green": 453,
+        "White/Green (W)": 453,
+        "Green (W)": 453
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "The Players": 419,
+        "Blue": 392,
+        "Blue/White": 392,
+        "White": 351,
+        "White (W)": 351,
+        "White/Green": 247,
+        "White/Green (W)": 247,
+        "Green (W)": 247
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "The Players": 573,
+        "Blue": 519,
+        "Blue/White": 469,
+        "White": 469,
+        "White (W)": 469,
+        "White/Green": 395,
+        "White/Green (W)": 395,
+        "Green (W)": 395
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "The Players": 365,
+        "Blue": 332,
+        "Blue/White": 332,
+        "White": 296,
+        "White (W)": 296,
+        "White/Green": 296,
+        "White/Green (W)": 296,
+        "Green (W)": 243
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "The Players": 183,
+        "Blue": 156,
+        "Blue/White": 156,
+        "White": 141,
+        "White (W)": 141,
+        "White/Green": 141,
+        "White/Green (W)": 141,
+        "Green (W)": 109
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "The Players": 485,
+        "Blue": 436,
+        "Blue/White": 377,
+        "White": 377,
+        "White (W)": 377,
+        "White/Green": 334,
+        "White/Green (W)": 334,
+        "Green (W)": 334
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "The Players": 470,
+        "Blue": 421,
+        "Blue/White": 366,
+        "White": 366,
+        "White (W)": 366,
+        "White/Green": 366,
+        "White/Green (W)": 366,
+        "Green (W)": 288
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "The Players": 537,
+        "Blue": 486,
+        "Blue/White": 486,
+        "White": 470,
+        "White (W)": 470,
+        "White/Green": 410,
+        "White/Green (W)": 410,
+        "Green (W)": 410
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "The Players": 141,
+        "Blue": 128,
+        "Blue/White": 128,
+        "White": 115,
+        "White (W)": 115,
+        "White/Green": 115,
+        "White/Green (W)": 115,
+        "Green (W)": 92
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "The Players": 462,
+        "Blue": 426,
+        "Blue/White": 426,
+        "White": 387,
+        "White (W)": 387,
+        "White/Green": 336,
+        "White/Green (W)": 336,
+        "Green (W)": 336
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,67 @@
+{
+  "id": "origins-golf-club",
+  "name": "Origins Golf Club",
+  "town": "Panama City, FL",
+  "location": {
+    "lat": 30.294767,
+    "lng": -86.007408
+  },
+  "tees": [],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {}
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 6,
+      "yards": {}
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {}
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {}
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {}
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {}
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {}
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 4,
+      "yards": {}
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 5,
+      "yards": {}
+    }
+  ],
+  "version": 1
+}

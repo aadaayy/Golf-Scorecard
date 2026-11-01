@@ -1,0 +1,105 @@
+{
+  "id": "duran-golf-club-short-course",
+  "name": "Duran Golf Club Short Course",
+  "town": "Melbourne, FL",
+  "location": {
+    "lat": 28.237373,
+    "lng": -80.736018
+  },
+  "tees": [
+    "Ladies",
+    "Mens"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Ladies": 62,
+        "Mens": 62
+      },
+      "map": "duran-golf-club-short-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Ladies": 57,
+        "Mens": 57
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Ladies": 104,
+        "Mens": 104
+      },
+      "map": "duran-golf-club-short-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Ladies": 79,
+        "Mens": 79
+      },
+      "map": "duran-golf-club-short-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Ladies": 121,
+        "Mens": 121
+      },
+      "map": "duran-golf-club-short-course-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Ladies": 102,
+        "Mens": 102
+      },
+      "map": "duran-golf-club-short-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Ladies": 62,
+        "Mens": 62
+      },
+      "map": "duran-golf-club-short-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Ladies": 94,
+        "Mens": 94
+      },
+      "map": "duran-golf-club-short-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Ladies": 116,
+        "Mens": 116
+      },
+      "map": "duran-golf-club-short-course-09"
+    }
+  ],
+  "version": 1
+}

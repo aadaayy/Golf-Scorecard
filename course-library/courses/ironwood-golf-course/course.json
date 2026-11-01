@@ -1,0 +1,234 @@
+{
+  "id": "ironwood-golf-course",
+  "name": "Ironwood Golf Course",
+  "town": "Gainesville, FL",
+  "location": {
+    "lat": 29.689264,
+    "lng": -82.296588
+  },
+  "tees": [
+    "Orange",
+    "Blue",
+    "Green",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Orange": 499,
+        "Blue": 471,
+        "Green": 438,
+        "Yellow": 355
+      },
+      "map": "ironwood-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Orange": 361,
+        "Blue": 331,
+        "Green": 298,
+        "Yellow": 266
+      },
+      "map": "ironwood-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Orange": 421,
+        "Blue": 385,
+        "Green": 350,
+        "Yellow": 328
+      },
+      "map": "ironwood-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Orange": 180,
+        "Blue": 162,
+        "Green": 145,
+        "Yellow": 129
+      },
+      "map": "ironwood-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Orange": 367,
+        "Blue": 337,
+        "Green": 311,
+        "Yellow": 224
+      },
+      "map": "ironwood-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Orange": 217,
+        "Blue": 197,
+        "Green": 174,
+        "Yellow": 152
+      },
+      "map": "ironwood-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Orange": 386,
+        "Blue": 346,
+        "Green": 322,
+        "Yellow": 282
+      },
+      "map": "ironwood-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Orange": 420,
+        "Blue": 387,
+        "Green": 365,
+        "Yellow": 316
+      },
+      "map": "ironwood-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Orange": 528,
+        "Blue": 492,
+        "Green": 461,
+        "Yellow": 375
+      },
+      "map": "ironwood-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Orange": 146,
+        "Blue": 135,
+        "Green": 123,
+        "Yellow": 110
+      },
+      "map": "ironwood-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Orange": 385,
+        "Blue": 356,
+        "Green": 321,
+        "Yellow": 271
+      },
+      "map": "ironwood-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Orange": 544,
+        "Blue": 516,
+        "Green": 484,
+        "Yellow": 458
+      },
+      "map": "ironwood-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Orange": 414,
+        "Blue": 395,
+        "Green": 350,
+        "Yellow": 312
+      },
+      "map": "ironwood-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Orange": 164,
+        "Blue": 148,
+        "Green": 134,
+        "Yellow": 99
+      },
+      "map": "ironwood-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Orange": 382,
+        "Blue": 342,
+        "Green": 313,
+        "Yellow": 268
+      },
+      "map": "ironwood-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Orange": 342,
+        "Blue": 311,
+        "Green": 272,
+        "Yellow": 230
+      },
+      "map": "ironwood-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Orange": 508,
+        "Blue": 476,
+        "Green": 445,
+        "Yellow": 396
+      },
+      "map": "ironwood-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Orange": 315,
+        "Blue": 295,
+        "Green": 285,
+        "Yellow": 230
+      },
+      "map": "ironwood-golf-course-18"
+    }
+  ],
+  "version": 1
+}

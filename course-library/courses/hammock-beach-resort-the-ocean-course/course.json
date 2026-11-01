@@ -1,0 +1,253 @@
+{
+  "id": "hammock-beach-resort-the-ocean-course",
+  "name": "Hammock Beach Resort The Ocean Course",
+  "town": "Palm Coast, FL",
+  "location": {
+    "lat": 29.605644,
+    "lng": -81.188689
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 381,
+        "Gold": 352,
+        "Blue": 335,
+        "White": 291,
+        "Red": 279
+      },
+      "map": "hammock-beach-resort-the-ocean-course-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 538,
+        "Gold": 508,
+        "Blue": 483,
+        "White": 457,
+        "Red": 393
+      },
+      "map": "hammock-beach-resort-the-ocean-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 410,
+        "Gold": 385,
+        "Blue": 356,
+        "White": 321,
+        "Red": 269
+      },
+      "map": "hammock-beach-resort-the-ocean-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 192,
+        "Gold": 159,
+        "Blue": 146,
+        "White": 116,
+        "Red": 94
+      },
+      "map": "hammock-beach-resort-the-ocean-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 433,
+        "Gold": 406,
+        "Blue": 383,
+        "White": 344,
+        "Red": 285
+      },
+      "map": "hammock-beach-resort-the-ocean-course-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 520,
+        "Gold": 493,
+        "Blue": 481,
+        "White": 437,
+        "Red": 378
+      },
+      "map": "hammock-beach-resort-the-ocean-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 456,
+        "Gold": 433,
+        "Blue": 398,
+        "White": 357,
+        "Red": 343
+      },
+      "map": "hammock-beach-resort-the-ocean-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 183,
+        "Gold": 157,
+        "Blue": 147,
+        "White": 136,
+        "Red": 119
+      },
+      "map": "hammock-beach-resort-the-ocean-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 468,
+        "Gold": 455,
+        "Blue": 437,
+        "White": 402,
+        "Red": 367
+      },
+      "map": "hammock-beach-resort-the-ocean-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 523,
+        "Gold": 496,
+        "Blue": 483,
+        "White": 470,
+        "Red": 416
+      },
+      "map": "hammock-beach-resort-the-ocean-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 398,
+        "Gold": 366,
+        "Blue": 346,
+        "White": 326,
+        "Red": 275
+      },
+      "map": "hammock-beach-resort-the-ocean-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 223,
+        "Gold": 210,
+        "Blue": 190,
+        "White": 158,
+        "Red": 140
+      },
+      "map": "hammock-beach-resort-the-ocean-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 433,
+        "Gold": 405,
+        "Blue": 387,
+        "White": 367,
+        "Red": 289
+      },
+      "map": "hammock-beach-resort-the-ocean-course-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 545,
+        "Gold": 532,
+        "Blue": 494,
+        "White": 486,
+        "Red": 431
+      },
+      "map": "hammock-beach-resort-the-ocean-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 447,
+        "Gold": 431,
+        "Blue": 404,
+        "White": 338,
+        "Red": 307
+      },
+      "map": "hammock-beach-resort-the-ocean-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 387,
+        "Gold": 360,
+        "Blue": 351,
+        "White": 288,
+        "Red": 276
+      },
+      "map": "hammock-beach-resort-the-ocean-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 174,
+        "Gold": 160,
+        "Blue": 136,
+        "White": 124,
+        "Red": 107
+      },
+      "map": "hammock-beach-resort-the-ocean-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 465,
+        "Gold": 448,
+        "Blue": 422,
+        "White": 410,
+        "Red": 376
+      },
+      "map": "hammock-beach-resort-the-ocean-course-18"
+    }
+  ],
+  "version": 1
+}

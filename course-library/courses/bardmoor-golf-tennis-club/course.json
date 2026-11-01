@@ -1,0 +1,234 @@
+{
+  "id": "bardmoor-golf-tennis-club",
+  "name": "Bardmoor Golf Tennis Club",
+  "town": "Seminole, FL",
+  "location": {
+    "lat": 27.86378,
+    "lng": -82.750009
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 374,
+        "Gold": 360,
+        "Silver": 332,
+        "Copper": 298
+      },
+      "map": "bardmoor-golf-tennis-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 438,
+        "Gold": 408,
+        "Silver": 349,
+        "Copper": 284
+      },
+      "map": "bardmoor-golf-tennis-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 204,
+        "Gold": 182,
+        "Silver": 153,
+        "Copper": 109
+      },
+      "map": "bardmoor-golf-tennis-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 450,
+        "Gold": 431,
+        "Silver": 405,
+        "Copper": 355
+      },
+      "map": "bardmoor-golf-tennis-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 174,
+        "Gold": 155,
+        "Silver": 126,
+        "Copper": 115
+      },
+      "map": "bardmoor-golf-tennis-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 550,
+        "Gold": 520,
+        "Silver": 476,
+        "Copper": 430
+      },
+      "map": "bardmoor-golf-tennis-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 398,
+        "Gold": 371,
+        "Silver": 323,
+        "Copper": 285
+      },
+      "map": "bardmoor-golf-tennis-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 529,
+        "Gold": 509,
+        "Silver": 423,
+        "Copper": 387
+      },
+      "map": "bardmoor-golf-tennis-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 400,
+        "Gold": 374,
+        "Silver": 327,
+        "Copper": 283
+      },
+      "map": "bardmoor-golf-tennis-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 385,
+        "Gold": 361,
+        "Silver": 311,
+        "Copper": 280
+      },
+      "map": "bardmoor-golf-tennis-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 195,
+        "Gold": 173,
+        "Silver": 147,
+        "Copper": 136
+      },
+      "map": "bardmoor-golf-tennis-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 412,
+        "Gold": 388,
+        "Silver": 341,
+        "Copper": 293
+      },
+      "map": "bardmoor-golf-tennis-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 225,
+        "Gold": 203,
+        "Silver": 181,
+        "Copper": 136
+      },
+      "map": "bardmoor-golf-tennis-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 376,
+        "Gold": 338,
+        "Silver": 282,
+        "Copper": 230
+      },
+      "map": "bardmoor-golf-tennis-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 434,
+        "Gold": 416,
+        "Silver": 372,
+        "Copper": 325
+      },
+      "map": "bardmoor-golf-tennis-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 521,
+        "Gold": 490,
+        "Silver": 433,
+        "Copper": 417
+      },
+      "map": "bardmoor-golf-tennis-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 378,
+        "Gold": 358,
+        "Silver": 330,
+        "Copper": 274
+      },
+      "map": "bardmoor-golf-tennis-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 572,
+        "Gold": 542,
+        "Silver": 471,
+        "Copper": 417
+      },
+      "map": "bardmoor-golf-tennis-club-18"
+    }
+  ],
+  "version": 1
+}

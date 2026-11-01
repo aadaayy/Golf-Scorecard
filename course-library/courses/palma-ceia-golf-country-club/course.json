@@ -1,0 +1,216 @@
+{
+  "id": "palma-ceia-golf-country-club",
+  "name": "Palma Ceia Golf Country Club",
+  "town": "Tampa, FL",
+  "location": {
+    "lat": 27.928247,
+    "lng": -82.494494
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 383,
+        "White": 365,
+        "Green": 346,
+        "Red": 301
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 321,
+        "White": 314,
+        "Green": 307,
+        "Red": 301
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 527,
+        "White": 505,
+        "Green": 481,
+        "Red": 451
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 139,
+        "White": 125,
+        "Green": 112,
+        "Red": 106
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 322,
+        "White": 309,
+        "Green": 296,
+        "Red": 240
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 387,
+        "White": 371,
+        "Green": 317,
+        "Red": 306
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 401,
+        "White": 374,
+        "Green": 359,
+        "Red": 318
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 165,
+        "White": 154,
+        "Green": 144,
+        "Red": 133
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 431,
+        "White": 412,
+        "Green": 389,
+        "Red": 323
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 345,
+        "White": 330,
+        "Green": 319,
+        "Red": 306
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 415,
+        "White": 398,
+        "Green": 381,
+        "Red": 285
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 435,
+        "White": 420,
+        "Green": 357,
+        "Red": 334
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 180,
+        "White": 163,
+        "Green": 144,
+        "Red": 118
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 419,
+        "White": 398,
+        "Green": 352,
+        "Red": 324
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 337,
+        "White": 317,
+        "Green": 303,
+        "Red": 273
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 352,
+        "White": 338,
+        "Green": 320,
+        "Red": 310
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 205,
+        "White": 177,
+        "Green": 160,
+        "Red": 119
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 477,
+        "White": 461,
+        "Green": 447,
+        "Red": 393
+      }
+    }
+  ],
+  "version": 1
+}

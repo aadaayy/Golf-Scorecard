@@ -1,0 +1,348 @@
+{
+  "id": "long-point-at-amelia-island-club",
+  "name": "Long Point At Amelia Island Club",
+  "town": "Fernandina Beach, FL",
+  "location": {
+    "lat": 30.535605,
+    "lng": -81.442841
+  },
+  "tees": [
+    "Gold",
+    "Gold/Blue",
+    "Blue",
+    "Blue/Black",
+    "Black",
+    "Black/White",
+    "White",
+    "White/Green",
+    "Green",
+    "Ocean Course"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 537,
+        "Gold/Blue": 537,
+        "Blue": 499,
+        "Blue/Black": 499,
+        "Black": 458,
+        "Black/White": 458,
+        "White": 442,
+        "White/Green": 385,
+        "Green": 385,
+        "Ocean Course": 300
+      },
+      "map": "long-point-at-amelia-island-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 410,
+        "Gold/Blue": 410,
+        "Blue": 369,
+        "Blue/Black": 369,
+        "Black": 354,
+        "Black/White": 332,
+        "White": 332,
+        "White/Green": 279,
+        "Green": 279,
+        "Ocean Course": 195
+      },
+      "map": "long-point-at-amelia-island-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 221,
+        "Gold/Blue": 188,
+        "Blue": 188,
+        "Blue/Black": 166,
+        "Black": 166,
+        "Black/White": 154,
+        "White": 154,
+        "White/Green": 139,
+        "Green": 139,
+        "Ocean Course": 78
+      },
+      "map": "long-point-at-amelia-island-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 432,
+        "Gold/Blue": 399,
+        "Blue": 399,
+        "Blue/Black": 370,
+        "Black": 370,
+        "Black/White": 342,
+        "White": 342,
+        "White/Green": 342,
+        "Green": 309,
+        "Ocean Course": 222
+      },
+      "map": "long-point-at-amelia-island-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 160,
+        "Gold/Blue": 160,
+        "Blue": 145,
+        "Blue/Black": 145,
+        "Black": 134,
+        "Black/White": 134,
+        "White": 124,
+        "White/Green": 124,
+        "Green": 111,
+        "Ocean Course": 102
+      },
+      "map": "long-point-at-amelia-island-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 515,
+        "Gold/Blue": 515,
+        "Blue": 478,
+        "Blue/Black": 478,
+        "Black": 468,
+        "Black/White": 425,
+        "White": 425,
+        "White/Green": 425,
+        "Green": 374,
+        "Ocean Course": 284
+      },
+      "map": "long-point-at-amelia-island-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 378,
+        "Gold/Blue": 378,
+        "Blue": 372,
+        "Blue/Black": 372,
+        "Black": 347,
+        "Black/White": 347,
+        "White": 336,
+        "White/Green": 282,
+        "Green": 282,
+        "Ocean Course": 195
+      },
+      "map": "long-point-at-amelia-island-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 400,
+        "Gold/Blue": 400,
+        "Blue": 372,
+        "Blue/Black": 340,
+        "Black": 297,
+        "Black/White": 281,
+        "White": 281,
+        "White/Green": 281,
+        "Green": 265,
+        "Ocean Course": 170
+      },
+      "map": "long-point-at-amelia-island-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 436,
+        "Gold/Blue": 387,
+        "Blue": 387,
+        "Blue/Black": 387,
+        "Black": 340,
+        "Black/White": 340,
+        "White": 312,
+        "White/Green": 312,
+        "Green": 300,
+        "Ocean Course": 212
+      },
+      "map": "long-point-at-amelia-island-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 412,
+        "Gold/Blue": 412,
+        "Blue": 382,
+        "Blue/Black": 345,
+        "Black": 345,
+        "Black/White": 333,
+        "White": 333,
+        "White/Green": 294,
+        "Green": 294,
+        "Ocean Course": 205
+      },
+      "map": "long-point-at-amelia-island-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 515,
+        "Gold/Blue": 515,
+        "Blue": 497,
+        "Blue/Black": 497,
+        "Black": 467,
+        "Black/White": 467,
+        "White": 453,
+        "White/Green": 453,
+        "Green": 411,
+        "Ocean Course": 286
+      },
+      "map": "long-point-at-amelia-island-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 340,
+        "Gold/Blue": 340,
+        "Blue": 320,
+        "Blue/Black": 320,
+        "Black": 314,
+        "Black/White": 287,
+        "White": 287,
+        "White/Green": 287,
+        "Green": 222,
+        "Ocean Course": 180
+      },
+      "map": "long-point-at-amelia-island-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 366,
+        "Gold/Blue": 366,
+        "Blue": 349,
+        "Blue/Black": 349,
+        "Black": 340,
+        "Black/White": 340,
+        "White": 328,
+        "White/Green": 273,
+        "Green": 273,
+        "Ocean Course": 201
+      },
+      "map": "long-point-at-amelia-island-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 344,
+        "Gold/Blue": 344,
+        "Blue": 332,
+        "Blue/Black": 332,
+        "Black": 323,
+        "Black/White": 323,
+        "White": 308,
+        "White/Green": 308,
+        "Green": 270,
+        "Ocean Course": 186
+      },
+      "map": "long-point-at-amelia-island-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 163,
+        "Gold/Blue": 163,
+        "Blue": 147,
+        "Blue/Black": 138,
+        "Black": 138,
+        "Black/White": 129,
+        "White": 129,
+        "White/Green": 121,
+        "Green": 121,
+        "Ocean Course": 72
+      },
+      "map": "long-point-at-amelia-island-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 162,
+        "Gold/Blue": 162,
+        "Blue": 143,
+        "Blue/Black": 143,
+        "Black": 132,
+        "Black/White": 132,
+        "White": 110,
+        "White/Green": 110,
+        "Green": 108,
+        "Ocean Course": 100
+      },
+      "map": "long-point-at-amelia-island-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 397,
+        "Gold/Blue": 397,
+        "Blue": 378,
+        "Blue/Black": 338,
+        "Black": 338,
+        "Black/White": 338,
+        "White": 321,
+        "White/Green": 308,
+        "Green": 308,
+        "Ocean Course": 197
+      },
+      "map": "long-point-at-amelia-island-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 491,
+        "Gold/Blue": 491,
+        "Blue": 481,
+        "Blue/Black": 481,
+        "Black": 471,
+        "Black/White": 428,
+        "White": 428,
+        "White/Green": 391,
+        "Green": 391,
+        "Ocean Course": 265
+      },
+      "map": "long-point-at-amelia-island-club-18"
+    }
+  ],
+  "version": 1
+}

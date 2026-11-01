@@ -1,0 +1,117 @@
+{
+  "id": "innisbrook-resort-golf-club-north-course",
+  "name": "Innisbrook Resort Golf Club North Course",
+  "town": "Palm Harbor, FL",
+  "location": {
+    "lat": 28.112534,
+    "lng": -82.756334
+  },
+  "tees": [
+    "Black",
+    "Green",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 380,
+        "Green": 380,
+        "White": 345,
+        "Red": 320
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 310,
+        "Green": 310,
+        "White": 280,
+        "Red": 255
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 465,
+        "Green": 450,
+        "White": 400,
+        "Red": 345
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 220,
+        "Green": 195,
+        "White": 160,
+        "Red": 145
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 360,
+        "Green": 345,
+        "White": 325,
+        "Red": 300
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 310,
+        "Green": 310,
+        "White": 285,
+        "Red": 230
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 190,
+        "Green": 180,
+        "White": 150,
+        "Red": 110
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 355,
+        "Green": 355,
+        "White": 330,
+        "Red": 280
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 425,
+        "Green": 405,
+        "White": 395,
+        "Red": 380
+      }
+    }
+  ],
+  "version": 1
+}

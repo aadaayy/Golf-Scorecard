@@ -1,0 +1,87 @@
+{
+  "id": "winter-park-golf-course",
+  "name": "Winter Park Golf Course",
+  "town": "Winter Park, FL",
+  "location": {
+    "lat": 28.60368,
+    "lng": -81.348535
+  },
+  "tees": [
+    "middle"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "middle": 241
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "middle": 146
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "middle": 430
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "middle": 495
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "middle": 354
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "middle": 262
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "middle": 179
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "middle": 145
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "middle": 228
+      }
+    }
+  ],
+  "version": 1
+}

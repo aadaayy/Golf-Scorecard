@@ -1,0 +1,197 @@
+{
+  "id": "citrus-hills-golf-country-club-meadows-course",
+  "name": "Citrus Hills Golf Country Club Meadows Course",
+  "town": "Hernando, FL",
+  "location": {
+    "lat": 28.887281,
+    "lng": -82.426407
+  },
+  "tees": [
+    "Championship/Blue",
+    "Club/White",
+    "Forward/Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship/Blue": 290,
+        "Club/White": 280,
+        "Forward/Red": 222
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship/Blue": 384,
+        "Club/White": 342,
+        "Forward/Red": 284
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship/Blue": 174,
+        "Club/White": 158,
+        "Forward/Red": 124
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Championship/Blue": 499,
+        "Club/White": 486,
+        "Forward/Red": 423
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship/Blue": 345,
+        "Club/White": 328,
+        "Forward/Red": 266
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship/Blue": 382,
+        "Club/White": 359,
+        "Forward/Red": 284
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Championship/Blue": 189,
+        "Club/White": 177,
+        "Forward/Red": 130
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship/Blue": 375,
+        "Club/White": 363,
+        "Forward/Red": 297
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship/Blue": 148,
+        "Club/White": 135,
+        "Forward/Red": 75
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Championship/Blue": 457,
+        "Club/White": 448,
+        "Forward/Red": 401
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship/Blue": 357,
+        "Club/White": 326,
+        "Forward/Red": 282
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship/Blue": 388,
+        "Club/White": 375,
+        "Forward/Red": 330
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship/Blue": 296,
+        "Club/White": 273,
+        "Forward/Red": 259
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Championship/Blue": 484,
+        "Club/White": 473,
+        "Forward/Red": 420
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Championship/Blue": 303,
+        "Club/White": 290,
+        "Forward/Red": 230
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship/Blue": 203,
+        "Club/White": 188,
+        "Forward/Red": 142
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship/Blue": 409,
+        "Club/White": 356,
+        "Forward/Red": 279
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Championship/Blue": 202,
+        "Club/White": 170,
+        "Forward/Red": 122
+      }
+    }
+  ],
+  "version": 1
+}

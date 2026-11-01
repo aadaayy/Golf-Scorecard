@@ -1,0 +1,234 @@
+{
+  "id": "mountain-lake",
+  "name": "Mountain Lake",
+  "town": "Lake Wales, FL",
+  "location": {
+    "lat": 27.937052,
+    "lng": -81.592476
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 365,
+        "Blue": 342,
+        "White": 319,
+        "Red": 295
+      },
+      "map": "mountain-lake-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 453,
+        "Blue": 428,
+        "White": 365,
+        "Red": 345
+      },
+      "map": "mountain-lake-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 400,
+        "Blue": 374,
+        "White": 346,
+        "Red": 303
+      },
+      "map": "mountain-lake-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 556,
+        "Blue": 527,
+        "White": 449,
+        "Red": 430
+      },
+      "map": "mountain-lake-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 211,
+        "Blue": 184,
+        "White": 159,
+        "Red": 143
+      },
+      "map": "mountain-lake-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 399,
+        "Blue": 352,
+        "White": 303,
+        "Red": 295
+      },
+      "map": "mountain-lake-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 351,
+        "Blue": 329,
+        "White": 304,
+        "Red": 286
+      },
+      "map": "mountain-lake-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 593,
+        "Blue": 519,
+        "White": 505,
+        "Red": 435
+      },
+      "map": "mountain-lake-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 146,
+        "Blue": 113,
+        "White": 105,
+        "Red": 97
+      },
+      "map": "mountain-lake-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 459,
+        "Blue": 424,
+        "White": 376,
+        "Red": 358
+      },
+      "map": "mountain-lake-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 181,
+        "Blue": 160,
+        "White": 143,
+        "Red": 105
+      },
+      "map": "mountain-lake-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 465,
+        "Blue": 426,
+        "White": 401,
+        "Red": 388
+      },
+      "map": "mountain-lake-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 383,
+        "Blue": 361,
+        "White": 339,
+        "Red": 301
+      },
+      "map": "mountain-lake-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 391,
+        "Blue": 365,
+        "White": 333,
+        "Red": 313
+      },
+      "map": "mountain-lake-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 321,
+        "Blue": 307,
+        "White": 287,
+        "Red": 274
+      },
+      "map": "mountain-lake-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 421,
+        "Blue": 393,
+        "White": 382,
+        "Red": 348
+      },
+      "map": "mountain-lake-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 177,
+        "Blue": 163,
+        "White": 142,
+        "Red": 126
+      },
+      "map": "mountain-lake-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 413,
+        "Blue": 389,
+        "White": 351,
+        "Red": 300
+      },
+      "map": "mountain-lake-18"
+    }
+  ],
+  "version": 1
+}

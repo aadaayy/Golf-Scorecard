@@ -1,0 +1,116 @@
+{
+  "id": "el-santiago-at-the-villages-executive-golf-trail",
+  "name": "El Santiago At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.94941,
+    "lng": -81.984528
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 118,
+        "White": 103,
+        "Red": 86
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 123,
+        "White": 108,
+        "Red": 90
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 128,
+        "White": 104,
+        "Red": 79
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 127,
+        "White": 108,
+        "Red": 91
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 123,
+        "White": 103,
+        "Red": 83
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 134,
+        "White": 115,
+        "Red": 87
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 152,
+        "White": 134,
+        "Red": 87
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 141,
+        "White": 119,
+        "Red": 99
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 161,
+        "White": 142,
+        "Red": 115
+      },
+      "map": "el-santiago-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

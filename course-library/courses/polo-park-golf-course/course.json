@@ -1,0 +1,97 @@
+{
+  "id": "polo-park-golf-course",
+  "name": "Polo Park Golf Course",
+  "town": "Davenport, FL",
+  "location": {
+    "lat": 28.34342,
+    "lng": -81.680153
+  },
+  "tees": [
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "White": 148,
+        "Red": 139
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "White": 141,
+        "Red": 133
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "White": 199,
+        "Red": 126
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "White": 137,
+        "Red": 130
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "White": 118,
+        "Red": 80
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "White": 130,
+        "Red": 102
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 91,
+        "Red": 84
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 123,
+        "Red": 114
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "White": 159,
+        "Red": 100
+      }
+    }
+  ],
+  "version": 1
+}

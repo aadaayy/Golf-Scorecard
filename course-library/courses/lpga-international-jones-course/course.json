@@ -1,0 +1,235 @@
+{
+  "id": "lpga-international-jones-course",
+  "name": "Lpga International Jones Course",
+  "town": "Daytona Beach, FL",
+  "location": {
+    "lat": 29.192369,
+    "lng": -81.109614
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 395,
+        "Blue": 378,
+        "White": 355,
+        "Gold": 345,
+        "Red": 294
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 457,
+        "Blue": 423,
+        "White": 399,
+        "Gold": 360,
+        "Red": 310
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 198,
+        "Blue": 175,
+        "White": 165,
+        "Gold": 153,
+        "Red": 95
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 361,
+        "Blue": 352,
+        "White": 327,
+        "Gold": 315,
+        "Red": 239
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Black": 531,
+        "Blue": 508,
+        "White": 461,
+        "Gold": 444,
+        "Red": 395
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 164,
+        "Blue": 150,
+        "White": 139,
+        "Gold": 120,
+        "Red": 92
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 443,
+        "Blue": 413,
+        "White": 376,
+        "Gold": 339,
+        "Red": 333
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 384,
+        "Blue": 369,
+        "White": 361,
+        "Gold": 325,
+        "Red": 275
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 570,
+        "Blue": 548,
+        "White": 522,
+        "Gold": 463,
+        "Red": 457
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 340,
+        "Blue": 334,
+        "White": 317,
+        "Gold": 306,
+        "Red": 230
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 412,
+        "Blue": 374,
+        "White": 356,
+        "Gold": 348,
+        "Red": 322
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 403,
+        "Blue": 367,
+        "White": 359,
+        "Gold": 350,
+        "Red": 285
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 577,
+        "Blue": 549,
+        "White": 535,
+        "Gold": 486,
+        "Red": 478
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 190,
+        "Blue": 162,
+        "White": 153,
+        "Gold": 143,
+        "Red": 107
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 473,
+        "Blue": 427,
+        "White": 393,
+        "Gold": 339,
+        "Red": 335
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 519,
+        "Blue": 508,
+        "White": 463,
+        "Gold": 418,
+        "Red": 375
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 200,
+        "Blue": 171,
+        "White": 167,
+        "Gold": 157,
+        "Red": 108
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 445,
+        "Blue": 436,
+        "White": 389,
+        "Gold": 342,
+        "Red": 336
+      }
+    }
+  ],
+  "version": 1
+}

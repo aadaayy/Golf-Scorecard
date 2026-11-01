@@ -1,0 +1,291 @@
+{
+  "id": "santa-rosa-golf-beach-club",
+  "name": "Santa Rosa Golf Beach Club",
+  "town": "Santa Rosa Beach, FL",
+  "location": {
+    "lat": 30.360226,
+    "lng": -86.242399
+  },
+  "tees": [
+    "The Rosa",
+    "Teal",
+    "Blue",
+    "White",
+    "Gray",
+    "Peach",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "The Rosa": 529,
+        "Teal": 509,
+        "Blue": 509,
+        "White": 462,
+        "Gray": 421,
+        "Peach": 391,
+        "Green": 353
+      },
+      "map": "santa-rosa-golf-beach-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "The Rosa": 190,
+        "Teal": 171,
+        "Blue": 161,
+        "White": 151,
+        "Gray": 140,
+        "Peach": 140,
+        "Green": 104
+      },
+      "map": "santa-rosa-golf-beach-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "The Rosa": 436,
+        "Teal": 396,
+        "Blue": 366,
+        "White": 366,
+        "Gray": 327,
+        "Peach": 277,
+        "Green": 277
+      },
+      "map": "santa-rosa-golf-beach-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "The Rosa": 380,
+        "Teal": 380,
+        "Blue": 374,
+        "White": 352,
+        "Gray": 342,
+        "Peach": 309,
+        "Green": 263
+      },
+      "map": "santa-rosa-golf-beach-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "The Rosa": 490,
+        "Teal": 480,
+        "Blue": 480,
+        "White": 426,
+        "Gray": 416,
+        "Peach": 391,
+        "Green": 357
+      },
+      "map": "santa-rosa-golf-beach-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "The Rosa": 412,
+        "Teal": 381,
+        "Blue": 347,
+        "White": 337,
+        "Gray": 302,
+        "Peach": 302,
+        "Green": 263
+      },
+      "map": "santa-rosa-golf-beach-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "The Rosa": 482,
+        "Teal": 428,
+        "Blue": 376,
+        "White": 352,
+        "Gray": 314,
+        "Peach": 314,
+        "Green": 287
+      },
+      "map": "santa-rosa-golf-beach-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "The Rosa": 185,
+        "Teal": 177,
+        "Blue": 169,
+        "White": 148,
+        "Gray": 134,
+        "Peach": 90,
+        "Green": 84
+      },
+      "map": "santa-rosa-golf-beach-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "The Rosa": 371,
+        "Teal": 371,
+        "Blue": 350,
+        "White": 322,
+        "Gray": 310,
+        "Peach": 269,
+        "Green": 230
+      },
+      "map": "santa-rosa-golf-beach-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "The Rosa": 377,
+        "Teal": 344,
+        "Blue": 323,
+        "White": 295,
+        "Gray": 295,
+        "Peach": 265,
+        "Green": 234
+      },
+      "map": "santa-rosa-golf-beach-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "The Rosa": 581,
+        "Teal": 581,
+        "Blue": 543,
+        "White": 500,
+        "Gray": 467,
+        "Peach": 410,
+        "Green": 378
+      },
+      "map": "santa-rosa-golf-beach-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "The Rosa": 213,
+        "Teal": 188,
+        "Blue": 170,
+        "White": 140,
+        "Gray": 122,
+        "Peach": 122,
+        "Green": 103
+      },
+      "map": "santa-rosa-golf-beach-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "The Rosa": 394,
+        "Teal": 394,
+        "Blue": 332,
+        "White": 307,
+        "Gray": 276,
+        "Peach": 215,
+        "Green": 215
+      },
+      "map": "santa-rosa-golf-beach-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "The Rosa": 495,
+        "Teal": 495,
+        "Blue": 462,
+        "White": 446,
+        "Gray": 414,
+        "Peach": 387,
+        "Green": 307
+      },
+      "map": "santa-rosa-golf-beach-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "The Rosa": 356,
+        "Teal": 356,
+        "Blue": 324,
+        "White": 301,
+        "Gray": 291,
+        "Peach": 255,
+        "Green": 213
+      },
+      "map": "santa-rosa-golf-beach-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "The Rosa": 140,
+        "Teal": 133,
+        "Blue": 133,
+        "White": 113,
+        "Gray": 105,
+        "Peach": 95,
+        "Green": 86
+      },
+      "map": "santa-rosa-golf-beach-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "The Rosa": 346,
+        "Teal": 330,
+        "Blue": 330,
+        "White": 314,
+        "Gray": 282,
+        "Peach": 238,
+        "Green": 213
+      },
+      "map": "santa-rosa-golf-beach-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "The Rosa": 443,
+        "Teal": 424,
+        "Blue": 374,
+        "White": 338,
+        "Gray": 301,
+        "Peach": 301,
+        "Green": 266
+      },
+      "map": "santa-rosa-golf-beach-club-18"
+    }
+  ],
+  "version": 1
+}

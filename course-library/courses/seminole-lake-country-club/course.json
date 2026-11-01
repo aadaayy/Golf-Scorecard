@@ -1,0 +1,254 @@
+{
+  "id": "seminole-lake-country-club",
+  "name": "Seminole Lake Country Club",
+  "town": "Seminole, FL",
+  "location": {
+    "lat": 27.827935,
+    "lng": -82.763146
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Red",
+    "Green",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 415,
+        "Blue": 383,
+        "White": 352,
+        "Red": 333,
+        "Green": 305,
+        "Gold": 265
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 362,
+        "Blue": 346,
+        "White": 333,
+        "Red": 322,
+        "Green": 293,
+        "Gold": 225
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 190,
+        "Blue": 176,
+        "White": 165,
+        "Red": 153,
+        "Green": 146,
+        "Gold": 102
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 376,
+        "Blue": 368,
+        "White": 345,
+        "Red": 329,
+        "Green": 319,
+        "Gold": 263
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 529,
+        "Blue": 513,
+        "White": 508,
+        "Red": 455,
+        "Green": 450,
+        "Gold": 372
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 368,
+        "Blue": 352,
+        "White": 337,
+        "Red": 323,
+        "Green": 255,
+        "Gold": 222
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 190,
+        "Blue": 185,
+        "White": 140,
+        "Red": 133,
+        "Green": 129,
+        "Gold": 98
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 374,
+        "Blue": 337,
+        "White": 325,
+        "Red": 305,
+        "Green": 300,
+        "Gold": 235
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 348,
+        "Blue": 335,
+        "White": 323,
+        "Red": 313,
+        "Green": 273,
+        "Gold": 238
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 186,
+        "Blue": 175,
+        "White": 161,
+        "Red": 150,
+        "Green": 120,
+        "Gold": 115
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 390,
+        "Blue": 378,
+        "White": 365,
+        "Red": 316,
+        "Green": 288,
+        "Gold": 240
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 497,
+        "Blue": 485,
+        "White": 471,
+        "Red": 463,
+        "Green": 457,
+        "Gold": 370
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 487,
+        "Blue": 480,
+        "White": 469,
+        "Red": 450,
+        "Green": 439,
+        "Gold": 326
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Black": 480,
+        "Blue": 472,
+        "White": 455,
+        "Red": 450,
+        "Green": 442,
+        "Gold": 370
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 379,
+        "Blue": 365,
+        "White": 349,
+        "Red": 339,
+        "Green": 294,
+        "Gold": 235
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 192,
+        "Blue": 173,
+        "White": 155,
+        "Red": 120,
+        "Green": 114,
+        "Gold": 110
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 419,
+        "Blue": 404,
+        "White": 390,
+        "Red": 313,
+        "Green": 306,
+        "Gold": 259
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 365,
+        "Blue": 352,
+        "White": 339,
+        "Red": 329,
+        "Green": 259,
+        "Gold": 240
+      }
+    }
+  ],
+  "version": 1
+}

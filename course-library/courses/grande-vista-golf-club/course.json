@@ -1,0 +1,96 @@
+{
+  "id": "grande-vista-golf-club",
+  "name": "Grande Vista Golf Club",
+  "town": "Orlando, FL",
+  "location": {
+    "lat": 28.397147,
+    "lng": -81.454892
+  },
+  "tees": [
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 235
+      },
+      "map": "grande-vista-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Gold": 90
+      },
+      "map": "grande-vista-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Gold": 147
+      },
+      "map": "grande-vista-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 106
+      },
+      "map": "grande-vista-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 262
+      },
+      "map": "grande-vista-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 101
+      },
+      "map": "grande-vista-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 285
+      },
+      "map": "grande-vista-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Gold": 70
+      },
+      "map": "grande-vista-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 364
+      },
+      "map": "grande-vista-golf-club-09"
+    }
+  ],
+  "version": 1
+}

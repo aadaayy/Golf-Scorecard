@@ -1,0 +1,273 @@
+{
+  "id": "caloosa-golf-country-club",
+  "name": "Caloosa Golf Country Club",
+  "town": "Sun City Center, FL",
+  "location": {
+    "lat": 27.732238,
+    "lng": -82.343786
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Gold/Silver",
+    "Silver",
+    "Blue",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 367,
+        "Web": 363,
+        "Gold": 338,
+        "Gold/Silver": 338,
+        "Silver": 312,
+        "Blue": 302,
+        "Green": 257
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 377,
+        "Web": 378,
+        "Gold": 359,
+        "Gold/Silver": 313,
+        "Silver": 313,
+        "Blue": 272,
+        "Green": 267
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 182,
+        "Web": 174,
+        "Gold": 155,
+        "Gold/Silver": 155,
+        "Silver": 134,
+        "Blue": 130,
+        "Green": 116
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 325,
+        "Web": 355,
+        "Gold": 318,
+        "Gold/Silver": 318,
+        "Silver": 295,
+        "Blue": 286,
+        "Green": 245
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 487,
+        "Web": 493,
+        "Gold": 476,
+        "Gold/Silver": 453,
+        "Silver": 453,
+        "Blue": 425,
+        "Green": 416
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 476,
+        "Web": 479,
+        "Gold": 444,
+        "Gold/Silver": 417,
+        "Silver": 417,
+        "Blue": 392,
+        "Green": 384
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 209,
+        "Web": 204,
+        "Gold": 182,
+        "Gold/Silver": 130,
+        "Silver": 130,
+        "Blue": 130,
+        "Green": 125
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 347,
+        "Web": 348,
+        "Gold": 328,
+        "Gold/Silver": 328,
+        "Silver": 294,
+        "Blue": 286,
+        "Green": 243
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 422,
+        "Web": 407,
+        "Gold": 406,
+        "Gold/Silver": 371,
+        "Silver": 371,
+        "Blue": 314,
+        "Green": 304
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 402,
+        "Web": 401,
+        "Gold": 384,
+        "Gold/Silver": 349,
+        "Silver": 349,
+        "Blue": 337,
+        "Green": 303
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 537,
+        "Web": 533,
+        "Gold": 500,
+        "Gold/Silver": 500,
+        "Silver": 448,
+        "Blue": 429,
+        "Green": 389
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 320,
+        "Web": 325,
+        "Gold": 305,
+        "Gold/Silver": 305,
+        "Silver": 286,
+        "Blue": 276,
+        "Green": 236
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 159,
+        "Web": 153,
+        "Gold": 147,
+        "Gold/Silver": 147,
+        "Silver": 122,
+        "Blue": 96,
+        "Green": 90
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 376,
+        "Web": 372,
+        "Gold": 359,
+        "Gold/Silver": 300,
+        "Silver": 300,
+        "Blue": 292,
+        "Green": 285
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 392,
+        "Web": 394,
+        "Gold": 369,
+        "Gold/Silver": 324,
+        "Silver": 324,
+        "Blue": 315,
+        "Green": 278
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 351,
+        "Web": 356,
+        "Gold": 307,
+        "Gold/Silver": 307,
+        "Silver": 271,
+        "Blue": 261,
+        "Green": 244
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 151,
+        "Web": 144,
+        "Gold": 132,
+        "Gold/Silver": 132,
+        "Silver": 109,
+        "Blue": 92,
+        "Green": 89
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 512,
+        "Web": 509,
+        "Gold": 478,
+        "Gold/Silver": 457,
+        "Silver": 457,
+        "Blue": 448,
+        "Green": 413
+      }
+    }
+  ],
+  "version": 1
+}

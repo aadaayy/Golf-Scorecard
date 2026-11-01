@@ -1,0 +1,253 @@
+{
+  "id": "royal-st-cloud-golf-links-blue-red-course",
+  "name": "Royal St Cloud Golf Links Blue Red Course",
+  "town": "St Cloud, FL",
+  "location": {
+    "lat": 28.20776,
+    "lng": -81.2784
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 378,
+        "Web": 378,
+        "Gold": 351,
+        "Silver": 310,
+        "Copper": 263
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 391,
+        "Web": 391,
+        "Gold": 370,
+        "Silver": 349,
+        "Copper": 297
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 184,
+        "Web": 184,
+        "Gold": 174,
+        "Silver": 154,
+        "Copper": 125
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Black": 505,
+        "Web": 505,
+        "Gold": 484,
+        "Silver": 431,
+        "Copper": 412
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 440,
+        "Web": 440,
+        "Gold": 419,
+        "Silver": 392,
+        "Copper": 319
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 450,
+        "Web": 450,
+        "Gold": 402,
+        "Silver": 372,
+        "Copper": 336
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 537,
+        "Web": 537,
+        "Gold": 514,
+        "Silver": 437,
+        "Copper": 405
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 211,
+        "Web": 211,
+        "Gold": 176,
+        "Silver": 141,
+        "Copper": 124
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 411,
+        "Web": 411,
+        "Gold": 401,
+        "Silver": 371,
+        "Copper": 267
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 423,
+        "Web": 423,
+        "Gold": 370,
+        "Silver": 341,
+        "Copper": 309
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 552,
+        "Web": 552,
+        "Gold": 524,
+        "Silver": 491,
+        "Copper": 443
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 469,
+        "Web": 469,
+        "Gold": 398,
+        "Silver": 368,
+        "Copper": 333
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 139,
+        "Web": 139,
+        "Gold": 120,
+        "Silver": 108,
+        "Copper": 90
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 384,
+        "Web": 384,
+        "Gold": 347,
+        "Silver": 315,
+        "Copper": 287
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 441,
+        "Web": 441,
+        "Gold": 416,
+        "Silver": 382,
+        "Copper": 328
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 323,
+        "Web": 323,
+        "Gold": 265,
+        "Silver": 240,
+        "Copper": 227
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 210,
+        "Web": 210,
+        "Gold": 181,
+        "Silver": 162,
+        "Copper": 119
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 575,
+        "Web": 575,
+        "Gold": 525,
+        "Silver": 461,
+        "Copper": 404
+      },
+      "map": "royal-st-cloud-golf-links-blue-red-course-18"
+    }
+  ],
+  "version": 1
+}

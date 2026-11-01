@@ -1,0 +1,178 @@
+{
+  "id": "live-oak-pitch-putt-golf-course",
+  "name": "Live Oak Pitch Putt Golf Course",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.785132,
+    "lng": -81.986108
+  },
+  "tees": [
+    "Back",
+    "Web"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Back": 87,
+        "Web": 87
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Back": 112,
+        "Web": 112
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Back": 98,
+        "Web": 98
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Back": 112,
+        "Web": 112
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Back": 89,
+        "Web": 87
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Back": 91,
+        "Web": 91
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Back": 91,
+        "Web": 91
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Back": 107,
+        "Web": 107
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Back": 91,
+        "Web": 91
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Back": 86,
+        "Web": 86
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Back": 84,
+        "Web": 84
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Back": 72,
+        "Web": 72
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Back": 65,
+        "Web": 65
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Back": 88,
+        "Web": 88
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Back": 71,
+        "Web": 71
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Back": 94,
+        "Web": 94
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Back": 89,
+        "Web": 89
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Back": 103,
+        "Web": 103
+      }
+    }
+  ],
+  "version": 1
+}

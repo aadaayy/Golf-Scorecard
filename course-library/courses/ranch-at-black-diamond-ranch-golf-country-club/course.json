@@ -1,0 +1,235 @@
+{
+  "id": "ranch-at-black-diamond-ranch-golf-country-club",
+  "name": "Ranch At Black Diamond Ranch Golf Country Club",
+  "town": "Lecanto, FL",
+  "location": {
+    "lat": 28.907393,
+    "lng": -82.489858
+  },
+  "tees": [
+    "Black",
+    "Dark Gray",
+    "Green",
+    "White",
+    "Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 412,
+        "Dark Gray": 378,
+        "Green": 349,
+        "White": 310,
+        "Silver": 310
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 441,
+        "Dark Gray": 403,
+        "Green": 368,
+        "White": 345,
+        "Silver": 278
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 496,
+        "Dark Gray": 487,
+        "Green": 461,
+        "White": 435,
+        "Silver": 406
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 430,
+        "Dark Gray": 386,
+        "Green": 358,
+        "White": 320,
+        "Silver": 271
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 165,
+        "Dark Gray": 156,
+        "Green": 146,
+        "White": 126,
+        "Silver": 115
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 373,
+        "Dark Gray": 339,
+        "Green": 328,
+        "White": 302,
+        "Silver": 253
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 406,
+        "Dark Gray": 382,
+        "Green": 349,
+        "White": 289,
+        "Silver": 254
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 220,
+        "Dark Gray": 182,
+        "Green": 157,
+        "White": 130,
+        "Silver": 112
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 530,
+        "Dark Gray": 497,
+        "Green": 474,
+        "White": 430,
+        "Silver": 389
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 502,
+        "Dark Gray": 480,
+        "Green": 445,
+        "White": 432,
+        "Silver": 397
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 153,
+        "Dark Gray": 142,
+        "Green": 134,
+        "White": 118,
+        "Silver": 107
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 464,
+        "Dark Gray": 435,
+        "Green": 372,
+        "White": 311,
+        "Silver": 311
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 300,
+        "Dark Gray": 288,
+        "Green": 268,
+        "White": 250,
+        "Silver": 250
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 418,
+        "Dark Gray": 393,
+        "Green": 368,
+        "White": 324,
+        "Silver": 324
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 400,
+        "Dark Gray": 368,
+        "Green": 342,
+        "White": 321,
+        "Silver": 295
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 587,
+        "Dark Gray": 547,
+        "Green": 529,
+        "White": 469,
+        "Silver": 469
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 247,
+        "Dark Gray": 224,
+        "Green": 203,
+        "White": 166,
+        "Silver": 166
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 412,
+        "Dark Gray": 370,
+        "Green": 346,
+        "White": 276,
+        "Silver": 276
+      }
+    }
+  ],
+  "version": 1
+}

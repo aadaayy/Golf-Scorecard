@@ -1,0 +1,253 @@
+{
+  "id": "country-club-of-silver-springs-shores",
+  "name": "Country Club Of Silver Springs Shores",
+  "town": "Ocala, FL",
+  "location": {
+    "lat": 29.10376,
+    "lng": -81.999965
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 399,
+        "Blue": 382,
+        "White": 361,
+        "Green": 350,
+        "Red": 334
+      },
+      "map": "country-club-of-silver-springs-shores-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 365,
+        "Blue": 353,
+        "White": 342,
+        "Green": 305,
+        "Red": 295
+      },
+      "map": "country-club-of-silver-springs-shores-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 385,
+        "Blue": 373,
+        "White": 356,
+        "Green": 311,
+        "Red": 295
+      },
+      "map": "country-club-of-silver-springs-shores-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Gold": 495,
+        "Blue": 475,
+        "White": 451,
+        "Green": 407,
+        "Red": 401
+      },
+      "map": "country-club-of-silver-springs-shores-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 201,
+        "Blue": 187,
+        "White": 174,
+        "Green": 160,
+        "Red": 134
+      },
+      "map": "country-club-of-silver-springs-shores-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 368,
+        "Blue": 348,
+        "White": 327,
+        "Green": 303,
+        "Red": 292
+      },
+      "map": "country-club-of-silver-springs-shores-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 505,
+        "Blue": 479,
+        "White": 445,
+        "Green": 437,
+        "Red": 403
+      },
+      "map": "country-club-of-silver-springs-shores-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 170,
+        "Blue": 157,
+        "White": 144,
+        "Green": 117,
+        "Red": 97
+      },
+      "map": "country-club-of-silver-springs-shores-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 400,
+        "Blue": 369,
+        "White": 347,
+        "Green": 332,
+        "Red": 315
+      },
+      "map": "country-club-of-silver-springs-shores-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 460,
+        "Blue": 414,
+        "White": 378,
+        "Green": 330,
+        "Red": 282
+      },
+      "map": "country-club-of-silver-springs-shores-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 507,
+        "Blue": 493,
+        "White": 477,
+        "Green": 435,
+        "Red": 422
+      },
+      "map": "country-club-of-silver-springs-shores-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 449,
+        "Blue": 420,
+        "White": 393,
+        "Green": 343,
+        "Red": 293
+      },
+      "map": "country-club-of-silver-springs-shores-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 217,
+        "Blue": 183,
+        "White": 158,
+        "Green": 140,
+        "Red": 113
+      },
+      "map": "country-club-of-silver-springs-shores-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 380,
+        "Blue": 345,
+        "White": 328,
+        "Green": 290,
+        "Red": 283
+      },
+      "map": "country-club-of-silver-springs-shores-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 430,
+        "Blue": 400,
+        "White": 378,
+        "Green": 340,
+        "Red": 312
+      },
+      "map": "country-club-of-silver-springs-shores-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 205,
+        "Blue": 190,
+        "White": 175,
+        "Green": 163,
+        "Red": 143
+      },
+      "map": "country-club-of-silver-springs-shores-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 414,
+        "Blue": 399,
+        "White": 362,
+        "Green": 350,
+        "Red": 338
+      },
+      "map": "country-club-of-silver-springs-shores-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 585,
+        "Blue": 572,
+        "White": 555,
+        "Green": 442,
+        "Red": 432
+      },
+      "map": "country-club-of-silver-springs-shores-18"
+    }
+  ],
+  "version": 1
+}

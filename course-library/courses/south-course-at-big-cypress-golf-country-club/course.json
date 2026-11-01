@@ -1,0 +1,254 @@
+{
+  "id": "south-course-at-big-cypress-golf-country-club",
+  "name": "South Course At Big Cypress Golf Country Club",
+  "town": "Lakeland, FL",
+  "location": {
+    "lat": 28.179781,
+    "lng": -81.992551
+  },
+  "tees": [
+    "Black",
+    "Green",
+    "White",
+    "White/Red",
+    "Red",
+    "Red Short"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 355,
+        "Green": 314,
+        "White": 286,
+        "White/Red": 286,
+        "Red": 234,
+        "Red Short": 234
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 376,
+        "Green": 363,
+        "White": 334,
+        "White/Red": 312,
+        "Red": 312,
+        "Red Short": 240
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 502,
+        "Green": 438,
+        "White": 393,
+        "White/Red": 298,
+        "Red": 298,
+        "Red Short": 298
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 378,
+        "Green": 343,
+        "White": 308,
+        "White/Red": 245,
+        "Red": 245,
+        "Red Short": 245
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 138,
+        "Green": 123,
+        "White": 107,
+        "White/Red": 107,
+        "Red": 76,
+        "Red Short": 76
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 507,
+        "Green": 476,
+        "White": 456,
+        "White/Red": 387,
+        "Red": 387,
+        "Red Short": 387
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 348,
+        "Green": 312,
+        "White": 277,
+        "White/Red": 277,
+        "Red": 248,
+        "Red Short": 248
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 194,
+        "Green": 164,
+        "White": 155,
+        "White/Red": 155,
+        "Red": 124,
+        "Red Short": 124
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 382,
+        "Green": 338,
+        "White": 296,
+        "White/Red": 296,
+        "Red": 271,
+        "Red Short": 210
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 368,
+        "Green": 334,
+        "White": 302,
+        "White/Red": 302,
+        "Red": 267,
+        "Red Short": 267
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 358,
+        "Green": 330,
+        "White": 300,
+        "White/Red": 300,
+        "Red": 263,
+        "Red Short": 263
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 565,
+        "Green": 514,
+        "White": 479,
+        "White/Red": 413,
+        "Red": 413,
+        "Red Short": 364
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 198,
+        "Green": 172,
+        "White": 161,
+        "White/Red": 161,
+        "Red": 146,
+        "Red Short": 146
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 425,
+        "Green": 375,
+        "White": 344,
+        "White/Red": 335,
+        "Red": 335,
+        "Red Short": 310
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 153,
+        "Green": 153,
+        "White": 124,
+        "White/Red": 124,
+        "Red": 84,
+        "Red Short": 84
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 508,
+        "Green": 473,
+        "White": 423,
+        "White/Red": 423,
+        "Red": 367,
+        "Red Short": 367
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 424,
+        "Green": 405,
+        "White": 381,
+        "White/Red": 319,
+        "Red": 319,
+        "Red Short": 265
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 409,
+        "Green": 371,
+        "White": 335,
+        "White/Red": 300,
+        "Red": 300,
+        "Red Short": 231
+      }
+    }
+  ],
+  "version": 1
+}

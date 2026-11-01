@@ -1,0 +1,141 @@
+{
+  "id": "eighteen-hole-at-on-top-of-the-world-golf-club",
+  "name": "Eighteen Hole At On Top Of The World Golf Club",
+  "town": "Ocala, FL",
+  "location": {
+    "lat": 29.081797,
+    "lng": -82.271422
+  },
+  "tees": [
+    "Web"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yards": {
+        "Web": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "yards": {
+        "Web": 517
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "yards": {
+        "Web": 328
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "yards": {
+        "Web": 334
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "yards": {
+        "Web": 402
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "yards": {
+        "Web": 182
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "yards": {
+        "Web": 320
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "yards": {
+        "Web": 137
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "yards": {
+        "Web": 446
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "yards": {
+        "Web": 462
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "yards": {
+        "Web": 207
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "yards": {
+        "Web": 339
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "yards": {
+        "Web": 146
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "yards": {
+        "Web": 312
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "yards": {
+        "Web": 108
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "yards": {
+        "Web": 460
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "yards": {
+        "Web": 376
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yards": {
+        "Web": 366
+      }
+    }
+  ],
+  "version": 1
+}

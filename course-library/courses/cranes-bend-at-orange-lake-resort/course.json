@@ -1,0 +1,107 @@
+{
+  "id": "cranes-bend-at-orange-lake-resort",
+  "name": "Cranes Bend At Orange Lake Resort",
+  "town": "Kissimmee, FL",
+  "location": {
+    "lat": 28.368892,
+    "lng": -81.60375
+  },
+  "tees": [
+    "Teal",
+    "White",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Teal": 119,
+        "White": 100,
+        "Yellow": 83
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Teal": 114,
+        "White": 101,
+        "Yellow": 65
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Teal": 142,
+        "White": 124,
+        "Yellow": 107
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Teal": 360,
+        "White": 326,
+        "Yellow": 307
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Teal": 337,
+        "White": 295,
+        "Yellow": 253
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Teal": 184,
+        "White": 152,
+        "Yellow": 126
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Teal": 168,
+        "White": 154,
+        "Yellow": 114
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Teal": 123,
+        "White": 111,
+        "Yellow": 100
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Teal": 354,
+        "White": 304,
+        "Yellow": 187
+      }
+    }
+  ],
+  "version": 1
+}

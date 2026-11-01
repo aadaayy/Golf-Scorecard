@@ -1,0 +1,107 @@
+{
+  "id": "bogart-at-the-villages-executive-golf-trail",
+  "name": "Bogart At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.883972,
+    "lng": -81.97438
+  },
+  "tees": [
+    "Blue",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 187,
+        "Gold": 166,
+        "Red": 109
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 144,
+        "Gold": 123,
+        "Red": 78
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 198,
+        "Gold": 181,
+        "Red": 147
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 195,
+        "Gold": 166,
+        "Red": 106
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 316,
+        "Gold": 293,
+        "Red": 221
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 135,
+        "Gold": 109,
+        "Red": 75
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 179,
+        "Gold": 150,
+        "Red": 91
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 175,
+        "Gold": 150,
+        "Red": 106
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 150,
+        "Gold": 128,
+        "Red": 82
+      }
+    }
+  ],
+  "version": 1
+}

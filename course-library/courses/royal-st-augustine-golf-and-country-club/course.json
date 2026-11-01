@@ -1,0 +1,216 @@
+{
+  "id": "royal-st-augustine-golf-and-country-club",
+  "name": "Royal St Augustine Golf And Country Club",
+  "town": "West Augustine, FL",
+  "location": {
+    "lat": 29.910541,
+    "lng": -81.353509
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 549,
+        "Blue": 529,
+        "White": 507,
+        "Red": 448
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 212,
+        "Blue": 189,
+        "White": 144,
+        "Red": 127
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 357,
+        "Blue": 329,
+        "White": 292,
+        "Red": 248
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 509,
+        "Blue": 471,
+        "White": 413,
+        "Red": 389
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 379,
+        "Blue": 338,
+        "White": 293,
+        "Red": 276
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 151,
+        "Blue": 139,
+        "White": 120,
+        "Red": 109
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 457,
+        "Blue": 446,
+        "White": 328,
+        "Red": 265
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 397,
+        "Blue": 359,
+        "White": 329,
+        "Red": 308
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 181,
+        "Blue": 169,
+        "White": 152,
+        "Red": 138
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 381,
+        "Blue": 356,
+        "White": 320,
+        "Red": 273
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 207,
+        "Blue": 196,
+        "White": 177,
+        "Red": 161
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 504,
+        "Blue": 494,
+        "White": 401,
+        "Red": 374
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 399,
+        "Blue": 369,
+        "White": 339,
+        "Red": 232
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 179,
+        "Blue": 161,
+        "White": 129,
+        "Red": 96
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 405,
+        "Blue": 379,
+        "White": 338,
+        "Red": 290
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 339,
+        "Blue": 317,
+        "White": 281,
+        "Red": 138
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 415,
+        "Blue": 378,
+        "White": 340,
+        "Red": 283
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 508,
+        "Blue": 496,
+        "White": 460,
+        "Red": 414
+      }
+    }
+  ],
+  "version": 1
+}

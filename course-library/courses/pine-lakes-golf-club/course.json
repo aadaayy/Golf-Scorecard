@@ -1,0 +1,234 @@
+{
+  "id": "pine-lakes-golf-club",
+  "name": "Pine Lakes Golf Club",
+  "town": "Palm Coast, FL",
+  "location": {
+    "lat": 29.537699,
+    "lng": -81.239876
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 347,
+        "White": 310,
+        "Gold": 289,
+        "Red": 249
+      },
+      "map": "pine-lakes-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 200,
+        "White": 170,
+        "Gold": 155,
+        "Red": 133
+      },
+      "map": "pine-lakes-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 507,
+        "White": 469,
+        "Gold": 441,
+        "Red": 402
+      },
+      "map": "pine-lakes-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 454,
+        "White": 397,
+        "Gold": 366,
+        "Red": 313
+      },
+      "map": "pine-lakes-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 388,
+        "White": 352,
+        "Gold": 315,
+        "Red": 256
+      },
+      "map": "pine-lakes-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 426,
+        "White": 392,
+        "Gold": 370,
+        "Red": 332
+      },
+      "map": "pine-lakes-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 574,
+        "White": 541,
+        "Gold": 501,
+        "Red": 434
+      },
+      "map": "pine-lakes-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 201,
+        "White": 165,
+        "Gold": 146,
+        "Red": 115
+      },
+      "map": "pine-lakes-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 414,
+        "White": 370,
+        "Gold": 344,
+        "Red": 298
+      },
+      "map": "pine-lakes-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 432,
+        "White": 353,
+        "Gold": 322,
+        "Red": 254
+      },
+      "map": "pine-lakes-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 415,
+        "White": 371,
+        "Gold": 350,
+        "Red": 317
+      },
+      "map": "pine-lakes-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 185,
+        "White": 165,
+        "Gold": 135,
+        "Red": 114
+      },
+      "map": "pine-lakes-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 440,
+        "White": 404,
+        "Gold": 381,
+        "Red": 334
+      },
+      "map": "pine-lakes-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 385,
+        "White": 348,
+        "Gold": 324,
+        "Red": 265
+      },
+      "map": "pine-lakes-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Blue": 497,
+        "White": 460,
+        "Gold": 434,
+        "Red": 395
+      },
+      "map": "pine-lakes-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 206,
+        "White": 166,
+        "Gold": 148,
+        "Red": 120
+      },
+      "map": "pine-lakes-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 403,
+        "White": 378,
+        "Gold": 357,
+        "Red": 315
+      },
+      "map": "pine-lakes-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 532,
+        "White": 500,
+        "Gold": 468,
+        "Red": 418
+      },
+      "map": "pine-lakes-golf-club-18"
+    }
+  ],
+  "version": 1
+}

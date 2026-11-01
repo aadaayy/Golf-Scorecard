@@ -1,0 +1,216 @@
+{
+  "id": "green-valley-country-club",
+  "name": "Green Valley Country Club",
+  "town": "Clermont, FL",
+  "location": {
+    "lat": 28.561647,
+    "lng": -81.814429
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 561,
+        "White": 545,
+        "Gold": 487,
+        "Red": 476
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 515,
+        "White": 505,
+        "Gold": 412,
+        "Red": 404
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 436,
+        "White": 379,
+        "Gold": 349,
+        "Red": 310
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 150,
+        "White": 134,
+        "Gold": 109,
+        "Red": 104
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 304,
+        "White": 294,
+        "Gold": 281,
+        "Red": 265
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 380,
+        "White": 330,
+        "Gold": 320,
+        "Red": 307
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 402,
+        "White": 357,
+        "Gold": 311,
+        "Red": 303
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 180,
+        "White": 152,
+        "Gold": 123,
+        "Red": 78
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 412,
+        "White": 358,
+        "Gold": 314,
+        "Red": 290
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 390,
+        "White": 312,
+        "Gold": 261,
+        "Red": 257
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 168,
+        "White": 154,
+        "Gold": 118,
+        "Red": 105
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 565,
+        "White": 499,
+        "Gold": 447,
+        "Red": 440
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 124,
+        "White": 111,
+        "Gold": 99,
+        "Red": 92
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 353,
+        "White": 315,
+        "Gold": 292,
+        "Red": 287
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 352,
+        "White": 332,
+        "Gold": 283,
+        "Red": 277
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 495,
+        "White": 447,
+        "Gold": 432,
+        "Red": 387
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 392,
+        "White": 367,
+        "Gold": 335,
+        "Red": 329
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 435,
+        "White": 415,
+        "Gold": 376,
+        "Red": 348
+      }
+    }
+  ],
+  "version": 1
+}

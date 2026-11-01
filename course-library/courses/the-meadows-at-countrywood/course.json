@@ -1,0 +1,178 @@
+{
+  "id": "the-meadows-at-countrywood",
+  "name": "The Meadows At Countrywood",
+  "town": "Plant City, FL",
+  "location": {
+    "lat": 28.047907,
+    "lng": -82.121186
+  },
+  "tees": [
+    "Ladies",
+    "Mens"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Ladies": 98,
+        "Mens": 98
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Ladies": 88,
+        "Mens": 88
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Ladies": 89,
+        "Mens": 89
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Ladies": 65,
+        "Mens": 65
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Ladies": 121,
+        "Mens": 121
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Ladies": 97,
+        "Mens": 97
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Ladies": 137,
+        "Mens": 137
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Ladies": 66,
+        "Mens": 66
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Ladies": 73,
+        "Mens": 73
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Ladies": 86,
+        "Mens": 86
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Ladies": 97,
+        "Mens": 97
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Ladies": 78,
+        "Mens": 78
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Ladies": 143,
+        "Mens": 143
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Ladies": 70,
+        "Mens": 70
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Ladies": 109,
+        "Mens": 109
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Ladies": 100,
+        "Mens": 100
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Ladies": 60,
+        "Mens": 60
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Ladies": 95,
+        "Mens": 95
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,107 @@
+{
+  "id": "terrace-hill-golf-club",
+  "name": "Terrace Hill Golf Club",
+  "town": "Temple Terrace, FL",
+  "location": {
+    "lat": 28.034759,
+    "lng": -82.37081
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 317,
+        "White": 292,
+        "Red": 276
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 173,
+        "White": 160,
+        "Red": 140
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 145,
+        "White": 130,
+        "Red": 100
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 222,
+        "White": 205,
+        "Red": 190
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 104,
+        "White": 92,
+        "Red": 79
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 352,
+        "White": 340,
+        "Red": 303
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 305,
+        "White": 283,
+        "Red": 255
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 139,
+        "White": 130,
+        "Red": 110
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 97,
+        "White": 85,
+        "Red": 73
+      }
+    }
+  ],
+  "version": 1
+}

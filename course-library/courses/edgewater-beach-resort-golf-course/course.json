@@ -1,0 +1,107 @@
+{
+  "id": "edgewater-beach-resort-golf-course",
+  "name": "Edgewater Beach Resort Golf Course",
+  "town": "Panama City Beach, FL",
+  "location": {
+    "lat": 30.184736,
+    "lng": -85.820398
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 108,
+        "White": 90,
+        "Red": 84
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 176,
+        "White": 166,
+        "Red": 151
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 168,
+        "White": 154,
+        "Red": 147
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 108,
+        "White": 97,
+        "Red": 89
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 132,
+        "White": 121,
+        "Red": 110
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 193,
+        "White": 119,
+        "Red": 105
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 187,
+        "White": 148,
+        "Red": 133
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 100,
+        "White": 87,
+        "Red": 63
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 154,
+        "White": 144,
+        "Red": 138
+      }
+    }
+  ],
+  "version": 1
+}

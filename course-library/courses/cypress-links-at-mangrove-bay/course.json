@@ -1,0 +1,126 @@
+{
+  "id": "cypress-links-at-mangrove-bay",
+  "name": "Cypress Links At Mangrove Bay",
+  "town": "St. Petersburg, FL",
+  "location": {
+    "lat": 27.833411,
+    "lng": -82.627222
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 140,
+        "Web": 140,
+        "White": 125,
+        "Red": 100
+      },
+      "map": "cypress-links-at-mangrove-bay-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 110,
+        "Web": 110,
+        "White": 95,
+        "Red": 76
+      },
+      "map": "cypress-links-at-mangrove-bay-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 163,
+        "Web": 163,
+        "White": 144,
+        "Red": 116
+      },
+      "map": "cypress-links-at-mangrove-bay-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 145,
+        "Web": 145,
+        "White": 125,
+        "Red": 100
+      },
+      "map": "cypress-links-at-mangrove-bay-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 158,
+        "Web": 158,
+        "White": 138,
+        "Red": 113
+      },
+      "map": "cypress-links-at-mangrove-bay-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 135,
+        "Web": 135,
+        "White": 115,
+        "Red": 96
+      },
+      "map": "cypress-links-at-mangrove-bay-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 170,
+        "Web": 170,
+        "White": 151,
+        "Red": 128
+      },
+      "map": "cypress-links-at-mangrove-bay-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 103,
+        "Web": 103,
+        "White": 84,
+        "Red": 68
+      },
+      "map": "cypress-links-at-mangrove-bay-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 187,
+        "Web": 187,
+        "White": 173,
+        "Red": 146
+      },
+      "map": "cypress-links-at-mangrove-bay-09"
+    }
+  ],
+  "version": 1
+}

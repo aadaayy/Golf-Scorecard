@@ -1,0 +1,215 @@
+{
+  "id": "hyde-park-golf-club",
+  "name": "Hyde Park Golf Club",
+  "town": "Jacksonville, FL",
+  "location": {
+    "lat": 30.284892,
+    "lng": -81.747286
+  },
+  "tees": [
+    "Championship",
+    "Regular",
+    "Ladies"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 372,
+        "Regular": 363,
+        "Ladies": 357
+      },
+      "map": "hyde-park-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 361,
+        "Regular": 341,
+        "Ladies": 321
+      },
+      "map": "hyde-park-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 387,
+        "Regular": 371,
+        "Ladies": 313
+      },
+      "map": "hyde-park-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Championship": 224,
+        "Regular": 209,
+        "Ladies": 189
+      },
+      "map": "hyde-park-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Championship": 496,
+        "Regular": 478,
+        "Ladies": 424
+      },
+      "map": "hyde-park-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Championship": 151,
+        "Regular": 132,
+        "Ladies": 120
+      },
+      "map": "hyde-park-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 377,
+        "Regular": 367,
+        "Ladies": 357
+      },
+      "map": "hyde-park-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Championship": 331,
+        "Regular": 309,
+        "Ladies": 276
+      },
+      "map": "hyde-park-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Championship": 455,
+        "Regular": 442,
+        "Ladies": 428
+      },
+      "map": "hyde-park-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Championship": 555,
+        "Regular": 543,
+        "Ladies": 463
+      },
+      "map": "hyde-park-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Championship": 185,
+        "Regular": 164,
+        "Ladies": 125
+      },
+      "map": "hyde-park-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship": 420,
+        "Regular": 398,
+        "Ladies": 278
+      },
+      "map": "hyde-park-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Championship": 347,
+        "Regular": 332,
+        "Ladies": 306
+      },
+      "map": "hyde-park-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Championship": 480,
+        "Regular": 465,
+        "Ladies": 427
+      },
+      "map": "hyde-park-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 409,
+        "Regular": 398,
+        "Ladies": 374
+      },
+      "map": "hyde-park-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Championship": 178,
+        "Regular": 162,
+        "Ladies": 119
+      },
+      "map": "hyde-park-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 344,
+        "Regular": 313,
+        "Ladies": 256
+      },
+      "map": "hyde-park-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 396,
+        "Regular": 366,
+        "Ladies": 331
+      },
+      "map": "hyde-park-golf-club-18"
+    }
+  ],
+  "version": 1
+}

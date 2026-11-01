@@ -1,0 +1,291 @@
+{
+  "id": "rockledge-country-club",
+  "name": "Rockledge Country Club",
+  "town": "Rockledge, FL",
+  "location": {
+    "lat": 28.335425,
+    "lng": -80.743629
+  },
+  "tees": [
+    "Web",
+    "Blue",
+    "Gold",
+    "Black",
+    "Black/Green",
+    "Green",
+    "Green/Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Web": 506,
+        "Blue": 502,
+        "Gold": 489,
+        "Black": 451,
+        "Black/Green": 451,
+        "Green": 432,
+        "Green/Red": 315
+      },
+      "map": "rockledge-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 181,
+        "Blue": 173,
+        "Gold": 153,
+        "Black": 135,
+        "Black/Green": 135,
+        "Green": 115,
+        "Green/Red": 115
+      },
+      "map": "rockledge-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 399,
+        "Blue": 392,
+        "Gold": 370,
+        "Black": 347,
+        "Black/Green": 316,
+        "Green": 316,
+        "Green/Red": 219
+      },
+      "map": "rockledge-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Web": 385,
+        "Blue": 389,
+        "Gold": 377,
+        "Black": 365,
+        "Black/Green": 365,
+        "Green": 294,
+        "Green/Red": 294
+      },
+      "map": "rockledge-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Web": 502,
+        "Blue": 503,
+        "Gold": 480,
+        "Black": 461,
+        "Black/Green": 422,
+        "Green": 422,
+        "Green/Red": 383
+      },
+      "map": "rockledge-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 412,
+        "Blue": 420,
+        "Gold": 395,
+        "Black": 360,
+        "Black/Green": 327,
+        "Green": 327,
+        "Green/Red": 261
+      },
+      "map": "rockledge-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Web": 421,
+        "Blue": 411,
+        "Gold": 390,
+        "Black": 333,
+        "Black/Green": 333,
+        "Green": 305,
+        "Green/Red": 255
+      },
+      "map": "rockledge-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Web": 176,
+        "Blue": 178,
+        "Gold": 166,
+        "Black": 154,
+        "Black/Green": 154,
+        "Green": 89,
+        "Green/Red": 89
+      },
+      "map": "rockledge-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 413,
+        "Blue": 419,
+        "Gold": 399,
+        "Black": 337,
+        "Black/Green": 337,
+        "Green": 313,
+        "Green/Red": 236
+      },
+      "map": "rockledge-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 362,
+        "Blue": 327,
+        "Gold": 304,
+        "Black": 294,
+        "Black/Green": 294,
+        "Green": 277,
+        "Green/Red": 277
+      },
+      "map": "rockledge-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Web": 375,
+        "Blue": 375,
+        "Gold": 368,
+        "Black": 360,
+        "Black/Green": 302,
+        "Green": 302,
+        "Green/Red": 247
+      },
+      "map": "rockledge-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 197,
+        "Blue": 194,
+        "Gold": 179,
+        "Black": 163,
+        "Black/Green": 163,
+        "Green": 148,
+        "Green/Red": 100
+      },
+      "map": "rockledge-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Web": 493,
+        "Blue": 491,
+        "Gold": 476,
+        "Black": 397,
+        "Black/Green": 397,
+        "Green": 383,
+        "Green/Red": 383
+      },
+      "map": "rockledge-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Web": 184,
+        "Blue": 184,
+        "Gold": 174,
+        "Black": 163,
+        "Black/Green": 163,
+        "Green": 122,
+        "Green/Red": 122
+      },
+      "map": "rockledge-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Web": 470,
+        "Blue": 471,
+        "Gold": 458,
+        "Black": 446,
+        "Black/Green": 414,
+        "Green": 414,
+        "Green/Red": 331
+      },
+      "map": "rockledge-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 377,
+        "Blue": 379,
+        "Gold": 365,
+        "Black": 342,
+        "Black/Green": 342,
+        "Green": 311,
+        "Green/Red": 252
+      },
+      "map": "rockledge-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Web": 180,
+        "Blue": 191,
+        "Gold": 176,
+        "Black": 149,
+        "Black/Green": 149,
+        "Green": 137,
+        "Green/Red": 137
+      },
+      "map": "rockledge-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 403,
+        "Blue": 401,
+        "Gold": 386,
+        "Black": 374,
+        "Black/Green": 329,
+        "Green": 329,
+        "Green/Red": 267
+      },
+      "map": "rockledge-country-club-18"
+    }
+  ],
+  "version": 1
+}

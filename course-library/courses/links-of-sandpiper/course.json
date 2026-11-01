@@ -1,0 +1,216 @@
+{
+  "id": "links-of-sandpiper",
+  "name": "Links Of Sandpiper",
+  "town": "Lakeland, FL",
+  "location": {
+    "lat": 28.120234,
+    "lng": -81.942074
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Green",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 356,
+        "White": 334,
+        "Green": 312,
+        "Gold": 248
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 157,
+        "White": 136,
+        "Green": 121,
+        "Gold": 94
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 372,
+        "White": 328,
+        "Green": 284,
+        "Gold": 279
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 548,
+        "White": 485,
+        "Green": 393,
+        "Gold": 347
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 361,
+        "White": 307,
+        "Green": 286,
+        "Gold": 247
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 136,
+        "White": 110,
+        "Green": 90,
+        "Gold": 81
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 180,
+        "White": 165,
+        "Green": 131,
+        "Gold": 91
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 504,
+        "White": 449,
+        "Green": 385,
+        "Gold": 370
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 481,
+        "White": 460,
+        "Green": 388,
+        "Gold": 266
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 385,
+        "White": 358,
+        "Green": 303,
+        "Gold": 236
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 269,
+        "White": 253,
+        "Green": 208,
+        "Gold": 184
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 392,
+        "White": 353,
+        "Green": 327,
+        "Gold": 262
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 223,
+        "White": 193,
+        "Green": 128,
+        "Gold": 104
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 512,
+        "White": 489,
+        "Green": 385,
+        "Gold": 370
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 175,
+        "White": 147,
+        "Green": 100,
+        "Gold": 85
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 495,
+        "White": 472,
+        "Green": 427,
+        "Gold": 345
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 295,
+        "White": 285,
+        "Green": 238,
+        "Gold": 220
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 174,
+        "White": 155,
+        "Green": 130,
+        "Gold": 85
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,272 @@
+{
+  "id": "ocala-golf-club",
+  "name": "Ocala Golf Club",
+  "town": "Ocala, FL",
+  "location": {
+    "lat": 29.192243,
+    "lng": -82.09304
+  },
+  "tees": [
+    "Orange",
+    "Web",
+    "Blue",
+    "Silver",
+    "Green",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Orange": 407,
+        "Web": 405,
+        "Blue": 382,
+        "Silver": 373,
+        "Green": 317,
+        "Yellow": 288
+      },
+      "map": "ocala-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Orange": 523,
+        "Web": 521,
+        "Blue": 503,
+        "Silver": 498,
+        "Green": 423,
+        "Yellow": 348
+      },
+      "map": "ocala-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Orange": 194,
+        "Web": 190,
+        "Blue": 147,
+        "Silver": 142,
+        "Green": 125,
+        "Yellow": 96
+      },
+      "map": "ocala-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Orange": 532,
+        "Web": 528,
+        "Blue": 487,
+        "Silver": 483,
+        "Green": 418,
+        "Yellow": 354
+      },
+      "map": "ocala-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Orange": 170,
+        "Web": 160,
+        "Blue": 146,
+        "Silver": 113,
+        "Green": 100,
+        "Yellow": 78
+      },
+      "map": "ocala-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Orange": 385,
+        "Web": 381,
+        "Blue": 358,
+        "Silver": 302,
+        "Green": 297,
+        "Yellow": 255
+      },
+      "map": "ocala-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Orange": 506,
+        "Web": 503,
+        "Blue": 451,
+        "Silver": 447,
+        "Green": 397,
+        "Yellow": 337
+      },
+      "map": "ocala-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Orange": 191,
+        "Web": 192,
+        "Blue": 161,
+        "Silver": 153,
+        "Green": 145,
+        "Yellow": 129
+      },
+      "map": "ocala-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Orange": 400,
+        "Web": 392,
+        "Blue": 349,
+        "Silver": 321,
+        "Green": 321,
+        "Yellow": 278
+      },
+      "map": "ocala-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Orange": 349,
+        "Web": 347,
+        "Blue": 311,
+        "Silver": 305,
+        "Green": 282,
+        "Yellow": 226
+      },
+      "map": "ocala-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Orange": 146,
+        "Web": 139,
+        "Blue": 112,
+        "Silver": 112,
+        "Green": 98,
+        "Yellow": 77
+      },
+      "map": "ocala-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Orange": 430,
+        "Web": 420,
+        "Blue": 388,
+        "Silver": 329,
+        "Green": 324,
+        "Yellow": 276
+      },
+      "map": "ocala-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Orange": 485,
+        "Web": 475,
+        "Blue": 450,
+        "Silver": 444,
+        "Green": 376,
+        "Yellow": 305
+      },
+      "map": "ocala-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Orange": 161,
+        "Web": 151,
+        "Blue": 135,
+        "Silver": 97,
+        "Green": 93,
+        "Yellow": 87
+      },
+      "map": "ocala-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Orange": 420,
+        "Web": 410,
+        "Blue": 384,
+        "Silver": 348,
+        "Green": 341,
+        "Yellow": 302
+      },
+      "map": "ocala-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Orange": 395,
+        "Web": 393,
+        "Blue": 361,
+        "Silver": 315,
+        "Green": 311,
+        "Yellow": 256
+      },
+      "map": "ocala-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Orange": 500,
+        "Web": 487,
+        "Blue": 456,
+        "Silver": 450,
+        "Green": 380,
+        "Yellow": 338
+      },
+      "map": "ocala-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Orange": 358,
+        "Web": 356,
+        "Blue": 333,
+        "Silver": 283,
+        "Green": 279,
+        "Yellow": 216
+      },
+      "map": "ocala-golf-club-18"
+    }
+  ],
+  "version": 1
+}

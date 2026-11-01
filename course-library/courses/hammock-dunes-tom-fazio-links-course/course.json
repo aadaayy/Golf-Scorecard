@@ -1,0 +1,291 @@
+{
+  "id": "hammock-dunes-tom-fazio-links-course",
+  "name": "Hammock Dunes Tom Fazio Links Course",
+  "town": "Palm Coast, FL",
+  "location": {
+    "lat": 29.579339,
+    "lng": -81.175438
+  },
+  "tees": [
+    "Gold",
+    "Gold/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Tan",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 434,
+        "Gold/Blue": 420,
+        "Blue": 420,
+        "Blue/White": 397,
+        "White": 397,
+        "Tan": 324,
+        "Red": 324
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 247,
+        "Gold/Blue": 201,
+        "Blue": 201,
+        "Blue/White": 160,
+        "White": 160,
+        "Tan": 137,
+        "Red": 137
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 363,
+        "Gold/Blue": 363,
+        "Blue": 333,
+        "Blue/White": 333,
+        "White": 295,
+        "Tan": 295,
+        "Red": 246
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 523,
+        "Gold/Blue": 523,
+        "Blue": 496,
+        "Blue/White": 496,
+        "White": 448,
+        "Tan": 448,
+        "Red": 403
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 374,
+        "Gold/Blue": 374,
+        "Blue": 335,
+        "Blue/White": 335,
+        "White": 321,
+        "Tan": 294,
+        "Red": 294
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 538,
+        "Gold/Blue": 508,
+        "Blue": 508,
+        "Blue/White": 508,
+        "White": 463,
+        "Tan": 463,
+        "Red": 414
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 375,
+        "Gold/Blue": 375,
+        "Blue": 355,
+        "Blue/White": 355,
+        "White": 336,
+        "Tan": 336,
+        "Red": 289
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 427,
+        "Gold/Blue": 400,
+        "Blue": 400,
+        "Blue/White": 355,
+        "White": 355,
+        "Tan": 318,
+        "Red": 318
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 190,
+        "Gold/Blue": 190,
+        "Blue": 174,
+        "Blue/White": 174,
+        "White": 159,
+        "Tan": 107,
+        "Red": 107
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 532,
+        "Gold/Blue": 490,
+        "Blue": 490,
+        "Blue/White": 490,
+        "White": 468,
+        "Tan": 468,
+        "Red": 387
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 388,
+        "Gold/Blue": 388,
+        "Blue": 351,
+        "Blue/White": 351,
+        "White": 319,
+        "Tan": 319,
+        "Red": 275
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 202,
+        "Gold/Blue": 159,
+        "Blue": 159,
+        "Blue/White": 159,
+        "White": 140,
+        "Tan": 140,
+        "Red": 122
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 364,
+        "Gold/Blue": 364,
+        "Blue": 346,
+        "Blue/White": 346,
+        "White": 295,
+        "Tan": 295,
+        "Red": 282
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 400,
+        "Gold/Blue": 379,
+        "Blue": 379,
+        "Blue/White": 338,
+        "White": 338,
+        "Tan": 283,
+        "Red": 283
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 530,
+        "Gold/Blue": 530,
+        "Blue": 496,
+        "Blue/White": 496,
+        "White": 440,
+        "Tan": 440,
+        "Red": 422
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 404,
+        "Gold/Blue": 404,
+        "Blue": 375,
+        "Blue/White": 342,
+        "White": 342,
+        "Tan": 313,
+        "Red": 313
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 202,
+        "Gold/Blue": 202,
+        "Blue": 149,
+        "Blue/White": 149,
+        "White": 131,
+        "Tan": 131,
+        "Red": 115
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 411,
+        "Gold/Blue": 381,
+        "Blue": 381,
+        "Blue/White": 346,
+        "White": 346,
+        "Tan": 290,
+        "Red": 290
+      },
+      "map": "hammock-dunes-tom-fazio-links-course-18"
+    }
+  ],
+  "version": 1
+}

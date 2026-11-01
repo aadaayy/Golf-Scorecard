@@ -1,0 +1,216 @@
+{
+  "id": "summerfield-crossings-golf-club",
+  "name": "Summerfield Crossings Golf Club",
+  "town": "Riverview, FL",
+  "location": {
+    "lat": 27.795908,
+    "lng": -82.317459
+  },
+  "tees": [
+    "Green",
+    "Gold",
+    "Black",
+    "Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Green": 345,
+        "Gold": 299,
+        "Black": 259,
+        "Silver": 243
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Green": 163,
+        "Gold": 163,
+        "Black": 135,
+        "Silver": 123
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Green": 570,
+        "Gold": 542,
+        "Black": 513,
+        "Silver": 484
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Green": 400,
+        "Gold": 375,
+        "Black": 318,
+        "Silver": 292
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Green": 457,
+        "Gold": 417,
+        "Black": 357,
+        "Silver": 247
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Green": 352,
+        "Gold": 347,
+        "Black": 268,
+        "Silver": 238
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Green": 429,
+        "Gold": 398,
+        "Black": 368,
+        "Silver": 319
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Green": 154,
+        "Gold": 140,
+        "Black": 131,
+        "Silver": 93
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Green": 560,
+        "Gold": 529,
+        "Black": 500,
+        "Silver": 468
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Green": 417,
+        "Gold": 373,
+        "Black": 352,
+        "Silver": 317
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Green": 432,
+        "Gold": 391,
+        "Black": 363,
+        "Silver": 327
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Green": 180,
+        "Gold": 163,
+        "Black": 148,
+        "Silver": 121
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 426,
+        "Gold": 395,
+        "Black": 366,
+        "Silver": 335
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Green": 411,
+        "Gold": 361,
+        "Black": 331,
+        "Silver": 300
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Green": 171,
+        "Gold": 158,
+        "Black": 138,
+        "Silver": 84
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Green": 381,
+        "Gold": 370,
+        "Black": 343,
+        "Silver": 313
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Green": 463,
+        "Gold": 428,
+        "Black": 397,
+        "Silver": 368
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Green": 587,
+        "Gold": 526,
+        "Black": 492,
+        "Silver": 467
+      }
+    }
+  ],
+  "version": 1
+}

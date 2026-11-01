@@ -1,0 +1,235 @@
+{
+  "id": "tiger-point-golf-club",
+  "name": "Tiger Point Golf Club",
+  "town": "Gulf Breeze, FL",
+  "location": {
+    "lat": 30.383366,
+    "lng": -87.078554
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gray",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 369,
+        "Blue": 357,
+        "White": 347,
+        "Gray": 321,
+        "Red": 321
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 169,
+        "Blue": 149,
+        "White": 138,
+        "Gray": 111,
+        "Red": 111
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 510,
+        "Blue": 495,
+        "White": 444,
+        "Gray": 420,
+        "Red": 420
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 183,
+        "Blue": 175,
+        "White": 164,
+        "Gray": 95,
+        "Red": 87
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 390,
+        "Blue": 379,
+        "White": 337,
+        "Gray": 311,
+        "Red": 272
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 470,
+        "Blue": 443,
+        "White": 413,
+        "Gray": 349,
+        "Red": 334
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 412,
+        "Blue": 383,
+        "White": 358,
+        "Gray": 332,
+        "Red": 332
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 539,
+        "Blue": 501,
+        "White": 454,
+        "Gray": 423,
+        "Red": 396
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 408,
+        "Blue": 373,
+        "White": 349,
+        "Gray": 335,
+        "Red": 247
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 196,
+        "Blue": 168,
+        "White": 155,
+        "Gray": 144,
+        "Red": 124
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 440,
+        "Blue": 411,
+        "White": 375,
+        "Gray": 348,
+        "Red": 348
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 398,
+        "Blue": 372,
+        "White": 352,
+        "Gray": 352,
+        "Red": 339
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 500,
+        "Blue": 490,
+        "White": 460,
+        "Gray": 436,
+        "Red": 426
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 423,
+        "Blue": 390,
+        "White": 360,
+        "Gray": 330,
+        "Red": 298
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 466,
+        "Blue": 439,
+        "White": 382,
+        "Gray": 350,
+        "Red": 331
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 543,
+        "Blue": 512,
+        "White": 500,
+        "Gray": 465,
+        "Red": 465
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 179,
+        "Blue": 161,
+        "White": 144,
+        "Gray": 130,
+        "Red": 112
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 443,
+        "Blue": 426,
+        "White": 359,
+        "Gray": 345,
+        "Red": 278
+      }
+    }
+  ],
+  "version": 1
+}

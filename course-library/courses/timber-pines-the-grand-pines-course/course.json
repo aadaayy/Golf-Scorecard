@@ -1,0 +1,235 @@
+{
+  "id": "timber-pines-the-grand-pines-course",
+  "name": "Timber Pines The Grand Pines Course",
+  "town": "Spring Hill, FL",
+  "location": {
+    "lat": 28.466838,
+    "lng": -82.608784
+  },
+  "tees": [
+    "Blue",
+    "Green",
+    "White",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 346,
+        "Green": 342,
+        "White": 313,
+        "Silver": 279,
+        "Red": 248
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 134,
+        "Green": 117,
+        "White": 109,
+        "Silver": 96,
+        "Red": 91
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 483,
+        "Green": 473,
+        "White": 448,
+        "Silver": 408,
+        "Red": 367
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 333,
+        "Green": 313,
+        "White": 279,
+        "Silver": 227,
+        "Red": 227
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 327,
+        "Green": 302,
+        "White": 299,
+        "Silver": 262,
+        "Red": 238
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 556,
+        "Green": 532,
+        "White": 496,
+        "Silver": 426,
+        "Red": 394
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 174,
+        "Green": 158,
+        "White": 157,
+        "Silver": 133,
+        "Red": 114
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 376,
+        "Green": 363,
+        "White": 347,
+        "Silver": 330,
+        "Red": 314
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 403,
+        "Green": 370,
+        "White": 349,
+        "Silver": 286,
+        "Red": 258
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 364,
+        "Green": 335,
+        "White": 297,
+        "Silver": 258,
+        "Red": 232
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 389,
+        "Green": 375,
+        "White": 352,
+        "Silver": 319,
+        "Red": 282
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 361,
+        "Green": 342,
+        "White": 324,
+        "Silver": 276,
+        "Red": 237
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 181,
+        "Green": 173,
+        "White": 162,
+        "Silver": 137,
+        "Red": 111
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 530,
+        "Green": 511,
+        "White": 475,
+        "Silver": 433,
+        "Red": 405
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 195,
+        "Green": 186,
+        "White": 180,
+        "Silver": 152,
+        "Red": 135
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 299,
+        "Green": 292,
+        "White": 272,
+        "Silver": 211,
+        "Red": 169
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 449,
+        "Green": 427,
+        "White": 417,
+        "Silver": 400,
+        "Red": 358
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 388,
+        "Green": 367,
+        "White": 332,
+        "Silver": 337,
+        "Red": 305
+      }
+    }
+  ],
+  "version": 1
+}

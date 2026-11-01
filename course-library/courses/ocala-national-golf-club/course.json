@@ -1,0 +1,291 @@
+{
+  "id": "ocala-national-golf-club",
+  "name": "Ocala National Golf Club",
+  "town": "Ocala, FL",
+  "location": {
+    "lat": 29.237164,
+    "lng": -82.250082
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Gold",
+    "Gold/Green",
+    "Green",
+    "Green/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 341,
+        "Blue": 339,
+        "Gold": 321,
+        "Gold/Green": 321,
+        "Green": 301,
+        "Green/Red": 301,
+        "Red": 245
+      },
+      "map": "ocala-national-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 573,
+        "Blue": 550,
+        "Gold": 527,
+        "Gold/Green": 527,
+        "Green": 374,
+        "Green/Red": 374,
+        "Red": 330
+      },
+      "map": "ocala-national-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 314,
+        "Blue": 299,
+        "Gold": 294,
+        "Gold/Green": 294,
+        "Green": 276,
+        "Green/Red": 276,
+        "Red": 244
+      },
+      "map": "ocala-national-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 624,
+        "Blue": 588,
+        "Gold": 524,
+        "Gold/Green": 524,
+        "Green": 482,
+        "Green/Red": 482,
+        "Red": 415
+      },
+      "map": "ocala-national-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 163,
+        "Blue": 147,
+        "Gold": 126,
+        "Gold/Green": 126,
+        "Green": 95,
+        "Green/Red": 81,
+        "Red": 81
+      },
+      "map": "ocala-national-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 470,
+        "Blue": 430,
+        "Gold": 397,
+        "Gold/Green": 310,
+        "Green": 310,
+        "Green/Red": 254,
+        "Red": 254
+      },
+      "map": "ocala-national-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 417,
+        "Blue": 387,
+        "Gold": 379,
+        "Gold/Green": 379,
+        "Green": 350,
+        "Green/Red": 278,
+        "Red": 278
+      },
+      "map": "ocala-national-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 202,
+        "Blue": 179,
+        "Gold": 171,
+        "Gold/Green": 171,
+        "Green": 151,
+        "Green/Red": 128,
+        "Red": 128
+      },
+      "map": "ocala-national-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 489,
+        "Blue": 430,
+        "Gold": 370,
+        "Gold/Green": 302,
+        "Green": 302,
+        "Green/Red": 264,
+        "Red": 264
+      },
+      "map": "ocala-national-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 412,
+        "Blue": 393,
+        "Gold": 384,
+        "Gold/Green": 384,
+        "Green": 340,
+        "Green/Red": 281,
+        "Red": 281
+      },
+      "map": "ocala-national-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 167,
+        "Blue": 149,
+        "Gold": 141,
+        "Gold/Green": 141,
+        "Green": 128,
+        "Green/Red": 128,
+        "Red": 123
+      },
+      "map": "ocala-national-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 550,
+        "Blue": 522,
+        "Gold": 502,
+        "Gold/Green": 502,
+        "Green": 407,
+        "Green/Red": 407,
+        "Red": 357
+      },
+      "map": "ocala-national-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 459,
+        "Blue": 431,
+        "Gold": 399,
+        "Gold/Green": 368,
+        "Green": 368,
+        "Green/Red": 318,
+        "Red": 318
+      },
+      "map": "ocala-national-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 241,
+        "Blue": 220,
+        "Gold": 194,
+        "Gold/Green": 152,
+        "Green": 152,
+        "Green/Red": 125,
+        "Red": 125
+      },
+      "map": "ocala-national-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 541,
+        "Blue": 505,
+        "Gold": 488,
+        "Gold/Green": 488,
+        "Green": 468,
+        "Green/Red": 468,
+        "Red": 390
+      },
+      "map": "ocala-national-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 479,
+        "Blue": 449,
+        "Gold": 426,
+        "Gold/Green": 301,
+        "Green": 301,
+        "Green/Red": 301,
+        "Red": 289
+      },
+      "map": "ocala-national-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 410,
+        "Blue": 402,
+        "Gold": 383,
+        "Gold/Green": 383,
+        "Green": 325,
+        "Green/Red": 325,
+        "Red": 315
+      },
+      "map": "ocala-national-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 512,
+        "Blue": 450,
+        "Gold": 419,
+        "Gold/Green": 351,
+        "Green": 351,
+        "Green/Red": 317,
+        "Red": 317
+      },
+      "map": "ocala-national-golf-club-18"
+    }
+  ],
+  "version": 1
+}

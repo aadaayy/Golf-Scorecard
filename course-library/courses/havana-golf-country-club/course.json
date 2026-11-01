@@ -1,0 +1,97 @@
+{
+  "id": "havana-golf-country-club",
+  "name": "Havana Golf Country Club",
+  "town": "Havana, FL",
+  "location": {
+    "lat": 30.63374,
+    "lng": -84.41862
+  },
+  "tees": [
+    "Web",
+    "Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Web": 271,
+        "Blue": 275
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 363,
+        "Blue": 363
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Web": 449,
+        "Blue": 458
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 377,
+        "Blue": 371
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Web": 150,
+        "Blue": 145
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Web": 490,
+        "Blue": 500
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 342,
+        "Blue": 336
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Web": 175,
+        "Blue": 158
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 383,
+        "Blue": 378
+      }
+    }
+  ],
+  "version": 1
+}

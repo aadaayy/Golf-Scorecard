@@ -1,0 +1,126 @@
+{
+  "id": "sandhill-at-the-villages-executive-golf-trail",
+  "name": "Sandhill At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.871267,
+    "lng": -81.99631
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Green",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 155,
+        "Gold": 135,
+        "Green": 120,
+        "Forward": 98
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 200,
+        "Gold": 171,
+        "Green": 150,
+        "Forward": 123
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 184,
+        "Gold": 165,
+        "Green": 142,
+        "Forward": 127
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 183,
+        "Gold": 167,
+        "Green": 140,
+        "Forward": 102
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 319,
+        "Gold": 299,
+        "Green": 278,
+        "Forward": 254
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 126,
+        "Gold": 103,
+        "Green": 81,
+        "Forward": 68
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 148,
+        "Gold": 126,
+        "Green": 101,
+        "Forward": 78
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 163,
+        "Gold": 139,
+        "Green": 111,
+        "Forward": 87
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 179,
+        "Gold": 153,
+        "Green": 128,
+        "Forward": 107
+      },
+      "map": "sandhill-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

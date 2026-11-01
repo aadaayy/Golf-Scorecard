@@ -1,0 +1,126 @@
+{
+  "id": "turtle-mound-at-the-villages-executive-golf-trail",
+  "name": "Turtle Mound At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.870121,
+    "lng": -81.994338
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 159,
+        "Web": 159,
+        "Gold": 131,
+        "Green": 98
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 116,
+        "Web": 116,
+        "Gold": 112,
+        "Green": 96
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 141,
+        "Web": 141,
+        "Gold": 119,
+        "Green": 94
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 129,
+        "Web": 129,
+        "Gold": 120,
+        "Green": 88
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 145,
+        "Web": 145,
+        "Gold": 127,
+        "Green": 109
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 143,
+        "Web": 143,
+        "Gold": 126,
+        "Green": 114
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 173,
+        "Web": 173,
+        "Gold": 156,
+        "Green": 139
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 143,
+        "Web": 143,
+        "Gold": 122,
+        "Green": 105
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 174,
+        "Web": 174,
+        "Gold": 153,
+        "Green": 130
+      },
+      "map": "turtle-mound-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

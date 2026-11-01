@@ -1,0 +1,126 @@
+{
+  "id": "saddlebrook-at-the-villages-executive-golf-trail",
+  "name": "Saddlebrook At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.929609,
+    "lng": -82.001804
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 124,
+        "Web": 124,
+        "Gold": 106,
+        "Green": 87
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 190,
+        "Web": 190,
+        "Gold": 167,
+        "Green": 142
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 148,
+        "Web": 148,
+        "Gold": 128,
+        "Green": 95
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 133,
+        "Web": 133,
+        "Gold": 93,
+        "Green": 75
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 176,
+        "Web": 176,
+        "Gold": 153,
+        "Green": 123
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 139,
+        "Web": 139,
+        "Gold": 116,
+        "Green": 95
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 165,
+        "Web": 165,
+        "Gold": 145,
+        "Green": 122
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 143,
+        "Web": 143,
+        "Gold": 120,
+        "Green": 104
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 153,
+        "Web": 153,
+        "Gold": 132,
+        "Green": 109
+      },
+      "map": "saddlebrook-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,272 @@
+{
+  "id": "kissimmee-bay-country-club",
+  "name": "Kissimmee Bay Country Club",
+  "town": "Kissimmee, FL",
+  "location": {
+    "lat": 28.307766,
+    "lng": -81.327789
+  },
+  "tees": [
+    "Web",
+    "Gold",
+    "Blue",
+    "White",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Web": 562,
+        "Gold": 562,
+        "Blue": 541,
+        "White": 518,
+        "Silver": 491,
+        "Red": 466
+      },
+      "map": "kissimmee-bay-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Web": 372,
+        "Gold": 372,
+        "Blue": 349,
+        "White": 320,
+        "Silver": 305,
+        "Red": 261
+      },
+      "map": "kissimmee-bay-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 443,
+        "Gold": 443,
+        "Blue": 422,
+        "White": 398,
+        "Silver": 364,
+        "Red": 354
+      },
+      "map": "kissimmee-bay-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Web": 364,
+        "Gold": 364,
+        "Blue": 339,
+        "White": 318,
+        "Silver": 270,
+        "Red": 260
+      },
+      "map": "kissimmee-bay-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Web": 398,
+        "Gold": 398,
+        "Blue": 375,
+        "White": 357,
+        "Silver": 347,
+        "Red": 332
+      },
+      "map": "kissimmee-bay-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Web": 221,
+        "Gold": 221,
+        "Blue": 205,
+        "White": 183,
+        "Silver": 170,
+        "Red": 160
+      },
+      "map": "kissimmee-bay-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Web": 462,
+        "Gold": 462,
+        "Blue": 447,
+        "White": 415,
+        "Silver": 340,
+        "Red": 331
+      },
+      "map": "kissimmee-bay-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Web": 144,
+        "Gold": 144,
+        "Blue": 127,
+        "White": 117,
+        "Silver": 112,
+        "Red": 105
+      },
+      "map": "kissimmee-bay-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Web": 585,
+        "Gold": 585,
+        "Blue": 567,
+        "White": 530,
+        "Silver": 486,
+        "Red": 476
+      },
+      "map": "kissimmee-bay-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Web": 357,
+        "Gold": 357,
+        "Blue": 320,
+        "White": 288,
+        "Silver": 278,
+        "Red": 229
+      },
+      "map": "kissimmee-bay-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Web": 567,
+        "Gold": 567,
+        "Blue": 542,
+        "White": 504,
+        "Silver": 494,
+        "Red": 467
+      },
+      "map": "kissimmee-bay-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Web": 381,
+        "Gold": 381,
+        "Blue": 337,
+        "White": 308,
+        "Silver": 275,
+        "Red": 270
+      },
+      "map": "kissimmee-bay-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 185,
+        "Gold": 185,
+        "Blue": 125,
+        "White": 101,
+        "Silver": 101,
+        "Red": 93
+      },
+      "map": "kissimmee-bay-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Web": 415,
+        "Gold": 415,
+        "Blue": 397,
+        "White": 371,
+        "Silver": 307,
+        "Red": 297
+      },
+      "map": "kissimmee-bay-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 386,
+        "Gold": 386,
+        "Blue": 341,
+        "White": 327,
+        "Silver": 320,
+        "Red": 290
+      },
+      "map": "kissimmee-bay-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Web": 166,
+        "Gold": 150,
+        "Blue": 130,
+        "White": 130,
+        "Silver": 112,
+        "Red": 101
+      },
+      "map": "kissimmee-bay-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Web": 416,
+        "Gold": 416,
+        "Blue": 357,
+        "White": 337,
+        "Silver": 327,
+        "Red": 300
+      },
+      "map": "kissimmee-bay-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 422,
+        "Gold": 422,
+        "Blue": 396,
+        "White": 369,
+        "Silver": 320,
+        "Red": 312
+      },
+      "map": "kissimmee-bay-country-club-18"
+    }
+  ],
+  "version": 1
+}

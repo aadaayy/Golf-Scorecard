@@ -1,0 +1,254 @@
+{
+  "id": "lost-key-golf-club",
+  "name": "Lost Key Golf Club",
+  "town": "Pensacola, FL",
+  "location": {
+    "lat": 30.297011,
+    "lng": -87.4411
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 578,
+        "Blue": 549,
+        "White": 507,
+        "Gold": 459,
+        "Red": 423,
+        "Orange": 385
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 208,
+        "Blue": 185,
+        "White": 171,
+        "Gold": 147,
+        "Red": 137,
+        "Orange": 132
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 390,
+        "Blue": 374,
+        "White": 368,
+        "Gold": 333,
+        "Red": 297,
+        "Orange": 234
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 324,
+        "Blue": 292,
+        "White": 276,
+        "Gold": 221,
+        "Red": 203,
+        "Orange": 137
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 439,
+        "Blue": 413,
+        "White": 375,
+        "Gold": 362,
+        "Red": 279,
+        "Orange": 260
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 524,
+        "Blue": 498,
+        "White": 488,
+        "Gold": 447,
+        "Red": 400,
+        "Orange": 378
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 205,
+        "Blue": 178,
+        "White": 169,
+        "Gold": 144,
+        "Red": 119,
+        "Orange": 100
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 436,
+        "Blue": 412,
+        "White": 384,
+        "Gold": 349,
+        "Red": 318,
+        "Orange": 283
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 396,
+        "Blue": 388,
+        "White": 357,
+        "Gold": 310,
+        "Red": 284,
+        "Orange": 224
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 427,
+        "Blue": 415,
+        "White": 368,
+        "Gold": 339,
+        "Red": 307,
+        "Orange": 246
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 158,
+        "Blue": 147,
+        "White": 132,
+        "Gold": 120,
+        "Red": 101,
+        "Orange": 101
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 516,
+        "Blue": 501,
+        "White": 460,
+        "Gold": 382,
+        "Red": 377,
+        "Orange": 345
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 152,
+        "Blue": 147,
+        "White": 136,
+        "Gold": 118,
+        "Red": 107,
+        "Orange": 100
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 410,
+        "Blue": 373,
+        "White": 354,
+        "Gold": 325,
+        "Red": 320,
+        "Orange": 235
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 385,
+        "Blue": 372,
+        "White": 349,
+        "Gold": 314,
+        "Red": 314,
+        "Orange": 239
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 197,
+        "Blue": 166,
+        "White": 133,
+        "Gold": 110,
+        "Red": 103,
+        "Orange": 100
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 445,
+        "Blue": 430,
+        "White": 410,
+        "Gold": 378,
+        "Red": 336,
+        "Orange": 295
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 500,
+        "Blue": 492,
+        "White": 465,
+        "Gold": 385,
+        "Red": 382,
+        "Orange": 343
+      }
+    }
+  ],
+  "version": 1
+}

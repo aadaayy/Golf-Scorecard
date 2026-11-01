@@ -1,0 +1,127 @@
+{
+  "id": "sugarmill-woods-country-club-cypress-course",
+  "name": "Sugarmill Woods Country Club Cypress Course",
+  "town": "Homosassa, FL",
+  "location": {
+    "lat": 28.740143,
+    "lng": -82.536319
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 535,
+        "Web": 535,
+        "White": 509,
+        "Gold": 496,
+        "Red": 486
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 374,
+        "Web": 374,
+        "White": 350,
+        "Gold": 332,
+        "Red": 228
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 174,
+        "Web": 174,
+        "White": 161,
+        "Gold": 153,
+        "Red": 146
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 410,
+        "Web": 410,
+        "White": 380,
+        "Gold": 360,
+        "Red": 295
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 398,
+        "Web": 398,
+        "White": 365,
+        "Gold": 340,
+        "Red": 275
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 199,
+        "Web": 199,
+        "White": 174,
+        "Gold": 163,
+        "Red": 152
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 395,
+        "Web": 395,
+        "White": 388,
+        "Gold": 374,
+        "Red": 304
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 536,
+        "Web": 536,
+        "White": 515,
+        "Gold": 504,
+        "Red": 450
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 395,
+        "Web": 395,
+        "White": 362,
+        "Gold": 347,
+        "Red": 332
+      }
+    }
+  ],
+  "version": 1
+}

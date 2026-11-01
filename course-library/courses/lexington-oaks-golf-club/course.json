@@ -1,0 +1,235 @@
+{
+  "id": "lexington-oaks-golf-club",
+  "name": "Lexington Oaks Golf Club",
+  "town": "Wesley Chapel, FL",
+  "location": {
+    "lat": 28.23756,
+    "lng": -82.383957
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 383,
+        "Blue": 374,
+        "White": 325,
+        "Gold": 309,
+        "Red": 286
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 226,
+        "Blue": 203,
+        "White": 161,
+        "Gold": 148,
+        "Red": 127
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 381,
+        "Blue": 341,
+        "White": 318,
+        "Gold": 298,
+        "Red": 268
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 539,
+        "Blue": 503,
+        "White": 484,
+        "Gold": 428,
+        "Red": 380
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 211,
+        "Blue": 167,
+        "White": 153,
+        "Gold": 128,
+        "Red": 100
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 534,
+        "Blue": 490,
+        "White": 457,
+        "Gold": 406,
+        "Red": 375
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 369,
+        "Blue": 336,
+        "White": 304,
+        "Gold": 273,
+        "Red": 249
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 374,
+        "Blue": 356,
+        "White": 329,
+        "Gold": 265,
+        "Red": 248
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 369,
+        "Blue": 313,
+        "White": 287,
+        "Gold": 256,
+        "Red": 242
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 354,
+        "Blue": 334,
+        "White": 308,
+        "Gold": 285,
+        "Red": 262
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 425,
+        "Blue": 403,
+        "White": 370,
+        "Gold": 337,
+        "Red": 312
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 297,
+        "Blue": 273,
+        "White": 246,
+        "Gold": 224,
+        "Red": 193
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 134,
+        "Blue": 123,
+        "White": 111,
+        "Gold": 101,
+        "Red": 93
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 592,
+        "Blue": 511,
+        "White": 502,
+        "Gold": 479,
+        "Red": 360
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 393,
+        "Blue": 351,
+        "White": 328,
+        "Gold": 299,
+        "Red": 245
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 367,
+        "Blue": 343,
+        "White": 325,
+        "Gold": 287,
+        "Red": 265
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 208,
+        "Blue": 189,
+        "White": 166,
+        "Gold": 147,
+        "Red": 110
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 490,
+        "Blue": 463,
+        "White": 443,
+        "Gold": 391,
+        "Red": 271
+      }
+    }
+  ],
+  "version": 1
+}

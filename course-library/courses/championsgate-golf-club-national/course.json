@@ -1,0 +1,216 @@
+{
+  "id": "championsgate-golf-club-national",
+  "name": "Championsgate Golf Club National",
+  "town": "Championsgate, FL",
+  "location": {
+    "lat": 28.267521,
+    "lng": -81.62857
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 434,
+        "Blue": 407,
+        "White": 392,
+        "Red": 311
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 517,
+        "Blue": 475,
+        "White": 431,
+        "Red": 374
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 478,
+        "Blue": 418,
+        "White": 399,
+        "Red": 349
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 323,
+        "Blue": 311,
+        "White": 290,
+        "Red": 218
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 228,
+        "Blue": 187,
+        "White": 185,
+        "Red": 147
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 384,
+        "Blue": 365,
+        "White": 322,
+        "Red": 270
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 554,
+        "Blue": 490,
+        "White": 456,
+        "Red": 419
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 403,
+        "Blue": 361,
+        "White": 319,
+        "Red": 286
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 376,
+        "Blue": 344,
+        "White": 315,
+        "Red": 288
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 251,
+        "Blue": 193,
+        "White": 149,
+        "Red": 118
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 472,
+        "Blue": 439,
+        "White": 399,
+        "Red": 365
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 211,
+        "Blue": 165,
+        "White": 122,
+        "Red": 90
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 389,
+        "Blue": 351,
+        "White": 326,
+        "Red": 276
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 627,
+        "Blue": 594,
+        "White": 583,
+        "Red": 551
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 210,
+        "Blue": 171,
+        "White": 148,
+        "Red": 78
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 389,
+        "Blue": 361,
+        "White": 325,
+        "Red": 293
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 315,
+        "Blue": 255,
+        "White": 225,
+        "Red": 203
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 636,
+        "Blue": 593,
+        "White": 563,
+        "Red": 485
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "lakes-river-golf-course-cocoa-beach-country-club",
+  "name": "Lakes River Golf Course Cocoa Beach Country Club",
+  "town": "Cocoa Beach, FL",
+  "location": {
+    "lat": 28.312838,
+    "lng": -80.635595
+  },
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 423,
+        "Web": 420,
+        "Blue": 394,
+        "White": 372,
+        "Red": 320
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 372,
+        "Web": 377,
+        "Blue": 357,
+        "White": 341,
+        "Red": 303
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 176,
+        "Web": 170,
+        "Blue": 153,
+        "White": 114,
+        "Red": 89
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 367,
+        "Web": 366,
+        "Blue": 343,
+        "White": 338,
+        "Red": 324
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 416,
+        "Web": 414,
+        "Blue": 395,
+        "White": 379,
+        "Red": 368
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 550,
+        "Web": 540,
+        "Blue": 538,
+        "White": 522,
+        "Red": 458
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 182,
+        "Web": 175,
+        "Blue": 167,
+        "White": 151,
+        "Red": 132
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 354,
+        "Web": 350,
+        "Blue": 317,
+        "White": 299,
+        "Red": 274
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 532,
+        "Web": 529,
+        "Blue": 503,
+        "White": 433,
+        "Red": 420
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 371,
+        "Web": 365,
+        "Blue": 349,
+        "White": 322,
+        "Red": 300
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 181,
+        "Web": 173,
+        "Blue": 160,
+        "White": 139,
+        "Red": 99
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 514,
+        "Web": 509,
+        "Blue": 490,
+        "White": 460,
+        "Red": 416
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 405,
+        "Web": 395,
+        "Blue": 385,
+        "White": 360,
+        "Red": 333
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 411,
+        "Web": 410,
+        "Blue": 368,
+        "White": 353,
+        "Red": 317
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 391,
+        "Web": 388,
+        "Blue": 371,
+        "White": 349,
+        "Red": 306
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Gold": 189,
+        "Web": 187,
+        "Blue": 166,
+        "White": 146,
+        "Red": 121
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 534,
+        "Web": 527,
+        "Blue": 492,
+        "White": 479,
+        "Red": 435
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 346,
+        "Web": 340,
+        "Blue": 324,
+        "White": 304,
+        "Red": 279
+      }
+    }
+  ],
+  "version": 1
+}

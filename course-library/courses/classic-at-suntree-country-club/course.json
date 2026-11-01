@@ -1,0 +1,253 @@
+{
+  "id": "classic-at-suntree-country-club",
+  "name": "Classic At Suntree Country Club",
+  "town": "Melbourne, FL",
+  "location": {
+    "lat": 28.225214,
+    "lng": -80.680304
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Green",
+    "White",
+    "Blue"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 404,
+        "Gold": 390,
+        "Green": 366,
+        "White": 308,
+        "Blue": 258
+      },
+      "map": "classic-at-suntree-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 563,
+        "Gold": 553,
+        "Green": 515,
+        "White": 469,
+        "Blue": 425
+      },
+      "map": "classic-at-suntree-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 178,
+        "Gold": 169,
+        "Green": 136,
+        "White": 125,
+        "Blue": 125
+      },
+      "map": "classic-at-suntree-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 401,
+        "Gold": 372,
+        "Green": 351,
+        "White": 293,
+        "Blue": 240
+      },
+      "map": "classic-at-suntree-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 534,
+        "Gold": 512,
+        "Green": 491,
+        "White": 445,
+        "Blue": 400
+      },
+      "map": "classic-at-suntree-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 347,
+        "Gold": 328,
+        "Green": 308,
+        "White": 289,
+        "Blue": 284
+      },
+      "map": "classic-at-suntree-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 160,
+        "Gold": 149,
+        "Green": 136,
+        "White": 121,
+        "Blue": 121
+      },
+      "map": "classic-at-suntree-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 428,
+        "Gold": 393,
+        "Green": 379,
+        "White": 337,
+        "Blue": 220
+      },
+      "map": "classic-at-suntree-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 410,
+        "Gold": 384,
+        "Green": 351,
+        "White": 326,
+        "Blue": 230
+      },
+      "map": "classic-at-suntree-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 522,
+        "Gold": 513,
+        "Green": 504,
+        "White": 411,
+        "Blue": 361
+      },
+      "map": "classic-at-suntree-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 360,
+        "Gold": 348,
+        "Green": 335,
+        "White": 289,
+        "Blue": 207
+      },
+      "map": "classic-at-suntree-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 438,
+        "Gold": 410,
+        "Green": 351,
+        "White": 312,
+        "Blue": 260
+      },
+      "map": "classic-at-suntree-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 412,
+        "Gold": 400,
+        "Green": 387,
+        "White": 330,
+        "Blue": 230
+      },
+      "map": "classic-at-suntree-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 201,
+        "Gold": 178,
+        "Green": 164,
+        "White": 119,
+        "Blue": 119
+      },
+      "map": "classic-at-suntree-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 409,
+        "Gold": 383,
+        "Green": 339,
+        "White": 308,
+        "Blue": 278
+      },
+      "map": "classic-at-suntree-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 206,
+        "Gold": 184,
+        "Green": 168,
+        "White": 112,
+        "Blue": 103
+      },
+      "map": "classic-at-suntree-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 401,
+        "Gold": 362,
+        "Green": 338,
+        "White": 289,
+        "Blue": 203
+      },
+      "map": "classic-at-suntree-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 579,
+        "Gold": 562,
+        "Green": 514,
+        "White": 460,
+        "Blue": 400
+      },
+      "map": "classic-at-suntree-country-club-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,253 @@
+{
+  "id": "oceanside-golf-country-club",
+  "name": "Oceanside Golf Country Club",
+  "town": "Ormond Beach, FL",
+  "location": {
+    "lat": 29.292083,
+    "lng": -81.044549
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 361,
+        "Blue": 341,
+        "White": 315,
+        "Green": 305,
+        "Yellow": 195
+      },
+      "map": "oceanside-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 432,
+        "Blue": 405,
+        "White": 348,
+        "Green": 338,
+        "Yellow": 200
+      },
+      "map": "oceanside-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 415,
+        "Blue": 395,
+        "White": 354,
+        "Green": 314,
+        "Yellow": 205
+      },
+      "map": "oceanside-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 145,
+        "Blue": 130,
+        "White": 95,
+        "Green": 85,
+        "Yellow": 85
+      },
+      "map": "oceanside-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 322,
+        "Blue": 305,
+        "White": 288,
+        "Green": 280,
+        "Yellow": 175
+      },
+      "map": "oceanside-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Gold": 525,
+        "Blue": 495,
+        "White": 473,
+        "Green": 431,
+        "Yellow": 320
+      },
+      "map": "oceanside-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 507,
+        "Blue": 490,
+        "White": 453,
+        "Green": 413,
+        "Yellow": 300
+      },
+      "map": "oceanside-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 407,
+        "Blue": 361,
+        "White": 320,
+        "Green": 284,
+        "Yellow": 185
+      },
+      "map": "oceanside-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Gold": 194,
+        "Blue": 175,
+        "White": 152,
+        "Green": 120,
+        "Yellow": 70
+      },
+      "map": "oceanside-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 432,
+        "Blue": 412,
+        "White": 375,
+        "Green": 363,
+        "Yellow": 215
+      },
+      "map": "oceanside-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 381,
+        "Blue": 355,
+        "White": 339,
+        "Green": 307,
+        "Yellow": 190
+      },
+      "map": "oceanside-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 491,
+        "Blue": 480,
+        "White": 441,
+        "Green": 415,
+        "Yellow": 280
+      },
+      "map": "oceanside-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 323,
+        "Blue": 309,
+        "White": 273,
+        "Green": 238,
+        "Yellow": 185
+      },
+      "map": "oceanside-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 175,
+        "Blue": 165,
+        "White": 141,
+        "Green": 124,
+        "Yellow": 118
+      },
+      "map": "oceanside-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 434,
+        "Blue": 380,
+        "White": 360,
+        "Green": 322,
+        "Yellow": 210
+      },
+      "map": "oceanside-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 136,
+        "Blue": 131,
+        "White": 125,
+        "Green": 95,
+        "Yellow": 92
+      },
+      "map": "oceanside-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 468,
+        "Blue": 443,
+        "White": 389,
+        "Green": 376,
+        "Yellow": 275
+      },
+      "map": "oceanside-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 419,
+        "Blue": 362,
+        "White": 341,
+        "Green": 279,
+        "Yellow": 195
+      },
+      "map": "oceanside-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

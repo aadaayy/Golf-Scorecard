@@ -1,0 +1,216 @@
+{
+  "id": "clearwater-country-club",
+  "name": "Clearwater Country Club",
+  "town": "Clearwater, FL",
+  "location": {
+    "lat": 27.971465,
+    "lng": -82.781942
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Green",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 333,
+        "White": 318,
+        "Green": 298,
+        "Orange": 265
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 213,
+        "White": 159,
+        "Green": 139,
+        "Orange": 126
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 414,
+        "White": 402,
+        "Green": 336,
+        "Orange": 323
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 502,
+        "White": 475,
+        "Green": 440,
+        "Orange": 352
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 503,
+        "White": 470,
+        "Green": 439,
+        "Orange": 341
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 399,
+        "White": 385,
+        "Green": 355,
+        "Orange": 345
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 156,
+        "White": 145,
+        "Green": 137,
+        "Orange": 127
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 346,
+        "White": 339,
+        "Green": 321,
+        "Orange": 310
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 319,
+        "White": 297,
+        "Green": 285,
+        "Orange": 273
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 341,
+        "White": 329,
+        "Green": 320,
+        "Orange": 311
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 370,
+        "White": 359,
+        "Green": 348,
+        "Orange": 340
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 342,
+        "White": 315,
+        "Green": 271,
+        "Orange": 260
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 345,
+        "White": 327,
+        "Green": 253,
+        "Orange": 249
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 245,
+        "White": 230,
+        "Green": 220,
+        "Orange": 212
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 174,
+        "White": 165,
+        "Green": 152,
+        "Orange": 148
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 371,
+        "White": 355,
+        "Green": 306,
+        "Orange": 299
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 460,
+        "White": 432,
+        "Green": 380,
+        "Orange": 371
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 367,
+        "White": 356,
+        "Green": 350,
+        "Orange": 316
+      }
+    }
+  ],
+  "version": 1
+}

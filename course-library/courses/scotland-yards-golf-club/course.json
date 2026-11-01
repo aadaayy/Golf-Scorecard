@@ -1,0 +1,216 @@
+{
+  "id": "scotland-yards-golf-club",
+  "name": "Scotland Yards Golf Club",
+  "town": "Dade City, FL",
+  "location": {
+    "lat": 28.293913,
+    "lng": -82.182872
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 387,
+        "White": 336,
+        "Gold": 297,
+        "Red": 235
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 373,
+        "White": 299,
+        "Gold": 278,
+        "Red": 248
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 535,
+        "White": 467,
+        "Gold": 399,
+        "Red": 390
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 414,
+        "White": 353,
+        "Gold": 336,
+        "Red": 304
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 508,
+        "White": 489,
+        "Gold": 452,
+        "Red": 387
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 164,
+        "White": 155,
+        "Gold": 148,
+        "Red": 119
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 360,
+        "White": 322,
+        "Gold": 285,
+        "Red": 235
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 204,
+        "White": 129,
+        "Gold": 114,
+        "Red": 92
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 526,
+        "White": 511,
+        "Gold": 477,
+        "Red": 415
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 320,
+        "White": 295,
+        "Gold": 259,
+        "Red": 236
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 179,
+        "White": 159,
+        "Gold": 138,
+        "Red": 125
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 500,
+        "White": 478,
+        "Gold": 431,
+        "Red": 398
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 369,
+        "White": 342,
+        "Gold": 279,
+        "Red": 269
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 363,
+        "White": 327,
+        "Gold": 298,
+        "Red": 260
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 528,
+        "White": 484,
+        "Gold": 436,
+        "Red": 425
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 175,
+        "White": 155,
+        "Gold": 143,
+        "Red": 108
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 383,
+        "White": 335,
+        "Gold": 288,
+        "Red": 255
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 172,
+        "White": 160,
+        "Gold": 119,
+        "Red": 109
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,291 @@
+{
+  "id": "fleming-island-golf-club",
+  "name": "Fleming Island Golf Club",
+  "town": "Fleming Island, FL",
+  "location": {
+    "lat": 30.069515,
+    "lng": -81.717151
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Green",
+    "Red",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 428,
+        "Blue": 406,
+        "Blue/White": 363,
+        "White": 363,
+        "Green": 351,
+        "Red": 320,
+        "Yellow": 312
+      },
+      "map": "fleming-island-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 392,
+        "Blue": 383,
+        "Blue/White": 383,
+        "White": 348,
+        "Green": 303,
+        "Red": 303,
+        "Yellow": 279
+      },
+      "map": "fleming-island-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 547,
+        "Blue": 519,
+        "Blue/White": 519,
+        "White": 498,
+        "Green": 471,
+        "Red": 430,
+        "Yellow": 430
+      },
+      "map": "fleming-island-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 429,
+        "Blue": 406,
+        "Blue/White": 401,
+        "White": 401,
+        "Green": 386,
+        "Red": 331,
+        "Yellow": 331
+      },
+      "map": "fleming-island-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 513,
+        "Blue": 498,
+        "Blue/White": 498,
+        "White": 456,
+        "Green": 417,
+        "Red": 417,
+        "Yellow": 389
+      },
+      "map": "fleming-island-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 227,
+        "Blue": 210,
+        "Blue/White": 179,
+        "White": 179,
+        "Green": 166,
+        "Red": 142,
+        "Yellow": 142
+      },
+      "map": "fleming-island-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 397,
+        "Blue": 370,
+        "Blue/White": 370,
+        "White": 359,
+        "Green": 313,
+        "Red": 301,
+        "Yellow": 260
+      },
+      "map": "fleming-island-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 170,
+        "Blue": 160,
+        "Blue/White": 160,
+        "White": 150,
+        "Green": 137,
+        "Red": 137,
+        "Yellow": 107
+      },
+      "map": "fleming-island-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 410,
+        "Blue": 393,
+        "Blue/White": 357,
+        "White": 357,
+        "Green": 335,
+        "Red": 297,
+        "Yellow": 297
+      },
+      "map": "fleming-island-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 148,
+        "Blue": 137,
+        "Blue/White": 137,
+        "White": 118,
+        "Green": 103,
+        "Red": 103,
+        "Yellow": 81
+      },
+      "map": "fleming-island-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 367,
+        "Blue": 347,
+        "Blue/White": 347,
+        "White": 319,
+        "Green": 310,
+        "Red": 290,
+        "Yellow": 277
+      },
+      "map": "fleming-island-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 304,
+        "Blue": 296,
+        "Blue/White": 265,
+        "White": 265,
+        "Green": 228,
+        "Red": 178,
+        "Yellow": 173
+      },
+      "map": "fleming-island-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 459,
+        "Blue": 448,
+        "Blue/White": 413,
+        "White": 413,
+        "Green": 374,
+        "Red": 343,
+        "Yellow": 343
+      },
+      "map": "fleming-island-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 407,
+        "Blue": 395,
+        "Blue/White": 395,
+        "White": 354,
+        "Green": 311,
+        "Red": 301,
+        "Yellow": 269
+      },
+      "map": "fleming-island-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Black": 195,
+        "Blue": 182,
+        "Blue/White": 160,
+        "White": 160,
+        "Green": 153,
+        "Red": 153,
+        "Yellow": 81
+      },
+      "map": "fleming-island-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 569,
+        "Blue": 534,
+        "Blue/White": 496,
+        "White": 496,
+        "Green": 450,
+        "Red": 424,
+        "Yellow": 364
+      },
+      "map": "fleming-island-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 179,
+        "Blue": 173,
+        "Blue/White": 173,
+        "White": 150,
+        "Green": 138,
+        "Red": 138,
+        "Yellow": 79
+      },
+      "map": "fleming-island-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 523,
+        "Blue": 518,
+        "Blue/White": 518,
+        "White": 473,
+        "Green": 462,
+        "Red": 409,
+        "Yellow": 409
+      },
+      "map": "fleming-island-golf-club-18"
+    }
+  ],
+  "version": 1
+}

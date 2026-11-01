@@ -1,0 +1,235 @@
+{
+  "id": "deercreek-country-club",
+  "name": "Deercreek Country Club",
+  "town": "Jacksonville, FL",
+  "location": {
+    "lat": 30.18594,
+    "lng": -81.538282
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "Green",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 417,
+        "Blue": 388,
+        "Green": 362,
+        "White": 324,
+        "Red": 278
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 426,
+        "Blue": 369,
+        "Green": 355,
+        "White": 317,
+        "Red": 270
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 170,
+        "Blue": 164,
+        "Green": 157,
+        "White": 141,
+        "Red": 107
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 438,
+        "Blue": 422,
+        "Green": 399,
+        "White": 347,
+        "Red": 266
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 513,
+        "Blue": 498,
+        "Green": 496,
+        "White": 425,
+        "Red": 382
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 190,
+        "Blue": 170,
+        "Green": 162,
+        "White": 125,
+        "Red": 105
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 377,
+        "Blue": 364,
+        "Green": 304,
+        "White": 273,
+        "Red": 240
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 413,
+        "Blue": 381,
+        "Green": 376,
+        "White": 375,
+        "Red": 366
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 376,
+        "Blue": 369,
+        "Green": 361,
+        "White": 354,
+        "Red": 217
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 529,
+        "Blue": 516,
+        "Green": 473,
+        "White": 466,
+        "Red": 409
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 162,
+        "Blue": 155,
+        "Green": 139,
+        "White": 122,
+        "Red": 94
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 323,
+        "Blue": 315,
+        "Green": 309,
+        "White": 265,
+        "Red": 219
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 410,
+        "Blue": 387,
+        "Green": 372,
+        "White": 354,
+        "Red": 318
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 374,
+        "Blue": 363,
+        "Green": 358,
+        "White": 329,
+        "Red": 275
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 175,
+        "Blue": 156,
+        "Green": 149,
+        "White": 130,
+        "Red": 95
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 442,
+        "Blue": 412,
+        "Green": 401,
+        "White": 390,
+        "Red": 364
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 440,
+        "Blue": 408,
+        "Green": 379,
+        "White": 364,
+        "Red": 319
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 488,
+        "Blue": 460,
+        "Green": 450,
+        "White": 403,
+        "Red": 379
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,235 @@
+{
+  "id": "harbor-hills-country-club",
+  "name": "Harbor Hills Country Club",
+  "town": "Lady Lake, FL",
+  "location": {
+    "lat": 28.930544,
+    "lng": -81.854096
+  },
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 390,
+        "Web": 390,
+        "Blue": 361,
+        "White": 286,
+        "Red": 277
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 398,
+        "Web": 398,
+        "Blue": 373,
+        "White": 296,
+        "Red": 286
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 518,
+        "Web": 518,
+        "Blue": 494,
+        "White": 421,
+        "Red": 415
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 381,
+        "Web": 381,
+        "Blue": 358,
+        "White": 279,
+        "Red": 270
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 194,
+        "Web": 194,
+        "Blue": 168,
+        "White": 104,
+        "Red": 92
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Gold": 496,
+        "Web": 496,
+        "Blue": 485,
+        "White": 439,
+        "Red": 424
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 337,
+        "Web": 337,
+        "Blue": 327,
+        "White": 264,
+        "Red": 253
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 174,
+        "Web": 174,
+        "Blue": 155,
+        "White": 130,
+        "Red": 121
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 420,
+        "Web": 420,
+        "Blue": 392,
+        "White": 313,
+        "Red": 303
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 447,
+        "Web": 447,
+        "Blue": 433,
+        "White": 309,
+        "Red": 290
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 389,
+        "Web": 389,
+        "Blue": 372,
+        "White": 342,
+        "Red": 334
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 541,
+        "Web": 541,
+        "Blue": 525,
+        "White": 480,
+        "Red": 421
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 172,
+        "Web": 172,
+        "Blue": 157,
+        "White": 130,
+        "Red": 93
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 362,
+        "Web": 362,
+        "Blue": 341,
+        "White": 266,
+        "Red": 251
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 375,
+        "Web": 375,
+        "Blue": 359,
+        "White": 297,
+        "Red": 285
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 203,
+        "Web": 203,
+        "Blue": 175,
+        "White": 150,
+        "Red": 140
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 394,
+        "Web": 394,
+        "Blue": 374,
+        "White": 346,
+        "Red": 341
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 568,
+        "Web": 568,
+        "Blue": 540,
+        "White": 441,
+        "Red": 432
+      }
+    }
+  ],
+  "version": 1
+}

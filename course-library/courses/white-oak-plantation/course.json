@@ -1,0 +1,107 @@
+{
+  "id": "white-oak-plantation",
+  "name": "White Oak Plantation",
+  "town": "Hilliard, FL",
+  "location": {
+    "lat": 30.75357,
+    "lng": -81.776485
+  },
+  "tees": [
+    "Web",
+    "Blue",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 425,
+        "Blue": 375,
+        "Red": 261
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 464,
+        "Blue": 421,
+        "Red": 342
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Web": 410,
+        "Blue": 381,
+        "Red": 307
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 371,
+        "Blue": 340,
+        "Red": 299
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Web": 567,
+        "Blue": 515,
+        "Red": 396
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Web": 185,
+        "Blue": 165,
+        "Red": 125
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Web": 502,
+        "Blue": 502,
+        "Red": 404
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Web": 165,
+        "Blue": 125,
+        "Red": 90
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 423,
+        "Blue": 363,
+        "Red": 335
+      }
+    }
+  ],
+  "version": 1
+}

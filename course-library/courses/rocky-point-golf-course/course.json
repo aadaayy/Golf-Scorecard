@@ -1,0 +1,216 @@
+{
+  "id": "rocky-point-golf-course",
+  "name": "Rocky Point Golf Course",
+  "town": "Tampa, FL",
+  "location": {
+    "lat": 27.978229,
+    "lng": -82.557432
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 381,
+        "White": 368,
+        "Green": 349,
+        "Red": 328
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 377,
+        "White": 336,
+        "Green": 311,
+        "Red": 280
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 477,
+        "White": 450,
+        "Green": 397,
+        "Red": 385
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 104,
+        "White": 96,
+        "Green": 93,
+        "Red": 78
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 387,
+        "White": 340,
+        "Green": 313,
+        "Red": 280
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 155,
+        "White": 135,
+        "Green": 75,
+        "Red": 65
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 389,
+        "White": 373,
+        "Green": 346,
+        "Red": 329
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 535,
+        "White": 494,
+        "Green": 479,
+        "Red": 432
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 448,
+        "White": 428,
+        "Green": 388,
+        "Red": 378
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 375,
+        "White": 333,
+        "Green": 321,
+        "Red": 293
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 190,
+        "White": 168,
+        "Green": 151,
+        "Red": 140
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 521,
+        "White": 485,
+        "Green": 456,
+        "Red": 423
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 165,
+        "White": 140,
+        "Green": 120,
+        "Red": 108
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 358,
+        "White": 325,
+        "Green": 310,
+        "Red": 305
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 511,
+        "White": 466,
+        "Green": 433,
+        "Red": 424
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 190,
+        "White": 150,
+        "Green": 117,
+        "Red": 117
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 358,
+        "White": 305,
+        "Green": 279,
+        "Red": 238
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 394,
+        "White": 362,
+        "Green": 349,
+        "Red": 322
+      }
+    }
+  ],
+  "version": 1
+}

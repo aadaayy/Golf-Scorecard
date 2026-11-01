@@ -1,0 +1,234 @@
+{
+  "id": "mallards-landing-golf-course-at-melbourne",
+  "name": "Mallards Landing Golf Course At Melbourne",
+  "town": "Melbourne, FL",
+  "location": {
+    "lat": 28.148007,
+    "lng": -80.668044
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 380,
+        "White": 351,
+        "Gold": 335,
+        "Red": 265
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 377,
+        "White": 331,
+        "Gold": 313,
+        "Red": 248
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 190,
+        "White": 178,
+        "Gold": 166,
+        "Red": 155
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 491,
+        "White": 451,
+        "Gold": 437,
+        "Red": 373
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 454,
+        "White": 416,
+        "Gold": 326,
+        "Red": 324
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 345,
+        "White": 320,
+        "Gold": 269,
+        "Red": 237
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 166,
+        "White": 155,
+        "Gold": 144,
+        "Red": 133
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 424,
+        "White": 401,
+        "Gold": 343,
+        "Red": 341
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 531,
+        "White": 474,
+        "Gold": 443,
+        "Red": 376
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 349,
+        "White": 294,
+        "Gold": 284,
+        "Red": 237
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 409,
+        "White": 370,
+        "Gold": 355,
+        "Red": 293
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 164,
+        "White": 148,
+        "Gold": 133,
+        "Red": 117
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 437,
+        "White": 401,
+        "Gold": 318,
+        "Red": 316
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 542,
+        "White": 499,
+        "Gold": 486,
+        "Red": 396
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 234,
+        "White": 206,
+        "Gold": 164,
+        "Red": 160
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 422,
+        "White": 388,
+        "Gold": 304,
+        "Red": 304
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 480,
+        "White": 452,
+        "Gold": 437,
+        "Red": 395
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 353,
+        "White": 323,
+        "Gold": 308,
+        "Red": 252
+      },
+      "map": "mallards-landing-golf-course-at-melbourne-18"
+    }
+  ],
+  "version": 1
+}

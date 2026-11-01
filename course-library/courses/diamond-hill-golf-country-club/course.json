@@ -1,0 +1,253 @@
+{
+  "id": "diamond-hill-golf-country-club",
+  "name": "Diamond Hill Golf Country Club",
+  "town": "Dover, FL",
+  "location": {
+    "lat": 27.964932,
+    "lng": -82.240662
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Yellow",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 352,
+        "Blue": 346,
+        "White": 329,
+        "Yellow": 308,
+        "Red": 282
+      },
+      "map": "diamond-hill-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 518,
+        "Blue": 503,
+        "White": 444,
+        "Yellow": 407,
+        "Red": 368
+      },
+      "map": "diamond-hill-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 215,
+        "Blue": 184,
+        "White": 172,
+        "Yellow": 159,
+        "Red": 108
+      },
+      "map": "diamond-hill-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 405,
+        "Blue": 395,
+        "White": 376,
+        "Yellow": 357,
+        "Red": 264
+      },
+      "map": "diamond-hill-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 413,
+        "Blue": 394,
+        "White": 365,
+        "Yellow": 336,
+        "Red": 304
+      },
+      "map": "diamond-hill-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 185,
+        "Blue": 176,
+        "White": 171,
+        "Yellow": 162,
+        "Red": 123
+      },
+      "map": "diamond-hill-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 415,
+        "Blue": 392,
+        "White": 361,
+        "Yellow": 329,
+        "Red": 226
+      },
+      "map": "diamond-hill-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 423,
+        "Blue": 393,
+        "White": 374,
+        "Yellow": 342,
+        "Red": 286
+      },
+      "map": "diamond-hill-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 625,
+        "Blue": 591,
+        "White": 573,
+        "Yellow": 543,
+        "Red": 468
+      },
+      "map": "diamond-hill-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 375,
+        "Blue": 352,
+        "White": 331,
+        "Yellow": 300,
+        "Red": 285
+      },
+      "map": "diamond-hill-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 387,
+        "Blue": 373,
+        "White": 370,
+        "Yellow": 321,
+        "Red": 262
+      },
+      "map": "diamond-hill-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 184,
+        "Blue": 154,
+        "White": 148,
+        "Yellow": 131,
+        "Red": 118
+      },
+      "map": "diamond-hill-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 578,
+        "Blue": 557,
+        "White": 543,
+        "Yellow": 522,
+        "Red": 444
+      },
+      "map": "diamond-hill-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 393,
+        "Blue": 379,
+        "White": 371,
+        "Yellow": 343,
+        "Red": 315
+      },
+      "map": "diamond-hill-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 184,
+        "Blue": 161,
+        "White": 158,
+        "Yellow": 127,
+        "Red": 119
+      },
+      "map": "diamond-hill-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 392,
+        "Blue": 389,
+        "White": 372,
+        "Yellow": 352,
+        "Red": 286
+      },
+      "map": "diamond-hill-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 541,
+        "Blue": 510,
+        "White": 487,
+        "Yellow": 449,
+        "Red": 383
+      },
+      "map": "diamond-hill-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 417,
+        "Blue": 396,
+        "White": 367,
+        "Yellow": 349,
+        "Red": 329
+      },
+      "map": "diamond-hill-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

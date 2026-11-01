@@ -1,0 +1,146 @@
+{
+  "id": "fox-run-course-at-glenview-champions-country-club",
+  "name": "Fox Run Course At Glenview Champions Country Club",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.949329,
+    "lng": -82.006792
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 384,
+        "Gold": 354,
+        "Blue": 338,
+        "White": 327,
+        "Green": 308,
+        "Friendly": 199
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 446,
+        "Gold": 426,
+        "Blue": 401,
+        "White": 366,
+        "Green": 309,
+        "Friendly": 233
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 533,
+        "Gold": 512,
+        "Blue": 488,
+        "White": 448,
+        "Green": 413,
+        "Friendly": 332
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 203,
+        "Gold": 172,
+        "Blue": 131,
+        "White": 100,
+        "Green": 68,
+        "Friendly": 68
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 433,
+        "Gold": 404,
+        "Blue": 371,
+        "White": 337,
+        "Green": 285,
+        "Friendly": 216
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 202,
+        "Gold": 174,
+        "Blue": 160,
+        "White": 141,
+        "Green": 119,
+        "Friendly": 100
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 584,
+        "Gold": 555,
+        "Blue": 534,
+        "White": 509,
+        "Green": 465,
+        "Friendly": 350
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 405,
+        "Gold": 375,
+        "Blue": 358,
+        "White": 307,
+        "Green": 282,
+        "Friendly": 282
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 388,
+        "Gold": 361,
+        "Blue": 340,
+        "White": 315,
+        "Green": 270,
+        "Friendly": 205
+      },
+      "map": "fox-run-course-at-glenview-champions-country-club-09"
+    }
+  ],
+  "version": 1
+}

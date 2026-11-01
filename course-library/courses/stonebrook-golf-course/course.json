@@ -1,0 +1,272 @@
+{
+  "id": "stonebrook-golf-course",
+  "name": "Stonebrook Golf Course",
+  "town": "Pace, FL",
+  "location": {
+    "lat": 30.641516,
+    "lng": -87.189796
+  },
+  "tees": [
+    "Tee 6",
+    "Tee 5",
+    "Tee 4",
+    "Tee 3",
+    "Tee 2",
+    "Tee 1"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tee 6": 401,
+        "Tee 5": 373,
+        "Tee 4": 357,
+        "Tee 3": 342,
+        "Tee 2": 296,
+        "Tee 1": 234
+      },
+      "map": "stonebrook-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Tee 6": 521,
+        "Tee 5": 504,
+        "Tee 4": 486,
+        "Tee 3": 421,
+        "Tee 2": 391,
+        "Tee 1": 335
+      },
+      "map": "stonebrook-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tee 6": 409,
+        "Tee 5": 381,
+        "Tee 4": 370,
+        "Tee 3": 342,
+        "Tee 2": 236,
+        "Tee 1": 218
+      },
+      "map": "stonebrook-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tee 6": 431,
+        "Tee 5": 419,
+        "Tee 4": 399,
+        "Tee 3": 384,
+        "Tee 2": 337,
+        "Tee 1": 263
+      },
+      "map": "stonebrook-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Tee 6": 202,
+        "Tee 5": 194,
+        "Tee 4": 175,
+        "Tee 3": 162,
+        "Tee 2": 135,
+        "Tee 1": 127
+      },
+      "map": "stonebrook-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Tee 6": 375,
+        "Tee 5": 337,
+        "Tee 4": 307,
+        "Tee 3": 288,
+        "Tee 2": 210,
+        "Tee 1": 170
+      },
+      "map": "stonebrook-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tee 6": 200,
+        "Tee 5": 187,
+        "Tee 4": 177,
+        "Tee 3": 155,
+        "Tee 2": 146,
+        "Tee 1": 100
+      },
+      "map": "stonebrook-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tee 6": 413,
+        "Tee 5": 386,
+        "Tee 4": 359,
+        "Tee 3": 315,
+        "Tee 2": 291,
+        "Tee 1": 227
+      },
+      "map": "stonebrook-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Tee 6": 544,
+        "Tee 5": 513,
+        "Tee 4": 485,
+        "Tee 3": 430,
+        "Tee 2": 384,
+        "Tee 1": 334
+      },
+      "map": "stonebrook-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Tee 6": 512,
+        "Tee 5": 493,
+        "Tee 4": 484,
+        "Tee 3": 471,
+        "Tee 2": 351,
+        "Tee 1": 315
+      },
+      "map": "stonebrook-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tee 6": 381,
+        "Tee 5": 367,
+        "Tee 4": 351,
+        "Tee 3": 301,
+        "Tee 2": 252,
+        "Tee 1": 186
+      },
+      "map": "stonebrook-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Tee 6": 190,
+        "Tee 5": 179,
+        "Tee 4": 165,
+        "Tee 3": 155,
+        "Tee 2": 128,
+        "Tee 1": 105
+      },
+      "map": "stonebrook-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Tee 6": 483,
+        "Tee 5": 472,
+        "Tee 4": 461,
+        "Tee 3": 439,
+        "Tee 2": 382,
+        "Tee 1": 320
+      },
+      "map": "stonebrook-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Tee 6": 368,
+        "Tee 5": 359,
+        "Tee 4": 351,
+        "Tee 3": 341,
+        "Tee 2": 302,
+        "Tee 1": 203
+      },
+      "map": "stonebrook-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tee 6": 163,
+        "Tee 5": 148,
+        "Tee 4": 140,
+        "Tee 3": 130,
+        "Tee 2": 105,
+        "Tee 1": 87
+      },
+      "map": "stonebrook-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Tee 6": 423,
+        "Tee 5": 416,
+        "Tee 4": 382,
+        "Tee 3": 328,
+        "Tee 2": 285,
+        "Tee 1": 224
+      },
+      "map": "stonebrook-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tee 6": 342,
+        "Tee 5": 334,
+        "Tee 4": 323,
+        "Tee 3": 290,
+        "Tee 2": 257,
+        "Tee 1": 200
+      },
+      "map": "stonebrook-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tee 6": 449,
+        "Tee 5": 416,
+        "Tee 4": 377,
+        "Tee 3": 352,
+        "Tee 2": 306,
+        "Tee 1": 230
+      },
+      "map": "stonebrook-golf-course-18"
+    }
+  ],
+  "version": 1
+}

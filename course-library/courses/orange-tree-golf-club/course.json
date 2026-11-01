@@ -1,0 +1,178 @@
+{
+  "id": "orange-tree-golf-club",
+  "name": "Orange Tree Golf Club",
+  "town": "Orlando, FL",
+  "location": {
+    "lat": 28.4681,
+    "lng": -81.485462
+  },
+  "tees": [
+    "Member",
+    "Ladies"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Member": 532,
+        "Ladies": 409
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Member": 464,
+        "Ladies": 375
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Member": 342,
+        "Ladies": 312
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Member": 379,
+        "Ladies": 305
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Member": 157,
+        "Ladies": 126
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Member": 362,
+        "Ladies": 319
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Member": 181,
+        "Ladies": 139
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Member": 356,
+        "Ladies": 311
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Member": 376,
+        "Ladies": 324
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Member": 474,
+        "Ladies": 411
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Member": 150,
+        "Ladies": 122
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Member": 370,
+        "Ladies": 294
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Member": 348,
+        "Ladies": 302
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Member": 353,
+        "Ladies": 293
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Member": 353,
+        "Ladies": 325
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Member": 522,
+        "Ladies": 428
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Member": 161,
+        "Ladies": 112
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Member": 380,
+        "Ladies": 303
+      }
+    }
+  ],
+  "version": 1
+}

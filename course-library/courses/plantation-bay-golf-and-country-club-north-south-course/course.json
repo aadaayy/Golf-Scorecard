@@ -1,0 +1,254 @@
+{
+  "id": "plantation-bay-golf-and-country-club-north-south-course",
+  "name": "Plantation Bay Golf And Country Club North South Course",
+  "town": "Ormond Beach, FL",
+  "location": {
+    "lat": 29.401611,
+    "lng": -81.158443
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 525,
+        "Web": 518,
+        "Blue": 495,
+        "White": 486,
+        "Gold": 408,
+        "Red": 402
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 413,
+        "Web": 406,
+        "Blue": 381,
+        "White": 361,
+        "Gold": 333,
+        "Red": 311
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 367,
+        "Web": 362,
+        "Blue": 336,
+        "White": 302,
+        "Gold": 260,
+        "Red": 211
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 211,
+        "Web": 199,
+        "Blue": 163,
+        "White": 136,
+        "Gold": 126,
+        "Red": 110
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 459,
+        "Web": 457,
+        "Blue": 390,
+        "White": 365,
+        "Gold": 285,
+        "Red": 280
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 218,
+        "Web": 213,
+        "Blue": 166,
+        "White": 120,
+        "Gold": 115,
+        "Red": 107
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 411,
+        "Web": 404,
+        "Blue": 355,
+        "White": 354,
+        "Gold": 335,
+        "Red": 276
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 527,
+        "Web": 517,
+        "Blue": 475,
+        "White": 470,
+        "Gold": 458,
+        "Red": 400
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 409,
+        "Web": 409,
+        "Blue": 392,
+        "White": 370,
+        "Gold": 338,
+        "Red": 327
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 575,
+        "Web": 532,
+        "Blue": 495,
+        "White": 480,
+        "Gold": 419,
+        "Red": 402
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 472,
+        "Web": 463,
+        "Blue": 396,
+        "White": 359,
+        "Gold": 338,
+        "Red": 330
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 371,
+        "Web": 371,
+        "Blue": 358,
+        "White": 340,
+        "Gold": 322,
+        "Red": 294
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 239,
+        "Web": 233,
+        "Blue": 191,
+        "White": 184,
+        "Gold": 140,
+        "Red": 118
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 530,
+        "Web": 506,
+        "Blue": 484,
+        "White": 479,
+        "Gold": 420,
+        "Red": 408
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 365,
+        "Web": 351,
+        "Blue": 346,
+        "White": 346,
+        "Gold": 300,
+        "Red": 286
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 184,
+        "Web": 181,
+        "Blue": 156,
+        "White": 143,
+        "Gold": 138,
+        "Red": 129
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 435,
+        "Web": 434,
+        "Blue": 399,
+        "White": 389,
+        "Gold": 287,
+        "Red": 252
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 492,
+        "Web": 489,
+        "Blue": 424,
+        "White": 419,
+        "Gold": 383,
+        "Red": 329
+      }
+    }
+  ],
+  "version": 1
+}

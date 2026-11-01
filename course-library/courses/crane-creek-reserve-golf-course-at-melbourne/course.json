@@ -1,0 +1,234 @@
+{
+  "id": "crane-creek-reserve-golf-course-at-melbourne",
+  "name": "Crane Creek Reserve Golf Course At Melbourne",
+  "town": "Melbourne, FL",
+  "location": {
+    "lat": 28.075676,
+    "lng": -80.630098
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 331,
+        "Web": 331,
+        "White": 314,
+        "Red": 271
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 342,
+        "Web": 342,
+        "White": 318,
+        "Red": 281
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 134,
+        "Web": 134,
+        "White": 103,
+        "Red": 85
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 470,
+        "Web": 470,
+        "White": 445,
+        "Red": 383
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 191,
+        "Web": 191,
+        "White": 165,
+        "Red": 126
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 298,
+        "Web": 298,
+        "White": 282,
+        "Red": 239
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 323,
+        "Web": 323,
+        "White": 300,
+        "Red": 273
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 368,
+        "Web": 368,
+        "White": 335,
+        "Red": 303
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 480,
+        "Web": 480,
+        "White": 426,
+        "Red": 404
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 318,
+        "Web": 318,
+        "White": 290,
+        "Red": 250
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 377,
+        "Web": 377,
+        "White": 351,
+        "Red": 307
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 374,
+        "Web": 374,
+        "White": 334,
+        "Red": 286
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 164,
+        "Web": 164,
+        "White": 124,
+        "Red": 100
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 377,
+        "Web": 377,
+        "White": 329,
+        "Red": 270
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 180,
+        "Web": 180,
+        "White": 152,
+        "Red": 102
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 336,
+        "Web": 336,
+        "White": 308,
+        "Red": 289
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 474,
+        "Web": 474,
+        "White": 448,
+        "Red": 409
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 349,
+        "Web": 349,
+        "White": 320,
+        "Red": 278
+      },
+      "map": "crane-creek-reserve-golf-course-at-melbourne-18"
+    }
+  ],
+  "version": 1
+}

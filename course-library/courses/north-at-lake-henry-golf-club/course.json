@@ -1,0 +1,178 @@
+{
+  "id": "north-at-lake-henry-golf-club",
+  "name": "North At Lake Henry Golf Club",
+  "town": "Winter Haven, FL",
+  "location": {
+    "lat": 28.096203,
+    "lng": -81.682542
+  },
+  "tees": [
+    "Ladies",
+    "Mens"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Ladies": 90,
+        "Mens": 90
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Ladies": 200,
+        "Mens": 200
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Ladies": 142,
+        "Mens": 142
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Ladies": 126,
+        "Mens": 126
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Ladies": 73,
+        "Mens": 73
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Ladies": 123,
+        "Mens": 123
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Ladies": 274,
+        "Mens": 274
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Ladies": 148,
+        "Mens": 148
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Ladies": 229,
+        "Mens": 229
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Ladies": 130,
+        "Mens": 130
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Ladies": 101,
+        "Mens": 101
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Ladies": 216,
+        "Mens": 216
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Ladies": 94,
+        "Mens": 94
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Ladies": 118,
+        "Mens": 118
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Ladies": 206,
+        "Mens": 206
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Ladies": 122,
+        "Mens": 122
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Ladies": 231,
+        "Mens": 231
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Ladies": 158,
+        "Mens": 158
+      }
+    }
+  ],
+  "version": 1
+}

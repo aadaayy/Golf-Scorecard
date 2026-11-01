@@ -1,0 +1,216 @@
+{
+  "id": "lake-nona-golf-country-club",
+  "name": "Lake Nona Golf Country Club",
+  "town": "Orlando, FL",
+  "location": {
+    "lat": 28.414959,
+    "lng": -81.262085
+  },
+  "tees": [
+    "Black",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 424,
+        "White": 351,
+        "Gold": 347,
+        "Red": 322
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 563,
+        "White": 508,
+        "Gold": 491,
+        "Red": 451
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 451,
+        "White": 389,
+        "Gold": 374,
+        "Red": 336
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 198,
+        "White": 149,
+        "Gold": 136,
+        "Red": 95
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 359,
+        "White": 327,
+        "Gold": 300,
+        "Red": 253
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 209,
+        "White": 160,
+        "Gold": 147,
+        "Red": 105
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 442,
+        "White": 397,
+        "Gold": 351,
+        "Red": 316
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 427,
+        "White": 378,
+        "Gold": 362,
+        "Red": 327
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 534,
+        "White": 499,
+        "Gold": 485,
+        "Red": 441
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 441,
+        "White": 403,
+        "Gold": 385,
+        "Red": 367
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Black": 582,
+        "White": 517,
+        "Gold": 500,
+        "Red": 424
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 418,
+        "White": 392,
+        "Gold": 376,
+        "Red": 342
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 157,
+        "White": 145,
+        "Gold": 115,
+        "Red": 115
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Black": 318,
+        "White": 294,
+        "Gold": 283,
+        "Red": 240
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 578,
+        "White": 514,
+        "Gold": 495,
+        "Red": 441
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 461,
+        "White": 393,
+        "Gold": 383,
+        "Red": 360
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 198,
+        "White": 162,
+        "Gold": 148,
+        "Red": 123
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 440,
+        "White": 393,
+        "Gold": 345,
+        "Red": 311
+      }
+    }
+  ],
+  "version": 1
+}

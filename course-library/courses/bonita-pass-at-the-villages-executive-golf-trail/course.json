@@ -1,0 +1,126 @@
+{
+  "id": "bonita-pass-at-the-villages-executive-golf-trail",
+  "name": "Bonita Pass At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.886344,
+    "lng": -82.011064
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 125,
+        "Web": 125,
+        "White": 111,
+        "Red": 85
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 167,
+        "Web": 167,
+        "White": 141,
+        "Red": 126
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 154,
+        "Web": 154,
+        "White": 143,
+        "Red": 133
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 176,
+        "Web": 176,
+        "White": 153,
+        "Red": 122
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 173,
+        "Web": 173,
+        "White": 155,
+        "Red": 131
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 157,
+        "Web": 157,
+        "White": 142,
+        "Red": 117
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 141,
+        "Web": 141,
+        "White": 122,
+        "Red": 100
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 175,
+        "Web": 175,
+        "White": 150,
+        "Red": 127
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 139,
+        "Web": 139,
+        "White": 120,
+        "Red": 90
+      },
+      "map": "bonita-pass-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

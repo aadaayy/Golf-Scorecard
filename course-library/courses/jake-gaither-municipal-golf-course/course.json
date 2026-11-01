@@ -1,0 +1,117 @@
+{
+  "id": "jake-gaither-municipal-golf-course",
+  "name": "Jake Gaither Municipal Golf Course",
+  "town": "Tallahassee, FL",
+  "location": {
+    "lat": 30.401504,
+    "lng": -84.295006
+  },
+  "tees": [
+    "Blue",
+    "Web",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 400,
+        "Web": 393,
+        "White": 354,
+        "Red": 314
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 503,
+        "Web": 505,
+        "White": 450,
+        "Red": 392
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 320,
+        "Web": 314,
+        "White": 295,
+        "Red": 250
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 380,
+        "Web": 372,
+        "White": 357,
+        "Red": 275
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 138,
+        "Web": 131,
+        "White": 126,
+        "Red": 113
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 600,
+        "Web": 598,
+        "White": 552,
+        "Red": 495
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 275,
+        "Web": 269,
+        "White": 267,
+        "Red": 247
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 188,
+        "Web": 189,
+        "White": 155,
+        "Red": 118
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 305,
+        "Web": 301,
+        "White": 293,
+        "Red": 271
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,116 @@
+{
+  "id": "redfish-run-at-the-villages-executive-golf-trail",
+  "name": "Redfish Run At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.886559,
+    "lng": -82.013007
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 160,
+        "White": 142,
+        "Green": 110
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 160,
+        "White": 135,
+        "Green": 110
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 108,
+        "White": 88,
+        "Green": 75
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 187,
+        "White": 147,
+        "Green": 82
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 403,
+        "White": 363,
+        "Green": 325
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 132,
+        "White": 100,
+        "Green": 74
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 170,
+        "White": 145,
+        "Green": 120
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 148,
+        "White": 115,
+        "Green": 75
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 164,
+        "White": 154,
+        "Green": 139
+      },
+      "map": "redfish-run-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,234 @@
+{
+  "id": "gator-lakes-golf-course",
+  "name": "Gator Lakes Golf Course",
+  "town": "Hurlburt Field, FL",
+  "location": {
+    "lat": 30.436196,
+    "lng": -86.684905
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 396,
+        "White": 358,
+        "Gold": 305,
+        "Red": 290
+      },
+      "map": "gator-lakes-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 179,
+        "White": 148,
+        "Gold": 127,
+        "Red": 114
+      },
+      "map": "gator-lakes-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 510,
+        "White": 478,
+        "Gold": 420,
+        "Red": 385
+      },
+      "map": "gator-lakes-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 378,
+        "White": 330,
+        "Gold": 251,
+        "Red": 238
+      },
+      "map": "gator-lakes-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 564,
+        "White": 499,
+        "Gold": 417,
+        "Red": 392
+      },
+      "map": "gator-lakes-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 407,
+        "White": 374,
+        "Gold": 308,
+        "Red": 275
+      },
+      "map": "gator-lakes-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 200,
+        "White": 172,
+        "Gold": 120,
+        "Red": 98
+      },
+      "map": "gator-lakes-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 374,
+        "White": 344,
+        "Gold": 274,
+        "Red": 258
+      },
+      "map": "gator-lakes-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 399,
+        "White": 374,
+        "Gold": 294,
+        "Red": 277
+      },
+      "map": "gator-lakes-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 543,
+        "White": 500,
+        "Gold": 399,
+        "Red": 373
+      },
+      "map": "gator-lakes-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 433,
+        "White": 377,
+        "Gold": 303,
+        "Red": 292
+      },
+      "map": "gator-lakes-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 401,
+        "White": 358,
+        "Gold": 299,
+        "Red": 270
+      },
+      "map": "gator-lakes-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 367,
+        "White": 326,
+        "Gold": 288,
+        "Red": 248
+      },
+      "map": "gator-lakes-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 184,
+        "White": 143,
+        "Gold": 128,
+        "Red": 98
+      },
+      "map": "gator-lakes-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 394,
+        "White": 356,
+        "Gold": 323,
+        "Red": 286
+      },
+      "map": "gator-lakes-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 533,
+        "White": 506,
+        "Gold": 429,
+        "Red": 387
+      },
+      "map": "gator-lakes-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 175,
+        "White": 160,
+        "Gold": 107,
+        "Red": 93
+      },
+      "map": "gator-lakes-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 402,
+        "White": 360,
+        "Gold": 295,
+        "Red": 278
+      },
+      "map": "gator-lakes-golf-course-18"
+    }
+  ],
+  "version": 1
+}

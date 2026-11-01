@@ -1,0 +1,253 @@
+{
+  "id": "eagle-creek-golf-club",
+  "name": "Eagle Creek Golf Club",
+  "town": "Lake Hart, FL",
+  "location": {
+    "lat": 28.370014,
+    "lng": -81.237499
+  },
+  "tees": [
+    "Black",
+    "White",
+    "Yellow",
+    "Blue",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 361,
+        "White": 348,
+        "Yellow": 313,
+        "Blue": 291,
+        "Red": 268
+      },
+      "map": "eagle-creek-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 347,
+        "White": 330,
+        "Yellow": 308,
+        "Blue": 296,
+        "Red": 265
+      },
+      "map": "eagle-creek-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 396,
+        "White": 371,
+        "Yellow": 337,
+        "Blue": 296,
+        "Red": 258
+      },
+      "map": "eagle-creek-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 570,
+        "White": 563,
+        "Yellow": 512,
+        "Blue": 480,
+        "Red": 445
+      },
+      "map": "eagle-creek-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 203,
+        "White": 195,
+        "Yellow": 181,
+        "Blue": 165,
+        "Red": 149
+      },
+      "map": "eagle-creek-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 444,
+        "White": 419,
+        "Yellow": 393,
+        "Blue": 364,
+        "Red": 324
+      },
+      "map": "eagle-creek-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 415,
+        "White": 394,
+        "Yellow": 365,
+        "Blue": 337,
+        "Red": 301
+      },
+      "map": "eagle-creek-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 201,
+        "White": 182,
+        "Yellow": 171,
+        "Blue": 146,
+        "Red": 119
+      },
+      "map": "eagle-creek-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 528,
+        "White": 502,
+        "Yellow": 479,
+        "Blue": 451,
+        "Red": 406
+      },
+      "map": "eagle-creek-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 414,
+        "White": 391,
+        "Yellow": 362,
+        "Blue": 335,
+        "Red": 308
+      },
+      "map": "eagle-creek-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 215,
+        "White": 201,
+        "Yellow": 182,
+        "Blue": 160,
+        "Red": 138
+      },
+      "map": "eagle-creek-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 436,
+        "White": 405,
+        "Yellow": 374,
+        "Blue": 339,
+        "Red": 311
+      },
+      "map": "eagle-creek-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 545,
+        "White": 515,
+        "Yellow": 483,
+        "Blue": 456,
+        "Red": 421
+      },
+      "map": "eagle-creek-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 388,
+        "White": 377,
+        "Yellow": 355,
+        "Blue": 328,
+        "Red": 295
+      },
+      "map": "eagle-creek-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 425,
+        "White": 405,
+        "Yellow": 380,
+        "Blue": 350,
+        "Red": 318
+      },
+      "map": "eagle-creek-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 572,
+        "White": 540,
+        "Yellow": 512,
+        "Blue": 470,
+        "Red": 429
+      },
+      "map": "eagle-creek-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 196,
+        "White": 183,
+        "Yellow": 166,
+        "Blue": 149,
+        "Red": 128
+      },
+      "map": "eagle-creek-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 540,
+        "White": 520,
+        "Yellow": 489,
+        "Blue": 462,
+        "Red": 422
+      },
+      "map": "eagle-creek-golf-club-18"
+    }
+  ],
+  "version": 1
+}

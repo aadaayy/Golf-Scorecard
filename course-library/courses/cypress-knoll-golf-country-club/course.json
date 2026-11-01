@@ -1,0 +1,253 @@
+{
+  "id": "cypress-knoll-golf-country-club",
+  "name": "Cypress Knoll Golf Country Club",
+  "town": "Palm Coast, FL",
+  "location": {
+    "lat": 29.487803,
+    "lng": -81.233619
+  },
+  "tees": [
+    "Web",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Web": 550,
+        "Blue": 451,
+        "White": 445,
+        "Gold": 406,
+        "Red": 364
+      },
+      "map": "cypress-knoll-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Web": 385,
+        "Blue": 207,
+        "White": 171,
+        "Gold": 164,
+        "Red": 143
+      },
+      "map": "cypress-knoll-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Web": 406,
+        "Blue": 390,
+        "White": 355,
+        "Gold": 319,
+        "Red": 295
+      },
+      "map": "cypress-knoll-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Web": 343,
+        "Blue": 373,
+        "White": 350,
+        "Gold": 334,
+        "Red": 321
+      },
+      "map": "cypress-knoll-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Web": 191,
+        "Blue": 173,
+        "White": 142,
+        "Gold": 111,
+        "Red": 103
+      },
+      "map": "cypress-knoll-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Web": 364,
+        "Blue": 354,
+        "White": 333,
+        "Gold": 309,
+        "Red": 255
+      },
+      "map": "cypress-knoll-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Web": 508,
+        "Blue": 515,
+        "White": 482,
+        "Gold": 447,
+        "Red": 410
+      },
+      "map": "cypress-knoll-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 449,
+        "Blue": 375,
+        "White": 354,
+        "Gold": 317,
+        "Red": 263
+      },
+      "map": "cypress-knoll-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Web": 184,
+        "Blue": 395,
+        "White": 373,
+        "Gold": 318,
+        "Red": 282
+      },
+      "map": "cypress-knoll-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Web": 448,
+        "Blue": 541,
+        "White": 518,
+        "Gold": 464,
+        "Red": 382
+      },
+      "map": "cypress-knoll-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Web": 207,
+        "Blue": 356,
+        "White": 324,
+        "Gold": 275,
+        "Red": 265
+      },
+      "map": "cypress-knoll-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Web": 456,
+        "Blue": 402,
+        "White": 368,
+        "Gold": 326,
+        "Red": 254
+      },
+      "map": "cypress-knoll-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Web": 379,
+        "Blue": 349,
+        "White": 324,
+        "Gold": 300,
+        "Red": 196
+      },
+      "map": "cypress-knoll-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Web": 173,
+        "Blue": 191,
+        "White": 163,
+        "Gold": 139,
+        "Red": 129
+      },
+      "map": "cypress-knoll-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 354,
+        "Blue": 360,
+        "White": 340,
+        "Gold": 334,
+        "Red": 288
+      },
+      "map": "cypress-knoll-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Web": 507,
+        "Blue": 496,
+        "White": 466,
+        "Gold": 440,
+        "Red": 383
+      },
+      "map": "cypress-knoll-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Web": 375,
+        "Blue": 422,
+        "White": 395,
+        "Gold": 367,
+        "Red": 340
+      },
+      "map": "cypress-knoll-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Web": 395,
+        "Blue": 182,
+        "White": 161,
+        "Gold": 138,
+        "Red": 113
+      },
+      "map": "cypress-knoll-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

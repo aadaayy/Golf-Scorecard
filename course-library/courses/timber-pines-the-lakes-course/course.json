@@ -1,0 +1,197 @@
+{
+  "id": "timber-pines-the-lakes-course",
+  "name": "Timber Pines The Lakes Course",
+  "town": "Spring Hill, FL",
+  "location": {
+    "lat": 28.466838,
+    "lng": -82.608784
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 274,
+        "White": 243,
+        "Red": 215
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 185,
+        "White": 164,
+        "Red": 127
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 160,
+        "White": 144,
+        "Red": 128
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 228,
+        "White": 212,
+        "Red": 169
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 183,
+        "White": 169,
+        "Red": 133
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 138,
+        "White": 120,
+        "Red": 101
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 142,
+        "White": 129,
+        "Red": 101
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 156,
+        "White": 109,
+        "Red": 87
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 165,
+        "White": 143,
+        "Red": 113
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 311,
+        "White": 265,
+        "Red": 216
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 175,
+        "White": 149,
+        "Red": 113
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 122,
+        "White": 115,
+        "Red": 96
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 179,
+        "White": 146,
+        "Red": 88
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 178,
+        "White": 158,
+        "Red": 128
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 318,
+        "White": 284,
+        "Red": 257
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 144,
+        "White": 134,
+        "Red": 80
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 227,
+        "White": 198,
+        "Red": 179
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 317,
+        "White": 294,
+        "Red": 239
+      }
+    }
+  ],
+  "version": 1
+}

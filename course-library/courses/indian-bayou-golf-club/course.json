@@ -1,0 +1,234 @@
+{
+  "id": "indian-bayou-golf-club",
+  "name": "Indian Bayou Golf Club",
+  "town": "Destin, FL",
+  "location": {
+    "lat": 30.394801,
+    "lng": -86.45935
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 399,
+        "Blue": 362,
+        "White": 329,
+        "Red": 304
+      },
+      "map": "indian-bayou-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 397,
+        "Blue": 355,
+        "White": 321,
+        "Red": 282
+      },
+      "map": "indian-bayou-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 457,
+        "Blue": 422,
+        "White": 392,
+        "Red": 321
+      },
+      "map": "indian-bayou-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 424,
+        "Blue": 391,
+        "White": 372,
+        "Red": 323
+      },
+      "map": "indian-bayou-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 524,
+        "Blue": 488,
+        "White": 461,
+        "Red": 402
+      },
+      "map": "indian-bayou-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Gold": 213,
+        "Blue": 182,
+        "White": 149,
+        "Red": 118
+      },
+      "map": "indian-bayou-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 459,
+        "Blue": 435,
+        "White": 407,
+        "Red": 337
+      },
+      "map": "indian-bayou-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 199,
+        "Blue": 173,
+        "White": 153,
+        "Red": 132
+      },
+      "map": "indian-bayou-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Gold": 542,
+        "Blue": 489,
+        "White": 469,
+        "Red": 431
+      },
+      "map": "indian-bayou-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 387,
+        "Blue": 355,
+        "White": 315,
+        "Red": 286
+      },
+      "map": "indian-bayou-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Gold": 352,
+        "Blue": 320,
+        "White": 297,
+        "Red": 269
+      },
+      "map": "indian-bayou-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 552,
+        "Blue": 520,
+        "White": 496,
+        "Red": 460
+      },
+      "map": "indian-bayou-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 187,
+        "Blue": 162,
+        "White": 140,
+        "Red": 109
+      },
+      "map": "indian-bayou-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 411,
+        "Blue": 382,
+        "White": 366,
+        "Red": 311
+      },
+      "map": "indian-bayou-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 363,
+        "Blue": 324,
+        "White": 309,
+        "Red": 273
+      },
+      "map": "indian-bayou-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 443,
+        "Blue": 405,
+        "White": 371,
+        "Red": 317
+      },
+      "map": "indian-bayou-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 216,
+        "Blue": 174,
+        "White": 150,
+        "Red": 119
+      },
+      "map": "indian-bayou-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 553,
+        "Blue": 490,
+        "White": 459,
+        "Red": 432
+      },
+      "map": "indian-bayou-golf-club-18"
+    }
+  ],
+  "version": 1
+}

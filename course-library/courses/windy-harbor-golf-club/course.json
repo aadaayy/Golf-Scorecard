@@ -1,0 +1,216 @@
+{
+  "id": "windy-harbor-golf-club",
+  "name": "Windy Harbor Golf Club",
+  "town": "Jacksonville, FL",
+  "location": {
+    "lat": 30.386045,
+    "lng": -81.411749
+  },
+  "tees": [
+    "Blue",
+    "Green",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 347,
+        "Green": 326,
+        "White": 312,
+        "Red": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 382,
+        "Green": 358,
+        "White": 337,
+        "Red": 298
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Blue": 547,
+        "Green": 477,
+        "White": 444,
+        "Red": 436
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Blue": 493,
+        "Green": 469,
+        "White": 455,
+        "Red": 406
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 181,
+        "Green": 166,
+        "White": 149,
+        "Red": 119
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 298,
+        "Green": 275,
+        "White": 265,
+        "Red": 238
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 145,
+        "Green": 135,
+        "White": 122,
+        "Red": 111
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 348,
+        "Green": 332,
+        "White": 319,
+        "Red": 295
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 354,
+        "Green": 329,
+        "White": 316,
+        "Red": 257
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 350,
+        "Green": 337,
+        "White": 327,
+        "Red": 294
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 437,
+        "Green": 421,
+        "White": 407,
+        "Red": 350
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 510,
+        "Green": 488,
+        "White": 478,
+        "Red": 439
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 362,
+        "Green": 341,
+        "White": 319,
+        "Red": 298
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 174,
+        "Green": 155,
+        "White": 121,
+        "Red": 117
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 368,
+        "Green": 348,
+        "White": 334,
+        "Red": 308
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 425,
+        "Green": 399,
+        "White": 355,
+        "Red": 355
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 213,
+        "Green": 196,
+        "White": 179,
+        "Red": 146
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 532,
+        "Green": 512,
+        "White": 462,
+        "Red": 457
+      }
+    }
+  ],
+  "version": 1
+}

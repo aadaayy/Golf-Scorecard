@@ -1,0 +1,272 @@
+{
+  "id": "black-bear-golf-club",
+  "name": "Black Bear Golf Club",
+  "town": "Eustis, FL",
+  "location": {
+    "lat": 28.884615,
+    "lng": -81.548878
+  },
+  "tees": [
+    "Championship",
+    "Black",
+    "White",
+    "Yellow",
+    "Green",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Championship": 405,
+        "Black": 346,
+        "White": 338,
+        "Yellow": 310,
+        "Green": 305,
+        "Red": 230
+      },
+      "map": "black-bear-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Championship": 534,
+        "Black": 489,
+        "White": 462,
+        "Yellow": 414,
+        "Green": 409,
+        "Red": 302
+      },
+      "map": "black-bear-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 189,
+        "Black": 159,
+        "White": 147,
+        "Yellow": 135,
+        "Green": 130,
+        "Red": 87
+      },
+      "map": "black-bear-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Championship": 548,
+        "Black": 525,
+        "White": 510,
+        "Yellow": 463,
+        "Green": 458,
+        "Red": 354
+      },
+      "map": "black-bear-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Championship": 197,
+        "Black": 177,
+        "White": 167,
+        "Yellow": 150,
+        "Green": 97,
+        "Red": 97
+      },
+      "map": "black-bear-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 378,
+        "Black": 358,
+        "White": 341,
+        "Yellow": 311,
+        "Green": 276,
+        "Red": 229
+      },
+      "map": "black-bear-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 402,
+        "Black": 355,
+        "White": 337,
+        "Yellow": 309,
+        "Green": 299,
+        "Red": 216
+      },
+      "map": "black-bear-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Championship": 394,
+        "Black": 367,
+        "White": 327,
+        "Yellow": 270,
+        "Green": 263,
+        "Red": 226
+      },
+      "map": "black-bear-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship": 428,
+        "Black": 395,
+        "White": 388,
+        "Yellow": 371,
+        "Green": 299,
+        "Red": 243
+      },
+      "map": "black-bear-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 420,
+        "Black": 394,
+        "White": 364,
+        "Yellow": 348,
+        "Green": 318,
+        "Red": 243
+      },
+      "map": "black-bear-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Championship": 222,
+        "Black": 192,
+        "White": 184,
+        "Yellow": 167,
+        "Green": 147,
+        "Red": 112
+      },
+      "map": "black-bear-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 414,
+        "Black": 372,
+        "White": 362,
+        "Yellow": 311,
+        "Green": 306,
+        "Red": 226
+      },
+      "map": "black-bear-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Championship": 400,
+        "Black": 370,
+        "White": 336,
+        "Yellow": 302,
+        "Green": 297,
+        "Red": 232
+      },
+      "map": "black-bear-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Championship": 568,
+        "Black": 544,
+        "White": 469,
+        "Yellow": 383,
+        "Green": 370,
+        "Red": 305
+      },
+      "map": "black-bear-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 141,
+        "Black": 131,
+        "White": 118,
+        "Yellow": 91,
+        "Green": 86,
+        "Red": 86
+      },
+      "map": "black-bear-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Championship": 512,
+        "Black": 472,
+        "White": 454,
+        "Yellow": 392,
+        "Green": 387,
+        "Red": 290
+      },
+      "map": "black-bear-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 456,
+        "Black": 414,
+        "White": 373,
+        "Yellow": 329,
+        "Green": 257,
+        "Red": 195
+      },
+      "map": "black-bear-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 433,
+        "Black": 393,
+        "White": 348,
+        "Yellow": 288,
+        "Green": 238,
+        "Red": 238
+      },
+      "map": "black-bear-golf-club-18"
+    }
+  ],
+  "version": 1
+}

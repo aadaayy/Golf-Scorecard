@@ -1,0 +1,254 @@
+{
+  "id": "eagle-harbor-golf-club",
+  "name": "Eagle Harbor Golf Club",
+  "town": "Fleming Island, FL",
+  "location": {
+    "lat": 30.111407,
+    "lng": -81.72931
+  },
+  "tees": [
+    "IV",
+    "Iii/Iv",
+    "III/IV",
+    "Ii/Iii",
+    "II/III",
+    "I/II"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "IV": 377,
+        "Iii/Iv": 377,
+        "III/IV": 352,
+        "Ii/Iii": 352,
+        "II/III": 322,
+        "I/II": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "IV": 518,
+        "Iii/Iv": 493,
+        "III/IV": 493,
+        "Ii/Iii": 493,
+        "II/III": 472,
+        "I/II": 412
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "IV": 358,
+        "Iii/Iv": 358,
+        "III/IV": 348,
+        "Ii/Iii": 348,
+        "II/III": 327,
+        "I/II": 280
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "IV": 167,
+        "Iii/Iv": 167,
+        "III/IV": 150,
+        "Ii/Iii": 150,
+        "II/III": 135,
+        "I/II": 117
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "IV": 417,
+        "Iii/Iv": 417,
+        "III/IV": 402,
+        "Ii/Iii": 382,
+        "II/III": 337,
+        "I/II": 292
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "IV": 202,
+        "Iii/Iv": 186,
+        "III/IV": 186,
+        "Ii/Iii": 167,
+        "II/III": 167,
+        "I/II": 136
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "IV": 420,
+        "Iii/Iv": 368,
+        "III/IV": 368,
+        "Ii/Iii": 368,
+        "II/III": 340,
+        "I/II": 266
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "IV": 420,
+        "Iii/Iv": 380,
+        "III/IV": 380,
+        "Ii/Iii": 345,
+        "II/III": 345,
+        "I/II": 307
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "IV": 554,
+        "Iii/Iv": 554,
+        "III/IV": 523,
+        "Ii/Iii": 490,
+        "II/III": 490,
+        "I/II": 438
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "IV": 432,
+        "Iii/Iv": 393,
+        "III/IV": 393,
+        "Ii/Iii": 393,
+        "II/III": 345,
+        "I/II": 285
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "IV": 385,
+        "Iii/Iv": 385,
+        "III/IV": 355,
+        "Ii/Iii": 355,
+        "II/III": 327,
+        "I/II": 283
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "IV": 515,
+        "Iii/Iv": 515,
+        "III/IV": 497,
+        "Ii/Iii": 497,
+        "II/III": 472,
+        "I/II": 420
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "IV": 178,
+        "Iii/Iv": 165,
+        "III/IV": 165,
+        "Ii/Iii": 165,
+        "II/III": 150,
+        "I/II": 115
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "IV": 415,
+        "Iii/Iv": 395,
+        "III/IV": 395,
+        "Ii/Iii": 358,
+        "II/III": 358,
+        "I/II": 303
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "IV": 165,
+        "Iii/Iv": 165,
+        "III/IV": 152,
+        "Ii/Iii": 152,
+        "II/III": 143,
+        "I/II": 87
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "IV": 552,
+        "Iii/Iv": 527,
+        "III/IV": 527,
+        "Ii/Iii": 502,
+        "II/III": 502,
+        "I/II": 433
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "IV": 372,
+        "Iii/Iv": 372,
+        "III/IV": 366,
+        "Ii/Iii": 313,
+        "II/III": 313,
+        "I/II": 268
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "IV": 393,
+        "Iii/Iv": 393,
+        "III/IV": 380,
+        "Ii/Iii": 325,
+        "II/III": 325,
+        "I/II": 258
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,216 @@
+{
+  "id": "the-reserve-at-orange-lake-resort",
+  "name": "The Reserve At Orange Lake Resort",
+  "town": "Kissimmee, FL",
+  "location": {
+    "lat": 28.368892,
+    "lng": -81.60375
+  },
+  "tees": [
+    "Green",
+    "Blue",
+    "White",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Green": 309,
+        "Blue": 299,
+        "White": 269,
+        "Yellow": 213
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Green": 356,
+        "Blue": 342,
+        "White": 337,
+        "Yellow": 274
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Green": 131,
+        "Blue": 110,
+        "White": 102,
+        "Yellow": 85
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Green": 512,
+        "Blue": 507,
+        "White": 498,
+        "Yellow": 412
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Green": 209,
+        "Blue": 178,
+        "White": 152,
+        "Yellow": 126
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Green": 414,
+        "Blue": 400,
+        "White": 388,
+        "Yellow": 247
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 337,
+        "Blue": 324,
+        "White": 318,
+        "Yellow": 271
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Green": 377,
+        "Blue": 345,
+        "White": 336,
+        "Yellow": 311
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Green": 358,
+        "Blue": 346,
+        "White": 338,
+        "Yellow": 281
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Green": 460,
+        "Blue": 456,
+        "White": 452,
+        "Yellow": 339
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Green": 328,
+        "Blue": 325,
+        "White": 317,
+        "Yellow": 273
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Green": 150,
+        "Blue": 126,
+        "White": 122,
+        "Yellow": 92
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Green": 367,
+        "Blue": 351,
+        "White": 342,
+        "Yellow": 231
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Green": 218,
+        "Blue": 200,
+        "White": 196,
+        "Yellow": 175
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Green": 549,
+        "Blue": 543,
+        "White": 540,
+        "Yellow": 449
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Green": 360,
+        "Blue": 342,
+        "White": 324,
+        "Yellow": 283
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Green": 432,
+        "Blue": 395,
+        "White": 387,
+        "Yellow": 334
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Green": 374,
+        "Blue": 352,
+        "White": 346,
+        "Yellow": 302
+      }
+    }
+  ],
+  "version": 1
+}

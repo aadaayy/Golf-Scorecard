@@ -1,0 +1,234 @@
+{
+  "id": "falcons-fire-golf-club",
+  "name": "Falcons Fire Golf Club",
+  "town": "Kissimmee, FL",
+  "location": {
+    "lat": 28.343781,
+    "lng": -81.504288
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 399,
+        "Blue": 374,
+        "White": 347,
+        "Red": 323
+      },
+      "map": "falcons-fire-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 357,
+        "Blue": 340,
+        "White": 330,
+        "Red": 313
+      },
+      "map": "falcons-fire-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 199,
+        "Blue": 146,
+        "White": 140,
+        "Red": 115
+      },
+      "map": "falcons-fire-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Gold": 481,
+        "Blue": 462,
+        "White": 440,
+        "Red": 386
+      },
+      "map": "falcons-fire-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 447,
+        "Blue": 425,
+        "White": 378,
+        "Red": 348
+      },
+      "map": "falcons-fire-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 403,
+        "Blue": 320,
+        "White": 302,
+        "Red": 273
+      },
+      "map": "falcons-fire-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 550,
+        "Blue": 526,
+        "White": 495,
+        "Red": 442
+      },
+      "map": "falcons-fire-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Gold": 218,
+        "Blue": 201,
+        "White": 156,
+        "Red": 106
+      },
+      "map": "falcons-fire-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Gold": 371,
+        "Blue": 345,
+        "White": 321,
+        "Red": 293
+      },
+      "map": "falcons-fire-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 538,
+        "Blue": 517,
+        "White": 490,
+        "Red": 461
+      },
+      "map": "falcons-fire-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 181,
+        "Blue": 155,
+        "White": 130,
+        "Red": 107
+      },
+      "map": "falcons-fire-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 447,
+        "Blue": 424,
+        "White": 396,
+        "Red": 361
+      },
+      "map": "falcons-fire-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 379,
+        "Blue": 362,
+        "White": 329,
+        "Red": 289
+      },
+      "map": "falcons-fire-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Gold": 610,
+        "Blue": 519,
+        "White": 487,
+        "Red": 450
+      },
+      "map": "falcons-fire-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 158,
+        "Blue": 137,
+        "White": 117,
+        "Red": 103
+      },
+      "map": "falcons-fire-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 363,
+        "Blue": 337,
+        "White": 315,
+        "Red": 292
+      },
+      "map": "falcons-fire-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 441,
+        "Blue": 397,
+        "White": 369,
+        "Red": 325
+      },
+      "map": "falcons-fire-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 473,
+        "Blue": 448,
+        "White": 420,
+        "Red": 401
+      },
+      "map": "falcons-fire-golf-club-18"
+    }
+  ],
+  "version": 1
+}

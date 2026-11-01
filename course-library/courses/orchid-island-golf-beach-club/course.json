@@ -1,0 +1,311 @@
+{
+  "id": "orchid-island-golf-beach-club",
+  "name": "Orchid Island Golf Beach Club",
+  "town": "Windsor, FL",
+  "location": {
+    "lat": 27.773537,
+    "lng": -80.403236
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Gold",
+    "Gold",
+    "Gray",
+    "Gray/Green",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 357,
+        "Blue": 345,
+        "Blue/White": 345,
+        "White": 310,
+        "White/Gold": 310,
+        "Gold": 281,
+        "Gray": 243,
+        "Gray/Green": 243,
+        "Green": 243
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 468,
+        "Blue": 435,
+        "Blue/White": 388,
+        "White": 388,
+        "White/Gold": 351,
+        "Gold": 351,
+        "Gray": 323,
+        "Gray/Green": 263,
+        "Green": 263
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 363,
+        "Blue": 338,
+        "Blue/White": 338,
+        "White": 304,
+        "White/Gold": 304,
+        "Gold": 266,
+        "Gray": 246,
+        "Gray/Green": 246,
+        "Green": 246
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 522,
+        "Blue": 496,
+        "Blue/White": 459,
+        "White": 459,
+        "White/Gold": 459,
+        "Gold": 410,
+        "Gray": 400,
+        "Gray/Green": 400,
+        "Green": 320
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 212,
+        "Blue": 191,
+        "Blue/White": 180,
+        "White": 180,
+        "White/Gold": 180,
+        "Gold": 169,
+        "Gray": 135,
+        "Gray/Green": 135,
+        "Green": 122
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 409,
+        "Blue": 401,
+        "Blue/White": 401,
+        "White": 374,
+        "White/Gold": 315,
+        "Gold": 315,
+        "Gray": 279,
+        "Gray/Green": 243,
+        "Green": 243
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 422,
+        "Blue": 405,
+        "Blue/White": 362,
+        "White": 362,
+        "White/Gold": 296,
+        "Gold": 296,
+        "Gray": 254,
+        "Gray/Green": 254,
+        "Green": 203
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 160,
+        "Blue": 150,
+        "Blue/White": 150,
+        "White": 134,
+        "White/Gold": 134,
+        "Gold": 118,
+        "Gray": 100,
+        "Gray/Green": 100,
+        "Green": 76
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 564,
+        "Blue": 541,
+        "Blue/White": 541,
+        "White": 527,
+        "White/Gold": 502,
+        "Gold": 502,
+        "Gray": 458,
+        "Gray/Green": 421,
+        "Green": 421
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 449,
+        "Blue": 444,
+        "Blue/White": 400,
+        "White": 400,
+        "White/Gold": 364,
+        "Gold": 364,
+        "Gray": 310,
+        "Gray/Green": 310,
+        "Green": 249
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 405,
+        "Blue": 395,
+        "Blue/White": 338,
+        "White": 338,
+        "White/Gold": 338,
+        "Gold": 315,
+        "Gray": 271,
+        "Gray/Green": 271,
+        "Green": 271
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 244,
+        "Blue": 198,
+        "Blue/White": 169,
+        "White": 169,
+        "White/Gold": 155,
+        "Gold": 155,
+        "Gray": 103,
+        "Gray/Green": 103,
+        "Green": 103
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 591,
+        "Blue": 548,
+        "Blue/White": 548,
+        "White": 505,
+        "White/Gold": 475,
+        "Gold": 475,
+        "Gray": 430,
+        "Gray/Green": 377,
+        "Green": 377
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 402,
+        "Blue": 370,
+        "Blue/White": 370,
+        "White": 365,
+        "White/Gold": 365,
+        "Gold": 325,
+        "Gray": 298,
+        "Gray/Green": 298,
+        "Green": 253
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 153,
+        "Blue": 143,
+        "Blue/White": 143,
+        "White": 143,
+        "White/Gold": 143,
+        "Gold": 121,
+        "Gray": 110,
+        "Gray/Green": 110,
+        "Green": 110
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 390,
+        "Blue": 380,
+        "Blue/White": 336,
+        "White": 336,
+        "White/Gold": 301,
+        "Gold": 301,
+        "Gray": 282,
+        "Gray/Green": 228,
+        "Green": 228
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 432,
+        "Blue": 402,
+        "Blue/White": 374,
+        "White": 374,
+        "White/Gold": 332,
+        "Gold": 332,
+        "Gray": 317,
+        "Gray/Green": 317,
+        "Green": 262
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 546,
+        "Blue": 520,
+        "Blue/White": 520,
+        "White": 490,
+        "White/Gold": 490,
+        "Gold": 467,
+        "Gray": 394,
+        "Gray/Green": 346,
+        "Green": 346
+      }
+    }
+  ],
+  "version": 1
+}

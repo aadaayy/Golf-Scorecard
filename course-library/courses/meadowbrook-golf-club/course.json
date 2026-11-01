@@ -1,0 +1,235 @@
+{
+  "id": "meadowbrook-golf-club",
+  "name": "Meadowbrook Golf Club",
+  "town": "Lakeland, FL",
+  "location": {
+    "lat": 28.008214,
+    "lng": -82.054929
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Orange",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Black": 490,
+        "Blue": 469,
+        "White": 445,
+        "Orange": 402,
+        "Red": 382
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 172,
+        "Blue": 160,
+        "White": 134,
+        "Orange": 112,
+        "Red": 107
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 418,
+        "Blue": 388,
+        "White": 305,
+        "Orange": 260,
+        "Red": 228
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 503,
+        "Blue": 481,
+        "White": 463,
+        "Orange": 440,
+        "Red": 396
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 421,
+        "Blue": 374,
+        "White": 341,
+        "Orange": 299,
+        "Red": 276
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 165,
+        "Blue": 152,
+        "White": 141,
+        "Orange": 121,
+        "Red": 109
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 417,
+        "Blue": 385,
+        "White": 365,
+        "Orange": 314,
+        "Red": 262
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 360,
+        "Blue": 354,
+        "White": 311,
+        "Orange": 285,
+        "Red": 245
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 580,
+        "Blue": 552,
+        "White": 463,
+        "Orange": 393,
+        "Red": 332
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Black": 459,
+        "Blue": 412,
+        "White": 381,
+        "Orange": 354,
+        "Red": 331
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 180,
+        "Blue": 165,
+        "White": 150,
+        "Orange": 132,
+        "Red": 132
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 455,
+        "Blue": 440,
+        "White": 399,
+        "Orange": 375,
+        "Red": 339
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 216,
+        "Blue": 200,
+        "White": 170,
+        "Orange": 138,
+        "Red": 133
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 382,
+        "Blue": 370,
+        "White": 342,
+        "Orange": 322,
+        "Red": 315
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 330,
+        "Blue": 325,
+        "White": 315,
+        "Orange": 272,
+        "Red": 259
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 222,
+        "Blue": 190,
+        "White": 144,
+        "Orange": 135,
+        "Red": 122
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 166,
+        "Blue": 140,
+        "White": 129,
+        "Orange": 115,
+        "Red": 88
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 481,
+        "Blue": 463,
+        "White": 437,
+        "Orange": 401,
+        "Red": 377
+      }
+    }
+  ],
+  "version": 1
+}

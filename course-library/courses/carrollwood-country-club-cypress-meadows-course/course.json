@@ -1,0 +1,254 @@
+{
+  "id": "carrollwood-country-club-cypress-meadows-course",
+  "name": "Carrollwood Country Club Cypress Meadows Course",
+  "town": "Tampa, FL",
+  "location": {
+    "lat": 28.073265,
+    "lng": -82.513487
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Silver",
+    "Teal",
+    "Red",
+    "Yellow"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 383,
+        "White": 359,
+        "Silver": 340,
+        "Teal": 278,
+        "Red": 235,
+        "Yellow": 148
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 555,
+        "White": 521,
+        "Silver": 431,
+        "Teal": 396,
+        "Red": 393,
+        "Yellow": 359
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 171,
+        "White": 146,
+        "Silver": 134,
+        "Teal": 95,
+        "Red": 92,
+        "Yellow": 89
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 454,
+        "White": 417,
+        "Silver": 395,
+        "Teal": 339,
+        "Red": 335,
+        "Yellow": 277
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 387,
+        "White": 344,
+        "Silver": 327,
+        "Teal": 294,
+        "Red": 290,
+        "Yellow": 224
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 190,
+        "White": 166,
+        "Silver": 149,
+        "Teal": 129,
+        "Red": 125,
+        "Yellow": 116
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 590,
+        "White": 567,
+        "Silver": 550,
+        "Teal": 471,
+        "Red": 466,
+        "Yellow": 413
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 406,
+        "White": 384,
+        "Silver": 369,
+        "Teal": 300,
+        "Red": 295,
+        "Yellow": 242
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 438,
+        "White": 408,
+        "Silver": 381,
+        "Teal": 321,
+        "Red": 316,
+        "Yellow": 242
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 385,
+        "White": 354,
+        "Silver": 336,
+        "Teal": 299,
+        "Red": 295,
+        "Yellow": 210
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 454,
+        "White": 413,
+        "Silver": 381,
+        "Teal": 370,
+        "Red": 301,
+        "Yellow": 249
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 196,
+        "White": 155,
+        "Silver": 140,
+        "Teal": 136,
+        "Red": 122,
+        "Yellow": 74
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 362,
+        "White": 349,
+        "Silver": 336,
+        "Teal": 309,
+        "Red": 303,
+        "Yellow": 244
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 521,
+        "White": 496,
+        "Silver": 455,
+        "Teal": 371,
+        "Red": 365,
+        "Yellow": 329
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 383,
+        "White": 353,
+        "Silver": 347,
+        "Teal": 306,
+        "Red": 300,
+        "Yellow": 246
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 173,
+        "White": 137,
+        "Silver": 127,
+        "Teal": 92,
+        "Red": 89,
+        "Yellow": 86
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 541,
+        "White": 527,
+        "Silver": 457,
+        "Teal": 410,
+        "Red": 406,
+        "Yellow": 335
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 367,
+        "White": 343,
+        "Silver": 332,
+        "Teal": 313,
+        "Red": 306,
+        "Yellow": 221
+      }
+    }
+  ],
+  "version": 1
+}

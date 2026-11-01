@@ -1,0 +1,292 @@
+{
+  "id": "windswept-dunes-golf-course",
+  "name": "Windswept Dunes Golf Course",
+  "town": "Freeport, FL",
+  "location": {
+    "lat": 30.487032,
+    "lng": -86.031775
+  },
+  "tees": [
+    "Championship",
+    "Web",
+    "Tournament",
+    "Ocean",
+    "Emerald",
+    "Emerald (W)",
+    "Dune (W)",
+    "Sedge (W)"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship": 468,
+        "Web": 468,
+        "Tournament": 436,
+        "Ocean": 425,
+        "Emerald": 399,
+        "Emerald (W)": 399,
+        "Dune (W)": 352,
+        "Sedge (W)": 321
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Championship": 244,
+        "Web": 244,
+        "Tournament": 212,
+        "Ocean": 188,
+        "Emerald": 172,
+        "Emerald (W)": 172,
+        "Dune (W)": 145,
+        "Sedge (W)": 92
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Championship": 609,
+        "Web": 609,
+        "Tournament": 566,
+        "Ocean": 557,
+        "Emerald": 535,
+        "Emerald (W)": 535,
+        "Dune (W)": 474,
+        "Sedge (W)": 438
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 432,
+        "Web": 432,
+        "Tournament": 411,
+        "Ocean": 407,
+        "Emerald": 392,
+        "Emerald (W)": 392,
+        "Dune (W)": 375,
+        "Sedge (W)": 306
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 464,
+        "Web": 464,
+        "Tournament": 437,
+        "Ocean": 402,
+        "Emerald": 371,
+        "Emerald (W)": 371,
+        "Dune (W)": 351,
+        "Sedge (W)": 318
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 227,
+        "Web": 227,
+        "Tournament": 212,
+        "Ocean": 196,
+        "Emerald": 171,
+        "Emerald (W)": 171,
+        "Dune (W)": 145,
+        "Sedge (W)": 127
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 490,
+        "Web": 490,
+        "Tournament": 450,
+        "Ocean": 424,
+        "Emerald": 400,
+        "Emerald (W)": 400,
+        "Dune (W)": 363,
+        "Sedge (W)": 288
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Championship": 581,
+        "Web": 581,
+        "Tournament": 558,
+        "Ocean": 543,
+        "Emerald": 507,
+        "Emerald (W)": 507,
+        "Dune (W)": 477,
+        "Sedge (W)": 442
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 476,
+        "Web": 476,
+        "Tournament": 449,
+        "Ocean": 425,
+        "Emerald": 392,
+        "Emerald (W)": 392,
+        "Dune (W)": 360,
+        "Sedge (W)": 324
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 501,
+        "Web": 501,
+        "Tournament": 459,
+        "Ocean": 450,
+        "Emerald": 435,
+        "Emerald (W)": 435,
+        "Dune (W)": 400,
+        "Sedge (W)": 274
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 371,
+        "Web": 371,
+        "Tournament": 363,
+        "Ocean": 356,
+        "Emerald": 329,
+        "Emerald (W)": 329,
+        "Dune (W)": 305,
+        "Sedge (W)": 274
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Championship": 190,
+        "Web": 190,
+        "Tournament": 180,
+        "Ocean": 169,
+        "Emerald": 161,
+        "Emerald (W)": 161,
+        "Dune (W)": 144,
+        "Sedge (W)": 120
+      }
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Championship": 527,
+        "Web": 527,
+        "Tournament": 492,
+        "Ocean": 481,
+        "Emerald": 455,
+        "Emerald (W)": 455,
+        "Dune (W)": 428,
+        "Sedge (W)": 403
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Championship": 458,
+        "Web": 458,
+        "Tournament": 430,
+        "Ocean": 405,
+        "Emerald": 380,
+        "Emerald (W)": 380,
+        "Dune (W)": 352,
+        "Sedge (W)": 302
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 480,
+        "Web": 480,
+        "Tournament": 455,
+        "Ocean": 424,
+        "Emerald": 395,
+        "Emerald (W)": 395,
+        "Dune (W)": 366,
+        "Sedge (W)": 327
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 196,
+        "Web": 196,
+        "Tournament": 188,
+        "Ocean": 171,
+        "Emerald": 147,
+        "Emerald (W)": 147,
+        "Dune (W)": 117,
+        "Sedge (W)": 89
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Championship": 573,
+        "Web": 573,
+        "Tournament": 570,
+        "Ocean": 548,
+        "Emerald": 516,
+        "Emerald (W)": 516,
+        "Dune (W)": 485,
+        "Sedge (W)": 426
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 465,
+        "Web": 465,
+        "Tournament": 427,
+        "Ocean": 411,
+        "Emerald": 376,
+        "Emerald (W)": 376,
+        "Dune (W)": 338,
+        "Sedge (W)": 302
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,216 @@
+{
+  "id": "tortoise-hare-at-on-top-of-the-world",
+  "name": "Tortoise Hare At On Top Of The World",
+  "town": "Ocala, FL",
+  "location": {
+    "lat": 29.081797,
+    "lng": -82.271422
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Yellow",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 292,
+        "White": 286,
+        "Yellow": 280,
+        "Orange": 230
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 551,
+        "White": 446,
+        "Yellow": 400,
+        "Orange": 392
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 337,
+        "White": 330,
+        "Yellow": 283,
+        "Orange": 250
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 342,
+        "White": 332,
+        "Yellow": 276,
+        "Orange": 273
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 425,
+        "White": 360,
+        "Yellow": 335,
+        "Orange": 303
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 205,
+        "White": 189,
+        "Yellow": 165,
+        "Orange": 141
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 342,
+        "White": 319,
+        "Yellow": 287,
+        "Orange": 281
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 165,
+        "White": 135,
+        "Yellow": 130,
+        "Orange": 105
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 504,
+        "White": 432,
+        "Yellow": 402,
+        "Orange": 356
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 542,
+        "White": 476,
+        "Yellow": 466,
+        "Orange": 389
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 213,
+        "White": 190,
+        "Yellow": 127,
+        "Orange": 120
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 416,
+        "White": 335,
+        "Yellow": 282,
+        "Orange": 268
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 161,
+        "White": 153,
+        "Yellow": 105,
+        "Orange": 103
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 328,
+        "White": 312,
+        "Yellow": 268,
+        "Orange": 263
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 123,
+        "White": 115,
+        "Yellow": 105,
+        "Orange": 96
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 456,
+        "White": 435,
+        "Yellow": 416,
+        "Orange": 405
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 398,
+        "White": 373,
+        "Yellow": 297,
+        "Orange": 289
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 388,
+        "White": 364,
+        "Yellow": 347,
+        "Orange": 300
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,87 @@
+{
+  "id": "nine-hole-at-on-top-of-the-world-golf-club",
+  "name": "Nine Hole At On Top Of The World Golf Club",
+  "town": "Ocala, FL",
+  "location": {
+    "lat": 29.081797,
+    "lng": -82.271422
+  },
+  "tees": [
+    "Men'S"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Men'S": 160
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Men'S": 200
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Men'S": 200
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Men'S": 100
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Men'S": 200
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Men'S": 150
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Men'S": 217
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Men'S": 200
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Men'S": 234
+      }
+    }
+  ],
+  "version": 1
+}

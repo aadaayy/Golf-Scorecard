@@ -1,0 +1,254 @@
+{
+  "id": "hemingway-kilimanjaro-at-havana-country-club",
+  "name": "Hemingway Kilimanjaro At Havana Country Club",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.87093,
+    "lng": -81.965756
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 396,
+        "Gold": 369,
+        "Blue": 342,
+        "White": 304,
+        "Green": 256,
+        "Friendly": 192
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 401,
+        "Gold": 397,
+        "Blue": 380,
+        "White": 336,
+        "Green": 302,
+        "Friendly": 274
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 209,
+        "Gold": 183,
+        "Blue": 162,
+        "White": 131,
+        "Green": 110,
+        "Friendly": 108
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Black": 554,
+        "Gold": 532,
+        "Blue": 506,
+        "White": 473,
+        "Green": 424,
+        "Friendly": 298
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 237,
+        "Gold": 210,
+        "Blue": 189,
+        "White": 171,
+        "Green": 143,
+        "Friendly": 70
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 352,
+        "Gold": 317,
+        "Blue": 295,
+        "White": 274,
+        "Green": 239,
+        "Friendly": 153
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 475,
+        "Gold": 434,
+        "Blue": 393,
+        "White": 355,
+        "Green": 307,
+        "Friendly": 222
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Black": 522,
+        "Gold": 500,
+        "Blue": 482,
+        "White": 424,
+        "Green": 372,
+        "Friendly": 278
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 393,
+        "Gold": 389,
+        "Blue": 362,
+        "White": 328,
+        "Green": 286,
+        "Friendly": 208
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 521,
+        "Gold": 499,
+        "Blue": 479,
+        "White": 458,
+        "Green": 412,
+        "Friendly": 329
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 414,
+        "Gold": 385,
+        "Blue": 361,
+        "White": 327,
+        "Green": 299,
+        "Friendly": 190
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 525,
+        "Gold": 520,
+        "Blue": 497,
+        "White": 463,
+        "Green": 419,
+        "Friendly": 305
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 389,
+        "Gold": 383,
+        "Blue": 345,
+        "White": 312,
+        "Green": 282,
+        "Friendly": 280
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 448,
+        "Gold": 415,
+        "Blue": 407,
+        "White": 389,
+        "Green": 365,
+        "Friendly": 240
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 222,
+        "Gold": 172,
+        "Blue": 161,
+        "White": 105,
+        "Green": 94,
+        "Friendly": 88
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 417,
+        "Gold": 392,
+        "Blue": 360,
+        "White": 291,
+        "Green": 283,
+        "Friendly": 235
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 375,
+        "Gold": 343,
+        "Blue": 321,
+        "White": 303,
+        "Green": 265,
+        "Friendly": 250
+      }
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 159,
+        "Gold": 153,
+        "Blue": 156,
+        "White": 121,
+        "Green": 103,
+        "Friendly": 77
+      }
+    }
+  ],
+  "version": 1
+}

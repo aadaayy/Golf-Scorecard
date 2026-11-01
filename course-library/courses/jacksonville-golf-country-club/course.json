@@ -1,0 +1,235 @@
+{
+  "id": "jacksonville-golf-country-club",
+  "name": "Jacksonville Golf Country Club",
+  "town": "Jacksonville, FL",
+  "location": {
+    "lat": 30.273348,
+    "lng": -81.465983
+  },
+  "tees": [
+    "Tournament",
+    "Championship",
+    "Center",
+    "Allowance",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Tournament": 519,
+        "Championship": 498,
+        "Center": 484,
+        "Allowance": 448,
+        "Forward": 425
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tournament": 383,
+        "Championship": 367,
+        "Center": 343,
+        "Allowance": 306,
+        "Forward": 275
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tournament": 164,
+        "Championship": 156,
+        "Center": 149,
+        "Allowance": 130,
+        "Forward": 117
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tournament": 413,
+        "Championship": 393,
+        "Center": 367,
+        "Allowance": 328,
+        "Forward": 273
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tournament": 402,
+        "Championship": 389,
+        "Center": 316,
+        "Allowance": 297,
+        "Forward": 280
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Tournament": 174,
+        "Championship": 164,
+        "Center": 154,
+        "Allowance": 136,
+        "Forward": 124
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tournament": 377,
+        "Championship": 357,
+        "Center": 335,
+        "Allowance": 294,
+        "Forward": 267
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Tournament": 517,
+        "Championship": 499,
+        "Center": 481,
+        "Allowance": 437,
+        "Forward": 412
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tournament": 441,
+        "Championship": 424,
+        "Center": 401,
+        "Allowance": 376,
+        "Forward": 338
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Tournament": 386,
+        "Championship": 372,
+        "Center": 354,
+        "Allowance": 308,
+        "Forward": 275
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Tournament": 377,
+        "Championship": 362,
+        "Center": 340,
+        "Allowance": 302,
+        "Forward": 276
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Tournament": 185,
+        "Championship": 178,
+        "Center": 155,
+        "Allowance": 139,
+        "Forward": 125
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tournament": 408,
+        "Championship": 391,
+        "Center": 373,
+        "Allowance": 330,
+        "Forward": 293
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Tournament": 530,
+        "Championship": 504,
+        "Center": 484,
+        "Allowance": 453,
+        "Forward": 423
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Tournament": 407,
+        "Championship": 387,
+        "Center": 365,
+        "Allowance": 327,
+        "Forward": 292
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Tournament": 555,
+        "Championship": 535,
+        "Center": 520,
+        "Allowance": 483,
+        "Forward": 444
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Tournament": 198,
+        "Championship": 175,
+        "Center": 163,
+        "Allowance": 141,
+        "Forward": 116
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tournament": 422,
+        "Championship": 395,
+        "Center": 381,
+        "Allowance": 361,
+        "Forward": 317
+      }
+    }
+  ],
+  "version": 1
+}

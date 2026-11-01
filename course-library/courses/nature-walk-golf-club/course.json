@@ -1,0 +1,215 @@
+{
+  "id": "nature-walk-golf-club",
+  "name": "Nature Walk Golf Club",
+  "town": "Lynn Haven, FL",
+  "location": {
+    "lat": 30.237656,
+    "lng": -85.607535
+  },
+  "tees": [
+    "Blue",
+    "Yellow",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 320,
+        "Yellow": 300,
+        "Red": 255
+      },
+      "map": "nature-walk-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 106,
+        "Yellow": 88,
+        "Red": 75
+      },
+      "map": "nature-walk-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 157,
+        "Yellow": 136,
+        "Red": 112
+      },
+      "map": "nature-walk-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 300,
+        "Yellow": 276,
+        "Red": 228
+      },
+      "map": "nature-walk-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 127,
+        "Yellow": 107,
+        "Red": 85
+      },
+      "map": "nature-walk-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Blue": 136,
+        "Yellow": 118,
+        "Red": 78
+      },
+      "map": "nature-walk-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 176,
+        "Yellow": 140,
+        "Red": 121
+      },
+      "map": "nature-walk-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 120,
+        "Yellow": 103,
+        "Red": 91
+      },
+      "map": "nature-walk-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 161,
+        "Yellow": 115,
+        "Red": 96
+      },
+      "map": "nature-walk-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 143,
+        "Yellow": 96,
+        "Red": 77
+      },
+      "map": "nature-walk-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 282,
+        "Yellow": 261,
+        "Red": 216
+      },
+      "map": "nature-walk-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 265,
+        "Yellow": 241,
+        "Red": 200
+      },
+      "map": "nature-walk-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 157,
+        "Yellow": 114,
+        "Red": 100
+      },
+      "map": "nature-walk-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 340,
+        "Yellow": 300,
+        "Red": 280
+      },
+      "map": "nature-walk-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 96,
+        "Yellow": 90,
+        "Red": 86
+      },
+      "map": "nature-walk-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Blue": 174,
+        "Yellow": 134,
+        "Red": 100
+      },
+      "map": "nature-walk-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 302,
+        "Yellow": 272,
+        "Red": 216
+      },
+      "map": "nature-walk-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 150,
+        "Yellow": 127,
+        "Red": 78
+      },
+      "map": "nature-walk-golf-club-18"
+    }
+  ],
+  "version": 1
+}

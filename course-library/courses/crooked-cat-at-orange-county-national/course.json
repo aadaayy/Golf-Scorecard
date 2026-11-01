@@ -1,0 +1,234 @@
+{
+  "id": "crooked-cat-at-orange-county-national",
+  "name": "Crooked Cat At Orange County National",
+  "town": "Winter Garden, FL",
+  "location": {
+    "lat": 28.44338,
+    "lng": -81.629026
+  },
+  "tees": [
+    "Orange",
+    "Green",
+    "White",
+    "Tan"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 17,
+      "yards": {
+        "Orange": 488,
+        "Green": 437,
+        "White": 428,
+        "Tan": 401
+      },
+      "map": "crooked-cat-at-orange-county-national-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Orange": 433,
+        "Green": 391,
+        "White": 352,
+        "Tan": 312
+      },
+      "map": "crooked-cat-at-orange-county-national-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Orange": 364,
+        "Green": 346,
+        "White": 334,
+        "Tan": 250
+      },
+      "map": "crooked-cat-at-orange-county-national-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Orange": 500,
+        "Green": 484,
+        "White": 442,
+        "Tan": 404
+      },
+      "map": "crooked-cat-at-orange-county-national-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Orange": 392,
+        "Green": 365,
+        "White": 321,
+        "Tan": 286
+      },
+      "map": "crooked-cat-at-orange-county-national-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Orange": 192,
+        "Green": 168,
+        "White": 140,
+        "Tan": 123
+      },
+      "map": "crooked-cat-at-orange-county-national-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Orange": 409,
+        "Green": 383,
+        "White": 358,
+        "Tan": 322
+      },
+      "map": "crooked-cat-at-orange-county-national-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Orange": 188,
+        "Green": 162,
+        "White": 150,
+        "Tan": 108
+      },
+      "map": "crooked-cat-at-orange-county-national-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Orange": 345,
+        "Green": 328,
+        "White": 290,
+        "Tan": 253
+      },
+      "map": "crooked-cat-at-orange-county-national-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Orange": 413,
+        "Green": 371,
+        "White": 339,
+        "Tan": 321
+      },
+      "map": "crooked-cat-at-orange-county-national-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Orange": 405,
+        "Green": 369,
+        "White": 355,
+        "Tan": 320
+      },
+      "map": "crooked-cat-at-orange-county-national-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Orange": 409,
+        "Green": 376,
+        "White": 362,
+        "Tan": 289
+      },
+      "map": "crooked-cat-at-orange-county-national-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Orange": 183,
+        "Green": 171,
+        "White": 156,
+        "Tan": 86
+      },
+      "map": "crooked-cat-at-orange-county-national-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Orange": 486,
+        "Green": 460,
+        "White": 434,
+        "Tan": 397
+      },
+      "map": "crooked-cat-at-orange-county-national-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Orange": 201,
+        "Green": 175,
+        "White": 157,
+        "Tan": 147
+      },
+      "map": "crooked-cat-at-orange-county-national-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Orange": 420,
+        "Green": 385,
+        "White": 325,
+        "Tan": 309
+      },
+      "map": "crooked-cat-at-orange-county-national-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Orange": 496,
+        "Green": 460,
+        "White": 411,
+        "Tan": 374
+      },
+      "map": "crooked-cat-at-orange-county-national-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Orange": 424,
+        "Green": 395,
+        "White": 379,
+        "Tan": 350
+      },
+      "map": "crooked-cat-at-orange-county-national-18"
+    }
+  ],
+  "version": 1
+}

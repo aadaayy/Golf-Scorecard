@@ -1,0 +1,235 @@
+{
+  "id": "magnolia-plantation-golf-club",
+  "name": "Magnolia Plantation Golf Club",
+  "town": "Lake Mary, FL",
+  "location": {
+    "lat": 28.771041,
+    "lng": -81.396856
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "Green",
+    "White",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 500,
+        "Blue": 475,
+        "Green": 457,
+        "White": 430,
+        "Gold": 393
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 424,
+        "Blue": 400,
+        "Green": 362,
+        "White": 349,
+        "Gold": 311
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 393,
+        "Blue": 359,
+        "Green": 347,
+        "White": 321,
+        "Gold": 286
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 240,
+        "Blue": 214,
+        "Green": 183,
+        "White": 171,
+        "Gold": 101
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 550,
+        "Blue": 504,
+        "Green": 496,
+        "White": 483,
+        "Gold": 441
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 410,
+        "Blue": 353,
+        "Green": 336,
+        "White": 316,
+        "Gold": 296
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 173,
+        "Blue": 149,
+        "Green": 140,
+        "White": 130,
+        "Gold": 109
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 407,
+        "Blue": 375,
+        "Green": 340,
+        "White": 335,
+        "Gold": 296
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 425,
+        "Blue": 388,
+        "Green": 368,
+        "White": 350,
+        "Gold": 313
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 432,
+        "Blue": 398,
+        "Green": 370,
+        "White": 346,
+        "Gold": 309
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 158,
+        "Blue": 150,
+        "Green": 130,
+        "White": 114,
+        "Gold": 92
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 550,
+        "Blue": 507,
+        "Green": 482,
+        "White": 468,
+        "Gold": 445
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Black": 417,
+        "Blue": 383,
+        "Green": 379,
+        "White": 305,
+        "Gold": 286
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 445,
+        "Blue": 411,
+        "Green": 380,
+        "White": 369,
+        "Gold": 321
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 410,
+        "Blue": 379,
+        "Green": 363,
+        "White": 332,
+        "Gold": 295
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 573,
+        "Blue": 533,
+        "Green": 510,
+        "White": 500,
+        "Gold": 469
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 165,
+        "Blue": 148,
+        "Green": 140,
+        "White": 133,
+        "Gold": 122
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 451,
+        "Blue": 427,
+        "Green": 390,
+        "White": 383,
+        "Gold": 343
+      }
+    }
+  ],
+  "version": 1
+}

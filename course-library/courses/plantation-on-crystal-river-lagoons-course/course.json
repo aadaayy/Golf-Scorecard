@@ -1,0 +1,67 @@
+{
+  "id": "plantation-on-crystal-river-lagoons-course",
+  "name": "Plantation On Crystal River Lagoons Course",
+  "town": "Crystal River, FL",
+  "location": {
+    "lat": 28.879643,
+    "lng": -82.589516
+  },
+  "tees": [],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {}
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 6,
+      "yards": {}
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 3,
+      "yards": {}
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {}
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 4,
+      "yards": {}
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 5,
+      "yards": {}
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 2,
+      "yards": {}
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {}
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 8,
+      "yards": {}
+    }
+  ],
+  "version": 1
+}

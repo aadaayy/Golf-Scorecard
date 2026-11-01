@@ -1,0 +1,254 @@
+{
+  "id": "regatta-bay-golf-yacht-club",
+  "name": "Regatta Bay Golf Yacht Club",
+  "town": "Destin, FL",
+  "location": {
+    "lat": 30.394087,
+    "lng": -86.41785
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Green",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 544,
+        "Blue": 515,
+        "White": 494,
+        "Gold": 473,
+        "Green": 394,
+        "Orange": 324
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 409,
+        "Blue": 389,
+        "White": 365,
+        "Gold": 331,
+        "Green": 331,
+        "Orange": 252
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 195,
+        "Blue": 158,
+        "White": 143,
+        "Gold": 124,
+        "Green": 106,
+        "Orange": 106
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 434,
+        "Blue": 414,
+        "White": 390,
+        "Gold": 373,
+        "Green": 282,
+        "Orange": 224
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 566,
+        "Blue": 540,
+        "White": 517,
+        "Gold": 495,
+        "Green": 392,
+        "Orange": 363
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 425,
+        "Blue": 396,
+        "White": 371,
+        "Gold": 343,
+        "Green": 307,
+        "Orange": 248
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 456,
+        "Blue": 421,
+        "White": 393,
+        "Gold": 369,
+        "Green": 333,
+        "Orange": 264
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 193,
+        "Blue": 169,
+        "White": 146,
+        "Gold": 146,
+        "Green": 134,
+        "Orange": 75
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 357,
+        "Blue": 336,
+        "White": 314,
+        "Gold": 288,
+        "Green": 236,
+        "Orange": 236
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 403,
+        "Blue": 381,
+        "White": 359,
+        "Gold": 336,
+        "Green": 284,
+        "Orange": 248
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 379,
+        "Blue": 357,
+        "White": 341,
+        "Gold": 341,
+        "Green": 266,
+        "Orange": 266
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Black": 450,
+        "Blue": 439,
+        "White": 420,
+        "Gold": 399,
+        "Green": 335,
+        "Orange": 294
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 183,
+        "Blue": 160,
+        "White": 152,
+        "Gold": 136,
+        "Green": 111,
+        "Orange": 111
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 376,
+        "Blue": 339,
+        "White": 319,
+        "Gold": 295,
+        "Green": 260,
+        "Orange": 260
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 202,
+        "Blue": 172,
+        "White": 152,
+        "Gold": 152,
+        "Green": 135,
+        "Orange": 135
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 432,
+        "Blue": 410,
+        "White": 356,
+        "Gold": 331,
+        "Green": 285,
+        "Orange": 236
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 311,
+        "Blue": 286,
+        "White": 257,
+        "Gold": 251,
+        "Green": 227,
+        "Orange": 167
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 525,
+        "Blue": 501,
+        "White": 476,
+        "Gold": 453,
+        "Green": 399,
+        "Orange": 329
+      }
+    }
+  ],
+  "version": 1
+}

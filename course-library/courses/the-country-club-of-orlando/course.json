@@ -1,0 +1,253 @@
+{
+  "id": "the-country-club-of-orlando",
+  "name": "The Country Club Of Orlando",
+  "town": "Orlando, FL",
+  "location": {
+    "lat": 28.560134,
+    "lng": -81.401464
+  },
+  "tees": [
+    "Championship",
+    "Medal",
+    "Member",
+    "Club",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Championship": 343,
+        "Medal": 324,
+        "Member": 305,
+        "Club": 296,
+        "Forward": 261
+      },
+      "map": "the-country-club-of-orlando-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 421,
+        "Medal": 404,
+        "Member": 383,
+        "Club": 323,
+        "Forward": 290
+      },
+      "map": "the-country-club-of-orlando-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Championship": 384,
+        "Medal": 369,
+        "Member": 358,
+        "Club": 347,
+        "Forward": 299
+      },
+      "map": "the-country-club-of-orlando-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Championship": 209,
+        "Medal": 197,
+        "Member": 177,
+        "Club": 147,
+        "Forward": 125
+      },
+      "map": "the-country-club-of-orlando-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Championship": 517,
+        "Medal": 509,
+        "Member": 479,
+        "Club": 433,
+        "Forward": 392
+      },
+      "map": "the-country-club-of-orlando-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 174,
+        "Medal": 166,
+        "Member": 152,
+        "Club": 139,
+        "Forward": 102
+      },
+      "map": "the-country-club-of-orlando-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 431,
+        "Medal": 413,
+        "Member": 389,
+        "Club": 277,
+        "Forward": 277
+      },
+      "map": "the-country-club-of-orlando-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Championship": 501,
+        "Medal": 486,
+        "Member": 467,
+        "Club": 420,
+        "Forward": 406
+      },
+      "map": "the-country-club-of-orlando-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 422,
+        "Medal": 388,
+        "Member": 367,
+        "Club": 312,
+        "Forward": 254
+      },
+      "map": "the-country-club-of-orlando-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 401,
+        "Medal": 390,
+        "Member": 378,
+        "Club": 339,
+        "Forward": 267
+      },
+      "map": "the-country-club-of-orlando-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Championship": 344,
+        "Medal": 336,
+        "Member": 324,
+        "Club": 301,
+        "Forward": 254
+      },
+      "map": "the-country-club-of-orlando-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Championship": 363,
+        "Medal": 355,
+        "Member": 339,
+        "Club": 327,
+        "Forward": 254
+      },
+      "map": "the-country-club-of-orlando-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Championship": 153,
+        "Medal": 146,
+        "Member": 135,
+        "Club": 126,
+        "Forward": 97
+      },
+      "map": "the-country-club-of-orlando-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Championship": 504,
+        "Medal": 486,
+        "Member": 473,
+        "Club": 405,
+        "Forward": 359
+      },
+      "map": "the-country-club-of-orlando-14"
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Championship": 481,
+        "Medal": 459,
+        "Member": 440,
+        "Club": 370,
+        "Forward": 330
+      },
+      "map": "the-country-club-of-orlando-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 408,
+        "Medal": 398,
+        "Member": 387,
+        "Club": 296,
+        "Forward": 289
+      },
+      "map": "the-country-club-of-orlando-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 149,
+        "Medal": 141,
+        "Member": 130,
+        "Club": 118,
+        "Forward": 87
+      },
+      "map": "the-country-club-of-orlando-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 365,
+        "Medal": 351,
+        "Member": 332,
+        "Club": 307,
+        "Forward": 286
+      },
+      "map": "the-country-club-of-orlando-18"
+    }
+  ],
+  "version": 1
+}

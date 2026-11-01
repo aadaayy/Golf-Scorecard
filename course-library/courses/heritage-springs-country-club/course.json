@@ -1,0 +1,216 @@
+{
+  "id": "heritage-springs-country-club",
+  "name": "Heritage Springs Country Club",
+  "town": "Trinity, FL",
+  "location": {
+    "lat": 28.178439,
+    "lng": -82.627294
+  },
+  "tees": [
+    "Gold",
+    "White",
+    "Green",
+    "Terra Cotta"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 402,
+        "White": 372,
+        "Green": 339,
+        "Terra Cotta": 307
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 139,
+        "White": 130,
+        "Green": 108,
+        "Terra Cotta": 83
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 492,
+        "White": 460,
+        "Green": 425,
+        "Terra Cotta": 391
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 400,
+        "White": 372,
+        "Green": 362,
+        "Terra Cotta": 334
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 143,
+        "White": 139,
+        "Green": 122,
+        "Terra Cotta": 98
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 410,
+        "White": 381,
+        "Green": 357,
+        "Terra Cotta": 319
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 409,
+        "White": 373,
+        "Green": 337,
+        "Terra Cotta": 306
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 337,
+        "White": 271,
+        "Green": 238,
+        "Terra Cotta": 197
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 334,
+        "White": 305,
+        "Green": 295,
+        "Terra Cotta": 269
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 339,
+        "White": 290,
+        "Green": 253,
+        "Terra Cotta": 217
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Gold": 168,
+        "White": 144,
+        "Green": 134,
+        "Terra Cotta": 101
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 452,
+        "White": 415,
+        "Green": 391,
+        "Terra Cotta": 353
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 377,
+        "White": 350,
+        "Green": 338,
+        "Terra Cotta": 308
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Gold": 497,
+        "White": 464,
+        "Green": 429,
+        "Terra Cotta": 395
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 167,
+        "White": 143,
+        "Green": 132,
+        "Terra Cotta": 103
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Gold": 293,
+        "White": 272,
+        "Green": 259,
+        "Terra Cotta": 235
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 291,
+        "White": 282,
+        "Green": 249,
+        "Terra Cotta": 221
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 374,
+        "White": 353,
+        "Green": 246,
+        "Terra Cotta": 227
+      }
+    }
+  ],
+  "version": 1
+}

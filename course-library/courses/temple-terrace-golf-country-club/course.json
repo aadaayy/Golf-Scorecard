@@ -1,0 +1,235 @@
+{
+  "id": "temple-terrace-golf-country-club",
+  "name": "Temple Terrace Golf Country Club",
+  "town": "Temple Terrace, FL",
+  "location": {
+    "lat": 28.036132,
+    "lng": -82.384947
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Green",
+    "Red",
+    "Silver"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 379,
+        "White": 360,
+        "Green": 319,
+        "Red": 319,
+        "Silver": 272
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 365,
+        "White": 347,
+        "Green": 309,
+        "Red": 307,
+        "Silver": 270
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 343,
+        "White": 330,
+        "Green": 310,
+        "Red": 301,
+        "Silver": 278
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 177,
+        "White": 165,
+        "Green": 153,
+        "Red": 141,
+        "Silver": 125
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 516,
+        "White": 500,
+        "Green": 447,
+        "Red": 439,
+        "Silver": 380
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 360,
+        "White": 348,
+        "Green": 344,
+        "Red": 339,
+        "Silver": 296
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Blue": 460,
+        "White": 445,
+        "Green": 390,
+        "Red": 387,
+        "Silver": 387
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 169,
+        "White": 161,
+        "Green": 153,
+        "Red": 145,
+        "Silver": 119
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 351,
+        "White": 337,
+        "Green": 311,
+        "Red": 303,
+        "Silver": 303
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 10,
+      "yards": {
+        "Blue": 491,
+        "White": 481,
+        "Green": 444,
+        "Red": 441,
+        "Silver": 386
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Blue": 306,
+        "White": 299,
+        "Green": 291,
+        "Red": 284,
+        "Silver": 284
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 385,
+        "White": 358,
+        "Green": 306,
+        "Red": 303,
+        "Silver": 280
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 399,
+        "White": 381,
+        "Green": 324,
+        "Red": 321,
+        "Silver": 270
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 361,
+        "White": 352,
+        "Green": 348,
+        "Red": 345,
+        "Silver": 297
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 163,
+        "White": 150,
+        "Green": 138,
+        "Red": 125,
+        "Silver": 125
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 417,
+        "White": 400,
+        "Green": 348,
+        "Red": 341,
+        "Silver": 290
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 189,
+        "White": 177,
+        "Green": 166,
+        "Red": 155,
+        "Silver": 126
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 514,
+        "White": 491,
+        "Green": 446,
+        "Red": 438,
+        "Silver": 358
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,234 @@
+{
+  "id": "wedgefield-golf-club",
+  "name": "Wedgefield Golf Club",
+  "town": "Orlando, FL",
+  "location": {
+    "lat": 28.507696,
+    "lng": -81.071412
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Blue": 511,
+        "White": 483,
+        "Gold": 472,
+        "Red": 405
+      },
+      "map": "wedgefield-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 417,
+        "White": 401,
+        "Gold": 284,
+        "Red": 243
+      },
+      "map": "wedgefield-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Blue": 557,
+        "White": 515,
+        "Gold": 458,
+        "Red": 403
+      },
+      "map": "wedgefield-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 150,
+        "White": 137,
+        "Gold": 111,
+        "Red": 95
+      },
+      "map": "wedgefield-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 326,
+        "White": 314,
+        "Gold": 292,
+        "Red": 284
+      },
+      "map": "wedgefield-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 395,
+        "White": 345,
+        "Gold": 325,
+        "Red": 305
+      },
+      "map": "wedgefield-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 386,
+        "White": 341,
+        "Gold": 321,
+        "Red": 264
+      },
+      "map": "wedgefield-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 210,
+        "White": 189,
+        "Gold": 167,
+        "Red": 122
+      },
+      "map": "wedgefield-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 370,
+        "White": 343,
+        "Gold": 318,
+        "Red": 250
+      },
+      "map": "wedgefield-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "Blue": 332,
+        "White": 304,
+        "Gold": 273,
+        "Red": 265
+      },
+      "map": "wedgefield-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 502,
+        "White": 482,
+        "Gold": 467,
+        "Red": 399
+      },
+      "map": "wedgefield-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 564,
+        "White": 546,
+        "Gold": 511,
+        "Red": 396
+      },
+      "map": "wedgefield-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 383,
+        "White": 365,
+        "Gold": 348,
+        "Red": 288
+      },
+      "map": "wedgefield-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 166,
+        "White": 151,
+        "Gold": 124,
+        "Red": 111
+      },
+      "map": "wedgefield-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 475,
+        "White": 458,
+        "Gold": 425,
+        "Red": 340
+      },
+      "map": "wedgefield-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 178,
+        "White": 157,
+        "Gold": 140,
+        "Red": 135
+      },
+      "map": "wedgefield-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 409,
+        "White": 346,
+        "Gold": 336,
+        "Red": 285
+      },
+      "map": "wedgefield-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 464,
+        "White": 362,
+        "Gold": 352,
+        "Red": 296
+      },
+      "map": "wedgefield-golf-club-18"
+    }
+  ],
+  "version": 1
+}

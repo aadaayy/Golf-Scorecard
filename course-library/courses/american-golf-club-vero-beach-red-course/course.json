@@ -1,0 +1,97 @@
+{
+  "id": "american-golf-club-vero-beach-red-course",
+  "name": "American Golf Club Vero Beach Red Course",
+  "town": "Vero Beach, FL",
+  "location": {
+    "lat": 27.745527,
+    "lng": -80.443123
+  },
+  "tees": [
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "White": 260,
+        "Red": 217
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "White": 170,
+        "Red": 112
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "White": 315,
+        "Red": 252
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 118,
+        "Red": 102
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "White": 361,
+        "Red": 289
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "White": 287,
+        "Red": 208
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 113,
+        "Red": 94
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "White": 273,
+        "Red": 171
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "White": 131,
+        "Red": 100
+      }
+    }
+  ],
+  "version": 1
+}

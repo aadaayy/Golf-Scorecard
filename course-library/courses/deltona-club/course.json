@@ -1,0 +1,253 @@
+{
+  "id": "deltona-club",
+  "name": "Deltona Club",
+  "town": "Deltona, FL",
+  "location": {
+    "lat": 28.924219,
+    "lng": -81.243919
+  },
+  "tees": [
+    "Tee I",
+    "Tee Ii",
+    "Tee Iii",
+    "Tee Iv",
+    "Tee V"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Tee I": 442,
+        "Tee Ii": 387,
+        "Tee Iii": 352,
+        "Tee Iv": 314,
+        "Tee V": 277
+      },
+      "map": "deltona-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tee I": 431,
+        "Tee Ii": 399,
+        "Tee Iii": 381,
+        "Tee Iv": 359,
+        "Tee V": 287
+      },
+      "map": "deltona-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Tee I": 177,
+        "Tee Ii": 166,
+        "Tee Iii": 150,
+        "Tee Iv": 134,
+        "Tee V": 126
+      },
+      "map": "deltona-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tee I": 461,
+        "Tee Ii": 450,
+        "Tee Iii": 417,
+        "Tee Iv": 378,
+        "Tee V": 349
+      },
+      "map": "deltona-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Tee I": 518,
+        "Tee Ii": 509,
+        "Tee Iii": 450,
+        "Tee Iv": 424,
+        "Tee V": 363
+      },
+      "map": "deltona-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tee I": 444,
+        "Tee Ii": 399,
+        "Tee Iii": 373,
+        "Tee Iv": 348,
+        "Tee V": 313
+      },
+      "map": "deltona-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Tee I": 480,
+        "Tee Ii": 441,
+        "Tee Iii": 421,
+        "Tee Iv": 375,
+        "Tee V": 323
+      },
+      "map": "deltona-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Tee I": 330,
+        "Tee Ii": 288,
+        "Tee Iii": 265,
+        "Tee Iv": 225,
+        "Tee V": 206
+      },
+      "map": "deltona-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tee I": 172,
+        "Tee Ii": 136,
+        "Tee Iii": 128,
+        "Tee Iv": 112,
+        "Tee V": 105
+      },
+      "map": "deltona-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Tee I": 405,
+        "Tee Ii": 389,
+        "Tee Iii": 342,
+        "Tee Iv": 309,
+        "Tee V": 267
+      },
+      "map": "deltona-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Tee I": 242,
+        "Tee Ii": 228,
+        "Tee Iii": 188,
+        "Tee Iv": 169,
+        "Tee V": 146
+      },
+      "map": "deltona-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tee I": 423,
+        "Tee Ii": 387,
+        "Tee Iii": 368,
+        "Tee Iv": 334,
+        "Tee V": 264
+      },
+      "map": "deltona-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Tee I": 515,
+        "Tee Ii": 503,
+        "Tee Iii": 452,
+        "Tee Iv": 427,
+        "Tee V": 381
+      },
+      "map": "deltona-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Tee I": 230,
+        "Tee Ii": 218,
+        "Tee Iii": 205,
+        "Tee Iv": 178,
+        "Tee V": 157
+      },
+      "map": "deltona-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Tee I": 361,
+        "Tee Ii": 321,
+        "Tee Iii": 303,
+        "Tee Iv": 261,
+        "Tee V": 229
+      },
+      "map": "deltona-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Tee I": 576,
+        "Tee Ii": 545,
+        "Tee Iii": 505,
+        "Tee Iv": 479,
+        "Tee V": 387
+      },
+      "map": "deltona-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tee I": 464,
+        "Tee Ii": 446,
+        "Tee Iii": 388,
+        "Tee Iv": 322,
+        "Tee V": 261
+      },
+      "map": "deltona-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tee I": 317,
+        "Tee Ii": 305,
+        "Tee Iii": 289,
+        "Tee Iv": 251,
+        "Tee V": 237
+      },
+      "map": "deltona-club-18"
+    }
+  ],
+  "version": 1
+}

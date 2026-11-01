@@ -1,0 +1,254 @@
+{
+  "id": "candler-hills-golf-club",
+  "name": "Candler Hills Golf Club",
+  "town": "Ocala, FL",
+  "location": {
+    "lat": 29.10461,
+    "lng": -82.259499
+  },
+  "tees": [
+    "Black",
+    "Green",
+    "Blue",
+    "Tournament",
+    "White",
+    "Orange"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 385,
+        "Green": 338,
+        "Blue": 303,
+        "Tournament": 303,
+        "White": 276,
+        "Orange": 205
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 444,
+        "Green": 386,
+        "Blue": 344,
+        "Tournament": 344,
+        "White": 303,
+        "Orange": 277
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 408,
+        "Green": 379,
+        "Blue": 366,
+        "Tournament": 329,
+        "White": 329,
+        "Orange": 267
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 662,
+        "Green": 620,
+        "Blue": 557,
+        "Tournament": 524,
+        "White": 524,
+        "Orange": 454
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Black": 209,
+        "Green": 199,
+        "Blue": 175,
+        "Tournament": 138,
+        "White": 138,
+        "Orange": 110
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 591,
+        "Green": 549,
+        "Blue": 518,
+        "Tournament": 518,
+        "White": 510,
+        "Orange": 445
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 329,
+        "Green": 297,
+        "Blue": 238,
+        "Tournament": 238,
+        "White": 200,
+        "Orange": 175
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Black": 195,
+        "Green": 183,
+        "Blue": 154,
+        "Tournament": 154,
+        "White": 142,
+        "Orange": 106
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 430,
+        "Green": 398,
+        "Blue": 364,
+        "Tournament": 335,
+        "White": 335,
+        "Orange": 280
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 390,
+        "Green": 359,
+        "Blue": 319,
+        "Tournament": 319,
+        "White": 315,
+        "Orange": 304
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 440,
+        "Green": 420,
+        "Blue": 370,
+        "Tournament": 343,
+        "White": 343,
+        "Orange": 298
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 514,
+        "Green": 485,
+        "Blue": 459,
+        "Tournament": 459,
+        "White": 426,
+        "Orange": 398
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 207,
+        "Green": 185,
+        "Blue": 157,
+        "Tournament": 113,
+        "White": 113,
+        "Orange": 100
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Black": 410,
+        "Green": 355,
+        "Blue": 317,
+        "Tournament": 317,
+        "White": 304,
+        "Orange": 270
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Black": 565,
+        "Green": 516,
+        "Blue": 470,
+        "Tournament": 470,
+        "White": 437,
+        "Orange": 421
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 453,
+        "Green": 376,
+        "Blue": 355,
+        "Tournament": 355,
+        "White": 321,
+        "Orange": 287
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 202,
+        "Green": 173,
+        "Blue": 150,
+        "Tournament": 132,
+        "White": 132,
+        "Orange": 95
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 399,
+        "Green": 371,
+        "Blue": 362,
+        "Tournament": 333,
+        "White": 333,
+        "Orange": 293
+      }
+    }
+  ],
+  "version": 1
+}

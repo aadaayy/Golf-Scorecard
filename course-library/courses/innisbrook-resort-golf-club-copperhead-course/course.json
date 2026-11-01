@@ -1,0 +1,272 @@
+{
+  "id": "innisbrook-resort-golf-club-copperhead-course",
+  "name": "Innisbrook Resort Golf Club Copperhead Course",
+  "town": "Palm Harbor, FL",
+  "location": {
+    "lat": 28.114464,
+    "lng": -82.753028
+  },
+  "tees": [
+    "Black",
+    "Green",
+    "White",
+    "Gold",
+    "Combo",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 560,
+        "Green": 528,
+        "White": 521,
+        "Gold": 456,
+        "Combo": 456,
+        "Red": 456
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 413,
+        "Green": 371,
+        "White": 359,
+        "Gold": 331,
+        "Combo": 331,
+        "Red": 291
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 442,
+        "Green": 407,
+        "White": 386,
+        "Gold": 362,
+        "Combo": 362,
+        "Red": 291
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 188,
+        "Green": 163,
+        "White": 140,
+        "Gold": 134,
+        "Combo": 134,
+        "Red": 95
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Black": 607,
+        "Green": 570,
+        "White": 526,
+        "Gold": 458,
+        "Combo": 458,
+        "Red": 388
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 452,
+        "Green": 422,
+        "White": 406,
+        "Gold": 357,
+        "Combo": 304,
+        "Red": 304
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 410,
+        "Green": 373,
+        "White": 345,
+        "Gold": 335,
+        "Combo": 273,
+        "Red": 273
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 232,
+        "Green": 201,
+        "White": 176,
+        "Gold": 145,
+        "Combo": 145,
+        "Red": 124
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 420,
+        "Green": 392,
+        "White": 378,
+        "Gold": 343,
+        "Combo": 294,
+        "Red": 294
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 441,
+        "Green": 410,
+        "White": 374,
+        "Gold": 343,
+        "Combo": 343,
+        "Red": 295
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 567,
+        "Green": 525,
+        "White": 514,
+        "Gold": 435,
+        "Combo": 435,
+        "Red": 372
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 373,
+        "Green": 357,
+        "White": 343,
+        "Gold": 343,
+        "Combo": 315,
+        "Red": 315
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 199,
+        "Green": 179,
+        "White": 148,
+        "Gold": 144,
+        "Combo": 102,
+        "Red": 102
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Black": 590,
+        "Green": 561,
+        "White": 532,
+        "Gold": 505,
+        "Combo": 448,
+        "Red": 448
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Black": 208,
+        "Green": 182,
+        "White": 172,
+        "Gold": 160,
+        "Combo": 130,
+        "Red": 130
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 458,
+        "Green": 412,
+        "White": 376,
+        "Gold": 336,
+        "Combo": 336,
+        "Red": 294
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 206,
+        "Green": 181,
+        "White": 171,
+        "Gold": 161,
+        "Combo": 118,
+        "Red": 118
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 443,
+        "Green": 390,
+        "White": 376,
+        "Gold": 328,
+        "Combo": 328,
+        "Red": 261
+      },
+      "map": "innisbrook-resort-golf-club-copperhead-course-18"
+    }
+  ],
+  "version": 1
+}

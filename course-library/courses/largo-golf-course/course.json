@@ -1,0 +1,178 @@
+{
+  "id": "largo-golf-course",
+  "name": "Largo Golf Course",
+  "town": "Largo, FL",
+  "location": {
+    "lat": 27.886975,
+    "lng": -82.820932
+  },
+  "tees": [
+    "Back",
+    "Front"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Back": 330,
+        "Front": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Back": 90,
+        "Front": 75
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Back": 100,
+        "Front": 85
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Back": 270,
+        "Front": 195
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Back": 270,
+        "Front": 220
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Back": 295,
+        "Front": 200
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Back": 105,
+        "Front": 90
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Back": 115,
+        "Front": 90
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Back": 230,
+        "Front": 185
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Back": 240,
+        "Front": 195
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Back": 130,
+        "Front": 105
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Back": 95,
+        "Front": 75
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Back": 155,
+        "Front": 120
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Back": 125,
+        "Front": 105
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Back": 105,
+        "Front": 85
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Back": 110,
+        "Front": 95
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Back": 295,
+        "Front": 235
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Back": 275,
+        "Front": 220
+      }
+    }
+  ],
+  "version": 1
+}

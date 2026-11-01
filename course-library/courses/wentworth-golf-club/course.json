@@ -1,0 +1,197 @@
+{
+  "id": "wentworth-golf-club",
+  "name": "Wentworth Golf Club",
+  "town": "Tarpon Springs, FL",
+  "location": {
+    "lat": 28.143446,
+    "lng": -82.699253
+  },
+  "tees": [
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "White": 305,
+        "Gold": 284,
+        "Red": 271
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "White": 337,
+        "Gold": 332,
+        "Red": 301
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "White": 349,
+        "Gold": 305,
+        "Red": 284
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "White": 278,
+        "Gold": 234,
+        "Red": 230
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "White": 147,
+        "Gold": 140,
+        "Red": 134
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "White": 343,
+        "Gold": 322,
+        "Red": 303
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "White": 291,
+        "Gold": 281,
+        "Red": 271
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "White": 307,
+        "Gold": 232,
+        "Red": 232
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "White": 442,
+        "Gold": 360,
+        "Red": 355
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "White": 333,
+        "Gold": 276,
+        "Red": 272
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "White": 359,
+        "Gold": 337,
+        "Red": 327
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "White": 336,
+        "Gold": 276,
+        "Red": 266
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "White": 365,
+        "Gold": 355,
+        "Red": 322
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "White": 185,
+        "Gold": 124,
+        "Red": 111
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "White": 454,
+        "Gold": 421,
+        "Red": 407
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "White": 180,
+        "Gold": 128,
+        "Red": 110
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "White": 144,
+        "Gold": 137,
+        "Red": 131
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 18,
+      "yards": {
+        "White": 295,
+        "Gold": 270,
+        "Red": 268
+      }
+    }
+  ],
+  "version": 1
+}

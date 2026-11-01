@@ -1,0 +1,107 @@
+{
+  "id": "wedgewood-golf-course",
+  "name": "Wedgewood Golf Course",
+  "town": "Grand Island, FL",
+  "location": {
+    "lat": 28.87822,
+    "lng": -81.747411
+  },
+  "tees": [
+    "Web",
+    "Ladies",
+    "Mens"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Web": 148,
+        "Ladies": 139,
+        "Mens": 139
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Web": 198,
+        "Ladies": 208,
+        "Mens": 208
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Web": 120,
+        "Ladies": 121,
+        "Mens": 121
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Web": 160,
+        "Ladies": 165,
+        "Mens": 165
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Web": 155,
+        "Ladies": 182,
+        "Mens": 182
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Web": 152,
+        "Ladies": 137,
+        "Mens": 137
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Web": 127,
+        "Ladies": 118,
+        "Mens": 118
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Web": 182,
+        "Ladies": 174,
+        "Mens": 174
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Web": 149,
+        "Ladies": 145,
+        "Mens": 145
+      }
+    }
+  ],
+  "version": 1
+}

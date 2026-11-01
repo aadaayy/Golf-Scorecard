@@ -1,0 +1,235 @@
+{
+  "id": "hernando-oaks-golf-country-club",
+  "name": "Hernando Oaks Golf Country Club",
+  "town": "Brooksville, FL",
+  "location": {
+    "lat": 28.508064,
+    "lng": -82.43071
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Orange",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 377,
+        "Blue": 352,
+        "White": 344,
+        "Orange": 325,
+        "Red": 299
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 421,
+        "Blue": 396,
+        "White": 365,
+        "Orange": 358,
+        "Red": 312
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 193,
+        "Blue": 170,
+        "White": 147,
+        "Orange": 136,
+        "Red": 98
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 552,
+        "Blue": 520,
+        "White": 511,
+        "Orange": 485,
+        "Red": 459
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 410,
+        "Blue": 399,
+        "White": 389,
+        "Orange": 313,
+        "Red": 288
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Gold": 289,
+        "Blue": 281,
+        "White": 256,
+        "Orange": 216,
+        "Red": 188
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 200,
+        "Blue": 178,
+        "White": 156,
+        "Orange": 119,
+        "Red": 112
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Gold": 556,
+        "Blue": 529,
+        "White": 493,
+        "Orange": 447,
+        "Red": 443
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 404,
+        "Blue": 372,
+        "White": 363,
+        "Orange": 337,
+        "Red": 298
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 404,
+        "Blue": 381,
+        "White": 370,
+        "Orange": 362,
+        "Red": 325
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Gold": 215,
+        "Blue": 181,
+        "White": 153,
+        "Orange": 136,
+        "Red": 98
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 417,
+        "Blue": 399,
+        "White": 311,
+        "Orange": 281,
+        "Red": 277
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 391,
+        "Blue": 368,
+        "White": 341,
+        "Orange": 312,
+        "Red": 304
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Gold": 384,
+        "Blue": 351,
+        "White": 330,
+        "Orange": 323,
+        "Red": 297
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Gold": 538,
+        "Blue": 507,
+        "White": 472,
+        "Orange": 447,
+        "Red": 441
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 191,
+        "Blue": 157,
+        "White": 146,
+        "Orange": 127,
+        "Red": 102
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 429,
+        "Blue": 403,
+        "White": 394,
+        "Orange": 341,
+        "Red": 344
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Gold": 538,
+        "Blue": 513,
+        "White": 479,
+        "Orange": 419,
+        "Red": 419
+      }
+    }
+  ],
+  "version": 1
+}

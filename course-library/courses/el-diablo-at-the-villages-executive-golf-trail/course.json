@@ -1,0 +1,116 @@
+{
+  "id": "el-diablo-at-the-villages-executive-golf-trail",
+  "name": "El Diablo At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.947288,
+    "lng": -81.983879
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 159,
+        "White": 142,
+        "Red": 86
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 127,
+        "White": 106,
+        "Red": 69
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 185,
+        "White": 172,
+        "Red": 72
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 157,
+        "White": 131,
+        "Red": 73
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Blue": 172,
+        "White": 152,
+        "Red": 134
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 176,
+        "White": 111,
+        "Red": 60
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 197,
+        "White": 175,
+        "Red": 117
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 148,
+        "White": 122,
+        "Red": 85
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Blue": 165,
+        "White": 151,
+        "Red": 115
+      },
+      "map": "el-diablo-at-the-villages-executive-golf-trail-09"
+    }
+  ],
+  "version": 1
+}

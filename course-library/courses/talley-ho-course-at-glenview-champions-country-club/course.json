@@ -1,0 +1,146 @@
+{
+  "id": "talley-ho-course-at-glenview-champions-country-club",
+  "name": "Talley Ho Course At Glenview Champions Country Club",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.949329,
+    "lng": -82.006792
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 513,
+        "Gold": 509,
+        "Blue": 489,
+        "White": 453,
+        "Green": 401,
+        "Friendly": 296
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 378,
+        "Gold": 349,
+        "Blue": 324,
+        "White": 292,
+        "Green": 254,
+        "Friendly": 205
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 435,
+        "Gold": 421,
+        "Blue": 388,
+        "White": 368,
+        "Green": 322,
+        "Friendly": 210
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 199,
+        "Gold": 185,
+        "Blue": 169,
+        "White": 139,
+        "Green": 120,
+        "Friendly": 120
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 402,
+        "Gold": 382,
+        "Blue": 346,
+        "White": 292,
+        "Green": 274,
+        "Friendly": 200
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 442,
+        "Gold": 388,
+        "Blue": 368,
+        "White": 342,
+        "Green": 304,
+        "Friendly": 223
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 206,
+        "Gold": 172,
+        "Blue": 151,
+        "White": 133,
+        "Green": 93,
+        "Friendly": 93
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Black": 382,
+        "Gold": 328,
+        "Blue": 313,
+        "White": 274,
+        "Green": 237,
+        "Friendly": 237
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 550,
+        "Gold": 531,
+        "Blue": 510,
+        "White": 456,
+        "Green": 382,
+        "Friendly": 275
+      },
+      "map": "talley-ho-course-at-glenview-champions-country-club-09"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,146 @@
+{
+  "id": "laurel-valley-course-at-palmer-legends",
+  "name": "Laurel Valley Course At Palmer Legends",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.910194,
+    "lng": -81.993289
+  },
+  "tees": [
+    "Black",
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Friendly"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 401,
+        "Gold": 369,
+        "Blue": 355,
+        "White": 314,
+        "Green": 288,
+        "Friendly": 196
+      },
+      "map": "laurel-valley-course-at-palmer-legends-01"
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 593,
+        "Gold": 565,
+        "Blue": 515,
+        "White": 463,
+        "Green": 458,
+        "Friendly": 325
+      },
+      "map": "laurel-valley-course-at-palmer-legends-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 391,
+        "Gold": 387,
+        "Blue": 360,
+        "White": 321,
+        "Green": 280,
+        "Friendly": 239
+      },
+      "map": "laurel-valley-course-at-palmer-legends-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 572,
+        "Gold": 550,
+        "Blue": 526,
+        "White": 429,
+        "Green": 423,
+        "Friendly": 296
+      },
+      "map": "laurel-valley-course-at-palmer-legends-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 394,
+        "Gold": 372,
+        "Blue": 346,
+        "White": 299,
+        "Green": 272,
+        "Friendly": 194
+      },
+      "map": "laurel-valley-course-at-palmer-legends-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 150,
+        "Gold": 145,
+        "Blue": 121,
+        "White": 103,
+        "Green": 71,
+        "Friendly": 71
+      },
+      "map": "laurel-valley-course-at-palmer-legends-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 457,
+        "Gold": 414,
+        "Blue": 377,
+        "White": 326,
+        "Green": 294,
+        "Friendly": 202
+      },
+      "map": "laurel-valley-course-at-palmer-legends-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 221,
+        "Gold": 177,
+        "Blue": 156,
+        "White": 128,
+        "Green": 106,
+        "Friendly": 106
+      },
+      "map": "laurel-valley-course-at-palmer-legends-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 460,
+        "Gold": 409,
+        "Blue": 357,
+        "White": 332,
+        "Green": 296,
+        "Friendly": 233
+      },
+      "map": "laurel-valley-course-at-palmer-legends-09"
+    }
+  ],
+  "version": 1
+}

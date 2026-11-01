@@ -1,0 +1,235 @@
+{
+  "id": "stillwater-golf-and-country-club",
+  "name": "Stillwater Golf And Country Club",
+  "town": "St Johns, FL",
+  "location": {
+    "lat": 30.061223,
+    "lng": -81.557292
+  },
+  "tees": [
+    "Green",
+    "Blue",
+    "Black",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Green": 435,
+        "Blue": 414,
+        "Black": 368,
+        "White": 348,
+        "Red": 328
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Green": 192,
+        "Blue": 178,
+        "Black": 167,
+        "White": 143,
+        "Red": 134
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Green": 339,
+        "Blue": 319,
+        "Black": 277,
+        "White": 256,
+        "Red": 225
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Green": 189,
+        "Blue": 165,
+        "Black": 143,
+        "White": 112,
+        "Red": 100
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Green": 550,
+        "Blue": 523,
+        "Black": 462,
+        "White": 443,
+        "Red": 403
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Green": 294,
+        "Blue": 279,
+        "Black": 244,
+        "White": 229,
+        "Red": 184
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Green": 417,
+        "Blue": 403,
+        "Black": 373,
+        "White": 353,
+        "Red": 305
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Green": 539,
+        "Blue": 501,
+        "Black": 455,
+        "White": 439,
+        "Red": 397
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Green": 342,
+        "Blue": 312,
+        "Black": 295,
+        "White": 252,
+        "Red": 240
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Green": 196,
+        "Blue": 187,
+        "Black": 174,
+        "White": 157,
+        "Red": 138
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Green": 605,
+        "Blue": 553,
+        "Black": 517,
+        "White": 477,
+        "Red": 431
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Green": 387,
+        "Blue": 374,
+        "Black": 353,
+        "White": 304,
+        "Red": 268
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Green": 466,
+        "Blue": 437,
+        "Black": 410,
+        "White": 369,
+        "Red": 340
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Green": 537,
+        "Blue": 506,
+        "Black": 488,
+        "White": 443,
+        "Red": 402
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Green": 140,
+        "Blue": 130,
+        "Black": 121,
+        "White": 110,
+        "Red": 97
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Green": 499,
+        "Blue": 464,
+        "Black": 445,
+        "White": 397,
+        "Red": 356
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Green": 234,
+        "Blue": 214,
+        "Black": 168,
+        "White": 147,
+        "Red": 121
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Green": 384,
+        "Blue": 355,
+        "Black": 337,
+        "White": 309,
+        "Red": 291
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,234 @@
+{
+  "id": "stoneybrook-east-golf-course",
+  "name": "Stoneybrook East Golf Course",
+  "town": "Orlando, FL",
+  "location": {
+    "lat": 28.513103,
+    "lng": -81.180641
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Black": 380,
+        "Blue": 345,
+        "White": 323,
+        "Red": 287
+      },
+      "map": "stoneybrook-east-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 425,
+        "Blue": 380,
+        "White": 356,
+        "Red": 293
+      },
+      "map": "stoneybrook-east-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 182,
+        "Blue": 163,
+        "White": 140,
+        "Red": 92
+      },
+      "map": "stoneybrook-east-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 13,
+      "yards": {
+        "Black": 559,
+        "Blue": 527,
+        "White": 501,
+        "Red": 453
+      },
+      "map": "stoneybrook-east-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Black": 363,
+        "Blue": 324,
+        "White": 305,
+        "Red": 250
+      },
+      "map": "stoneybrook-east-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 196,
+        "Blue": 155,
+        "White": 135,
+        "Red": 97
+      },
+      "map": "stoneybrook-east-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 403,
+        "Blue": 380,
+        "White": 336,
+        "Red": 302
+      },
+      "map": "stoneybrook-east-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Black": 551,
+        "Blue": 530,
+        "White": 507,
+        "Red": 426
+      },
+      "map": "stoneybrook-east-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Black": 346,
+        "Blue": 331,
+        "White": 312,
+        "Red": 270
+      },
+      "map": "stoneybrook-east-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Black": 390,
+        "Blue": 367,
+        "White": 349,
+        "Red": 292
+      },
+      "map": "stoneybrook-east-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Black": 554,
+        "Blue": 513,
+        "White": 468,
+        "Red": 432
+      },
+      "map": "stoneybrook-east-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Black": 177,
+        "Blue": 153,
+        "White": 143,
+        "Red": 112
+      },
+      "map": "stoneybrook-east-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 420,
+        "Blue": 376,
+        "White": 322,
+        "Red": 272
+      },
+      "map": "stoneybrook-east-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 525,
+        "Blue": 499,
+        "White": 474,
+        "Red": 375
+      },
+      "map": "stoneybrook-east-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 157,
+        "Blue": 132,
+        "White": 123,
+        "Red": 107
+      },
+      "map": "stoneybrook-east-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 445,
+        "Blue": 406,
+        "White": 384,
+        "Red": 314
+      },
+      "map": "stoneybrook-east-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 365,
+        "Blue": 348,
+        "White": 298,
+        "Red": 242
+      },
+      "map": "stoneybrook-east-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 404,
+        "Blue": 355,
+        "White": 303,
+        "Red": 277
+      },
+      "map": "stoneybrook-east-golf-course-18"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,311 @@
+{
+  "id": "sawgrass-country-club-west-east",
+  "name": "Sawgrass Country Club West East",
+  "town": "Ponte Vedra Beach, FL",
+  "location": {
+    "lat": 30.188018,
+    "lng": -81.370232
+  },
+  "tees": [
+    "Gold",
+    "Web",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Green",
+    "Green",
+    "Green/Red",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 398,
+        "Web": 398,
+        "Blue": 379,
+        "Blue/White": 350,
+        "White": 350,
+        "White/Green": 350,
+        "Green": 316,
+        "Green/Red": 288,
+        "Red": 288
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Gold": 414,
+        "Web": 414,
+        "Blue": 392,
+        "Blue/White": 372,
+        "White": 372,
+        "White/Green": 328,
+        "Green": 328,
+        "Green/Red": 328,
+        "Red": 305
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 194,
+        "Web": 194,
+        "Blue": 181,
+        "Blue/White": 181,
+        "White": 165,
+        "White/Green": 165,
+        "Green": 144,
+        "Green/Red": 125,
+        "Red": 125
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 7,
+      "yards": {
+        "Gold": 518,
+        "Web": 518,
+        "Blue": 497,
+        "Blue/White": 497,
+        "White": 467,
+        "White/Green": 422,
+        "Green": 422,
+        "Green/Red": 422,
+        "Red": 368
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Gold": 431,
+        "Web": 431,
+        "Blue": 412,
+        "Blue/White": 412,
+        "White": 370,
+        "White/Green": 344,
+        "Green": 344,
+        "Green/Red": 323,
+        "Red": 323
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Gold": 184,
+        "Web": 184,
+        "Blue": 173,
+        "Blue/White": 152,
+        "White": 152,
+        "White/Green": 152,
+        "Green": 135,
+        "Green/Red": 135,
+        "Red": 117
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 419,
+        "Web": 419,
+        "Blue": 396,
+        "Blue/White": 364,
+        "White": 364,
+        "White/Green": 328,
+        "Green": 328,
+        "Green/Red": 328,
+        "Red": 310
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Gold": 536,
+        "Web": 536,
+        "Blue": 522,
+        "Blue/White": 522,
+        "White": 515,
+        "White/Green": 515,
+        "Green": 430,
+        "Green/Red": 408,
+        "Red": 408
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Gold": 434,
+        "Web": 434,
+        "Blue": 405,
+        "Blue/White": 390,
+        "White": 390,
+        "White/Green": 369,
+        "Green": 369,
+        "Green/Red": 369,
+        "Red": 331
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 407,
+        "Web": 404,
+        "Blue": 387,
+        "Blue/White": 370,
+        "White": 370,
+        "White/Green": 340,
+        "Green": 340,
+        "Green/Red": 340,
+        "Red": 314
+      }
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Gold": 566,
+        "Web": 565,
+        "Blue": 517,
+        "Blue/White": 517,
+        "White": 490,
+        "White/Green": 458,
+        "Green": 458,
+        "Green/Red": 458,
+        "Red": 419
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 196,
+        "Web": 195,
+        "Blue": 165,
+        "Blue/White": 156,
+        "White": 156,
+        "White/Green": 156,
+        "Green": 131,
+        "Green/Red": 131,
+        "Red": 116
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 463,
+        "Web": 464,
+        "Blue": 430,
+        "Blue/White": 407,
+        "White": 407,
+        "White/Green": 374,
+        "Green": 374,
+        "Green/Red": 352,
+        "Red": 352
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 378,
+        "Web": 378,
+        "Blue": 369,
+        "Blue/White": 369,
+        "White": 351,
+        "White/Green": 351,
+        "Green": 321,
+        "Green/Red": 294,
+        "Red": 294
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Gold": 201,
+        "Web": 201,
+        "Blue": 188,
+        "Blue/White": 168,
+        "White": 168,
+        "White/Green": 149,
+        "Green": 149,
+        "Green/Red": 107,
+        "Red": 107
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 381,
+        "Web": 379,
+        "Blue": 356,
+        "Blue/White": 356,
+        "White": 333,
+        "White/Green": 333,
+        "Green": 294,
+        "Green/Red": 256,
+        "Red": 256
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Gold": 433,
+        "Web": 429,
+        "Blue": 407,
+        "Blue/White": 387,
+        "White": 387,
+        "White/Green": 352,
+        "Green": 352,
+        "Green/Red": 320,
+        "Red": 320
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Gold": 525,
+        "Web": 526,
+        "Blue": 509,
+        "Blue/White": 509,
+        "White": 486,
+        "White/Green": 486,
+        "Green": 450,
+        "Green/Red": 416,
+        "Red": 416
+      }
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,97 @@
+{
+  "id": "betmar-acres-golf-club-gold-course",
+  "name": "Betmar Acres Golf Club Gold Course",
+  "town": "Zephyrhills, FL",
+  "location": {
+    "lat": 28.237675,
+    "lng": -82.201725
+  },
+  "tees": [
+    "Mens",
+    "Ladies"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Mens": 164,
+        "Ladies": 143
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Mens": 196,
+        "Ladies": 164
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Mens": 127,
+        "Ladies": 129
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Mens": 222,
+        "Ladies": 194
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Mens": 274,
+        "Ladies": 232
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Mens": 107,
+        "Ladies": 107
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Mens": 150,
+        "Ladies": 115
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Mens": 258,
+        "Ladies": 189
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Mens": 119,
+        "Ladies": 119
+      }
+    }
+  ],
+  "version": 1
+}

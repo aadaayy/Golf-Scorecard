@@ -1,0 +1,117 @@
+{
+  "id": "escambia-at-the-villages-executive-golf-trail",
+  "name": "Escambia At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.858622,
+    "lng": -81.951166
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 140,
+        "Web": 140,
+        "Gold": 115,
+        "Green": 92
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 150,
+        "Web": 150,
+        "Gold": 128,
+        "Green": 105
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 142,
+        "Web": 142,
+        "Gold": 122,
+        "Green": 90
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 198,
+        "Web": 198,
+        "Gold": 172,
+        "Green": 140
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 140,
+        "Web": 140,
+        "Gold": 100,
+        "Green": 79
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Black": 173,
+        "Web": 173,
+        "Gold": 155,
+        "Green": 130
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 152,
+        "Web": 152,
+        "Gold": 126,
+        "Green": 104
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 114,
+        "Web": 114,
+        "Gold": 104,
+        "Green": 70
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 128,
+        "Web": 128,
+        "Gold": 112,
+        "Green": 88
+      }
+    }
+  ],
+  "version": 1
+}

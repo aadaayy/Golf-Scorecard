@@ -1,0 +1,254 @@
+{
+  "id": "tampa-palms-golf-country-club",
+  "name": "Tampa Palms Golf Country Club",
+  "town": "Tampa, FL",
+  "location": {
+    "lat": 28.095101,
+    "lng": -82.391289
+  },
+  "tees": [
+    "Tees 1",
+    "Tees 2",
+    "Tees 3",
+    "Tees 4",
+    "Combo 4/5",
+    "Tees 5"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Tees 1": 433,
+        "Tees 2": 386,
+        "Tees 3": 325,
+        "Tees 4": 325,
+        "Combo 4/5": 325,
+        "Tees 5": 280
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Tees 1": 177,
+        "Tees 2": 157,
+        "Tees 3": 157,
+        "Tees 4": 122,
+        "Combo 4/5": 122,
+        "Tees 5": 100
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Tees 1": 391,
+        "Tees 2": 364,
+        "Tees 3": 364,
+        "Tees 4": 307,
+        "Combo 4/5": 307,
+        "Tees 5": 267
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Tees 1": 447,
+        "Tees 2": 415,
+        "Tees 3": 392,
+        "Tees 4": 392,
+        "Combo 4/5": 296,
+        "Tees 5": 296
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Tees 1": 548,
+        "Tees 2": 494,
+        "Tees 3": 494,
+        "Tees 4": 472,
+        "Combo 4/5": 391,
+        "Tees 5": 391
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Tees 1": 341,
+        "Tees 2": 312,
+        "Tees 3": 312,
+        "Tees 4": 277,
+        "Combo 4/5": 277,
+        "Tees 5": 260
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Tees 1": 393,
+        "Tees 2": 372,
+        "Tees 3": 345,
+        "Tees 4": 345,
+        "Combo 4/5": 323,
+        "Tees 5": 323
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Tees 1": 518,
+        "Tees 2": 496,
+        "Tees 3": 470,
+        "Tees 4": 470,
+        "Combo 4/5": 379,
+        "Tees 5": 379
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 10,
+      "yards": {
+        "Tees 1": 196,
+        "Tees 2": 170,
+        "Tees 3": 170,
+        "Tees 4": 145,
+        "Combo 4/5": 145,
+        "Tees 5": 119
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Tees 1": 351,
+        "Tees 2": 320,
+        "Tees 3": 320,
+        "Tees 4": 302,
+        "Combo 4/5": 302,
+        "Tees 5": 264
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Tees 1": 460,
+        "Tees 2": 431,
+        "Tees 3": 382,
+        "Tees 4": 382,
+        "Combo 4/5": 342,
+        "Tees 5": 342
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Tees 1": 524,
+        "Tees 2": 496,
+        "Tees 3": 496,
+        "Tees 4": 466,
+        "Combo 4/5": 382,
+        "Tees 5": 382
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Tees 1": 209,
+        "Tees 2": 178,
+        "Tees 3": 178,
+        "Tees 4": 141,
+        "Combo 4/5": 141,
+        "Tees 5": 106
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Tees 1": 428,
+        "Tees 2": 393,
+        "Tees 3": 393,
+        "Tees 4": 336,
+        "Combo 4/5": 336,
+        "Tees 5": 266
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Tees 1": 462,
+        "Tees 2": 434,
+        "Tees 3": 392,
+        "Tees 4": 392,
+        "Combo 4/5": 374,
+        "Tees 5": 374
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Tees 1": 549,
+        "Tees 2": 529,
+        "Tees 3": 511,
+        "Tees 4": 511,
+        "Combo 4/5": 432,
+        "Tees 5": 432
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Tees 1": 185,
+        "Tees 2": 150,
+        "Tees 3": 150,
+        "Tees 4": 118,
+        "Combo 4/5": 118,
+        "Tees 5": 80
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Tees 1": 374,
+        "Tees 2": 332,
+        "Tees 3": 332,
+        "Tees 4": 288,
+        "Combo 4/5": 288,
+        "Tees 5": 249
+      }
+    }
+  ],
+  "version": 1
+}

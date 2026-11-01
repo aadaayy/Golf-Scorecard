@@ -1,0 +1,234 @@
+{
+  "id": "mount-dora-golf-club",
+  "name": "Mount Dora Golf Club",
+  "town": "Mt Dora, FL",
+  "location": {
+    "lat": 28.787602,
+    "lng": -81.635119
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red",
+    "Gold"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 320,
+        "White": 309,
+        "Red": 299,
+        "Gold": 200
+      },
+      "map": "mount-dora-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 330,
+        "White": 322,
+        "Red": 311,
+        "Gold": 244
+      },
+      "map": "mount-dora-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 177,
+        "White": 160,
+        "Red": 143,
+        "Gold": 143
+      },
+      "map": "mount-dora-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 358,
+        "White": 347,
+        "Red": 333,
+        "Gold": 261
+      },
+      "map": "mount-dora-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Blue": 489,
+        "White": 473,
+        "Red": 427,
+        "Gold": 394
+      },
+      "map": "mount-dora-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 457,
+        "White": 447,
+        "Red": 435,
+        "Gold": 410
+      },
+      "map": "mount-dora-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 136,
+        "White": 131,
+        "Red": 127,
+        "Gold": 127
+      },
+      "map": "mount-dora-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 15,
+      "yards": {
+        "Blue": 299,
+        "White": 286,
+        "Red": 271,
+        "Gold": 227
+      },
+      "map": "mount-dora-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Blue": 376,
+        "White": 374,
+        "Red": 367,
+        "Gold": 297
+      },
+      "map": "mount-dora-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 354,
+        "White": 344,
+        "Red": 334,
+        "Gold": 261
+      },
+      "map": "mount-dora-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 143,
+        "White": 135,
+        "Red": 128,
+        "Gold": 128
+      },
+      "map": "mount-dora-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 398,
+        "White": 355,
+        "Red": 348,
+        "Gold": 302
+      },
+      "map": "mount-dora-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 167,
+        "White": 148,
+        "Red": 128,
+        "Gold": 128
+      },
+      "map": "mount-dora-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 315,
+        "White": 305,
+        "Red": 296,
+        "Gold": 234
+      },
+      "map": "mount-dora-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 360,
+        "White": 343,
+        "Red": 335,
+        "Gold": 278
+      },
+      "map": "mount-dora-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 446,
+        "White": 420,
+        "Red": 411,
+        "Gold": 326
+      },
+      "map": "mount-dora-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Blue": 175,
+        "White": 163,
+        "Red": 153,
+        "Gold": 103
+      },
+      "map": "mount-dora-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 419,
+        "White": 408,
+        "Red": 392,
+        "Gold": 347
+      },
+      "map": "mount-dora-golf-club-18"
+    }
+  ],
+  "version": 1
+}

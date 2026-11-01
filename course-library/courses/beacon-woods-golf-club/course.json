@@ -1,0 +1,197 @@
+{
+  "id": "beacon-woods-golf-club",
+  "name": "Beacon Woods Golf Club",
+  "town": "Bayonet Point, FL",
+  "location": {
+    "lat": 28.337936,
+    "lng": -82.681787
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 342,
+        "White": 300,
+        "Red": 266
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 357,
+        "White": 335,
+        "Red": 301
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 150,
+        "White": 127,
+        "Red": 100
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Blue": 475,
+        "White": 419,
+        "Red": 420
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 307,
+        "White": 292,
+        "Red": 245
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 190,
+        "White": 165,
+        "Red": 113
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 343,
+        "White": 328,
+        "Red": 248
+      }
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 2,
+      "yards": {
+        "Blue": 464,
+        "White": 428,
+        "Red": 388
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Blue": 320,
+        "White": 285,
+        "Red": 255
+      }
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 347,
+        "White": 335,
+        "Red": 285
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 320,
+        "White": 276,
+        "Red": 252
+      }
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 135,
+        "White": 127,
+        "Red": 101
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 351,
+        "White": 334,
+        "Red": 262
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 515,
+        "White": 472,
+        "Red": 454
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 343,
+        "White": 303,
+        "Red": 260
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 168,
+        "White": 157,
+        "Red": 140
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 380,
+        "White": 371,
+        "Red": 233
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Blue": 475,
+        "White": 435,
+        "Red": 405
+      }
+    }
+  ],
+  "version": 1
+}

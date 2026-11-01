@@ -1,0 +1,117 @@
+{
+  "id": "honeysuckle-at-the-villages-executive-golf-trail",
+  "name": "Honeysuckle At The Villages Executive Golf Trail",
+  "town": "The Villages, FL",
+  "location": {
+    "lat": 28.971125,
+    "lng": -82.029636
+  },
+  "tees": [
+    "Black",
+    "Web",
+    "Gold",
+    "Green"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "handicap": 1,
+      "yards": {
+        "Black": 130,
+        "Web": 130,
+        "Gold": 103,
+        "Green": 74
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 322,
+        "Web": 322,
+        "Gold": 303,
+        "Green": 198
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Black": 188,
+        "Web": 188,
+        "Gold": 158,
+        "Green": 84
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Black": 190,
+        "Web": 190,
+        "Gold": 160,
+        "Green": 130
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 5,
+      "yards": {
+        "Black": 177,
+        "Web": 177,
+        "Gold": 147,
+        "Green": 111
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Black": 157,
+        "Web": 157,
+        "Gold": 129,
+        "Green": 81
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 138,
+        "Web": 138,
+        "Gold": 115,
+        "Green": 88
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Black": 193,
+        "Web": 193,
+        "Gold": 163,
+        "Green": 128
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Black": 143,
+        "Web": 143,
+        "Gold": 122,
+        "Green": 103
+      }
+    }
+  ],
+  "version": 1
+}
