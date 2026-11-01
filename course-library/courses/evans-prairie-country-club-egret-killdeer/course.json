@@ -26,7 +26,8 @@
         "White": 469,
         "Green": 375,
         "Friendly": 353
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 276,
         "Green": 209,
         "Friendly": 203
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 331,
         "Green": 281,
         "Friendly": 233
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 129,
         "Green": 105,
         "Friendly": 100
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 324,
         "Green": 282,
         "Friendly": 223
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "White": 343,
         "Green": 326,
         "Friendly": 254
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "White": 108,
         "Green": 87,
         "Friendly": 87
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-07"
     },
     {
       "number": 8,
@@ -117,7 +124,8 @@
         "White": 279,
         "Green": 231,
         "Friendly": 163
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-08"
     },
     {
       "number": 9,
@@ -130,7 +138,8 @@
         "White": 465,
         "Green": 420,
         "Friendly": 305
-      }
+      },
+      "map": "evans-prairie-country-club-egret-killdeer-09"
     },
     {
       "number": 10,
@@ -250,5 +259,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

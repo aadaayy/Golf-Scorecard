@@ -24,7 +24,8 @@
         "White": 375,
         "Gold": 290,
         "Red": 285
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "White": 363,
         "Gold": 307,
         "Red": 302
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "White": 160,
         "Gold": 145,
         "Red": 102
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "White": 352,
         "Gold": 297,
         "Red": 292
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
         "White": 345,
         "Gold": 333,
         "Red": 278
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-05"
     },
     {
       "number": 6,
@@ -84,7 +89,8 @@
         "White": 337,
         "Gold": 279,
         "Red": 274
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-06"
     },
     {
       "number": 7,
@@ -96,7 +102,8 @@
         "White": 148,
         "Gold": 138,
         "Red": 100
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-07"
     },
     {
       "number": 8,
@@ -108,7 +115,8 @@
         "White": 340,
         "Gold": 288,
         "Red": 283
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-08"
     },
     {
       "number": 9,
@@ -120,7 +128,8 @@
         "White": 479,
         "Gold": 326,
         "Red": 321
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-09"
     },
     {
       "number": 10,
@@ -132,7 +141,8 @@
         "White": 393,
         "Gold": 323,
         "Red": 318
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-10"
     },
     {
       "number": 11,
@@ -144,7 +154,8 @@
         "White": 356,
         "Gold": 290,
         "Red": 285
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-11"
     },
     {
       "number": 12,
@@ -156,7 +167,8 @@
         "White": 338,
         "Gold": 329,
         "Red": 292
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-12"
     },
     {
       "number": 13,
@@ -180,7 +192,8 @@
         "White": 546,
         "Gold": 479,
         "Red": 474
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-14"
     },
     {
       "number": 15,
@@ -192,7 +205,8 @@
         "White": 493,
         "Gold": 430,
         "Red": 425
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-15"
     },
     {
       "number": 16,
@@ -204,7 +218,8 @@
         "White": 179,
         "Gold": 153,
         "Red": 148
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-16"
     },
     {
       "number": 17,
@@ -216,7 +231,8 @@
         "White": 521,
         "Gold": 460,
         "Red": 455
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-17"
     },
     {
       "number": 18,
@@ -228,8 +244,9 @@
         "White": 366,
         "Gold": 314,
         "Red": 309
-      }
+      },
+      "map": "south-at-bay-palms-golf-complex-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

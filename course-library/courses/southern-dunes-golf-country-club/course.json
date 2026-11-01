@@ -28,7 +28,8 @@
         "White/Gold": 349,
         "Gold": 292,
         "Red": 245
-      }
+      },
+      "map": "southern-dunes-golf-country-club-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "White/Gold": 327,
         "Gold": 283,
         "Red": 250
-      }
+      },
+      "map": "southern-dunes-golf-country-club-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "White/Gold": 125,
         "Gold": 125,
         "Red": 94
-      }
+      },
+      "map": "southern-dunes-golf-country-club-03"
     },
     {
       "number": 4,
@@ -269,5 +272,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

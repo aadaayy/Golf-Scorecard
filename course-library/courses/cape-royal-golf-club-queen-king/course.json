@@ -24,7 +24,8 @@
         "White": 336,
         "Yellow": 283,
         "Red": 278
-      }
+      },
+      "map": "cape-royal-golf-club-queen-king-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "White": 172,
         "Yellow": 123,
         "Red": 115
-      }
+      },
+      "map": "cape-royal-golf-club-queen-king-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "White": 373,
         "Yellow": 316,
         "Red": 310
-      }
+      },
+      "map": "cape-royal-golf-club-queen-king-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "White": 509,
         "Yellow": 468,
         "Red": 464
-      }
+      },
+      "map": "cape-royal-golf-club-queen-king-04"
     },
     {
       "number": 5,
@@ -96,7 +100,8 @@
         "White": 481,
         "Yellow": 400,
         "Red": 393
-      }
+      },
+      "map": "cape-royal-golf-club-queen-king-07"
     },
     {
       "number": 8,
@@ -108,7 +113,8 @@
         "White": 95,
         "Yellow": 85,
         "Red": 81
-      }
+      },
+      "map": "cape-royal-golf-club-queen-king-08"
     },
     {
       "number": 9,
@@ -120,7 +126,8 @@
         "White": 383,
         "Yellow": 335,
         "Red": 287
-      }
+      },
+      "map": "cape-royal-golf-club-queen-king-09"
     },
     {
       "number": 10,
@@ -231,5 +238,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -20,7 +20,8 @@
         "Blue": 163,
         "Gold": 142,
         "Red": 100
-      }
+      },
+      "map": "longleaf-executive-golf-course-01"
     },
     {
       "number": 2,
@@ -90,7 +91,8 @@
         "Blue": 167,
         "Gold": 146,
         "Red": 98
-      }
+      },
+      "map": "longleaf-executive-golf-course-08"
     },
     {
       "number": 9,
@@ -100,8 +102,9 @@
         "Blue": 167,
         "Gold": 143,
         "Red": 62
-      }
+      },
+      "map": "longleaf-executive-golf-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -26,7 +26,8 @@
         "White": 285,
         "Green": 231,
         "Friendly": 188
-      }
+      },
+      "map": "riley-grove-course-at-palmer-legends-01"
     },
     {
       "number": 2,
@@ -52,7 +53,8 @@
         "White": 268,
         "Green": 234,
         "Friendly": 179
-      }
+      },
+      "map": "riley-grove-course-at-palmer-legends-03"
     },
     {
       "number": 4,
@@ -65,7 +67,8 @@
         "White": 452,
         "Green": 414,
         "Friendly": 359
-      }
+      },
+      "map": "riley-grove-course-at-palmer-legends-04"
     },
     {
       "number": 5,
@@ -78,7 +81,8 @@
         "White": 321,
         "Green": 246,
         "Friendly": 196
-      }
+      },
+      "map": "riley-grove-course-at-palmer-legends-05"
     },
     {
       "number": 6,
@@ -91,7 +95,8 @@
         "White": 106,
         "Green": 89,
         "Friendly": 56
-      }
+      },
+      "map": "riley-grove-course-at-palmer-legends-06"
     },
     {
       "number": 7,
@@ -104,7 +109,8 @@
         "White": 311,
         "Green": 270,
         "Friendly": 244
-      }
+      },
+      "map": "riley-grove-course-at-palmer-legends-07"
     },
     {
       "number": 8,
@@ -117,7 +123,8 @@
         "White": 125,
         "Green": 99,
         "Friendly": 99
-      }
+      },
+      "map": "riley-grove-course-at-palmer-legends-08"
     },
     {
       "number": 9,
@@ -130,8 +137,9 @@
         "White": 467,
         "Green": 445,
         "Friendly": 280
-      }
+      },
+      "map": "riley-grove-course-at-palmer-legends-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

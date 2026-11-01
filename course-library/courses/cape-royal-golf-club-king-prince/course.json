@@ -24,7 +24,8 @@
         "White": 335,
         "Yellow": 328,
         "Red": 279
-      }
+      },
+      "map": "cape-royal-golf-club-king-prince-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "White": 469,
         "Yellow": 462,
         "Red": 404
-      }
+      },
+      "map": "cape-royal-golf-club-king-prince-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "White": 345,
         "Yellow": 320,
         "Red": 258
-      }
+      },
+      "map": "cape-royal-golf-club-king-prince-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "White": 354,
         "Yellow": 346,
         "Red": 308
-      }
+      },
+      "map": "cape-royal-golf-club-king-prince-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
         "White": 124,
         "Yellow": 68,
         "Red": 63
-      }
+      },
+      "map": "cape-royal-golf-club-king-prince-05"
     },
     {
       "number": 6,
@@ -84,7 +89,8 @@
         "White": 493,
         "Yellow": 423,
         "Red": 416
-      }
+      },
+      "map": "cape-royal-golf-club-king-prince-06"
     },
     {
       "number": 7,
@@ -96,7 +102,8 @@
         "White": 380,
         "Yellow": 302,
         "Red": 290
-      }
+      },
+      "map": "cape-royal-golf-club-king-prince-07"
     },
     {
       "number": 8,
@@ -120,7 +127,8 @@
         "White": 329,
         "Yellow": 323,
         "Red": 261
-      }
+      },
+      "map": "cape-royal-golf-club-king-prince-09"
     },
     {
       "number": 10,
@@ -231,5 +239,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

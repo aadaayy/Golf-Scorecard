@@ -26,7 +26,8 @@
         "White": 286,
         "Green": 271,
         "Friendly": 220
-      }
+      },
+      "map": "kenya-hemingway-at-havana-country-club-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 304,
         "Green": 261,
         "Friendly": 235
-      }
+      },
+      "map": "kenya-hemingway-at-havana-country-club-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 326,
         "Green": 303,
         "Friendly": 204
-      }
+      },
+      "map": "kenya-hemingway-at-havana-country-club-03"
     },
     {
       "number": 4,
@@ -78,7 +81,8 @@
         "White": 499,
         "Green": 460,
         "Friendly": 336
-      }
+      },
+      "map": "kenya-hemingway-at-havana-country-club-05"
     },
     {
       "number": 6,
@@ -91,7 +95,8 @@
         "White": 343,
         "Green": 306,
         "Friendly": 237
-      }
+      },
+      "map": "kenya-hemingway-at-havana-country-club-06"
     },
     {
       "number": 7,
@@ -117,7 +122,8 @@
         "White": 451,
         "Green": 435,
         "Friendly": 314
-      }
+      },
+      "map": "kenya-hemingway-at-havana-country-club-08"
     },
     {
       "number": 9,
@@ -130,7 +136,8 @@
         "White": 259,
         "Green": 237,
         "Friendly": 231
-      }
+      },
+      "map": "kenya-hemingway-at-havana-country-club-09"
     },
     {
       "number": 10,
@@ -250,5 +257,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -22,7 +22,8 @@
         "White": 361,
         "Gold": 328,
         "Red": 302
-      }
+      },
+      "map": "riviera-country-club-01"
     },
     {
       "number": 2,
@@ -44,7 +45,8 @@
         "White": 359,
         "Gold": 332,
         "Red": 260
-      }
+      },
+      "map": "riviera-country-club-03"
     },
     {
       "number": 4,
@@ -55,7 +57,8 @@
         "White": 376,
         "Gold": 348,
         "Red": 313
-      }
+      },
+      "map": "riviera-country-club-04"
     },
     {
       "number": 5,
@@ -66,7 +69,8 @@
         "White": 501,
         "Gold": 452,
         "Red": 413
-      }
+      },
+      "map": "riviera-country-club-05"
     },
     {
       "number": 6,
@@ -77,7 +81,8 @@
         "White": 134,
         "Gold": 109,
         "Red": 101
-      }
+      },
+      "map": "riviera-country-club-06"
     },
     {
       "number": 7,
@@ -88,7 +93,8 @@
         "White": 485,
         "Gold": 455,
         "Red": 421
-      }
+      },
+      "map": "riviera-country-club-07"
     },
     {
       "number": 8,
@@ -99,7 +105,8 @@
         "White": 342,
         "Gold": 308,
         "Red": 270
-      }
+      },
+      "map": "riviera-country-club-08"
     },
     {
       "number": 9,
@@ -110,7 +117,8 @@
         "White": 150,
         "Gold": 127,
         "Red": 110
-      }
+      },
+      "map": "riviera-country-club-09"
     },
     {
       "number": 10,
@@ -132,7 +140,8 @@
         "White": 373,
         "Gold": 337,
         "Red": 315
-      }
+      },
+      "map": "riviera-country-club-11"
     },
     {
       "number": 12,
@@ -143,7 +152,8 @@
         "White": 491,
         "Gold": 456,
         "Red": 409
-      }
+      },
+      "map": "riviera-country-club-12"
     },
     {
       "number": 13,
@@ -165,7 +175,8 @@
         "White": 136,
         "Gold": 125,
         "Red": 98
-      }
+      },
+      "map": "riviera-country-club-14"
     },
     {
       "number": 15,
@@ -176,7 +187,8 @@
         "White": 352,
         "Gold": 299,
         "Red": 291
-      }
+      },
+      "map": "riviera-country-club-15"
     },
     {
       "number": 16,
@@ -187,7 +199,8 @@
         "White": 462,
         "Gold": 439,
         "Red": 382
-      }
+      },
+      "map": "riviera-country-club-16"
     },
     {
       "number": 17,
@@ -198,7 +211,8 @@
         "White": 156,
         "Gold": 126,
         "Red": 112
-      }
+      },
+      "map": "riviera-country-club-17"
     },
     {
       "number": 18,
@@ -209,8 +223,9 @@
         "White": 359,
         "Gold": 347,
         "Red": 292
-      }
+      },
+      "map": "riviera-country-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

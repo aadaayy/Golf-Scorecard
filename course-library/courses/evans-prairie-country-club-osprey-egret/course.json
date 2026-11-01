@@ -26,7 +26,8 @@
         "White": 352,
         "Green": 268,
         "Friendly": 232
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 487,
         "Green": 442,
         "Friendly": 285
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 285,
         "Green": 245,
         "Friendly": 207
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 114,
         "Green": 104,
         "Friendly": 81
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 265,
         "Green": 243,
         "Friendly": 213
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "White": 122,
         "Green": 107,
         "Friendly": 101
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "White": 337,
         "Green": 308,
         "Friendly": 185
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-07"
     },
     {
       "number": 8,
@@ -117,7 +124,8 @@
         "White": 458,
         "Green": 417,
         "Friendly": 307
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-08"
     },
     {
       "number": 9,
@@ -130,7 +138,8 @@
         "White": 373,
         "Green": 311,
         "Friendly": 255
-      }
+      },
+      "map": "evans-prairie-country-club-osprey-egret-09"
     },
     {
       "number": 10,
@@ -250,5 +259,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -42,7 +42,8 @@
         "Gold": 419,
         "Red": 379,
         "Green": 335
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-02"
     },
     {
       "number": 3,
@@ -56,7 +57,8 @@
         "Gold": 112,
         "Red": 107,
         "Green": 93
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-03"
     },
     {
       "number": 4,
@@ -70,7 +72,8 @@
         "Gold": 323,
         "Red": 298,
         "Green": 230
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-04"
     },
     {
       "number": 5,
@@ -98,7 +101,8 @@
         "Gold": 299,
         "Red": 262,
         "Green": 210
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-06"
     },
     {
       "number": 7,
@@ -112,7 +116,8 @@
         "Gold": 115,
         "Red": 89,
         "Green": 85
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-07"
     },
     {
       "number": 8,
@@ -126,7 +131,8 @@
         "Gold": 297,
         "Red": 282,
         "Green": 205
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-08"
     },
     {
       "number": 9,
@@ -140,7 +146,8 @@
         "Gold": 342,
         "Red": 314,
         "Green": 260
-      }
+      },
+      "map": "delaire-country-club-woods-lakes-09"
     },
     {
       "number": 10,
@@ -269,5 +276,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

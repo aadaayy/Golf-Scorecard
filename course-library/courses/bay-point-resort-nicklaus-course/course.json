@@ -18,7 +18,8 @@
       "yards": {
         "#3": 350,
         "#4": 267
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-01"
     },
     {
       "number": 2,
@@ -27,7 +28,8 @@
       "yards": {
         "#3": 160,
         "#4": 88
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-02"
     },
     {
       "number": 3,
@@ -45,7 +47,8 @@
       "yards": {
         "#3": 367,
         "#4": 304
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-04"
     },
     {
       "number": 5,
@@ -54,7 +57,8 @@
       "yards": {
         "#3": 335,
         "#4": 227
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-05"
     },
     {
       "number": 6,
@@ -63,7 +67,8 @@
       "yards": {
         "#3": 427,
         "#4": 417
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-06"
     },
     {
       "number": 7,
@@ -81,7 +86,8 @@
       "yards": {
         "#3": 352,
         "#4": 273
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-08"
     },
     {
       "number": 9,
@@ -90,7 +96,8 @@
       "yards": {
         "#3": 461,
         "#4": 448
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-09"
     },
     {
       "number": 10,
@@ -108,7 +115,8 @@
       "yards": {
         "#3": 400,
         "#4": 319
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-11"
     },
     {
       "number": 12,
@@ -117,7 +125,8 @@
       "yards": {
         "#3": 482,
         "#4": 401
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-12"
     },
     {
       "number": 13,
@@ -126,7 +135,8 @@
       "yards": {
         "#3": 260,
         "#4": 204
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-13"
     },
     {
       "number": 14,
@@ -144,7 +154,8 @@
       "yards": {
         "#3": 515,
         "#4": 430
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-15"
     },
     {
       "number": 16,
@@ -153,7 +164,8 @@
       "yards": {
         "#3": 402,
         "#4": 306
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-16"
     },
     {
       "number": 17,
@@ -171,8 +183,9 @@
       "yards": {
         "#3": 347,
         "#4": 271
-      }
+      },
+      "map": "bay-point-resort-nicklaus-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

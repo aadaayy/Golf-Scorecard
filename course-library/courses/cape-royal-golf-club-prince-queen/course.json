@@ -36,7 +36,8 @@
         "White": 450,
         "Yellow": 378,
         "Red": 370
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-02"
     },
     {
       "number": 3,
@@ -60,7 +61,8 @@
         "White": 104,
         "Yellow": 99,
         "Red": 67
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-04"
     },
     {
       "number": 5,
@@ -72,7 +74,8 @@
         "White": 339,
         "Yellow": 335,
         "Red": 331
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-05"
     },
     {
       "number": 6,
@@ -84,7 +87,8 @@
         "White": 345,
         "Yellow": 332,
         "Red": 300
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-06"
     },
     {
       "number": 7,
@@ -96,7 +100,8 @@
         "White": 154,
         "Yellow": 145,
         "Red": 72
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-07"
     },
     {
       "number": 8,
@@ -108,7 +113,8 @@
         "White": 287,
         "Yellow": 257,
         "Red": 252
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-08"
     },
     {
       "number": 9,
@@ -120,7 +126,8 @@
         "White": 498,
         "Yellow": 428,
         "Red": 423
-      }
+      },
+      "map": "cape-royal-golf-club-prince-queen-09"
     },
     {
       "number": 10,
@@ -231,5 +238,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -26,7 +26,8 @@
         "White": 332,
         "Green": 283,
         "Friendly": 183
-      }
+      },
+      "map": "cane-garden-country-club-allamanda-hibiscus-course-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 113,
         "Green": 85,
         "Friendly": 85
-      }
+      },
+      "map": "cane-garden-country-club-allamanda-hibiscus-course-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 462,
         "Green": 445,
         "Friendly": 340
-      }
+      },
+      "map": "cane-garden-country-club-allamanda-hibiscus-course-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 317,
         "Green": 299,
         "Friendly": 236
-      }
+      },
+      "map": "cane-garden-country-club-allamanda-hibiscus-course-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 311,
         "Green": 279,
         "Friendly": 221
-      }
+      },
+      "map": "cane-garden-country-club-allamanda-hibiscus-course-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "White": 331,
         "Green": 325,
         "Friendly": 220
-      }
+      },
+      "map": "cane-garden-country-club-allamanda-hibiscus-course-06"
     },
     {
       "number": 7,
@@ -117,7 +123,8 @@
         "White": 318,
         "Green": 282,
         "Friendly": 213
-      }
+      },
+      "map": "cane-garden-country-club-allamanda-hibiscus-course-08"
     },
     {
       "number": 9,
@@ -130,7 +137,8 @@
         "White": 503,
         "Green": 454,
         "Friendly": 392
-      }
+      },
+      "map": "cane-garden-country-club-allamanda-hibiscus-course-09"
     },
     {
       "number": 10,
@@ -250,5 +258,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

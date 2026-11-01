@@ -24,7 +24,8 @@
         "Blue": 394,
         "White": 372,
         "Red": 320
-      }
+      },
+      "map": "lakes-river-golf-course-cocoa-beach-country-club-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "Blue": 357,
         "White": 341,
         "Red": 303
-      }
+      },
+      "map": "lakes-river-golf-course-cocoa-beach-country-club-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "Blue": 153,
         "White": 114,
         "Red": 89
-      }
+      },
+      "map": "lakes-river-golf-course-cocoa-beach-country-club-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "Blue": 343,
         "White": 338,
         "Red": 324
-      }
+      },
+      "map": "lakes-river-golf-course-cocoa-beach-country-club-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
         "Blue": 395,
         "White": 379,
         "Red": 368
-      }
+      },
+      "map": "lakes-river-golf-course-cocoa-beach-country-club-05"
     },
     {
       "number": 6,
@@ -84,7 +89,8 @@
         "Blue": 538,
         "White": 522,
         "Red": 458
-      }
+      },
+      "map": "lakes-river-golf-course-cocoa-beach-country-club-06"
     },
     {
       "number": 7,
@@ -96,7 +102,8 @@
         "Blue": 167,
         "White": 151,
         "Red": 132
-      }
+      },
+      "map": "lakes-river-golf-course-cocoa-beach-country-club-07"
     },
     {
       "number": 8,
@@ -231,5 +238,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

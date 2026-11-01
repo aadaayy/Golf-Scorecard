@@ -20,7 +20,8 @@
         "White": 260,
         "Red": 234,
         "Gold/Junior": 155
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-01"
     },
     {
       "number": 2,
@@ -30,7 +31,8 @@
         "White": 160,
         "Red": 132,
         "Gold/Junior": 101
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-02"
     },
     {
       "number": 3,
@@ -40,7 +42,8 @@
         "White": 352,
         "Red": 318,
         "Gold/Junior": 231
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-03"
     },
     {
       "number": 4,
@@ -50,7 +53,8 @@
         "White": 324,
         "Red": 296,
         "Gold/Junior": 222
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-04"
     },
     {
       "number": 5,
@@ -60,7 +64,8 @@
         "White": 517,
         "Red": 438,
         "Gold/Junior": 270
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-05"
     },
     {
       "number": 6,
@@ -70,7 +75,8 @@
         "White": 378,
         "Red": 329,
         "Gold/Junior": 205
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-06"
     },
     {
       "number": 7,
@@ -80,7 +86,8 @@
         "White": 489,
         "Red": 425,
         "Gold/Junior": 281
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-07"
     },
     {
       "number": 8,
@@ -90,7 +97,8 @@
         "White": 297,
         "Red": 268,
         "Gold/Junior": 163
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-08"
     },
     {
       "number": 9,
@@ -100,8 +108,9 @@
         "White": 136,
         "Red": 112,
         "Gold/Junior": 85
-      }
+      },
+      "map": "disneys-oak-trail-golf-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

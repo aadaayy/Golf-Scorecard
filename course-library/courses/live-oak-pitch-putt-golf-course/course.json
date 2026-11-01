@@ -18,7 +18,8 @@
       "yards": {
         "Back": 87,
         "Web": 87
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-01"
     },
     {
       "number": 2,
@@ -27,7 +28,8 @@
       "yards": {
         "Back": 112,
         "Web": 112
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-02"
     },
     {
       "number": 3,
@@ -36,7 +38,8 @@
       "yards": {
         "Back": 98,
         "Web": 98
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-03"
     },
     {
       "number": 4,
@@ -45,7 +48,8 @@
       "yards": {
         "Back": 112,
         "Web": 112
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-04"
     },
     {
       "number": 5,
@@ -54,7 +58,8 @@
       "yards": {
         "Back": 89,
         "Web": 87
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-05"
     },
     {
       "number": 6,
@@ -63,7 +68,8 @@
       "yards": {
         "Back": 91,
         "Web": 91
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-06"
     },
     {
       "number": 7,
@@ -72,7 +78,8 @@
       "yards": {
         "Back": 91,
         "Web": 91
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-07"
     },
     {
       "number": 8,
@@ -81,7 +88,8 @@
       "yards": {
         "Back": 107,
         "Web": 107
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-08"
     },
     {
       "number": 9,
@@ -90,7 +98,8 @@
       "yards": {
         "Back": 91,
         "Web": 91
-      }
+      },
+      "map": "live-oak-pitch-putt-golf-course-09"
     },
     {
       "number": 10,
@@ -174,5 +183,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

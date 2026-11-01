@@ -20,7 +20,8 @@
         "Blue": 336,
         "White": 298,
         "Red": 255
-      }
+      },
+      "map": "blue-cypress-golf-club-01"
     },
     {
       "number": 2,
@@ -30,7 +31,8 @@
         "Blue": 158,
         "White": 141,
         "Red": 110
-      }
+      },
+      "map": "blue-cypress-golf-club-02"
     },
     {
       "number": 3,
@@ -40,7 +42,8 @@
         "Blue": 330,
         "White": 325,
         "Red": 238
-      }
+      },
+      "map": "blue-cypress-golf-club-03"
     },
     {
       "number": 4,
@@ -50,7 +53,8 @@
         "Blue": 302,
         "White": 266,
         "Red": 223
-      }
+      },
+      "map": "blue-cypress-golf-club-04"
     },
     {
       "number": 5,
@@ -60,7 +64,8 @@
         "Blue": 430,
         "White": 397,
         "Red": 301
-      }
+      },
+      "map": "blue-cypress-golf-club-05"
     },
     {
       "number": 6,
@@ -70,7 +75,8 @@
         "Blue": 174,
         "White": 142,
         "Red": 96
-      }
+      },
+      "map": "blue-cypress-golf-club-06"
     },
     {
       "number": 7,
@@ -80,7 +86,8 @@
         "Blue": 437,
         "White": 425,
         "Red": 377
-      }
+      },
+      "map": "blue-cypress-golf-club-07"
     },
     {
       "number": 8,
@@ -90,7 +97,8 @@
         "Blue": 410,
         "White": 363,
         "Red": 272
-      }
+      },
+      "map": "blue-cypress-golf-club-08"
     },
     {
       "number": 9,
@@ -100,7 +108,8 @@
         "Blue": 385,
         "White": 338,
         "Red": 255
-      }
+      },
+      "map": "blue-cypress-golf-club-09"
     },
     {
       "number": 10,
@@ -193,5 +202,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

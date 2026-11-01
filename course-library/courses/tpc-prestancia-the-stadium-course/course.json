@@ -32,7 +32,8 @@
         "Green": 306,
         "Green/Red": 306,
         "Red": 277
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-01"
     },
     {
       "number": 2,
@@ -48,7 +49,8 @@
         "Green": 420,
         "Green/Red": 387,
         "Red": 387
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-02"
     },
     {
       "number": 3,
@@ -64,7 +66,8 @@
         "Green": 353,
         "Green/Red": 300,
         "Red": 300
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-03"
     },
     {
       "number": 4,
@@ -112,7 +115,8 @@
         "Green": 440,
         "Green/Red": 395,
         "Red": 395
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-06"
     },
     {
       "number": 7,
@@ -128,7 +132,8 @@
         "Green": 157,
         "Green/Red": 75,
         "Red": 75
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-07"
     },
     {
       "number": 8,
@@ -144,7 +149,8 @@
         "Green": 333,
         "Green/Red": 293,
         "Red": 293
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-08"
     },
     {
       "number": 9,
@@ -160,7 +166,8 @@
         "Green": 249,
         "Green/Red": 249,
         "Red": 240
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-09"
     },
     {
       "number": 10,
@@ -176,7 +183,8 @@
         "Green": 280,
         "Green/Red": 280,
         "Red": 260
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-10"
     },
     {
       "number": 11,
@@ -192,7 +200,8 @@
         "Green": 358,
         "Green/Red": 298,
         "Red": 298
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-11"
     },
     {
       "number": 12,
@@ -208,7 +217,8 @@
         "Green": 466,
         "Green/Red": 426,
         "Red": 426
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-12"
     },
     {
       "number": 13,
@@ -224,7 +234,8 @@
         "Green": 153,
         "Green/Red": 123,
         "Red": 123
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-13"
     },
     {
       "number": 14,
@@ -240,7 +251,8 @@
         "Green": 313,
         "Green/Red": 313,
         "Red": 283
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-14"
     },
     {
       "number": 15,
@@ -256,7 +268,8 @@
         "Green": 443,
         "Green/Red": 443,
         "Red": 393
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-15"
     },
     {
       "number": 16,
@@ -272,7 +285,8 @@
         "Green": 100,
         "Green/Red": 100,
         "Red": 75
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-16"
     },
     {
       "number": 17,
@@ -288,7 +302,8 @@
         "Green": 325,
         "Green/Red": 260,
         "Red": 260
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-17"
     },
     {
       "number": 18,
@@ -304,8 +319,9 @@
         "Green": 264,
         "Green/Red": 264,
         "Red": 224
-      }
+      },
+      "map": "tpc-prestancia-the-stadium-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

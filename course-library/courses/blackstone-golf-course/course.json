@@ -22,7 +22,8 @@
         "White": 377,
         "Black": 350,
         "Red": 334
-      }
+      },
+      "map": "blackstone-golf-course-01"
     },
     {
       "number": 2,
@@ -33,7 +34,8 @@
         "White": 320,
         "Black": 300,
         "Red": 273
-      }
+      },
+      "map": "blackstone-golf-course-02"
     },
     {
       "number": 3,
@@ -44,7 +46,8 @@
         "White": 373,
         "Black": 330,
         "Red": 324
-      }
+      },
+      "map": "blackstone-golf-course-03"
     },
     {
       "number": 4,
@@ -66,7 +69,8 @@
         "White": 465,
         "Black": 450,
         "Red": 408
-      }
+      },
+      "map": "blackstone-golf-course-05"
     },
     {
       "number": 6,
@@ -77,7 +81,8 @@
         "White": 263,
         "Black": 250,
         "Red": 231
-      }
+      },
+      "map": "blackstone-golf-course-06"
     },
     {
       "number": 7,
@@ -88,7 +93,8 @@
         "White": 153,
         "Black": 130,
         "Red": 124
-      }
+      },
+      "map": "blackstone-golf-course-07"
     },
     {
       "number": 8,
@@ -99,7 +105,8 @@
         "White": 376,
         "Black": 350,
         "Red": 347
-      }
+      },
+      "map": "blackstone-golf-course-08"
     },
     {
       "number": 9,
@@ -110,7 +117,8 @@
         "White": 503,
         "Black": 450,
         "Red": 438
-      }
+      },
+      "map": "blackstone-golf-course-09"
     },
     {
       "number": 10,
@@ -121,7 +129,8 @@
         "White": 349,
         "Black": 340,
         "Red": 301
-      }
+      },
+      "map": "blackstone-golf-course-10"
     },
     {
       "number": 11,
@@ -132,7 +141,8 @@
         "White": 378,
         "Black": 310,
         "Red": 297
-      }
+      },
+      "map": "blackstone-golf-course-11"
     },
     {
       "number": 12,
@@ -143,7 +153,8 @@
         "White": 445,
         "Black": 440,
         "Red": 246
-      }
+      },
+      "map": "blackstone-golf-course-12"
     },
     {
       "number": 13,
@@ -154,7 +165,8 @@
         "White": 152,
         "Black": 150,
         "Red": 106
-      }
+      },
+      "map": "blackstone-golf-course-13"
     },
     {
       "number": 14,
@@ -165,7 +177,8 @@
         "White": 358,
         "Black": 325,
         "Red": 317
-      }
+      },
+      "map": "blackstone-golf-course-14"
     },
     {
       "number": 15,
@@ -176,7 +189,8 @@
         "White": 334,
         "Black": 300,
         "Red": 283
-      }
+      },
+      "map": "blackstone-golf-course-15"
     },
     {
       "number": 16,
@@ -209,8 +223,9 @@
         "White": 513,
         "Black": 510,
         "Red": 394
-      }
+      },
+      "map": "blackstone-golf-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

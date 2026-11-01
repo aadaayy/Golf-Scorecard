@@ -28,7 +28,8 @@
         "White": 344,
         "Green": 306,
         "Friendly": 200
-      }
+      },
+      "map": "woodlands-championship-golf-course-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "White": 364,
         "Green": 308,
         "Friendly": 296
-      }
+      },
+      "map": "woodlands-championship-golf-course-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "White": 475,
         "Green": 461,
         "Friendly": 315
-      }
+      },
+      "map": "woodlands-championship-golf-course-03"
     },
     {
       "number": 4,
@@ -70,7 +73,8 @@
         "White": 116,
         "Green": 78,
         "Friendly": 61
-      }
+      },
+      "map": "woodlands-championship-golf-course-04"
     },
     {
       "number": 5,
@@ -84,7 +88,8 @@
         "White": 295,
         "Green": 278,
         "Friendly": 176
-      }
+      },
+      "map": "woodlands-championship-golf-course-05"
     },
     {
       "number": 6,
@@ -98,7 +103,8 @@
         "White": 460,
         "Green": 448,
         "Friendly": 323
-      }
+      },
+      "map": "woodlands-championship-golf-course-06"
     },
     {
       "number": 7,
@@ -112,7 +118,8 @@
         "White": 157,
         "Green": 130,
         "Friendly": 115
-      }
+      },
+      "map": "woodlands-championship-golf-course-07"
     },
     {
       "number": 8,
@@ -269,5 +276,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

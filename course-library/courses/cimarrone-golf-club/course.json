@@ -18,7 +18,8 @@
       "yards": {
         "Senior/Junior": 465,
         "Red": 424
-      }
+      },
+      "map": "cimarrone-golf-club-01"
     },
     {
       "number": 2,
@@ -27,7 +28,8 @@
       "yards": {
         "Senior/Junior": 144,
         "Red": 113
-      }
+      },
+      "map": "cimarrone-golf-club-02"
     },
     {
       "number": 3,
@@ -45,7 +47,8 @@
       "yards": {
         "Senior/Junior": 350,
         "Red": 273
-      }
+      },
+      "map": "cimarrone-golf-club-04"
     },
     {
       "number": 5,
@@ -54,7 +57,8 @@
       "yards": {
         "Senior/Junior": 444,
         "Red": 400
-      }
+      },
+      "map": "cimarrone-golf-club-05"
     },
     {
       "number": 6,
@@ -63,7 +67,8 @@
       "yards": {
         "Senior/Junior": 288,
         "Red": 250
-      }
+      },
+      "map": "cimarrone-golf-club-06"
     },
     {
       "number": 7,
@@ -81,7 +86,8 @@
       "yards": {
         "Senior/Junior": 303,
         "Red": 253
-      }
+      },
+      "map": "cimarrone-golf-club-08"
     },
     {
       "number": 9,
@@ -90,7 +96,8 @@
       "yards": {
         "Senior/Junior": 114,
         "Red": 97
-      }
+      },
+      "map": "cimarrone-golf-club-09"
     },
     {
       "number": 10,
@@ -99,7 +106,8 @@
       "yards": {
         "Senior/Junior": 328,
         "Red": 278
-      }
+      },
+      "map": "cimarrone-golf-club-10"
     },
     {
       "number": 11,
@@ -117,7 +125,8 @@
       "yards": {
         "Senior/Junior": 332,
         "Red": 295
-      }
+      },
+      "map": "cimarrone-golf-club-12"
     },
     {
       "number": 13,
@@ -126,7 +135,8 @@
       "yards": {
         "Senior/Junior": 443,
         "Red": 370
-      }
+      },
+      "map": "cimarrone-golf-club-13"
     },
     {
       "number": 14,
@@ -135,7 +145,8 @@
       "yards": {
         "Senior/Junior": 445,
         "Red": 400
-      }
+      },
+      "map": "cimarrone-golf-club-14"
     },
     {
       "number": 15,
@@ -144,7 +155,8 @@
       "yards": {
         "Senior/Junior": 330,
         "Red": 289
-      }
+      },
+      "map": "cimarrone-golf-club-15"
     },
     {
       "number": 16,
@@ -162,7 +174,8 @@
       "yards": {
         "Senior/Junior": 114,
         "Red": 80
-      }
+      },
+      "map": "cimarrone-golf-club-17"
     },
     {
       "number": 18,
@@ -174,5 +187,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -22,7 +22,8 @@
         "Web": 115,
         "Gold": 96,
         "Green": 76
-      }
+      },
+      "map": "sarasota-at-the-villages-executive-golf-trail-01"
     },
     {
       "number": 2,
@@ -33,7 +34,8 @@
         "Web": 132,
         "Gold": 90,
         "Green": 66
-      }
+      },
+      "map": "sarasota-at-the-villages-executive-golf-trail-02"
     },
     {
       "number": 3,
@@ -44,7 +46,8 @@
         "Web": 160,
         "Gold": 128,
         "Green": 105
-      }
+      },
+      "map": "sarasota-at-the-villages-executive-golf-trail-03"
     },
     {
       "number": 4,
@@ -88,7 +91,8 @@
         "Web": 158,
         "Gold": 135,
         "Green": 98
-      }
+      },
+      "map": "sarasota-at-the-villages-executive-golf-trail-07"
     },
     {
       "number": 8,
@@ -99,7 +103,8 @@
         "Web": 122,
         "Gold": 90,
         "Green": 90
-      }
+      },
+      "map": "sarasota-at-the-villages-executive-golf-trail-08"
     },
     {
       "number": 9,
@@ -110,8 +115,9 @@
         "Web": 158,
         "Gold": 136,
         "Green": 105
-      }
+      },
+      "map": "sarasota-at-the-villages-executive-golf-trail-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

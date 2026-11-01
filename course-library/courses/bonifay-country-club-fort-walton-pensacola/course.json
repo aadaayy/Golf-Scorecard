@@ -28,7 +28,8 @@
         "White": 480,
         "Green": 416,
         "Friendly": 323
-      }
+      },
+      "map": "bonifay-country-club-fort-walton-pensacola-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "White": 132,
         "Green": 108,
         "Friendly": 86
-      }
+      },
+      "map": "bonifay-country-club-fort-walton-pensacola-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "White": 275,
         "Green": 256,
         "Friendly": 197
-      }
+      },
+      "map": "bonifay-country-club-fort-walton-pensacola-03"
     },
     {
       "number": 4,
@@ -70,7 +73,8 @@
         "White": 329,
         "Green": 293,
         "Friendly": 235
-      }
+      },
+      "map": "bonifay-country-club-fort-walton-pensacola-04"
     },
     {
       "number": 5,
@@ -98,7 +102,8 @@
         "White": 464,
         "Green": 370,
         "Friendly": 337
-      }
+      },
+      "map": "bonifay-country-club-fort-walton-pensacola-06"
     },
     {
       "number": 7,
@@ -112,7 +117,8 @@
         "White": 314,
         "Green": 263,
         "Friendly": 259
-      }
+      },
+      "map": "bonifay-country-club-fort-walton-pensacola-07"
     },
     {
       "number": 8,
@@ -126,7 +132,8 @@
         "White": 138,
         "Green": 110,
         "Friendly": 90
-      }
+      },
+      "map": "bonifay-country-club-fort-walton-pensacola-08"
     },
     {
       "number": 9,
@@ -269,5 +276,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

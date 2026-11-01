@@ -26,7 +26,8 @@
         "White": 350,
         "Gold": 342,
         "Red": 309
-      }
+      },
+      "map": "la-gorce-country-club-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 407,
         "Gold": 358,
         "Red": 341
-      }
+      },
+      "map": "la-gorce-country-club-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 500,
         "Gold": 485,
         "Red": 454
-      }
+      },
+      "map": "la-gorce-country-club-03"
     },
     {
       "number": 4,
@@ -78,7 +81,8 @@
         "White": 342,
         "Gold": 303,
         "Red": 281
-      }
+      },
+      "map": "la-gorce-country-club-05"
     },
     {
       "number": 6,
@@ -104,7 +108,8 @@
         "White": 383,
         "Gold": 368,
         "Red": 309
-      }
+      },
+      "map": "la-gorce-country-club-07"
     },
     {
       "number": 8,
@@ -117,7 +122,8 @@
         "White": 142,
         "Gold": 130,
         "Red": 110
-      }
+      },
+      "map": "la-gorce-country-club-08"
     },
     {
       "number": 9,
@@ -130,7 +136,8 @@
         "White": 335,
         "Gold": 313,
         "Red": 278
-      }
+      },
+      "map": "la-gorce-country-club-09"
     },
     {
       "number": 10,
@@ -143,7 +150,8 @@
         "White": 357,
         "Gold": 340,
         "Red": 328
-      }
+      },
+      "map": "la-gorce-country-club-10"
     },
     {
       "number": 11,
@@ -156,7 +164,8 @@
         "White": 514,
         "Gold": 502,
         "Red": 457
-      }
+      },
+      "map": "la-gorce-country-club-11"
     },
     {
       "number": 12,
@@ -169,7 +178,8 @@
         "White": 327,
         "Gold": 317,
         "Red": 280
-      }
+      },
+      "map": "la-gorce-country-club-12"
     },
     {
       "number": 13,
@@ -182,7 +192,8 @@
         "White": 126,
         "Gold": 116,
         "Red": 104
-      }
+      },
+      "map": "la-gorce-country-club-13"
     },
     {
       "number": 14,
@@ -195,7 +206,8 @@
         "White": 373,
         "Gold": 353,
         "Red": 325
-      }
+      },
+      "map": "la-gorce-country-club-14"
     },
     {
       "number": 15,
@@ -208,7 +220,8 @@
         "White": 487,
         "Gold": 470,
         "Red": 431
-      }
+      },
+      "map": "la-gorce-country-club-15"
     },
     {
       "number": 16,
@@ -221,7 +234,8 @@
         "White": 146,
         "Gold": 137,
         "Red": 122
-      }
+      },
+      "map": "la-gorce-country-club-16"
     },
     {
       "number": 17,
@@ -234,7 +248,8 @@
         "White": 386,
         "Gold": 350,
         "Red": 313
-      }
+      },
+      "map": "la-gorce-country-club-17"
     },
     {
       "number": 18,
@@ -247,8 +262,9 @@
         "White": 433,
         "Gold": 397,
         "Red": 367
-      }
+      },
+      "map": "la-gorce-country-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

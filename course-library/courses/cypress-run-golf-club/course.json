@@ -28,7 +28,8 @@
         "Green": 325,
         "Red": 309,
         "Silver": 250
-      }
+      },
+      "map": "cypress-run-golf-club-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "Green": 369,
         "Red": 363,
         "Silver": 341
-      }
+      },
+      "map": "cypress-run-golf-club-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "Green": 124,
         "Red": 112,
         "Silver": 90
-      }
+      },
+      "map": "cypress-run-golf-club-03"
     },
     {
       "number": 4,
@@ -70,7 +73,8 @@
         "Green": 364,
         "Red": 352,
         "Silver": 302
-      }
+      },
+      "map": "cypress-run-golf-club-04"
     },
     {
       "number": 5,
@@ -84,7 +88,8 @@
         "Green": 303,
         "Red": 291,
         "Silver": 247
-      }
+      },
+      "map": "cypress-run-golf-club-05"
     },
     {
       "number": 6,
@@ -98,7 +103,8 @@
         "Green": 465,
         "Red": 452,
         "Silver": 413
-      }
+      },
+      "map": "cypress-run-golf-club-06"
     },
     {
       "number": 7,
@@ -112,7 +118,8 @@
         "Green": 359,
         "Red": 328,
         "Silver": 295
-      }
+      },
+      "map": "cypress-run-golf-club-07"
     },
     {
       "number": 8,
@@ -126,7 +133,8 @@
         "Green": 122,
         "Red": 109,
         "Silver": 96
-      }
+      },
+      "map": "cypress-run-golf-club-08"
     },
     {
       "number": 9,
@@ -140,7 +148,8 @@
         "Green": 350,
         "Red": 335,
         "Silver": 279
-      }
+      },
+      "map": "cypress-run-golf-club-09"
     },
     {
       "number": 10,
@@ -154,7 +163,8 @@
         "Green": 362,
         "Red": 347,
         "Silver": 285
-      }
+      },
+      "map": "cypress-run-golf-club-10"
     },
     {
       "number": 11,
@@ -168,7 +178,8 @@
         "Green": 492,
         "Red": 477,
         "Silver": 370
-      }
+      },
+      "map": "cypress-run-golf-club-11"
     },
     {
       "number": 12,
@@ -182,7 +193,8 @@
         "Green": 257,
         "Red": 227,
         "Silver": 186
-      }
+      },
+      "map": "cypress-run-golf-club-12"
     },
     {
       "number": 13,
@@ -196,7 +208,8 @@
         "Green": 373,
         "Red": 363,
         "Silver": 330
-      }
+      },
+      "map": "cypress-run-golf-club-13"
     },
     {
       "number": 14,
@@ -210,7 +223,8 @@
         "Green": 114,
         "Red": 110,
         "Silver": 105
-      }
+      },
+      "map": "cypress-run-golf-club-14"
     },
     {
       "number": 15,
@@ -224,7 +238,8 @@
         "Green": 305,
         "Red": 217,
         "Silver": 211
-      }
+      },
+      "map": "cypress-run-golf-club-15"
     },
     {
       "number": 16,
@@ -238,7 +253,8 @@
         "Green": 503,
         "Red": 478,
         "Silver": 387
-      }
+      },
+      "map": "cypress-run-golf-club-16"
     },
     {
       "number": 17,
@@ -252,7 +268,8 @@
         "Green": 170,
         "Red": 146,
         "Silver": 134
-      }
+      },
+      "map": "cypress-run-golf-club-17"
     },
     {
       "number": 18,
@@ -266,8 +283,9 @@
         "Green": 331,
         "Red": 323,
         "Silver": 275
-      }
+      },
+      "map": "cypress-run-golf-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -18,7 +18,8 @@
       "yards": {
         "White": 132,
         "Red": 99
-      }
+      },
+      "map": "red-reef-executive-golf-course-01"
     },
     {
       "number": 2,
@@ -27,7 +28,8 @@
       "yards": {
         "White": 116,
         "Red": 101
-      }
+      },
+      "map": "red-reef-executive-golf-course-02"
     },
     {
       "number": 3,
@@ -36,7 +38,8 @@
       "yards": {
         "White": 176,
         "Red": 161
-      }
+      },
+      "map": "red-reef-executive-golf-course-03"
     },
     {
       "number": 4,
@@ -54,7 +57,8 @@
       "yards": {
         "White": 185,
         "Red": 169
-      }
+      },
+      "map": "red-reef-executive-golf-course-05"
     },
     {
       "number": 6,
@@ -63,7 +67,8 @@
       "yards": {
         "White": 205,
         "Red": 184
-      }
+      },
+      "map": "red-reef-executive-golf-course-06"
     },
     {
       "number": 7,
@@ -72,7 +77,8 @@
       "yards": {
         "White": 86,
         "Red": 75
-      }
+      },
+      "map": "red-reef-executive-golf-course-07"
     },
     {
       "number": 8,
@@ -81,7 +87,8 @@
       "yards": {
         "White": 165,
         "Red": 147
-      }
+      },
+      "map": "red-reef-executive-golf-course-08"
     },
     {
       "number": 9,
@@ -90,8 +97,9 @@
       "yards": {
         "White": 227,
         "Red": 193
-      }
+      },
+      "map": "red-reef-executive-golf-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

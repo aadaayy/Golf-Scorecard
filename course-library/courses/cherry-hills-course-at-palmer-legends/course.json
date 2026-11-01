@@ -26,7 +26,8 @@
         "White": 392,
         "Green": 388,
         "Friendly": 327
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 340,
         "Green": 308,
         "Friendly": 221
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 318,
         "Green": 271,
         "Friendly": 198
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 314,
         "Green": 283,
         "Friendly": 251
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 113,
         "Green": 104,
         "Friendly": 74
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-05"
     },
     {
       "number": 6,
@@ -104,7 +109,8 @@
         "White": 275,
         "Green": 251,
         "Friendly": 187
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-07"
     },
     {
       "number": 8,
@@ -130,8 +136,9 @@
         "White": 458,
         "Green": 452,
         "Friendly": 314
-      }
+      },
+      "map": "cherry-hills-course-at-palmer-legends-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

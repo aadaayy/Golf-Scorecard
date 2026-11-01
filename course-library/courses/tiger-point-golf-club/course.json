@@ -24,7 +24,8 @@
         "White": 347,
         "Gray": 321,
         "Red": 321
-      }
+      },
+      "map": "tiger-point-golf-club-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "White": 138,
         "Gray": 111,
         "Red": 111
-      }
+      },
+      "map": "tiger-point-golf-club-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "White": 444,
         "Gray": 420,
         "Red": 420
-      }
+      },
+      "map": "tiger-point-golf-club-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "White": 164,
         "Gray": 95,
         "Red": 87
-      }
+      },
+      "map": "tiger-point-golf-club-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
         "White": 337,
         "Gray": 311,
         "Red": 272
-      }
+      },
+      "map": "tiger-point-golf-club-05"
     },
     {
       "number": 6,
@@ -84,7 +89,8 @@
         "White": 413,
         "Gray": 349,
         "Red": 334
-      }
+      },
+      "map": "tiger-point-golf-club-06"
     },
     {
       "number": 7,
@@ -96,7 +102,8 @@
         "White": 358,
         "Gray": 332,
         "Red": 332
-      }
+      },
+      "map": "tiger-point-golf-club-07"
     },
     {
       "number": 8,
@@ -108,7 +115,8 @@
         "White": 454,
         "Gray": 423,
         "Red": 396
-      }
+      },
+      "map": "tiger-point-golf-club-08"
     },
     {
       "number": 9,
@@ -120,7 +128,8 @@
         "White": 349,
         "Gray": 335,
         "Red": 247
-      }
+      },
+      "map": "tiger-point-golf-club-09"
     },
     {
       "number": 10,
@@ -132,7 +141,8 @@
         "White": 155,
         "Gray": 144,
         "Red": 124
-      }
+      },
+      "map": "tiger-point-golf-club-10"
     },
     {
       "number": 11,
@@ -144,7 +154,8 @@
         "White": 375,
         "Gray": 348,
         "Red": 348
-      }
+      },
+      "map": "tiger-point-golf-club-11"
     },
     {
       "number": 12,
@@ -156,7 +167,8 @@
         "White": 352,
         "Gray": 352,
         "Red": 339
-      }
+      },
+      "map": "tiger-point-golf-club-12"
     },
     {
       "number": 13,
@@ -168,7 +180,8 @@
         "White": 460,
         "Gray": 436,
         "Red": 426
-      }
+      },
+      "map": "tiger-point-golf-club-13"
     },
     {
       "number": 14,
@@ -180,7 +193,8 @@
         "White": 360,
         "Gray": 330,
         "Red": 298
-      }
+      },
+      "map": "tiger-point-golf-club-14"
     },
     {
       "number": 15,
@@ -192,7 +206,8 @@
         "White": 382,
         "Gray": 350,
         "Red": 331
-      }
+      },
+      "map": "tiger-point-golf-club-15"
     },
     {
       "number": 16,
@@ -204,7 +219,8 @@
         "White": 500,
         "Gray": 465,
         "Red": 465
-      }
+      },
+      "map": "tiger-point-golf-club-16"
     },
     {
       "number": 17,
@@ -231,5 +247,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

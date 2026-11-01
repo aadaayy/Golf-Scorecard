@@ -26,7 +26,8 @@
         "White": 304,
         "Green": 256,
         "Friendly": 192
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 336,
         "Green": 302,
         "Friendly": 274
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 131,
         "Green": 110,
         "Friendly": 108
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 473,
         "Green": 424,
         "Friendly": 298
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 171,
         "Green": 143,
         "Friendly": 70
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "White": 274,
         "Green": 239,
         "Friendly": 153
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "White": 355,
         "Green": 307,
         "Friendly": 222
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-07"
     },
     {
       "number": 8,
@@ -117,7 +124,8 @@
         "White": 424,
         "Green": 372,
         "Friendly": 278
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-08"
     },
     {
       "number": 9,
@@ -130,7 +138,8 @@
         "White": 328,
         "Green": 286,
         "Friendly": 208
-      }
+      },
+      "map": "hemingway-kilimanjaro-at-havana-country-club-09"
     },
     {
       "number": 10,
@@ -250,5 +259,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -28,7 +28,8 @@
         "White": 488,
         "Green": 453,
         "Friendly": 339
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "White": 131,
         "Green": 109,
         "Friendly": 71
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "White": 313,
         "Green": 246,
         "Friendly": 208
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-03"
     },
     {
       "number": 4,
@@ -70,7 +73,8 @@
         "White": 358,
         "Green": 330,
         "Friendly": 265
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-04"
     },
     {
       "number": 5,
@@ -84,7 +88,8 @@
         "White": 321,
         "Green": 247,
         "Friendly": 210
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-05"
     },
     {
       "number": 6,
@@ -98,7 +103,8 @@
         "White": 301,
         "Green": 258,
         "Friendly": 223
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-06"
     },
     {
       "number": 7,
@@ -112,7 +118,8 @@
         "White": 320,
         "Green": 279,
         "Friendly": 260
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-07"
     },
     {
       "number": 8,
@@ -126,7 +133,8 @@
         "White": 111,
         "Green": 86,
         "Friendly": 86
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-08"
     },
     {
       "number": 9,
@@ -140,7 +148,8 @@
         "White": 475,
         "Green": 446,
         "Friendly": 309
-      }
+      },
+      "map": "cane-garden-country-club-jacaranda-allamanda-course-09"
     },
     {
       "number": 10,
@@ -269,5 +278,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

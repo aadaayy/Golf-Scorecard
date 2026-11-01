@@ -20,7 +20,8 @@
         "White": 317,
         "Gold": 306,
         "Red": 278
-      }
+      },
+      "map": "mangrove-bay-golf-course-01"
     },
     {
       "number": 2,
@@ -30,7 +31,8 @@
         "White": 511,
         "Gold": 500,
         "Red": 458
-      }
+      },
+      "map": "mangrove-bay-golf-course-02"
     },
     {
       "number": 3,
@@ -40,7 +42,8 @@
         "White": 127,
         "Gold": 113,
         "Red": 100
-      }
+      },
+      "map": "mangrove-bay-golf-course-03"
     },
     {
       "number": 4,
@@ -50,7 +53,8 @@
         "White": 366,
         "Gold": 347,
         "Red": 315
-      }
+      },
+      "map": "mangrove-bay-golf-course-04"
     },
     {
       "number": 5,
@@ -60,7 +64,8 @@
         "White": 362,
         "Gold": 327,
         "Red": 311
-      }
+      },
+      "map": "mangrove-bay-golf-course-05"
     },
     {
       "number": 6,
@@ -70,7 +75,8 @@
         "White": 480,
         "Gold": 452,
         "Red": 411
-      }
+      },
+      "map": "mangrove-bay-golf-course-06"
     },
     {
       "number": 7,
@@ -80,7 +86,8 @@
         "White": 318,
         "Gold": 305,
         "Red": 286
-      }
+      },
+      "map": "mangrove-bay-golf-course-07"
     },
     {
       "number": 8,
@@ -90,7 +97,8 @@
         "White": 179,
         "Gold": 167,
         "Red": 127
-      }
+      },
+      "map": "mangrove-bay-golf-course-08"
     },
     {
       "number": 9,
@@ -100,7 +108,8 @@
         "White": 379,
         "Gold": 324,
         "Red": 312
-      }
+      },
+      "map": "mangrove-bay-golf-course-09"
     },
     {
       "number": 10,
@@ -193,5 +202,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

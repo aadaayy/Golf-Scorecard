@@ -18,7 +18,8 @@
       "yards": {
         "Blue": 536,
         "White": 506
-      }
+      },
+      "map": "miccosukee-golf-country-club-barracuda-course-01"
     },
     {
       "number": 2,
@@ -27,7 +28,8 @@
       "yards": {
         "Blue": 182,
         "White": 160
-      }
+      },
+      "map": "miccosukee-golf-country-club-barracuda-course-02"
     },
     {
       "number": 3,
@@ -36,7 +38,8 @@
       "yards": {
         "Blue": 437,
         "White": 390
-      }
+      },
+      "map": "miccosukee-golf-country-club-barracuda-course-03"
     },
     {
       "number": 4,
@@ -45,7 +48,8 @@
       "yards": {
         "Blue": 394,
         "White": 336
-      }
+      },
+      "map": "miccosukee-golf-country-club-barracuda-course-04"
     },
     {
       "number": 5,
@@ -54,7 +58,8 @@
       "yards": {
         "Blue": 362,
         "White": 346
-      }
+      },
+      "map": "miccosukee-golf-country-club-barracuda-course-05"
     },
     {
       "number": 6,
@@ -63,7 +68,8 @@
       "yards": {
         "Blue": 404,
         "White": 391
-      }
+      },
+      "map": "miccosukee-golf-country-club-barracuda-course-06"
     },
     {
       "number": 7,
@@ -72,7 +78,8 @@
       "yards": {
         "Blue": 606,
         "White": 554
-      }
+      },
+      "map": "miccosukee-golf-country-club-barracuda-course-07"
     },
     {
       "number": 8,
@@ -90,8 +97,9 @@
       "yards": {
         "Blue": 380,
         "White": 365
-      }
+      },
+      "map": "miccosukee-golf-country-club-barracuda-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

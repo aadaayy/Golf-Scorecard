@@ -34,7 +34,8 @@
         "Green": 314,
         "Green/Red": 314,
         "Red": 269
-      }
+      },
+      "map": "mizner-country-club-01"
     },
     {
       "number": 2,
@@ -51,7 +52,8 @@
         "Green": 350,
         "Green/Red": 341,
         "Red": 341
-      }
+      },
+      "map": "mizner-country-club-02"
     },
     {
       "number": 3,
@@ -68,7 +70,8 @@
         "Green": 439,
         "Green/Red": 391,
         "Red": 391
-      }
+      },
+      "map": "mizner-country-club-03"
     },
     {
       "number": 4,
@@ -85,7 +88,8 @@
         "Green": 259,
         "Green/Red": 259,
         "Red": 249
-      }
+      },
+      "map": "mizner-country-club-04"
     },
     {
       "number": 5,
@@ -102,7 +106,8 @@
         "Green": 153,
         "Green/Red": 153,
         "Red": 145
-      }
+      },
+      "map": "mizner-country-club-05"
     },
     {
       "number": 6,
@@ -119,7 +124,8 @@
         "Green": 326,
         "Green/Red": 326,
         "Red": 303
-      }
+      },
+      "map": "mizner-country-club-06"
     },
     {
       "number": 7,
@@ -136,7 +142,8 @@
         "Green": 430,
         "Green/Red": 406,
         "Red": 406
-      }
+      },
+      "map": "mizner-country-club-07"
     },
     {
       "number": 8,
@@ -255,7 +262,8 @@
         "Green": 342,
         "Green/Red": 323,
         "Red": 323
-      }
+      },
+      "map": "mizner-country-club-14"
     },
     {
       "number": 15,
@@ -326,5 +334,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

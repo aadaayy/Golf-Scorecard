@@ -20,7 +20,8 @@
         "Classic": 425,
         "White": 397,
         "Red": 289
-      }
+      },
+      "map": "disneys-magnolia-golf-course-01"
     },
     {
       "number": 2,
@@ -40,7 +41,8 @@
         "Classic": 163,
         "White": 138,
         "Red": 106
-      }
+      },
+      "map": "disneys-magnolia-golf-course-03"
     },
     {
       "number": 4,
@@ -50,7 +52,8 @@
         "Classic": 538,
         "White": 483,
         "Red": 365
-      }
+      },
+      "map": "disneys-magnolia-golf-course-04"
     },
     {
       "number": 5,
@@ -60,7 +63,8 @@
         "Classic": 495,
         "White": 430,
         "Red": 349
-      }
+      },
+      "map": "disneys-magnolia-golf-course-05"
     },
     {
       "number": 6,
@@ -70,7 +74,8 @@
         "Classic": 232,
         "White": 171,
         "Red": 109
-      }
+      },
+      "map": "disneys-magnolia-golf-course-06"
     },
     {
       "number": 7,
@@ -80,7 +85,8 @@
         "Classic": 420,
         "White": 383,
         "Red": 312
-      }
+      },
+      "map": "disneys-magnolia-golf-course-07"
     },
     {
       "number": 8,
@@ -90,7 +96,8 @@
         "Classic": 602,
         "White": 532,
         "Red": 465
-      }
+      },
+      "map": "disneys-magnolia-golf-course-08"
     },
     {
       "number": 9,
@@ -160,7 +167,8 @@
         "Classic": 560,
         "White": 510,
         "Red": 406
-      }
+      },
+      "map": "disneys-magnolia-golf-course-15"
     },
     {
       "number": 16,
@@ -190,8 +198,9 @@
         "Classic": 486,
         "White": 434,
         "Red": 355
-      }
+      },
+      "map": "disneys-magnolia-golf-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

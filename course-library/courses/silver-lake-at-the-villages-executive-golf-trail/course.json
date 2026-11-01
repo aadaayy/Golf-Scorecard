@@ -18,7 +18,8 @@
       "yards": {
         "Gold": 174,
         "Green": 161
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-01"
     },
     {
       "number": 2,
@@ -27,7 +28,8 @@
       "yards": {
         "Gold": 285,
         "Green": 258
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-02"
     },
     {
       "number": 3,
@@ -36,7 +38,8 @@
       "yards": {
         "Gold": 169,
         "Green": 151
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-03"
     },
     {
       "number": 4,
@@ -45,7 +48,8 @@
       "yards": {
         "Gold": 101,
         "Green": 95
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-04"
     },
     {
       "number": 5,
@@ -54,7 +58,8 @@
       "yards": {
         "Gold": 111,
         "Green": 94
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-05"
     },
     {
       "number": 6,
@@ -63,7 +68,8 @@
       "yards": {
         "Gold": 142,
         "Green": 118
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-06"
     },
     {
       "number": 7,
@@ -72,7 +78,8 @@
       "yards": {
         "Gold": 160,
         "Green": 138
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-07"
     },
     {
       "number": 8,
@@ -81,7 +88,8 @@
       "yards": {
         "Gold": 183,
         "Green": 161
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-08"
     },
     {
       "number": 9,
@@ -90,8 +98,9 @@
       "yards": {
         "Gold": 281,
         "Green": 250
-      }
+      },
+      "map": "silver-lake-at-the-villages-executive-golf-trail-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

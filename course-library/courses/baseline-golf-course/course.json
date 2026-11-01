@@ -20,7 +20,8 @@
         "Blue": 265,
         "Web": 265,
         "Red": 255
-      }
+      },
+      "map": "baseline-golf-course-01"
     },
     {
       "number": 2,
@@ -30,7 +31,8 @@
         "Blue": 162,
         "Web": 155,
         "Red": 140
-      }
+      },
+      "map": "baseline-golf-course-02"
     },
     {
       "number": 3,
@@ -40,7 +42,8 @@
         "Blue": 143,
         "Web": 145,
         "Red": 136
-      }
+      },
+      "map": "baseline-golf-course-03"
     },
     {
       "number": 4,
@@ -50,7 +53,8 @@
         "Blue": 252,
         "Web": 252,
         "Red": 218
-      }
+      },
+      "map": "baseline-golf-course-04"
     },
     {
       "number": 5,
@@ -60,7 +64,8 @@
         "Blue": 281,
         "Web": 281,
         "Red": 269
-      }
+      },
+      "map": "baseline-golf-course-05"
     },
     {
       "number": 6,
@@ -70,7 +75,8 @@
         "Blue": 172,
         "Web": 172,
         "Red": 115
-      }
+      },
+      "map": "baseline-golf-course-06"
     },
     {
       "number": 7,
@@ -80,7 +86,8 @@
         "Blue": 131,
         "Web": 139,
         "Red": 112
-      }
+      },
+      "map": "baseline-golf-course-07"
     },
     {
       "number": 8,
@@ -90,7 +97,8 @@
         "Blue": 90,
         "Web": 90,
         "Red": 80
-      }
+      },
+      "map": "baseline-golf-course-08"
     },
     {
       "number": 9,
@@ -100,7 +108,8 @@
         "Blue": 320,
         "Web": 320,
         "Red": 310
-      }
+      },
+      "map": "baseline-golf-course-09"
     },
     {
       "number": 10,
@@ -110,7 +119,8 @@
         "Blue": 320,
         "Web": 300,
         "Red": 310
-      }
+      },
+      "map": "baseline-golf-course-10"
     },
     {
       "number": 11,
@@ -120,7 +130,8 @@
         "Blue": 133,
         "Web": 132,
         "Red": 119
-      }
+      },
+      "map": "baseline-golf-course-11"
     },
     {
       "number": 12,
@@ -130,7 +141,8 @@
         "Blue": 160,
         "Web": 165,
         "Red": 134
-      }
+      },
+      "map": "baseline-golf-course-12"
     },
     {
       "number": 13,
@@ -140,7 +152,8 @@
         "Blue": 272,
         "Web": 272,
         "Red": 258
-      }
+      },
+      "map": "baseline-golf-course-13"
     },
     {
       "number": 14,
@@ -150,7 +163,8 @@
         "Blue": 112,
         "Web": 115,
         "Red": 91
-      }
+      },
+      "map": "baseline-golf-course-14"
     },
     {
       "number": 15,
@@ -160,7 +174,8 @@
         "Blue": 123,
         "Web": 136,
         "Red": 106
-      }
+      },
+      "map": "baseline-golf-course-15"
     },
     {
       "number": 16,
@@ -170,7 +185,8 @@
         "Blue": 173,
         "Web": 177,
         "Red": 132
-      }
+      },
+      "map": "baseline-golf-course-16"
     },
     {
       "number": 17,
@@ -180,7 +196,8 @@
         "Blue": 140,
         "Web": 128,
         "Red": 126
-      }
+      },
+      "map": "baseline-golf-course-17"
     },
     {
       "number": 18,
@@ -190,8 +207,9 @@
         "Blue": 240,
         "Web": 240,
         "Red": 235
-      }
+      },
+      "map": "baseline-golf-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

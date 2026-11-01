@@ -26,7 +26,8 @@
         "White": 450,
         "Green": 394,
         "Friendly": 305
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 332,
         "Green": 298,
         "Friendly": 244
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 311,
         "Green": 263,
         "Friendly": 160
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 458,
         "Green": 421,
         "Friendly": 355
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 128,
         "Green": 101,
         "Friendly": 95
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "White": 320,
         "Green": 283,
         "Friendly": 217
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "White": 331,
         "Green": 205,
         "Friendly": 205
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-07"
     },
     {
       "number": 8,
@@ -117,7 +124,8 @@
         "White": 122,
         "Green": 95,
         "Friendly": 95
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-08"
     },
     {
       "number": 9,
@@ -130,7 +138,8 @@
         "White": 281,
         "Green": 251,
         "Friendly": 217
-      }
+      },
+      "map": "cane-garden-country-club-hibiscus-jacaranda-course-09"
     },
     {
       "number": 10,
@@ -250,5 +259,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

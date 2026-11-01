@@ -32,7 +32,8 @@
         "Red": 311,
         "Red/Green": 311,
         "Green": 279
-      }
+      },
+      "map": "the-club-pelican-bay-club-bay-course-01"
     },
     {
       "number": 2,
@@ -48,7 +49,8 @@
         "Red": 419,
         "Red/Green": 345,
         "Green": 345
-      }
+      },
+      "map": "the-club-pelican-bay-club-bay-course-02"
     },
     {
       "number": 3,
@@ -96,7 +98,8 @@
         "Red": 255,
         "Red/Green": 255,
         "Green": 241
-      }
+      },
+      "map": "the-club-pelican-bay-club-bay-course-05"
     },
     {
       "number": 6,
@@ -112,7 +115,8 @@
         "Red": 102,
         "Red/Green": 102,
         "Green": 93
-      }
+      },
+      "map": "the-club-pelican-bay-club-bay-course-06"
     },
     {
       "number": 7,
@@ -128,7 +132,8 @@
         "Red": 279,
         "Red/Green": 243,
         "Green": 243
-      }
+      },
+      "map": "the-club-pelican-bay-club-bay-course-07"
     },
     {
       "number": 8,
@@ -144,7 +149,8 @@
         "Red": 420,
         "Red/Green": 349,
         "Green": 349
-      }
+      },
+      "map": "the-club-pelican-bay-club-bay-course-08"
     },
     {
       "number": 9,
@@ -160,7 +166,8 @@
         "Red": 330,
         "Red/Green": 285,
         "Green": 285
-      }
+      },
+      "map": "the-club-pelican-bay-club-bay-course-09"
     },
     {
       "number": 10,
@@ -307,5 +314,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

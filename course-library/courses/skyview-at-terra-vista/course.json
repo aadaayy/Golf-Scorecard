@@ -28,7 +28,8 @@
         "White/Red": 459,
         "Red": 459,
         "Green": 440
-      }
+      },
+      "map": "skyview-at-terra-vista-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "White/Red": 343,
         "Red": 318,
         "Green": 250
-      }
+      },
+      "map": "skyview-at-terra-vista-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "White/Red": 338,
         "Red": 282,
         "Green": 273
-      }
+      },
+      "map": "skyview-at-terra-vista-03"
     },
     {
       "number": 4,
@@ -70,7 +73,8 @@
         "White/Red": 145,
         "Red": 127,
         "Green": 127
-      }
+      },
+      "map": "skyview-at-terra-vista-04"
     },
     {
       "number": 5,
@@ -84,7 +88,8 @@
         "White/Red": 432,
         "Red": 432,
         "Green": 404
-      }
+      },
+      "map": "skyview-at-terra-vista-05"
     },
     {
       "number": 6,
@@ -98,7 +103,8 @@
         "White/Red": 325,
         "Red": 325,
         "Green": 270
-      }
+      },
+      "map": "skyview-at-terra-vista-06"
     },
     {
       "number": 7,
@@ -126,7 +132,8 @@
         "White/Red": 338,
         "Red": 338,
         "Green": 312
-      }
+      },
+      "map": "skyview-at-terra-vista-08"
     },
     {
       "number": 9,
@@ -140,7 +147,8 @@
         "White/Red": 326,
         "Red": 272,
         "Green": 272
-      }
+      },
+      "map": "skyview-at-terra-vista-09"
     },
     {
       "number": 10,
@@ -154,7 +162,8 @@
         "White/Red": 357,
         "Red": 357,
         "Green": 272
-      }
+      },
+      "map": "skyview-at-terra-vista-10"
     },
     {
       "number": 11,
@@ -168,7 +177,8 @@
         "White/Red": 360,
         "Red": 314,
         "Green": 272
-      }
+      },
+      "map": "skyview-at-terra-vista-11"
     },
     {
       "number": 12,
@@ -182,7 +192,8 @@
         "White/Red": 419,
         "Red": 419,
         "Green": 357
-      }
+      },
+      "map": "skyview-at-terra-vista-12"
     },
     {
       "number": 13,
@@ -196,7 +207,8 @@
         "White/Red": 313,
         "Red": 282,
         "Green": 282
-      }
+      },
+      "map": "skyview-at-terra-vista-13"
     },
     {
       "number": 14,
@@ -224,7 +236,8 @@
         "White/Red": 420,
         "Red": 420,
         "Green": 355
-      }
+      },
+      "map": "skyview-at-terra-vista-15"
     },
     {
       "number": 16,
@@ -238,7 +251,8 @@
         "White/Red": 119,
         "Red": 99,
         "Green": 99
-      }
+      },
+      "map": "skyview-at-terra-vista-16"
     },
     {
       "number": 17,
@@ -252,7 +266,8 @@
         "White/Red": 305,
         "Red": 276,
         "Green": 276
-      }
+      },
+      "map": "skyview-at-terra-vista-17"
     },
     {
       "number": 18,
@@ -266,8 +281,9 @@
         "White/Red": 333,
         "Red": 333,
         "Green": 266
-      }
+      },
+      "map": "skyview-at-terra-vista-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

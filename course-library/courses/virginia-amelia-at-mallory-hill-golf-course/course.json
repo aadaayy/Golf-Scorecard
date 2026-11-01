@@ -26,7 +26,8 @@
         "White": 285,
         "Green": 251,
         "Friendly": 168
-      }
+      },
+      "map": "virginia-amelia-at-mallory-hill-golf-course-01"
     },
     {
       "number": 2,
@@ -52,7 +53,8 @@
         "White": 293,
         "Green": 257,
         "Friendly": 204
-      }
+      },
+      "map": "virginia-amelia-at-mallory-hill-golf-course-03"
     },
     {
       "number": 4,
@@ -65,7 +67,8 @@
         "White": 240,
         "Green": 216,
         "Friendly": 201
-      }
+      },
+      "map": "virginia-amelia-at-mallory-hill-golf-course-04"
     },
     {
       "number": 5,
@@ -78,7 +81,8 @@
         "White": 127,
         "Green": 89,
         "Friendly": 89
-      }
+      },
+      "map": "virginia-amelia-at-mallory-hill-golf-course-05"
     },
     {
       "number": 6,
@@ -91,7 +95,8 @@
         "White": 477,
         "Green": 444,
         "Friendly": 320
-      }
+      },
+      "map": "virginia-amelia-at-mallory-hill-golf-course-06"
     },
     {
       "number": 7,
@@ -104,7 +109,8 @@
         "White": 109,
         "Green": 71,
         "Friendly": 71
-      }
+      },
+      "map": "virginia-amelia-at-mallory-hill-golf-course-07"
     },
     {
       "number": 8,
@@ -117,7 +123,8 @@
         "White": 461,
         "Green": 397,
         "Friendly": 320
-      }
+      },
+      "map": "virginia-amelia-at-mallory-hill-golf-course-08"
     },
     {
       "number": 9,
@@ -130,7 +137,8 @@
         "White": 351,
         "Green": 303,
         "Friendly": 202
-      }
+      },
+      "map": "virginia-amelia-at-mallory-hill-golf-course-09"
     },
     {
       "number": 10,
@@ -250,5 +258,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

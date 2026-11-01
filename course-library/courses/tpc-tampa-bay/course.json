@@ -26,7 +26,8 @@
         "White": 347,
         "Black": 347,
         "Red": 309
-      }
+      },
+      "map": "tpc-tampa-bay-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 161,
         "Black": 161,
         "Red": 124
-      }
+      },
+      "map": "tpc-tampa-bay-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 351,
         "Black": 310,
         "Red": 310
-      }
+      },
+      "map": "tpc-tampa-bay-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 373,
         "Black": 345,
         "Red": 304
-      }
+      },
+      "map": "tpc-tampa-bay-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 293,
         "Black": 293,
         "Red": 236
-      }
+      },
+      "map": "tpc-tampa-bay-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "White": 116,
         "Black": 116,
         "Red": 94
-      }
+      },
+      "map": "tpc-tampa-bay-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "White": 505,
         "Black": 422,
         "Red": 422
-      }
+      },
+      "map": "tpc-tampa-bay-07"
     },
     {
       "number": 8,
@@ -117,7 +124,8 @@
         "White": 363,
         "Black": 316,
         "Red": 316
-      }
+      },
+      "map": "tpc-tampa-bay-08"
     },
     {
       "number": 9,
@@ -130,7 +138,8 @@
         "White": 406,
         "Black": 349,
         "Red": 349
-      }
+      },
+      "map": "tpc-tampa-bay-09"
     },
     {
       "number": 10,
@@ -143,7 +152,8 @@
         "White": 344,
         "Black": 295,
         "Red": 295
-      }
+      },
+      "map": "tpc-tampa-bay-10"
     },
     {
       "number": 11,
@@ -156,7 +166,8 @@
         "White": 136,
         "Black": 136,
         "Red": 98
-      }
+      },
+      "map": "tpc-tampa-bay-11"
     },
     {
       "number": 12,
@@ -169,7 +180,8 @@
         "White": 473,
         "Black": 440,
         "Red": 404
-      }
+      },
+      "map": "tpc-tampa-bay-12"
     },
     {
       "number": 13,
@@ -182,7 +194,8 @@
         "White": 309,
         "Black": 309,
         "Red": 255
-      }
+      },
+      "map": "tpc-tampa-bay-13"
     },
     {
       "number": 14,
@@ -195,7 +208,8 @@
         "White": 528,
         "Black": 455,
         "Red": 455
-      }
+      },
+      "map": "tpc-tampa-bay-14"
     },
     {
       "number": 15,
@@ -221,7 +235,8 @@
         "White": 373,
         "Black": 332,
         "Red": 332
-      }
+      },
+      "map": "tpc-tampa-bay-16"
     },
     {
       "number": 17,
@@ -234,7 +249,8 @@
         "White": 160,
         "Black": 147,
         "Red": 101
-      }
+      },
+      "map": "tpc-tampa-bay-17"
     },
     {
       "number": 18,
@@ -247,8 +263,9 @@
         "White": 404,
         "Black": 380,
         "Red": 300
-      }
+      },
+      "map": "tpc-tampa-bay-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

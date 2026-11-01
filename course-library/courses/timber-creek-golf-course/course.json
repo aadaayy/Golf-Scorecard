@@ -16,7 +16,8 @@
       "handicap": 1,
       "yards": {
         "Forward": 151
-      }
+      },
+      "map": "timber-creek-golf-course-01"
     },
     {
       "number": 2,
@@ -24,7 +25,8 @@
       "handicap": 5,
       "yards": {
         "Forward": 126
-      }
+      },
+      "map": "timber-creek-golf-course-02"
     },
     {
       "number": 3,
@@ -32,7 +34,8 @@
       "handicap": 9,
       "yards": {
         "Forward": 100
-      }
+      },
+      "map": "timber-creek-golf-course-03"
     },
     {
       "number": 4,
@@ -40,7 +43,8 @@
       "handicap": 7,
       "yards": {
         "Forward": 92
-      }
+      },
+      "map": "timber-creek-golf-course-04"
     },
     {
       "number": 5,
@@ -48,7 +52,8 @@
       "handicap": 8,
       "yards": {
         "Forward": 100
-      }
+      },
+      "map": "timber-creek-golf-course-05"
     },
     {
       "number": 6,
@@ -56,7 +61,8 @@
       "handicap": 2,
       "yards": {
         "Forward": 117
-      }
+      },
+      "map": "timber-creek-golf-course-06"
     },
     {
       "number": 7,
@@ -64,7 +70,8 @@
       "handicap": 3,
       "yards": {
         "Forward": 129
-      }
+      },
+      "map": "timber-creek-golf-course-07"
     },
     {
       "number": 8,
@@ -72,7 +79,8 @@
       "handicap": 4,
       "yards": {
         "Forward": 128
-      }
+      },
+      "map": "timber-creek-golf-course-08"
     },
     {
       "number": 9,
@@ -80,8 +88,9 @@
       "handicap": 6,
       "yards": {
         "Forward": 100
-      }
+      },
+      "map": "timber-creek-golf-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

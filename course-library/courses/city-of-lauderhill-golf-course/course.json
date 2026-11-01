@@ -18,7 +18,8 @@
       "yards": {
         "Middle": 85,
         "Forward": 60
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-01"
     },
     {
       "number": 2,
@@ -27,7 +28,8 @@
       "yards": {
         "Middle": 200,
         "Forward": 140
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-02"
     },
     {
       "number": 3,
@@ -36,7 +38,8 @@
       "yards": {
         "Middle": 110,
         "Forward": 90
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-03"
     },
     {
       "number": 4,
@@ -45,7 +48,8 @@
       "yards": {
         "Middle": 70,
         "Forward": 50
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-04"
     },
     {
       "number": 5,
@@ -54,7 +58,8 @@
       "yards": {
         "Middle": 180,
         "Forward": 140
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-05"
     },
     {
       "number": 6,
@@ -63,7 +68,8 @@
       "yards": {
         "Middle": 80,
         "Forward": 65
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-06"
     },
     {
       "number": 7,
@@ -81,7 +87,8 @@
       "yards": {
         "Middle": 120,
         "Forward": 85
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-08"
     },
     {
       "number": 9,
@@ -90,8 +97,9 @@
       "yards": {
         "Middle": 100,
         "Forward": 60
-      }
+      },
+      "map": "city-of-lauderhill-golf-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

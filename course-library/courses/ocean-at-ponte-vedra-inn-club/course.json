@@ -24,7 +24,8 @@
         "White": 370,
         "Green": 345,
         "Red": 314
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "White": 342,
         "Green": 330,
         "Red": 295
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "White": 486,
         "Green": 458,
         "Red": 422
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "White": 404,
         "Green": 378,
         "Red": 322
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
         "White": 186,
         "Green": 160,
         "Red": 131
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-05"
     },
     {
       "number": 6,
@@ -84,7 +89,8 @@
         "White": 465,
         "Green": 427,
         "Red": 384
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-06"
     },
     {
       "number": 7,
@@ -96,7 +102,8 @@
         "White": 358,
         "Green": 325,
         "Red": 313
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-07"
     },
     {
       "number": 8,
@@ -108,7 +115,8 @@
         "White": 392,
         "Green": 372,
         "Red": 334
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-08"
     },
     {
       "number": 9,
@@ -120,7 +128,8 @@
         "White": 125,
         "Green": 115,
         "Red": 105
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-09"
     },
     {
       "number": 10,
@@ -132,7 +141,8 @@
         "White": 375,
         "Green": 354,
         "Red": 300
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-10"
     },
     {
       "number": 11,
@@ -144,7 +154,8 @@
         "White": 161,
         "Green": 145,
         "Red": 119
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-11"
     },
     {
       "number": 12,
@@ -156,7 +167,8 @@
         "White": 479,
         "Green": 445,
         "Red": 434
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-12"
     },
     {
       "number": 13,
@@ -180,7 +192,8 @@
         "White": 484,
         "Green": 421,
         "Red": 368
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-14"
     },
     {
       "number": 15,
@@ -192,7 +205,8 @@
         "White": 353,
         "Green": 337,
         "Red": 290
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-15"
     },
     {
       "number": 16,
@@ -204,7 +218,8 @@
         "White": 113,
         "Green": 103,
         "Red": 93
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-16"
     },
     {
       "number": 17,
@@ -216,7 +231,8 @@
         "White": 354,
         "Green": 313,
         "Red": 266
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-17"
     },
     {
       "number": 18,
@@ -228,8 +244,9 @@
         "White": 333,
         "Green": 281,
         "Red": 270
-      }
+      },
+      "map": "ocean-at-ponte-vedra-inn-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

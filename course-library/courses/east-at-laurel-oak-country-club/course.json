@@ -28,7 +28,8 @@
         "Blue": 357,
         "Combo Yellow": 305,
         "Red": 305
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "Blue": 349,
         "Combo Yellow": 324,
         "Red": 292
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "Blue": 163,
         "Combo Yellow": 121,
         "Red": 114
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-03"
     },
     {
       "number": 4,
@@ -70,7 +73,8 @@
         "Blue": 460,
         "Combo Yellow": 377,
         "Red": 377
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-04"
     },
     {
       "number": 5,
@@ -112,7 +116,8 @@
         "Blue": 330,
         "Combo Yellow": 287,
         "Red": 278
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-07"
     },
     {
       "number": 8,
@@ -126,7 +131,8 @@
         "Blue": 384,
         "Combo Yellow": 284,
         "Red": 284
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-08"
     },
     {
       "number": 9,
@@ -140,7 +146,8 @@
         "Blue": 461,
         "Combo Yellow": 439,
         "Red": 362
-      }
+      },
+      "map": "east-at-laurel-oak-country-club-09"
     },
     {
       "number": 10,
@@ -269,5 +276,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

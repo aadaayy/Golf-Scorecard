@@ -32,7 +32,8 @@
         "Middle": 318,
         "Middle/Forward": 318,
         "Forward": 311
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-01"
     },
     {
       "number": 2,
@@ -48,7 +49,8 @@
         "Middle": 306,
         "Middle/Forward": 306,
         "Forward": 217
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-02"
     },
     {
       "number": 3,
@@ -64,7 +66,8 @@
         "Middle": 493,
         "Middle/Forward": 468,
         "Forward": 468
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-03"
     },
     {
       "number": 4,
@@ -112,7 +115,8 @@
         "Middle": 276,
         "Middle/Forward": 276,
         "Forward": 248
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-06"
     },
     {
       "number": 7,
@@ -128,7 +132,8 @@
         "Middle": 452,
         "Middle/Forward": 420,
         "Forward": 420
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-07"
     },
     {
       "number": 8,
@@ -144,7 +149,8 @@
         "Middle": 135,
         "Middle/Forward": 135,
         "Forward": 109
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-08"
     },
     {
       "number": 9,
@@ -160,7 +166,8 @@
         "Middle": 368,
         "Middle/Forward": 328,
         "Forward": 328
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-09"
     },
     {
       "number": 10,
@@ -176,7 +183,8 @@
         "Middle": 363,
         "Middle/Forward": 337,
         "Forward": 337
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-10"
     },
     {
       "number": 11,
@@ -192,7 +200,8 @@
         "Middle": 122,
         "Middle/Forward": 122,
         "Forward": 106
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-11"
     },
     {
       "number": 12,
@@ -208,7 +217,8 @@
         "Middle": 342,
         "Middle/Forward": 295,
         "Forward": 295
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-12"
     },
     {
       "number": 13,
@@ -224,7 +234,8 @@
         "Middle": 254,
         "Middle/Forward": 254,
         "Forward": 217
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-13"
     },
     {
       "number": 14,
@@ -240,7 +251,8 @@
         "Middle": 411,
         "Middle/Forward": 370,
         "Forward": 370
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-14"
     },
     {
       "number": 15,
@@ -256,7 +268,8 @@
         "Middle": 145,
         "Middle/Forward": 145,
         "Forward": 121
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-15"
     },
     {
       "number": 16,
@@ -272,7 +285,8 @@
         "Middle": 303,
         "Middle/Forward": 303,
         "Forward": 280
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-16"
     },
     {
       "number": 17,
@@ -288,7 +302,8 @@
         "Middle": 465,
         "Middle/Forward": 407,
         "Forward": 407
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-17"
     },
     {
       "number": 18,
@@ -304,8 +319,9 @@
         "Middle": 335,
         "Middle/Forward": 335,
         "Forward": 261
-      }
+      },
+      "map": "fort-lauderdale-country-club-north-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -26,7 +26,8 @@
         "White": 324,
         "Green": 286,
         "Friendly": 181
-      }
+      },
+      "map": "amelia-caroline-at-mallory-hill-golf-course-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 416,
         "Green": 382,
         "Friendly": 312
-      }
+      },
+      "map": "amelia-caroline-at-mallory-hill-golf-course-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 123,
         "Green": 91,
         "Friendly": 91
-      }
+      },
+      "map": "amelia-caroline-at-mallory-hill-golf-course-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 261,
         "Green": 211,
         "Friendly": 211
-      }
+      },
+      "map": "amelia-caroline-at-mallory-hill-golf-course-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 342,
         "Green": 300,
         "Friendly": 190
-      }
+      },
+      "map": "amelia-caroline-at-mallory-hill-golf-course-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "White": 447,
         "Green": 401,
         "Friendly": 290
-      }
+      },
+      "map": "amelia-caroline-at-mallory-hill-golf-course-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "White": 306,
         "Green": 246,
         "Friendly": 205
-      }
+      },
+      "map": "amelia-caroline-at-mallory-hill-golf-course-07"
     },
     {
       "number": 8,
@@ -130,7 +137,8 @@
         "White": 327,
         "Green": 272,
         "Friendly": 200
-      }
+      },
+      "map": "amelia-caroline-at-mallory-hill-golf-course-09"
     },
     {
       "number": 10,
@@ -250,5 +258,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

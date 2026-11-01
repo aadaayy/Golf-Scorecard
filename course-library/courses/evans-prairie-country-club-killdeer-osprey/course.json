@@ -28,7 +28,8 @@
         "White": 317,
         "Green": 270,
         "Friendly": 224
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "White": 355,
         "Green": 317,
         "Friendly": 252
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "White": 418,
         "Green": 366,
         "Friendly": 296
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-03"
     },
     {
       "number": 4,
@@ -70,7 +73,8 @@
         "White": 167,
         "Green": 88,
         "Friendly": 82
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-04"
     },
     {
       "number": 5,
@@ -84,7 +88,8 @@
         "White": 357,
         "Green": 318,
         "Friendly": 210
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-05"
     },
     {
       "number": 6,
@@ -98,7 +103,8 @@
         "White": 130,
         "Green": 99,
         "Friendly": 93
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-06"
     },
     {
       "number": 7,
@@ -112,7 +118,8 @@
         "White": 313,
         "Green": 305,
         "Friendly": 247
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-07"
     },
     {
       "number": 8,
@@ -126,7 +133,8 @@
         "White": 420,
         "Green": 376,
         "Friendly": 322
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-08"
     },
     {
       "number": 9,
@@ -140,7 +148,8 @@
         "White": 353,
         "Green": 289,
         "Friendly": 282
-      }
+      },
+      "map": "evans-prairie-country-club-killdeer-osprey-09"
     },
     {
       "number": 10,
@@ -269,5 +278,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

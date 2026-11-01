@@ -26,7 +26,8 @@
         "Teal": 390,
         "Red": 388,
         "Yellow": 318
-      }
+      },
+      "map": "carrollwood-country-club-pines-cypress-course-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "Teal": 260,
         "Red": 257,
         "Yellow": 210
-      }
+      },
+      "map": "carrollwood-country-club-pines-cypress-course-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "Teal": 319,
         "Red": 319,
         "Yellow": 232
-      }
+      },
+      "map": "carrollwood-country-club-pines-cypress-course-03"
     },
     {
       "number": 4,
@@ -78,7 +81,8 @@
         "Teal": 120,
         "Red": 120,
         "Yellow": 86
-      }
+      },
+      "map": "carrollwood-country-club-pines-cypress-course-05"
     },
     {
       "number": 6,
@@ -91,7 +95,8 @@
         "Teal": 248,
         "Red": 249,
         "Yellow": 201
-      }
+      },
+      "map": "carrollwood-country-club-pines-cypress-course-06"
     },
     {
       "number": 7,
@@ -104,7 +109,8 @@
         "Teal": 287,
         "Red": 287,
         "Yellow": 204
-      }
+      },
+      "map": "carrollwood-country-club-pines-cypress-course-07"
     },
     {
       "number": 8,
@@ -117,7 +123,8 @@
         "Teal": 95,
         "Red": 91,
         "Yellow": 88
-      }
+      },
+      "map": "carrollwood-country-club-pines-cypress-course-08"
     },
     {
       "number": 9,
@@ -130,7 +137,8 @@
         "Teal": 415,
         "Red": 412,
         "Yellow": 336
-      }
+      },
+      "map": "carrollwood-country-club-pines-cypress-course-09"
     },
     {
       "number": 10,
@@ -250,5 +258,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

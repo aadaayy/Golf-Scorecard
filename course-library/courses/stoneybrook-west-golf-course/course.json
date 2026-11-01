@@ -26,7 +26,8 @@
         "Orange": 375,
         "White": 341,
         "Red": 295
-      }
+      },
+      "map": "stoneybrook-west-golf-course-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "Orange": 510,
         "White": 497,
         "Red": 432
-      }
+      },
+      "map": "stoneybrook-west-golf-course-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "Orange": 160,
         "White": 160,
         "Red": 114
-      }
+      },
+      "map": "stoneybrook-west-golf-course-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "Orange": 276,
         "White": 267,
         "Red": 217
-      }
+      },
+      "map": "stoneybrook-west-golf-course-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "Orange": 485,
         "White": 458,
         "Red": 407
-      }
+      },
+      "map": "stoneybrook-west-golf-course-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "Orange": 419,
         "White": 402,
         "Red": 355
-      }
+      },
+      "map": "stoneybrook-west-golf-course-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "Orange": 383,
         "White": 340,
         "Red": 293
-      }
+      },
+      "map": "stoneybrook-west-golf-course-07"
     },
     {
       "number": 8,
@@ -117,7 +124,8 @@
         "Orange": 154,
         "White": 135,
         "Red": 96
-      }
+      },
+      "map": "stoneybrook-west-golf-course-08"
     },
     {
       "number": 9,
@@ -130,7 +138,8 @@
         "Orange": 353,
         "White": 328,
         "Red": 281
-      }
+      },
+      "map": "stoneybrook-west-golf-course-09"
     },
     {
       "number": 10,
@@ -250,5 +259,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

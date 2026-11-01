@@ -28,7 +28,8 @@
         "Gold": 417,
         "Red": 381,
         "Green": 340
-      }
+      },
+      "map": "delaire-country-club-hills-woods-01"
     },
     {
       "number": 2,
@@ -56,7 +57,8 @@
         "Gold": 446,
         "Red": 440,
         "Green": 350
-      }
+      },
+      "map": "delaire-country-club-hills-woods-03"
     },
     {
       "number": 4,
@@ -70,7 +72,8 @@
         "Gold": 243,
         "Red": 234,
         "Green": 220
-      }
+      },
+      "map": "delaire-country-club-hills-woods-04"
     },
     {
       "number": 5,
@@ -84,7 +87,8 @@
         "Gold": 147,
         "Red": 119,
         "Green": 112
-      }
+      },
+      "map": "delaire-country-club-hills-woods-05"
     },
     {
       "number": 6,
@@ -98,7 +102,8 @@
         "Gold": 347,
         "Red": 304,
         "Green": 240
-      }
+      },
+      "map": "delaire-country-club-hills-woods-06"
     },
     {
       "number": 7,
@@ -112,7 +117,8 @@
         "Gold": 350,
         "Red": 311,
         "Green": 210
-      }
+      },
+      "map": "delaire-country-club-hills-woods-07"
     },
     {
       "number": 8,
@@ -126,7 +132,8 @@
         "Gold": 264,
         "Red": 256,
         "Green": 210
-      }
+      },
+      "map": "delaire-country-club-hills-woods-08"
     },
     {
       "number": 9,
@@ -269,5 +276,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

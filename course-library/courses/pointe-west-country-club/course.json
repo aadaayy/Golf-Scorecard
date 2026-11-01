@@ -24,7 +24,8 @@
         "Middle": 345,
         "Standard": 317,
         "Forward": 282
-      }
+      },
+      "map": "pointe-west-country-club-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "Middle": 475,
         "Standard": 428,
         "Forward": 388
-      }
+      },
+      "map": "pointe-west-country-club-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "Middle": 364,
         "Standard": 347,
         "Forward": 321
-      }
+      },
+      "map": "pointe-west-country-club-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "Middle": 293,
         "Standard": 269,
         "Forward": 244
-      }
+      },
+      "map": "pointe-west-country-club-04"
     },
     {
       "number": 5,
@@ -84,7 +88,8 @@
         "Middle": 327,
         "Standard": 293,
         "Forward": 282
-      }
+      },
+      "map": "pointe-west-country-club-06"
     },
     {
       "number": 7,
@@ -96,7 +101,8 @@
         "Middle": 331,
         "Standard": 302,
         "Forward": 271
-      }
+      },
+      "map": "pointe-west-country-club-07"
     },
     {
       "number": 8,
@@ -120,7 +126,8 @@
         "Middle": 477,
         "Standard": 462,
         "Forward": 400
-      }
+      },
+      "map": "pointe-west-country-club-09"
     },
     {
       "number": 10,
@@ -132,7 +139,8 @@
         "Middle": 486,
         "Standard": 469,
         "Forward": 431
-      }
+      },
+      "map": "pointe-west-country-club-10"
     },
     {
       "number": 11,
@@ -144,7 +152,8 @@
         "Middle": 147,
         "Standard": 115,
         "Forward": 102
-      }
+      },
+      "map": "pointe-west-country-club-11"
     },
     {
       "number": 12,
@@ -156,7 +165,8 @@
         "Middle": 386,
         "Standard": 360,
         "Forward": 347
-      }
+      },
+      "map": "pointe-west-country-club-12"
     },
     {
       "number": 13,
@@ -168,7 +178,8 @@
         "Middle": 319,
         "Standard": 285,
         "Forward": 249
-      }
+      },
+      "map": "pointe-west-country-club-13"
     },
     {
       "number": 14,
@@ -192,7 +203,8 @@
         "Middle": 353,
         "Standard": 311,
         "Forward": 276
-      }
+      },
+      "map": "pointe-west-country-club-15"
     },
     {
       "number": 16,
@@ -204,7 +216,8 @@
         "Middle": 486,
         "Standard": 441,
         "Forward": 406
-      }
+      },
+      "map": "pointe-west-country-club-16"
     },
     {
       "number": 17,
@@ -228,8 +241,9 @@
         "Middle": 258,
         "Standard": 248,
         "Forward": 223
-      }
+      },
+      "map": "pointe-west-country-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

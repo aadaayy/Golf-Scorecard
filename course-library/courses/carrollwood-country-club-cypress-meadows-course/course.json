@@ -26,7 +26,8 @@
         "Teal": 278,
         "Red": 235,
         "Yellow": 148
-      }
+      },
+      "map": "carrollwood-country-club-cypress-meadows-course-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "Teal": 396,
         "Red": 393,
         "Yellow": 359
-      }
+      },
+      "map": "carrollwood-country-club-cypress-meadows-course-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "Teal": 95,
         "Red": 92,
         "Yellow": 89
-      }
+      },
+      "map": "carrollwood-country-club-cypress-meadows-course-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "Teal": 339,
         "Red": 335,
         "Yellow": 277
-      }
+      },
+      "map": "carrollwood-country-club-cypress-meadows-course-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "Teal": 294,
         "Red": 290,
         "Yellow": 224
-      }
+      },
+      "map": "carrollwood-country-club-cypress-meadows-course-05"
     },
     {
       "number": 6,
@@ -250,5 +255,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

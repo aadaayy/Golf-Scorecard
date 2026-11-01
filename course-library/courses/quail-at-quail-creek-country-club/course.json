@@ -12,37 +12,43 @@
       "number": 1,
       "par": 5,
       "handicap": 8,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-01"
     },
     {
       "number": 2,
       "par": 4,
       "handicap": 12,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-02"
     },
     {
       "number": 3,
       "par": 4,
       "handicap": 2,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-03"
     },
     {
       "number": 4,
       "par": 4,
       "handicap": 14,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-04"
     },
     {
       "number": 5,
       "par": 4,
       "handicap": 18,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-05"
     },
     {
       "number": 6,
       "par": 4,
       "handicap": 4,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-06"
     },
     {
       "number": 7,
@@ -54,25 +60,29 @@
       "number": 8,
       "par": 4,
       "handicap": 6,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-08"
     },
     {
       "number": 9,
       "par": 4,
       "handicap": 10,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-09"
     },
     {
       "number": 10,
       "par": 4,
       "handicap": 9,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-10"
     },
     {
       "number": 11,
       "par": 4,
       "handicap": 1,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-11"
     },
     {
       "number": 12,
@@ -84,19 +94,22 @@
       "number": 13,
       "par": 4,
       "handicap": 11,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-13"
     },
     {
       "number": 14,
       "par": 4,
       "handicap": 7,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-14"
     },
     {
       "number": 15,
       "par": 4,
       "handicap": 15,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-15"
     },
     {
       "number": 16,
@@ -108,7 +121,8 @@
       "number": 17,
       "par": 4,
       "handicap": 17,
-      "yards": {}
+      "yards": {},
+      "map": "quail-at-quail-creek-country-club-17"
     },
     {
       "number": 18,
@@ -117,5 +131,5 @@
       "yards": {}
     }
   ],
-  "version": 1
+  "version": 2
 }

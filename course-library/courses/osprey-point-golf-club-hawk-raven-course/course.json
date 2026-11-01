@@ -24,7 +24,8 @@
         "Blue": 490,
         "White": 419,
         "Silver": 398
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "Blue": 141,
         "White": 125,
         "Silver": 95
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "Blue": 338,
         "White": 305,
         "Silver": 286
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "Blue": 400,
         "White": 370,
         "Silver": 325
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
         "Blue": 534,
         "White": 493,
         "Silver": 458
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-05"
     },
     {
       "number": 6,
@@ -84,7 +89,8 @@
         "Blue": 312,
         "White": 290,
         "Silver": 266
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-06"
     },
     {
       "number": 7,
@@ -96,7 +102,8 @@
         "Blue": 180,
         "White": 150,
         "Silver": 126
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-07"
     },
     {
       "number": 8,
@@ -108,7 +115,8 @@
         "Blue": 345,
         "White": 333,
         "Silver": 309
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-08"
     },
     {
       "number": 9,
@@ -120,7 +128,8 @@
         "Blue": 290,
         "White": 263,
         "Silver": 228
-      }
+      },
+      "map": "osprey-point-golf-club-hawk-raven-course-09"
     },
     {
       "number": 10,
@@ -231,5 +240,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -16,7 +16,8 @@
       "handicap": 5,
       "yards": {
         "Iii/Iv": 343
-      }
+      },
+      "map": "kensington-golf-country-club-01"
     },
     {
       "number": 2,
@@ -24,7 +25,8 @@
       "handicap": 11,
       "yards": {
         "Iii/Iv": 306
-      }
+      },
+      "map": "kensington-golf-country-club-02"
     },
     {
       "number": 3,
@@ -32,7 +34,8 @@
       "handicap": 17,
       "yards": {
         "Iii/Iv": 104
-      }
+      },
+      "map": "kensington-golf-country-club-03"
     },
     {
       "number": 4,
@@ -40,7 +43,8 @@
       "handicap": 9,
       "yards": {
         "Iii/Iv": 500
-      }
+      },
+      "map": "kensington-golf-country-club-04"
     },
     {
       "number": 5,
@@ -48,7 +52,8 @@
       "handicap": 15,
       "yards": {
         "Iii/Iv": 125
-      }
+      },
+      "map": "kensington-golf-country-club-05"
     },
     {
       "number": 6,
@@ -56,7 +61,8 @@
       "handicap": 1,
       "yards": {
         "Iii/Iv": 358
-      }
+      },
+      "map": "kensington-golf-country-club-06"
     },
     {
       "number": 7,
@@ -64,7 +70,8 @@
       "handicap": 7,
       "yards": {
         "Iii/Iv": 358
-      }
+      },
+      "map": "kensington-golf-country-club-07"
     },
     {
       "number": 8,
@@ -72,7 +79,8 @@
       "handicap": 13,
       "yards": {
         "Iii/Iv": 150
-      }
+      },
+      "map": "kensington-golf-country-club-08"
     },
     {
       "number": 9,
@@ -80,7 +88,8 @@
       "handicap": 3,
       "yards": {
         "Iii/Iv": 519
-      }
+      },
+      "map": "kensington-golf-country-club-09"
     },
     {
       "number": 10,
@@ -88,7 +97,8 @@
       "handicap": 18,
       "yards": {
         "Iii/Iv": 272
-      }
+      },
+      "map": "kensington-golf-country-club-10"
     },
     {
       "number": 11,
@@ -96,7 +106,8 @@
       "handicap": 16,
       "yards": {
         "Iii/Iv": 164
-      }
+      },
+      "map": "kensington-golf-country-club-11"
     },
     {
       "number": 12,
@@ -104,7 +115,8 @@
       "handicap": 6,
       "yards": {
         "Iii/Iv": 457
-      }
+      },
+      "map": "kensington-golf-country-club-12"
     },
     {
       "number": 13,
@@ -128,7 +140,8 @@
       "handicap": 4,
       "yards": {
         "Iii/Iv": 361
-      }
+      },
+      "map": "kensington-golf-country-club-15"
     },
     {
       "number": 16,
@@ -136,7 +149,8 @@
       "handicap": 2,
       "yards": {
         "Iii/Iv": 518
-      }
+      },
+      "map": "kensington-golf-country-club-16"
     },
     {
       "number": 17,
@@ -144,7 +158,8 @@
       "handicap": 8,
       "yards": {
         "Iii/Iv": 366
-      }
+      },
+      "map": "kensington-golf-country-club-17"
     },
     {
       "number": 18,
@@ -152,8 +167,9 @@
       "handicap": 10,
       "yards": {
         "Iii/Iv": 367
-      }
+      },
+      "map": "kensington-golf-country-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

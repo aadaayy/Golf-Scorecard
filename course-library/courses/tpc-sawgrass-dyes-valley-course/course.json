@@ -28,7 +28,8 @@
         "White": 500,
         "W-G Blended": 430,
         "Green": 430
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-01"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
         "White": 134,
         "W-G Blended": 134,
         "Green": 103
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-02"
     },
     {
       "number": 3,
@@ -56,7 +58,8 @@
         "White": 299,
         "W-G Blended": 299,
         "Green": 281
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-03"
     },
     {
       "number": 4,
@@ -70,7 +73,8 @@
         "White": 354,
         "W-G Blended": 308,
         "Green": 308
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-04"
     },
     {
       "number": 5,
@@ -98,7 +102,8 @@
         "White": 386,
         "W-G Blended": 318,
         "Green": 318
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-06"
     },
     {
       "number": 7,
@@ -154,7 +159,8 @@
         "White": 379,
         "W-G Blended": 322,
         "Green": 322
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-10"
     },
     {
       "number": 11,
@@ -168,7 +174,8 @@
         "White": 177,
         "W-G Blended": 145,
         "Green": 145
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-11"
     },
     {
       "number": 12,
@@ -182,7 +189,8 @@
         "White": 326,
         "W-G Blended": 326,
         "Green": 265
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-12"
     },
     {
       "number": 13,
@@ -196,7 +204,8 @@
         "White": 372,
         "W-G Blended": 304,
         "Green": 304
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-13"
     },
     {
       "number": 14,
@@ -210,7 +219,8 @@
         "White": 167,
         "W-G Blended": 167,
         "Green": 124
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-14"
     },
     {
       "number": 15,
@@ -224,7 +234,8 @@
         "White": 347,
         "W-G Blended": 347,
         "Green": 291
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-15"
     },
     {
       "number": 16,
@@ -238,7 +249,8 @@
         "White": 513,
         "W-G Blended": 459,
         "Green": 459
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-16"
     },
     {
       "number": 17,
@@ -252,7 +264,8 @@
         "White": 476,
         "W-G Blended": 476,
         "Green": 405
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-17"
     },
     {
       "number": 18,
@@ -266,8 +279,9 @@
         "White": 370,
         "W-G Blended": 300,
         "Green": 300
-      }
+      },
+      "map": "tpc-sawgrass-dyes-valley-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -22,7 +22,8 @@
         "Gold": 340,
         "White": 319,
         "Red": 267
-      }
+      },
+      "map": "country-club-of-miami-east-01"
     },
     {
       "number": 2,
@@ -33,7 +34,8 @@
         "Gold": 513,
         "White": 465,
         "Red": 445
-      }
+      },
+      "map": "country-club-of-miami-east-02"
     },
     {
       "number": 3,
@@ -44,7 +46,8 @@
         "Gold": 423,
         "White": 394,
         "Red": 372
-      }
+      },
+      "map": "country-club-of-miami-east-03"
     },
     {
       "number": 4,
@@ -55,7 +58,8 @@
         "Gold": 327,
         "White": 298,
         "Red": 279
-      }
+      },
+      "map": "country-club-of-miami-east-04"
     },
     {
       "number": 5,
@@ -66,7 +70,8 @@
         "Gold": 166,
         "White": 128,
         "Red": 98
-      }
+      },
+      "map": "country-club-of-miami-east-05"
     },
     {
       "number": 6,
@@ -77,7 +82,8 @@
         "Gold": 372,
         "White": 355,
         "Red": 339
-      }
+      },
+      "map": "country-club-of-miami-east-06"
     },
     {
       "number": 7,
@@ -88,7 +94,8 @@
         "Gold": 354,
         "White": 336,
         "Red": 320
-      }
+      },
+      "map": "country-club-of-miami-east-07"
     },
     {
       "number": 8,
@@ -99,7 +106,8 @@
         "Gold": 257,
         "White": 236,
         "Red": 193
-      }
+      },
+      "map": "country-club-of-miami-east-08"
     },
     {
       "number": 9,
@@ -110,7 +118,8 @@
         "Gold": 173,
         "White": 152,
         "Red": 133
-      }
+      },
+      "map": "country-club-of-miami-east-09"
     },
     {
       "number": 10,
@@ -121,7 +130,8 @@
         "Gold": 374,
         "White": 349,
         "Red": 322
-      }
+      },
+      "map": "country-club-of-miami-east-10"
     },
     {
       "number": 11,
@@ -132,7 +142,8 @@
         "Gold": 345,
         "White": 323,
         "Red": 302
-      }
+      },
+      "map": "country-club-of-miami-east-11"
     },
     {
       "number": 12,
@@ -154,7 +165,8 @@
         "Gold": 171,
         "White": 149,
         "Red": 105
-      }
+      },
+      "map": "country-club-of-miami-east-13"
     },
     {
       "number": 14,
@@ -165,7 +177,8 @@
         "Gold": 390,
         "White": 374,
         "Red": 358
-      }
+      },
+      "map": "country-club-of-miami-east-14"
     },
     {
       "number": 15,
@@ -187,7 +200,8 @@
         "Gold": 531,
         "White": 508,
         "Red": 460
-      }
+      },
+      "map": "country-club-of-miami-east-16"
     },
     {
       "number": 17,
@@ -198,7 +212,8 @@
         "Gold": 169,
         "White": 110,
         "Red": 89
-      }
+      },
+      "map": "country-club-of-miami-east-17"
     },
     {
       "number": 18,
@@ -209,8 +224,9 @@
         "Gold": 349,
         "White": 329,
         "Red": 295
-      }
+      },
+      "map": "country-club-of-miami-east-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

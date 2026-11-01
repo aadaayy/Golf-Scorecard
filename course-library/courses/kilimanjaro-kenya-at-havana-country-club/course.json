@@ -26,7 +26,8 @@
         "White": 458,
         "Green": 412,
         "Friendly": 329
-      }
+      },
+      "map": "kilimanjaro-kenya-at-havana-country-club-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 327,
         "Green": 299,
         "Friendly": 190
-      }
+      },
+      "map": "kilimanjaro-kenya-at-havana-country-club-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 463,
         "Green": 419,
         "Friendly": 305
-      }
+      },
+      "map": "kilimanjaro-kenya-at-havana-country-club-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 312,
         "Green": 282,
         "Friendly": 280
-      }
+      },
+      "map": "kilimanjaro-kenya-at-havana-country-club-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 389,
         "Green": 365,
         "Friendly": 240
-      }
+      },
+      "map": "kilimanjaro-kenya-at-havana-country-club-05"
     },
     {
       "number": 6,
@@ -104,7 +109,8 @@
         "White": 291,
         "Green": 283,
         "Friendly": 235
-      }
+      },
+      "map": "kilimanjaro-kenya-at-havana-country-club-07"
     },
     {
       "number": 8,
@@ -117,7 +123,8 @@
         "White": 303,
         "Green": 265,
         "Friendly": 250
-      }
+      },
+      "map": "kilimanjaro-kenya-at-havana-country-club-08"
     },
     {
       "number": 9,
@@ -130,7 +137,8 @@
         "White": 121,
         "Green": 103,
         "Friendly": 77
-      }
+      },
+      "map": "kilimanjaro-kenya-at-havana-country-club-09"
     },
     {
       "number": 10,
@@ -250,5 +258,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

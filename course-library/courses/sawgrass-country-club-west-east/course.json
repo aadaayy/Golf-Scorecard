@@ -32,7 +32,8 @@
         "Green": 316,
         "Green/Red": 288,
         "Red": 288
-      }
+      },
+      "map": "sawgrass-country-club-west-east-01"
     },
     {
       "number": 2,
@@ -48,7 +49,8 @@
         "Green": 328,
         "Green/Red": 328,
         "Red": 305
-      }
+      },
+      "map": "sawgrass-country-club-west-east-02"
     },
     {
       "number": 3,
@@ -64,7 +66,8 @@
         "Green": 144,
         "Green/Red": 125,
         "Red": 125
-      }
+      },
+      "map": "sawgrass-country-club-west-east-03"
     },
     {
       "number": 4,
@@ -80,7 +83,8 @@
         "Green": 422,
         "Green/Red": 422,
         "Red": 368
-      }
+      },
+      "map": "sawgrass-country-club-west-east-04"
     },
     {
       "number": 5,
@@ -96,7 +100,8 @@
         "Green": 344,
         "Green/Red": 323,
         "Red": 323
-      }
+      },
+      "map": "sawgrass-country-club-west-east-05"
     },
     {
       "number": 6,
@@ -112,7 +117,8 @@
         "Green": 135,
         "Green/Red": 135,
         "Red": 117
-      }
+      },
+      "map": "sawgrass-country-club-west-east-06"
     },
     {
       "number": 7,
@@ -128,7 +134,8 @@
         "Green": 328,
         "Green/Red": 328,
         "Red": 310
-      }
+      },
+      "map": "sawgrass-country-club-west-east-07"
     },
     {
       "number": 8,
@@ -144,7 +151,8 @@
         "Green": 430,
         "Green/Red": 408,
         "Red": 408
-      }
+      },
+      "map": "sawgrass-country-club-west-east-08"
     },
     {
       "number": 9,
@@ -160,7 +168,8 @@
         "Green": 369,
         "Green/Red": 369,
         "Red": 331
-      }
+      },
+      "map": "sawgrass-country-club-west-east-09"
     },
     {
       "number": 10,
@@ -224,7 +233,8 @@
         "Green": 374,
         "Green/Red": 352,
         "Red": 352
-      }
+      },
+      "map": "sawgrass-country-club-west-east-13"
     },
     {
       "number": 14,
@@ -288,7 +298,8 @@
         "Green": 352,
         "Green/Red": 320,
         "Red": 320
-      }
+      },
+      "map": "sawgrass-country-club-west-east-17"
     },
     {
       "number": 18,
@@ -304,8 +315,9 @@
         "Green": 450,
         "Green/Red": 416,
         "Red": 416
-      }
+      },
+      "map": "sawgrass-country-club-west-east-18"
     }
   ],
-  "version": 1
+  "version": 2
 }
