@@ -2,7 +2,8 @@ import Foundation
 
 /// A hole drawing read the way a yardage book draws it: which shapes are
 /// rough, fairway, water, sand, the green and the tees, where the pin is, the
-/// line of play from the back tee, and a ring of trees around the edge.
+/// line of play from the back tee, and the trees: the ones traced from a photo
+/// when the drawing has them, or else a ring around the edge.
 ///
 /// The parts are told apart by the colors `Tools/HoleDrawings/trace_holes.py`
 /// gives them, so built-in and downloaded courses work alike. A shape in any
@@ -18,6 +19,8 @@ struct HolePlan {
         /// A dot on the line of play where a shot lands.
         case landing
         case flagpole, flag, pin
+        /// A tree traced from an aerial photo: a circle in the tree color.
+        case tree
         /// Anything else, drawn in its own colors.
         case other
     }
@@ -101,10 +104,14 @@ struct HolePlan {
         let greenOutline = parts.first { $0.kind == .green }?.outline
         self.greenCenter = greenOutline.map(Self.centroid)
 
-        // Trees around the outside of the hole, about one every tree width.
+        // The real trees, when the drawing was traced from a photo; otherwise
+        // trees around the outside of the hole, about one every tree width.
+        let traced = parts.compactMap { part -> Tree? in
+            guard part.kind == .tree, case .circle(let center, let radius) = part.element.shape else { return nil }
+            return Tree(center: center, radius: radius)
+        }
         let size = max(sketch.width, sketch.height)
-        let radius = size * 0.0105
-        let trees = Self.plantTrees(around: parts, radius: radius)
+        let trees = traced.isEmpty ? Self.plantTrees(around: parts, radius: size * 0.0105) : traced
         self.trees = trees
 
         var box = (minX: sketch.minX, minY: sketch.minY, maxX: sketch.minX + sketch.width, maxY: sketch.minY + sketch.height)
@@ -202,6 +209,7 @@ struct HolePlan {
             if matches(fill, 0xF0DDA6) { return .sand }
             if matches(fill, 0x3E9A56) { return .green }
             if matches(fill, 0xD8433B) { return .flag }
+            if matches(fill, 0x5E8F55), case .circle = element.shape { return .tree }
             if matches(fill, 0xFFFFFF), case .circle = element.shape {
                 return element.stroke == nil ? .pin : .landing
             }

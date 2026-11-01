@@ -64,4 +64,24 @@ final class HolePlanTests: XCTestCase {
             }
         }
     }
+
+    /// A drawing traced from an aerial photo carries its real trees, and the
+    /// map draws those instead of planting a ring of its own.
+    func testTracedTreesReplaceThePlantedRing() throws {
+        let svg = """
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="-150 -1100 300 1150" width="200" height="760">
+        <path d="M-90,30L90,30L90,-1050L-90,-1050Z" fill="#DCE8C4"/>
+        <path d="M-40,-900L40,-900L40,-1000L-40,-1000Z" fill="#3E9A56" stroke="#2B7340" stroke-width="2.5"/>
+        <circle cx="-120" cy="-300" r="14" fill="#5E8F55"/>
+        <circle cx="70" cy="-600" r="20" fill="#5E8F55"/>
+        <polyline points="0,0 0,-950" fill="none" stroke="#1F3A2B" stroke-width="3.5"/>
+        <circle cx="0" cy="-950" r="4" fill="#FFFFFF"/>
+        </svg>
+        """
+        let plan = HolePlan(sketch: try HoleSketch.parse(Data(svg.utf8)))
+        XCTAssertEqual(plan.trees.count, 2, "The two traced trees, and no planted ones")
+        XCTAssertTrue(plan.trees.contains { abs($0.center.x - 70) < 0.01 && abs($0.center.y + 600) < 0.01 && abs($0.radius - 20) < 0.01 })
+        XCTAssertFalse(plan.parts.contains { $0.kind == .other }, "A traced tree isn't drawn as an unknown shape")
+        XCTAssertNotNil(plan.green)
+    }
 }
