@@ -70,6 +70,15 @@ jobs:
           osmium export "$RUNNER_TEMP/golf.osm.pbf" -f geojsonseq -a type,id --geometry-types=linestring,polygon -o "$RUNNER_TEMP/golf.geojsonseq"
           python3 Tools/CourseImport/florida.py fetch-osm "$RUNNER_TEMP/golf.geojsonseq" "$RUNNER_TEMP/osm.json.gz"
 
+      - name: Keep the map data for tracing
+        # So courses the map is missing can be checked and traced against what it has.
+        if: steps.decide.outputs.rebuild == 'yes'
+        uses: actions/upload-artifact@v4
+        with:
+          name: florida-golf-osm
+          path: ${{ runner.temp }}/osm.json.gz
+          retention-days: 14
+
       - name: Build the courses
         if: steps.decide.outputs.rebuild == 'yes'
         run: |

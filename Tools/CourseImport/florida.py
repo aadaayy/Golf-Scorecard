@@ -394,6 +394,7 @@ class OSM:
         self.shapes = []     # (kind, ring, bbox)
         self.trees = []      # (lat, lng, radius in meters), traced from aerial photos
         self.lines = []      # lines of play traced from aerial photos, where the map's runs through trees
+        self.traced_holes = {}  # course id: {number: hole}, for courses traced whole from aerial photos
         for e in elements:
             tags = e["tags"]
             rings = [r for r in e.get("rings", []) if len(r) >= 4]
@@ -473,6 +474,11 @@ class OSM:
                         self.shapes.append((kind, ring, bbox(ring)))
             self.trees += [tuple(t) for t in traced.get("trees", [])]
             self.lines += [[tuple(p) for p in line["line"]] for line in traced.get("lines", [])]
+            if traced.get("holes"):
+                self.traced_holes[name[:-5]] = {
+                    h["hole"]: {"tags": {"golf": "hole", "ref": str(h["hole"]), "par": str(h["par"])},
+                                "geometry": [tuple(p) for p in h["line"]]}
+                    for h in traced["holes"]}
 
     def line_for(self, geometry):
         """A traced line of play for the same hole (same tee and green), or the map's own."""
@@ -1080,7 +1086,8 @@ def build(args):
         drawings = {}
         holes, mismatched = None, 0
         if osm:
-            holes = osm_holes(osm, record, name, len(card["holes"]))
+            # Holes traced from aerial photos for a course the map doesn't have, else the map's.
+            holes = osm.traced_holes.get(cid) or osm_holes(osm, record, name, len(card["holes"]))
             if holes:
                 mismatched = sum(1 for h in card["holes"]
                                  if str(holes[h["number"]]["tags"].get("par", h["par"])) != str(h["par"]))
