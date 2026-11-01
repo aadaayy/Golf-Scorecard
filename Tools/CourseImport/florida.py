@@ -792,7 +792,44 @@ def area(ring):
     return abs(sum(a[0] * b[1] - b[0] * a[1] for a, b in zip(ring, ring[1:] + ring[:1]))) / 2
 
 
-def drawing(osm, way):
+def placed_tees(path, yards, waters):
+    """Rough tee boxes for a hole the map has none on: one for each set of tees, along the line
+    of play as far from the green as the card's yards say. Not surveyed, just about where they are.
+    The back tees go where the line starts; a forward tee that would sit in a pond is left out."""
+    segments = [(a, b) for a, b in zip(path, path[1:]) if math.dist(a, b) > 0]
+    if not segments:
+        return []
+    length = sum(math.dist(a, b) for a, b in segments)
+    lengths = sorted({y for y in (yards or {}).values() if isinstance(y, (int, float)) and y > 0}, reverse=True)
+    back = lengths[0] if lengths else None
+    wet = unary_union([shape.buffer(3) for shape in (Polygon(w).buffer(0) for w in waters if len(w) >= 3)]) \
+        if Polygon is not None and waters else None
+    out, centers = [], []
+    for yd in lengths or [None]:
+        along = length * (1 - yd / back) if back else 0.0
+        if along > length - 60:  # never up by the green
+            continue
+        for a, b in segments:
+            run = math.dist(a, b)
+            if along <= run or (a, b) == segments[-1]:
+                t = min(along / run, 1.0)
+                cx, cy = a[0] + (b[0] - a[0]) * t, a[1] + (b[1] - a[1]) * t
+                ux, uy = (b[0] - a[0]) / run, (b[1] - a[1]) / run
+                break
+            along -= run
+        if any(math.dist((cx, cy), c) < 14 for c in centers):
+            continue
+        half_across, half_along = 4.0, 6.0
+        box = [(cx + ux * half_along * i - uy * half_across * j, cy + uy * half_along * i + ux * half_across * j)
+               for i, j in ((-1, -1), (1, -1), (1, 1), (-1, 1))]
+        if centers and wet is not None and Polygon(box).intersection(wet).area > 0.1 * Polygon(box).area:
+            continue
+        centers.append((cx, cy))
+        out.append(box)
+    return out
+
+
+def drawing(osm, way, yards=None):
     """One hole as an SVG in the app's yardage book colors, or None."""
     geo = osm.line_for(way["geometry"])
     frame = Frame(geo)
@@ -821,6 +858,9 @@ def drawing(osm, way):
         width = max(width, min(55.0, max(distance_to_path(p, path) for p in ring) + 6))
     sands = [r for k, r in nearby if k == "sand" and distance_to_path(centroid(r), path) < width + 4]
     waters = [r for k, r in nearby if k == "water" and min(distance_to_path(p, path) for p in r) < width + 12]
+
+    if not tees:
+        tees = placed_tees(path, yards, waters)
 
     rough = corridor(path, width)
     xs = [p[0] for p in rough]
@@ -1052,7 +1092,7 @@ def build(args):
                     report["chained"] = report.get("chained", 0) + 1
             for h in card["holes"]:
                 way = (holes or {}).get(h["number"])
-                svg = drawing(osm, way) if way else None
+                svg = drawing(osm, way, h.get("yards")) if way else None
                 if svg:
                     drawings[f"{cid}-{h['number']:02d}"] = svg
                     h["map"] = f"{cid}-{h['number']:02d}"
