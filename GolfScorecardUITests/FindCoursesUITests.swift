@@ -210,17 +210,17 @@ final class FindCoursesUITests: XCTestCase {
         capture("m2-map-tampa")
 
         // Tap a course's dot: its card, with Download.
-        let dot = element("map-course-carrollwood-country-club-pines-cypress-course", in: app)
-        XCTAssertTrue(dot.waitForExistence(timeout: 10), "Carrollwood should be a dot on the map of Tampa")
+        let dot = element("map-course-palma-ceia-golf-country-club", in: app)
+        XCTAssertTrue(dot.waitForExistence(timeout: 10), "Palma Ceia should be a dot on the map of Tampa")
         dot.tap()
         let card = element("map-course-card", in: app)
         XCTAssertTrue(card.waitForExistence(timeout: 5), "Tapping a dot should show the course")
         sleep(1)
         capture("m3-map-course-card")
-        let download = app.buttons["download-carrollwood-country-club-pines-cypress-course"]
+        let download = app.buttons["download-palma-ceia-golf-country-club"]
         XCTAssertTrue(download.waitForExistence(timeout: 5), "The card should have Download")
         download.tap()
-        XCTAssertTrue(app.buttons["map-play-carrollwood-country-club-pines-cypress-course"].waitForExistence(timeout: 30),
+        XCTAssertTrue(app.buttons["map-play-palma-ceia-golf-country-club"].waitForExistence(timeout: 30),
                       "Once downloaded, the card should offer Play")
         sleep(1)
         capture("m4-map-downloaded")
@@ -274,8 +274,8 @@ final class FindCoursesUITests: XCTestCase {
         search.tap()
         search.typeText("Tampa\n")
         sleep(4)  // let the map finish zooming before reading its dots
-        let dot = element("map-course-carrollwood-country-club-pines-cypress-course", in: app)
-        XCTAssertTrue(dot.waitForExistence(timeout: 15), "Carrollwood should be a dot on the map of Tampa")
+        let dot = element("map-course-palma-ceia-golf-country-club", in: app)
+        XCTAssertTrue(dot.waitForExistence(timeout: 15), "Palma Ceia should be a dot on the map of Tampa")
         dot.tap()
         XCTAssertTrue(app.otherElements["library-detail"].waitForExistence(timeout: 5),
                       "The course tapped on the map should show on the right half")
