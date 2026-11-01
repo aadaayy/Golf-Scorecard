@@ -71,13 +71,14 @@ jobs:
           python3 Tools/CourseImport/florida.py fetch-osm "$RUNNER_TEMP/golf.geojsonseq" "$RUNNER_TEMP/osm.json.gz"
 
       - name: Keep the map data for tracing
-        # So courses the map is missing can be checked and traced against what it has.
+        # On the map-data branch, so courses the map is missing can be checked and traced against what it has.
         if: steps.decide.outputs.rebuild == 'yes'
-        uses: actions/upload-artifact@v4
-        with:
-          name: florida-golf-osm
-          path: ${{ runner.temp }}/osm.json.gz
-          retention-days: 14
+        run: |
+          mkdir -p "$RUNNER_TEMP/map-data" && cd "$RUNNER_TEMP/map-data"
+          git init -q -b map-data && cp "$RUNNER_TEMP/osm.json.gz" .
+          git add osm.json.gz
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "Map data for tracing (OpenStreetMap, ODbL)"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" map-data
 
       - name: Build the courses
         if: steps.decide.outputs.rebuild == 'yes'

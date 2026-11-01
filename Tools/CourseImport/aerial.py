@@ -25,7 +25,7 @@ def merc(lat, lng):
     return x, y
 
 
-def get(url, data=None, tries=4):
+def get(url, data=None, tries=7):
     for i in range(tries):
         try:
             req = urllib.request.Request(url, data=data, headers={"User-Agent": "yardage-book-course-tracing"})
