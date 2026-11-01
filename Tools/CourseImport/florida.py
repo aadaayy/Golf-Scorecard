@@ -466,7 +466,7 @@ class OSM:
             if not name.endswith(".json"):
                 continue
             traced = json.load(open(os.path.join(folder, name), encoding="utf-8"))
-            for key, kind in (("greens", "green"), ("fairways", "fairway"), ("water", "water"), ("bunkers", "sand")):
+            for key, kind in (("greens", "green"), ("tees", "tee"), ("fairways", "fairway"), ("water", "water"), ("bunkers", "sand")):
                 for shape in traced.get(key, []):
                     ring = [tuple(p) for p in shape["ring"]]
                     if len(ring) >= 4:
@@ -810,7 +810,9 @@ def drawing(osm, way):
     if green is None and greens:
         near = min(greens, key=lambda r: math.dist(centroid(r), end))
         green = near if math.dist(centroid(near), end) < 35 else None
-    tees = [r for k, r in nearby if k == "tee" and math.dist(centroid(r), start) < 45]
+    # The back tees by the start of the line, and forward tees along it.
+    tees = [r for k, r in nearby if k == "tee" and (math.dist(centroid(r), start) < 45 or (
+        distance_to_path(centroid(r), path) < 8 and math.dist(centroid(r), end) > 60))]
     fairways = [r for k, r in nearby if k == "fairway"
                 and (distance_to_path(centroid(r), path) < 30 or any(contains(r, p) for p in path[1:-1]))
                 and not distance_to_path(centroid(r), path) > 60]
