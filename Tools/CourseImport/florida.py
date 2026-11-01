@@ -499,6 +499,38 @@ def osm_holes(osm, record, name, count):
     return candidates[0][1]
 
 
+def why_no_drawing(osm, record, count):
+    """In a few words, why a course got no hole drawings: what OpenStreetMap has there."""
+    lat, lng = record.get("lat"), record.get("lng")
+    if lat is None or lng is None:
+        return "no location"
+    index = osm.outline_for(lat, lng)
+    pad = 0.012  # about 1.3 km
+    near = [h for h in osm.holes if any(abs(p[0] - lat) < pad and abs(p[1] - lng) < pad for p in h["geometry"])]
+    if index is None:
+        if near:
+            return "holes nearby but no course outline"
+        return "nothing mapped"
+    _, ring, (s, w, n, e), _ = osm.outlines[index]
+    inside_holes = osm.holes_by_outline.get(index, [])
+    if inside_holes:
+        numbers = sorted({hole_label(h["tags"])[1] for h in inside_holes if hole_label(h["tags"])[1]})
+        if len(inside_holes) < count:
+            return "some holes mapped"
+        return "holes mapped, numbering unclear" if len(numbers) < count else "holes mapped, didn't match"
+    if near:
+        return "holes nearby, outside the outline"
+    greens = [r for k, r, (bs, bw, bn, be) in osm.shapes
+              if k == "green" and bs <= n and bn >= s and bw <= e and be >= w and inside(centroid_ll(r), ring)]
+    if len(greens) >= count // 2:
+        return "greens mapped, no holes"
+    return "outline only"
+
+
+def centroid_ll(ring):
+    return (sum(p[0] for p in ring) / len(ring), sum(p[1] for p in ring) / len(ring))
+
+
 # MARK: build: drawings
 
 STYLE = {
@@ -748,7 +780,8 @@ def build(args):
     ids = json.load(open(IDS_FILE)) if os.path.exists(IDS_FILE) else {}
     used = set(ids.values()) | set(SKIP.values())
     osm = OSM(args.osm) if args.osm else None
-    report = {"fetched": 0, "added": 0, "with_drawings": 0, "with_yardages": 0, "with_location": 0, "skipped": {}}
+    report = {"fetched": 0, "added": 0, "with_drawings": 0, "with_yardages": 0, "with_location": 0, "skipped": {},
+              "no_drawing": {}}
     seen = set()
     records = []
     for name in sorted(os.listdir(API_CACHE)) if os.path.isdir(API_CACHE) else []:
@@ -783,6 +816,7 @@ def build(args):
         course["tees"] = card["tees"]
         course["holes"] = card["holes"]
         drawings = {}
+        holes, mismatched = None, 0
         if osm:
             holes = osm_holes(osm, record, name, len(card["holes"]))
             if holes:
@@ -794,6 +828,11 @@ def build(args):
                         if svg:
                             drawings[f"{cid}-{h['number']:02d}"] = svg
                             h["map"] = f"{cid}-{h['number']:02d}"
+        if osm and not drawings:
+            reason = why_no_drawing(osm, record, len(card["holes"]))
+            if holes:
+                reason = "holes mapped, pars differ" if mismatched > 1 else "holes mapped, drawing failed"
+            report["no_drawing"].setdefault(reason, []).append(cid)
         folder = os.path.join(courses_folder, cid)
         path = os.path.join(folder, "course.json")
         old = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else None
@@ -825,11 +864,13 @@ def build(args):
         json.dump(dict(sorted(ids.items())), f, indent=1)
         f.write("\n")
     report["skipped_counts"] = {k: len(v) for k, v in sorted(report["skipped"].items())}
+    report["no_drawing_counts"] = {k: len(v) for k, v in sorted(report["no_drawing"].items())}
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=1, ensure_ascii=False, sort_keys=True)
         f.write("\n")
     print(f"Fetched {report['fetched']}; built {report['added']} courses, {report['with_yardages']} with yardages, "
           f"{report['with_drawings']} with hole drawings, {report['with_location']} on the map. Skipped: {report['skipped_counts']}")
+    print(f"No drawings, by what OpenStreetMap has: {report['no_drawing_counts']}")
 
 
 def main():
