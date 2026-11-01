@@ -1,5 +1,5 @@
 {
- "added": 1004,
+ "added": 1005,
  "chained": 216,
  "fetched": 1434,
  "no_drawing": {
@@ -738,7 +738,6 @@
    "Shell Point Golf Club",
    "Seminole Lakes Country Club",
    "Kings Ridge Golf Club Ridge Course",
-   "The Senator Course At Shulas Golf Club",
    "Isla Del Sol Golf Yacht Country Club",
    "The Palms Golf Club At Forest Lakes",
    "Palmira Golf Club Osprey Egret",
@@ -1021,12 +1020,12 @@
   "only 3 holes": 2,
   "only 7 holes": 3,
   "only 8 holes": 1,
-  "pars don't add up to the course's par": 323,
+  "pars don't add up to the course's par": 322,
   "placeholder scorecard (every hole par 4, nothing else)": 1,
   "town was only a zip code (shown as Florida)": 2
  },
- "with_drawings": 484,
- "with_every_drawing": 324,
- "with_location": 1004,
- "with_yardages": 881
+ "with_drawings": 485,
+ "with_every_drawing": 325,
+ "with_location": 1005,
+ "with_yardages": 882
 }

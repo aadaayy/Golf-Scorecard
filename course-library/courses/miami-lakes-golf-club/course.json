@@ -1,0 +1,216 @@
+{
+  "id": "miami-lakes-golf-club",
+  "name": "Miami Lakes Golf Club",
+  "town": "Miami Lakes, FL",
+  "location": {
+    "lat": 25.91358,
+    "lng": -80.321838
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yards": {
+        "Blue": 446,
+        "White": 411,
+        "Silver": 364,
+        "Red": 299
+      },
+      "map": "miami-lakes-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "yards": {
+        "Blue": 394,
+        "White": 356,
+        "Silver": 334,
+        "Red": 301
+      },
+      "map": "miami-lakes-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "yards": {
+        "Blue": 185,
+        "White": 176,
+        "Silver": 140,
+        "Red": 132
+      },
+      "map": "miami-lakes-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "yards": {
+        "Blue": 468,
+        "White": 429,
+        "Silver": 394,
+        "Red": 367
+      },
+      "map": "miami-lakes-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "yards": {
+        "Blue": 145,
+        "White": 124,
+        "Silver": 110,
+        "Red": 88
+      },
+      "map": "miami-lakes-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "yards": {
+        "Blue": 317,
+        "White": 297,
+        "Silver": 297,
+        "Red": 285
+      },
+      "map": "miami-lakes-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "yards": {
+        "Blue": 531,
+        "White": 496,
+        "Silver": 465,
+        "Red": 414
+      },
+      "map": "miami-lakes-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "yards": {
+        "Blue": 378,
+        "White": 347,
+        "Silver": 313,
+        "Red": 279
+      },
+      "map": "miami-lakes-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "yards": {
+        "Blue": 563,
+        "White": 529,
+        "Silver": 490,
+        "Red": 449
+      },
+      "map": "miami-lakes-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "yards": {
+        "Blue": 418,
+        "White": 391,
+        "Silver": 391,
+        "Red": 343
+      },
+      "map": "miami-lakes-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "yards": {
+        "Blue": 434,
+        "White": 394,
+        "Silver": 376,
+        "Red": 345
+      },
+      "map": "miami-lakes-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "yards": {
+        "Blue": 535,
+        "White": 498,
+        "Silver": 465,
+        "Red": 432
+      },
+      "map": "miami-lakes-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "yards": {
+        "Blue": 209,
+        "White": 194,
+        "Silver": 173,
+        "Red": 119
+      },
+      "map": "miami-lakes-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "yards": {
+        "Blue": 454,
+        "White": 403,
+        "Silver": 353,
+        "Red": 301
+      },
+      "map": "miami-lakes-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "yards": {
+        "Blue": 360,
+        "White": 333,
+        "Silver": 320,
+        "Red": 290
+      },
+      "map": "miami-lakes-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "yards": {
+        "Blue": 521,
+        "White": 495,
+        "Silver": 461,
+        "Red": 403
+      },
+      "map": "miami-lakes-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "yards": {
+        "Blue": 170,
+        "White": 162,
+        "Silver": 140,
+        "Red": 118
+      },
+      "map": "miami-lakes-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yards": {
+        "Blue": 454,
+        "White": 412,
+        "Silver": 368,
+        "Red": 294
+      },
+      "map": "miami-lakes-golf-club-18"
+    }
+  ],
+  "version": 1
+}

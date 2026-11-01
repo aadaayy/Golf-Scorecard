@@ -17202,6 +17202,51 @@
       "lng": -80.137668
     },
     {
+      "id": "miami-lakes-golf-club",
+      "name": "Miami Lakes Golf Club",
+      "town": "Miami Lakes, FL",
+      "holes": 18,
+      "par": 72,
+      "tees": [
+        "Blue",
+        "White",
+        "Silver",
+        "Red"
+      ],
+      "yards": {
+        "Blue": 6982,
+        "White": 6447,
+        "Silver": 5954,
+        "Red": 5259
+      },
+      "version": 1,
+      "folder": "courses/miami-lakes-golf-club",
+      "files": [
+        "course.json",
+        "miami-lakes-golf-club-01.svg",
+        "miami-lakes-golf-club-02.svg",
+        "miami-lakes-golf-club-03.svg",
+        "miami-lakes-golf-club-04.svg",
+        "miami-lakes-golf-club-05.svg",
+        "miami-lakes-golf-club-06.svg",
+        "miami-lakes-golf-club-07.svg",
+        "miami-lakes-golf-club-08.svg",
+        "miami-lakes-golf-club-09.svg",
+        "miami-lakes-golf-club-10.svg",
+        "miami-lakes-golf-club-11.svg",
+        "miami-lakes-golf-club-12.svg",
+        "miami-lakes-golf-club-13.svg",
+        "miami-lakes-golf-club-14.svg",
+        "miami-lakes-golf-club-15.svg",
+        "miami-lakes-golf-club-16.svg",
+        "miami-lakes-golf-club-17.svg",
+        "miami-lakes-golf-club-18.svg"
+      ],
+      "bytes": 50685,
+      "lat": 25.91358,
+      "lng": -80.321838
+    },
+    {
       "id": "miami-shores-country-club",
       "name": "Miami Shores Country Club",
       "town": "Miami Shores, FL",
