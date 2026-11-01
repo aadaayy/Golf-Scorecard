@@ -222,5 +222,95 @@
     }
    }
   ]
+ },
+ "ffd7bb67-95f6-40ca-8915-7c7849e33a8d": {
+  "why": "Duran's short course is mapped in OpenStreetMap as Chipper's Walk, a name that shares no word with the course's; its nine holes match this card's yardages exactly.",
+  "map_loop": "chipper-s-walk"
+ },
+ "e61932ad-a4a1-4e77-bc95-cdf4a753009d": {
+  "why": "The open data's hole pars for Greynolds are wrong (they don't follow the course's own card). This is the par 36 card with the blue tee yardages as listed for Greynolds Golf Course on golfpass and golfingrecord. The other tees' yardages weren't listed, so they're left blank.",
+  "course_name": "Greynolds Golf Course",
+  "par": 36,
+  "holes": 9,
+  "tees": [
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 487
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 346
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 147
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 349
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 182
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 341
+    }
+   },
+   {
+    "number": 7,
+    "par": 5,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 521
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 308
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 409
+    }
+   }
+  ]
  }
 }

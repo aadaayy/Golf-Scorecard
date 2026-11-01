@@ -503,6 +503,40 @@ def hole_label(tags):
 NAME_FILLER = {"golf", "course", "club", "country", "the", "at", "of", "and", "cc", "gc", "g", "c", "nine", "9", "18"}
 
 
+def near_loops(holes):
+    """The course names (loops) these holes are mapped with."""
+    return frozenset(hole_label(h["tags"])[0] for h in holes) - {None}
+
+
+def loop_suits(loop, name, loops=frozenset()):
+    """Whether a mapped hole's course name (its loop) could be this course: no name, a
+    number, or a name sharing a word with the course's. Another course's name is never a
+    match: not one with another direction (Mediterra North for Mediterra South), and not
+    a sibling of the course's own loop (Grey Oaks CC Pine when Grey Oaks CC Palm is there
+    for the Palm course)."""
+    if not loop or loop.isdigit():
+        return True
+    directions = {"north", "south", "east", "west"}
+    filler = NAME_FILLER | {"gcc", "s"}
+    words = {w for w in slug(name).split("-") if w not in filler}
+    loop_words = [w for w in loop.split("-") if w not in filler and not w.isdigit()]
+    own, theirs = words & directions, set(loop_words) & directions
+    if own and theirs and not own & theirs:
+        return False
+    named = [w for w in loop_words if w not in directions]
+    if not named:
+        return not own or not theirs or bool(theirs & own)
+    if not any(w in words for w in named):
+        return False
+    parts = loop.split("-")
+    if len(parts) > 1 and parts[-1] not in words:
+        for other in loops:
+            theirs_parts = other.split("-")
+            if other != loop and theirs_parts[:-1] == parts[:-1] and theirs_parts[-1] in words:
+                return False
+    return True
+
+
 def numbered(holes, count):
     """{number: hole} when the holes are numbered 1 to count, each once; otherwise None."""
     by_number = {}
@@ -514,7 +548,7 @@ def numbered(holes, count):
     return by_number if sorted(by_number) == list(range(1, count + 1)) else None
 
 
-def osm_holes(osm, record, name, count):
+def osm_holes(osm, record, name, count, card=None):
     """OpenStreetMap's holes for this course, numbered 1 to count, or None when
     there's no clear answer (better no drawing than another course's)."""
     lat, lng = record.get("lat"), record.get("lng")
@@ -526,6 +560,7 @@ def osm_holes(osm, record, name, count):
     holes = osm.holes_by_outline.get(index, [])
     if not holes:
         return None
+    loops_near = near_loops(holes)
     words = [w for w in slug(name).split("-") if w not in NAME_FILLER]
     loops = {}
     for h in holes:
@@ -555,6 +590,16 @@ def osm_holes(osm, record, name, count):
                 candidates.append((score(loop_a) + score(loop_b), {**front, **{n + 9: h for n, h in back.items()}}))
     if not candidates:
         return None
+    if card is not None:
+        # Same name score: the one that suits the scorecard's pars and lengths.
+        candidates = [(score, -sum(card_fit(c, card)[:2]), c) for score, c in candidates
+                      if score or all(loop_suits(hole_label(h["tags"])[0], name, loops_near) for h in c.values())]
+        if not candidates:
+            return None
+        candidates.sort(key=lambda c: (-c[0], -c[1]))
+        if len(candidates) > 1 and candidates[0][:2] == candidates[1][:2]:
+            return None
+        return candidates[0][2]
     candidates.sort(key=lambda c: -c[0])
     if len(candidates) > 1 and candidates[0][0] == candidates[1][0]:
         return None
@@ -573,24 +618,114 @@ def hole_length(hole):
     return sum(meters(a, b) for a, b in zip(g, g[1:]))
 
 
+def card_range(card_hole):
+    """The card's shortest and longest yardage for a hole, in meters, or None."""
+    yards = sorted(y for y in (card_hole.get("yards") or {}).values() if isinstance(y, (int, float)) and y > 0)
+    return (yards[0] * 0.9144, yards[-1] * 0.9144) if yards else None
+
+
 def fits_card(hole, card_hole):
-    """Whether a mapped hole's length suits the scorecard's hole: its yardage, or its par."""
+    """Whether a mapped hole's length suits the scorecard's hole: somewhere between its
+    forward and back tees (a mapped line can start at any of them), or its par."""
     length = hole_length(hole)
-    yards = sorted((card_hole.get("yards") or {}).values())
-    if yards:
+    span = card_range(card_hole)
+    if span:
+        low, high = span
+        margin = max(40, 0.15 * high)
+        if low - margin <= length <= high + margin:
+            return True
+        # Cards that list only some tee sets: near the middle one.
+        yards = sorted(y for y in card_hole["yards"].values() if isinstance(y, (int, float)) and y > 0)
         target = yards[len(yards) // 2] * 0.9144
         return abs(length - target) <= max(45, 0.22 * target)
     low, high = {3: (60, 250), 4: (210, 470), 5: (370, 650)}.get(card_hole["par"], (60, 650))
     return low <= length <= high
 
 
+def par_length_fits(hole, par):
+    """Whether a mapped hole's length is usual for the par."""
+    low, high = {3: (60, 250), 4: (210, 470), 5: (370, 650)}.get(par, (60, 650))
+    return low <= hole_length(hole) <= high
+
+
 def length_error(hole, card_hole):
-    """How far a mapped hole's length is from the scorecard's, as a share of it."""
-    yards = sorted((card_hole.get("yards") or {}).values())
-    if not yards:
+    """How far a mapped hole's length is outside the card's range of tees, as a share of the back tee."""
+    span = card_range(card_hole)
+    if not span:
         return 0.0
-    target = yards[len(yards) // 2] * 0.9144
-    return abs(hole_length(hole) - target) / target
+    low, high = span
+    length = hole_length(hole)
+    return max(low - length, length - high, 0) / high
+
+
+def card_fit(by_number, card):
+    """(pars that differ, holes that don't suit the card's yards, mean length error) for numbered holes."""
+    differ = misfit = 0
+    error = 0.0
+    for h in card["holes"]:
+        hole = by_number.get(h["number"])
+        if hole is None:
+            misfit += 1
+            continue
+        par = hole["tags"].get("par")
+        if par and str(par).strip() != str(h["par"]):
+            differ += 1
+        if not fits_card(hole, h):
+            misfit += 1
+        error += length_error(hole, h)
+    return differ, misfit, error / max(1, len(card["holes"]))
+
+
+def fingerprint_holes(osm, record, card, name=""):
+    """Mapped holes found by the card itself: a named course nearby (or two named nines)
+    whose holes are numbered 1 to N with the card's pars and lengths. This finds courses
+    whose holes sit outside their outline, have no outline, or share one with other courses.
+    Returns {number: hole} or None when nothing fits or two different courses fit equally."""
+    lat, lng = record.get("lat"), record.get("lng")
+    if lat is None or lng is None:
+        return None
+    count = len(card["holes"])
+    near = osm.holes_grid_near(lat, lng, 0.03)  # about 3 km
+    loops_near = near_loops(near)
+    loops = {}
+    for h in near:
+        loop, n = hole_label(h["tags"])
+        # card-fixes.json can name the map's course for one whose name shares nothing with it.
+        if n and (loop == record["map_loop"] if record.get("map_loop") else loop_suits(loop, name)):
+            loops.setdefault(loop, []).append(h)
+    # A sibling of the course's own loop (the map's Pine for the Palm course) counts
+    # only when it fits the card exactly: clubs' course names are sometimes swapped on the map.
+    sibling = set() if record.get("map_loop") else {loop for loop in loops if not loop_suits(loop, name, loops_near)}
+    candidates = []
+    for loop, group in loops.items():
+        by_number = numbered(group, count)
+        if by_number:
+            candidates.append((by_number, loop in sibling))
+    if count == 18:
+        nines = [(n, loop in sibling) for loop, n in ((loop, numbered(g, 9)) for loop, g in loops.items()) if n]
+        for a, sa in nines:
+            for b, sb in nines:
+                if a is not b:
+                    candidates.append(({**a, **{n + 9: h for n, h in b.items()}}, sa or sb))
+    scored = []
+    for by_number, swapped in candidates:
+        differ, misfit, error = card_fit(by_number, card)
+        if differ > 1 or misfit > max(1, count // 9) or error > 0.08:
+            continue
+        if swapped and (differ or misfit > 1 or error > 0.03):
+            continue
+        closest = min(meters((lat, lng), p) for h in by_number.values() for p in (h["geometry"][0], h["geometry"][-1]))
+        if closest > 2500:
+            continue
+        scored.append(((differ + misfit, round(error, 2)), closest, by_number))
+    if not scored:
+        return None
+    scored.sort(key=lambda s: (s[0], s[1]))
+    if len(scored) > 1 and scored[1][0] == scored[0][0]:
+        same = all(meters(scored[0][2][n]["geometry"][-1], scored[1][2][n]["geometry"][-1]) < 30 for n in scored[0][2])
+        if not same:
+            return None  # two different courses fit the card equally well
+    return scored[0][2]
 
 
 def chained_holes(osm, record, name, card):
@@ -605,10 +740,11 @@ def chained_holes(osm, record, name, card):
     count = len(card["holes"])
     pad = 0.02  # about 2 km
     near = [h for h in osm.holes_grid_near(lat, lng, pad)]
+    loops_near = near_loops(near)
     by_number = {}
     for h in near:
-        n = hole_label(h["tags"])[1]
-        if n and 1 <= n <= count:
+        loop, n = hole_label(h["tags"])
+        if n and 1 <= n <= count and loop_suits(loop, name, loops_near):
             by_number.setdefault(n, []).append(h)
     if not by_number:
         return None
@@ -634,8 +770,17 @@ def chained_holes(osm, record, name, card):
                 if reach(pick) <= 450 * gap:
                     chain[n] = pick
                     prev = pick
+            # Keep the holes whose length suits the card. A chain whose mapped pars
+            # often differ from the card's is another course's holes.
             fitting = {n: h for n, h in chain.items() if fits_card(h, card["holes"][n - 1])}
             if len(fitting) < max(3, len(chain) * 0.7):
+                continue
+            # (A mapped par that differs is fine where the length is right on the card's tees.)
+            differ = sum(1 for n, h in fitting.items() if h["tags"].get("par")
+                         and str(h["tags"]["par"]).strip() != str(card["holes"][n - 1]["par"])
+                         and not (length_error(h, card["holes"][n - 1]) <= 0.02
+                                  and par_length_fits(h, card["holes"][n - 1]["par"])))
+            if differ > max(1, len(fitting) // 6):
                 continue
             closest = min(meters((lat, lng), p) for h in chain.values() for p in (h["geometry"][0], h["geometry"][-1]))
             if closest > 1500:
@@ -1087,12 +1232,16 @@ def build(args):
         holes, mismatched = None, 0
         if osm:
             # Holes traced from aerial photos for a course the map doesn't have, else the map's.
-            holes = osm.traced_holes.get(cid) or osm_holes(osm, record, name, len(card["holes"]))
+            holes = osm.traced_holes.get(cid) or osm_holes(osm, record, name, len(card["holes"]), card)
             if holes:
                 mismatched = sum(1 for h in card["holes"]
                                  if str(holes[h["number"]]["tags"].get("par", h["par"])) != str(h["par"]))
                 if mismatched > 1:
                     holes = None
+            if not holes:
+                holes = fingerprint_holes(osm, record, card, name)
+                if holes:
+                    report["by_card"] = report.get("by_card", 0) + 1
             if not holes:
                 holes = chained_holes(osm, record, name, card)
                 if holes:

@@ -1,0 +1,53 @@
+# Fetches free US government aerial photos (USGS NAIP, public domain) and the
+# OpenStreetMap features for several courses in one run, for tracing their holes
+# by hand. Each batch replaces the last one on its branch (not main), so the photos don't pile up.
+name: Aerial photos (batch)
+
+on:
+  workflow_dispatch:
+    inputs:
+      courses:
+        description: 'JSON list of [folder, lat, lng, radius_m]'
+        required: true
+      pixel:
+        description: Meters per pixel (0.3 for full detail)
+        default: '0.3'
+      branch:
+        description: Branch to save the photos to (aerial-batch-1, -2 or -3; each batch replaces the last one there)
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  photos:
+    name: Fetch aerial photos
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch
+        env:
+          COURSES: ${{ inputs.courses }}
+        run: |
+          echo "$COURSES" > "$RUNNER_TEMP/courses.json"
+          python3 - "$RUNNER_TEMP/courses.json" "${{ inputs.pixel }}" "$RUNNER_TEMP/photos" <<'PY'
+          import json, subprocess, sys
+          courses = json.load(open(sys.argv[1]))
+          failed = []
+          for name, lat, lng, radius in courses:
+              r = subprocess.run([sys.executable, "Tools/CourseImport/aerial.py", str(lat), str(lng), str(radius), f"{sys.argv[3]}/{name}", sys.argv[2]])
+              if r.returncode:
+                  failed.append(name)
+                  subprocess.run(["rm", "-rf", f"{sys.argv[3]}/{name}"])
+          print("Failed:", failed)
+          PY
+      - name: Save to the batch's own branch
+        run: |
+          cd "$RUNNER_TEMP" && mkdir -p out && cd out
+          git init -q -b "${{ inputs.branch }}"
+          echo "Aerial photos (USGS NAIP, public domain) for tracing course holes. Not part of the app." > README.md
+          cp -r "$RUNNER_TEMP/photos" .
+          git add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "Aerial photos: batch of $(ls photos | wc -l)"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" "${{ inputs.branch }}"
