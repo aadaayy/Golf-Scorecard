@@ -1,0 +1,347 @@
+{
+ "city": "Ocala",
+ "club_name": "Ocala National Golf Club",
+ "course_name": "Ocala National Golf Club",
+ "dataset_name": "Ocala National Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 341,
+    "blue": 339,
+    "gold": 321,
+    "gold/green": 321,
+    "green": 301,
+    "green/red": 301,
+    "red": 245
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 573,
+    "blue": 550,
+    "gold": 527,
+    "gold/green": 527,
+    "green": 374,
+    "green/red": 374,
+    "red": 330
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 314,
+    "blue": 299,
+    "gold": 294,
+    "gold/green": 294,
+    "green": 276,
+    "green/red": 276,
+    "red": 244
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 624,
+    "blue": 588,
+    "gold": 524,
+    "gold/green": 524,
+    "green": 482,
+    "green/red": 482,
+    "red": 415
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "blue": 147,
+    "gold": 126,
+    "gold/green": 126,
+    "green": 95,
+    "green/red": 81,
+    "red": 81
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 470,
+    "blue": 430,
+    "gold": 397,
+    "gold/green": 310,
+    "green": 310,
+    "green/red": 254,
+    "red": 254
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 417,
+    "blue": 387,
+    "gold": 379,
+    "gold/green": 379,
+    "green": 350,
+    "green/red": 278,
+    "red": 278
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 202,
+    "blue": 179,
+    "gold": 171,
+    "gold/green": 171,
+    "green": 151,
+    "green/red": 128,
+    "red": 128
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 489,
+    "blue": 430,
+    "gold": 370,
+    "gold/green": 302,
+    "green": 302,
+    "green/red": 264,
+    "red": 264
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 412,
+    "blue": 393,
+    "gold": 384,
+    "gold/green": 384,
+    "green": 340,
+    "green/red": 281,
+    "red": 281
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 167,
+    "blue": 149,
+    "gold": 141,
+    "gold/green": 141,
+    "green": 128,
+    "green/red": 128,
+    "red": 123
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 550,
+    "blue": 522,
+    "gold": 502,
+    "gold/green": 502,
+    "green": 407,
+    "green/red": 407,
+    "red": 357
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 459,
+    "blue": 431,
+    "gold": 399,
+    "gold/green": 368,
+    "green": 368,
+    "green/red": 318,
+    "red": 318
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 241,
+    "blue": 220,
+    "gold": 194,
+    "gold/green": 152,
+    "green": 152,
+    "green/red": 125,
+    "red": 125
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 541,
+    "blue": 505,
+    "gold": 488,
+    "gold/green": 488,
+    "green": 468,
+    "green/red": 468,
+    "red": 390
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 479,
+    "blue": 449,
+    "gold": 426,
+    "gold/green": 301,
+    "green": 301,
+    "green/red": 301,
+    "red": 289
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "blue": 402,
+    "gold": 383,
+    "gold/green": 383,
+    "green": 325,
+    "green/red": 325,
+    "red": 315
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 512,
+    "blue": 450,
+    "gold": 419,
+    "gold/green": 351,
+    "green": 351,
+    "green/red": 317,
+    "red": 317
+   }
+  }
+ ],
+ "id": "a41e9b4f-0a44-43fc-91e5-0c8563ad53d3",
+ "lat": 29.2371636,
+ "lng": -82.2500821,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7364
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6870
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6445
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-green-male",
+   "tee_name": "Gold/Green",
+   "yardage": 6024
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5481
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5481
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "green-red-female",
+   "tee_name": "Green/Red",
+   "yardage": 5108
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "green-red-male",
+   "tee_name": "Green/Red",
+   "yardage": 5108
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4754
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4754
+  }
+ ]
+}

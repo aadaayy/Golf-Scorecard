@@ -1,0 +1,279 @@
+{
+ "city": "Wesley Chapel",
+ "club_name": "Lexington Oaks Golf Club",
+ "course_name": "Lexington Oaks Golf Club",
+ "dataset_name": "Lexington Oaks Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 383,
+    "blue": 374,
+    "gold": 309,
+    "red": 286,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 226,
+    "blue": 203,
+    "gold": 148,
+    "red": 127,
+    "white": 161
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 381,
+    "blue": 341,
+    "gold": 298,
+    "red": 268,
+    "white": 318
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 539,
+    "blue": 503,
+    "gold": 428,
+    "red": 380,
+    "white": 484
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 211,
+    "blue": 167,
+    "gold": 128,
+    "red": 100,
+    "white": 153
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 534,
+    "blue": 490,
+    "gold": 406,
+    "red": 375,
+    "white": 457
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "blue": 336,
+    "gold": 273,
+    "red": 249,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 374,
+    "blue": 356,
+    "gold": 265,
+    "red": 248,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "blue": 313,
+    "gold": 256,
+    "red": 242,
+    "white": 287
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 354,
+    "blue": 334,
+    "gold": 285,
+    "red": 262,
+    "white": 308
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 403,
+    "gold": 337,
+    "red": 312,
+    "white": 370
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 297,
+    "blue": 273,
+    "gold": 224,
+    "red": 193,
+    "white": 246
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 134,
+    "blue": 123,
+    "gold": 101,
+    "red": 93,
+    "white": 111
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 592,
+    "blue": 511,
+    "gold": 479,
+    "red": 360,
+    "white": 502
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 393,
+    "blue": 351,
+    "gold": 299,
+    "red": 245,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 367,
+    "blue": 343,
+    "gold": 287,
+    "red": 265,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 208,
+    "blue": 189,
+    "gold": 147,
+    "red": 110,
+    "white": 166
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 490,
+    "blue": 463,
+    "gold": 391,
+    "red": 271,
+    "white": 443
+   }
+  }
+ ],
+ "id": "638646e5-20dc-4385-a865-f3719e24e96b",
+ "lat": 28.2375596,
+ "lng": -82.3839573,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6646
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6073
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5617
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5061
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5061
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4435
+  }
+ ]
+}

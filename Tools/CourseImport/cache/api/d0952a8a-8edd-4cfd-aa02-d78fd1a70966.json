@@ -1,0 +1,277 @@
+{
+ "city": "Kissimmee",
+ "club_name": "The Reserve At Orange Lake Resort",
+ "course_name": "The Reserve At Orange Lake Resort",
+ "dataset_name": "The Reserve At Orange Lake Resort",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 16,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 299,
+    "Green": 309,
+    "White": 269,
+    "Yellow": 213
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Green": 356,
+    "White": 337,
+    "Yellow": 274
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 110,
+    "Green": 131,
+    "White": 102,
+    "Yellow": 85
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Blue": 507,
+    "Green": 512,
+    "White": 498,
+    "Yellow": 412
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 178,
+    "Green": 209,
+    "White": 152,
+    "Yellow": 126
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 400,
+    "Green": 414,
+    "White": 388,
+    "Yellow": 247
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 324,
+    "Green": 337,
+    "White": 318,
+    "Yellow": 271
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 345,
+    "Green": 377,
+    "White": 336,
+    "Yellow": 311
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 346,
+    "Green": 358,
+    "White": 338,
+    "Yellow": 281
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Blue": 456,
+    "Green": 460,
+    "White": 452,
+    "Yellow": 339
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 325,
+    "Green": 328,
+    "White": 317,
+    "Yellow": 273
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 126,
+    "Green": 150,
+    "White": 122,
+    "Yellow": 92
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 351,
+    "Green": 367,
+    "White": 342,
+    "Yellow": 231
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 200,
+    "Green": 218,
+    "White": 196,
+    "Yellow": 175
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 543,
+    "Green": 549,
+    "White": 540,
+    "Yellow": 449
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Green": 360,
+    "White": 324,
+    "Yellow": 283
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 395,
+    "Green": 432,
+    "White": 387,
+    "Yellow": 334
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 352,
+    "Green": 374,
+    "White": 346,
+    "Yellow": 302
+   }
+  }
+ ],
+ "id": "d0952a8a-8edd-4cfd-aa02-d78fd1a70966",
+ "lat": 28.3688919,
+ "lng": -81.60375,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6241
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 6241
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5941
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5941
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5764
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5764
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 4698
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 4698
+  }
+ ]
+}

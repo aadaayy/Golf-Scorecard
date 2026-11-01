@@ -1,0 +1,297 @@
+{
+ "city": "Ruskin",
+ "club_name": "The Golf Club Of Cypress Creek",
+ "course_name": "The Golf Club Of Cypress Creek",
+ "dataset_name": "The Golf Club Of Cypress Creek",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 384,
+    "Blue": 366,
+    "Creek": 357,
+    "Green": 264,
+    "White": 357,
+    "Yellow": 317
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 432,
+    "Blue": 420,
+    "Creek": 372,
+    "Green": 298,
+    "White": 385,
+    "Yellow": 372
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 363,
+    "Blue": 317,
+    "Creek": 291,
+    "Green": 234,
+    "White": 291,
+    "Yellow": 261
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 566,
+    "Blue": 546,
+    "Creek": 454,
+    "Green": 414,
+    "White": 508,
+    "Yellow": 454
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 430,
+    "Blue": 411,
+    "Creek": 373,
+    "Green": 321,
+    "White": 390,
+    "Yellow": 373
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 138,
+    "Blue": 127,
+    "Creek": 117,
+    "Green": 95,
+    "White": 117,
+    "Yellow": 104
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Black": 508,
+    "Blue": 482,
+    "Creek": 428,
+    "Green": 358,
+    "White": 450,
+    "Yellow": 428
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 204,
+    "Blue": 175,
+    "Creek": 155,
+    "Green": 105,
+    "White": 155,
+    "Yellow": 136
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 399,
+    "Blue": 369,
+    "Creek": 338,
+    "Green": 296,
+    "White": 338,
+    "Yellow": 326
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 404,
+    "Blue": 368,
+    "Creek": 333,
+    "Green": 264,
+    "White": 357,
+    "Yellow": 333
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 326,
+    "Blue": 319,
+    "Creek": 302,
+    "Green": 258,
+    "White": 302,
+    "Yellow": 268
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 408,
+    "Blue": 390,
+    "Creek": 317,
+    "Green": 302,
+    "White": 373,
+    "Yellow": 317
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 167,
+    "Blue": 150,
+    "Creek": 135,
+    "Green": 107,
+    "White": 135,
+    "Yellow": 123
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 505,
+    "Blue": 483,
+    "Creek": 436,
+    "Green": 397,
+    "White": 436,
+    "Yellow": 422
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 433,
+    "Blue": 408,
+    "Creek": 333,
+    "Green": 278,
+    "White": 353,
+    "Yellow": 333
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 394,
+    "Blue": 386,
+    "Creek": 322,
+    "Green": 262,
+    "White": 368,
+    "Yellow": 322
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 246,
+    "Blue": 221,
+    "Creek": 163,
+    "Green": 109,
+    "White": 204,
+    "Yellow": 163
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 501,
+    "Blue": 485,
+    "Creek": 430,
+    "Green": 377,
+    "White": 455,
+    "Yellow": 430
+   }
+  }
+ ],
+ "id": "bdbbd4d5-69fe-46fc-81ca-aed7c7f1020f",
+ "lat": 27.724895,
+ "lng": -82.378483,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6808
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6423
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5974
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "creek-male",
+   "tee_name": "Creek",
+   "yardage": 5656
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 5482
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4739
+  }
+ ]
+}

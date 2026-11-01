@@ -1,0 +1,305 @@
+{
+ "city": "Pensacola",
+ "club_name": "Perdido Bay Golf Club",
+ "course_name": "Perdido Bay Golf Club",
+ "dataset_name": "Perdido Bay Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 324,
+    "blue": 342,
+    "gold": 361,
+    "red": 277,
+    "web": 362,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 448,
+    "blue": 480,
+    "gold": 506,
+    "red": 407,
+    "web": 554,
+    "white": 452
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 343,
+    "blue": 414,
+    "gold": 434,
+    "red": 339,
+    "web": 438,
+    "white": 382
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 133,
+    "blue": 177,
+    "gold": 208,
+    "red": 125,
+    "web": 203,
+    "white": 156
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 351,
+    "blue": 378,
+    "gold": 411,
+    "red": 301,
+    "web": 416,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 338,
+    "blue": 416,
+    "gold": 448,
+    "red": 332,
+    "web": 450,
+    "white": 388
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "black": 461,
+    "blue": 493,
+    "gold": 518,
+    "red": 428,
+    "web": 517,
+    "white": 469
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 106,
+    "blue": 147,
+    "gold": 167,
+    "red": 91,
+    "web": 163,
+    "white": 141
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 261,
+    "blue": 289,
+    "gold": 331,
+    "red": 211,
+    "web": 335,
+    "white": 267
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 333,
+    "blue": 450,
+    "gold": 450,
+    "red": 328,
+    "web": 445,
+    "white": 391
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 421,
+    "blue": 495,
+    "gold": 528,
+    "red": 416,
+    "web": 526,
+    "white": 471
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 345,
+    "blue": 399,
+    "gold": 430,
+    "red": 295,
+    "web": 420,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 161,
+    "blue": 189,
+    "gold": 212,
+    "red": 141,
+    "web": 218,
+    "white": 167
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 344,
+    "blue": 412,
+    "gold": 435,
+    "red": 315,
+    "web": 425,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 445,
+    "blue": 539,
+    "gold": 576,
+    "red": 439,
+    "web": 590,
+    "white": 493
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 302,
+    "blue": 373,
+    "gold": 392,
+    "red": 297,
+    "web": 381,
+    "white": 349
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 111,
+    "blue": 175,
+    "gold": 193,
+    "red": 105,
+    "web": 189,
+    "white": 157
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 335,
+    "blue": 418,
+    "gold": 452,
+    "red": 329,
+    "web": 440,
+    "white": 389
+   }
+  }
+ ],
+ "id": "ba9a88cd-f703-49a2-9e94-c49541cd24b5",
+ "lat": 30.327937,
+ "lng": -87.423807,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7072
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6554
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6056
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6056
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 5622
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5622
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5156
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "city": "The Villages",
+ "club_name": "St Andrews Country Club Arnold Palmer Course",
+ "course_name": "St Andrews Country Club Arnold Palmer Course",
+ "dataset_name": "St Andrews Country Club Arnold Palmer Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 386,
+    "Blue": 353,
+    "Blue/White": 333,
+    "Gold": 380,
+    "Gold/Blue": 380,
+    "Green": 303,
+    "White": 333
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 347,
+    "Blue": 307,
+    "Blue/White": 307,
+    "Gold": 327,
+    "Gold/Blue": 307,
+    "Green": 227,
+    "White": 264
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Black": 522,
+    "Blue": 485,
+    "Blue/White": 459,
+    "Gold": 515,
+    "Gold/Blue": 515,
+    "Green": 435,
+    "White": 459
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 162,
+    "Blue": 147,
+    "Blue/White": 147,
+    "Gold": 162,
+    "Gold/Blue": 162,
+    "Green": 90,
+    "White": 115
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 373,
+    "Blue": 350,
+    "Blue/White": 350,
+    "Gold": 366,
+    "Gold/Blue": 350,
+    "Green": 286,
+    "White": 330
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 374,
+    "Blue": 354,
+    "Blue/White": 354,
+    "Gold": 364,
+    "Gold/Blue": 364,
+    "Green": 284,
+    "White": 301
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 403,
+    "Blue": 386,
+    "Blue/White": 336,
+    "Gold": 403,
+    "Gold/Blue": 386,
+    "Green": 296,
+    "White": 336
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 193,
+    "Blue": 167,
+    "Blue/White": 140,
+    "Gold": 187,
+    "Gold/Blue": 167,
+    "Green": 110,
+    "White": 140
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 503,
+    "Blue": 479,
+    "Blue/White": 479,
+    "Gold": 500,
+    "Gold/Blue": 500,
+    "Green": 410,
+    "White": 446
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 415,
+    "Blue": 391,
+    "Blue/White": 391,
+    "Gold": 405,
+    "Gold/Blue": 391,
+    "Green": 298,
+    "White": 338
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 146,
+    "Blue": 143,
+    "Blue/White": 143,
+    "Gold": 146,
+    "Gold/Blue": 143,
+    "Green": 127,
+    "White": 137
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 513,
+    "Blue": 487,
+    "Blue/White": 429,
+    "Gold": 510,
+    "Gold/Blue": 510,
+    "Green": 386,
+    "White": 429
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Blue": 335,
+    "Blue/White": 335,
+    "Gold": 345,
+    "Gold/Blue": 345,
+    "Green": 255,
+    "White": 281
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 364,
+    "Blue": 347,
+    "Blue/White": 304,
+    "Gold": 364,
+    "Gold/Blue": 364,
+    "Green": 264,
+    "White": 304
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 396,
+    "Blue": 359,
+    "Blue/White": 289,
+    "Gold": 389,
+    "Gold/Blue": 359,
+    "Green": 276,
+    "White": 289
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 200,
+    "Blue": 163,
+    "Blue/White": 138,
+    "Gold": 192,
+    "Gold/Blue": 163,
+    "Green": 116,
+    "White": 138
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 335,
+    "Blue": 325,
+    "Blue/White": 325,
+    "Gold": 335,
+    "Gold/Blue": 335,
+    "Green": 242,
+    "White": 308
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 516,
+    "Blue": 476,
+    "Blue/White": 433,
+    "Gold": 506,
+    "Gold/Blue": 476,
+    "Green": 396,
+    "White": 433
+   }
+  }
+ ],
+ "id": "e088da18-a8ba-4144-81a2-196d9697f8fe",
+ "lat": 28.9101941,
+ "lng": -81.9932891,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6526
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6396
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-blue-male",
+   "tee_name": "Gold/Blue",
+   "yardage": 6217
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6054
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 5692
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5381
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4801
+  }
+ ]
+}

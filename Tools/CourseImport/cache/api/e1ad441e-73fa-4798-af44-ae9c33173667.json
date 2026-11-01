@@ -1,0 +1,277 @@
+{
+ "city": "Melbourne Beach",
+ "club_name": "Spessard Holland Golf Course",
+ "course_name": "Spessard Holland Golf Course",
+ "dataset_name": "Spessard Holland Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 299,
+    "Gold": 322,
+    "Green": 257,
+    "White": 284
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 305,
+    "Gold": 313,
+    "Green": 266,
+    "White": 296
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 340,
+    "Gold": 350,
+    "Green": 292,
+    "White": 329
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Blue": 138,
+    "Gold": 175,
+    "Green": 84,
+    "White": 110
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 360,
+    "Gold": 374,
+    "Green": 316,
+    "White": 327
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 266,
+    "Gold": 278,
+    "Green": 218,
+    "White": 230
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 140,
+    "Gold": 171,
+    "Green": 93,
+    "White": 124
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 316,
+    "Gold": 353,
+    "Green": 258,
+    "White": 267
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Blue": 141,
+    "Gold": 148,
+    "Green": 113,
+    "White": 134
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 283,
+    "Gold": 325,
+    "Green": 229,
+    "White": 273
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 154,
+    "Gold": 182,
+    "Green": 134,
+    "White": 144
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 280,
+    "Gold": 331,
+    "Green": 255,
+    "White": 264
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Blue": 434,
+    "Gold": 444,
+    "Green": 367,
+    "White": 422
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 301,
+    "Gold": 325,
+    "Green": 240,
+    "White": 280
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 142,
+    "Gold": 157,
+    "Green": 102,
+    "White": 128
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 259,
+    "Gold": 293,
+    "Green": 223,
+    "White": 249
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 129,
+    "Gold": 133,
+    "Green": 107,
+    "White": 125
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 259,
+    "Gold": 304,
+    "Green": 225,
+    "White": 250
+   }
+  }
+ ],
+ "id": "e1ad441e-73fa-4798-af44-ae9c33173667",
+ "lat": 28.0494715,
+ "lng": -80.5506182,
+ "par": 67,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": "Gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4978
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4978
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 4546
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": "Blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 4546
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 4236
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 4236
+  },
+  {
+   "gender": "Female",
+   "par": 67,
+   "tee_color": "Green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 3779
+  },
+  {
+   "gender": "Male",
+   "par": 67,
+   "tee_color": "Green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 3779
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "city": "Lakeland",
+ "club_name": "Links Of Sandpiper",
+ "course_name": "Links Of Sandpiper",
+ "dataset_name": "Links Of Sandpiper",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 356,
+    "gold": 248,
+    "green": 312,
+    "white": 334
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "gold": 94,
+    "green": 121,
+    "white": 136
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 372,
+    "gold": 279,
+    "green": 284,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 548,
+    "gold": 347,
+    "green": 393,
+    "white": 485
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 361,
+    "gold": 247,
+    "green": 286,
+    "white": 307
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 136,
+    "gold": 81,
+    "green": 90,
+    "white": 110
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "gold": 91,
+    "green": 131,
+    "white": 165
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 504,
+    "gold": 370,
+    "green": 385,
+    "white": 449
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 481,
+    "gold": 266,
+    "green": 388,
+    "white": 460
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 385,
+    "gold": 236,
+    "green": 303,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 269,
+    "gold": 184,
+    "green": 208,
+    "white": 253
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 262,
+    "green": 327,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 223,
+    "gold": 104,
+    "green": 128,
+    "white": 193
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 512,
+    "gold": 370,
+    "green": 385,
+    "white": 489
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 175,
+    "gold": 85,
+    "green": 100,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 495,
+    "gold": 345,
+    "green": 427,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 295,
+    "gold": 220,
+    "green": 238,
+    "white": 285
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "blue": 174,
+    "gold": 85,
+    "green": 130,
+    "white": 155
+   }
+  }
+ ],
+ "id": "82669f32-52c4-48b9-8715-664dc428fad5",
+ "lat": 28.1202335,
+ "lng": -81.9420738,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6072
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5715
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4882
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4882
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4519
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4519
+  },
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": "white",
+   "tee_key": "white-par-3-male",
+   "tee_name": "White Par-3",
+   "yardage": 2156
+  },
+  {
+   "gender": "Male",
+   "par": 54,
+   "tee_color": "gold",
+   "tee_key": "gold-par-3-male",
+   "tee_name": "Gold Par-3",
+   "yardage": 1786
+  }
+ ]
+}

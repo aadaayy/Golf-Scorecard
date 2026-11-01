@@ -1,0 +1,146 @@
+{
+ "city": "Lady Lake",
+ "club_name": "The Lakes Golf Club",
+ "course_name": "The Lakes Golf Club",
+ "dataset_name": "The Lakes Golf Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "Blue": 170,
+    "Red": 119,
+    "White": 140,
+    "Yellow": 130
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Blue": 147,
+    "Red": 101,
+    "White": 135,
+    "Yellow": 130
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 328,
+    "Red": 259,
+    "White": 300,
+    "Yellow": 301
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Blue": 171,
+    "Red": 110,
+    "White": 154,
+    "Yellow": 140
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 297,
+    "Red": 229,
+    "White": 297,
+    "Yellow": 259
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 160,
+    "Red": 80,
+    "White": 135,
+    "Yellow": 116
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 190,
+    "Red": 145,
+    "White": 182,
+    "Yellow": 165
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 125,
+    "Red": 100,
+    "White": 115,
+    "Yellow": 107
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Red": 260,
+    "White": 319,
+    "Yellow": 292
+   }
+  }
+ ],
+ "id": "6f1d1d62-08c1-4cfa-90aa-23bf6b6ed1ca",
+ "lat": 28.9484816,
+ "lng": -81.9309309,
+ "par": 30,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 1930
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1777
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 1640
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 1403
+  }
+ ]
+}

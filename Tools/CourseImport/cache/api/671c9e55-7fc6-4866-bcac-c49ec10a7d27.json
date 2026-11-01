@@ -1,0 +1,303 @@
+{
+ "city": "Palm Coast",
+ "club_name": "Hammock Beach Resort The Conservatory Course",
+ "course_name": "Hammock Beach Resort The Conservatory Course",
+ "dataset_name": "Hammock Beach Resort The Conservatory Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 444,
+    "blue": 391,
+    "gold": 421,
+    "red": 331,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 440,
+    "blue": 377,
+    "gold": 413,
+    "red": 306,
+    "white": 346
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 202,
+    "blue": 157,
+    "gold": 185,
+    "red": 103,
+    "white": 144
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 613,
+    "blue": 516,
+    "gold": 577,
+    "red": 417,
+    "white": 489
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 460,
+    "blue": 428,
+    "gold": 434,
+    "red": 337,
+    "white": 408
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 476,
+    "blue": 418,
+    "gold": 446,
+    "red": 331,
+    "white": 386
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 440,
+    "blue": 391,
+    "gold": 418,
+    "red": 319,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 199,
+    "blue": 145,
+    "gold": 168,
+    "red": 97,
+    "white": 131
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 570,
+    "blue": 507,
+    "gold": 535,
+    "red": 378,
+    "white": 471
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 610,
+    "blue": 543,
+    "gold": 574,
+    "red": 431,
+    "white": 518
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 467,
+    "blue": 412,
+    "gold": 433,
+    "red": 337,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 243,
+    "blue": 193,
+    "gold": 221,
+    "red": 102,
+    "white": 162
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 491,
+    "blue": 418,
+    "gold": 457,
+    "red": 340,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 502,
+    "blue": 452,
+    "gold": 475,
+    "red": 313,
+    "white": 400
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 377,
+    "blue": 349,
+    "gold": 361,
+    "red": 286,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 414,
+    "blue": 379,
+    "gold": 414,
+    "red": 255,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 200,
+    "blue": 155,
+    "gold": 183,
+    "red": 104,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 602,
+    "blue": 534,
+    "gold": 562,
+    "red": 440,
+    "white": 503
+   }
+  }
+ ],
+ "id": "671c9e55-7fc6-4866-bcac-c49ec10a7d27",
+ "lat": 29.6185131,
+ "lng": -81.2389831,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7776
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7300
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6792
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6271
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5995
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5995
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5235
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5235
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "red-white-female",
+   "tee_name": "Red/White",
+   "yardage": 5087
+  }
+ ]
+}

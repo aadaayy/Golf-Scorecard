@@ -1,0 +1,85 @@
+{
+ "city": "Panama City",
+ "club_name": "Origins Golf Club",
+ "course_name": "Origins Golf Club",
+ "dataset_name": "Origins Golf Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "e914b0da-ade3-4b48-8835-0c6527eb3606",
+ "lat": 30.2947671,
+ "lng": -86.007408,
+ "par": 32,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 1852
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 1492
+  }
+ ]
+}

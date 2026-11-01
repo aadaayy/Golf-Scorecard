@@ -1,0 +1,305 @@
+{
+ "city": "Titusville",
+ "club_name": "Great Outdoors Rv Golf Resort",
+ "course_name": "Great Outdoors Rv Golf Resort",
+ "dataset_name": "Great Outdoors Rv Golf Resort",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 559,
+    "gold": 513,
+    "green": 424,
+    "red": 440,
+    "silver": 488,
+    "white": 546
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 353,
+    "green": 255,
+    "red": 301,
+    "silver": 319,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 417,
+    "gold": 373,
+    "green": 299,
+    "red": 335,
+    "silver": 345,
+    "white": 381
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "gold": 123,
+    "green": 92,
+    "red": 102,
+    "silver": 114,
+    "white": 146
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 339,
+    "gold": 294,
+    "green": 220,
+    "red": 249,
+    "silver": 284,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 332,
+    "gold": 286,
+    "green": 221,
+    "red": 231,
+    "silver": 270,
+    "white": 323
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 352,
+    "gold": 287,
+    "green": 234,
+    "red": 245,
+    "silver": 276,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 182,
+    "gold": 151,
+    "green": 88,
+    "red": 103,
+    "silver": 136,
+    "white": 167
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 494,
+    "gold": 442,
+    "green": 334,
+    "red": 345,
+    "silver": 412,
+    "white": 481
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 334,
+    "gold": 294,
+    "green": 201,
+    "red": 244,
+    "silver": 269,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 136,
+    "gold": 97,
+    "green": 52,
+    "red": 84,
+    "silver": 91,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "gold": 305,
+    "green": 213,
+    "red": 259,
+    "silver": 268,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "blue": 456,
+    "gold": 420,
+    "green": 340,
+    "red": 364,
+    "silver": 405,
+    "white": 444
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 521,
+    "gold": 428,
+    "green": 393,
+    "red": 404,
+    "silver": 415,
+    "white": 470
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 357,
+    "gold": 330,
+    "green": 216,
+    "red": 224,
+    "silver": 268,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 161,
+    "gold": 143,
+    "green": 92,
+    "red": 111,
+    "silver": 118,
+    "white": 152
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 383,
+    "gold": 334,
+    "green": 270,
+    "red": 293,
+    "silver": 302,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 369,
+    "gold": 330,
+    "green": 238,
+    "red": 245,
+    "silver": 254,
+    "white": 357
+   }
+  }
+ ],
+ "id": "a42bbce8-d7fa-42c4-983f-d24da145e1c2",
+ "lat": 28.5247404,
+ "lng": -80.8639998,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6336
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5940
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5503
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5034
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4579
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4579
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4182
+  }
+ ]
+}

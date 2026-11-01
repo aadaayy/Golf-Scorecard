@@ -1,0 +1,121 @@
+{
+ "city": "Treasure Island",
+ "club_name": "Treasure Bay Golf Tennis",
+ "course_name": "Treasure Bay Golf Tennis",
+ "dataset_name": "Treasure Bay Golf Tennis",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "red": 90,
+    "web": 105,
+    "white": 105
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "red": 100,
+    "web": 110,
+    "white": 110
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "red": 65,
+    "web": 85,
+    "white": 85
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "red": 75,
+    "web": 85,
+    "white": 85
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "red": 95,
+    "web": 105,
+    "white": 105
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "red": 85,
+    "web": 100,
+    "white": 100
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "red": 80,
+    "web": 95,
+    "white": 95
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "red": 65,
+    "web": 80,
+    "white": 80
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "red": 140,
+    "web": 140,
+    "white": 140
+   }
+  }
+ ],
+ "id": "6d7009d6-9498-46ad-8c6e-813e5136b293",
+ "lat": 27.767141,
+ "lng": -82.755821,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 905
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 795
+  }
+ ]
+}

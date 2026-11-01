@@ -1,0 +1,289 @@
+{
+ "city": "Kissimmee",
+ "club_name": "Kissimmee Bay Country Club",
+ "course_name": "Kissimmee Bay Country Club",
+ "dataset_name": "Kissimmee Bay Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 541,
+    "gold": 562,
+    "red": 466,
+    "silver": 491,
+    "web": 562,
+    "white": 518
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 349,
+    "gold": 372,
+    "red": 261,
+    "silver": 305,
+    "web": 372,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 422,
+    "gold": 443,
+    "red": 354,
+    "silver": 364,
+    "web": 443,
+    "white": 398
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 339,
+    "gold": 364,
+    "red": 260,
+    "silver": 270,
+    "web": 364,
+    "white": 318
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 375,
+    "gold": 398,
+    "red": 332,
+    "silver": 347,
+    "web": 398,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 205,
+    "gold": 221,
+    "red": 160,
+    "silver": 170,
+    "web": 221,
+    "white": 183
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 447,
+    "gold": 462,
+    "red": 331,
+    "silver": 340,
+    "web": 462,
+    "white": 415
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 127,
+    "gold": 144,
+    "red": 105,
+    "silver": 112,
+    "web": 144,
+    "white": 117
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 567,
+    "gold": 585,
+    "red": 476,
+    "silver": 486,
+    "web": 585,
+    "white": 530
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 320,
+    "gold": 357,
+    "red": 229,
+    "silver": 278,
+    "web": 357,
+    "white": 288
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 542,
+    "gold": 567,
+    "red": 467,
+    "silver": 494,
+    "web": 567,
+    "white": 504
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 337,
+    "gold": 381,
+    "red": 270,
+    "silver": 275,
+    "web": 381,
+    "white": 308
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 125,
+    "gold": 185,
+    "red": 93,
+    "silver": 101,
+    "web": 185,
+    "white": 101
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 397,
+    "gold": 415,
+    "red": 297,
+    "silver": 307,
+    "web": 415,
+    "white": 371
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 341,
+    "gold": 386,
+    "red": 290,
+    "silver": 320,
+    "web": 386,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 130,
+    "gold": 150,
+    "red": 101,
+    "silver": 112,
+    "web": 166,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 357,
+    "gold": 416,
+    "red": 300,
+    "silver": 327,
+    "web": 416,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 396,
+    "gold": 422,
+    "red": 312,
+    "silver": 320,
+    "web": 422,
+    "white": 369
+   }
+  }
+ ],
+ "id": "eb2ec344-785f-4e95-ba8b-9691b9e8a791",
+ "lat": 28.3077661,
+ "lng": -81.3277893,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6830
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6317
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5891
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5419
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5104
+  }
+ ]
+}

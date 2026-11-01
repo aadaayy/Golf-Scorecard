@@ -1,0 +1,105 @@
+{
+ "city": "Summerfield",
+ "club_name": "Stonecrest Golf Club Meadows Course",
+ "course_name": "Stonecrest Golf Club Meadows Course",
+ "dataset_name": "Stonecrest Golf Club Meadows Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  }
+ ],
+ "id": "fdeeb9e7-3bd4-4e20-b81b-e45d253a0675",
+ "lat": 28.9663089,
+ "lng": -81.9607231,
+ "par": 72,
+ "tees": [
+  {
+   "gender": null,
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship",
+   "tee_name": "championship",
+   "yardage": 6852
+  },
+  {
+   "gender": null,
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "intermediate",
+   "tee_name": "intermediate",
+   "yardage": 6213
+  },
+  {
+   "gender": null,
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ladies",
+   "tee_name": "ladies",
+   "yardage": 5045
+  }
+ ]
+}

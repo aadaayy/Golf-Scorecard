@@ -1,0 +1,269 @@
+{
+ "city": "Clearwater",
+ "club_name": "Clearwater Country Club",
+ "course_name": "Clearwater Country Club",
+ "dataset_name": "Clearwater Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 18,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 333,
+    "green": 298,
+    "orange": 265,
+    "white": 318
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 213,
+    "green": 139,
+    "orange": 126,
+    "white": 159
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 414,
+    "green": 336,
+    "orange": 323,
+    "white": 402
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 502,
+    "green": 440,
+    "orange": 352,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "blue": 503,
+    "green": 439,
+    "orange": 341,
+    "white": 470
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 399,
+    "green": 355,
+    "orange": 345,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 156,
+    "green": 137,
+    "orange": 127,
+    "white": 145
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 346,
+    "green": 321,
+    "orange": 310,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 319,
+    "green": 285,
+    "orange": 273,
+    "white": 297
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 341,
+    "green": 320,
+    "orange": 311,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 370,
+    "green": 348,
+    "orange": 340,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 342,
+    "green": 271,
+    "orange": 260,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 345,
+    "green": 253,
+    "orange": 249,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 245,
+    "green": 220,
+    "orange": 212,
+    "white": 230
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 174,
+    "green": 152,
+    "orange": 148,
+    "white": 165
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 371,
+    "green": 306,
+    "orange": 299,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blue": 460,
+    "green": 380,
+    "orange": 371,
+    "white": 432
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 367,
+    "green": 350,
+    "orange": 316,
+    "white": 356
+   }
+  }
+ ],
+ "id": "6a15683e-8248-4fdf-83e8-59d6a1520e21",
+ "lat": 27.9714647,
+ "lng": -82.7819421,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6200
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5858
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5858
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5350
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5350
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 4968
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 4968
+  }
+ ]
+}

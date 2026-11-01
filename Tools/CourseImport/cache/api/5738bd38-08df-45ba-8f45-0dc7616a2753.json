@@ -1,0 +1,321 @@
+{
+ "city": "Ocala",
+ "club_name": "Candler Hills Golf Club",
+ "course_name": "Candler Hills Golf Club",
+ "dataset_name": "Candler Hills Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 385,
+    "blue": 303,
+    "green": 338,
+    "orange": 205,
+    "tournament": 303,
+    "white": 276
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 444,
+    "blue": 344,
+    "green": 386,
+    "orange": 277,
+    "tournament": 344,
+    "white": 303
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 408,
+    "blue": 366,
+    "green": 379,
+    "orange": 267,
+    "tournament": 329,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 662,
+    "blue": 557,
+    "green": 620,
+    "orange": 454,
+    "tournament": 524,
+    "white": 524
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 209,
+    "blue": 175,
+    "green": 199,
+    "orange": 110,
+    "tournament": 138,
+    "white": 138
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 591,
+    "blue": 518,
+    "green": 549,
+    "orange": 445,
+    "tournament": 518,
+    "white": 510
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 329,
+    "blue": 238,
+    "green": 297,
+    "orange": 175,
+    "tournament": 238,
+    "white": 200
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 195,
+    "blue": 154,
+    "green": 183,
+    "orange": 106,
+    "tournament": 154,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 430,
+    "blue": 364,
+    "green": 398,
+    "orange": 280,
+    "tournament": 335,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "blue": 319,
+    "green": 359,
+    "orange": 304,
+    "tournament": 319,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 440,
+    "blue": 370,
+    "green": 420,
+    "orange": 298,
+    "tournament": 343,
+    "white": 343
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 514,
+    "blue": 459,
+    "green": 485,
+    "orange": 398,
+    "tournament": 459,
+    "white": 426
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 207,
+    "blue": 157,
+    "green": 185,
+    "orange": 100,
+    "tournament": 113,
+    "white": 113
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "blue": 317,
+    "green": 355,
+    "orange": 270,
+    "tournament": 317,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 565,
+    "blue": 470,
+    "green": 516,
+    "orange": 421,
+    "tournament": 470,
+    "white": 437
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 453,
+    "blue": 355,
+    "green": 376,
+    "orange": 287,
+    "tournament": 355,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 202,
+    "blue": 150,
+    "green": 173,
+    "orange": 95,
+    "tournament": 132,
+    "white": 132
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 399,
+    "blue": 362,
+    "green": 371,
+    "orange": 293,
+    "tournament": 333,
+    "white": 333
+   }
+  }
+ ],
+ "id": "5738bd38-08df-45ba-8f45-0dc7616a2753",
+ "lat": 29.1046104,
+ "lng": -82.2594985,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7233
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6589
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5978
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5978
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 5724
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5481
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5481
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 4785
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 4785
+  }
+ ]
+}

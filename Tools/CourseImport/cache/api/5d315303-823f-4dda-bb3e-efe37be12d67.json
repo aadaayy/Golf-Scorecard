@@ -1,0 +1,355 @@
+{
+ "city": "Sun City Center",
+ "club_name": "Caloosa Golf Country Club",
+ "course_name": "Caloosa Golf Country Club",
+ "dataset_name": "Caloosa Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 367,
+    "blue": 302,
+    "gold": 338,
+    "gold/silver": 338,
+    "green": 257,
+    "silver": 312,
+    "web": 363
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 377,
+    "blue": 272,
+    "gold": 359,
+    "gold/silver": 313,
+    "green": 267,
+    "silver": 313,
+    "web": 378
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 182,
+    "blue": 130,
+    "gold": 155,
+    "gold/silver": 155,
+    "green": 116,
+    "silver": 134,
+    "web": 174
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 325,
+    "blue": 286,
+    "gold": 318,
+    "gold/silver": 318,
+    "green": 245,
+    "silver": 295,
+    "web": 355
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 487,
+    "blue": 425,
+    "gold": 476,
+    "gold/silver": 453,
+    "green": 416,
+    "silver": 453,
+    "web": 493
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 476,
+    "blue": 392,
+    "gold": 444,
+    "gold/silver": 417,
+    "green": 384,
+    "silver": 417,
+    "web": 479
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 209,
+    "blue": 130,
+    "gold": 182,
+    "gold/silver": 130,
+    "green": 125,
+    "silver": 130,
+    "web": 204
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 347,
+    "blue": 286,
+    "gold": 328,
+    "gold/silver": 328,
+    "green": 243,
+    "silver": 294,
+    "web": 348
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 422,
+    "blue": 314,
+    "gold": 406,
+    "gold/silver": 371,
+    "green": 304,
+    "silver": 371,
+    "web": 407
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 402,
+    "blue": 337,
+    "gold": 384,
+    "gold/silver": 349,
+    "green": 303,
+    "silver": 349,
+    "web": 401
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 537,
+    "blue": 429,
+    "gold": 500,
+    "gold/silver": 500,
+    "green": 389,
+    "silver": 448,
+    "web": 533
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 320,
+    "blue": 276,
+    "gold": 305,
+    "gold/silver": 305,
+    "green": 236,
+    "silver": 286,
+    "web": 325
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 159,
+    "blue": 96,
+    "gold": 147,
+    "gold/silver": 147,
+    "green": 90,
+    "silver": 122,
+    "web": 153
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 376,
+    "blue": 292,
+    "gold": 359,
+    "gold/silver": 300,
+    "green": 285,
+    "silver": 300,
+    "web": 372
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 392,
+    "blue": 315,
+    "gold": 369,
+    "gold/silver": 324,
+    "green": 278,
+    "silver": 324,
+    "web": 394
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 351,
+    "blue": 261,
+    "gold": 307,
+    "gold/silver": 307,
+    "green": 244,
+    "silver": 271,
+    "web": 356
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 151,
+    "blue": 92,
+    "gold": 132,
+    "gold/silver": 132,
+    "green": 89,
+    "silver": 109,
+    "web": 144
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 512,
+    "blue": 448,
+    "gold": 478,
+    "gold/silver": 457,
+    "green": 413,
+    "silver": 457,
+    "web": 509
+   }
+  }
+ ],
+ "id": "5d315303-823f-4dda-bb3e-efe37be12d67",
+ "lat": 27.7322384,
+ "lng": -82.3437864,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6378
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6010
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 6010
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-silver-male",
+   "tee_name": "Gold/Silver",
+   "yardage": 5682
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5412
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5412
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5148
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4701
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4701
+  },
+  {
+   "gender": "Female",
+   "par": 64,
+   "tee_color": null,
+   "tee_key": "executive-female",
+   "tee_name": "Executive",
+   "yardage": 3230
+  },
+  {
+   "gender": "Male",
+   "par": 64,
+   "tee_color": null,
+   "tee_key": "executive-male",
+   "tee_name": "Executive",
+   "yardage": 3230
+  }
+ ]
+}

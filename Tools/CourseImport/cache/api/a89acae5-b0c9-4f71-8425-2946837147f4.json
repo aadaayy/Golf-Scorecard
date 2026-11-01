@@ -1,0 +1,355 @@
+{
+ "city": "Hernando",
+ "club_name": "Skyview At Terra Vista",
+ "course_name": "Skyview At Terra Vista",
+ "dataset_name": "Skyview At Terra Vista",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 554,
+    "Blue/White": 517,
+    "Gold": 597,
+    "Green": 440,
+    "Red": 459,
+    "White": 517,
+    "White/Red": 459
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 374,
+    "Blue/White": 343,
+    "Gold": 434,
+    "Green": 250,
+    "Red": 318,
+    "White": 343,
+    "White/Red": 343
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 365,
+    "Blue/White": 365,
+    "Gold": 384,
+    "Green": 273,
+    "Red": 282,
+    "White": 338,
+    "White/Red": 338
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Blue": 165,
+    "Blue/White": 165,
+    "Gold": 180,
+    "Green": 127,
+    "Red": 127,
+    "White": 145,
+    "White/Red": 145
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Blue": 500,
+    "Blue/White": 470,
+    "Gold": 543,
+    "Green": 404,
+    "Red": 432,
+    "White": 470,
+    "White/Red": 432
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 409,
+    "Blue/White": 375,
+    "Gold": 447,
+    "Green": 270,
+    "Red": 325,
+    "White": 375,
+    "White/Red": 325
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 178,
+    "Blue/White": 178,
+    "Gold": 205,
+    "Green": 117,
+    "Red": 117,
+    "White": 150,
+    "White/Red": 150
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 406,
+    "Blue/White": 377,
+    "Gold": 429,
+    "Green": 312,
+    "Red": 338,
+    "White": 377,
+    "White/Red": 338
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Blue/White": 350,
+    "Gold": 374,
+    "Green": 272,
+    "Red": 272,
+    "White": 326,
+    "White/Red": 326
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 446,
+    "Blue/White": 399,
+    "Gold": 468,
+    "Green": 272,
+    "Red": 357,
+    "White": 399,
+    "White/Red": 357
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 401,
+    "Blue/White": 360,
+    "Gold": 425,
+    "Green": 272,
+    "Red": 314,
+    "White": 360,
+    "White/Red": 360
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 508,
+    "Blue/White": 508,
+    "Gold": 547,
+    "Green": 357,
+    "Red": 419,
+    "White": 467,
+    "White/Red": 419
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 346,
+    "Blue/White": 346,
+    "Gold": 376,
+    "Green": 282,
+    "Red": 282,
+    "White": 313,
+    "White/Red": 313
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 180,
+    "Blue/White": 180,
+    "Gold": 200,
+    "Green": 125,
+    "Red": 125,
+    "White": 131,
+    "White/Red": 131
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 491,
+    "Blue/White": 456,
+    "Gold": 520,
+    "Green": 355,
+    "Red": 420,
+    "White": 456,
+    "White/Red": 420
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 152,
+    "Blue/White": 152,
+    "Gold": 158,
+    "Green": 99,
+    "Red": 99,
+    "White": 119,
+    "White/Red": 119
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 338,
+    "Blue/White": 338,
+    "Gold": 369,
+    "Green": 276,
+    "Red": 276,
+    "White": 305,
+    "White/Red": 305
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 401,
+    "Blue/White": 366,
+    "Gold": 434,
+    "Green": 266,
+    "Red": 333,
+    "White": 366,
+    "White/Red": 333
+   }
+  }
+ ],
+ "id": "a89acae5-b0c9-4f71-8425-2946837147f4",
+ "lat": 28.8941802,
+ "lng": -82.4510517,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7090
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6564
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6245
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5957
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5957
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-red-female",
+   "tee_name": "White/Red",
+   "yardage": 5613
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-red-male",
+   "tee_name": "White/Red",
+   "yardage": 5613
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5295
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5295
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4769
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4769
+  }
+ ]
+}

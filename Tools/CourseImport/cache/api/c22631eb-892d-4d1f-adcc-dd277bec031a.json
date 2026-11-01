@@ -1,0 +1,225 @@
+{
+ "city": "Orange Park",
+ "club_name": "Eagle Landing Golf Club",
+ "course_name": "Eagle Landing Golf Club",
+ "dataset_name": "Eagle Landing Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "champ": 515,
+    "forward": 420,
+    "intermediate": 455,
+    "regular": 495,
+    "tour": 525
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "champ": 354,
+    "forward": 280,
+    "intermediate": 315,
+    "regular": 340,
+    "tour": 380
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "champ": 325,
+    "forward": 250,
+    "intermediate": 290,
+    "regular": 300,
+    "tour": 349
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "champ": 170,
+    "forward": 130,
+    "intermediate": 146,
+    "regular": 156,
+    "tour": 180
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "champ": 415,
+    "forward": 310,
+    "intermediate": 377,
+    "regular": 390,
+    "tour": 425
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "champ": 435,
+    "forward": 320,
+    "intermediate": 370,
+    "regular": 405,
+    "tour": 460
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "champ": 200,
+    "forward": 140,
+    "intermediate": 165,
+    "regular": 185,
+    "tour": 220
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "champ": 525,
+    "forward": 425,
+    "intermediate": 475,
+    "regular": 500,
+    "tour": 535
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "champ": 385,
+    "forward": 290,
+    "intermediate": 310,
+    "regular": 368,
+    "tour": 403
+   }
+  }
+ ],
+ "id": "c22631eb-892d-4d1f-adcc-dd277bec031a",
+ "lat": 30.163559,
+ "lng": -81.851738,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tour-male",
+   "tee_name": "Tour",
+   "yardage": 7037
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champ-male",
+   "tee_name": "Champ",
+   "yardage": 6764
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "regular-male",
+   "tee_name": "Regular",
+   "yardage": 6359
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "intermediate-male",
+   "tee_name": "Intermediate",
+   "yardage": 5894
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 5142
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "youth-female",
+   "tee_name": "Youth",
+   "yardage": 2789
+  }
+ ]
+}

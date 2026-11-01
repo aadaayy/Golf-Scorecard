@@ -1,0 +1,253 @@
+{
+ "city": "Hernando",
+ "club_name": "Citrus Hills Golf Country Club Oaks Course",
+ "course_name": "Citrus Hills Golf Country Club Oaks Course",
+ "dataset_name": "Citrus Hills Golf Country Club Oaks Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 407,
+    "club/blue": 385,
+    "forward/red": 308,
+    "interim/white": 349
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 359,
+    "club/blue": 325,
+    "forward/red": 282,
+    "interim/white": 295
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "championship/gold": 152,
+    "club/blue": 138,
+    "forward/red": 93,
+    "interim/white": 124
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 408,
+    "club/blue": 383,
+    "forward/red": 322,
+    "interim/white": 349
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "championship/gold": 187,
+    "club/blue": 177,
+    "forward/red": 107,
+    "interim/white": 160
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "championship/gold": 526,
+    "club/blue": 488,
+    "forward/red": 412,
+    "interim/white": 449
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "championship/gold": 244,
+    "club/blue": 206,
+    "forward/red": 155,
+    "interim/white": 176
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 398,
+    "club/blue": 370,
+    "forward/red": 289,
+    "interim/white": 339
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "championship/gold": 487,
+    "club/blue": 470,
+    "forward/red": 398,
+    "interim/white": 424
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "championship/gold": 183,
+    "club/blue": 174,
+    "forward/red": 128,
+    "interim/white": 155
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 415,
+    "club/blue": 375,
+    "forward/red": 309,
+    "interim/white": 336
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "championship/gold": 214,
+    "club/blue": 194,
+    "forward/red": 126,
+    "interim/white": 160
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "championship/gold": 504,
+    "club/blue": 485,
+    "forward/red": 371,
+    "interim/white": 457
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 340,
+    "club/blue": 318,
+    "forward/red": 215,
+    "interim/white": 263
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 377,
+    "club/blue": 344,
+    "forward/red": 265,
+    "interim/white": 299
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 378,
+    "club/blue": 335,
+    "forward/red": 259,
+    "interim/white": 298
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "championship/gold": 254,
+    "club/blue": 254,
+    "forward/red": 237,
+    "interim/white": 254
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "championship/gold": 507,
+    "club/blue": 480,
+    "forward/red": 419,
+    "interim/white": 429
+   }
+  }
+ ],
+ "id": "9a64a44e-c79f-4a3f-a1e3-12224f4c35e4",
+ "lat": 28.8872814,
+ "lng": -82.4264068,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "gold",
+   "tee_key": "championship-gold-male",
+   "tee_name": "Championship/Gold",
+   "yardage": 6323
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "blue",
+   "tee_key": "club-blue-male",
+   "tee_name": "Club/Blue",
+   "yardage": 5853
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "interim-white-female",
+   "tee_name": "Interim/White",
+   "yardage": 5273
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "interim-white-male",
+   "tee_name": "Interim/White",
+   "yardage": 5273
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "red",
+   "tee_key": "forward-red-female",
+   "tee_name": "Forward/Red",
+   "yardage": 4712
+  }
+ ]
+}

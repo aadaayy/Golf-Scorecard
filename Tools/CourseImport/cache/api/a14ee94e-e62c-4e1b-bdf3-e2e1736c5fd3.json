@@ -1,0 +1,329 @@
+{
+ "city": "The Villages",
+ "club_name": "Ashley Torri At Nancy Lopez Legacy Golf Country Club",
+ "course_name": "Ashley Torri At Nancy Lopez Legacy Golf Country Club",
+ "dataset_name": "Ashley Torri At Nancy Lopez Legacy Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 16,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 346,
+    "blue": 322,
+    "friendly": 195,
+    "gold": 340,
+    "green": 241,
+    "white": 280
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 392,
+    "blue": 346,
+    "friendly": 200,
+    "gold": 389,
+    "green": 249,
+    "white": 326
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 536,
+    "blue": 493,
+    "friendly": 285,
+    "gold": 503,
+    "green": 400,
+    "white": 459
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 174,
+    "blue": 142,
+    "friendly": 87,
+    "gold": 168,
+    "green": 89,
+    "white": 124
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 418,
+    "blue": 371,
+    "friendly": 215,
+    "gold": 397,
+    "green": 299,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 389,
+    "blue": 340,
+    "friendly": 218,
+    "gold": 361,
+    "green": 278,
+    "white": 284
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 412,
+    "blue": 343,
+    "friendly": 191,
+    "gold": 372,
+    "green": 275,
+    "white": 306
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 212,
+    "blue": 162,
+    "friendly": 61,
+    "gold": 182,
+    "green": 124,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 507,
+    "blue": 485,
+    "friendly": 320,
+    "gold": 502,
+    "green": 394,
+    "white": 470
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 554,
+    "blue": 513,
+    "friendly": 310,
+    "gold": 534,
+    "green": 430,
+    "white": 438
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 224,
+    "blue": 151,
+    "friendly": 66,
+    "gold": 185,
+    "green": 105,
+    "white": 113
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 325,
+    "blue": 290,
+    "friendly": 195,
+    "gold": 315,
+    "green": 235,
+    "white": 265
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 366,
+    "blue": 340,
+    "friendly": 190,
+    "gold": 361,
+    "green": 265,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 429,
+    "blue": 366,
+    "friendly": 202,
+    "gold": 389,
+    "green": 238,
+    "white": 306
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 398,
+    "blue": 345,
+    "friendly": 220,
+    "gold": 368,
+    "green": 269,
+    "white": 323
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 370,
+    "blue": 351,
+    "friendly": 230,
+    "gold": 366,
+    "green": 271,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 168,
+    "blue": 150,
+    "friendly": 96,
+    "gold": 164,
+    "green": 100,
+    "white": 128
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 515,
+    "blue": 480,
+    "friendly": 312,
+    "gold": 498,
+    "green": 389,
+    "white": 465
+   }
+  }
+ ],
+ "id": "a14ee94e-e62c-4e1b-bdf3-e2e1736c5fd3",
+ "lat": 28.9730905,
+ "lng": -82.014098,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6812
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6433
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5975
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5975
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5316
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5316
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4664
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4664
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3747
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 3747
+  }
+ ]
+}

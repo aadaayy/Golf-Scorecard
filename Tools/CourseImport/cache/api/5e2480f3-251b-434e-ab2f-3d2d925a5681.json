@@ -1,0 +1,128 @@
+{
+ "city": "Port Orange",
+ "club_name": "Harbour Village Golf Yacht Club",
+ "course_name": "Harbour Village Golf Yacht Club",
+ "dataset_name": "Harbour Village Golf Yacht Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "blue": 82,
+    "red": 70
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 100,
+    "red": 85
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 93,
+    "red": 80
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 110,
+    "red": 90
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 87,
+    "red": 75
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 68,
+    "red": 58
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 67,
+    "red": 55
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 100,
+    "red": 90
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "blue": 110,
+    "red": 85
+   }
+  }
+ ],
+ "id": "5e2480f3-251b-434e-ab2f-3d2d925a5681",
+ "lat": 29.1019379,
+ "lng": -80.9414786,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": null
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": null
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 817
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 817
+  }
+ ]
+}

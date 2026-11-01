@@ -1,0 +1,228 @@
+{
+ "city": "Brooksville",
+ "club_name": "Cabot Citrus Farms The Squeeze Course",
+ "course_name": "Cabot Citrus Farms The Squeeze Course",
+ "dataset_name": "Cabot Citrus Farms The Squeeze Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 290,
+    "tangerine": 255
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 285,
+    "tangerine": 255
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 125,
+    "tangerine": 120
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 559,
+    "tangerine": 478
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 353,
+    "tangerine": 316
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 304,
+    "tangerine": 265
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 115,
+    "tangerine": 100
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 181,
+    "tangerine": 156
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 414,
+    "tangerine": 359
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 24,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 25,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 26,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 27,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "a606c15a-7338-4516-a3a9-ccea989fb370",
+ "lat": 28.6833699,
+ "lng": -82.4799318,
+ "par": 34,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 38,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 2957
+  },
+  {
+   "gender": "Male",
+   "par": 38,
+   "tee_color": null,
+   "tee_key": "tangerine-male",
+   "tee_name": "Tangerine",
+   "yardage": 2590
+  },
+  {
+   "gender": "Male",
+   "par": 38,
+   "tee_color": "blue",
+   "tee_key": "royal-blue-male",
+   "tee_name": "Royal Blue",
+   "yardage": 1793
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "city": "The Villages",
+ "club_name": "Bonita Pass At The Villages Executive Golf Trail",
+ "course_name": "Bonita Pass At The Villages Executive Golf Trail",
+ "dataset_name": "Bonita Pass At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "blue": 125,
+    "red": 85,
+    "web": 125,
+    "white": 111
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 167,
+    "red": 126,
+    "web": 167,
+    "white": 141
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 154,
+    "red": 133,
+    "web": 154,
+    "white": 143
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 176,
+    "red": 122,
+    "web": 176,
+    "white": 153
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 173,
+    "red": 131,
+    "web": 173,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "red": 117,
+    "web": 157,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 141,
+    "red": 100,
+    "web": 141,
+    "white": 122
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 175,
+    "red": 127,
+    "web": 175,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "blue": 139,
+    "red": 90,
+    "web": 139,
+    "white": 120
+   }
+  }
+ ],
+ "id": "bbe0b4ed-1ed9-43eb-b0c6-4d4e4853f8bf",
+ "lat": 28.8863436,
+ "lng": -82.0110644,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 1407
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1237
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 1031
+  }
+ ]
+}

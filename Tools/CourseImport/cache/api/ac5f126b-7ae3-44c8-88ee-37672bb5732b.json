@@ -1,0 +1,101 @@
+{
+ "city": "Lakeland",
+ "club_name": "Sanlan Golf Course Bobcat Course",
+ "course_name": "Sanlan Golf Course Bobcat Course",
+ "dataset_name": "Sanlan Golf Course Bobcat Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "ac5f126b-7ae3-44c8-88ee-37672bb5732b",
+ "lat": 27.9909367,
+ "lng": -81.9107791,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 2910
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2652
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 2307
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2160
+  }
+ ]
+}

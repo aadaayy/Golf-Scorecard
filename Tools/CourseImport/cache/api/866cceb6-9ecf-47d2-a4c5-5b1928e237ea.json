@@ -1,0 +1,263 @@
+{
+ "city": "Fort Walton Beach",
+ "club_name": "Pines At Ft Walton Beach Golf Club",
+ "course_name": "Pines At Ft Walton Beach Golf Club",
+ "dataset_name": "Pines At Ft Walton Beach Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 539,
+    "gold": 498,
+    "red": 445,
+    "web": 539,
+    "white": 524
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 391,
+    "gold": 356,
+    "red": 320,
+    "web": 391,
+    "white": 378
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 166,
+    "gold": 137,
+    "red": 120,
+    "web": 166,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 410,
+    "gold": 377,
+    "red": 324,
+    "web": 410,
+    "white": 398
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "blue": 529,
+    "gold": 480,
+    "red": 434,
+    "web": 529,
+    "white": 511
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 197,
+    "gold": 118,
+    "red": 87,
+    "web": 197,
+    "white": 160
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 373,
+    "gold": 342,
+    "red": 298,
+    "web": 373,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 430,
+    "gold": 398,
+    "red": 347,
+    "web": 430,
+    "white": 418
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 429,
+    "gold": 367,
+    "red": 326,
+    "web": 429,
+    "white": 390
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 410,
+    "gold": 353,
+    "red": 326,
+    "web": 410,
+    "white": 368
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 376,
+    "gold": 302,
+    "red": 271,
+    "web": 376,
+    "white": 318
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 183,
+    "gold": 109,
+    "red": 97,
+    "web": 183,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "blue": 524,
+    "gold": 421,
+    "red": 411,
+    "web": 524,
+    "white": 460
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 344,
+    "gold": 300,
+    "red": 293,
+    "web": 344,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "gold": 152,
+    "red": 135,
+    "web": 180,
+    "white": 169
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 420,
+    "gold": 317,
+    "red": 309,
+    "web": 420,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blue": 462,
+    "gold": 423,
+    "red": 373,
+    "web": 462,
+    "white": 436
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 317,
+    "red": 268,
+    "web": 392,
+    "white": 339
+   }
+  }
+ ],
+ "id": "866cceb6-9ecf-47d2-a4c5-5b1928e237ea",
+ "lat": 30.4632524,
+ "lng": -86.619399,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6861
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6162
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5802
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5227
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "city": "Winter Park",
+ "club_name": "Winter Park Golf Course",
+ "course_name": "Winter Park Golf Course",
+ "dataset_name": "Winter Park Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "middle": 241
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "middle": 146
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "middle": 430
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "middle": 495
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "middle": 354
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "middle": 262
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "middle": 179
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "middle": 145
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "middle": 228
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "ae62fbce-25f5-4b3d-9db6-f9975b72bbed",
+ "lat": 28.6036803,
+ "lng": -81.3485347,
+ "par": 35,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "middle",
+   "yardage": 2470
+  },
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "forward",
+   "yardage": 2392
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "city": "The Villages",
+ "club_name": "Talley Ho Course At Glenview Champions Country Club",
+ "course_name": "Talley Ho Course At Glenview Champions Country Club",
+ "dataset_name": "Talley Ho Course At Glenview Champions Country Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 513,
+    "Blue": 489,
+    "Friendly": 296,
+    "Gold": 509,
+    "Green": 401,
+    "White": 453
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Blue": 324,
+    "Friendly": 205,
+    "Gold": 349,
+    "Green": 254,
+    "White": 292
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 435,
+    "Blue": 388,
+    "Friendly": 210,
+    "Gold": 421,
+    "Green": 322,
+    "White": 368
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 199,
+    "Blue": 169,
+    "Friendly": 120,
+    "Gold": 185,
+    "Green": 120,
+    "White": 139
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 402,
+    "Blue": 346,
+    "Friendly": 200,
+    "Gold": 382,
+    "Green": 274,
+    "White": 292
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 442,
+    "Blue": 368,
+    "Friendly": 223,
+    "Gold": 388,
+    "Green": 304,
+    "White": 342
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 206,
+    "Blue": 151,
+    "Friendly": 93,
+    "Gold": 172,
+    "Green": 93,
+    "White": 133
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 382,
+    "Blue": 313,
+    "Friendly": 237,
+    "Gold": 328,
+    "Green": 237,
+    "White": 274
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 550,
+    "Blue": 510,
+    "Friendly": 275,
+    "Gold": 531,
+    "Green": 382,
+    "White": 456
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "86b26939-31ee-4da7-90a4-f8d7351f0da3",
+ "lat": 28.9493285,
+ "lng": -82.0067922,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 3507
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 3265
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 3058
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3058
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 2749
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2749
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 2387
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 2387
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 1859
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 1859
+  }
+ ]
+}

@@ -1,0 +1,313 @@
+{
+ "city": "Orlando",
+ "club_name": "The Ritz Carlton Golf Club Orlando Grande Lakes",
+ "course_name": "The Ritz Carlton Golf Club Orlando Grande Lakes",
+ "dataset_name": "The Ritz Carlton Golf Club Orlando Grande Lakes",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 423,
+    "Blue": 376,
+    "Blue/White": 338,
+    "Gold": 387,
+    "Green": 292,
+    "White": 338
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 410,
+    "Blue": 343,
+    "Blue/White": 343,
+    "Gold": 381,
+    "Green": 301,
+    "White": 335
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Black": 529,
+    "Blue": 476,
+    "Blue/White": 476,
+    "Gold": 511,
+    "Green": 421,
+    "White": 458
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 178,
+    "Blue": 145,
+    "Blue/White": 145,
+    "Gold": 166,
+    "Green": 97,
+    "White": 122
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Black": 558,
+    "Blue": 509,
+    "Blue/White": 498,
+    "Gold": 536,
+    "Green": 455,
+    "White": 498
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 422,
+    "Blue": 385,
+    "Blue/White": 351,
+    "Gold": 398,
+    "Green": 304,
+    "White": 351
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 363,
+    "Blue": 320,
+    "Blue/White": 320,
+    "Gold": 349,
+    "Green": 282,
+    "White": 291
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 214,
+    "Blue": 171,
+    "Blue/White": 145,
+    "Gold": 191,
+    "Green": 102,
+    "White": 145
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 453,
+    "Blue": 387,
+    "Blue/White": 387,
+    "Gold": 434,
+    "Green": 308,
+    "White": 372
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 387,
+    "Blue": 336,
+    "Blue/White": 336,
+    "Gold": 361,
+    "Green": 264,
+    "White": 300
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 410,
+    "Blue": 373,
+    "Blue/White": 348,
+    "Gold": 396,
+    "Green": 321,
+    "White": 348
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 193,
+    "Blue": 161,
+    "Blue/White": 161,
+    "Gold": 173,
+    "Green": 99,
+    "White": 144
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 352,
+    "Blue": 317,
+    "Blue/White": 317,
+    "Gold": 327,
+    "Green": 245,
+    "White": 257
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 585,
+    "Blue": 544,
+    "Blue/White": 496,
+    "Gold": 565,
+    "Green": 485,
+    "White": 496
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 467,
+    "Blue": 423,
+    "Blue/White": 396,
+    "Gold": 434,
+    "Green": 343,
+    "White": 396
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 405,
+    "Blue": 365,
+    "Blue/White": 341,
+    "Gold": 387,
+    "Green": 315,
+    "White": 341
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 216,
+    "Blue": 172,
+    "Blue/White": 172,
+    "Gold": 185,
+    "Green": 125,
+    "White": 147
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 557,
+    "Blue": 521,
+    "Blue/White": 496,
+    "Gold": 527,
+    "Green": 464,
+    "White": 496
+   }
+  }
+ ],
+ "id": "650c5714-2e22-4018-99b7-82415f6862c6",
+ "lat": 28.4017266,
+ "lng": -81.4313195,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7122
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6708
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6324
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6066
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5835
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-w-female",
+   "tee_name": "White (W)",
+   "yardage": 5835
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-w-female",
+   "tee_name": "Green (W)",
+   "yardage": 5223
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5223
+  }
+ ]
+}

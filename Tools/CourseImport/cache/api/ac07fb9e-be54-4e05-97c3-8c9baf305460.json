@@ -1,0 +1,155 @@
+{
+ "city": "Keystone",
+ "club_name": "Silver Dollar Golf Trap Club Panther Bobcat Course",
+ "course_name": "Silver Dollar Golf Trap Club Panther Bobcat Course",
+ "dataset_name": "Silver Dollar Golf Trap Club Panther Bobcat Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 9,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 10,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 12,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 13,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 14,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "ac07fb9e-be54-4e05-97c3-8c9baf305460",
+ "lat": 28.1160058,
+ "lng": -82.6429372,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6139
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5824
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5061
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4409
+  }
+ ]
+}

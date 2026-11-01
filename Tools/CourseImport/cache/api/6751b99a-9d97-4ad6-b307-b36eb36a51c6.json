@@ -1,0 +1,329 @@
+{
+ "city": "Palm Harbor",
+ "club_name": "Innisbrook Resort Golf Club Copperhead Course",
+ "course_name": "Innisbrook Resort Golf Club Copperhead Course",
+ "dataset_name": "Innisbrook Resort Golf Club Copperhead Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 560,
+    "combo": 456,
+    "gold": 456,
+    "green": 528,
+    "red": 456,
+    "white": 521
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 413,
+    "combo": 331,
+    "gold": 331,
+    "green": 371,
+    "red": 291,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 442,
+    "combo": 362,
+    "gold": 362,
+    "green": 407,
+    "red": 291,
+    "white": 386
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 188,
+    "combo": 134,
+    "gold": 134,
+    "green": 163,
+    "red": 95,
+    "white": 140
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 607,
+    "combo": 458,
+    "gold": 458,
+    "green": 570,
+    "red": 388,
+    "white": 526
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 452,
+    "combo": 304,
+    "gold": 357,
+    "green": 422,
+    "red": 304,
+    "white": 406
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "combo": 273,
+    "gold": 335,
+    "green": 373,
+    "red": 273,
+    "white": 345
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 232,
+    "combo": 145,
+    "gold": 145,
+    "green": 201,
+    "red": 124,
+    "white": 176
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 420,
+    "combo": 294,
+    "gold": 343,
+    "green": 392,
+    "red": 294,
+    "white": 378
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 441,
+    "combo": 343,
+    "gold": 343,
+    "green": 410,
+    "red": 295,
+    "white": 374
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 567,
+    "combo": 435,
+    "gold": 435,
+    "green": 525,
+    "red": 372,
+    "white": 514
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 373,
+    "combo": 315,
+    "gold": 343,
+    "green": 357,
+    "red": 315,
+    "white": 343
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 199,
+    "combo": 102,
+    "gold": 144,
+    "green": 179,
+    "red": 102,
+    "white": 148
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 590,
+    "combo": 448,
+    "gold": 505,
+    "green": 561,
+    "red": 448,
+    "white": 532
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 208,
+    "combo": 130,
+    "gold": 160,
+    "green": 182,
+    "red": 130,
+    "white": 172
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 458,
+    "combo": 336,
+    "gold": 336,
+    "green": 412,
+    "red": 294,
+    "white": 376
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 206,
+    "combo": 118,
+    "gold": 161,
+    "green": 181,
+    "red": 118,
+    "white": 171
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 443,
+    "combo": 328,
+    "gold": 328,
+    "green": 390,
+    "red": 261,
+    "white": 376
+   }
+  }
+ ],
+ "id": "6751b99a-9d97-4ad6-b307-b36eb36a51c6",
+ "lat": 28.1144638,
+ "lng": -82.7530279,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7209
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6624
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6243
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6243
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5676
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5676
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "combo-female",
+   "tee_name": "Combo",
+   "yardage": 5312
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "combo-male",
+   "tee_name": "Combo",
+   "yardage": 5312
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4851
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4851
+  }
+ ]
+}

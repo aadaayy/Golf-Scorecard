@@ -1,0 +1,449 @@
+{
+ "city": "Elkton",
+ "club_name": "St Johns Golf Club",
+ "course_name": "St Johns Golf Club",
+ "dataset_name": "St Johns Golf Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "championship": 465,
+    "championship/match": 386,
+    "general": 373,
+    "general/relief": 373,
+    "match": 386,
+    "match/general": 386,
+    "nearest": 338,
+    "relief": 351,
+    "relief/nearest": 338,
+    "web": 443
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "championship": 199,
+    "championship/match": 199,
+    "general": 175,
+    "general/relief": 145,
+    "match": 185,
+    "match/general": 185,
+    "nearest": 135,
+    "relief": 145,
+    "relief/nearest": 135,
+    "web": 192
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "championship": 443,
+    "championship/match": 427,
+    "general": 373,
+    "general/relief": 335,
+    "match": 427,
+    "match/general": 373,
+    "nearest": 319,
+    "relief": 335,
+    "relief/nearest": 319,
+    "web": 428
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "championship": 509,
+    "championship/match": 509,
+    "general": 433,
+    "general/relief": 433,
+    "match": 496,
+    "match/general": 496,
+    "nearest": 380,
+    "relief": 420,
+    "relief/nearest": 380,
+    "web": 493
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "championship": 314,
+    "championship/match": 314,
+    "general": 262,
+    "general/relief": 262,
+    "match": 275,
+    "match/general": 275,
+    "nearest": 183,
+    "relief": 228,
+    "relief/nearest": 228,
+    "web": 306
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "championship": 200,
+    "championship/match": 181,
+    "general": 162,
+    "general/relief": 150,
+    "match": 181,
+    "match/general": 162,
+    "nearest": 132,
+    "relief": 150,
+    "relief/nearest": 132,
+    "web": 192
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "championship": 596,
+    "championship/match": 571,
+    "general": 516,
+    "general/relief": 449,
+    "match": 571,
+    "match/general": 516,
+    "nearest": 418,
+    "relief": 449,
+    "relief/nearest": 418,
+    "web": 590
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "championship": 190,
+    "championship/match": 190,
+    "general": 170,
+    "general/relief": 155,
+    "match": 180,
+    "match/general": 170,
+    "nearest": 134,
+    "relief": 155,
+    "relief/nearest": 134,
+    "web": 184
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "championship": 438,
+    "championship/match": 438,
+    "general": 374,
+    "general/relief": 374,
+    "match": 387,
+    "match/general": 387,
+    "nearest": 330,
+    "relief": 340,
+    "relief/nearest": 330,
+    "web": 422
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "championship": 459,
+    "championship/match": 398,
+    "general": 361,
+    "general/relief": 361,
+    "match": 398,
+    "match/general": 361,
+    "nearest": 315,
+    "relief": 325,
+    "relief/nearest": 315,
+    "web": 441
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "championship": 535,
+    "championship/match": 535,
+    "general": 452,
+    "general/relief": 452,
+    "match": 518,
+    "match/general": 518,
+    "nearest": 379,
+    "relief": 439,
+    "relief/nearest": 439,
+    "web": 525
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "championship": 410,
+    "championship/match": 410,
+    "general": 351,
+    "general/relief": 351,
+    "match": 393,
+    "match/general": 393,
+    "nearest": 287,
+    "relief": 316,
+    "relief/nearest": 316,
+    "web": 395
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "championship": 436,
+    "championship/match": 419,
+    "general": 384,
+    "general/relief": 306,
+    "match": 419,
+    "match/general": 384,
+    "nearest": 295,
+    "relief": 306,
+    "relief/nearest": 295,
+    "web": 426
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "championship": 222,
+    "championship/match": 202,
+    "general": 168,
+    "general/relief": 168,
+    "match": 202,
+    "match/general": 168,
+    "nearest": 79,
+    "relief": 141,
+    "relief/nearest": 141,
+    "web": 218
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "championship": 407,
+    "championship/match": 407,
+    "general": 365,
+    "general/relief": 317,
+    "match": 390,
+    "match/general": 390,
+    "nearest": 300,
+    "relief": 317,
+    "relief/nearest": 300,
+    "web": 403
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "championship": 443,
+    "championship/match": 423,
+    "general": 382,
+    "general/relief": 328,
+    "match": 423,
+    "match/general": 382,
+    "nearest": 315,
+    "relief": 328,
+    "relief/nearest": 315,
+    "web": 441
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "championship": 185,
+    "championship/match": 185,
+    "general": 154,
+    "general/relief": 154,
+    "match": 164,
+    "match/general": 164,
+    "nearest": 80,
+    "relief": 140,
+    "relief/nearest": 140,
+    "web": 177
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "championship": 558,
+    "championship/match": 558,
+    "general": 522,
+    "general/relief": 522,
+    "match": 536,
+    "match/general": 536,
+    "nearest": 406,
+    "relief": 499,
+    "relief/nearest": 499,
+    "web": 549
+   }
+  }
+ ],
+ "id": "e6cbdb4d-d4f7-4298-b2d7-118e3946fe8a",
+ "lat": 29.801024,
+ "lng": -81.382067,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7009
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "championship-match-male",
+   "tee_name": "Championship/Match",
+   "yardage": 6752
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "match-male",
+   "tee_name": "Match",
+   "yardage": 6531
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "match-female",
+   "tee_name": "Match",
+   "yardage": 6531
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "match-general-male",
+   "tee_name": "Match/General",
+   "yardage": 6246
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "match-general-female",
+   "tee_name": "Match/General",
+   "yardage": 6246
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "general-male",
+   "tee_name": "General",
+   "yardage": 5977
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "general-female",
+   "tee_name": "General",
+   "yardage": 5977
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "general-relief-female",
+   "tee_name": "General/Relief",
+   "yardage": 5635
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "general-relief-male",
+   "tee_name": "General/Relief",
+   "yardage": 5635
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "relief-male",
+   "tee_name": "Relief",
+   "yardage": 5384
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "relief-female",
+   "tee_name": "Relief",
+   "yardage": 5384
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "relief-nearest-female",
+   "tee_name": "Relief/Nearest",
+   "yardage": 5174
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "relief-nearest-male",
+   "tee_name": "Relief/Nearest",
+   "yardage": 5174
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "nearest-male",
+   "tee_name": "Nearest",
+   "yardage": 4825
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "nearest-female",
+   "tee_name": "Nearest",
+   "yardage": 4825
+  }
+ ]
+}

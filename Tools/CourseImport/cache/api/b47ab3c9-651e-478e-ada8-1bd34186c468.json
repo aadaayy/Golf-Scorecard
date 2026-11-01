@@ -1,0 +1,225 @@
+{
+ "city": "Orlando",
+ "club_name": "Orange Tree Golf Club",
+ "course_name": "Orange Tree Golf Club",
+ "dataset_name": "Orange Tree Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "ladies": 409,
+    "member": 532
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "ladies": 375,
+    "member": 464
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "ladies": 312,
+    "member": 342
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "ladies": 305,
+    "member": 379
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "ladies": 126,
+    "member": 157
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "ladies": 319,
+    "member": 362
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "ladies": 139,
+    "member": 181
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "ladies": 311,
+    "member": 356
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "ladies": 324,
+    "member": 376
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "ladies": 411,
+    "member": 474
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "ladies": 122,
+    "member": 150
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "ladies": 294,
+    "member": 370
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "ladies": 302,
+    "member": 348
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "ladies": 293,
+    "member": 353
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "ladies": 325,
+    "member": 353
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "ladies": 428,
+    "member": 522
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "ladies": 112,
+    "member": 161
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "ladies": 303,
+    "member": 380
+   }
+  }
+ ],
+ "id": "b47ab3c9-651e-478e-ada8-1bd34186c468",
+ "lat": 28.4680995,
+ "lng": -81.485462,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7036
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "advanced-male",
+   "tee_name": "Advanced",
+   "yardage": 6646
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6300
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "master-male",
+   "tee_name": "Master",
+   "yardage": 5838
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "master-female",
+   "tee_name": "Master",
+   "yardage": 5838
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ladies-male",
+   "tee_name": "Ladies",
+   "yardage": 5183
+  }
+ ]
+}

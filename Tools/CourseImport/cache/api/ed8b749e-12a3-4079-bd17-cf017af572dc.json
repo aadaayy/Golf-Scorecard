@@ -1,0 +1,279 @@
+{
+ "city": "Cocoa Beach",
+ "club_name": "Lakes Dolphin Golf Course At Cocoa Beach Country Club",
+ "course_name": "Lakes Dolphin Golf Course At Cocoa Beach Country Club",
+ "dataset_name": "Lakes Dolphin Golf Course At Cocoa Beach Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 460,
+    "gold": 500,
+    "red": 417,
+    "web": 423,
+    "white": 434
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 137,
+    "gold": 152,
+    "red": 101,
+    "web": 372,
+    "white": 123
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 359,
+    "gold": 386,
+    "red": 289,
+    "web": 176,
+    "white": 303
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 507,
+    "gold": 538,
+    "red": 459,
+    "web": 367,
+    "white": 483
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 133,
+    "gold": 166,
+    "red": 78,
+    "web": 416,
+    "white": 93
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 382,
+    "gold": 414,
+    "red": 344,
+    "web": 550,
+    "white": 367
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 324,
+    "gold": 349,
+    "red": 281,
+    "web": 182,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 139,
+    "gold": 157,
+    "red": 93,
+    "web": 534,
+    "white": 115
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 344,
+    "gold": 359,
+    "red": 235,
+    "web": 532,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 394,
+    "gold": 423,
+    "red": 320,
+    "web": 500,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 357,
+    "gold": 372,
+    "red": 303,
+    "web": 152,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 153,
+    "gold": 176,
+    "red": 89,
+    "web": 386,
+    "white": 114
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 343,
+    "gold": 367,
+    "red": 324,
+    "web": 538,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "gold": 416,
+    "red": 368,
+    "web": 166,
+    "white": 379
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 538,
+    "gold": 550,
+    "red": 458,
+    "web": 414,
+    "white": 522
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 167,
+    "gold": 182,
+    "red": 132,
+    "web": 349,
+    "white": 151
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 317,
+    "gold": 354,
+    "red": 274,
+    "web": 157,
+    "white": 299
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 503,
+    "gold": 532,
+    "red": 420,
+    "web": 532,
+    "white": 433
+   }
+  }
+ ],
+ "id": "ed8b749e-12a3-4079-bd17-cf017af572dc",
+ "lat": 28.3128383,
+ "lng": -80.6355951,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6393
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5952
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5496
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5496
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4985
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4985
+  }
+ ]
+}

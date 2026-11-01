@@ -1,0 +1,245 @@
+{
+ "city": "St. Augustine",
+ "club_name": "St Augustine Shores Golf Club",
+ "course_name": "St Augustine Shores Golf Club",
+ "dataset_name": "St Augustine Shores Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 330,
+    "Gold": 264,
+    "Red": 192,
+    "White": 301
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 292,
+    "Gold": 242,
+    "Red": 195,
+    "White": 258
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 438,
+    "Gold": 336,
+    "Red": 306,
+    "White": 344
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Blue": 475,
+    "Gold": 438,
+    "Red": 345,
+    "White": 449
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 147,
+    "Gold": 126,
+    "Red": 125,
+    "White": 140
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 317,
+    "Gold": 255,
+    "Red": 197,
+    "White": 276
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 288,
+    "Gold": 225,
+    "Red": 214,
+    "White": 257
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 174,
+    "Gold": 152,
+    "Red": 137,
+    "White": 152
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 422,
+    "Gold": 315,
+    "Red": 273,
+    "White": 401
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "Blue": 132,
+    "Gold": 116,
+    "Red": 115,
+    "White": 125
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Blue": 486,
+    "Gold": 383,
+    "Red": 326,
+    "White": 468
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 482,
+    "Gold": 461,
+    "Red": 369,
+    "White": 470
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 328,
+    "Gold": 296,
+    "Red": 295,
+    "White": 306
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 189,
+    "Gold": 146,
+    "Red": 132,
+    "White": 180
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 261,
+    "Gold": 232,
+    "Red": 229,
+    "White": 247
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 329,
+    "Gold": 266,
+    "Red": 259,
+    "White": 283
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 156,
+    "Gold": 117,
+    "Red": 109,
+    "White": 127
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 413,
+    "Gold": 331,
+    "Red": 333,
+    "White": 354
+   }
+  }
+ ],
+ "id": "ea5e4851-543c-46de-9694-d7ab65bac5bd",
+ "lat": 29.7935032,
+ "lng": -81.3113279,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5659
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5138
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4701
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4151
+  }
+ ]
+}

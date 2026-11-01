@@ -1,0 +1,112 @@
+{
+ "city": "Zephyrhills",
+ "club_name": "Betmar Acres Golf Club Gold Course",
+ "course_name": "Betmar Acres Golf Club Gold Course",
+ "dataset_name": "Betmar Acres Golf Club Gold Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "ladies": 143,
+    "mens": 164
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "ladies": 164,
+    "mens": 196
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "ladies": 129,
+    "mens": 127
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "ladies": 194,
+    "mens": 222
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "ladies": 232,
+    "mens": 274
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "ladies": 107,
+    "mens": 107
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "ladies": 115,
+    "mens": 150
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "ladies": 189,
+    "mens": 258
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "ladies": 119,
+    "mens": 119
+   }
+  }
+ ],
+ "id": "7e291797-26e4-4c10-aead-3bb9b1182e35",
+ "lat": 28.2376749,
+ "lng": -82.201725,
+ "par": 32,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 64,
+   "tee_color": null,
+   "tee_key": "mens-male",
+   "tee_name": "Mens",
+   "yardage": 3234
+  },
+  {
+   "gender": "Female",
+   "par": 64,
+   "tee_color": null,
+   "tee_key": "ladies-female",
+   "tee_name": "Ladies",
+   "yardage": 2784
+  }
+ ]
+}

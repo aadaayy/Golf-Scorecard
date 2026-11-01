@@ -1,0 +1,227 @@
+{
+ "city": "Lady Lake",
+ "club_name": "Sandhill Golf Course",
+ "course_name": "Sandhill Golf Course",
+ "dataset_name": "Sandhill Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 525,
+    "Red": 449,
+    "White": 510
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Blue": 159,
+    "Red": 105,
+    "White": 149
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 379,
+    "Red": 285,
+    "White": 351
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 272,
+    "Red": 257,
+    "White": 267
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 330,
+    "Red": 297,
+    "White": 315
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 382,
+    "Red": 252,
+    "White": 349
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 201,
+    "Red": 108,
+    "White": 166
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Blue": 515,
+    "Red": 469,
+    "White": 500
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 365,
+    "Red": 285,
+    "White": 350
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 351,
+    "Red": 293,
+    "White": 342
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 336,
+    "Red": 318,
+    "White": 330
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 180,
+    "Red": 150,
+    "White": 170
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 375,
+    "Red": 295,
+    "White": 360
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 400,
+    "Red": 342,
+    "White": 385
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 477,
+    "Red": 455,
+    "White": 465
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 188,
+    "Red": 159,
+    "White": 173
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Blue": 488,
+    "Red": 437,
+    "White": 478
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 373,
+    "Red": 315,
+    "White": 360
+   }
+  }
+ ],
+ "id": "b8349ded-261b-4fad-89a8-3158a3d62121",
+ "lat": 28.8712668,
+ "lng": -81.9963097,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6296
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6020
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6020
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5271
+  }
+ ]
+}

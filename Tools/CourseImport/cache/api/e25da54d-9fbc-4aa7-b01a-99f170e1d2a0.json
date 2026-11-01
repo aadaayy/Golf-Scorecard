@@ -1,0 +1,271 @@
+{
+ "city": "Miramar Beach",
+ "club_name": "The Links Golf Club",
+ "course_name": "The Links Golf Club",
+ "dataset_name": "The Links Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Black": 490,
+    "Blue": 465,
+    "Green": 422,
+    "Red": 393,
+    "White": 430
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 164,
+    "Blue": 152,
+    "Green": 128,
+    "Red": 95,
+    "White": 137
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 324,
+    "Blue": 295,
+    "Green": 275,
+    "Red": 244,
+    "White": 286
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 386,
+    "Blue": 376,
+    "Green": 275,
+    "Red": 268,
+    "White": 359
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 396,
+    "Blue": 396,
+    "Green": 232,
+    "Red": 197,
+    "White": 263
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 201,
+    "Blue": 172,
+    "Green": 147,
+    "Red": 110,
+    "White": 157
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 347,
+    "Blue": 312,
+    "Green": 264,
+    "Red": 232,
+    "White": 285
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Black": 503,
+    "Blue": 493,
+    "Green": 415,
+    "Red": 383,
+    "White": 468
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 444,
+    "Blue": 426,
+    "Green": 360,
+    "Red": 316,
+    "White": 390
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Black": 529,
+    "Blue": 493,
+    "Green": 446,
+    "Red": 413,
+    "White": 451
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 131,
+    "Blue": 105,
+    "Green": 87,
+    "Red": 85,
+    "White": 100
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 312,
+    "Blue": 293,
+    "Green": 247,
+    "Red": 200,
+    "White": 275
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 174,
+    "Blue": 150,
+    "Green": 106,
+    "Red": 100,
+    "White": 135
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 413,
+    "Blue": 393,
+    "Green": 335,
+    "Red": 273,
+    "White": 340
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 207,
+    "Blue": 186,
+    "Green": 134,
+    "Red": 119,
+    "White": 148
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 497,
+    "Blue": 457,
+    "Green": 389,
+    "Red": 315,
+    "White": 415
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 264,
+    "Blue": 255,
+    "Green": 222,
+    "Red": 182,
+    "White": 230
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 474,
+    "Blue": 455,
+    "Green": 410,
+    "Red": 316,
+    "White": 425
+   }
+  }
+ ],
+ "id": "e25da54d-9fbc-4aa7-b01a-99f170e1d2a0",
+ "lat": 30.3849,
+ "lng": -86.339156,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6256
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5874
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5294
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4894
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4241
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "city": "Kissimmee",
+ "club_name": "Oaks National Golf Club",
+ "course_name": "Oaks National Golf Club",
+ "dataset_name": "Oaks National Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 390,
+    "gold": 349,
+    "red": 289,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "blue": 485,
+    "gold": 445,
+    "red": 382,
+    "white": 453
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 154,
+    "gold": 125,
+    "red": 76,
+    "white": 138
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 367,
+    "gold": 224,
+    "red": 203,
+    "white": 333
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "blue": 559,
+    "gold": 537,
+    "red": 460,
+    "white": 546
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 244,
+    "gold": 149,
+    "red": 100,
+    "white": 187
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 445,
+    "gold": 347,
+    "red": 325,
+    "white": 410
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 354,
+    "gold": 318,
+    "red": 249,
+    "white": 333
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 361,
+    "gold": 332,
+    "red": 261,
+    "white": 349
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 420,
+    "gold": 386,
+    "red": 317,
+    "white": 412
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 473,
+    "gold": 443,
+    "red": 418,
+    "white": 468
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 194,
+    "gold": 169,
+    "red": 104,
+    "white": 179
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 441,
+    "gold": 357,
+    "red": 334,
+    "white": 420
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 215,
+    "gold": 167,
+    "red": 147,
+    "white": 177
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 549,
+    "gold": 462,
+    "red": 397,
+    "white": 530
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 388,
+    "gold": 361,
+    "red": 300,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 364,
+    "gold": 300,
+    "red": 258,
+    "white": 336
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 393,
+    "gold": 358,
+    "red": 290,
+    "white": 379
+   }
+  }
+ ],
+ "id": "eb55b015-111e-47ca-b8de-972c562fe5df",
+ "lat": 28.2568816,
+ "lng": -81.429248,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6796
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6383
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5829
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4910
+  }
+ ]
+}

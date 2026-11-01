@@ -1,0 +1,287 @@
+{
+ "city": "Jacksonville",
+ "club_name": "Jacksonville Golf Country Club",
+ "course_name": "Jacksonville Golf Country Club",
+ "dataset_name": "Jacksonville Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "allowance": 448,
+    "center": 484,
+    "championship": 498,
+    "forward": 425,
+    "tournament": 519
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "allowance": 306,
+    "center": 343,
+    "championship": 367,
+    "forward": 275,
+    "tournament": 383
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "allowance": 130,
+    "center": 149,
+    "championship": 156,
+    "forward": 117,
+    "tournament": 164
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "allowance": 328,
+    "center": 367,
+    "championship": 393,
+    "forward": 273,
+    "tournament": 413
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "allowance": 297,
+    "center": 316,
+    "championship": 389,
+    "forward": 280,
+    "tournament": 402
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "allowance": 136,
+    "center": 154,
+    "championship": 164,
+    "forward": 124,
+    "tournament": 174
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "allowance": 294,
+    "center": 335,
+    "championship": 357,
+    "forward": 267,
+    "tournament": 377
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "allowance": 437,
+    "center": 481,
+    "championship": 499,
+    "forward": 412,
+    "tournament": 517
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "allowance": 376,
+    "center": 401,
+    "championship": 424,
+    "forward": 338,
+    "tournament": 441
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "allowance": 308,
+    "center": 354,
+    "championship": 372,
+    "forward": 275,
+    "tournament": 386
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "allowance": 302,
+    "center": 340,
+    "championship": 362,
+    "forward": 276,
+    "tournament": 377
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "allowance": 139,
+    "center": 155,
+    "championship": 178,
+    "forward": 125,
+    "tournament": 185
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "allowance": 330,
+    "center": 373,
+    "championship": 391,
+    "forward": 293,
+    "tournament": 408
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "allowance": 453,
+    "center": 484,
+    "championship": 504,
+    "forward": 423,
+    "tournament": 530
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "allowance": 327,
+    "center": 365,
+    "championship": 387,
+    "forward": 292,
+    "tournament": 407
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "allowance": 483,
+    "center": 520,
+    "championship": 535,
+    "forward": 444,
+    "tournament": 555
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "allowance": 141,
+    "center": 163,
+    "championship": 175,
+    "forward": 116,
+    "tournament": 198
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "allowance": 361,
+    "center": 381,
+    "championship": 395,
+    "forward": 317,
+    "tournament": 422
+   }
+  }
+ ],
+ "id": "9b1adcaf-93c9-4c1d-aaa7-9f4081b307ec",
+ "lat": 30.273348,
+ "lng": -81.465983,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 6892
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6595
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "center-female",
+   "tee_name": "Center",
+   "yardage": 6202
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "center-male",
+   "tee_name": "Center",
+   "yardage": 6202
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "allowance-female",
+   "tee_name": "Allowance",
+   "yardage": 5631
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "allowance-male",
+   "tee_name": "Allowance",
+   "yardage": 5631
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 5107
+  }
+ ]
+}

@@ -1,0 +1,303 @@
+{
+ "city": "Longwood",
+ "club_name": "Alaqua Country Club",
+ "course_name": "Alaqua Country Club",
+ "dataset_name": "Alaqua Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 16,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 321,
+    "blue": 238,
+    "gold": 302,
+    "red": 228,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 130,
+    "blue": 97,
+    "gold": 125,
+    "red": 80,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 511,
+    "blue": 439,
+    "gold": 497,
+    "red": 415,
+    "white": 511
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 182,
+    "blue": 120,
+    "gold": 150,
+    "red": 107,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 424,
+    "blue": 361,
+    "gold": 383,
+    "red": 330,
+    "white": 383
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 349,
+    "blue": 289,
+    "gold": 317,
+    "red": 236,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 406,
+    "blue": 317,
+    "gold": 359,
+    "red": 265,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 408,
+    "blue": 325,
+    "gold": 363,
+    "red": 284,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 328,
+    "blue": 285,
+    "gold": 305,
+    "red": 242,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 492,
+    "blue": 442,
+    "gold": 442,
+    "red": 367,
+    "white": 492
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 193,
+    "blue": 127,
+    "gold": 166,
+    "red": 107,
+    "white": 166
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 407,
+    "blue": 326,
+    "gold": 360,
+    "red": 280,
+    "white": 360
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 459,
+    "blue": 349,
+    "gold": 410,
+    "red": 275,
+    "white": 432
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 392,
+    "blue": 338,
+    "gold": 358,
+    "red": 249,
+    "white": 392
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 184,
+    "blue": 137,
+    "gold": 164,
+    "red": 116,
+    "white": 184
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 518,
+    "blue": 433,
+    "gold": 449,
+    "red": 371,
+    "white": 449
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 406,
+    "blue": 352,
+    "gold": 372,
+    "red": 293,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "black": 181,
+    "blue": 135,
+    "gold": 169,
+    "red": 106,
+    "white": 181
+   }
+  }
+ ],
+ "id": "594546eb-d765-4255-bf1f-451fdbb62f52",
+ "lat": 28.7446458,
+ "lng": -81.3973396,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6291
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 6291
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5890
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5691
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5110
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5110
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-red-female",
+   "tee_name": "Blue/Red",
+   "yardage": 4590
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4351
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4351
+  }
+ ]
+}

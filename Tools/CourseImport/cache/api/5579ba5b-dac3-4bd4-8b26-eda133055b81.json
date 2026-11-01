@@ -1,0 +1,30 @@
+{
+ "city": "Mulberry",
+ "club_name": "Anglers Green",
+ "course_name": "Anglers Green",
+ "dataset_name": "Anglers Green",
+ "holes": 18,
+ "holes_data": [],
+ "id": "5579ba5b-dac3-4bd4-8b26-eda133055b81",
+ "lat": 27.9149788,
+ "lng": -81.9774847,
+ "par": null,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 2800
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 2213
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "city": "Nassauville",
+ "club_name": "The Golf Club At North Hampton",
+ "course_name": "The Golf Club At North Hampton",
+ "dataset_name": "The Golf Club At North Hampton",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 394,
+    "blue": 359,
+    "gold": 406,
+    "green": 305,
+    "red": 301,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 599,
+    "blue": 575,
+    "gold": 620,
+    "green": 446,
+    "red": 435,
+    "white": 549
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 183,
+    "blue": 180,
+    "gold": 195,
+    "green": 143,
+    "red": 135,
+    "white": 154
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "blue": 401,
+    "gold": 448,
+    "green": 336,
+    "red": 324,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 362,
+    "blue": 355,
+    "gold": 375,
+    "green": 255,
+    "red": 239,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 500,
+    "blue": 472,
+    "gold": 525,
+    "green": 417,
+    "red": 404,
+    "white": 455
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 169,
+    "blue": 162,
+    "gold": 189,
+    "green": 137,
+    "red": 101,
+    "white": 159
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 358,
+    "blue": 330,
+    "gold": 366,
+    "green": 294,
+    "red": 276,
+    "white": 308
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 357,
+    "blue": 332,
+    "gold": 393,
+    "green": 277,
+    "red": 269,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 304,
+    "blue": 283,
+    "gold": 325,
+    "green": 241,
+    "red": 229,
+    "white": 274
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 392,
+    "blue": 375,
+    "gold": 411,
+    "green": 300,
+    "red": 252,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 530,
+    "blue": 500,
+    "gold": 552,
+    "green": 395,
+    "red": 385,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 411,
+    "blue": 387,
+    "gold": 445,
+    "green": 330,
+    "red": 321,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 196,
+    "blue": 177,
+    "gold": 218,
+    "green": 111,
+    "red": 105,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 560,
+    "blue": 530,
+    "gold": 580,
+    "green": 450,
+    "red": 415,
+    "white": 492
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 434,
+    "blue": 400,
+    "gold": 446,
+    "green": 296,
+    "red": 286,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 137,
+    "blue": 129,
+    "gold": 140,
+    "green": 116,
+    "red": 91,
+    "white": 122
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 403,
+    "blue": 392,
+    "gold": 449,
+    "green": 330,
+    "red": 247,
+    "white": 365
+   }
+  }
+ ],
+ "id": "88a74472-0caa-43e0-85f9-900db2b51ce0",
+ "lat": 30.6016803,
+ "lng": -81.556668,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7080
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6725
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6340
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5857
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5166
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5166
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4697
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "city": "Palm Bay",
+ "club_name": "The Majors Golf Club At Bayside Lakes",
+ "course_name": "The Majors Golf Club At Bayside Lakes",
+ "dataset_name": "The Majors Golf Club At Bayside Lakes",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Competition": 404,
+    "Majors": 456,
+    "Medal": 371,
+    "Senior": 294,
+    "Trophy": 341
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Competition": 176,
+    "Majors": 202,
+    "Medal": 159,
+    "Senior": 118,
+    "Trophy": 142
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Competition": 346,
+    "Majors": 373,
+    "Medal": 320,
+    "Senior": 268,
+    "Trophy": 280
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Competition": 380,
+    "Majors": 403,
+    "Medal": 363,
+    "Senior": 252,
+    "Trophy": 333
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Competition": 209,
+    "Majors": 228,
+    "Medal": 162,
+    "Senior": 131,
+    "Trophy": 155
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Competition": 506,
+    "Majors": 525,
+    "Medal": 474,
+    "Senior": 420,
+    "Trophy": 446
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Competition": 412,
+    "Majors": 429,
+    "Medal": 395,
+    "Senior": 345,
+    "Trophy": 380
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Competition": 367,
+    "Majors": 391,
+    "Medal": 355,
+    "Senior": 287,
+    "Trophy": 328
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Competition": 499,
+    "Majors": 526,
+    "Medal": 473,
+    "Senior": 421,
+    "Trophy": 443
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Competition": 521,
+    "Majors": 562,
+    "Medal": 488,
+    "Senior": 424,
+    "Trophy": 440
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Competition": 199,
+    "Majors": 209,
+    "Medal": 176,
+    "Senior": 135,
+    "Trophy": 160
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Competition": 371,
+    "Majors": 396,
+    "Medal": 352,
+    "Senior": 285,
+    "Trophy": 315
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Competition": 300,
+    "Majors": 345,
+    "Medal": 275,
+    "Senior": 212,
+    "Trophy": 243
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Competition": 393,
+    "Majors": 405,
+    "Medal": 385,
+    "Senior": 229,
+    "Trophy": 247
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Competition": 174,
+    "Majors": 182,
+    "Medal": 148,
+    "Senior": 117,
+    "Trophy": 131
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Competition": 338,
+    "Majors": 355,
+    "Medal": 314,
+    "Senior": 217,
+    "Trophy": 302
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Competition": 499,
+    "Majors": 523,
+    "Medal": 465,
+    "Senior": 402,
+    "Trophy": 445
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Competition": 380,
+    "Majors": 408,
+    "Medal": 341,
+    "Senior": 263,
+    "Trophy": 309
+   }
+  }
+ ],
+ "id": "7f3ab038-eb15-4f10-b241-2a99265f9e73",
+ "lat": 27.9506398,
+ "lng": -80.6541344,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "majors-male",
+   "tee_name": "Majors",
+   "yardage": 6918
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "competition-male",
+   "tee_name": "Competition",
+   "yardage": 6474
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-male",
+   "tee_name": "Medal",
+   "yardage": 6016
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "trophy-female",
+   "tee_name": "Trophy",
+   "yardage": 5440
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "trophy-male",
+   "tee_name": "Trophy",
+   "yardage": 5440
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "senior-female",
+   "tee_name": "Senior",
+   "yardage": 4820
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "senior-male",
+   "tee_name": "Senior",
+   "yardage": 4820
+  }
+ ]
+}

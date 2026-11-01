@@ -1,0 +1,190 @@
+{
+ "city": "Bunnell",
+ "club_name": "Grand Reserve Golf Club",
+ "course_name": "Grand Reserve Golf Club",
+ "dataset_name": "Grand Reserve Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 16,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 358,
+    "blue": 358,
+    "green": 263,
+    "white": 313
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 174,
+    "blue": 174,
+    "green": 111,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 474,
+    "blue": 474,
+    "green": 346,
+    "white": 405
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 404,
+    "blue": 404,
+    "green": 312,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 191,
+    "blue": 150,
+    "green": 114,
+    "white": 150
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 503,
+    "blue": 503,
+    "green": 382,
+    "white": 452
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "blue": 382,
+    "green": 303,
+    "white": 343
+   }
+  }
+ ],
+ "id": "b10c9ff4-9203-49e7-b48d-4b00fa4fde72",
+ "lat": 29.4830045,
+ "lng": -81.2548516,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6401
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6291
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5552
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4704
+  }
+ ]
+}

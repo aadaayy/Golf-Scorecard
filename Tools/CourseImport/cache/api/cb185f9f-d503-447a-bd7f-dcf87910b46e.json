@@ -1,0 +1,297 @@
+{
+ "city": "Lutz",
+ "club_name": "Tpc Tampa Bay",
+ "course_name": "Tpc Tampa Bay",
+ "dataset_name": "Tpc Tampa Bay",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 347,
+    "Blue": 372,
+    "Green": 363,
+    "Red": 309,
+    "TPC": 395,
+    "White": 347
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 161,
+    "Blue": 179,
+    "Green": 172,
+    "Red": 124,
+    "TPC": 191,
+    "White": 161
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 310,
+    "Blue": 404,
+    "Green": 394,
+    "Red": 310,
+    "TPC": 425,
+    "White": 351
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 345,
+    "Blue": 408,
+    "Green": 398,
+    "Red": 304,
+    "TPC": 427,
+    "White": 373
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 293,
+    "Blue": 332,
+    "Green": 310,
+    "Red": 236,
+    "TPC": 332,
+    "White": 293
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 116,
+    "Blue": 133,
+    "Green": 124,
+    "Red": 94,
+    "TPC": 144,
+    "White": 116
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Black": 422,
+    "Blue": 533,
+    "Green": 533,
+    "Red": 422,
+    "TPC": 541,
+    "White": 505
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 316,
+    "Blue": 391,
+    "Green": 382,
+    "Red": 316,
+    "TPC": 414,
+    "White": 363
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 349,
+    "Blue": 435,
+    "Green": 418,
+    "Red": 349,
+    "TPC": 472,
+    "White": 406
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 295,
+    "Blue": 382,
+    "Green": 352,
+    "Red": 295,
+    "TPC": 395,
+    "White": 344
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 136,
+    "Blue": 166,
+    "Green": 159,
+    "Red": 98,
+    "TPC": 179,
+    "White": 136
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 440,
+    "Blue": 487,
+    "Green": 487,
+    "Red": 404,
+    "TPC": 495,
+    "White": 473
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 309,
+    "Blue": 333,
+    "Green": 322,
+    "Red": 255,
+    "TPC": 345,
+    "White": 309
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Black": 455,
+    "Blue": 574,
+    "Green": 538,
+    "Red": 455,
+    "TPC": 588,
+    "White": 528
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 366,
+    "Blue": 438,
+    "Green": 376,
+    "Red": 286,
+    "TPC": 452,
+    "White": 366
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 332,
+    "Blue": 413,
+    "Green": 403,
+    "Red": 332,
+    "TPC": 430,
+    "White": 373
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 147,
+    "Blue": 197,
+    "Green": 187,
+    "Red": 101,
+    "TPC": 217,
+    "White": 160
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 380,
+    "Blue": 443,
+    "Green": 414,
+    "Red": 300,
+    "TPC": 456,
+    "White": 404
+   }
+  }
+ ],
+ "id": "cb185f9f-d503-447a-bd7f-dcf87910b46e",
+ "lat": 28.1548,
+ "lng": -82.528631,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "tpc-male",
+   "tee_name": "TPC",
+   "yardage": 6898
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6620
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6332
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6008
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5519
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4990
+  }
+ ]
+}

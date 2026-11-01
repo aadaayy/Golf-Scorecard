@@ -1,0 +1,347 @@
+{
+ "city": "The Villages",
+ "club_name": "Cane Garden Country Club Jacaranda Allamanda Course",
+ "course_name": "Cane Garden Country Club Jacaranda Allamanda Course",
+ "dataset_name": "Cane Garden Country Club Jacaranda Allamanda Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 580,
+    "blue": 524,
+    "friendly": 339,
+    "gold": 549,
+    "green": 453,
+    "web": 580,
+    "white": 488
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 206,
+    "blue": 156,
+    "friendly": 71,
+    "gold": 180,
+    "green": 109,
+    "web": 206,
+    "white": 131
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 423,
+    "blue": 361,
+    "friendly": 208,
+    "gold": 401,
+    "green": 246,
+    "web": 423,
+    "white": 313
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 441,
+    "blue": 384,
+    "friendly": 265,
+    "gold": 398,
+    "green": 330,
+    "web": 441,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 397,
+    "blue": 346,
+    "friendly": 210,
+    "gold": 371,
+    "green": 247,
+    "web": 397,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 399,
+    "blue": 358,
+    "friendly": 223,
+    "gold": 378,
+    "green": 258,
+    "web": 399,
+    "white": 301
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "blue": 349,
+    "friendly": 260,
+    "gold": 361,
+    "green": 279,
+    "web": 369,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 186,
+    "blue": 133,
+    "friendly": 86,
+    "gold": 160,
+    "green": 86,
+    "web": 186,
+    "white": 111
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 582,
+    "blue": 507,
+    "friendly": 309,
+    "gold": 540,
+    "green": 446,
+    "web": 582,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 414,
+    "blue": 350,
+    "friendly": 183,
+    "gold": 380,
+    "green": 283,
+    "web": 414,
+    "white": 332
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 187,
+    "blue": 136,
+    "friendly": 85,
+    "gold": 155,
+    "green": 85,
+    "web": 187,
+    "white": 113
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 534,
+    "blue": 485,
+    "friendly": 340,
+    "gold": 500,
+    "green": 445,
+    "web": 534,
+    "white": 462
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 423,
+    "blue": 365,
+    "friendly": 236,
+    "gold": 387,
+    "green": 299,
+    "web": 423,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 408,
+    "blue": 356,
+    "friendly": 221,
+    "gold": 377,
+    "green": 279,
+    "web": 408,
+    "white": 311
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 407,
+    "blue": 353,
+    "friendly": 220,
+    "gold": 374,
+    "green": 325,
+    "web": 407,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 224,
+    "blue": 154,
+    "friendly": 110,
+    "gold": 181,
+    "green": 110,
+    "web": 224,
+    "white": 133
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 423,
+    "blue": 379,
+    "friendly": 213,
+    "gold": 401,
+    "green": 282,
+    "web": 423,
+    "white": 318
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 586,
+    "blue": 530,
+    "friendly": 392,
+    "gold": 555,
+    "green": 454,
+    "web": 586,
+    "white": 503
+   }
+  }
+ ],
+ "id": "b6c6a983-0db2-4118-84fb-41dee23a0d3d",
+ "lat": 28.8928427,
+ "lng": -81.994343,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7189
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6648
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6226
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6226
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5632
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5632
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4952
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4952
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 3971
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3971
+  }
+ ]
+}

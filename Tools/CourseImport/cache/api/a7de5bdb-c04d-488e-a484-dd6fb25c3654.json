@@ -1,0 +1,339 @@
+{
+ "city": "Rockledge",
+ "club_name": "Rockledge Country Club",
+ "course_name": "Rockledge Country Club",
+ "dataset_name": "Rockledge Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 451,
+    "black/green": 451,
+    "blue": 502,
+    "gold": 489,
+    "green": 432,
+    "green/red": 315,
+    "web": 506
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 135,
+    "black/green": 135,
+    "blue": 173,
+    "gold": 153,
+    "green": 115,
+    "green/red": 115,
+    "web": 181
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 347,
+    "black/green": 316,
+    "blue": 392,
+    "gold": 370,
+    "green": 316,
+    "green/red": 219,
+    "web": 399
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 365,
+    "black/green": 365,
+    "blue": 389,
+    "gold": 377,
+    "green": 294,
+    "green/red": 294,
+    "web": 385
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 461,
+    "black/green": 422,
+    "blue": 503,
+    "gold": 480,
+    "green": 422,
+    "green/red": 383,
+    "web": 502
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 360,
+    "black/green": 327,
+    "blue": 420,
+    "gold": 395,
+    "green": 327,
+    "green/red": 261,
+    "web": 412
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 333,
+    "black/green": 333,
+    "blue": 411,
+    "gold": 390,
+    "green": 305,
+    "green/red": 255,
+    "web": 421
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 154,
+    "black/green": 154,
+    "blue": 178,
+    "gold": 166,
+    "green": 89,
+    "green/red": 89,
+    "web": 176
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 337,
+    "black/green": 337,
+    "blue": 419,
+    "gold": 399,
+    "green": 313,
+    "green/red": 236,
+    "web": 413
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 294,
+    "black/green": 294,
+    "blue": 327,
+    "gold": 304,
+    "green": 277,
+    "green/red": 277,
+    "web": 362
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 360,
+    "black/green": 302,
+    "blue": 375,
+    "gold": 368,
+    "green": 302,
+    "green/red": 247,
+    "web": 375
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "black/green": 163,
+    "blue": 194,
+    "gold": 179,
+    "green": 148,
+    "green/red": 100,
+    "web": 197
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 397,
+    "black/green": 397,
+    "blue": 491,
+    "gold": 476,
+    "green": 383,
+    "green/red": 383,
+    "web": 493
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "black/green": 163,
+    "blue": 184,
+    "gold": 174,
+    "green": 122,
+    "green/red": 122,
+    "web": 184
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 446,
+    "black/green": 414,
+    "blue": 471,
+    "gold": 458,
+    "green": 414,
+    "green/red": 331,
+    "web": 470
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 342,
+    "black/green": 342,
+    "blue": 379,
+    "gold": 365,
+    "green": 311,
+    "green/red": 252,
+    "web": 377
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 149,
+    "black/green": 149,
+    "blue": 191,
+    "gold": 176,
+    "green": 137,
+    "green/red": 137,
+    "web": 180
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 374,
+    "black/green": 329,
+    "blue": 401,
+    "gold": 386,
+    "green": 329,
+    "green/red": 267,
+    "web": 403
+   }
+  }
+ ],
+ "id": "a7de5bdb-c04d-488e-a484-dd6fb25c3654",
+ "lat": 28.3354252,
+ "lng": -80.7436293,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6436
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6138
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 5651
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5651
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-green-female",
+   "tee_name": "Black/Green",
+   "yardage": 5431
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-green-male",
+   "tee_name": "Black/Green",
+   "yardage": 5431
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5026
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5026
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "red",
+   "tee_key": "green-red-female",
+   "tee_name": "Green/Red",
+   "yardage": 4302
+  }
+ ]
+}

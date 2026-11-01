@@ -1,0 +1,85 @@
+{
+ "city": "Panama City Beach",
+ "club_name": "Legacy Golf Club Executive Course",
+ "course_name": "Legacy Golf Club Executive Course",
+ "dataset_name": "Legacy Golf Club Executive Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "5674b4ba-8590-40bb-a179-ff8246e14297",
+ "lat": 30.2086988,
+ "lng": -85.8413073,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "mens-male",
+   "tee_name": "Mens",
+   "yardage": 1003
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "ladies-female",
+   "tee_name": "Ladies",
+   "yardage": 1003
+  }
+ ]
+}

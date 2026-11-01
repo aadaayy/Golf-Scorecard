@@ -1,0 +1,57 @@
+{
+ "city": "Ponte Vedra Beach",
+ "club_name": "The Yards",
+ "course_name": "The Yards",
+ "dataset_name": "The Yards",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "88d30245-532a-4f02-a21d-fcc11996c55f",
+ "lat": 30.2149317,
+ "lng": -81.3901423,
+ "par": 44,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 44,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 3695
+  },
+  {
+   "gender": "Male",
+   "par": 44,
+   "tee_color": null,
+   "tee_key": "middle-male",
+   "tee_name": "Middle",
+   "yardage": 3246
+  },
+  {
+   "gender": "Male",
+   "par": 44,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 2723
+  }
+ ]
+}

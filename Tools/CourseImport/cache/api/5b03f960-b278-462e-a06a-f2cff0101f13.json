@@ -1,0 +1,215 @@
+{
+ "city": "Leesburg",
+ "club_name": "The Plantation Golf Club Otter Creek Course",
+ "course_name": "The Plantation Golf Club Otter Creek Course",
+ "dataset_name": "The Plantation Golf Club Otter Creek Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Blue": 510,
+    "Gold": 409,
+    "Red": 404,
+    "Teal": 367,
+    "White": 489
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 319,
+    "Gold": 294,
+    "Red": 284,
+    "Teal": 214,
+    "White": 314
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 487,
+    "Gold": 392,
+    "Red": 387,
+    "Teal": 342,
+    "White": 442
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 393,
+    "Gold": 303,
+    "Red": 298,
+    "Teal": 203,
+    "White": 368
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 369,
+    "Gold": 324,
+    "Red": 319,
+    "Teal": 284,
+    "White": 354
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 370,
+    "Gold": 310,
+    "Red": 305,
+    "Teal": 270,
+    "White": 355
+   }
+  }
+ ],
+ "id": "5b03f960-b278-462e-a06a-f2cff0101f13",
+ "lat": 28.7152509,
+ "lng": -81.878285,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6118
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5817
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5236
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5236
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5068
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5068
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "teal-male",
+   "tee_name": "Teal",
+   "yardage": 3892
+  }
+ ]
+}

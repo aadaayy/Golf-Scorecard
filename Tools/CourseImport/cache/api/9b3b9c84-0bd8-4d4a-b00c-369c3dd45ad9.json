@@ -1,0 +1,243 @@
+{
+ "city": "Lutz",
+ "club_name": "Cheval Golf And Athletic Club",
+ "course_name": "Cheval Golf And Athletic Club",
+ "dataset_name": "Cheval Golf And Athletic Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 547,
+    "green": 513,
+    "white": 523
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 385,
+    "green": 355,
+    "white": 362
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 385,
+    "green": 352,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 189,
+    "green": 147,
+    "white": 180
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 417,
+    "green": 348,
+    "white": 389
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 149,
+    "green": 124,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 471,
+    "green": 372,
+    "white": 464
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "green": 137,
+    "white": 149
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 484,
+    "green": 435,
+    "white": 463
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 344,
+    "green": 323,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 347,
+    "green": 308,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 163,
+    "green": 131,
+    "white": 137
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 417,
+    "green": 342,
+    "white": 387
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 349,
+    "green": 318,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 436,
+    "green": 380,
+    "white": 405
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 502,
+    "green": 470,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 184,
+    "green": 156,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 407,
+    "green": 335,
+    "white": 374
+   }
+  }
+ ],
+ "id": "9b3b9c84-0bd8-4d4a-b00c-369c3dd45ad9",
+ "lat": 28.1500127,
+ "lng": -82.5072091,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6961
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6403
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6040
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5671
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5290
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "orange-female",
+   "tee_name": "Orange",
+   "yardage": 4923
+  }
+ ]
+}

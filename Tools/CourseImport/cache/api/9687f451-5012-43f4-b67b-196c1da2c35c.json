@@ -1,0 +1,129 @@
+{
+ "city": "River Ranch",
+ "club_name": "Westgate River Ranch Resort",
+ "course_name": "Westgate River Ranch Resort",
+ "dataset_name": "Westgate River Ranch Resort",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 537,
+    "Red": 417,
+    "White": 517
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 348,
+    "Red": 313,
+    "White": 329
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 375,
+    "Red": 347,
+    "White": 360
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 419,
+    "Red": 313,
+    "White": 403
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 160,
+    "Red": 128,
+    "White": 143
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Blue": 530,
+    "Red": 416,
+    "White": 511
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 182,
+    "Red": 136,
+    "White": 158
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 372,
+    "Red": 292,
+    "White": 356
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 398,
+    "Red": 299,
+    "White": 381
+   }
+  }
+ ],
+ "id": "9687f451-5012-43f4-b67b-196c1da2c35c",
+ "lat": 27.77064,
+ "lng": -81.1928852,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6642
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6316
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5322
+  }
+ ]
+}

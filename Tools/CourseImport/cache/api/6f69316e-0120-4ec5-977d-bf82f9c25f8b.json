@@ -1,0 +1,77 @@
+{
+ "city": "Perry",
+ "club_name": "Perry Golf Country Club",
+ "course_name": "Perry Golf Country Club",
+ "dataset_name": "Perry Golf Country Club",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 18,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  }
+ ],
+ "id": "6f69316e-0120-4ec5-977d-bf82f9c25f8b",
+ "lat": 30.0521305,
+ "lng": -83.6155082,
+ "par": 35,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 35,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3055
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "city": "Winter Park",
+ "club_name": "Pines Golf Course",
+ "course_name": "Pines Golf Course",
+ "dataset_name": "Pines Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 10,
+   "par": 0,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 11,
+   "par": 0,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 12,
+   "par": 0,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 13,
+   "par": 0,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 14,
+   "par": 0,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 15,
+   "par": 0,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 16,
+   "par": 0,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 17,
+   "par": 0,
+   "yardages": null
+  },
+  {
+   "handicap_index": 0,
+   "number": 18,
+   "par": 0,
+   "yardages": null
+  }
+ ],
+ "id": "9fa18096-e48a-437c-9412-8e58e528dc0a",
+ "lat": 28.5850278,
+ "lng": -81.3110315,
+ "par": 35,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5761
+  }
+ ]
+}

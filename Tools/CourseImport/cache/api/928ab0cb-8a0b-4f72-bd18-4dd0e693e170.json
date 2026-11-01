@@ -1,0 +1,329 @@
+{
+ "city": "The Villages",
+ "club_name": "Kenya Hemingway At Havana Country Club",
+ "course_name": "Kenya Hemingway At Havana Country Club",
+ "dataset_name": "Kenya Hemingway At Havana Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 393,
+    "blue": 323,
+    "friendly": 220,
+    "gold": 352,
+    "green": 271,
+    "white": 286
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 379,
+    "blue": 332,
+    "friendly": 235,
+    "gold": 354,
+    "green": 261,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 406,
+    "blue": 372,
+    "friendly": 204,
+    "gold": 401,
+    "green": 303,
+    "white": 326
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 198,
+    "blue": 147,
+    "friendly": 92,
+    "gold": 174,
+    "green": 97,
+    "white": 121
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 577,
+    "blue": 526,
+    "friendly": 336,
+    "gold": 539,
+    "green": 460,
+    "white": 499
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 458,
+    "blue": 390,
+    "friendly": 237,
+    "gold": 431,
+    "green": 306,
+    "white": 343
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 197,
+    "blue": 150,
+    "friendly": 100,
+    "gold": 176,
+    "green": 105,
+    "white": 128
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 548,
+    "blue": 474,
+    "friendly": 314,
+    "gold": 539,
+    "green": 435,
+    "white": 451
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 353,
+    "blue": 307,
+    "friendly": 231,
+    "gold": 324,
+    "green": 237,
+    "white": 259
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 396,
+    "blue": 342,
+    "friendly": 192,
+    "gold": 369,
+    "green": 256,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "blue": 380,
+    "friendly": 274,
+    "gold": 397,
+    "green": 302,
+    "white": 336
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 209,
+    "blue": 162,
+    "friendly": 108,
+    "gold": 183,
+    "green": 110,
+    "white": 131
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 554,
+    "blue": 506,
+    "friendly": 298,
+    "gold": 532,
+    "green": 424,
+    "white": 473
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 237,
+    "blue": 189,
+    "friendly": 70,
+    "gold": 210,
+    "green": 143,
+    "white": 171
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 352,
+    "blue": 295,
+    "friendly": 153,
+    "gold": 317,
+    "green": 239,
+    "white": 274
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 475,
+    "blue": 393,
+    "friendly": 222,
+    "gold": 434,
+    "green": 307,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 522,
+    "blue": 482,
+    "friendly": 278,
+    "gold": 500,
+    "green": 372,
+    "white": 424
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 393,
+    "blue": 362,
+    "friendly": 208,
+    "gold": 389,
+    "green": 286,
+    "white": 328
+   }
+  }
+ ],
+ "id": "928ab0cb-8a0b-4f72-bd18-4dd0e693e170",
+ "lat": 28.8709302,
+ "lng": -81.9657557,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7070
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6621
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6152
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6152
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5513
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5513
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4914
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4914
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3772
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 3772
+  }
+ ]
+}

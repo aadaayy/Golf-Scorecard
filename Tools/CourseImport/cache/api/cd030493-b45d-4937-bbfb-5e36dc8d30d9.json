@@ -1,0 +1,227 @@
+{
+ "city": "Spring Hill",
+ "club_name": "Timber Pines The Lakes Course",
+ "course_name": "Timber Pines The Lakes Course",
+ "dataset_name": "Timber Pines The Lakes Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 274,
+    "red": 215,
+    "white": 243
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 185,
+    "red": 127,
+    "white": 164
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 160,
+    "red": 128,
+    "white": 144
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 228,
+    "red": 169,
+    "white": 212
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 183,
+    "red": 133,
+    "white": 169
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 138,
+    "red": 101,
+    "white": 120
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 142,
+    "red": 101,
+    "white": 129
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 156,
+    "red": 87,
+    "white": 109
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "blue": 165,
+    "red": 113,
+    "white": 143
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 311,
+    "red": 216,
+    "white": 265
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 175,
+    "red": 113,
+    "white": 149
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 122,
+    "red": 96,
+    "white": 115
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 179,
+    "red": 88,
+    "white": 146
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 178,
+    "red": 128,
+    "white": 158
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 318,
+    "red": 257,
+    "white": 284
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 144,
+    "red": 80,
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 227,
+    "red": 179,
+    "white": 198
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 317,
+    "red": 239,
+    "white": 294
+   }
+  }
+ ],
+ "id": "cd030493-b45d-4937-bbfb-5e36dc8d30d9",
+ "lat": 28.4668382,
+ "lng": -82.608784,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3621
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3185
+  },
+  {
+   "gender": "Female",
+   "par": 60,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 3185
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 2656
+  }
+ ]
+}

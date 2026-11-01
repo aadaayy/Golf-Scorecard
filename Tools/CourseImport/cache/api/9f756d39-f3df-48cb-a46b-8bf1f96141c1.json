@@ -1,0 +1,95 @@
+{
+ "city": "Flagler Beach",
+ "club_name": "Ocean Palm Golf Course",
+ "course_name": "Ocean Palm Golf Course",
+ "dataset_name": "Ocean Palm Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "white": 306
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "white": 125
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "white": 312
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "white": 162
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "white": 250
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "white": 366
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "white": 356
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "white": 307
+   }
+  }
+ ],
+ "id": "9f756d39-f3df-48cb-a46b-8bf1f96141c1",
+ "lat": 29.4304065,
+ "lng": -81.1054,
+ "par": 33,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 33,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2033
+  }
+ ]
+}

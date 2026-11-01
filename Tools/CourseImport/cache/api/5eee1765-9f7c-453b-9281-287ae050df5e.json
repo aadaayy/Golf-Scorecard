@@ -1,0 +1,265 @@
+{
+ "city": "Tampa",
+ "club_name": "Palma Ceia Golf Country Club",
+ "course_name": "Palma Ceia Golf Country Club",
+ "dataset_name": "Palma Ceia Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 383,
+    "green": 346,
+    "red": 301,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 321,
+    "green": 307,
+    "red": 301,
+    "white": 314
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "blue": 527,
+    "green": 481,
+    "red": 451,
+    "white": 505
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 139,
+    "green": 112,
+    "red": 106,
+    "white": 125
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 322,
+    "green": 296,
+    "red": 240,
+    "white": 309
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 387,
+    "green": 317,
+    "red": 306,
+    "white": 371
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 401,
+    "green": 359,
+    "red": 318,
+    "white": 374
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 165,
+    "green": 144,
+    "red": 133,
+    "white": 154
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 431,
+    "green": 389,
+    "red": 323,
+    "white": 412
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 345,
+    "green": 319,
+    "red": 306,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 415,
+    "green": 381,
+    "red": 285,
+    "white": 398
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 435,
+    "green": 357,
+    "red": 334,
+    "white": 420
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "green": 144,
+    "red": 118,
+    "white": 163
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 419,
+    "green": 352,
+    "red": 324,
+    "white": 398
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 337,
+    "green": 303,
+    "red": 273,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 352,
+    "green": 320,
+    "red": 310,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 205,
+    "green": 160,
+    "red": 119,
+    "white": 177
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 477,
+    "green": 447,
+    "red": 393,
+    "white": 461
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "5eee1765-9f7c-453b-9281-287ae050df5e",
+ "lat": 27.928247,
+ "lng": -82.4944942,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6211
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5859
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5502
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5502
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5173
+  }
+ ]
+}

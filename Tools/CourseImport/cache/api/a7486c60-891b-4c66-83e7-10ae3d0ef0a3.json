@@ -1,0 +1,341 @@
+{
+ "city": "Brooksville",
+ "club_name": "Southern Hills Plantation",
+ "course_name": "Southern Hills Plantation",
+ "dataset_name": "Southern Hills Plantation",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 255,
+    "Blue": 389,
+    "Blue/White": 348,
+    "Championship": 464,
+    "Red": 317,
+    "Red/Black": 317,
+    "White": 348,
+    "White/Red": 317,
+    "Yellow": 407
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 248,
+    "Blue": 398,
+    "Blue/White": 360,
+    "Championship": 483,
+    "Red": 306,
+    "Red/Black": 306,
+    "White": 360,
+    "White/Red": 360,
+    "Yellow": 408
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 360,
+    "Blue": 494,
+    "Blue/White": 494,
+    "Championship": 565,
+    "Red": 437,
+    "Red/Black": 360,
+    "White": 484,
+    "White/Red": 437,
+    "Yellow": 540
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 112,
+    "Blue": 140,
+    "Blue/White": 140,
+    "Championship": 171,
+    "Red": 118,
+    "Red/Black": 118,
+    "White": 126,
+    "White/Red": 126,
+    "Yellow": 148
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 280,
+    "Blue": 426,
+    "Blue/White": 384,
+    "Championship": 510,
+    "Red": 342,
+    "Red/Black": 342,
+    "White": 384,
+    "White/Red": 342,
+    "Yellow": 450
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 270,
+    "Blue": 370,
+    "Blue/White": 354,
+    "Championship": 389,
+    "Red": 326,
+    "Red/Black": 270,
+    "White": 354,
+    "White/Red": 354,
+    "Yellow": 378
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 351,
+    "Blue": 533,
+    "Blue/White": 533,
+    "Championship": 611,
+    "Red": 439,
+    "Red/Black": 351,
+    "White": 502,
+    "White/Red": 502,
+    "Yellow": 564
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 112,
+    "Blue": 159,
+    "Blue/White": 159,
+    "Championship": 188,
+    "Red": 114,
+    "Red/Black": 114,
+    "White": 138,
+    "White/Red": 138,
+    "Yellow": 166
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 280,
+    "Blue": 425,
+    "Blue/White": 380,
+    "Championship": 483,
+    "Red": 333,
+    "Red/Black": 280,
+    "White": 380,
+    "White/Red": 333,
+    "Yellow": 465
+   }
+  }
+ ],
+ "id": "a7486c60-891b-4c66-83e7-10ae3d0ef0a3",
+ "lat": 28.5100778,
+ "lng": -82.4007176,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7531
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 6891
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6494
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6494
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-female",
+   "tee_name": "Blue/White",
+   "yardage": 6153
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6153
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5968
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5968
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-red-male",
+   "tee_name": "White/Red",
+   "yardage": 5674
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-red-female",
+   "tee_name": "White/Red",
+   "yardage": 5674
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5226
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5226
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-black-male",
+   "tee_name": "Red/Black",
+   "yardage": 4825
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-black-female",
+   "tee_name": "Red/Black",
+   "yardage": 4825
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 4401
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-female",
+   "tee_name": "Black",
+   "yardage": 4401
+  }
+ ]
+}

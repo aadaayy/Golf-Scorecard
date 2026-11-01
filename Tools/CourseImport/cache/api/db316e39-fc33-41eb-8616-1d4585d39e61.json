@@ -1,0 +1,287 @@
+{
+ "city": "Melbourne",
+ "club_name": "Classic At Suntree Country Club",
+ "course_name": "Classic At Suntree Country Club",
+ "dataset_name": "Classic At Suntree Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 404,
+    "blue": 258,
+    "gold": 390,
+    "green": 366,
+    "white": 308
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 563,
+    "blue": 425,
+    "gold": 553,
+    "green": 515,
+    "white": 469
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 178,
+    "blue": 125,
+    "gold": 169,
+    "green": 136,
+    "white": 125
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "blue": 240,
+    "gold": 372,
+    "green": 351,
+    "white": 293
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 534,
+    "blue": 400,
+    "gold": 512,
+    "green": 491,
+    "white": 445
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 347,
+    "blue": 284,
+    "gold": 328,
+    "green": 308,
+    "white": 289
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "blue": 121,
+    "gold": 149,
+    "green": 136,
+    "white": 121
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 428,
+    "blue": 220,
+    "gold": 393,
+    "green": 379,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "blue": 230,
+    "gold": 384,
+    "green": 351,
+    "white": 326
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 522,
+    "blue": 361,
+    "gold": 513,
+    "green": 504,
+    "white": 411
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 360,
+    "blue": 207,
+    "gold": 348,
+    "green": 335,
+    "white": 289
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 438,
+    "blue": 260,
+    "gold": 410,
+    "green": 351,
+    "white": 312
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 412,
+    "blue": 230,
+    "gold": 400,
+    "green": 387,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 201,
+    "blue": 119,
+    "gold": 178,
+    "green": 164,
+    "white": 119
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 409,
+    "blue": 278,
+    "gold": 383,
+    "green": 339,
+    "white": 308
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 206,
+    "blue": 103,
+    "gold": 184,
+    "green": 168,
+    "white": 112
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "blue": 203,
+    "gold": 362,
+    "green": 338,
+    "white": 289
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 579,
+    "blue": 400,
+    "gold": 562,
+    "green": 514,
+    "white": 460
+   }
+  }
+ ],
+ "id": "db316e39-fc33-41eb-8616-1d4585d39e61",
+ "lat": 28.2252141,
+ "lng": -80.6803042,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6953
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6590
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6133
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5343
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5343
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 4504
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 4504
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "city": "Clearwater",
+ "club_name": "Chi Chi Rodriguez Golf Club",
+ "course_name": "Chi Chi Rodriguez Golf Club",
+ "dataset_name": "Chi Chi Rodriguez Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 457,
+    "gold": 401,
+    "white": 441
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 295,
+    "gold": 241,
+    "white": 260
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 155,
+    "gold": 104,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 334,
+    "gold": 281,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 316,
+    "gold": 260,
+    "white": 280
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 174,
+    "gold": 107,
+    "white": 148
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 288,
+    "gold": 253,
+    "white": 275
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 190,
+    "gold": 138,
+    "white": 167
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 376,
+    "gold": 344,
+    "white": 366
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 329,
+    "gold": 277,
+    "white": 309
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 143,
+    "gold": 86,
+    "white": 120
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 362,
+    "gold": 301,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "blue": 458,
+    "gold": 369,
+    "white": 416
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 310,
+    "gold": 244,
+    "white": 284
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 168,
+    "gold": 111,
+    "white": 138
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 343,
+    "gold": 239,
+    "white": 304
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 154,
+    "gold": 122,
+    "white": 137
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 461,
+    "gold": 411,
+    "white": 425
+   }
+  }
+ ],
+ "id": "9de50d3d-2f48-48fc-b1df-edc50203f406",
+ "lat": 28.030953,
+ "lng": -82.710453,
+ "par": 69,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 69,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5454
+  },
+  {
+   "gender": "Male",
+   "par": 69,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 4796
+  },
+  {
+   "gender": "Female",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 3929
+  }
+ ]
+}

@@ -1,0 +1,297 @@
+{
+ "city": "Tampa",
+ "club_name": "Westchase Golf Club",
+ "course_name": "Westchase Golf Club",
+ "dataset_name": "Westchase Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 326,
+    "Championship": 326,
+    "Clifton": 297,
+    "Clifton/Club": 297,
+    "Club": 253,
+    "Forward": 227
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Champion/Clifton": 508,
+    "Championship": 532,
+    "Clifton": 508,
+    "Clifton/Club": 494,
+    "Club": 494,
+    "Forward": 425
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Champion/Clifton": 177,
+    "Championship": 205,
+    "Clifton": 177,
+    "Clifton/Club": 117,
+    "Club": 117,
+    "Forward": 77
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 368,
+    "Championship": 368,
+    "Clifton": 336,
+    "Clifton/Club": 336,
+    "Club": 254,
+    "Forward": 254
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 391,
+    "Championship": 416,
+    "Clifton": 391,
+    "Clifton/Club": 365,
+    "Club": 365,
+    "Forward": 303
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 376,
+    "Championship": 409,
+    "Clifton": 376,
+    "Clifton/Club": 376,
+    "Club": 352,
+    "Forward": 261
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Champion/Clifton": 160,
+    "Championship": 160,
+    "Clifton": 123,
+    "Clifton/Club": 123,
+    "Club": 96,
+    "Forward": 80
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Champion/Clifton": 486,
+    "Championship": 513,
+    "Clifton": 486,
+    "Clifton/Club": 486,
+    "Club": 458,
+    "Forward": 389
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 373,
+    "Championship": 402,
+    "Clifton": 373,
+    "Clifton/Club": 347,
+    "Club": 347,
+    "Forward": 289
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Champion/Clifton": 472,
+    "Championship": 499,
+    "Clifton": 472,
+    "Clifton/Club": 472,
+    "Club": 459,
+    "Forward": 408
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Champion/Clifton": 166,
+    "Championship": 185,
+    "Clifton": 166,
+    "Clifton/Club": 144,
+    "Club": 144,
+    "Forward": 79
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 359,
+    "Championship": 359,
+    "Clifton": 334,
+    "Clifton/Club": 334,
+    "Club": 319,
+    "Forward": 227
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Champion/Clifton": 493,
+    "Championship": 493,
+    "Clifton": 446,
+    "Clifton/Club": 446,
+    "Club": 430,
+    "Forward": 405
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 352,
+    "Championship": 352,
+    "Clifton": 291,
+    "Clifton/Club": 291,
+    "Club": 274,
+    "Forward": 240
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Champion/Clifton": 152,
+    "Championship": 152,
+    "Clifton": 125,
+    "Clifton/Club": 125,
+    "Club": 125,
+    "Forward": 102
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 308,
+    "Championship": 342,
+    "Clifton": 308,
+    "Clifton/Club": 308,
+    "Club": 296,
+    "Forward": 237
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 367,
+    "Championship": 394,
+    "Clifton": 367,
+    "Clifton/Club": 349,
+    "Club": 349,
+    "Forward": 274
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Champion/Clifton": 380,
+    "Championship": 380,
+    "Clifton": 347,
+    "Clifton/Club": 347,
+    "Club": 333,
+    "Forward": 239
+   }
+  }
+ ],
+ "id": "94dc81ad-73b7-41bc-8ff9-e45803a79815",
+ "lat": 28.0478528,
+ "lng": -82.6160528,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6487
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champion-clifton-male",
+   "tee_name": "Champion/Clifton",
+   "yardage": 6214
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "clifton-male",
+   "tee_name": "Clifton",
+   "yardage": 5923
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "clifton-club-male",
+   "tee_name": "Clifton/Club",
+   "yardage": 5757
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "club-male",
+   "tee_name": "Club",
+   "yardage": 5465
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 4516
+  }
+ ]
+}

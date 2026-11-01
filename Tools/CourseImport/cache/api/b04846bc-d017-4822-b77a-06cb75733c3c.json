@@ -1,0 +1,349 @@
+{
+ "city": "Ponte Vedra Beach",
+ "club_name": "Sawgrass Country Club South West",
+ "course_name": "Sawgrass Country Club South West",
+ "dataset_name": "Sawgrass Country Club South West",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 387,
+    "Blue/White": 370,
+    "Gold": 407,
+    "Green": 340,
+    "Green/Red": 340,
+    "Red": 314,
+    "White": 370,
+    "White/Green": 340
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Blue": 517,
+    "Blue/White": 517,
+    "Gold": 566,
+    "Green": 458,
+    "Green/Red": 458,
+    "Red": 419,
+    "White": 490,
+    "White/Green": 458
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 165,
+    "Blue/White": 165,
+    "Gold": 196,
+    "Green": 131,
+    "Green/Red": 131,
+    "Red": 116,
+    "White": 156,
+    "White/Green": 156
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 430,
+    "Blue/White": 407,
+    "Gold": 463,
+    "Green": 374,
+    "Green/Red": 352,
+    "Red": 352,
+    "White": 407,
+    "White/Green": 374
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 369,
+    "Blue/White": 369,
+    "Gold": 378,
+    "Green": 321,
+    "Green/Red": 294,
+    "Red": 294,
+    "White": 351,
+    "White/Green": 351
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 188,
+    "Blue/White": 168,
+    "Gold": 201,
+    "Green": 149,
+    "Green/Red": 149,
+    "Red": 107,
+    "White": 168,
+    "White/Green": 149
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 356,
+    "Blue/White": 356,
+    "Gold": 381,
+    "Green": 294,
+    "Green/Red": 294,
+    "Red": 256,
+    "White": 333,
+    "White/Green": 333
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 407,
+    "Blue/White": 387,
+    "Gold": 433,
+    "Green": 352,
+    "Green/Red": 320,
+    "Red": 320,
+    "White": 387,
+    "White/Green": 352
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Blue": 509,
+    "Blue/White": 509,
+    "Gold": 525,
+    "Green": 450,
+    "Green/Red": 450,
+    "Red": 416,
+    "White": 486,
+    "White/Green": 486
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 385,
+    "Blue/White": 385,
+    "Gold": 404,
+    "Green": 353,
+    "Green/Red": 353,
+    "Red": 266,
+    "White": 372,
+    "White/Green": 353
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 150,
+    "Blue/White": 140,
+    "Gold": 165,
+    "Green": 130,
+    "Green/Red": 130,
+    "Red": 120,
+    "White": 140,
+    "White/Green": 140
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 377,
+    "Blue/White": 329,
+    "Gold": 412,
+    "Green": 317,
+    "Green/Red": 317,
+    "Red": 294,
+    "White": 329,
+    "White/Green": 329
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 404,
+    "Blue/White": 404,
+    "Gold": 422,
+    "Green": 364,
+    "Green/Red": 354,
+    "Red": 354,
+    "White": 384,
+    "White/Green": 364
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 425,
+    "Blue/White": 400,
+    "Gold": 445,
+    "Green": 366,
+    "Green/Red": 311,
+    "Red": 311,
+    "White": 400,
+    "White/Green": 366
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 522,
+    "Blue/White": 522,
+    "Gold": 548,
+    "Green": 436,
+    "Green/Red": 436,
+    "Red": 409,
+    "White": 496,
+    "White/Green": 496
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 171,
+    "Blue/White": 171,
+    "Gold": 183,
+    "Green": 142,
+    "Green/Red": 120,
+    "Red": 120,
+    "White": 153,
+    "White/Green": 153
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 388,
+    "Blue/White": 361,
+    "Gold": 412,
+    "Green": 331,
+    "Green/Red": 331,
+    "Red": 291,
+    "White": 361,
+    "White/Green": 331
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 503,
+    "Blue/White": 503,
+    "Gold": 522,
+    "Green": 417,
+    "Green/Red": 396,
+    "Red": 396,
+    "White": 465,
+    "White/Green": 465
+   }
+  }
+ ],
+ "id": "b04846bc-d017-4822-b77a-06cb75733c3c",
+ "lat": 30.1880178,
+ "lng": -81.3702317,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7063
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6653
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6463
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6248
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-green-male",
+   "tee_name": "White/Green",
+   "yardage": 5996
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5725
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-red-male",
+   "tee_name": "Green/Red",
+   "yardage": 5536
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5155
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "city": "Tallahassee",
+ "club_name": "Southwood Golf Club",
+ "course_name": "Southwood Golf Club",
+ "dataset_name": "Southwood Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Black": 562,
+    "Blue": 409,
+    "Garnet": 496,
+    "Garnet/Green": 496,
+    "Gold": 530,
+    "Green": 409,
+    "web": 562
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 327,
+    "Blue": 213,
+    "Garnet": 283,
+    "Garnet/Green": 283,
+    "Gold": 303,
+    "Green": 271,
+    "web": 335
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 445,
+    "Blue": 200,
+    "Garnet": 391,
+    "Garnet/Green": 322,
+    "Gold": 414,
+    "Green": 322,
+    "web": 455
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 195,
+    "Blue": 89,
+    "Garnet": 138,
+    "Garnet/Green": 138,
+    "Gold": 186,
+    "Green": 135,
+    "web": 202
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 415,
+    "Blue": 306,
+    "Garnet": 356,
+    "Garnet/Green": 356,
+    "Gold": 382,
+    "Green": 306,
+    "web": 412
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 446,
+    "Blue": 244,
+    "Garnet": 337,
+    "Garnet/Green": 333,
+    "Gold": 406,
+    "Green": 333,
+    "web": 443
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 536,
+    "Blue": 392,
+    "Garnet": 479,
+    "Garnet/Green": 479,
+    "Gold": 521,
+    "Green": 392,
+    "web": 541
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 206,
+    "Blue": 92,
+    "Garnet": 129,
+    "Garnet/Green": 129,
+    "Gold": 167,
+    "Green": 123,
+    "web": 207
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 429,
+    "Blue": 323,
+    "Garnet": 375,
+    "Garnet/Green": 375,
+    "Gold": 408,
+    "Green": 323,
+    "web": 427
+   }
+  }
+ ],
+ "id": "7c1ebb1d-3c8f-4b49-bdcc-0d9ccad997aa",
+ "lat": 30.3955828,
+ "lng": -84.2184501,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7152
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6631
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "garnet-female",
+   "tee_name": "Garnet",
+   "yardage": 6030
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "garnet-male",
+   "tee_name": "Garnet",
+   "yardage": 6030
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "garnet-green-female",
+   "tee_name": "Garnet/Green",
+   "yardage": 5775
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "garnet-green-male",
+   "tee_name": "Garnet/Green",
+   "yardage": 5775
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5266
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5266
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 4512
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 4512
+  }
+ ]
+}

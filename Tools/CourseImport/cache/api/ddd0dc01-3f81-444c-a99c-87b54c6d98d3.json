@@ -1,0 +1,245 @@
+{
+ "city": "Dade City",
+ "club_name": "Scotland Yards Golf Club",
+ "course_name": "Scotland Yards Golf Club",
+ "dataset_name": "Scotland Yards Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 387,
+    "Gold": 297,
+    "Red": 235,
+    "White": 336
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 373,
+    "Gold": 278,
+    "Red": 248,
+    "White": 299
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Blue": 535,
+    "Gold": 399,
+    "Red": 390,
+    "White": 467
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 414,
+    "Gold": 336,
+    "Red": 304,
+    "White": 353
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Blue": 508,
+    "Gold": 452,
+    "Red": 387,
+    "White": 489
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 164,
+    "Gold": 148,
+    "Red": 119,
+    "White": 155
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 360,
+    "Gold": 285,
+    "Red": 235,
+    "White": 322
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 204,
+    "Gold": 114,
+    "Red": 92,
+    "White": 129
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Blue": 526,
+    "Gold": 477,
+    "Red": 415,
+    "White": 511
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 320,
+    "Gold": 259,
+    "Red": 236,
+    "White": 295
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 179,
+    "Gold": 138,
+    "Red": 125,
+    "White": 159
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 500,
+    "Gold": 431,
+    "Red": 398,
+    "White": 478
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 369,
+    "Gold": 279,
+    "Red": 269,
+    "White": 342
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 363,
+    "Gold": 298,
+    "Red": 260,
+    "White": 327
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Blue": 528,
+    "Gold": 436,
+    "Red": 425,
+    "White": 484
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 175,
+    "Gold": 143,
+    "Red": 108,
+    "White": 155
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 383,
+    "Gold": 288,
+    "Red": 255,
+    "White": 335
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "Blue": 172,
+    "Gold": 119,
+    "Red": 109,
+    "White": 160
+   }
+  }
+ ],
+ "id": "ddd0dc01-3f81-444c-a99c-87b54c6d98d3",
+ "lat": 28.2939127,
+ "lng": -82.1828715,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6460
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5796
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5177
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4610
+  }
+ ]
+}

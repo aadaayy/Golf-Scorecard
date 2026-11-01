@@ -1,0 +1,271 @@
+{
+ "city": "Brooksville",
+ "club_name": "Hernando Oaks Golf Country Club",
+ "course_name": "Hernando Oaks Golf Country Club",
+ "dataset_name": "Hernando Oaks Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 352,
+    "gold": 377,
+    "orange": 325,
+    "red": 299,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 396,
+    "gold": 421,
+    "orange": 358,
+    "red": 312,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 170,
+    "gold": 193,
+    "orange": 136,
+    "red": 98,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 520,
+    "gold": 552,
+    "orange": 485,
+    "red": 459,
+    "white": 511
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 399,
+    "gold": 410,
+    "orange": 313,
+    "red": 288,
+    "white": 389
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 281,
+    "gold": 289,
+    "orange": 216,
+    "red": 188,
+    "white": 256
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 178,
+    "gold": 200,
+    "orange": 119,
+    "red": 112,
+    "white": 156
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 529,
+    "gold": 556,
+    "orange": 447,
+    "red": 443,
+    "white": 493
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 372,
+    "gold": 404,
+    "orange": 337,
+    "red": 298,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 381,
+    "gold": 404,
+    "orange": 362,
+    "red": 325,
+    "white": 370
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 181,
+    "gold": 215,
+    "orange": 136,
+    "red": 98,
+    "white": 153
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 399,
+    "gold": 417,
+    "orange": 281,
+    "red": 277,
+    "white": 311
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 368,
+    "gold": 391,
+    "orange": 312,
+    "red": 304,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 351,
+    "gold": 384,
+    "orange": 323,
+    "red": 297,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 507,
+    "gold": 538,
+    "orange": 447,
+    "red": 441,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "gold": 191,
+    "orange": 127,
+    "red": 102,
+    "white": 146
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 403,
+    "gold": 429,
+    "orange": 341,
+    "red": 344,
+    "white": 394
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 513,
+    "gold": 538,
+    "orange": 419,
+    "red": 419,
+    "white": 479
+   }
+  }
+ ],
+ "id": "b107967c-db47-4adc-9707-a544c251615c",
+ "lat": 28.5080642,
+ "lng": -82.4307098,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6905
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6430
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6297
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 5777
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5099
+  }
+ ]
+}

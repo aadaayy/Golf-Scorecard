@@ -1,0 +1,207 @@
+{
+ "city": "Howey-In-The-Hills",
+ "club_name": "Mission Inn Resort Club Las Colinas Course",
+ "course_name": "Mission Inn Resort Club Las Colinas Course",
+ "dataset_name": "Mission Inn Resort Club Las Colinas Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 14,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 14,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 236,
+    "blue": 218,
+    "challenger": 136,
+    "gold": 136,
+    "red": 136,
+    "white": 189
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 420,
+    "blue": 410,
+    "challenger": 347,
+    "gold": 327,
+    "red": 259,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 416,
+    "blue": 396,
+    "challenger": 378,
+    "gold": 314,
+    "red": 299,
+    "white": 378
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 561,
+    "blue": 510,
+    "challenger": 480,
+    "gold": 426,
+    "red": 408,
+    "white": 480
+   }
+  }
+ ],
+ "id": "c3eee049-af2f-400b-87c5-3ca70508bdfb",
+ "lat": 28.7255181,
+ "lng": -81.7823192,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7230
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6829
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6365
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "challenger-male",
+   "tee_name": "Challenger",
+   "yardage": 6029
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5608
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5608
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4922
+  }
+ ]
+}

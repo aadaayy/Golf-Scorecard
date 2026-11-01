@@ -1,0 +1,347 @@
+{
+ "city": "Haines City",
+ "club_name": "Southern Dunes Golf Country Club",
+ "course_name": "Southern Dunes Golf Country Club",
+ "dataset_name": "Southern Dunes Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 425,
+    "Blue": 388,
+    "Blue/White": 388,
+    "Gold": 292,
+    "Red": 245,
+    "White": 349,
+    "White/Gold": 349
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 375,
+    "Blue": 353,
+    "Blue/White": 353,
+    "Gold": 283,
+    "Red": 250,
+    "White": 327,
+    "White/Gold": 327
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 233,
+    "Blue": 219,
+    "Blue/White": 192,
+    "Gold": 125,
+    "Red": 94,
+    "White": 192,
+    "White/Gold": 125
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 566,
+    "Blue": 525,
+    "Blue/White": 480,
+    "Gold": 443,
+    "Red": 386,
+    "White": 480,
+    "White/Gold": 443
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 353,
+    "Blue": 340,
+    "Blue/White": 340,
+    "Gold": 272,
+    "Red": 231,
+    "White": 315,
+    "White/Gold": 272
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 185,
+    "Blue": 172,
+    "Blue/White": 172,
+    "Gold": 127,
+    "Red": 92,
+    "White": 162,
+    "White/Gold": 162
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 445,
+    "Blue": 427,
+    "Blue/White": 395,
+    "Gold": 361,
+    "Red": 335,
+    "White": 395,
+    "White/Gold": 361
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Black": 413,
+    "Blue": 393,
+    "Blue/White": 363,
+    "Gold": 327,
+    "Red": 305,
+    "White": 363,
+    "White/Gold": 327
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 561,
+    "Blue": 533,
+    "Blue/White": 533,
+    "Gold": 452,
+    "Red": 404,
+    "White": 500,
+    "White/Gold": 500
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 470,
+    "Blue": 451,
+    "Blue/White": 416,
+    "Gold": 376,
+    "Red": 340,
+    "White": 416,
+    "White/Gold": 376
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 215,
+    "Blue": 186,
+    "Blue/White": 186,
+    "Gold": 130,
+    "Red": 105,
+    "White": 165,
+    "White/Gold": 165
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 555,
+    "Blue": 517,
+    "Blue/White": 517,
+    "Gold": 456,
+    "Red": 417,
+    "White": 480,
+    "White/Gold": 456
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 454,
+    "Blue": 422,
+    "Blue/White": 393,
+    "Gold": 338,
+    "Red": 291,
+    "White": 393,
+    "White/Gold": 338
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Black": 165,
+    "Blue": 150,
+    "Blue/White": 150,
+    "Gold": 114,
+    "Red": 87,
+    "White": 131,
+    "White/Gold": 131
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Black": 362,
+    "Blue": 344,
+    "Blue/White": 344,
+    "Gold": 295,
+    "Red": 251,
+    "White": 321,
+    "White/Gold": 321
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 542,
+    "Blue": 520,
+    "Blue/White": 520,
+    "Gold": 462,
+    "Red": 429,
+    "White": 497,
+    "White/Gold": 462
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 414,
+    "Blue": 385,
+    "Blue/White": 369,
+    "Gold": 330,
+    "Red": 288,
+    "White": 369,
+    "White/Gold": 330
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 459,
+    "Blue": 412,
+    "Blue/White": 365,
+    "Gold": 315,
+    "Red": 275,
+    "White": 365,
+    "White/Gold": 365
+   }
+  }
+ ],
+ "id": "808f11f8-5cb1-42c3-af73-d8b15a659fc1",
+ "lat": 28.127923,
+ "lng": -81.624577,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7192
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6737
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue/White",
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 6476
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6220
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6220
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White/Gold",
+   "tee_key": "white-gold-male",
+   "tee_name": "White/Gold",
+   "yardage": 5810
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White/Gold",
+   "tee_key": "white-gold-female",
+   "tee_name": "White/Gold",
+   "yardage": 5810
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5498
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5498
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4825
+  }
+ ]
+}

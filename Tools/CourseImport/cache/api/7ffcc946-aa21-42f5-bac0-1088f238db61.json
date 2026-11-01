@@ -1,0 +1,245 @@
+{
+ "city": "Kissimmee",
+ "club_name": "Falcons Fire Golf Club",
+ "course_name": "Falcons Fire Golf Club",
+ "dataset_name": "Falcons Fire Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 374,
+    "gold": 399,
+    "red": 323,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 340,
+    "gold": 357,
+    "red": 313,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 146,
+    "gold": 199,
+    "red": 115,
+    "white": 140
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 462,
+    "gold": 481,
+    "red": 386,
+    "white": 440
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 425,
+    "gold": 447,
+    "red": 348,
+    "white": 378
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 320,
+    "gold": 403,
+    "red": 273,
+    "white": 302
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 526,
+    "gold": 550,
+    "red": 442,
+    "white": 495
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 201,
+    "gold": 218,
+    "red": 106,
+    "white": 156
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 345,
+    "gold": 371,
+    "red": 293,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 517,
+    "gold": 538,
+    "red": 461,
+    "white": 490
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "blue": 155,
+    "gold": 181,
+    "red": 107,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 424,
+    "gold": 447,
+    "red": 361,
+    "white": 396
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 362,
+    "gold": 379,
+    "red": 289,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 519,
+    "gold": 610,
+    "red": 450,
+    "white": 487
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 137,
+    "gold": 158,
+    "red": 103,
+    "white": 117
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 337,
+    "gold": 363,
+    "red": 292,
+    "white": 315
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 397,
+    "gold": 441,
+    "red": 325,
+    "white": 369
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 448,
+    "gold": 473,
+    "red": 401,
+    "white": 420
+   }
+  }
+ ],
+ "id": "7ffcc946-aa21-42f5-bac0-1088f238db61",
+ "lat": 28.3437805,
+ "lng": -81.5042877,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7006
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6435
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5962
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5388
+  }
+ ]
+}

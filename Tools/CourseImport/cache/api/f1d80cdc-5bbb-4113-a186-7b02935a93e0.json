@@ -1,0 +1,129 @@
+{
+ "city": "Kissimmee",
+ "club_name": "Cranes Bend At Orange Lake Resort",
+ "course_name": "Cranes Bend At Orange Lake Resort",
+ "dataset_name": "Cranes Bend At Orange Lake Resort",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "teal": 119,
+    "white": 100,
+    "yellow": 83
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "teal": 114,
+    "white": 101,
+    "yellow": 65
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "teal": 142,
+    "white": 124,
+    "yellow": 107
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "teal": 360,
+    "white": 326,
+    "yellow": 307
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "teal": 337,
+    "white": 295,
+    "yellow": 253
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "teal": 184,
+    "white": 152,
+    "yellow": 126
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "teal": 168,
+    "white": 154,
+    "yellow": 114
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "teal": 123,
+    "white": 111,
+    "yellow": 100
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "teal": 354,
+    "white": 304,
+    "yellow": 187
+   }
+  }
+ ],
+ "id": "f1d80cdc-5bbb-4113-a186-7b02935a93e0",
+ "lat": 28.3688919,
+ "lng": -81.60375,
+ "par": 30,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "teal-male",
+   "tee_name": "Teal",
+   "yardage": 1901
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1667
+  },
+  {
+   "gender": "Male",
+   "par": 30,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 1342
+  }
+ ]
+}

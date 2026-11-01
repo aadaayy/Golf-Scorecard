@@ -1,0 +1,313 @@
+{
+ "city": "Kissimmee",
+ "club_name": "Celebration Golf Club",
+ "course_name": "Celebration Golf Club",
+ "dataset_name": "Celebration Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 370,
+    "black/gold": 370,
+    "gold": 333,
+    "gold/silver": 333,
+    "silver": 309,
+    "white": 298
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 379,
+    "black/gold": 379,
+    "gold": 354,
+    "gold/silver": 354,
+    "silver": 352,
+    "white": 238
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 198,
+    "black/gold": 171,
+    "gold": 171,
+    "gold/silver": 161,
+    "silver": 161,
+    "white": 149
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 510,
+    "black/gold": 510,
+    "gold": 476,
+    "gold/silver": 431,
+    "silver": 431,
+    "white": 383
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 156,
+    "black/gold": 156,
+    "gold": 143,
+    "gold/silver": 143,
+    "silver": 132,
+    "white": 106
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 507,
+    "black/gold": 475,
+    "gold": 475,
+    "gold/silver": 440,
+    "silver": 440,
+    "white": 391
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 440,
+    "black/gold": 412,
+    "gold": 412,
+    "gold/silver": 373,
+    "silver": 373,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 399,
+    "black/gold": 377,
+    "gold": 377,
+    "gold/silver": 287,
+    "silver": 287,
+    "white": 261
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 380,
+    "black/gold": 380,
+    "gold": 344,
+    "gold/silver": 344,
+    "silver": 309,
+    "white": 275
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 327,
+    "black/gold": 327,
+    "gold": 306,
+    "gold/silver": 306,
+    "silver": 275,
+    "white": 253
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 445,
+    "black/gold": 415,
+    "gold": 415,
+    "gold/silver": 382,
+    "silver": 382,
+    "white": 336
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 571,
+    "black/gold": 571,
+    "gold": 563,
+    "gold/silver": 504,
+    "silver": 504,
+    "white": 481
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 196,
+    "black/gold": 196,
+    "gold": 187,
+    "gold/silver": 187,
+    "silver": 145,
+    "white": 131
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 395,
+    "black/gold": 380,
+    "gold": 380,
+    "gold/silver": 380,
+    "silver": 342,
+    "white": 307
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 328,
+    "black/gold": 328,
+    "gold": 317,
+    "gold/silver": 317,
+    "silver": 272,
+    "white": 231
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 194,
+    "black/gold": 188,
+    "gold": 188,
+    "gold/silver": 168,
+    "silver": 168,
+    "white": 119
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 383,
+    "black/gold": 383,
+    "gold": 342,
+    "gold/silver": 342,
+    "silver": 312,
+    "white": 283
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 579,
+    "black/gold": 557,
+    "gold": 557,
+    "gold/silver": 517,
+    "silver": 517,
+    "white": 462
+   }
+  }
+ ],
+ "id": "66ba7aae-c423-4740-8db1-75edffeeaa70",
+ "lat": 28.3234004,
+ "lng": -81.5421158,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7023
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-gold-male",
+   "tee_name": "Black/Gold",
+   "yardage": 6817
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6562
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-silver-male",
+   "tee_name": "Gold/Silver",
+   "yardage": 6259
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-female",
+   "tee_name": "Silver",
+   "yardage": 5958
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5958
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5181
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5181
+  }
+ ]
+}

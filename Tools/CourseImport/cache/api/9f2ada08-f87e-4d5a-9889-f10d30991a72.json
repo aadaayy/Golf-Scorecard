@@ -1,0 +1,297 @@
+{
+ "city": "Pensacola",
+ "club_name": "Scenic Hills Country Club",
+ "course_name": "Scenic Hills Country Club",
+ "dataset_name": "Scenic Hills Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 427,
+    "Gold": 446,
+    "Orange": 398,
+    "Purple": 345,
+    "Red": 392,
+    "White": 417
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Blue": 462,
+    "Gold": 487,
+    "Orange": 412,
+    "Purple": 260,
+    "Red": 300,
+    "White": 435
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 383,
+    "Gold": 412,
+    "Orange": 342,
+    "Purple": 296,
+    "Red": 337,
+    "White": 375
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Blue": 152,
+    "Gold": 159,
+    "Orange": 126,
+    "Purple": 93,
+    "Red": 121,
+    "White": 148
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Blue": 359,
+    "Gold": 386,
+    "Orange": 331,
+    "Purple": 269,
+    "Red": 324,
+    "White": 349
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 321,
+    "Gold": 346,
+    "Orange": 301,
+    "Purple": 241,
+    "Red": 293,
+    "White": 311
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 401,
+    "Gold": 433,
+    "Orange": 345,
+    "Purple": 284,
+    "Red": 340,
+    "White": 393
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 179,
+    "Gold": 201,
+    "Orange": 150,
+    "Purple": 115,
+    "Red": 146,
+    "White": 171
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 399,
+    "Gold": 438,
+    "Orange": 329,
+    "Purple": 244,
+    "Red": 322,
+    "White": 359
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Gold": 375,
+    "Orange": 319,
+    "Purple": 289,
+    "Red": 315,
+    "White": 339
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 308,
+    "Gold": 338,
+    "Orange": 263,
+    "Purple": 163,
+    "Red": 210,
+    "White": 291
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Blue": 210,
+    "Gold": 219,
+    "Orange": 92,
+    "Purple": 73,
+    "Red": 73,
+    "White": 194
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 397,
+    "Gold": 419,
+    "Orange": 315,
+    "Purple": 262,
+    "Red": 309,
+    "White": 387
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 337,
+    "Gold": 358,
+    "Orange": 244,
+    "Purple": 207,
+    "Red": 238,
+    "White": 327
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 411,
+    "Gold": 431,
+    "Orange": 314,
+    "Purple": 257,
+    "Red": 310,
+    "White": 389
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 171,
+    "Gold": 192,
+    "Orange": 137,
+    "Purple": 114,
+    "Red": 133,
+    "White": 161
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Blue": 483,
+    "Gold": 507,
+    "Orange": 403,
+    "Purple": 325,
+    "Red": 398,
+    "White": 473
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 385,
+    "Gold": 432,
+    "Orange": 305,
+    "Purple": 266,
+    "Red": 299,
+    "White": 380
+   }
+  }
+ ],
+ "id": "9f2ada08-f87e-4d5a-9889-f10d30991a72",
+ "lat": 30.5432398,
+ "lng": -87.2356051,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6579
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6135
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5899
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 5126
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4860
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "purple-male",
+   "tee_name": "Purple",
+   "yardage": 4103
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "city": "Zellwood",
+ "club_name": "Zellwood Station Country Club",
+ "course_name": "Zellwood Station Country Club",
+ "dataset_name": "Zellwood Station Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 400,
+    "green": 329,
+    "red": 230,
+    "white": 380
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 134,
+    "green": 84,
+    "red": 64,
+    "white": 113
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "blue": 550,
+    "green": 471,
+    "red": 397,
+    "white": 504
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 369,
+    "green": 304,
+    "red": 246,
+    "white": 339
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 420,
+    "green": 350,
+    "red": 304,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 401,
+    "green": 303,
+    "red": 301,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 258,
+    "green": 237,
+    "red": 222,
+    "white": 248
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 156,
+    "green": 141,
+    "red": 133,
+    "white": 149
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 556,
+    "green": 442,
+    "red": 357,
+    "white": 501
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 408,
+    "green": 295,
+    "red": 291,
+    "white": 371
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 370,
+    "green": 363,
+    "red": 255,
+    "white": 367
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 178,
+    "green": 156,
+    "red": 134,
+    "white": 170
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 353,
+    "green": 326,
+    "red": 294,
+    "white": 338
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 483,
+    "green": 446,
+    "red": 401,
+    "white": 463
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 302,
+    "green": 227,
+    "red": 221,
+    "white": 268
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 378,
+    "green": 336,
+    "red": 261,
+    "white": 351
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 205,
+    "green": 147,
+    "red": 126,
+    "white": 165
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 479,
+    "green": 440,
+    "red": 350,
+    "white": 474
+   }
+  }
+ ],
+ "id": "7ac058d1-f051-4af0-bd3c-4720ff8aa86d",
+ "lat": 28.7247756,
+ "lng": -81.5754495,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6473
+  },
+  {
+   "gender": "Male",
+   "par": 74,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6034
+  },
+  {
+   "gender": "Female",
+   "par": 74,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5420
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4855
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4462
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4462
+  }
+ ]
+}

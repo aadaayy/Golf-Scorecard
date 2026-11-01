@@ -1,0 +1,295 @@
+{
+ "city": "Daytona Beach",
+ "club_name": "Lpga International Jones Course",
+ "course_name": "Lpga International Jones Course",
+ "dataset_name": "Lpga International Jones Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 395,
+    "blue": 378,
+    "gold": 345,
+    "red": 294,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 457,
+    "blue": 423,
+    "gold": 360,
+    "red": 310,
+    "white": 399
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 198,
+    "blue": 175,
+    "gold": 153,
+    "red": 95,
+    "white": 165
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 361,
+    "blue": 352,
+    "gold": 315,
+    "red": 239,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 531,
+    "blue": 508,
+    "gold": 444,
+    "red": 395,
+    "white": 461
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 164,
+    "blue": 150,
+    "gold": 120,
+    "red": 92,
+    "white": 139
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 443,
+    "blue": 413,
+    "gold": 339,
+    "red": 333,
+    "white": 376
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 384,
+    "blue": 369,
+    "gold": 325,
+    "red": 275,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 570,
+    "blue": 548,
+    "gold": 463,
+    "red": 457,
+    "white": 522
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 340,
+    "blue": 334,
+    "gold": 306,
+    "red": 230,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 412,
+    "blue": 374,
+    "gold": 348,
+    "red": 322,
+    "white": 356
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 403,
+    "blue": 367,
+    "gold": 350,
+    "red": 285,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 577,
+    "blue": 549,
+    "gold": 486,
+    "red": 478,
+    "white": 535
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 190,
+    "blue": 162,
+    "gold": 143,
+    "red": 107,
+    "white": 153
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 473,
+    "blue": 427,
+    "gold": 339,
+    "red": 335,
+    "white": 393
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 519,
+    "blue": 508,
+    "gold": 418,
+    "red": 375,
+    "white": 463
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "black": 200,
+    "blue": 171,
+    "gold": 157,
+    "red": 108,
+    "white": 167
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 445,
+    "blue": 436,
+    "gold": 342,
+    "red": 336,
+    "white": 389
+   }
+  }
+ ],
+ "id": "6ef363fd-bb1e-42c1-9019-1cf7b4560c86",
+ "lat": 29.192369,
+ "lng": -81.109614,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7088
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6664
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6240
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6240
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5744
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5744
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5131
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5131
+  }
+ ]
+}

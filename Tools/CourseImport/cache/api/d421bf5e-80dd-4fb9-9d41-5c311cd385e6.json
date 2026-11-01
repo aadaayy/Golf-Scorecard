@@ -1,0 +1,297 @@
+{
+ "city": "Lakeland",
+ "club_name": "South Course At Big Cypress Golf Country Club",
+ "course_name": "South Course At Big Cypress Golf Country Club",
+ "dataset_name": "South Course At Big Cypress Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 355,
+    "Green": 314,
+    "Red": 234,
+    "Red Short": 234,
+    "White": 286,
+    "White/Red": 286
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 376,
+    "Green": 363,
+    "Red": 312,
+    "Red Short": 240,
+    "White": 334,
+    "White/Red": 312
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Black": 502,
+    "Green": 438,
+    "Red": 298,
+    "Red Short": 298,
+    "White": 393,
+    "White/Red": 298
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 378,
+    "Green": 343,
+    "Red": 245,
+    "Red Short": 245,
+    "White": 308,
+    "White/Red": 245
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 138,
+    "Green": 123,
+    "Red": 76,
+    "Red Short": 76,
+    "White": 107,
+    "White/Red": 107
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "Black": 507,
+    "Green": 476,
+    "Red": 387,
+    "Red Short": 387,
+    "White": 456,
+    "White/Red": 387
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 348,
+    "Green": 312,
+    "Red": 248,
+    "Red Short": 248,
+    "White": 277,
+    "White/Red": 277
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 194,
+    "Green": 164,
+    "Red": 124,
+    "Red Short": 124,
+    "White": 155,
+    "White/Red": 155
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 382,
+    "Green": 338,
+    "Red": 271,
+    "Red Short": 210,
+    "White": 296,
+    "White/Red": 296
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 368,
+    "Green": 334,
+    "Red": 267,
+    "Red Short": 267,
+    "White": 302,
+    "White/Red": 302
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 358,
+    "Green": 330,
+    "Red": 263,
+    "Red Short": 263,
+    "White": 300,
+    "White/Red": 300
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Black": 565,
+    "Green": 514,
+    "Red": 413,
+    "Red Short": 364,
+    "White": 479,
+    "White/Red": 413
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 198,
+    "Green": 172,
+    "Red": 146,
+    "Red Short": 146,
+    "White": 161,
+    "White/Red": 161
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 425,
+    "Green": 375,
+    "Red": 335,
+    "Red Short": 310,
+    "White": 344,
+    "White/Red": 335
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 153,
+    "Green": 153,
+    "Red": 84,
+    "Red Short": 84,
+    "White": 124,
+    "White/Red": 124
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Black": 508,
+    "Green": 473,
+    "Red": 367,
+    "Red Short": 367,
+    "White": 423,
+    "White/Red": 423
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 424,
+    "Green": 405,
+    "Red": 319,
+    "Red Short": 265,
+    "White": 381,
+    "White/Red": 319
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 409,
+    "Green": 371,
+    "Red": 300,
+    "Red Short": 231,
+    "White": 335,
+    "White/Red": 300
+   }
+  }
+ ],
+ "id": "d421bf5e-80dd-4fb9-9d41-5c311cd385e6",
+ "lat": 28.1797814,
+ "lng": -81.992551,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6588
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5998
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5461
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-red-male",
+   "tee_name": "White/Red",
+   "yardage": 5040
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4689
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-short-female",
+   "tee_name": "Red Short",
+   "yardage": 4359
+  }
+ ]
+}

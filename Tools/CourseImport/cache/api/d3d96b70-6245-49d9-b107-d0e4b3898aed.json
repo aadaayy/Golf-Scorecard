@@ -1,0 +1,209 @@
+{
+ "city": "Lakeland",
+ "club_name": "North Golf Course At Big Cypress Golf Country Club",
+ "course_name": "North Golf Course At Big Cypress Golf Country Club",
+ "dataset_name": "North Golf Course At Big Cypress Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "cypress": 298,
+    "teal": 284
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "cypress": 182,
+    "teal": 113
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "cypress": 135,
+    "teal": 88
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "cypress": 145,
+    "teal": 122
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "cypress": 135,
+    "teal": 116
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "cypress": 138,
+    "teal": 118
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "cypress": 276,
+    "teal": 265
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "cypress": 290,
+    "teal": 274
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "cypress": 153,
+    "teal": 138
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 3,
+   "yardages": {
+    "cypress": 124,
+    "teal": 112
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "cypress": 302,
+    "teal": 273
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "cypress": 260,
+    "teal": 252
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "cypress": 154,
+    "teal": 144
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "cypress": 120,
+    "teal": 104
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "cypress": 179,
+    "teal": 154
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "cypress": 289,
+    "teal": 235
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "cypress": 113,
+    "teal": 73
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "cypress": 170,
+    "teal": 148
+   }
+  }
+ ],
+ "id": "d3d96b70-6245-49d9-b107-d0e4b3898aed",
+ "lat": 28.1797814,
+ "lng": -81.992551,
+ "par": 60,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "cypress-female",
+   "tee_name": "Cypress",
+   "yardage": 3463
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "cypress-male",
+   "tee_name": "Cypress",
+   "yardage": 3463
+  },
+  {
+   "gender": "Female",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "teal-female",
+   "tee_name": "Teal",
+   "yardage": 3013
+  },
+  {
+   "gender": "Male",
+   "par": 60,
+   "tee_color": null,
+   "tee_key": "teal-male",
+   "tee_name": "Teal",
+   "yardage": 3013
+  }
+ ]
+}

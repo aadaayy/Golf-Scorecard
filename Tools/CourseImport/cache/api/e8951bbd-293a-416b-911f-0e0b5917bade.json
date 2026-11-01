@@ -1,0 +1,179 @@
+{
+ "city": "New Port Richey",
+ "club_name": "River Ridge Golf Club",
+ "course_name": "River Ridge Golf Club",
+ "dataset_name": "River Ridge Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 530,
+    "red": 424,
+    "white": 501
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 327,
+    "red": 275,
+    "white": 295
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 172,
+    "red": 111,
+    "white": 154
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 141,
+    "red": 81,
+    "white": 120
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 284,
+    "red": 215,
+    "white": 245
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 151,
+    "red": 112,
+    "white": 138
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "blue": 341,
+    "red": 302,
+    "white": 321
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 428,
+    "red": 380,
+    "white": 406
+   }
+  }
+ ],
+ "id": "e8951bbd-293a-416b-911f-0e0b5917bade",
+ "lat": 28.2688717,
+ "lng": -82.6327011,
+ "par": 68,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 68,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 4615
+  },
+  {
+   "gender": "Male",
+   "par": 68,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 4087
+  },
+  {
+   "gender": "Female",
+   "par": 68,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 3501
+  }
+ ]
+}

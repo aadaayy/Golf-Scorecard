@@ -1,0 +1,245 @@
+{
+ "city": "Riverview",
+ "club_name": "Summerfield Crossings Golf Club",
+ "course_name": "Summerfield Crossings Golf Club",
+ "dataset_name": "Summerfield Crossings Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 259,
+    "Gold": 299,
+    "Green": 345,
+    "Silver": 243
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 135,
+    "Gold": 163,
+    "Green": 163,
+    "Silver": 123
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Black": 513,
+    "Gold": 542,
+    "Green": 570,
+    "Silver": 484
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 318,
+    "Gold": 375,
+    "Green": 400,
+    "Silver": 292
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 357,
+    "Gold": 417,
+    "Green": 457,
+    "Silver": 247
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 268,
+    "Gold": 347,
+    "Green": 352,
+    "Silver": 238
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Black": 368,
+    "Gold": 398,
+    "Green": 429,
+    "Silver": 319
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 131,
+    "Gold": 140,
+    "Green": 154,
+    "Silver": 93
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Black": 500,
+    "Gold": 529,
+    "Green": 560,
+    "Silver": 468
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 352,
+    "Gold": 373,
+    "Green": 417,
+    "Silver": 317
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Black": 363,
+    "Gold": 391,
+    "Green": 432,
+    "Silver": 327
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 148,
+    "Gold": 163,
+    "Green": 180,
+    "Silver": 121
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 366,
+    "Gold": 395,
+    "Green": 426,
+    "Silver": 335
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 331,
+    "Gold": 361,
+    "Green": 411,
+    "Silver": 300
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 138,
+    "Gold": 158,
+    "Green": 171,
+    "Silver": 84
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 343,
+    "Gold": 370,
+    "Green": 381,
+    "Silver": 313
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 397,
+    "Gold": 428,
+    "Green": 463,
+    "Silver": 368
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 492,
+    "Gold": 526,
+    "Green": 587,
+    "Silver": 467
+   }
+  }
+ ],
+ "id": "b2774844-ae7e-4a84-98a4-d34ee319f45b",
+ "lat": 27.795908,
+ "lng": -82.3174588,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6898
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6375
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5779
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5139
+  }
+ ]
+}

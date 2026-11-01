@@ -1,0 +1,245 @@
+{
+ "city": "Marianna",
+ "club_name": "Indian Springs Golf Club",
+ "course_name": "Indian Springs Golf Club",
+ "dataset_name": "Indian Springs Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 606,
+    "gold": 530,
+    "red": 495,
+    "white": 584
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 403,
+    "gold": 356,
+    "red": 284,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 341,
+    "gold": 309,
+    "red": 234,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 390,
+    "gold": 348,
+    "red": 315,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 149,
+    "gold": 129,
+    "red": 99,
+    "white": 139
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 578,
+    "gold": 442,
+    "red": 390,
+    "white": 532
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 386,
+    "gold": 338,
+    "red": 310,
+    "white": 362
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 196,
+    "gold": 152,
+    "red": 130,
+    "white": 174
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 415,
+    "gold": 349,
+    "red": 342,
+    "white": 400
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 416,
+    "gold": 360,
+    "red": 315,
+    "white": 396
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 504,
+    "gold": 451,
+    "red": 370,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 322,
+    "gold": 279,
+    "red": 258,
+    "white": 305
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 150,
+    "gold": 124,
+    "red": 106,
+    "white": 133
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 357,
+    "gold": 299,
+    "red": 264,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 417,
+    "gold": 313,
+    "red": 282,
+    "white": 394
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 501,
+    "gold": 463,
+    "red": 408,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 407,
+    "gold": 339,
+    "red": 286,
+    "white": 387
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "blue": 211,
+    "gold": 172,
+    "red": 148,
+    "white": 170
+   }
+  }
+ ],
+ "id": "eaecca70-f214-4f79-bfc7-0195b0759512",
+ "lat": 30.767683,
+ "lng": -85.1579132,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 7013
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6558
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5961
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5235
+  }
+ ]
+}

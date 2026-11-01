@@ -1,0 +1,85 @@
+{
+ "city": "Tampa",
+ "club_name": "Rogers Park Golf Course Short Course",
+ "course_name": "Rogers Park Golf Course Short Course",
+ "dataset_name": "Rogers Park Golf Course Short Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 3,
+   "yardages": null
+  }
+ ],
+ "id": "852f1275-cd96-4ce1-9635-8655f12bbd4d",
+ "lat": 28.0202513438,
+ "lng": -82.4237323161,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "mens-male",
+   "tee_name": "Mens",
+   "yardage": null
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "ladies-female",
+   "tee_name": "Ladies",
+   "yardage": null
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "city": "Jacksonville",
+ "club_name": "Blue Sky Golf Club",
+ "course_name": "Blue Sky Golf Club",
+ "dataset_name": "Blue Sky Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 523,
+    "dark_blue": 510,
+    "gray": 406,
+    "light_blue": 490,
+    "white": 451
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 353,
+    "dark_blue": 342,
+    "gray": 244,
+    "light_blue": 319,
+    "white": 296
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 181,
+    "dark_blue": 169,
+    "gray": 94,
+    "light_blue": 153,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 434,
+    "dark_blue": 411,
+    "gray": 284,
+    "light_blue": 384,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 490,
+    "dark_blue": 450,
+    "gray": 380,
+    "light_blue": 430,
+    "white": 410
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "dark_blue": 147,
+    "gray": 92,
+    "light_blue": 134,
+    "white": 102
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "dark_blue": 377,
+    "gray": 290,
+    "light_blue": 357,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 222,
+    "dark_blue": 200,
+    "gray": 112,
+    "light_blue": 154,
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 580,
+    "dark_blue": 557,
+    "gray": 459,
+    "light_blue": 532,
+    "white": 493
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 377,
+    "dark_blue": 363,
+    "gray": 274,
+    "light_blue": 349,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 188,
+    "dark_blue": 170,
+    "gray": 106,
+    "light_blue": 160,
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 402,
+    "dark_blue": 390,
+    "gray": 307,
+    "light_blue": 370,
+    "white": 335
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 525,
+    "dark_blue": 517,
+    "gray": 432,
+    "light_blue": 497,
+    "white": 448
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 451,
+    "dark_blue": 435,
+    "gray": 328,
+    "light_blue": 407,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 360,
+    "dark_blue": 351,
+    "gray": 246,
+    "light_blue": 326,
+    "white": 279
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 185,
+    "dark_blue": 164,
+    "gray": 107,
+    "light_blue": 159,
+    "white": 114
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 549,
+    "dark_blue": 528,
+    "gray": 404,
+    "light_blue": 501,
+    "white": 469
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 404,
+    "dark_blue": 388,
+    "gray": 267,
+    "light_blue": 380,
+    "white": 289
+   }
+  }
+ ],
+ "id": "badd5e14-d363-4616-ac3e-042345efadd2",
+ "lat": 30.3458453,
+ "lng": -81.5181308,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6784
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "dark-blue-male",
+   "tee_name": "Dark Blue",
+   "yardage": 6469
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "light-blue-male",
+   "tee_name": "Light Blue",
+   "yardage": 6102
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5408
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5408
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gray-female",
+   "tee_name": "Gray",
+   "yardage": 4832
+  }
+ ]
+}

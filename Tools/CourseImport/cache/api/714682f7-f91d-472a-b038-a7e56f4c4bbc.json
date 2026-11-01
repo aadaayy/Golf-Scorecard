@@ -1,0 +1,279 @@
+{
+ "city": "Apopka",
+ "club_name": "Forest Lake Golf Club",
+ "course_name": "Forest Lake Golf Club",
+ "dataset_name": "Forest Lake Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 501,
+    "gold": 525,
+    "green": 542,
+    "red": 412,
+    "white": 476
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 156,
+    "gold": 180,
+    "green": 215,
+    "red": 114,
+    "white": 136
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 390,
+    "gold": 400,
+    "green": 415,
+    "red": 314,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 380,
+    "gold": 410,
+    "green": 432,
+    "red": 333,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 357,
+    "gold": 369,
+    "green": 383,
+    "red": 289,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 171,
+    "gold": 185,
+    "green": 210,
+    "red": 91,
+    "white": 135
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 340,
+    "gold": 358,
+    "green": 376,
+    "red": 257,
+    "white": 294
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 490,
+    "gold": 500,
+    "green": 516,
+    "red": 394,
+    "white": 438
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 405,
+    "gold": 420,
+    "green": 450,
+    "red": 328,
+    "white": 349
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 485,
+    "gold": 515,
+    "green": 534,
+    "red": 398,
+    "white": 414
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 365,
+    "gold": 385,
+    "green": 400,
+    "red": 262,
+    "white": 303
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 367,
+    "gold": 380,
+    "green": 397,
+    "red": 281,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "blue": 515,
+    "gold": 540,
+    "green": 566,
+    "red": 459,
+    "white": 497
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 170,
+    "gold": 188,
+    "green": 224,
+    "red": 100,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 342,
+    "gold": 398,
+    "green": 413,
+    "red": 310,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 163,
+    "gold": 196,
+    "green": 223,
+    "red": 109,
+    "white": 131
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 365,
+    "gold": 430,
+    "green": 448,
+    "red": 304,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 425,
+    "gold": 457,
+    "green": 477,
+    "red": 310,
+    "white": 378
+   }
+  }
+ ],
+ "id": "714682f7-f91d-472a-b038-a7e56f4c4bbc",
+ "lat": 28.6024784,
+ "lng": -81.5363297,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 7221
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6836
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6387
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5779
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5779
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5065
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "city": "Milton",
+ "club_name": "Tanglewood Golf And Country Club",
+ "course_name": "Tanglewood Golf And Country Club",
+ "dataset_name": "Tanglewood Golf And Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 467,
+    "Green": 341,
+    "Red": 409,
+    "White": 454,
+    "Yellow": 425
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 395,
+    "Green": 239,
+    "Red": 318,
+    "White": 377,
+    "Yellow": 360
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 333,
+    "Green": 203,
+    "Red": 274,
+    "White": 320,
+    "Yellow": 310
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 417,
+    "Green": 247,
+    "Red": 343,
+    "White": 403,
+    "Yellow": 385
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 147,
+    "Green": 90,
+    "Red": 109,
+    "White": 133,
+    "Yellow": 121
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 378,
+    "Green": 180,
+    "Red": 269,
+    "White": 346,
+    "Yellow": 313
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 325,
+    "Green": 159,
+    "Red": 221,
+    "White": 310,
+    "Yellow": 293
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 220,
+    "Green": 96,
+    "Red": 136,
+    "White": 192,
+    "Yellow": 173
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Blue": 549,
+    "Green": 335,
+    "Red": 400,
+    "White": 525,
+    "Yellow": 500
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 382,
+    "Green": 237,
+    "Red": 289,
+    "White": 360,
+    "Yellow": 344
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 148,
+    "Green": 101,
+    "Red": 104,
+    "White": 126,
+    "Yellow": 113
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 456,
+    "Green": 234,
+    "Red": 341,
+    "White": 435,
+    "Yellow": 421
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 359,
+    "Green": 247,
+    "Red": 300,
+    "White": 343,
+    "Yellow": 330
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 368,
+    "Green": 224,
+    "Red": 310,
+    "White": 357,
+    "Yellow": 322
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 372,
+    "Green": 225,
+    "Red": 325,
+    "White": 359,
+    "Yellow": 333
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 171,
+    "Green": 83,
+    "Red": 134,
+    "White": 155,
+    "Yellow": 145
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 327,
+    "Green": 206,
+    "Red": 250,
+    "White": 315,
+    "Yellow": 260
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 488,
+    "Green": 220,
+    "Red": 425,
+    "White": 470,
+    "Yellow": 459
+   }
+  }
+ ],
+ "id": "7396d0bb-b0d3-47f1-b327-76070d227fbf",
+ "lat": 30.6505919,
+ "lng": -87.0789389,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6302
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5980
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Yellow",
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 5607
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4957
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 3667
+  }
+ ]
+}

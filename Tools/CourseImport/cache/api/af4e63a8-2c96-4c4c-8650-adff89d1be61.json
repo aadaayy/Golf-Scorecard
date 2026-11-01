@@ -1,0 +1,323 @@
+{
+ "city": "Lake Buena Vista",
+ "club_name": "Tranquilo Golf Club At Four Seasons Resort Orlando",
+ "course_name": "Tranquilo Golf Club At Four Seasons Resort Orlando",
+ "dataset_name": "Tranquilo Golf Club At Four Seasons Resort Orlando",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 338,
+    "Blue/White": 338,
+    "Golden": 355,
+    "Golden/Blue": 355,
+    "Red": 275,
+    "White": 326,
+    "White/Red": 326
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 388,
+    "Blue/White": 340,
+    "Golden": 401,
+    "Golden/Blue": 388,
+    "Red": 269,
+    "White": 340,
+    "White/Red": 269
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Blue": 164,
+    "Blue/White": 164,
+    "Golden": 194,
+    "Golden/Blue": 164,
+    "Red": 107,
+    "White": 140,
+    "White/Red": 140
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 389,
+    "Blue/White": 309,
+    "Golden": 399,
+    "Golden/Blue": 399,
+    "Red": 252,
+    "White": 309,
+    "White/Red": 309
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 192,
+    "Blue/White": 176,
+    "Golden": 215,
+    "Golden/Blue": 192,
+    "Red": 134,
+    "White": 176,
+    "White/Red": 134
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 396,
+    "Blue/White": 340,
+    "Golden": 412,
+    "Golden/Blue": 412,
+    "Red": 297,
+    "White": 340,
+    "White/Red": 340
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Blue": 544,
+    "Blue/White": 544,
+    "Golden": 575,
+    "Golden/Blue": 544,
+    "Red": 464,
+    "White": 512,
+    "White/Red": 464
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 382,
+    "Blue/White": 382,
+    "Golden": 430,
+    "Golden/Blue": 430,
+    "Red": 297,
+    "White": 348,
+    "White/Red": 297
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Blue": 464,
+    "Blue/White": 464,
+    "Golden": 510,
+    "Golden/Blue": 510,
+    "Red": 340,
+    "White": 430,
+    "White/Red": 430
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 393,
+    "Blue/White": 366,
+    "Golden": 440,
+    "Golden/Blue": 393,
+    "Red": 327,
+    "White": 366,
+    "White/Red": 366
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 367,
+    "Blue/White": 315,
+    "Golden": 404,
+    "Golden/Blue": 367,
+    "Red": 277,
+    "White": 315,
+    "White/Red": 315
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 525,
+    "Blue/White": 486,
+    "Golden": 540,
+    "Golden/Blue": 540,
+    "Red": 443,
+    "White": 486,
+    "White/Red": 443
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 159,
+    "Blue/White": 159,
+    "Golden": 179,
+    "Golden/Blue": 159,
+    "Red": 125,
+    "White": 153,
+    "White/Red": 125
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 429,
+    "Blue/White": 407,
+    "Golden": 454,
+    "Golden/Blue": 429,
+    "Red": 314,
+    "White": 407,
+    "White/Red": 314
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 324,
+    "Blue/White": 324,
+    "Golden": 340,
+    "Golden/Blue": 340,
+    "Red": 263,
+    "White": 288,
+    "White/Red": 288
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 131,
+    "Blue/White": 131,
+    "Golden": 160,
+    "Golden/Blue": 160,
+    "Red": 92,
+    "White": 110,
+    "White/Red": 92
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Blue": 481,
+    "Blue/White": 481,
+    "Golden": 516,
+    "Golden/Blue": 516,
+    "Red": 424,
+    "White": 454,
+    "White/Red": 454
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "Blue": 205,
+    "Blue/White": 187,
+    "Golden": 214,
+    "Golden/Blue": 205,
+    "Red": 133,
+    "White": 187,
+    "White/Red": 133
+   }
+  }
+ ],
+ "id": "af4e63a8-2c96-4c4c-8650-adff89d1be61",
+ "lat": 28.3992421,
+ "lng": -81.5478051,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "golden-male",
+   "tee_name": "Golden",
+   "yardage": 6738
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "golden-blue-male",
+   "tee_name": "Golden/Blue",
+   "yardage": 6503
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6271
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "blue-white-male",
+   "tee_name": "Blue/White",
+   "yardage": 5913
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5687
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "white-red-male",
+   "tee_name": "White/Red",
+   "yardage": 5239
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4833
+  }
+ ]
+}

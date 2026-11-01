@@ -1,0 +1,117 @@
+{
+ "city": "Clermont",
+ "club_name": "Swiss Fairways Golf Course",
+ "course_name": "Swiss Fairways Golf Course",
+ "dataset_name": "Swiss Fairways Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  }
+ ],
+ "id": "980c7717-88f8-4d87-b224-03705c18cf07",
+ "lat": 28.5390853,
+ "lng": -81.8245162,
+ "par": 68,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 68,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6312
+  },
+  {
+   "gender": "Male",
+   "par": 68,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6028
+  },
+  {
+   "gender": "Female",
+   "par": 68,
+   "tee_color": null,
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 4984
+  },
+  {
+   "gender": "Male",
+   "par": 68,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 4984
+  },
+  {
+   "gender": "Female",
+   "par": 68,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4380
+  },
+  {
+   "gender": "Male",
+   "par": 68,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4380
+  }
+ ]
+}

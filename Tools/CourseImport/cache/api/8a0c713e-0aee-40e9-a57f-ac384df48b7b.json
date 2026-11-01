@@ -1,0 +1,339 @@
+{
+ "city": "Ponte Vedra Beach",
+ "club_name": "Tpc Sawgrass Dyes Valley Course",
+ "course_name": "Tpc Sawgrass Dyes Valley Course",
+ "dataset_name": "Tpc Sawgrass Dyes Valley Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "B-W Blended": 500,
+    "Blue": 535,
+    "Green": 430,
+    "TPC": 558,
+    "W-G Blended": 430,
+    "White": 500,
+    "web": 558
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "B-W Blended": 152,
+    "Blue": 152,
+    "Green": 103,
+    "TPC": 171,
+    "W-G Blended": 134,
+    "White": 134,
+    "web": 171
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 325,
+    "Blue": 325,
+    "Green": 281,
+    "TPC": 354,
+    "W-G Blended": 299,
+    "White": 299,
+    "web": 354
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 354,
+    "Blue": 360,
+    "Green": 308,
+    "TPC": 403,
+    "W-G Blended": 308,
+    "White": 354,
+    "web": 403
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "B-W Blended": 137,
+    "Blue": 137,
+    "Green": 105,
+    "TPC": 158,
+    "W-G Blended": 126,
+    "White": 126,
+    "web": 158
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 386,
+    "Blue": 424,
+    "Green": 318,
+    "TPC": 445,
+    "W-G Blended": 318,
+    "White": 386,
+    "web": 445
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 313,
+    "Blue": 313,
+    "Green": 256,
+    "TPC": 326,
+    "W-G Blended": 291,
+    "White": 291,
+    "web": 326
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "B-W Blended": 489,
+    "Blue": 489,
+    "Green": 409,
+    "TPC": 503,
+    "W-G Blended": 473,
+    "White": 473,
+    "web": 503
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 389,
+    "Blue": 404,
+    "Green": 301,
+    "TPC": 436,
+    "W-G Blended": 301,
+    "White": 389,
+    "web": 436
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 379,
+    "Blue": 402,
+    "Green": 322,
+    "TPC": 408,
+    "W-G Blended": 322,
+    "White": 379,
+    "web": 408
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "B-W Blended": 177,
+    "Blue": 211,
+    "Green": 145,
+    "TPC": 229,
+    "W-G Blended": 145,
+    "White": 177,
+    "web": 229
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 350,
+    "Blue": 350,
+    "Green": 265,
+    "TPC": 363,
+    "W-G Blended": 326,
+    "White": 326,
+    "web": 363
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 372,
+    "Blue": 398,
+    "Green": 304,
+    "TPC": 409,
+    "W-G Blended": 304,
+    "White": 372,
+    "web": 409
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "B-W Blended": 167,
+    "Blue": 193,
+    "Green": 124,
+    "TPC": 203,
+    "W-G Blended": 167,
+    "White": 167,
+    "web": 203
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 385,
+    "Blue": 385,
+    "Green": 291,
+    "TPC": 402,
+    "W-G Blended": 347,
+    "White": 347,
+    "web": 402
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "B-W Blended": 513,
+    "Blue": 540,
+    "Green": 459,
+    "TPC": 559,
+    "W-G Blended": 459,
+    "White": 513,
+    "web": 559
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "B-W Blended": 484,
+    "Blue": 484,
+    "Green": 405,
+    "TPC": 499,
+    "W-G Blended": 476,
+    "White": 476,
+    "web": 499
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "B-W Blended": 400,
+    "Blue": 400,
+    "Green": 300,
+    "TPC": 421,
+    "W-G Blended": 300,
+    "White": 370,
+    "web": 421
+   }
+  }
+ ],
+ "id": "8a0c713e-0aee-40e9-a57f-ac384df48b7b",
+ "lat": 30.198936,
+ "lng": -81.3948838,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tpc-male",
+   "tee_name": "TPC",
+   "yardage": 6847
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6502
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "b-w-blended-male",
+   "tee_name": "B-W Blended",
+   "yardage": 6272
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 6079
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6079
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "w-g-blended-female",
+   "tee_name": "W-G Blended",
+   "yardage": 5526
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "w-g-blended-male",
+   "tee_name": "W-G Blended",
+   "yardage": 5526
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5126
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5126
+  }
+ ]
+}

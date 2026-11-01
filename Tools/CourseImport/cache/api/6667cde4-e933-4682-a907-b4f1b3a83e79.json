@@ -1,0 +1,146 @@
+{
+ "city": "The Villages",
+ "club_name": "Sandhill At The Villages Executive Golf Trail",
+ "course_name": "Sandhill At The Villages Executive Golf Trail",
+ "dataset_name": "Sandhill At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "Black": 155,
+    "Forward": 98,
+    "Gold": 135,
+    "Green": 120
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 200,
+    "Forward": 123,
+    "Gold": 171,
+    "Green": 150
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 184,
+    "Forward": 127,
+    "Gold": 165,
+    "Green": 142
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 183,
+    "Forward": 102,
+    "Gold": 167,
+    "Green": 140
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 319,
+    "Forward": 254,
+    "Gold": 299,
+    "Green": 278
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 126,
+    "Forward": 68,
+    "Gold": 103,
+    "Green": 81
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 148,
+    "Forward": 78,
+    "Gold": 126,
+    "Green": 101
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 163,
+    "Forward": 87,
+    "Gold": 139,
+    "Green": 111
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Black": 179,
+    "Forward": 107,
+    "Gold": 153,
+    "Green": 128
+   }
+  }
+ ],
+ "id": "6667cde4-e933-4682-a907-b4f1b3a83e79",
+ "lat": 28.8712668,
+ "lng": -81.9963097,
+ "par": 28,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1657
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1458
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 1251
+  },
+  {
+   "gender": "Male",
+   "par": 28,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 1044
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "city": "Tampa",
+ "club_name": "Tampa Palms Golf Country Club",
+ "course_name": "Tampa Palms Golf Country Club",
+ "dataset_name": "Tampa Palms Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 325,
+    "Tees 1": 433,
+    "Tees 2": 386,
+    "Tees 3": 325,
+    "Tees 4": 325,
+    "Tees 5": 280
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Combo 4/5": 122,
+    "Tees 1": 177,
+    "Tees 2": 157,
+    "Tees 3": 157,
+    "Tees 4": 122,
+    "Tees 5": 100
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 307,
+    "Tees 1": 391,
+    "Tees 2": 364,
+    "Tees 3": 364,
+    "Tees 4": 307,
+    "Tees 5": 267
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 296,
+    "Tees 1": 447,
+    "Tees 2": 415,
+    "Tees 3": 392,
+    "Tees 4": 392,
+    "Tees 5": 296
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Combo 4/5": 391,
+    "Tees 1": 548,
+    "Tees 2": 494,
+    "Tees 3": 494,
+    "Tees 4": 472,
+    "Tees 5": 391
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 277,
+    "Tees 1": 341,
+    "Tees 2": 312,
+    "Tees 3": 312,
+    "Tees 4": 277,
+    "Tees 5": 260
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 323,
+    "Tees 1": 393,
+    "Tees 2": 372,
+    "Tees 3": 345,
+    "Tees 4": 345,
+    "Tees 5": 323
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Combo 4/5": 379,
+    "Tees 1": 518,
+    "Tees 2": 496,
+    "Tees 3": 470,
+    "Tees 4": 470,
+    "Tees 5": 379
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Combo 4/5": 145,
+    "Tees 1": 196,
+    "Tees 2": 170,
+    "Tees 3": 170,
+    "Tees 4": 145,
+    "Tees 5": 119
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 302,
+    "Tees 1": 351,
+    "Tees 2": 320,
+    "Tees 3": 320,
+    "Tees 4": 302,
+    "Tees 5": 264
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 342,
+    "Tees 1": 460,
+    "Tees 2": 431,
+    "Tees 3": 382,
+    "Tees 4": 382,
+    "Tees 5": 342
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Combo 4/5": 382,
+    "Tees 1": 524,
+    "Tees 2": 496,
+    "Tees 3": 496,
+    "Tees 4": 466,
+    "Tees 5": 382
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Combo 4/5": 141,
+    "Tees 1": 209,
+    "Tees 2": 178,
+    "Tees 3": 178,
+    "Tees 4": 141,
+    "Tees 5": 106
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 336,
+    "Tees 1": 428,
+    "Tees 2": 393,
+    "Tees 3": 393,
+    "Tees 4": 336,
+    "Tees 5": 266
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 374,
+    "Tees 1": 462,
+    "Tees 2": 434,
+    "Tees 3": 392,
+    "Tees 4": 392,
+    "Tees 5": 374
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Combo 4/5": 432,
+    "Tees 1": 549,
+    "Tees 2": 529,
+    "Tees 3": 511,
+    "Tees 4": 511,
+    "Tees 5": 432
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Combo 4/5": 118,
+    "Tees 1": 185,
+    "Tees 2": 150,
+    "Tees 3": 150,
+    "Tees 4": 118,
+    "Tees 5": 80
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Combo 4/5": 288,
+    "Tees 1": 374,
+    "Tees 2": 332,
+    "Tees 3": 332,
+    "Tees 4": 288,
+    "Tees 5": 249
+   }
+  }
+ ],
+ "id": "b615ea7c-ef93-498b-a33f-aab932e7af4a",
+ "lat": 28.0951005,
+ "lng": -82.3912887,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-1-male",
+   "tee_name": "Tees 1",
+   "yardage": 6986
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-2-female",
+   "tee_name": "Tees 2",
+   "yardage": 6429
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-2-male",
+   "tee_name": "Tees 2",
+   "yardage": 6429
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-3-male",
+   "tee_name": "Tees 3",
+   "yardage": 6183
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-3-female",
+   "tee_name": "Tees 3",
+   "yardage": 6183
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-4-female",
+   "tee_name": "Tees 4",
+   "yardage": 5791
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-4-male",
+   "tee_name": "Tees 4",
+   "yardage": 5791
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-4-5-male",
+   "tee_name": "Combo 4/5",
+   "yardage": 5280
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "combo-4-5-female",
+   "tee_name": "Combo 4/5",
+   "yardage": 5280
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-5-female",
+   "tee_name": "Tees 5",
+   "yardage": 4910
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tees-5-male",
+   "tee_name": "Tees 5",
+   "yardage": 4910
+  }
+ ]
+}

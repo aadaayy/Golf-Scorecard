@@ -1,0 +1,381 @@
+{
+ "city": "Jacksonville",
+ "club_name": "Pablo Creek Club",
+ "course_name": "Pablo Creek Club",
+ "dataset_name": "Pablo Creek Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blended": 406,
+    "challenger": 369,
+    "championship": 461,
+    "founders": 406,
+    "gold": 369,
+    "long": 419,
+    "silver": 369
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blended": 328,
+    "challenger": 265,
+    "championship": 338,
+    "founders": 309,
+    "gold": 309,
+    "long": 328,
+    "silver": 309
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "blended": 507,
+    "challenger": 402,
+    "championship": 529,
+    "founders": 495,
+    "gold": 402,
+    "long": 507,
+    "silver": 495
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blended": 326,
+    "challenger": 284,
+    "championship": 391,
+    "founders": 326,
+    "gold": 284,
+    "long": 382,
+    "silver": 284
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blended": 180,
+    "challenger": 103,
+    "championship": 210,
+    "founders": 168,
+    "gold": 128,
+    "long": 180,
+    "silver": 168
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blended": 544,
+    "challenger": 451,
+    "championship": 586,
+    "founders": 516,
+    "gold": 451,
+    "long": 544,
+    "silver": 516
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blended": 375,
+    "challenger": 281,
+    "championship": 425,
+    "founders": 348,
+    "gold": 281,
+    "long": 375,
+    "silver": 348
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blended": 203,
+    "challenger": 124,
+    "championship": 227,
+    "founders": 173,
+    "gold": 124,
+    "long": 203,
+    "silver": 173
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blended": 365,
+    "challenger": 330,
+    "championship": 452,
+    "founders": 365,
+    "gold": 330,
+    "long": 432,
+    "silver": 330
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blended": 535,
+    "challenger": 401,
+    "championship": 566,
+    "founders": 514,
+    "gold": 500,
+    "long": 535,
+    "silver": 514
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blended": 367,
+    "challenger": 321,
+    "championship": 449,
+    "founders": 367,
+    "gold": 321,
+    "long": 392,
+    "silver": 321
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blended": 180,
+    "challenger": 121,
+    "championship": 207,
+    "founders": 160,
+    "gold": 121,
+    "long": 180,
+    "silver": 160
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blended": 373,
+    "challenger": 321,
+    "championship": 440,
+    "founders": 373,
+    "gold": 321,
+    "long": 424,
+    "silver": 321
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blended": 329,
+    "challenger": 264,
+    "championship": 348,
+    "founders": 306,
+    "gold": 298,
+    "long": 329,
+    "silver": 306
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blended": 154,
+    "challenger": 108,
+    "championship": 173,
+    "founders": 136,
+    "gold": 136,
+    "long": 154,
+    "silver": 136
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blended": 515,
+    "challenger": 425,
+    "championship": 534,
+    "founders": 490,
+    "gold": 425,
+    "long": 515,
+    "silver": 490
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blended": 384,
+    "challenger": 297,
+    "championship": 402,
+    "founders": 360,
+    "gold": 297,
+    "long": 384,
+    "silver": 360
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blended": 388,
+    "challenger": 312,
+    "championship": 468,
+    "founders": 388,
+    "gold": 342,
+    "long": 430,
+    "silver": 342
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 24,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 25,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "e46286f6-144e-48d2-a5e2-8cd5ab6f686d",
+ "lat": 30.2332787,
+ "lng": -81.4420925,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7042
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "long-male",
+   "tee_name": "Long",
+   "yardage": 6720
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blended-male",
+   "tee_name": "Blended",
+   "yardage": 6555
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "founders-male",
+   "tee_name": "Founders",
+   "yardage": 6301
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6003
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5766
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5766
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "challenger-male",
+   "tee_name": "Challenger",
+   "yardage": 5186
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "challenger-female",
+   "tee_name": "Challenger",
+   "yardage": 5186
+  }
+ ]
+}

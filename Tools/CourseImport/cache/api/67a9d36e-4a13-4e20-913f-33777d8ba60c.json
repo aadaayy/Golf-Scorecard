@@ -1,0 +1,227 @@
+{
+ "city": "Hernando",
+ "club_name": "Citrus Hills Golf Country Club Meadows Course",
+ "course_name": "Citrus Hills Golf Country Club Meadows Course",
+ "dataset_name": "Citrus Hills Golf Country Club Meadows Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 290,
+    "club/white": 280,
+    "forward/red": 222
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 384,
+    "club/white": 342,
+    "forward/red": 284
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "championship/blue": 174,
+    "club/white": 158,
+    "forward/red": 124
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "championship/blue": 499,
+    "club/white": 486,
+    "forward/red": 423
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 345,
+    "club/white": 328,
+    "forward/red": 266
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 382,
+    "club/white": 359,
+    "forward/red": 284
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "championship/blue": 189,
+    "club/white": 177,
+    "forward/red": 130
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 375,
+    "club/white": 363,
+    "forward/red": 297
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "championship/blue": 148,
+    "club/white": 135,
+    "forward/red": 75
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "championship/blue": 457,
+    "club/white": 448,
+    "forward/red": 401
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 357,
+    "club/white": 326,
+    "forward/red": 282
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 388,
+    "club/white": 375,
+    "forward/red": 330
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 296,
+    "club/white": 273,
+    "forward/red": 259
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "championship/blue": 484,
+    "club/white": 473,
+    "forward/red": 420
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 303,
+    "club/white": 290,
+    "forward/red": 230
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "championship/blue": 203,
+    "club/white": 188,
+    "forward/red": 142
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "championship/blue": 409,
+    "club/white": 356,
+    "forward/red": 279
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 18,
+   "par": 3,
+   "yardages": {
+    "championship/blue": 202,
+    "club/white": 170,
+    "forward/red": 122
+   }
+  }
+ ],
+ "id": "67a9d36e-4a13-4e20-913f-33777d8ba60c",
+ "lat": 28.8872814,
+ "lng": -82.4264068,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "blue",
+   "tee_key": "championship-blue-male",
+   "tee_name": "Championship/Blue",
+   "yardage": 5885
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "club-white-male",
+   "tee_name": "Club/White",
+   "yardage": 5527
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "white",
+   "tee_key": "club-white-female",
+   "tee_name": "Club/White",
+   "yardage": 5527
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": "red",
+   "tee_key": "forward-red-female",
+   "tee_name": "Forward/Red",
+   "yardage": 4570
+  }
+ ]
+}

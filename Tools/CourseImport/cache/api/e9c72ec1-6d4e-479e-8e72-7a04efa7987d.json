@@ -1,0 +1,297 @@
+{
+ "city": "Melbourne",
+ "club_name": "Duran Golf Club Championship Course",
+ "course_name": "Duran Golf Club Championship Course",
+ "dataset_name": "Duran Golf Club Championship Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "gold": 538,
+    "ivory": 467,
+    "onyx": 568,
+    "royal": 501,
+    "ruby": 422,
+    "web": 571
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "gold": 432,
+    "ivory": 363,
+    "onyx": 454,
+    "royal": 390,
+    "ruby": 333,
+    "web": 453
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "gold": 338,
+    "ivory": 291,
+    "onyx": 345,
+    "royal": 313,
+    "ruby": 264,
+    "web": 343
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "gold": 145,
+    "ivory": 122,
+    "onyx": 160,
+    "royal": 137,
+    "ruby": 104,
+    "web": 162
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "gold": 408,
+    "ivory": 349,
+    "onyx": 427,
+    "royal": 375,
+    "ruby": 316,
+    "web": 427
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "gold": 370,
+    "ivory": 322,
+    "onyx": 393,
+    "royal": 344,
+    "ruby": 292,
+    "web": 393
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "gold": 190,
+    "ivory": 162,
+    "onyx": 196,
+    "royal": 172,
+    "ruby": 147,
+    "web": 196
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "gold": 413,
+    "ivory": 353,
+    "onyx": 433,
+    "royal": 375,
+    "ruby": 326,
+    "web": 439
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "gold": 513,
+    "ivory": 438,
+    "onyx": 542,
+    "royal": 472,
+    "ruby": 399,
+    "web": 540
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "gold": 376,
+    "ivory": 323,
+    "onyx": 394,
+    "royal": 345,
+    "ruby": 290,
+    "web": 394
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "gold": 495,
+    "ivory": 442,
+    "onyx": 515,
+    "royal": 476,
+    "ruby": 393,
+    "web": 531
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "gold": 413,
+    "ivory": 354,
+    "onyx": 434,
+    "royal": 380,
+    "ruby": 319,
+    "web": 438
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "gold": 178,
+    "ivory": 142,
+    "onyx": 187,
+    "royal": 162,
+    "ruby": 128,
+    "web": 187
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "gold": 376,
+    "ivory": 321,
+    "onyx": 397,
+    "royal": 347,
+    "ruby": 290,
+    "web": 401
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "gold": 514,
+    "ivory": 466,
+    "onyx": 540,
+    "royal": 495,
+    "ruby": 433,
+    "web": 542
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "gold": 357,
+    "ivory": 325,
+    "onyx": 385,
+    "royal": 336,
+    "ruby": 279,
+    "web": 385
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "gold": 209,
+    "ivory": 170,
+    "onyx": 234,
+    "royal": 182,
+    "ruby": 115,
+    "web": 234
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "gold": 422,
+    "ivory": 370,
+    "onyx": 447,
+    "royal": 396,
+    "ruby": 334,
+    "web": 449
+   }
+  }
+ ],
+ "id": "e9c72ec1-6d4e-479e-8e72-7a04efa7987d",
+ "lat": 28.2373726,
+ "lng": -80.7360175,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "onyx-male",
+   "tee_name": "Onyx",
+   "yardage": 7151
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6781
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "royal-male",
+   "tee_name": "Royal",
+   "yardage": 6312
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ivory-male",
+   "tee_name": "Ivory",
+   "yardage": 5885
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ivory-female",
+   "tee_name": "Ivory",
+   "yardage": 5885
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ruby-female",
+   "tee_name": "Ruby",
+   "yardage": 5309
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "city": "Niceville",
+ "club_name": "The Golf Club At Bluewater Bay",
+ "course_name": "The Golf Club At Bluewater Bay",
+ "dataset_name": "The Golf Club At Bluewater Bay",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Blue": 472,
+    "Gold": 515,
+    "Red": 440,
+    "White": 445
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 375,
+    "Gold": 420,
+    "Red": 345,
+    "White": 355
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 150,
+    "Gold": 180,
+    "Red": 120,
+    "White": 138
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 390,
+    "Gold": 425,
+    "Red": 350,
+    "White": 355
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 415,
+    "Gold": 465,
+    "Red": 375,
+    "White": 380
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Blue": 170,
+    "Gold": 195,
+    "Red": 150,
+    "White": 160
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Gold": 385,
+    "Red": 310,
+    "White": 340
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 475,
+    "Gold": 520,
+    "Red": 415,
+    "White": 462
+   }
+  }
+ ],
+ "id": "dcfec53c-c7b3-43a3-9b30-97e94608000a",
+ "lat": 30.4834754,
+ "lng": -86.4321405,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6803
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6130
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5676
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5415
+  }
+ ]
+}

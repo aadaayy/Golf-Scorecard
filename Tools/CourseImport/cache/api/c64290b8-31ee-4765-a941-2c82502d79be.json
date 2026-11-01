@@ -1,0 +1,347 @@
+{
+ "city": "St. Augustine",
+ "club_name": "King And Bear Golf Course At World Golf Village",
+ "course_name": "King And Bear Golf Course At World Golf Village",
+ "dataset_name": "King And Bear Golf Course At World Golf Village",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 406,
+    "blue": 375,
+    "blue/white_blended": 356,
+    "green": 307,
+    "stone": 436,
+    "white": 356,
+    "white/green_blended": 307
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 148,
+    "blue": 137,
+    "blue/white_blended": 137,
+    "green": 96,
+    "stone": 163,
+    "white": 123,
+    "white/green_blended": 123
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 373,
+    "blue": 349,
+    "blue/white_blended": 349,
+    "green": 265,
+    "stone": 412,
+    "white": 315,
+    "white/green_blended": 315
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "black": 531,
+    "blue": 521,
+    "blue/white_blended": 521,
+    "green": 436,
+    "stone": 557,
+    "white": 484,
+    "white/green_blended": 436
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 179,
+    "blue": 154,
+    "blue/white_blended": 133,
+    "green": 118,
+    "stone": 200,
+    "white": 133,
+    "white/green_blended": 133
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 334,
+    "blue": 311,
+    "blue/white_blended": 311,
+    "green": 220,
+    "stone": 360,
+    "white": 302,
+    "white/green_blended": 302
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 441,
+    "blue": 416,
+    "blue/white_blended": 384,
+    "green": 310,
+    "stone": 467,
+    "white": 384,
+    "white/green_blended": 310
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 409,
+    "blue": 390,
+    "blue/white_blended": 324,
+    "green": 283,
+    "stone": 427,
+    "white": 324,
+    "white/green_blended": 324
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "black": 540,
+    "blue": 527,
+    "blue/white_blended": 496,
+    "green": 373,
+    "stone": 563,
+    "white": 496,
+    "white/green_blended": 373
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 399,
+    "blue": 381,
+    "blue/white_blended": 371,
+    "green": 342,
+    "stone": 426,
+    "white": 371,
+    "white/green_blended": 342
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 412,
+    "blue": 393,
+    "blue/white_blended": 353,
+    "green": 328,
+    "stone": 435,
+    "white": 353,
+    "white/green_blended": 328
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 208,
+    "blue": 181,
+    "blue/white_blended": 181,
+    "green": 146,
+    "stone": 227,
+    "white": 167,
+    "white/green_blended": 167
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "black": 354,
+    "blue": 343,
+    "blue/white_blended": 343,
+    "green": 257,
+    "stone": 383,
+    "white": 309,
+    "white/green_blended": 309
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "black": 532,
+    "blue": 519,
+    "blue/white_blended": 497,
+    "green": 434,
+    "stone": 546,
+    "white": 497,
+    "white/green_blended": 434
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 180,
+    "blue": 157,
+    "blue/white_blended": 157,
+    "green": 125,
+    "stone": 194,
+    "white": 147,
+    "white/green_blended": 147
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 542,
+    "blue": 529,
+    "blue/white_blended": 508,
+    "green": 449,
+    "stone": 573,
+    "white": 508,
+    "white/green_blended": 449
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 437,
+    "blue": 416,
+    "blue/white_blended": 389,
+    "green": 373,
+    "stone": 462,
+    "white": 389,
+    "white/green_blended": 373
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 430,
+    "blue": 407,
+    "blue/white_blended": 407,
+    "green": 257,
+    "stone": 448,
+    "white": 329,
+    "white/green_blended": 329
+   }
+  }
+ ],
+ "id": "c64290b8-31ee-4765-a941-2c82502d79be",
+ "lat": 29.9600964,
+ "lng": -81.5194464,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "stone-male",
+   "tee_name": "Stone",
+   "yardage": 7279
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6855
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6506
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-white-blended-male",
+   "tee_name": "Blue/White Blended",
+   "yardage": 6217
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5987
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5987
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-green-blended-female",
+   "tee_name": "White/Green Blended",
+   "yardage": 5501
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-green-blended-male",
+   "tee_name": "White/Green Blended",
+   "yardage": 5501
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5119
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5119
+  }
+ ]
+}

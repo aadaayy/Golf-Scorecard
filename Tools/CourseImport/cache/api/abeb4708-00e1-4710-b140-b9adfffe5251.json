@@ -1,0 +1,295 @@
+{
+ "city": "Orlando",
+ "club_name": "The Country Club Of Orlando",
+ "course_name": "The Country Club Of Orlando",
+ "dataset_name": "The Country Club Of Orlando",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Championship": 343,
+    "Club": 296,
+    "Forward": 261,
+    "Medal": 324,
+    "Member": 305
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Championship": 421,
+    "Club": 323,
+    "Forward": 290,
+    "Medal": 404,
+    "Member": 383
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Championship": 384,
+    "Club": 347,
+    "Forward": 299,
+    "Medal": 369,
+    "Member": 358
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Championship": 209,
+    "Club": 147,
+    "Forward": 125,
+    "Medal": 197,
+    "Member": 177
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Championship": 517,
+    "Club": 433,
+    "Forward": 392,
+    "Medal": 509,
+    "Member": 479
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Championship": 174,
+    "Club": 139,
+    "Forward": 102,
+    "Medal": 166,
+    "Member": 152
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Championship": 431,
+    "Club": 277,
+    "Forward": 277,
+    "Medal": 413,
+    "Member": 389
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Championship": 501,
+    "Club": 420,
+    "Forward": 406,
+    "Medal": 486,
+    "Member": 467
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Championship": 422,
+    "Club": 312,
+    "Forward": 254,
+    "Medal": 388,
+    "Member": 367
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Championship": 401,
+    "Club": 339,
+    "Forward": 267,
+    "Medal": 390,
+    "Member": 378
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Championship": 344,
+    "Club": 301,
+    "Forward": 254,
+    "Medal": 336,
+    "Member": 324
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Championship": 363,
+    "Club": 327,
+    "Forward": 254,
+    "Medal": 355,
+    "Member": 339
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Championship": 153,
+    "Club": 126,
+    "Forward": 97,
+    "Medal": 146,
+    "Member": 135
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "Championship": 504,
+    "Club": 405,
+    "Forward": 359,
+    "Medal": 486,
+    "Member": 473
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Championship": 481,
+    "Club": 370,
+    "Forward": 330,
+    "Medal": 459,
+    "Member": 440
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Championship": 408,
+    "Club": 296,
+    "Forward": 289,
+    "Medal": 398,
+    "Member": 387
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Championship": 149,
+    "Club": 118,
+    "Forward": 87,
+    "Medal": 141,
+    "Member": 130
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Championship": 365,
+    "Club": 307,
+    "Forward": 286,
+    "Medal": 351,
+    "Member": 332
+   }
+  }
+ ],
+ "id": "abeb4708-00e1-4710-b140-b9adfffe5251",
+ "lat": 28.5601343,
+ "lng": -81.4014643,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6570
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "medal-male",
+   "tee_name": "Medal",
+   "yardage": 6318
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6015
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-female",
+   "tee_name": "Member",
+   "yardage": 6015
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "club-male",
+   "tee_name": "Club",
+   "yardage": 5283
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "club-female",
+   "tee_name": "Club",
+   "yardage": 5283
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-female",
+   "tee_name": "Forward",
+   "yardage": 4629
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "forward-male",
+   "tee_name": "Forward",
+   "yardage": 4629
+  }
+ ]
+}

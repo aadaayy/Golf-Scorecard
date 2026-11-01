@@ -1,0 +1,129 @@
+{
+ "city": "The Villages",
+ "club_name": "Pimlico At The Villages Executive Golf Trail",
+ "course_name": "Pimlico At The Villages Executive Golf Trail",
+ "dataset_name": "Pimlico At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "black": 139,
+    "gold": 108,
+    "green": 77
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 141,
+    "gold": 108,
+    "green": 75
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 132,
+    "gold": 108,
+    "green": 70
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 134,
+    "gold": 107,
+    "green": 82
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 254,
+    "gold": 232,
+    "green": 176
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 300,
+    "gold": 274,
+    "green": 245
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 125,
+    "gold": 97,
+    "green": 64
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "gold": 131,
+    "green": 102
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 154,
+    "gold": 125,
+    "green": 100
+   }
+  }
+ ],
+ "id": "f78738a6-7f59-4e46-9438-9723ba3927e8",
+ "lat": 28.9191091,
+ "lng": -82.0174206,
+ "par": 29,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1539
+  },
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1290
+  },
+  {
+   "gender": "Female",
+   "par": 29,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 991
+  }
+ ]
+}

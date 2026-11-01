@@ -1,0 +1,393 @@
+{
+ "city": "Freeport",
+ "club_name": "Windswept Dunes Golf Course",
+ "course_name": "Windswept Dunes Golf Course",
+ "dataset_name": "Windswept Dunes Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Championship": 468,
+    "Dune": 352,
+    "Dune (W)": 352,
+    "Emerald": 399,
+    "Emerald (W)": 399,
+    "Ocean": 425,
+    "Sedge": 321,
+    "Sedge (W)": 321,
+    "Tournament": 436,
+    "web": 468
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Championship": 244,
+    "Dune": 145,
+    "Dune (W)": 145,
+    "Emerald": 172,
+    "Emerald (W)": 172,
+    "Ocean": 188,
+    "Sedge": 92,
+    "Sedge (W)": 92,
+    "Tournament": 212,
+    "web": 244
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Championship": 609,
+    "Dune": 474,
+    "Dune (W)": 474,
+    "Emerald": 535,
+    "Emerald (W)": 535,
+    "Ocean": 557,
+    "Sedge": 438,
+    "Sedge (W)": 438,
+    "Tournament": 566,
+    "web": 609
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Championship": 432,
+    "Dune": 375,
+    "Dune (W)": 375,
+    "Emerald": 392,
+    "Emerald (W)": 392,
+    "Ocean": 407,
+    "Sedge": 306,
+    "Sedge (W)": 306,
+    "Tournament": 411,
+    "web": 432
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Championship": 464,
+    "Dune": 351,
+    "Dune (W)": 351,
+    "Emerald": 371,
+    "Emerald (W)": 371,
+    "Ocean": 402,
+    "Sedge": 318,
+    "Sedge (W)": 318,
+    "Tournament": 437,
+    "web": 464
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Championship": 227,
+    "Dune": 145,
+    "Dune (W)": 145,
+    "Emerald": 171,
+    "Emerald (W)": 171,
+    "Ocean": 196,
+    "Sedge": 127,
+    "Sedge (W)": 127,
+    "Tournament": 212,
+    "web": 227
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Championship": 490,
+    "Dune": 363,
+    "Dune (W)": 363,
+    "Emerald": 400,
+    "Emerald (W)": 400,
+    "Ocean": 424,
+    "Sedge": 288,
+    "Sedge (W)": 288,
+    "Tournament": 450,
+    "web": 490
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Championship": 581,
+    "Dune": 477,
+    "Dune (W)": 477,
+    "Emerald": 507,
+    "Emerald (W)": 507,
+    "Ocean": 543,
+    "Sedge": 442,
+    "Sedge (W)": 442,
+    "Tournament": 558,
+    "web": 581
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Championship": 476,
+    "Dune": 360,
+    "Dune (W)": 360,
+    "Emerald": 392,
+    "Emerald (W)": 392,
+    "Ocean": 425,
+    "Sedge": 324,
+    "Sedge (W)": 324,
+    "Tournament": 449,
+    "web": 476
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Championship": 501,
+    "Dune": 400,
+    "Dune (W)": 400,
+    "Emerald": 435,
+    "Emerald (W)": 435,
+    "Ocean": 450,
+    "Sedge": 274,
+    "Sedge (W)": 274,
+    "Tournament": 459,
+    "web": 501
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Championship": 371,
+    "Dune": 305,
+    "Dune (W)": 305,
+    "Emerald": 329,
+    "Emerald (W)": 329,
+    "Ocean": 356,
+    "Sedge": 274,
+    "Sedge (W)": 274,
+    "Tournament": 363,
+    "web": 371
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Championship": 190,
+    "Dune": 144,
+    "Dune (W)": 144,
+    "Emerald": 161,
+    "Emerald (W)": 161,
+    "Ocean": 169,
+    "Sedge": 120,
+    "Sedge (W)": 120,
+    "Tournament": 180,
+    "web": 190
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Championship": 527,
+    "Dune": 428,
+    "Dune (W)": 428,
+    "Emerald": 455,
+    "Emerald (W)": 455,
+    "Ocean": 481,
+    "Sedge": 403,
+    "Sedge (W)": 403,
+    "Tournament": 492,
+    "web": 527
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Championship": 458,
+    "Dune": 352,
+    "Dune (W)": 352,
+    "Emerald": 380,
+    "Emerald (W)": 380,
+    "Ocean": 405,
+    "Sedge": 302,
+    "Sedge (W)": 302,
+    "Tournament": 430,
+    "web": 458
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Championship": 480,
+    "Dune": 366,
+    "Dune (W)": 366,
+    "Emerald": 395,
+    "Emerald (W)": 395,
+    "Ocean": 424,
+    "Sedge": 327,
+    "Sedge (W)": 327,
+    "Tournament": 455,
+    "web": 480
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Championship": 196,
+    "Dune": 117,
+    "Dune (W)": 117,
+    "Emerald": 147,
+    "Emerald (W)": 147,
+    "Ocean": 171,
+    "Sedge": 89,
+    "Sedge (W)": 89,
+    "Tournament": 188,
+    "web": 196
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "Championship": 573,
+    "Dune": 485,
+    "Dune (W)": 485,
+    "Emerald": 516,
+    "Emerald (W)": 516,
+    "Ocean": 548,
+    "Sedge": 426,
+    "Sedge (W)": 426,
+    "Tournament": 570,
+    "web": 573
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Championship": 465,
+    "Dune": 338,
+    "Dune (W)": 338,
+    "Emerald": 376,
+    "Emerald (W)": 376,
+    "Ocean": 411,
+    "Sedge": 302,
+    "Sedge (W)": 302,
+    "Tournament": 427,
+    "web": 465
+   }
+  }
+ ],
+ "id": "96e793a0-dfbe-47c6-a48f-3e63cdcefa9e",
+ "lat": 30.4870318,
+ "lng": -86.0317746,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 7752
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 7295
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "ocean-male",
+   "tee_name": "Ocean",
+   "yardage": 6982
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "emerald-male",
+   "tee_name": "Emerald",
+   "yardage": 6533
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "emerald-w-female",
+   "tee_name": "Emerald (W)",
+   "yardage": 6533
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "dune-w-female",
+   "tee_name": "Dune (W)",
+   "yardage": 5977
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "dune-male",
+   "tee_name": "Dune",
+   "yardage": 5977
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "sedge-w-female",
+   "tee_name": "Sedge (W)",
+   "yardage": 5173
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "sedge-male",
+   "tee_name": "Sedge",
+   "yardage": 5173
+  }
+ ]
+}

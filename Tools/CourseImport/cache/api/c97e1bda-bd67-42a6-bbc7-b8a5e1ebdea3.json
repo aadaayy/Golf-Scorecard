@@ -1,0 +1,297 @@
+{
+ "city": "Ormond Beach",
+ "club_name": "Plantation Bay Golf And Country Club South West Course",
+ "course_name": "Plantation Bay Golf And Country Club South West Course",
+ "dataset_name": "Plantation Bay Golf And Country Club South West Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 575,
+    "blue": 484,
+    "gold": 401,
+    "red": 365,
+    "web": 532,
+    "white": 442
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 472,
+    "blue": 427,
+    "gold": 358,
+    "red": 326,
+    "web": 463,
+    "white": 397
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 371,
+    "blue": 357,
+    "gold": 318,
+    "red": 294,
+    "web": 371,
+    "white": 330
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 239,
+    "blue": 203,
+    "gold": 134,
+    "red": 118,
+    "web": 233,
+    "white": 177
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 530,
+    "blue": 493,
+    "gold": 439,
+    "red": 398,
+    "web": 506,
+    "white": 457
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 363,
+    "blue": 342,
+    "gold": 305,
+    "red": 274,
+    "web": 351,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 184,
+    "blue": 159,
+    "gold": 135,
+    "red": 126,
+    "web": 181,
+    "white": 143
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 435,
+    "blue": 396,
+    "gold": 281,
+    "red": 271,
+    "web": 434,
+    "white": 373
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 492,
+    "blue": 444,
+    "gold": 387,
+    "red": 329,
+    "web": 489,
+    "white": 408
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 365,
+    "blue": 359,
+    "gold": 283,
+    "red": 274,
+    "web": 366,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 376,
+    "blue": 369,
+    "gold": 321,
+    "red": 282,
+    "web": 377,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 182,
+    "blue": 174,
+    "gold": 128,
+    "red": 121,
+    "web": 175,
+    "white": 148
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 562,
+    "blue": 527,
+    "gold": 458,
+    "red": 441,
+    "web": 566,
+    "white": 504
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 185,
+    "blue": 178,
+    "gold": 141,
+    "red": 114,
+    "web": 185,
+    "white": 161
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 418,
+    "blue": 389,
+    "gold": 344,
+    "red": 284,
+    "web": 415,
+    "white": 367
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 564,
+    "blue": 543,
+    "gold": 472,
+    "red": 431,
+    "web": 560,
+    "white": 510
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 374,
+    "blue": 349,
+    "gold": 279,
+    "red": 273,
+    "web": 374,
+    "white": 319
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 388,
+    "gold": 304,
+    "red": 268,
+    "web": 422,
+    "white": 357
+   }
+  }
+ ],
+ "id": "c97e1bda-bd67-42a6-bbc7-b8a5e1ebdea3",
+ "lat": 29.4016108,
+ "lng": -81.1584426,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7112
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6782
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6105
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5488
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 5488
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4989
+  }
+ ]
+}

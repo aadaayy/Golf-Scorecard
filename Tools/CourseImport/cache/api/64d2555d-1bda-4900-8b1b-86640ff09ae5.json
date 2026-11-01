@@ -1,0 +1,221 @@
+{
+ "city": "Brooksville",
+ "club_name": "Sherman Hills Golf Club",
+ "course_name": "Sherman Hills Golf Club",
+ "dataset_name": "Sherman Hills Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 2,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 360,
+    "Blue": 340,
+    "Red": 238,
+    "White": 319,
+    "Yellow": 294
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Black": 148,
+    "Blue": 139,
+    "Red": 88,
+    "White": 120,
+    "Yellow": 108
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 398,
+    "Blue": 365,
+    "Red": 253,
+    "White": 333,
+    "Yellow": 284
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 479,
+    "Blue": 449,
+    "Red": 335,
+    "White": 398,
+    "Yellow": 369
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "Black": 237,
+    "Blue": 216,
+    "Red": 117,
+    "White": 195,
+    "Yellow": 147
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 437,
+    "Blue": 398,
+    "Red": 279,
+    "White": 362,
+    "Yellow": 297
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 594,
+    "Blue": 552,
+    "Red": 454,
+    "White": 529,
+    "Yellow": 479
+   }
+  }
+ ],
+ "id": "64d2555d-1bda-4900-8b1b-86640ff09ae5",
+ "lat": 28.5313732,
+ "lng": -82.2294903,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6794
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6314
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5733
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 5020
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 5020
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4371
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4371
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "city": "Lady Lake",
+ "club_name": "Tierra Del Sol Golf Country Club",
+ "course_name": "Tierra Del Sol Golf Country Club",
+ "dataset_name": "Tierra Del Sol Golf Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 137,
+    "Friendly": 89,
+    "Gold": 189,
+    "Green": 113,
+    "White": 124
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 471,
+    "Friendly": 325,
+    "Gold": 500,
+    "Green": 381,
+    "White": 430
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 359,
+    "Friendly": 206,
+    "Gold": 389,
+    "Green": 297,
+    "White": 341
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 359,
+    "Friendly": 221,
+    "Gold": 388,
+    "Green": 291,
+    "White": 316
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 175,
+    "Friendly": 100,
+    "Gold": 194,
+    "Green": 115,
+    "White": 127
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Blue": 431,
+    "Friendly": 251,
+    "Gold": 488,
+    "Green": 333,
+    "White": 369
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 163,
+    "Friendly": 100,
+    "Gold": 195,
+    "Green": 115,
+    "White": 145
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 539,
+    "Friendly": 357,
+    "Gold": 570,
+    "Green": 408,
+    "White": 473
+   }
+  }
+ ],
+ "id": "668eca3e-e0a5-4a38-9018-02c133b7e2e3",
+ "lat": 28.9344999,
+ "lng": -81.9708886,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6874
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6237
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5595
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4911
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3910
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "city": "Jacksonville",
+ "club_name": "Queens Harbour Yacht Country Club",
+ "course_name": "Queens Harbour Yacht Country Club",
+ "dataset_name": "Queens Harbour Yacht Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 361,
+    "gold": 400,
+    "red": 306,
+    "royal": 409,
+    "white": 346
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 518,
+    "gold": 562,
+    "red": 443,
+    "royal": 570,
+    "white": 486
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 128,
+    "gold": 139,
+    "red": 80,
+    "royal": 161,
+    "white": 111
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 315,
+    "gold": 404,
+    "red": 274,
+    "royal": 416,
+    "white": 307
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "black": 505,
+    "gold": 520,
+    "red": 414,
+    "royal": 525,
+    "white": 454
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 347,
+    "gold": 347,
+    "red": 306,
+    "royal": 370,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 138,
+    "gold": 138,
+    "red": 108,
+    "royal": 140,
+    "white": 122
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 370,
+    "gold": 378,
+    "red": 325,
+    "royal": 407,
+    "white": 346
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 362,
+    "gold": 380,
+    "red": 309,
+    "royal": 395,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "gold": 429,
+    "red": 325,
+    "royal": 432,
+    "white": 372
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 321,
+    "gold": 391,
+    "red": 255,
+    "royal": 417,
+    "white": 300
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 471,
+    "gold": 477,
+    "red": 357,
+    "royal": 520,
+    "white": 440
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 145,
+    "gold": 145,
+    "red": 110,
+    "royal": 174,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 401,
+    "gold": 413,
+    "red": 322,
+    "royal": 450,
+    "white": 376
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 184,
+    "gold": 197,
+    "red": 139,
+    "royal": 216,
+    "white": 173
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 375,
+    "gold": 386,
+    "red": 300,
+    "royal": 415,
+    "white": 358
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 480,
+    "gold": 525,
+    "red": 410,
+    "royal": 540,
+    "white": 460
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 382,
+    "gold": 390,
+    "red": 290,
+    "royal": 426,
+    "white": 345
+   }
+  }
+ ],
+ "id": "eecf2801-9872-44c4-b448-25a5f440df34",
+ "lat": 30.344195,
+ "lng": -81.4507873,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "royal-male",
+   "tee_name": "Royal",
+   "yardage": 7004
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6622
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6243
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6002
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5108
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "city": "The Villages",
+ "club_name": "Churchill Greens At The Villages Executive Golf Trail",
+ "course_name": "Churchill Greens At The Villages Executive Golf Trail",
+ "dataset_name": "Churchill Greens At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "black": 146,
+    "gold": 123,
+    "green": 75
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 139,
+    "gold": 124,
+    "green": 74
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 127,
+    "gold": 108,
+    "green": 71
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 325,
+    "gold": 278,
+    "green": 201
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 185,
+    "gold": 143,
+    "green": 91
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 369,
+    "gold": 324,
+    "green": 267
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 160,
+    "gold": 108,
+    "green": 83
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 163,
+    "gold": 146,
+    "green": 88
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 150,
+    "gold": 131,
+    "green": 90
+   }
+  }
+ ],
+ "id": "be9eecb0-170c-4b70-bff3-7e057ab9e3d9",
+ "lat": 28.9198585,
+ "lng": -82.0183792,
+ "par": 29,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1764
+  },
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1485
+  },
+  {
+   "gender": "Female",
+   "par": 29,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 1040
+  }
+ ]
+}

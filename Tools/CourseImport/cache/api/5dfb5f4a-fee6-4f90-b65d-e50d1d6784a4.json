@@ -1,0 +1,245 @@
+{
+ "city": "Gretna",
+ "club_name": "The Golf Club Of Quincy",
+ "course_name": "The Golf Club Of Quincy",
+ "dataset_name": "The Golf Club Of Quincy",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 18,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 489,
+    "gold": 432,
+    "red": 399,
+    "white": 477
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 377,
+    "gold": 354,
+    "red": 223,
+    "white": 369
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 437,
+    "gold": 359,
+    "red": 298,
+    "white": 384
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 219,
+    "gold": 159,
+    "red": 132,
+    "white": 176
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 381,
+    "gold": 326,
+    "red": 252,
+    "white": 359
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 499,
+    "gold": 419,
+    "red": 341,
+    "white": 475
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 199,
+    "gold": 167,
+    "red": 159,
+    "white": 185
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "blue": 385,
+    "gold": 300,
+    "red": 300,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "blue": 510,
+    "gold": 400,
+    "red": 387,
+    "white": 498
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 413,
+    "gold": 321,
+    "red": 317,
+    "white": 406
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 403,
+    "gold": 352,
+    "red": 199,
+    "white": 368
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 163,
+    "gold": 147,
+    "red": 138,
+    "white": 159
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 423,
+    "gold": 355,
+    "red": 169,
+    "white": 378
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 418,
+    "gold": 368,
+    "red": 345,
+    "white": 397
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 147,
+    "gold": 119,
+    "red": 113,
+    "white": 134
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 519,
+    "gold": 410,
+    "red": 380,
+    "white": 494
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 413,
+    "gold": 297,
+    "red": 289,
+    "white": 385
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 537,
+    "gold": 376,
+    "red": 372,
+    "white": 506
+   }
+  }
+ ],
+ "id": "5dfb5f4a-fee6-4f90-b65d-e50d1d6784a4",
+ "lat": 30.6154727,
+ "lng": -84.6258392,
+ "par": 73,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 7045
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6520
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5759
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5075
+  }
+ ]
+}

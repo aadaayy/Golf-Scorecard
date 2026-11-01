@@ -1,0 +1,337 @@
+{
+ "city": "Pace",
+ "club_name": "Stonebrook Golf Course",
+ "course_name": "Stonebrook Golf Course",
+ "dataset_name": "Stonebrook Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 9,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 234,
+    "Tee 2": 296,
+    "Tee 3": 342,
+    "Tee 4": 357,
+    "Tee 5": 373,
+    "Tee 6": 401
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Tee 1": 335,
+    "Tee 2": 391,
+    "Tee 3": 421,
+    "Tee 4": 486,
+    "Tee 5": 504,
+    "Tee 6": 521
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 218,
+    "Tee 2": 236,
+    "Tee 3": 342,
+    "Tee 4": 370,
+    "Tee 5": 381,
+    "Tee 6": 409
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 263,
+    "Tee 2": 337,
+    "Tee 3": 384,
+    "Tee 4": 399,
+    "Tee 5": 419,
+    "Tee 6": 431
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Tee 1": 127,
+    "Tee 2": 135,
+    "Tee 3": 162,
+    "Tee 4": 175,
+    "Tee 5": 194,
+    "Tee 6": 202
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 170,
+    "Tee 2": 210,
+    "Tee 3": 288,
+    "Tee 4": 307,
+    "Tee 5": 337,
+    "Tee 6": 375
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Tee 1": 100,
+    "Tee 2": 146,
+    "Tee 3": 155,
+    "Tee 4": 177,
+    "Tee 5": 187,
+    "Tee 6": 200
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 227,
+    "Tee 2": 291,
+    "Tee 3": 315,
+    "Tee 4": 359,
+    "Tee 5": 386,
+    "Tee 6": 413
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Tee 1": 334,
+    "Tee 2": 384,
+    "Tee 3": 430,
+    "Tee 4": 485,
+    "Tee 5": 513,
+    "Tee 6": 544
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Tee 1": 315,
+    "Tee 2": 351,
+    "Tee 3": 471,
+    "Tee 4": 484,
+    "Tee 5": 493,
+    "Tee 6": 512
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 186,
+    "Tee 2": 252,
+    "Tee 3": 301,
+    "Tee 4": 351,
+    "Tee 5": 367,
+    "Tee 6": 381
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Tee 1": 105,
+    "Tee 2": 128,
+    "Tee 3": 155,
+    "Tee 4": 165,
+    "Tee 5": 179,
+    "Tee 6": 190
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Tee 1": 320,
+    "Tee 2": 382,
+    "Tee 3": 439,
+    "Tee 4": 461,
+    "Tee 5": 472,
+    "Tee 6": 483
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 203,
+    "Tee 2": 302,
+    "Tee 3": 341,
+    "Tee 4": 351,
+    "Tee 5": 359,
+    "Tee 6": 368
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Tee 1": 87,
+    "Tee 2": 105,
+    "Tee 3": 130,
+    "Tee 4": 140,
+    "Tee 5": 148,
+    "Tee 6": 163
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 224,
+    "Tee 2": 285,
+    "Tee 3": 328,
+    "Tee 4": 382,
+    "Tee 5": 416,
+    "Tee 6": 423
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 200,
+    "Tee 2": 257,
+    "Tee 3": 290,
+    "Tee 4": 323,
+    "Tee 5": 334,
+    "Tee 6": 342
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Tee 1": 230,
+    "Tee 2": 306,
+    "Tee 3": 352,
+    "Tee 4": 377,
+    "Tee 5": 416,
+    "Tee 6": 449
+   }
+  }
+ ],
+ "id": "8f42978f-c775-4591-9bf5-4fe2a6e70893",
+ "lat": 30.6415157,
+ "lng": -87.1897964,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-6-male",
+   "tee_name": "Tee 6",
+   "yardage": 6807
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-male",
+   "tee_name": "Tee 5",
+   "yardage": 6478
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-5-female",
+   "tee_name": "Tee 5",
+   "yardage": 6478
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-female",
+   "tee_name": "Tee 4",
+   "yardage": 6149
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-4-male",
+   "tee_name": "Tee 4",
+   "yardage": 6149
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-3-male",
+   "tee_name": "Tee 3",
+   "yardage": 5646
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-3-female",
+   "tee_name": "Tee 3",
+   "yardage": 5646
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-2-male",
+   "tee_name": "Tee 2",
+   "yardage": 4794
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-2-female",
+   "tee_name": "Tee 2",
+   "yardage": 4794
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-1-female",
+   "tee_name": "Tee 1",
+   "yardage": 3878
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tee-1-male",
+   "tee_name": "Tee 1",
+   "yardage": 3878
+  }
+ ]
+}

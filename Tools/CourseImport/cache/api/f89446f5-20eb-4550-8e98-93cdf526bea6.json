@@ -1,0 +1,236 @@
+{
+ "city": "Montverde",
+ "club_name": "Bella Collina Golf Club",
+ "course_name": "Bella Collina Golf Club",
+ "dataset_name": "Bella Collina Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "bella": 517,
+    "championship": 582,
+    "club": 542,
+    "faldo": 611,
+    "member": 563,
+    "tournament": 601
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "bella": 298,
+    "championship": 400,
+    "club": 327,
+    "faldo": 438,
+    "member": 375,
+    "tournament": 418
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "bella": 226,
+    "championship": 312,
+    "club": 262,
+    "faldo": 364,
+    "member": 289,
+    "tournament": 337
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "bella": 436,
+    "championship": 527,
+    "club": 471,
+    "faldo": 573,
+    "member": 502,
+    "tournament": 554
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "bella": 122,
+    "championship": 156,
+    "club": 138,
+    "faldo": 181,
+    "member": 147,
+    "tournament": 166
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "bella": 372,
+    "championship": 456,
+    "club": 397,
+    "faldo": 491,
+    "member": 437,
+    "tournament": 471
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "bella": 348,
+    "championship": 425,
+    "club": 372,
+    "faldo": 450,
+    "member": 408,
+    "tournament": 441
+   }
+  }
+ ],
+ "id": "f89446f5-20eb-4550-8e98-93cdf526bea6",
+ "lat": 28.580532,
+ "lng": -81.681938,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "faldo-male",
+   "tee_name": "Faldo",
+   "yardage": 7594
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tournament-male",
+   "tee_name": "Tournament",
+   "yardage": 7270
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "championship-male",
+   "tee_name": "Championship",
+   "yardage": 6920
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "member-male",
+   "tee_name": "Member",
+   "yardage": 6504
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "club-female",
+   "tee_name": "Club",
+   "yardage": 6021
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "club-male",
+   "tee_name": "Club",
+   "yardage": 6021
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bella-female",
+   "tee_name": "Bella",
+   "yardage": 5455
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bella-male",
+   "tee_name": "Bella",
+   "yardage": 5455
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "city": "Jacksonville",
+ "club_name": "Windy Harbor Golf Club",
+ "course_name": "Windy Harbor Golf Club",
+ "dataset_name": "Windy Harbor Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 347,
+    "Green": 326,
+    "Red": 280,
+    "White": 312
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 382,
+    "Green": 358,
+    "Red": 298,
+    "White": 337
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "Blue": 547,
+    "Green": 477,
+    "Red": 436,
+    "White": 444
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Blue": 493,
+    "Green": 469,
+    "Red": 406,
+    "White": 455
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 181,
+    "Green": 166,
+    "Red": 119,
+    "White": 149
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 298,
+    "Green": 275,
+    "Red": 238,
+    "White": 265
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 145,
+    "Green": 135,
+    "Red": 111,
+    "White": 122
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "Blue": 348,
+    "Green": 332,
+    "Red": 295,
+    "White": 319
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 354,
+    "Green": 329,
+    "Red": 257,
+    "White": 316
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 350,
+    "Green": 337,
+    "Red": 294,
+    "White": 327
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 437,
+    "Green": 421,
+    "Red": 350,
+    "White": 407
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "Blue": 510,
+    "Green": 488,
+    "Red": 439,
+    "White": 478
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Blue": 362,
+    "Green": 341,
+    "Red": 298,
+    "White": 319
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "Blue": 174,
+    "Green": 155,
+    "Red": 117,
+    "White": 121
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 368,
+    "Green": 348,
+    "Red": 308,
+    "White": 334
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Blue": 425,
+    "Green": 399,
+    "Red": 355,
+    "White": 355
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 213,
+    "Green": 196,
+    "Red": 146,
+    "White": 179
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 532,
+    "Green": 512,
+    "Red": 457,
+    "White": 462
+   }
+  }
+ ],
+ "id": "bb25d149-5a6d-49a7-97f1-62e1d7ed8b4a",
+ "lat": 30.3860445,
+ "lng": -81.4117491,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6466
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 6064
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5701
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "White",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5701
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5204
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "Red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5204
+  }
+ ]
+}

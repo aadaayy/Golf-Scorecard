@@ -1,0 +1,218 @@
+{
+ "city": "Tallahassee",
+ "club_name": "Jake Gaither Municipal Golf Course",
+ "course_name": "Jake Gaither Municipal Golf Course",
+ "dataset_name": "Jake Gaither Municipal Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 400,
+    "red": 314,
+    "web": 393,
+    "white": 354
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "blue": 503,
+    "red": 392,
+    "web": 505,
+    "white": 450
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 320,
+    "red": 250,
+    "web": 314,
+    "white": 295
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 380,
+    "red": 275,
+    "web": 372,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 138,
+    "red": 113,
+    "web": 131,
+    "white": 126
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "blue": 600,
+    "red": 495,
+    "web": 598,
+    "white": 552
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 275,
+    "red": 247,
+    "web": 269,
+    "white": 267
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 188,
+    "red": 118,
+    "web": 189,
+    "white": 155
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 305,
+    "red": 271,
+    "web": 301,
+    "white": 293
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "web": 393
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "web": 505
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "web": 314
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "web": 372
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "web": 131
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "web": 598
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "web": 269
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "web": 189
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "web": 301
+   }
+  }
+ ],
+ "id": "a33baf71-c467-4eec-b3a7-a9f6b3121ae3",
+ "lat": 30.4015035,
+ "lng": -84.2950061,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3109
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 2849
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 2475
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2475
+  }
+ ]
+}

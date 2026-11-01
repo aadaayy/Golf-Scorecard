@@ -1,0 +1,129 @@
+{
+ "city": "The Villages",
+ "club_name": "Yankee Clipper At The Villages Executive Golf Trail",
+ "course_name": "Yankee Clipper At The Villages Executive Golf Trail",
+ "dataset_name": "Yankee Clipper At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 6,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "Black": 177,
+    "Gold": 153,
+    "Green": 130
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 176,
+    "Gold": 145,
+    "Green": 121
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 203,
+    "Gold": 187,
+    "Green": 170
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 360,
+    "Gold": 334,
+    "Green": 314
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 139,
+    "Gold": 121,
+    "Green": 103
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Black": 368,
+    "Gold": 339,
+    "Green": 316
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 192,
+    "Gold": 172,
+    "Green": 147
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 176,
+    "Gold": 155,
+    "Green": 125
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Black": 187,
+    "Gold": 160,
+    "Green": 133
+   }
+  }
+ ],
+ "id": "b1af4da8-a496-4a27-bcdf-fd7e5d6be2c9",
+ "lat": 28.8764277,
+ "lng": -82.0016461,
+ "par": 29,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1978
+  },
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1766
+  },
+  {
+   "gender": "Male",
+   "par": 29,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 1559
+  }
+ ]
+}

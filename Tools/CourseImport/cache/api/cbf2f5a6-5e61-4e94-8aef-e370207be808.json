@@ -1,0 +1,167 @@
+{
+ "city": "Ocala",
+ "club_name": "Eighteen Hole At On Top Of The World Golf Club",
+ "course_name": "Eighteen Hole At On Top Of The World Golf Club",
+ "dataset_name": "Eighteen Hole At On Top Of The World Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": null,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "web": 280
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "web": 517
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "web": 328
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "web": 334
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "web": 402
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "web": 182
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "web": 320
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "web": 137
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "web": 446
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "web": 462
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "web": 207
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "web": 339
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "web": 146
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "web": 312
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "web": 108
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "web": 460
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "web": 376
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "web": 366
+   }
+  }
+ ],
+ "id": "cbf2f5a6-5e61-4e94-8aef-e370207be808",
+ "lat": 29.0817971,
+ "lng": -82.2714218,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 65,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 4023
+  }
+ ]
+}

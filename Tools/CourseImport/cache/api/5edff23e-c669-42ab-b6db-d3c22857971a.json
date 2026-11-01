@@ -1,0 +1,245 @@
+{
+ "city": "Miramar Beach",
+ "club_name": "Raven At Sandestin Golf And Beach Resort",
+ "course_name": "Raven At Sandestin Golf And Beach Resort",
+ "dataset_name": "Raven At Sandestin Golf And Beach Resort",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "gold": 281,
+    "raven": 389,
+    "silver": 346,
+    "white": 325
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "gold": 324,
+    "raven": 460,
+    "silver": 415,
+    "white": 396
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "gold": 471,
+    "raven": 587,
+    "silver": 565,
+    "white": 545
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "gold": 88,
+    "raven": 193,
+    "silver": 148,
+    "white": 104
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "gold": 340,
+    "raven": 400,
+    "silver": 367,
+    "white": 356
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "gold": 87,
+    "raven": 203,
+    "silver": 174,
+    "white": 162
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "gold": 487,
+    "raven": 631,
+    "silver": 604,
+    "white": 546
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "gold": 86,
+    "raven": 158,
+    "silver": 131,
+    "white": 104
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "gold": 343,
+    "raven": 460,
+    "silver": 402,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "gold": 286,
+    "raven": 379,
+    "silver": 337,
+    "white": 312
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "gold": 450,
+    "raven": 562,
+    "silver": 522,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "gold": 72,
+    "raven": 130,
+    "silver": 113,
+    "white": 95
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "gold": 340,
+    "raven": 432,
+    "silver": 398,
+    "white": 369
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "gold": 308,
+    "raven": 421,
+    "silver": 388,
+    "white": 370
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "gold": 250,
+    "raven": 321,
+    "silver": 298,
+    "white": 282
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "gold": 136,
+    "raven": 228,
+    "silver": 207,
+    "white": 185
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "gold": 438,
+    "raven": 546,
+    "silver": 522,
+    "white": 481
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "gold": 319,
+    "raven": 431,
+    "silver": 424,
+    "white": 414
+   }
+  }
+ ],
+ "id": "5edff23e-c669-42ab-b6db-d3c22857971a",
+ "lat": 30.384895,
+ "lng": -86.3178974,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "raven-male",
+   "tee_name": "Raven",
+   "yardage": 6931
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 6361
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5891
+  },
+  {
+   "gender": "Male",
+   "par": 71,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 5060
+  }
+ ]
+}

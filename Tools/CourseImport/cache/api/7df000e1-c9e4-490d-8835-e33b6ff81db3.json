@@ -1,0 +1,62 @@
+{
+ "city": "Citra",
+ "club_name": "Grand Lake Rv And Golf Resort",
+ "course_name": "Grand Lake Rv And Golf Resort",
+ "dataset_name": "Grand Lake Rv And Golf Resort",
+ "holes": 18,
+ "holes_data": [],
+ "id": "7df000e1-c9e4-490d-8835-e33b6ff81db3",
+ "lat": 29.4260086,
+ "lng": -82.2069658,
+ "par": 33,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 33,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 2191
+  },
+  {
+   "gender": "Male",
+   "par": 33,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 2191
+  },
+  {
+   "gender": "Female",
+   "par": 33,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 1962
+  },
+  {
+   "gender": "Male",
+   "par": 33,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1962
+  },
+  {
+   "gender": "Female",
+   "par": 33,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 1702
+  },
+  {
+   "gender": "Male",
+   "par": 33,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 1702
+  }
+ ]
+}

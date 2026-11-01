@@ -1,0 +1,297 @@
+{
+ "city": "Amelia Island",
+ "club_name": "Golf Club Of Amelia Island At Summer Beach The",
+ "course_name": "Golf Club Of Amelia Island At Summer Beach The",
+ "dataset_name": "Golf Club Of Amelia Island At Summer Beach The",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 354,
+    "blue": 387,
+    "gold": 413,
+    "red": 314,
+    "web": 413,
+    "white": 320
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "black": 497,
+    "blue": 532,
+    "gold": 562,
+    "red": 461,
+    "web": 562,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 292,
+    "blue": 319,
+    "gold": 342,
+    "red": 242,
+    "web": 342,
+    "white": 256
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 345,
+    "blue": 359,
+    "gold": 402,
+    "red": 312,
+    "web": 402,
+    "white": 322
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 124,
+    "blue": 134,
+    "gold": 157,
+    "red": 91,
+    "web": 157,
+    "white": 103
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "black": 316,
+    "blue": 331,
+    "gold": 364,
+    "red": 269,
+    "web": 364,
+    "white": 279
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 339,
+    "blue": 351,
+    "gold": 392,
+    "red": 304,
+    "web": 392,
+    "white": 312
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 460,
+    "blue": 472,
+    "gold": 491,
+    "red": 413,
+    "web": 491,
+    "white": 446
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "black": 155,
+    "blue": 186,
+    "gold": 206,
+    "red": 123,
+    "web": 206,
+    "white": 142
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 363,
+    "blue": 375,
+    "gold": 383,
+    "red": 336,
+    "web": 383,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "blue": 408,
+    "gold": 436,
+    "red": 356,
+    "web": 436,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 5,
+   "yardages": {
+    "black": 440,
+    "blue": 471,
+    "gold": 512,
+    "red": 407,
+    "web": 512,
+    "white": 415
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 130,
+    "blue": 140,
+    "gold": 150,
+    "red": 93,
+    "web": 150,
+    "white": 122
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 285,
+    "blue": 330,
+    "gold": 351,
+    "red": 246,
+    "web": 351,
+    "white": 256
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 427,
+    "blue": 464,
+    "gold": 482,
+    "red": 390,
+    "web": 482,
+    "white": 394
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 125,
+    "blue": 144,
+    "gold": 196,
+    "red": 106,
+    "web": 196,
+    "white": 115
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 315,
+    "blue": 345,
+    "gold": 380,
+    "red": 260,
+    "web": 380,
+    "white": 308
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 362,
+    "blue": 401,
+    "gold": 441,
+    "red": 292,
+    "web": 441,
+    "white": 297
+   }
+  }
+ ],
+ "id": "df8fa201-f4a8-46e5-a696-5989c3aa0218",
+ "lat": 30.5944805,
+ "lng": -81.4458007,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6696
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6156
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 5767
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5341
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5039
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5039
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "city": "Lutz",
+ "club_name": "Heritage Harbor",
+ "course_name": "Heritage Harbor",
+ "dataset_name": "Heritage Harbor",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 12,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 306,
+    "champ": 346,
+    "red": 250,
+    "white": 286
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 287,
+    "champ": 300,
+    "red": 236,
+    "white": 250
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 150,
+    "champ": 181,
+    "red": 90,
+    "white": 137
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 394,
+    "champ": 422,
+    "red": 282,
+    "white": 292
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "blue": 463,
+    "champ": 519,
+    "red": 379,
+    "white": 445
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "champ": 412,
+    "red": 306,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 177,
+    "champ": 213,
+    "red": 125,
+    "white": 169
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 496,
+    "champ": 557,
+    "red": 398,
+    "white": 458
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 344,
+    "champ": 373,
+    "red": 263,
+    "white": 313
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "blue": 537,
+    "champ": 556,
+    "red": 428,
+    "white": 482
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 339,
+    "champ": 387,
+    "red": 253,
+    "white": 309
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 323,
+    "champ": 417,
+    "red": 264,
+    "white": 295
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 355,
+    "champ": 415,
+    "red": 280,
+    "white": 319
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "blue": 131,
+    "champ": 263,
+    "red": 104,
+    "white": 118
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "blue": 533,
+    "champ": 577,
+    "red": 468,
+    "white": 505
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 143,
+    "champ": 176,
+    "red": 90,
+    "white": 127
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 349,
+    "champ": 406,
+    "red": 282,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 331,
+    "champ": 378,
+    "red": 275,
+    "white": 313
+   }
+  }
+ ],
+ "id": "76f3319b-c32d-491d-b369-fe394ee264c5",
+ "lat": 28.1689971,
+ "lng": -82.511952,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "champ-male",
+   "tee_name": "Champ",
+   "yardage": 6898
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6053
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5487
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4773
+  }
+ ]
+}

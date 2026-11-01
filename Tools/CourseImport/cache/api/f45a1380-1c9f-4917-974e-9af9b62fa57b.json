@@ -1,0 +1,171 @@
+{
+ "city": "Homosassa",
+ "club_name": "Sugarmill Woods Country Club Cypress Course",
+ "course_name": "Sugarmill Woods Country Club Cypress Course",
+ "dataset_name": "Sugarmill Woods Country Club Cypress Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 5,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 535,
+    "gold": 496,
+    "red": 486,
+    "web": 535,
+    "white": 509
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 374,
+    "gold": 332,
+    "red": 228,
+    "web": 374,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 174,
+    "gold": 153,
+    "red": 146,
+    "web": 174,
+    "white": 161
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "blue": 410,
+    "gold": 360,
+    "red": 295,
+    "web": 410,
+    "white": 380
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 398,
+    "gold": 340,
+    "red": 275,
+    "web": 398,
+    "white": 365
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 199,
+    "gold": 163,
+    "red": 152,
+    "web": 199,
+    "white": 174
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "gold": 374,
+    "red": 304,
+    "web": 395,
+    "white": 388
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 536,
+    "gold": 504,
+    "red": 450,
+    "web": 536,
+    "white": 515
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 395,
+    "gold": 347,
+    "red": 332,
+    "web": 395,
+    "white": 362
+   }
+  }
+ ],
+ "id": "f45a1380-1c9f-4917-974e-9af9b62fa57b",
+ "lat": 28.7401426,
+ "lng": -82.536319,
+ "par": 36,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 3416
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 3204
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 3069
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "gold",
+   "tee_key": "gold-female",
+   "tee_name": "Gold",
+   "yardage": 3069
+  },
+  {
+   "gender": "Male",
+   "par": 36,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 2668
+  },
+  {
+   "gender": "Female",
+   "par": 36,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 2641
+  }
+ ]
+}

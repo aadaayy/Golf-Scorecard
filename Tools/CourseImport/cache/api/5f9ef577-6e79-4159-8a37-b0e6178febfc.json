@@ -1,0 +1,353 @@
+{
+ "city": "New Smyrna Beach",
+ "club_name": "Red Blue At Sugar Mill Country Club",
+ "course_name": "Red Blue At Sugar Mill Country Club",
+ "dataset_name": "Red Blue At Sugar Mill Country Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 4,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 533,
+    "blue": 501,
+    "green": 423,
+    "white": 470,
+    "yellow": 405
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 370,
+    "blue": 357,
+    "green": 286,
+    "white": 329,
+    "yellow": 263
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 368,
+    "blue": 355,
+    "green": 301,
+    "white": 340,
+    "yellow": 261
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 172,
+    "blue": 160,
+    "green": 129,
+    "white": 147,
+    "yellow": 117
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 437,
+    "blue": 415,
+    "green": 316,
+    "white": 391,
+    "yellow": 296
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 502,
+    "blue": 487,
+    "green": 405,
+    "white": 466,
+    "yellow": 395
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "black": 175,
+    "blue": 165,
+    "green": 139,
+    "white": 152,
+    "yellow": 124
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 8,
+   "par": 4,
+   "yardages": {
+    "black": 403,
+    "blue": 391,
+    "green": 300,
+    "white": 371,
+    "yellow": 286
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 399,
+    "blue": 384,
+    "green": 334,
+    "white": 367,
+    "yellow": 291
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "black": 518,
+    "blue": 501,
+    "green": 423,
+    "white": 492,
+    "yellow": 400
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 150,
+    "blue": 142,
+    "green": 116,
+    "white": 135,
+    "yellow": 110
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 410,
+    "blue": 396,
+    "green": 309,
+    "white": 344,
+    "yellow": 285
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 169,
+    "blue": 153,
+    "green": 109,
+    "white": 139,
+    "yellow": 86
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 357,
+    "blue": 345,
+    "green": 312,
+    "white": 333,
+    "yellow": 283
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 420,
+    "blue": 407,
+    "green": 358,
+    "white": 398,
+    "yellow": 320
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 521,
+    "blue": 511,
+    "green": 433,
+    "white": 502,
+    "yellow": 405
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 388,
+    "blue": 377,
+    "green": 298,
+    "white": 367,
+    "yellow": 275
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 395,
+    "blue": 372,
+    "green": 306,
+    "white": 357,
+    "yellow": 271
+   }
+  },
+  {
+   "handicap_index": null,
+   "number": 19,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 20,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 21,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 22,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 23,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 24,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 25,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 26,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 27,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 28,
+   "par": 4,
+   "yardages": null
+  },
+  {
+   "handicap_index": null,
+   "number": 29,
+   "par": 4,
+   "yardages": null
+  }
+ ],
+ "id": "5f9ef577-6e79-4159-8a37-b0e6178febfc",
+ "lat": 29.0440086,
+ "lng": -80.9848826,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6687
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6419
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6100
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5297
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5297
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-female",
+   "tee_name": "Yellow",
+   "yardage": 4873
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 4873
+  }
+ ]
+}

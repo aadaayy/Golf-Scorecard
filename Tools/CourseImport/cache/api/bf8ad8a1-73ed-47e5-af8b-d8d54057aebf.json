@@ -1,0 +1,245 @@
+{
+ "city": "Ocala",
+ "club_name": "Tortoise Hare At On Top Of The World",
+ "course_name": "Tortoise Hare At On Top Of The World",
+ "dataset_name": "Tortoise Hare At On Top Of The World",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Blue": 292,
+    "Orange": 230,
+    "White": 286,
+    "Yellow": 280
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 5,
+   "yardages": {
+    "Blue": 551,
+    "Orange": 392,
+    "White": 446,
+    "Yellow": 400
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 337,
+    "Orange": 250,
+    "White": 330,
+    "Yellow": 283
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Orange": 273,
+    "White": 332,
+    "Yellow": 276
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 5,
+   "yardages": {
+    "Blue": 425,
+    "Orange": 303,
+    "White": 360,
+    "Yellow": 335
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Blue": 205,
+    "Orange": 141,
+    "White": 189,
+    "Yellow": 165
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "Blue": 342,
+    "Orange": 281,
+    "White": 319,
+    "Yellow": 287
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 165,
+    "Orange": 105,
+    "White": 135,
+    "Yellow": 130
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 5,
+   "yardages": {
+    "Blue": 504,
+    "Orange": 356,
+    "White": 432,
+    "Yellow": 402
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 5,
+   "yardages": {
+    "Blue": 542,
+    "Orange": 389,
+    "White": 476,
+    "Yellow": 466
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Blue": 213,
+    "Orange": 120,
+    "White": 190,
+    "Yellow": 127
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 416,
+    "Orange": 268,
+    "White": 335,
+    "Yellow": 282
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 161,
+    "Orange": 103,
+    "White": 153,
+    "Yellow": 105
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 328,
+    "Orange": 263,
+    "White": 312,
+    "Yellow": 268
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Blue": 123,
+    "Orange": 96,
+    "White": 115,
+    "Yellow": 105
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Blue": 456,
+    "Orange": 405,
+    "White": 435,
+    "Yellow": 416
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Blue": 398,
+    "Orange": 289,
+    "White": 373,
+    "Yellow": 297
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Blue": 388,
+    "Orange": 300,
+    "White": 364,
+    "Yellow": 347
+   }
+  }
+ ],
+ "id": "bf8ad8a1-73ed-47e5-af8b-d8d54057aebf",
+ "lat": 29.0817971,
+ "lng": -82.2714218,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6188
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5582
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 4971
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "orange-male",
+   "tee_name": "Orange",
+   "yardage": 4564
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "city": "The Villages",
+ "club_name": "Bonifay Country Club Fort Walton Pensacola",
+ "course_name": "Bonifay Country Club Fort Walton Pensacola",
+ "dataset_name": "Bonifay Country Club Fort Walton Pensacola",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 3,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "black": 596,
+    "blue": 526,
+    "friendly": 323,
+    "gold": 557,
+    "green": 416,
+    "web": 596,
+    "white": 480
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "black": 195,
+    "blue": 164,
+    "friendly": 86,
+    "gold": 184,
+    "green": 108,
+    "web": 195,
+    "white": 132
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "black": 367,
+    "blue": 313,
+    "friendly": 197,
+    "gold": 340,
+    "green": 256,
+    "web": 367,
+    "white": 275
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 436,
+    "blue": 359,
+    "friendly": 235,
+    "gold": 390,
+    "green": 293,
+    "web": 436,
+    "white": 329
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 426,
+    "blue": 373,
+    "friendly": 247,
+    "gold": 401,
+    "green": 301,
+    "web": 426,
+    "white": 366
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 599,
+    "blue": 514,
+    "friendly": 337,
+    "gold": 547,
+    "green": 370,
+    "web": 599,
+    "white": 464
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 390,
+    "blue": 350,
+    "friendly": 259,
+    "gold": 377,
+    "green": 263,
+    "web": 390,
+    "white": 314
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "black": 185,
+    "blue": 161,
+    "friendly": 90,
+    "gold": 178,
+    "green": 110,
+    "web": 185,
+    "white": 138
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 444,
+    "blue": 378,
+    "friendly": 208,
+    "gold": 408,
+    "green": 296,
+    "web": 444,
+    "white": 341
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 427,
+    "blue": 398,
+    "friendly": 237,
+    "gold": 417,
+    "green": 294,
+    "web": 427,
+    "white": 374
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "black": 435,
+    "blue": 382,
+    "friendly": 272,
+    "gold": 405,
+    "green": 356,
+    "web": 435,
+    "white": 375
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "black": 202,
+    "blue": 163,
+    "friendly": 99,
+    "gold": 192,
+    "green": 101,
+    "web": 202,
+    "white": 128
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "black": 535,
+    "blue": 473,
+    "friendly": 318,
+    "gold": 497,
+    "green": 401,
+    "web": 535,
+    "white": 420
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "black": 171,
+    "blue": 139,
+    "friendly": 87,
+    "gold": 163,
+    "green": 92,
+    "web": 171,
+    "white": 113
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "black": 516,
+    "blue": 466,
+    "friendly": 296,
+    "gold": 492,
+    "green": 403,
+    "web": 516,
+    "white": 435
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "black": 216,
+    "blue": 167,
+    "friendly": 61,
+    "gold": 188,
+    "green": 115,
+    "web": 216,
+    "white": 137
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 475,
+    "blue": 386,
+    "friendly": 252,
+    "gold": 414,
+    "green": 295,
+    "web": 475,
+    "white": 343
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 488,
+    "blue": 444,
+    "friendly": 328,
+    "gold": 472,
+    "green": 413,
+    "web": 488,
+    "white": 421
+   }
+  }
+ ],
+ "id": "e43dac0d-0a0c-452c-b3c6-cf1428a8f7f3",
+ "lat": 28.8595608,
+ "lng": -81.9756586,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7103
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6622
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6156
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5585
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5585
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4883
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4883
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 3932
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3932
+  }
+ ]
+}

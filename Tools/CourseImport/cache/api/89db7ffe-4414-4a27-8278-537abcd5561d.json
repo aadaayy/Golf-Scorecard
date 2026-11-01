@@ -1,0 +1,271 @@
+{
+ "city": "Ocala",
+ "club_name": "Country Club Of Silver Springs Shores",
+ "course_name": "Country Club Of Silver Springs Shores",
+ "dataset_name": "Country Club Of Silver Springs Shores",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 382,
+    "gold": 399,
+    "green": 350,
+    "red": 334,
+    "white": 361
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 353,
+    "gold": 365,
+    "green": 305,
+    "red": 295,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 373,
+    "gold": 385,
+    "green": 311,
+    "red": 295,
+    "white": 356
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "blue": 475,
+    "gold": 495,
+    "green": 407,
+    "red": 401,
+    "white": 451
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 187,
+    "gold": 201,
+    "green": 160,
+    "red": 134,
+    "white": 174
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 348,
+    "gold": 368,
+    "green": 303,
+    "red": 292,
+    "white": 327
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "blue": 479,
+    "gold": 505,
+    "green": 437,
+    "red": 403,
+    "white": 445
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 157,
+    "gold": 170,
+    "green": 117,
+    "red": 97,
+    "white": 144
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 369,
+    "gold": 400,
+    "green": 332,
+    "red": 315,
+    "white": 347
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 414,
+    "gold": 460,
+    "green": 330,
+    "red": 282,
+    "white": 378
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "blue": 493,
+    "gold": 507,
+    "green": 435,
+    "red": 422,
+    "white": 477
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 420,
+    "gold": 449,
+    "green": 343,
+    "red": 293,
+    "white": 393
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 183,
+    "gold": 217,
+    "green": 140,
+    "red": 113,
+    "white": 158
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "blue": 345,
+    "gold": 380,
+    "green": 290,
+    "red": 283,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 400,
+    "gold": 430,
+    "green": 340,
+    "red": 312,
+    "white": 378
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "blue": 190,
+    "gold": 205,
+    "green": 163,
+    "red": 143,
+    "white": 175
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 399,
+    "gold": 414,
+    "green": 350,
+    "red": 338,
+    "white": 362
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 572,
+    "gold": 585,
+    "green": 442,
+    "red": 432,
+    "white": 555
+   }
+  }
+ ],
+ "id": "89db7ffe-4414-4a27-8278-537abcd5561d",
+ "lat": 29.1037596,
+ "lng": -81.9999645,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6935
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6539
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6151
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5465
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 5188
+  }
+ ]
+}

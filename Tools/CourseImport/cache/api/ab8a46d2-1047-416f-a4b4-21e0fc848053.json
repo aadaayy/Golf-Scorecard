@@ -1,0 +1,295 @@
+{
+ "city": "Carrabelle",
+ "club_name": "St James Bay Golf Club",
+ "course_name": "St James Bay Golf Club",
+ "dataset_name": "St James Bay Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 10,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 397,
+    "Blue": 356,
+    "Green": 285,
+    "Red": 200,
+    "White": 336
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 162,
+    "Blue": 141,
+    "Green": 115,
+    "Red": 100,
+    "White": 123
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 307,
+    "Blue": 293,
+    "Green": 213,
+    "Red": 142,
+    "White": 269
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Black": 423,
+    "Blue": 383,
+    "Green": 325,
+    "Red": 290,
+    "White": 363
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 404,
+    "Blue": 347,
+    "Green": 267,
+    "Red": 245,
+    "White": 310
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 194,
+    "Blue": 178,
+    "Green": 145,
+    "Red": 140,
+    "White": 160
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Black": 506,
+    "Blue": 453,
+    "Green": 368,
+    "Red": 345,
+    "White": 412
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "Black": 488,
+    "Blue": 450,
+    "Green": 380,
+    "Red": 299,
+    "White": 416
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 399,
+    "Blue": 380,
+    "Green": 310,
+    "Red": 293,
+    "White": 342
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 350,
+    "Blue": 325,
+    "Green": 270,
+    "Red": 230,
+    "White": 300
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "Black": 183,
+    "Blue": 166,
+    "Green": 140,
+    "Red": 132,
+    "White": 165
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Black": 372,
+    "Blue": 337,
+    "Green": 292,
+    "Red": 213,
+    "White": 313
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "Black": 433,
+    "Blue": 420,
+    "Green": 337,
+    "Red": 300,
+    "White": 391
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 370,
+    "Blue": 346,
+    "Green": 285,
+    "Red": 259,
+    "White": 318
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 15,
+   "par": 5,
+   "yardages": {
+    "Black": 522,
+    "Blue": 473,
+    "Green": 372,
+    "Red": 332,
+    "White": 439
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 390,
+    "Blue": 353,
+    "Green": 285,
+    "Red": 210,
+    "White": 306
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Black": 168,
+    "Blue": 146,
+    "Green": 104,
+    "Red": 99,
+    "White": 121
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Black": 542,
+    "Blue": 518,
+    "Green": 429,
+    "Red": 380,
+    "White": 489
+   }
+  }
+ ],
+ "id": "ab8a46d2-1047-416f-a4b4-21e0fc848053",
+ "lat": 29.9047477,
+ "lng": -84.5625507,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 6610
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6065
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5573
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5573
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4922
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4922
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4209
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4209
+  }
+ ]
+}

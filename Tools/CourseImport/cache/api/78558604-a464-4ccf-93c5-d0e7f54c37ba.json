@@ -1,0 +1,288 @@
+{
+ "city": "Davenport",
+ "club_name": "White Heron Golf Club",
+ "course_name": "White Heron Golf Club",
+ "dataset_name": "White Heron Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "Black": 392,
+    "Blue": 378,
+    "Green": 278,
+    "White": 336,
+    "Yellow": 283,
+    "web": 389
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Black": 442,
+    "Blue": 420,
+    "Green": 334,
+    "White": 397,
+    "Yellow": 374,
+    "web": 438
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Black": 395,
+    "Blue": 377,
+    "Green": 287,
+    "White": 330,
+    "Yellow": 294,
+    "web": 389
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 4,
+   "par": 5,
+   "yardages": {
+    "Black": 560,
+    "Blue": 520,
+    "Green": 358,
+    "White": 495,
+    "Yellow": 447,
+    "web": 543
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "Black": 392,
+    "Blue": 342,
+    "Green": 290,
+    "White": 333,
+    "Yellow": 305,
+    "web": 407
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 210,
+    "Blue": 190,
+    "Green": 124,
+    "White": 160,
+    "Yellow": 145,
+    "web": 202
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 5,
+   "yardages": {
+    "Black": 607,
+    "Blue": 555,
+    "Green": 390,
+    "White": 505,
+    "Yellow": 475,
+    "web": 609
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 190,
+    "Blue": 165,
+    "Green": 107,
+    "White": 155,
+    "Yellow": 135,
+    "web": 187
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Black": 425,
+    "Blue": 392,
+    "Green": 285,
+    "White": 382,
+    "Yellow": 314,
+    "web": 424
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Black": 397,
+    "Blue": 361,
+    "Green": 211,
+    "White": 334,
+    "Yellow": 271,
+    "web": 400
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "Black": 620,
+    "Blue": 560,
+    "Green": 350,
+    "White": 527,
+    "Yellow": 450,
+    "web": 645
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "Black": 230,
+    "Blue": 225,
+    "Green": 150,
+    "White": 210,
+    "Yellow": 170,
+    "web": 227
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "Black": 545,
+    "Blue": 510,
+    "Green": 350,
+    "White": 460,
+    "Yellow": 410,
+    "web": 536
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Black": 442,
+    "Blue": 422,
+    "Green": 293,
+    "White": 392,
+    "Yellow": 301,
+    "web": 413
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "Black": 206,
+    "Blue": 196,
+    "Green": 129,
+    "White": 173,
+    "Yellow": 139,
+    "web": 212
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "Black": 434,
+    "Blue": 404,
+    "Green": 310,
+    "White": 379,
+    "Yellow": 353,
+    "web": 446
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "Black": 423,
+    "Blue": 387,
+    "Green": 310,
+    "White": 360,
+    "Yellow": 315
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "Black": 380,
+    "Blue": 326,
+    "Green": 232,
+    "White": 297,
+    "Yellow": 240,
+    "web": 356
+   }
+  }
+ ],
+ "id": "78558604-a464-4ccf-93c5-d0e7f54c37ba",
+ "lat": 28.1908016,
+ "lng": -81.6182708,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7290
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6730
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6225
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "yellow-male",
+   "tee_name": "Yellow",
+   "yardage": 5421
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4788
+  }
+ ]
+}

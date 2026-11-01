@@ -1,0 +1,138 @@
+{
+ "city": "The Villages",
+ "club_name": "Turtle Mound At The Villages Executive Golf Trail",
+ "course_name": "Turtle Mound At The Villages Executive Golf Trail",
+ "dataset_name": "Turtle Mound At The Villages Executive Golf Trail",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 8,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "Black": 159,
+    "Gold": 131,
+    "Green": 98,
+    "web": 159
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "Black": 116,
+    "Gold": 112,
+    "Green": 96,
+    "web": 116
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "Black": 141,
+    "Gold": 119,
+    "Green": 94,
+    "web": 141
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "Black": 129,
+    "Gold": 120,
+    "Green": 88,
+    "web": 129
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Black": 145,
+    "Gold": 127,
+    "Green": 109,
+    "web": 145
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "Black": 143,
+    "Gold": 126,
+    "Green": 114,
+    "web": 143
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Black": 173,
+    "Gold": 156,
+    "Green": 139,
+    "web": 173
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Black": 143,
+    "Gold": 122,
+    "Green": 105,
+    "web": 143
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "Black": 174,
+    "Gold": 153,
+    "Green": 130,
+    "web": 174
+   }
+  }
+ ],
+ "id": "83d4be06-c1c2-4b49-a9f0-1c0dacc61aee",
+ "lat": 28.8701213,
+ "lng": -81.9943383,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 1323
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 1166
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 973
+  }
+ ]
+}

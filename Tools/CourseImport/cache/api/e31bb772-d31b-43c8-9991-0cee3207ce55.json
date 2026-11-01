@@ -1,0 +1,243 @@
+{
+ "city": "HOWEY IN HLS",
+ "club_name": "Bishops Gate Golf And Lakeside Community",
+ "course_name": "Bishops Gate Golf And Lakeside Community",
+ "dataset_name": "Bishops Gate Golf And Lakeside Community",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 18,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 2,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 14,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 16,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 4,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "pawn": 289,
+    "web": 453
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "pawn": 120,
+    "web": 195
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 13,
+   "par": 5,
+   "yardages": {
+    "pawn": 430,
+    "web": 543
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "pawn": 325,
+    "web": 325
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "pawn": 314,
+    "web": 386
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "pawn": 123,
+    "web": 173
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "pawn": 248,
+    "web": 470
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "pawn": 412,
+    "web": 437
+   }
+  }
+ ],
+ "id": "e31bb772-d31b-43c8-9991-0cee3207ce55",
+ "lat": 28.7384879,
+ "lng": -81.7882325,
+ "par": 71,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "king-male",
+   "tee_name": "King",
+   "yardage": 6863
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "king-female",
+   "tee_name": "King",
+   "yardage": 6863
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "knight-male",
+   "tee_name": "Knight",
+   "yardage": 6568
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "knight-female",
+   "tee_name": "Knight",
+   "yardage": 6568
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bishop-male",
+   "tee_name": "Bishop",
+   "yardage": 6288
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "bishop-female",
+   "tee_name": "Bishop",
+   "yardage": 6288
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "rook-male",
+   "tee_name": "Rook",
+   "yardage": 5854
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "rook-female",
+   "tee_name": "Rook",
+   "yardage": 5854
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "queen-male",
+   "tee_name": "Queen",
+   "yardage": 5518
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "queen-female",
+   "tee_name": "Queen",
+   "yardage": 5518
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pawn-male",
+   "tee_name": "Pawn",
+   "yardage": 5249
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "pawn-female",
+   "tee_name": "Pawn",
+   "yardage": 5249
+  }
+ ]
+}

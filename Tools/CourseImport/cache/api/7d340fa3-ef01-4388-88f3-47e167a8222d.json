@@ -1,0 +1,297 @@
+{
+ "city": "Kissimmee",
+ "club_name": "Oaks Course At Stonegate Golf Club",
+ "course_name": "Oaks Course At Stonegate Golf Club",
+ "dataset_name": "Oaks Course At Stonegate Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "blue": 512,
+    "gold": 535,
+    "green": 433,
+    "red": 459,
+    "silver/green": 371,
+    "white": 485
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 374,
+    "gold": 390,
+    "green": 277,
+    "red": 318,
+    "silver/green": 277,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "blue": 406,
+    "gold": 424,
+    "green": 301,
+    "red": 330,
+    "silver/green": 301,
+    "white": 363
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 189,
+    "gold": 194,
+    "green": 113,
+    "red": 146,
+    "silver/green": 113,
+    "white": 171
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 374,
+    "gold": 403,
+    "green": 288,
+    "red": 314,
+    "silver/green": 288,
+    "white": 343
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "blue": 340,
+    "gold": 366,
+    "green": 274,
+    "red": 302,
+    "silver/green": 274,
+    "white": 328
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 158,
+    "gold": 168,
+    "green": 102,
+    "red": 131,
+    "silver/green": 102,
+    "white": 151
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 541,
+    "gold": 556,
+    "green": 374,
+    "red": 448,
+    "silver/green": 319,
+    "white": 474
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 424,
+    "gold": 454,
+    "green": 267,
+    "red": 320,
+    "silver/green": 242,
+    "white": 380
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 398,
+    "gold": 425,
+    "green": 331,
+    "red": 358,
+    "silver/green": 331,
+    "white": 368
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 428,
+    "gold": 448,
+    "green": 333,
+    "red": 369,
+    "silver/green": 283,
+    "white": 392
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "blue": 180,
+    "gold": 189,
+    "green": 118,
+    "red": 152,
+    "silver/green": 118,
+    "white": 162
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 4,
+   "yardages": {
+    "blue": 371,
+    "gold": 397,
+    "green": 298,
+    "red": 325,
+    "silver/green": 298,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 530,
+    "gold": 564,
+    "green": 411,
+    "red": 444,
+    "silver/green": 349,
+    "white": 485
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "blue": 158,
+    "gold": 166,
+    "green": 110,
+    "red": 115,
+    "silver/green": 110,
+    "white": 139
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "blue": 374,
+    "gold": 414,
+    "green": 302,
+    "red": 306,
+    "silver/green": 302,
+    "white": 343
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "blue": 381,
+    "gold": 419,
+    "green": 307,
+    "red": 320,
+    "silver/green": 277,
+    "white": 350
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "blue": 497,
+    "gold": 523,
+    "green": 427,
+    "red": 454,
+    "silver/green": 367,
+    "white": 477
+   }
+  }
+ ],
+ "id": "7d340fa3-ef01-4388-88f3-47e167a8222d",
+ "lat": 28.1360381,
+ "lng": -81.4818024,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 7035
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6635
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 6112
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 5611
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5066
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "silver-green-male",
+   "tee_name": "Silver/Green",
+   "yardage": 4722
+  }
+ ]
+}

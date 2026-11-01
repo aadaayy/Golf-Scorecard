@@ -1,0 +1,347 @@
+{
+ "city": "The Villages",
+ "club_name": "Evans Prairie Country Club Killdeer Osprey",
+ "course_name": "Evans Prairie Country Club Killdeer Osprey",
+ "dataset_name": "Evans Prairie Country Club Killdeer Osprey",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 11,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 406,
+    "blue": 350,
+    "friendly": 224,
+    "gold": 385,
+    "green": 270,
+    "web": 406,
+    "white": 317
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 448,
+    "blue": 378,
+    "friendly": 252,
+    "gold": 421,
+    "green": 317,
+    "web": 448,
+    "white": 355
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "black": 523,
+    "blue": 450,
+    "friendly": 296,
+    "gold": 514,
+    "green": 366,
+    "web": 523,
+    "white": 418
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "black": 207,
+    "blue": 185,
+    "friendly": 82,
+    "gold": 202,
+    "green": 88,
+    "web": 207,
+    "white": 167
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "black": 425,
+    "blue": 363,
+    "friendly": 210,
+    "gold": 389,
+    "green": 318,
+    "web": 425,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "black": 167,
+    "blue": 137,
+    "friendly": 93,
+    "gold": 158,
+    "green": 99,
+    "web": 167,
+    "white": 130
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 459,
+    "blue": 405,
+    "friendly": 247,
+    "gold": 425,
+    "green": 305,
+    "web": 459,
+    "white": 313
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 530,
+    "blue": 464,
+    "friendly": 322,
+    "gold": 497,
+    "green": 376,
+    "web": 530,
+    "white": 420
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 421,
+    "blue": 384,
+    "friendly": 282,
+    "gold": 392,
+    "green": 289,
+    "web": 421,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 435,
+    "blue": 383,
+    "friendly": 232,
+    "gold": 414,
+    "green": 268,
+    "web": 435,
+    "white": 352
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 5,
+   "yardages": {
+    "black": 559,
+    "blue": 517,
+    "friendly": 285,
+    "gold": 550,
+    "green": 442,
+    "web": 559,
+    "white": 487
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 374,
+    "blue": 314,
+    "friendly": 207,
+    "gold": 343,
+    "green": 245,
+    "web": 374,
+    "white": 285
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 180,
+    "blue": 151,
+    "friendly": 81,
+    "gold": 165,
+    "green": 104,
+    "web": 180,
+    "white": 114
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 335,
+    "blue": 291,
+    "friendly": 213,
+    "gold": 328,
+    "green": 243,
+    "web": 335,
+    "white": 265
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "black": 175,
+    "blue": 147,
+    "friendly": 101,
+    "gold": 168,
+    "green": 107,
+    "web": 175,
+    "white": 122
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 16,
+   "par": 4,
+   "yardages": {
+    "black": 407,
+    "blue": 367,
+    "friendly": 185,
+    "gold": 376,
+    "green": 308,
+    "web": 407,
+    "white": 337
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 17,
+   "par": 5,
+   "yardages": {
+    "black": 528,
+    "blue": 478,
+    "friendly": 307,
+    "gold": 491,
+    "green": 417,
+    "web": 528,
+    "white": 458
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "black": 446,
+    "blue": 406,
+    "friendly": 255,
+    "gold": 437,
+    "green": 311,
+    "web": 446,
+    "white": 373
+   }
+  }
+ ],
+ "id": "5550c77a-042d-4af7-9c7a-7f2618eccf13",
+ "lat": 28.8544361,
+ "lng": -81.9983034,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7025
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6655
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6170
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 6170
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5623
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5623
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4873
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4873
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-male",
+   "tee_name": "Friendly",
+   "yardage": 3888
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "friendly-female",
+   "tee_name": "Friendly",
+   "yardage": 3888
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "city": "Leesburg",
+ "club_name": "Monarch Golf Club At Royal Highlands",
+ "course_name": "Monarch Golf Club At Royal Highlands",
+ "dataset_name": "Monarch Golf Club At Royal Highlands",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 11,
+   "number": 3,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 1,
+   "number": 5,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 7,
+   "number": 6,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 3,
+   "number": 7,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 17,
+   "number": 8,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 12,
+   "number": 10,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 10,
+   "number": 13,
+   "par": 5,
+   "yardages": null
+  },
+  {
+   "handicap_index": 8,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "challenge": 315,
+    "classic": 245,
+    "master": 310,
+    "tiger": 326
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "challenge": 358,
+    "classic": 289,
+    "master": 340,
+    "tiger": 396
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "challenge": 456,
+    "classic": 369,
+    "master": 418,
+    "tiger": 494
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "challenge": 296,
+    "classic": 218,
+    "master": 274,
+    "tiger": 308
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "challenge": 320,
+    "classic": 250,
+    "master": 307,
+    "tiger": 335
+   }
+  }
+ ],
+ "id": "7b33b7e9-5aa0-42ec-ac1a-1c93a97d9bf0",
+ "lat": 28.6576859,
+ "lng": -81.8663288,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "tiger-male",
+   "tee_name": "Tiger",
+   "yardage": 6008
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "challenge-male",
+   "tee_name": "Challenge",
+   "yardage": 5493
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "master-male",
+   "tee_name": "Master",
+   "yardage": 5145
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "master-female",
+   "tee_name": "Master",
+   "yardage": 5145
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "classic-female",
+   "tee_name": "Classic",
+   "yardage": 4247
+  }
+ ]
+}

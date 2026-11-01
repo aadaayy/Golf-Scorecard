@@ -1,0 +1,193 @@
+{
+ "city": "Largo",
+ "club_name": "Largo Golf Course",
+ "course_name": "Largo Golf Course",
+ "dataset_name": "Largo Golf Course",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 1,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "back": 330,
+    "front": 280
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "back": 90,
+    "front": 75
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "back": 100,
+    "front": 85
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "back": 270,
+    "front": 195
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "back": 270,
+    "front": 220
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "back": 295,
+    "front": 200
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "back": 105,
+    "front": 90
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "back": 115,
+    "front": 90
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "back": 230,
+    "front": 185
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "back": 240,
+    "front": 195
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "back": 130,
+    "front": 105
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 12,
+   "par": 3,
+   "yardages": {
+    "back": 95,
+    "front": 75
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "back": 155,
+    "front": 120
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 14,
+   "par": 3,
+   "yardages": {
+    "back": 125,
+    "front": 105
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 15,
+   "par": 3,
+   "yardages": {
+    "back": 105,
+    "front": 85
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 16,
+   "par": 3,
+   "yardages": {
+    "back": 110,
+    "front": 95
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "back": 295,
+    "front": 235
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "back": 275,
+    "front": 220
+   }
+  }
+ ],
+ "id": "696b76e3-6201-448f-ac8e-ac6641813987",
+ "lat": 27.8869752,
+ "lng": -82.8209319,
+ "par": 62,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "back-male",
+   "tee_name": "Back",
+   "yardage": 3335
+  },
+  {
+   "gender": "Female",
+   "par": 62,
+   "tee_color": null,
+   "tee_key": "front-female",
+   "tee_name": "Front",
+   "yardage": 2655
+  }
+ ]
+}

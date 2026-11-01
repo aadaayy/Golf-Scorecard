@@ -1,0 +1,129 @@
+{
+ "city": "Panama City Beach",
+ "club_name": "Edgewater Beach Resort Golf Course",
+ "course_name": "Edgewater Beach Resort Golf Course",
+ "dataset_name": "Edgewater Beach Resort Golf Course",
+ "holes": 9,
+ "holes_data": [
+  {
+   "handicap_index": 7,
+   "number": 1,
+   "par": 3,
+   "yardages": {
+    "blue": 108,
+    "red": 84,
+    "white": 90
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 3,
+   "yardages": {
+    "blue": 176,
+    "red": 151,
+    "white": 166
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "blue": 168,
+    "red": 147,
+    "white": 154
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 108,
+    "red": 89,
+    "white": 97
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "blue": 132,
+    "red": 110,
+    "white": 121
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 193,
+    "red": 105,
+    "white": 119
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "blue": 187,
+    "red": 133,
+    "white": 148
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "blue": 100,
+    "red": 63,
+    "white": 87
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 9,
+   "par": 3,
+   "yardages": {
+    "blue": 154,
+    "red": 138,
+    "white": 144
+   }
+  }
+ ],
+ "id": "dd559fa3-a4a9-4ed3-b28b-436c2ece2649",
+ "lat": 30.184736,
+ "lng": -85.8203983,
+ "par": 27,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 1326
+  },
+  {
+   "gender": "Male",
+   "par": 27,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 1126
+  },
+  {
+   "gender": "Female",
+   "par": 27,
+   "tee_color": "red",
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 1020
+  }
+ ]
+}

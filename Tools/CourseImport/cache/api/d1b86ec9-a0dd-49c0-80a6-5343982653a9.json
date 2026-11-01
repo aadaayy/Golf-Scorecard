@@ -1,0 +1,245 @@
+{
+ "city": "Seminole",
+ "club_name": "Bardmoor Golf Tennis Club",
+ "course_name": "Bardmoor Golf Tennis Club",
+ "dataset_name": "Bardmoor Golf Tennis Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 15,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "black": 374,
+    "copper": 298,
+    "gold": 360,
+    "silver": 332
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "black": 438,
+    "copper": 284,
+    "gold": 408,
+    "silver": 349
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 3,
+   "par": 3,
+   "yardages": {
+    "black": 204,
+    "copper": 109,
+    "gold": 182,
+    "silver": 153
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "black": 450,
+    "copper": 355,
+    "gold": 431,
+    "silver": 405
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "black": 174,
+    "copper": 115,
+    "gold": 155,
+    "silver": 126
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 6,
+   "par": 5,
+   "yardages": {
+    "black": 550,
+    "copper": 430,
+    "gold": 520,
+    "silver": 476
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "black": 398,
+    "copper": 285,
+    "gold": 371,
+    "silver": 323
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "black": 529,
+    "copper": 387,
+    "gold": 509,
+    "silver": 423
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "black": 400,
+    "copper": 283,
+    "gold": 374,
+    "silver": 327
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "black": 385,
+    "copper": 280,
+    "gold": 361,
+    "silver": 311
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 3,
+   "yardages": {
+    "black": 195,
+    "copper": 136,
+    "gold": 173,
+    "silver": 147
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "black": 412,
+    "copper": 293,
+    "gold": 388,
+    "silver": 341
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "black": 225,
+    "copper": 136,
+    "gold": 203,
+    "silver": 181
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "black": 376,
+    "copper": 230,
+    "gold": 338,
+    "silver": 282
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "black": 434,
+    "copper": 325,
+    "gold": 416,
+    "silver": 372
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "black": 521,
+    "copper": 417,
+    "gold": 490,
+    "silver": 433
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 17,
+   "par": 4,
+   "yardages": {
+    "black": 378,
+    "copper": 274,
+    "gold": 358,
+    "silver": 330
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "black": 572,
+    "copper": 417,
+    "gold": 542,
+    "silver": 471
+   }
+  }
+ ],
+ "id": "d1b86ec9-a0dd-49c0-80a6-5343982653a9",
+ "lat": 27.8637797,
+ "lng": -82.7500087,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "black",
+   "tee_key": "black-male",
+   "tee_name": "Black",
+   "yardage": 7015
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6579
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "silver-male",
+   "tee_name": "Silver",
+   "yardage": 5782
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": null,
+   "tee_key": "copper-male",
+   "tee_name": "Copper",
+   "yardage": 5054
+  }
+ ]
+}

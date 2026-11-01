@@ -1,0 +1,295 @@
+{
+ "city": "Winter Park",
+ "club_name": "Winter Park Pines Golf Club",
+ "course_name": "Winter Park Pines Golf Club",
+ "dataset_name": "Winter Park Pines Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 17,
+   "number": 1,
+   "par": 5,
+   "yardages": {
+    "Blue": 387,
+    "Green": 362,
+    "Red": 348,
+    "White": 374,
+    "web": 361
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "Blue": 305,
+    "Green": 291,
+    "Red": 282,
+    "White": 301,
+    "web": 300
+   }
+  },
+  {
+   "handicap_index": 13,
+   "number": 3,
+   "par": 4,
+   "yardages": {
+    "Blue": 266,
+    "Green": 214,
+    "Red": 194,
+    "White": 234,
+    "web": 356
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 4,
+   "par": 4,
+   "yardages": {
+    "Blue": 343,
+    "Green": 331,
+    "Red": 321,
+    "White": 335,
+    "web": 150
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 5,
+   "par": 3,
+   "yardages": {
+    "Blue": 155,
+    "Green": 143,
+    "Red": 135,
+    "White": 150,
+    "web": 400
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 6,
+   "par": 4,
+   "yardages": {
+    "Blue": 226,
+    "Green": 204,
+    "Red": 191,
+    "White": 219,
+    "web": 344
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 7,
+   "par": 3,
+   "yardages": {
+    "Blue": 161,
+    "Green": 140,
+    "Red": 127,
+    "White": 152,
+    "web": 480
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 8,
+   "par": 3,
+   "yardages": {
+    "Blue": 210,
+    "Green": 157,
+    "Red": 122,
+    "White": 198,
+    "web": 163
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "Blue": 328,
+    "Green": 309,
+    "Red": 301,
+    "White": 318,
+    "web": 472
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "Blue": 362,
+    "Green": 345,
+    "Red": 301,
+    "White": 352,
+    "web": 373
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "Blue": 283,
+    "Green": 267,
+    "Red": 237,
+    "White": 275,
+    "web": 341
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "Blue": 375,
+    "Green": 332,
+    "Red": 280,
+    "White": 348,
+    "web": 224
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "Blue": 150,
+    "Green": 119,
+    "Red": 103,
+    "White": 136,
+    "web": 346
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 4,
+   "yardages": {
+    "Blue": 398,
+    "Green": 367,
+    "Red": 322,
+    "White": 371,
+    "web": 159
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "Blue": 326,
+    "Green": 296,
+    "Red": 244,
+    "White": 308,
+    "web": 215
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "Blue": 464,
+    "Green": 435,
+    "Red": 353,
+    "White": 452,
+    "web": 164
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "Blue": 153,
+    "Green": 113,
+    "Red": 95,
+    "White": 140,
+    "web": 213
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 18,
+   "par": 5,
+   "yardages": {
+    "Blue": 462,
+    "Green": 428,
+    "Red": 380,
+    "White": 444,
+    "web": 340
+   }
+  }
+ ],
+ "id": "85983ffc-c597-4c68-8b5a-a952316249a9",
+ "lat": 28.5850278,
+ "lng": -81.3110315,
+ "par": 70,
+ "tees": [
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "blue-female",
+   "tee_name": "Blue",
+   "yardage": 5354
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 5354
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5107
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5107
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 4853
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 4853
+  },
+  {
+   "gender": "Female",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "red-female",
+   "tee_name": "Red",
+   "yardage": 4336
+  },
+  {
+   "gender": "Male",
+   "par": 70,
+   "tee_color": null,
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 4336
+  }
+ ]
+}

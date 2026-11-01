@@ -1,0 +1,287 @@
+{
+ "city": "St Johns",
+ "club_name": "Julington Creek Golf Club",
+ "course_name": "Julington Creek Golf Club",
+ "dataset_name": "Julington Creek Golf Club",
+ "holes": 18,
+ "holes_data": [
+  {
+   "handicap_index": 13,
+   "number": 1,
+   "par": 4,
+   "yardages": {
+    "blue": 352,
+    "gold": 376,
+    "green": 285,
+    "red": 148,
+    "white": 344
+   }
+  },
+  {
+   "handicap_index": 5,
+   "number": 2,
+   "par": 4,
+   "yardages": {
+    "blue": 358,
+    "gold": 373,
+    "green": 299,
+    "red": 144,
+    "white": 342
+   }
+  },
+  {
+   "handicap_index": 3,
+   "number": 3,
+   "par": 5,
+   "yardages": {
+    "blue": 516,
+    "gold": 549,
+    "green": 416,
+    "red": 253,
+    "white": 497
+   }
+  },
+  {
+   "handicap_index": 15,
+   "number": 4,
+   "par": 3,
+   "yardages": {
+    "blue": 159,
+    "gold": 175,
+    "green": 118,
+    "red": 116,
+    "white": 136
+   }
+  },
+  {
+   "handicap_index": 9,
+   "number": 5,
+   "par": 4,
+   "yardages": {
+    "blue": 391,
+    "gold": 420,
+    "green": 330,
+    "red": 204,
+    "white": 376
+   }
+  },
+  {
+   "handicap_index": 17,
+   "number": 6,
+   "par": 3,
+   "yardages": {
+    "blue": 152,
+    "gold": 166,
+    "green": 99,
+    "red": 97,
+    "white": 132
+   }
+  },
+  {
+   "handicap_index": 11,
+   "number": 7,
+   "par": 4,
+   "yardages": {
+    "blue": 386,
+    "gold": 405,
+    "green": 308,
+    "red": 155,
+    "white": 351
+   }
+  },
+  {
+   "handicap_index": 1,
+   "number": 8,
+   "par": 5,
+   "yardages": {
+    "blue": 514,
+    "gold": 529,
+    "green": 416,
+    "red": 249,
+    "white": 471
+   }
+  },
+  {
+   "handicap_index": 7,
+   "number": 9,
+   "par": 4,
+   "yardages": {
+    "blue": 384,
+    "gold": 412,
+    "green": 302,
+    "red": 161,
+    "white": 331
+   }
+  },
+  {
+   "handicap_index": 10,
+   "number": 10,
+   "par": 4,
+   "yardages": {
+    "blue": 381,
+    "gold": 406,
+    "green": 294,
+    "red": 192,
+    "white": 357
+   }
+  },
+  {
+   "handicap_index": 14,
+   "number": 11,
+   "par": 4,
+   "yardages": {
+    "blue": 381,
+    "gold": 417,
+    "green": 326,
+    "red": 153,
+    "white": 349
+   }
+  },
+  {
+   "handicap_index": 8,
+   "number": 12,
+   "par": 4,
+   "yardages": {
+    "blue": 375,
+    "gold": 406,
+    "green": 272,
+    "red": 149,
+    "white": 353
+   }
+  },
+  {
+   "handicap_index": 18,
+   "number": 13,
+   "par": 3,
+   "yardages": {
+    "blue": 156,
+    "gold": 187,
+    "green": 130,
+    "red": 73,
+    "white": 147
+   }
+  },
+  {
+   "handicap_index": 2,
+   "number": 14,
+   "par": 5,
+   "yardages": {
+    "blue": 517,
+    "gold": 549,
+    "green": 438,
+    "red": 261,
+    "white": 472
+   }
+  },
+  {
+   "handicap_index": 16,
+   "number": 15,
+   "par": 4,
+   "yardages": {
+    "blue": 283,
+    "gold": 315,
+    "green": 210,
+    "red": 114,
+    "white": 251
+   }
+  },
+  {
+   "handicap_index": 12,
+   "number": 16,
+   "par": 5,
+   "yardages": {
+    "blue": 486,
+    "gold": 524,
+    "green": 393,
+    "red": 117,
+    "white": 452
+   }
+  },
+  {
+   "handicap_index": 4,
+   "number": 17,
+   "par": 3,
+   "yardages": {
+    "blue": 202,
+    "gold": 220,
+    "green": 112,
+    "red": 57,
+    "white": 165
+   }
+  },
+  {
+   "handicap_index": 6,
+   "number": 18,
+   "par": 4,
+   "yardages": {
+    "blue": 392,
+    "gold": 431,
+    "green": 329,
+    "red": 158,
+    "white": 365
+   }
+  }
+ ],
+ "id": "d89242fb-b919-452f-a7d7-dbc15a4fe60f",
+ "lat": 30.11172,
+ "lng": -81.6088329,
+ "par": 72,
+ "tees": [
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "gold",
+   "tee_key": "gold-male",
+   "tee_name": "Gold",
+   "yardage": 6908
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "blue",
+   "tee_key": "blue-male",
+   "tee_name": "Blue",
+   "yardage": 6401
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-male",
+   "tee_name": "White",
+   "yardage": 5888
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "white",
+   "tee_key": "white-female",
+   "tee_name": "White",
+   "yardage": 5888
+  },
+  {
+   "gender": "Female",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-female",
+   "tee_name": "Green",
+   "yardage": 5049
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "green",
+   "tee_key": "green-male",
+   "tee_name": "Green",
+   "yardage": 5049
+  },
+  {
+   "gender": "Male",
+   "par": 72,
+   "tee_color": "red",
+   "tee_key": "red-male",
+   "tee_name": "Red",
+   "yardage": 2768
+  }
+ ]
+}
