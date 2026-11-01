@@ -1,7 +1,7 @@
 """Fetch free US government aerial photos (USGS NAIP, public domain) and the
 OpenStreetMap golf features around one course, for tracing its holes by hand.
 
-    python3 aerial.py LAT LNG RADIUS_M OUT_DIR
+    python3 aerial.py LAT LNG RADIUS_M OUT_DIR [PIXEL_M]
 
 Writes OUT_DIR/photo-<row>-<col>.png (natural color) and photo-cir-<row>-<col>.png
 (near-infrared false color, grass shows bright red), OUT_DIR/tiles.json with each
@@ -15,7 +15,7 @@ import urllib.parse
 import urllib.request
 
 SERVICE = "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer"
-PIXEL = 0.6       # Web Mercator meters per pixel
+PIXEL = 0.6       # Web Mercator meters per pixel (the photos are 0.3 m; ask for 0.3 for every detail)
 TILE = 2000       # pixels
 
 
@@ -39,11 +39,13 @@ def get(url, data=None, tries=4):
 
 def main():
     lat, lng, radius, out = float(sys.argv[1]), float(sys.argv[2]), float(sys.argv[3]), sys.argv[4]
+    pixel = float(sys.argv[5]) if len(sys.argv) > 5 and sys.argv[5] else PIXEL
+    fmt = "png" if pixel >= 0.6 else "jpg"  # full detail as JPEG keeps the branch small
     os.makedirs(out, exist_ok=True)
     scale = 1 / math.cos(math.radians(lat))
     cx, cy = merc(lat, lng)
     half = radius * scale
-    span = TILE * PIXEL
+    span = TILE * pixel
     n = max(1, math.ceil(2 * half / span))
     x0, y1 = cx - n * span / 2, cy + n * span / 2
     info = json.loads(get(SERVICE + "?f=json"))
@@ -55,14 +57,14 @@ def main():
             bbox = f"{bx0},{by1 - span},{bx0 + span},{by1}"
             for name, bands in (("photo", "0,1,2"), ("photo-cir", "3,0,1")):
                 q = urllib.parse.urlencode({"bbox": bbox, "bboxSR": 3857, "imageSR": 3857, "size": f"{TILE},{TILE}",
-                                            "format": "png", "bandIds": bands, "interpolation": "RSP_BilinearInterpolation",
+                                            "format": fmt, "compressionQuality": 90, "bandIds": bands, "interpolation": "RSP_BilinearInterpolation",
                                             "f": "image"})
                 body = get(SERVICE + "/exportImage?" + q)
-                path = os.path.join(out, f"{name}-{row}-{col}.png")
+                path = os.path.join(out, f"{name}-{row}-{col}.{fmt}")
                 with open(path, "wb") as f:
                     f.write(body)
                 print(path, len(body))
-            tiles.append({"row": row, "col": col, "x0": bx0, "y1": by1, "pixel": PIXEL, "size": TILE})
+            tiles.append({"row": row, "col": col, "x0": bx0, "y1": by1, "pixel": pixel, "size": TILE, "format": fmt})
     # When each photo was taken
     q = urllib.parse.urlencode({"geometry": f"{cx},{cy}", "geometryType": "esriGeometryPoint", "sr": 3857,
                                 "returnGeometry": "false", "f": "json"})
