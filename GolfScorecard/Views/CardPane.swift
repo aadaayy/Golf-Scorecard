@@ -1,7 +1,20 @@
 import SwiftUI
 import UIKit
 
+/// Which part of the card a pane shows.
+enum CardPart {
+    /// One nine at a time, with a Front 9 / Back 9 switch (the nine view).
+    case switchable
+    /// Only the front nine: the left half of the full card.
+    case front
+    /// Only the back nine, with the round's total: the right half of the full card.
+    case back
+}
+
 /// The paper score card: holes across, players down, one nine at a time.
+///
+/// The full card view shows two of these side by side, the front nine and the
+/// back nine, like a paper card opened flat (see `CardPart`).
 ///
 /// The card grows and shrinks to fill its pane: cells widen to use the width
 /// and rows grow to use the height, so an open iPhone Duo gets a big card and
@@ -11,8 +24,11 @@ struct CardPane: View {
     let course: Course
     @Binding var selectedHole: Int
     @Binding var selectedPlayer: Int
+    var part: CardPart = .switchable
 
     @State private var showingBackNine = false
+    /// The back nine is showing: picked with the switch, or this pane is the back half.
+    private var onBack: Bool { part == .back || (part == .switchable && showingBackNine) }
     /// The space the grid has between the Front 9/Back 9 switch and the score buttons.
     @State private var gridArea: CGSize = .zero
     @Environment(\.verticalSizeClass) private var verticalSizeClass
@@ -24,7 +40,10 @@ struct CardPane: View {
     private static let maxCell: CGFloat = 64
     private static let minLabel: CGFloat = 52
 
-    private var totalsCount: Int { showingBackNine ? 2 : 1 }
+    private var totalsCount: Int { onBack ? 2 : 1 }
+    /// Both halves of the full card size their cells as if they had two total
+    /// columns, so the front and back nines draw at the same size.
+    private var sizingTotals: Int { part == .switchable ? totalsCount : 2 }
     /// Total columns (OUT, IN, TOT) are wider, so four-digit yardages fit.
     private static let totalWidthFactor: CGFloat = 1.4
     private var hasHandicaps: Bool { course.holes.contains(where: { $0.handicap != nil }) }
@@ -35,7 +54,7 @@ struct CardPane: View {
         let compact = verticalSizeClass == .compact
         guard gridArea.width > 0 else { return (36, 50, 88, compact ? 30 : 36) }
         let width = gridArea.width - 32  // the grid's side padding
-        let columns = CGFloat(nineHoles.count) + CGFloat(totalsCount) * Self.totalWidthFactor
+        let columns = CGFloat(nineHoles.count) + CGFloat(sizingTotals) * Self.totalWidthFactor
         let cell = min(Self.maxCell, max(Self.minCell, width * 0.83 / columns)).rounded(.down)
         let total = (cell * Self.totalWidthFactor).rounded(.down)
         let used = cell * CGFloat(nineHoles.count) + total * CGFloat(totalsCount)
@@ -50,14 +69,26 @@ struct CardPane: View {
     private var numberSize: CGFloat { min(26, max(12, min(sizes.cell * 0.46, sizes.row * 0.5))) }
     private var labelSize: CGFloat { min(20, max(11, sizes.row * 0.38)) }
 
-    private var nineHoles: [Hole] { showingBackNine ? course.backNine : course.frontNine }
-    private var nineRange: ClosedRange<Int> { showingBackNine ? 10...18 : 1...9 }
-    private var nineLabel: String { showingBackNine ? "In" : "Out" }
+    private var nineHoles: [Hole] { onBack ? course.backNine : course.frontNine }
+    private var nineRange: ClosedRange<Int> { onBack ? 10...18 : 1...9 }
+    private var nineLabel: String { onBack ? "In" : "Out" }
+    /// Whether the hole being scored is on this pane, so its + and − go here.
+    private var holdsSelectedHole: Bool {
+        switch part {
+        case .switchable: true
+        case .front: selectedHole <= 9
+        case .back: selectedHole >= 10
+        }
+    }
     private var player: Int { min(selectedPlayer, max(round.players.count - 1, 0)) }
 
     var body: some View {
         VStack(spacing: verticalSizeClass == .compact ? 8 : 12) {
-            if !course.backNine.isEmpty {
+            if part != .switchable {
+                Text(part == .back ? "BACK 9" : "FRONT 9")
+                    .font(Book.title(20, relativeTo: .title3))
+                    .accessibilityLabel(part == .back ? "Back 9" : "Front 9")
+            } else if !course.backNine.isEmpty {
                 Picker("Nine", selection: $showingBackNine) {
                     Text("Front 9").tag(false)
                     Text("Back 9").tag(true)
@@ -79,26 +110,10 @@ struct CardPane: View {
                     .fixedSize(horizontal: false, vertical: gridFits)
                 }
 
-            if !scoresLocked, let editableSeat, player != editableSeat {
-                // A friend's row in a group round: theirs to enter.
-                FriendScoreBar(
-                    playerName: round.players.indices.contains(player) ? round.players[player] : "",
-                    hole: selectedHole,
-                    strokes: round.grid.strokes(player: player, hole: selectedHole)
-                )
-                .padding(.horizontal)
-            } else if !scoresLocked {
-                ScoreEntryBar(
-                    playerName: round.players.indices.contains(player) ? round.players[player] : "",
-                    hole: selectedHole,
-                    strokes: round.grid.strokes(player: player, hole: selectedHole),
-                    par: course.hole(selectedHole)?.par
-                ) { newValue in
-                    var grid = round.grid
-                    grid.setStrokes(newValue, player: player, hole: selectedHole)
-                    round.grid = grid
-                }
-                .padding(.horizontal)
+            if part == .switchable {
+                entryBar
+            } else {
+                fullCardFooter
             }
         }
         .padding(.vertical, verticalSizeClass == .compact ? 8 : 16)
@@ -108,10 +123,67 @@ struct CardPane: View {
             showingBackNine = hole >= 10
         }
         .onChange(of: showingBackNine) { _, back in
-            if back != (selectedHole >= 10) { selectedHole = back ? 10 : 1 }
+            if part == .switchable, back != (selectedHole >= 10) { selectedHole = back ? 10 : 1 }
         }
         .accessibilityElement(children: .contain)
-        .accessibilityIdentifier("card-pane")
+        .accessibilityIdentifier(paneIdentifier)
+    }
+
+    private var paneIdentifier: String {
+        switch part {
+        case .switchable: "card-pane"
+        case .front: "full-card-front"
+        case .back: "full-card-back"
+        }
+    }
+
+    /// The + and − for the selected player and hole (or a friend's score in a group round).
+    @ViewBuilder
+    private var entryBar: some View {
+        if !scoresLocked, let editableSeat, player != editableSeat {
+            // A friend's row in a group round: theirs to enter.
+            FriendScoreBar(
+                playerName: round.players.indices.contains(player) ? round.players[player] : "",
+                hole: selectedHole,
+                strokes: round.grid.strokes(player: player, hole: selectedHole)
+            )
+            .padding(.horizontal)
+        } else if !scoresLocked {
+            ScoreEntryBar(
+                playerName: round.players.indices.contains(player) ? round.players[player] : "",
+                hole: selectedHole,
+                strokes: round.grid.strokes(player: player, hole: selectedHole),
+                par: course.hole(selectedHole)?.par
+            ) { newValue in
+                var grid = round.grid
+                grid.setStrokes(newValue, player: player, hole: selectedHole)
+                round.grid = grid
+            }
+            .padding(.horizontal)
+        }
+    }
+
+    /// Under each half of the full card: the + and − in the half with the hole
+    /// being scored, and the round's totals in the other. Both halves keep the
+    /// same room, so the two nines stay level.
+    private var fullCardFooter: some View {
+        ZStack {
+            // Room for the taller of the two, never shown.
+            ScoreEntryBar(playerName: " ", hole: 18, strokes: 0, par: 4) { _ in }
+                .padding(.horizontal)
+                .hidden()
+                .accessibilityHidden(true)
+            RoundTotalsBar(round: round, course: course)
+                .padding(.horizontal)
+                .hidden()
+                .accessibilityHidden(true)
+            if !scoresLocked && holdsSelectedHole {
+                entryBar
+            } else if part == .back || (!scoresLocked && !holdsSelectedHole) {
+                RoundTotalsBar(round: round, course: course)
+                    .padding(.horizontal)
+            }
+        }
     }
 
     /// Whether the whole grid fits its space, so it can sit centered instead of scrolling.
@@ -149,7 +221,7 @@ struct CardPane: View {
                 .accessibilityIdentifier("hole-\(hole.number)")
             }
             cell(nineLabel.uppercased(), plain, bold: true, total: true)
-            if showingBackNine { cell("TOT", plain, bold: true, total: true) }
+            if onBack { cell("TOT", plain, bold: true, total: true) }
         }
     }
 
@@ -163,7 +235,7 @@ struct CardPane: View {
                 cell(hole.yards[tee].map(String.init) ?? "", style, bold: played)
             }
             cell("\(course.yards(tee: tee, holes: nineRange))", style, bold: played, total: true)
-            if showingBackNine { cell("\(course.yards(tee: tee, holes: 1...18))", style, bold: played, total: true) }
+            if onBack { cell("\(course.yards(tee: tee, holes: 1...18))", style, bold: played, total: true) }
         }
     }
 
@@ -176,7 +248,7 @@ struct CardPane: View {
                 cell(course.handicap(hole: hole.number, tee: round.tee).map(String.init) ?? "", style, bold: true)
             }
             cell("", style, total: true)
-            if showingBackNine { cell("", style, total: true) }
+            if onBack { cell("", style, total: true) }
         }
     }
 
@@ -186,7 +258,7 @@ struct CardPane: View {
             rowLabel("PAR", style, bold: true)
             ForEach(nineHoles, id: \.number) { hole in cell("\(hole.par)", style, bold: true) }
             cell("\(course.par(holes: nineRange))", style, bold: true, total: true)
-            if showingBackNine { cell("\(course.par(holes: 1...18))", style, bold: true, total: true) }
+            if onBack { cell("\(course.par(holes: 1...18))", style, bold: true, total: true) }
         }
     }
 
@@ -198,11 +270,19 @@ struct CardPane: View {
                 scoreCell(player: p, hole: hole.number, strokes: strokes)
             }
             cell("\(strokes.total(player: p, holes: nineRange))", plain, bold: true, large: true, total: true)
-                .accessibilityIdentifier("nine-total-\(p)")
-            if showingBackNine {
+                .accessibilityIdentifier(nineTotalIdentifier(p))
+            if onBack {
                 cell("\(strokes.total(player: p, holes: 1...18))", plain, bold: true, large: true, total: true)
                     .accessibilityIdentifier("total-\(p)")
             }
+        }
+    }
+
+    private func nineTotalIdentifier(_ p: Int) -> String {
+        switch part {
+        case .switchable: "nine-total-\(p)"
+        case .front: "out-total-\(p)"
+        case .back: "in-total-\(p)"
         }
     }
 
@@ -336,5 +416,63 @@ struct ScoreEntryBar: View {
         .padding(12)
         .foregroundStyle(Book.ink)
         .bookBox()
+    }
+}
+
+/// Each player's total so far and how it stands to par, beside the + and −
+/// on the full card.
+struct RoundTotalsBar: View {
+    let round: Round
+    let course: Course
+
+    var body: some View {
+        HStack(spacing: 12) {
+            VStack(alignment: .leading, spacing: 2) {
+                Text("TOTAL").font(Book.title(19, relativeTo: .headline))
+                Text("Par \(course.par(holes: 1...18))")
+                    .font(.subheadline)
+                    .foregroundStyle(Book.pencil)
+            }
+            Spacer(minLength: 8)
+            ForEach(round.players.indices, id: \.self) { p in
+                VStack(spacing: 2) {
+                    Text(round.players[p])
+                        .font(.caption)
+                        .foregroundStyle(Book.pencil)
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.7)
+                    HStack(alignment: .firstTextBaseline, spacing: 4) {
+                        Text("\(round.grid.total(player: p, holes: 1...18))")
+                            .font(.title2.weight(.bold))
+                            .accessibilityIdentifier("full-total-\(p)")
+                        Text(toPar(p))
+                            .font(.caption.weight(.semibold))
+                            .foregroundStyle(Book.red)
+                    }
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.7)
+                }
+                .frame(minWidth: 44)
+            }
+        }
+        .padding(12)
+        .foregroundStyle(Book.ink)
+        .bookBox()
+        .accessibilityElement(children: .contain)
+        .accessibilityIdentifier("round-totals")
+    }
+
+    /// Strokes against par on the holes scored so far: E, +3 or −1.
+    private func toPar(_ p: Int) -> String {
+        var over = 0
+        var scored = false
+        for hole in course.holes {
+            let strokes = round.grid.strokes(player: p, hole: hole.number)
+            guard strokes > 0 else { continue }
+            scored = true
+            over += strokes - hole.par
+        }
+        guard scored else { return "" }
+        return over == 0 ? "E" : over > 0 ? "+\(over)" : "−\(-over)"
     }
 }

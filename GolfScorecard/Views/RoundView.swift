@@ -5,7 +5,7 @@ import UIKit
 ///
 /// Upright phones (closed iPhone Duo, regular iPhones held upright) show one
 /// pane at a time with Card and Map tabs. The open Duo (regular width) and any
-/// iPhone held sideways (compact height) show two halves, in one of two
+/// iPhone held sideways (compact height) show two halves, in one of three
 /// layouts (see `OpenLayout`). The open Duo and a sideways phone each
 /// remember their own (see `TwoHalves`).
 struct RoundView: View {
@@ -198,6 +198,18 @@ struct RoundView: View {
                 WideRoundLayout(card: HoleScorePane(round: round, course: course, selectedHole: $selectedHole), map: map)
             case .nine:
                 WideRoundLayout(card: card, map: NinePane(course: course, tee: round.tee, selectedHole: $selectedHole))
+            case .full:
+                if course.backNine.isEmpty {
+                    // A nine-hole course: its one nine is the whole card.
+                    WideRoundLayout(card: card, map: NinePane(course: course, tee: round.tee, selectedHole: $selectedHole))
+                } else {
+                    // Both nines share the same round, so a score entered in
+                    // either half shows everywhere at once.
+                    WideRoundLayout(
+                        card: CardPane(round: round, course: course, selectedHole: $selectedHole, selectedPlayer: $selectedPlayer, part: .front),
+                        map: CardPane(round: round, course: course, selectedHole: $selectedHole, selectedPlayer: $selectedPlayer, part: .back)
+                    )
+                }
             }
         } else {
             TabView {
@@ -215,7 +227,7 @@ extension TwoHalves {
     }
 }
 
-/// Switches between the hole view and the nine view during a round. The choice
+/// Switches between the hole view, the nine view and the full card during a round. The choice
 /// is remembered for the way the phone is held now: open Duo or sideways.
 struct OpenLayoutPicker: View {
     var halves: TwoHalves
@@ -224,11 +236,10 @@ struct OpenLayoutPicker: View {
 
     var body: some View {
         Picker("Layout", selection: halves == .duoOpen ? $duoOpenLayout : $sidewaysLayout) {
-            Text("Hole").tag(OpenLayout.hole)
-            Text("Nine").tag(OpenLayout.nine)
+            ForEach(OpenLayout.allCases, id: \.self) { Text($0.title).tag($0) }
         }
         .pickerStyle(.segmented)
-        .frame(width: 150)
+        .frame(width: 210)
         .accessibilityIdentifier("open-layout")
     }
 }

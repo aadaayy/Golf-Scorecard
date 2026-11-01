@@ -64,9 +64,24 @@ struct OpenDuoPreview: View {
         }
         guard !showsHome, round == nil, let course = library.course(id: "pompano-pines") ?? library.courses.first else { return }
         let tee = course.tees.contains("White") ? "White" : course.tees[safe: course.tees.count / 2] ?? ""
-        let newRound = Round(course: course, tee: tee, players: ["Me"])
+        // With -sampleCard, a foursome part way through the back nine, so the
+        // full card has scores in both halves.
+        let sampleCard = ProcessInfo.processInfo.arguments.contains("-sampleCard")
+        let newRound = Round(course: course, tee: tee, players: sampleCard ? ["Alberto", "Sam", "Jo", "Max"] : ["Me"])
         var grid = newRound.grid
-        grid.setStrokes(6, player: 0, hole: 1)
+        if sampleCard {
+            let overPar = [[1, 0, 2, 0, 1, 0, 1, 1, 0, 0, 1, 2, 0],
+                           [0, 1, 1, 0, 2, 1, 0, 1, 1, 1, 0, 1, 1],
+                           [2, 1, 0, 1, 1, 0, 2, 0, 1, 1, 1, 0, 2],
+                           [0, 0, 1, 1, 0, 2, 1, 0, 0, 1, 0, 1, 0]]
+            for (player, overs) in overPar.enumerated() {
+                for (offset, over) in overs.enumerated() {
+                    grid.setStrokes((course.hole(offset + 1)?.par ?? 4) + over, player: player, hole: offset + 1)
+                }
+            }
+        } else {
+            grid.setStrokes(6, player: 0, hole: 1)
+        }
         newRound.grid = grid
         round = newRound
     }

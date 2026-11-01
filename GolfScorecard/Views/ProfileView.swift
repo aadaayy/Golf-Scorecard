@@ -276,7 +276,7 @@ private struct PlayingPage: View {
                     layoutPicker(.duoOpen, selection: $duoOpenLayout, symbol: "rectangle.split.2x1")
                     layoutPicker(.sideways, selection: $sidewaysLayout, symbol: "iphone.landscape")
                 } footer: {
-                    Text("Duo open is for the Duo unfolded, and Sideways is for any iPhone turned on its side. Hole shows your score beside the hole you're on, and Nine shows the card beside all nine holes. Switching during a round changes the one you're using.")
+                    Text("Duo open is for the Duo unfolded, and Sideways is for any iPhone turned on its side. Hole shows your score beside the hole you're on, Nine shows the card beside all nine holes, and Full shows the whole 18 hole card. Switching during a round changes the one you're using.")
                 }
             }
             .listRowBackground(Book.page)
@@ -285,8 +285,7 @@ private struct PlayingPage: View {
 
     private func layoutPicker(_ halves: TwoHalves, selection: Binding<OpenLayout>, symbol: String) -> some View {
         Picker(selection: selection) {
-            Text("Hole").tag(OpenLayout.hole)
-            Text("Nine").tag(OpenLayout.nine)
+            ForEach(OpenLayout.allCases, id: \.self) { Text($0.title).tag($0) }
         } label: {
             Label(halves.title, systemImage: symbol)
         }

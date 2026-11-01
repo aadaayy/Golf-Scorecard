@@ -1,12 +1,24 @@
 import Foundation
 
-/// The two ways to use the two halves a round gets when the Duo is open or a
+/// The ways to use the two halves a round gets when the Duo is open or a
 /// phone is turned sideways.
 enum OpenLayout: String, CaseIterable {
     /// The score for the hole you're on at the left, that hole at the right.
     case hole
     /// The card for the nine you're on at the left, all nine holes at the right.
     case nine
+    /// The whole card, all 18 holes: the front nine at the left, the back nine
+    /// and the round's total at the right, like a paper card opened flat.
+    case full
+
+    /// The name on the switch in a round and in Profile.
+    var title: String {
+        switch self {
+        case .hole: "Hole"
+        case .nine: "Nine"
+        case .full: "Full"
+        }
+    }
 
     /// What both the open Duo and a sideways phone start on.
     static let standard = OpenLayout.hole

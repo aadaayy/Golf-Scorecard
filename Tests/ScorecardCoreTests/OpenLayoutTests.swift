@@ -20,6 +20,12 @@ final class OpenLayoutTests: XCTestCase {
         XCTAssertFalse(TwoHalves.allCases.map(\.storageKey).contains(OpenLayout.oldStorageKey))
     }
 
+    func testFullCardIsThirdChoice() {
+        XCTAssertEqual(OpenLayout.allCases, [.hole, .nine, .full])
+        XCTAssertEqual(OpenLayout.allCases.map(\.title), ["Hole", "Nine", "Full"])
+        XCTAssertEqual(OpenLayout(rawValue: "full"), .full)
+    }
+
     func testOldPickCarriesOverToBoth() {
         defaults.set("nine", forKey: OpenLayout.oldStorageKey)
         OpenLayout.carryOverOldSetting(in: defaults)

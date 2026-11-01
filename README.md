@@ -6,7 +6,7 @@ A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, o
 
 ## What's in it
 
-1. Welcome pages the first time: your name, an optional handicap, and whether the open Duo and a sideways phone each start on the Hole or Nine view.
+1. Welcome pages the first time: your name, an optional handicap, and whether the open Duo and a sideways phone each start on the Hole or Nine view (Full, the whole 18 hole card, is in Profile and in the round).
 2. Three tabs: Play, Past Rounds and Profile. On the iPhone Duo they sit in the strip at the side of the screen, under Back. Play resumes an unfinished round or picks a course; open or sideways, the picked course shows on the right, and Past Rounds and Profile use both halves too.
 3. Find Courses (on Play): search the course library by name or town, or switch to Map to see every course as a dot (zoom into a town, tap a dot, download), and download a course. Downloaded courses show on Play, work offline, update themselves when the library has a newer copy, and can be removed with a swipe. Pompano Beach Pines is also built in, so the app works on first launch with no signal.
 4. Start a round: tee, and up to four players (you're first; people you've played with are a tap away).
@@ -14,7 +14,7 @@ A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, o
 6. The Lock Screen card (a Live Activity) during a round: the hole you're on and your score. Tap it to go straight back to that hole. It can be turned off in Profile.
 7. Past rounds: every round, newest first. Finished cards stay locked until Edit.
 8. Group rounds (Play with Friends): start a round with Start Group Round, and friends join from their own phones with a six-letter code (or the Invite link). Everyone keeps their own score, and everyone's card fills in live as scores come in. Sign in with Google is the only way in; Sign in with Apple is built and switched off until there's a paid Apple Developer account. Up to four players, like a paper card. Each phone keeps its own copy, so a round carries on with no signal and scores go out when it's back. Needs the setup below before it works.
-9. Profile & Settings, laid out like the iPhone's Settings: My Profile (name, handicap, and the group rounds account with Sign Out and Delete Account), Playing (usual tee, and Hole or Nine for Duo open and for Sideways, each kept on its own), During a Round (show the round on the Lock Screen), History, and About (version, Erase Everything). Open or sideways, the sections are on the left and the picked one on the right.
+9. Profile & Settings, laid out like the iPhone's Settings: My Profile (name, handicap, and the group rounds account with Sign Out and Delete Account), Playing (usual tee, and Hole, Nine or Full for Duo open and for Sideways, each kept on its own), During a Round (show the round on the Lock Screen), History, and About (version, Erase Everything). Open or sideways, the sections are on the left and the picked one on the right.
 
 ## Run it on your iPhone Duo (free Apple account)
 
