@@ -1,0 +1,226 @@
+{
+ "2e94e10a-6af1-40c0-8cbd-bd720a308fc5": {
+  "why": "The open data still has the old Shula's card with a par 5 on holes 1 to 14 and no yardages. This is the card since the 2025 reopening as Miami Lakes Golf Club (from the course's listing on GolfLink); its holes are mapped in OpenStreetMap. No stroke index was listed, so it's left blank.",
+  "course_name": "Miami Lakes Golf Club",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "silver",
+    "tee_name": "Silver"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 446,
+     "white": 411,
+     "silver": 364,
+     "red": 299
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 394,
+     "white": 356,
+     "silver": 334,
+     "red": 301
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 185,
+     "white": 176,
+     "silver": 140,
+     "red": 132
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 468,
+     "white": 429,
+     "silver": 394,
+     "red": 367
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 145,
+     "white": 124,
+     "silver": 110,
+     "red": 88
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 317,
+     "white": 297,
+     "silver": 297,
+     "red": 285
+    }
+   },
+   {
+    "number": 7,
+    "par": 5,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 531,
+     "white": 496,
+     "silver": 465,
+     "red": 414
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 378,
+     "white": 347,
+     "silver": 313,
+     "red": 279
+    }
+   },
+   {
+    "number": 9,
+    "par": 5,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 563,
+     "white": 529,
+     "silver": 490,
+     "red": 449
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 418,
+     "white": 391,
+     "silver": 391,
+     "red": 343
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 434,
+     "white": 394,
+     "silver": 376,
+     "red": 345
+    }
+   },
+   {
+    "number": 12,
+    "par": 5,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 535,
+     "white": 498,
+     "silver": 465,
+     "red": 432
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 209,
+     "white": 194,
+     "silver": 173,
+     "red": 119
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 454,
+     "white": 403,
+     "silver": 353,
+     "red": 301
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 360,
+     "white": 333,
+     "silver": 320,
+     "red": 290
+    }
+   },
+   {
+    "number": 16,
+    "par": 5,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 521,
+     "white": 495,
+     "silver": 461,
+     "red": 403
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 170,
+     "white": 162,
+     "silver": 140,
+     "red": 118
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": null,
+    "yardages": {
+     "blue": 454,
+     "white": 412,
+     "silver": 368,
+     "red": 294
+    }
+   }
+  ]
+ }
+}

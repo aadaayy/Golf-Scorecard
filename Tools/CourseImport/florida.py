@@ -45,6 +45,9 @@ CACHE = os.path.join(HERE, "cache")
 API_CACHE = os.path.join(CACHE, "api")
 IDS_FILE = os.path.join(HERE, "florida-ids.json")
 REPORT_FILE = os.path.join(HERE, "florida-report.json")
+# Scorecards the open data has wrong, set right by hand from the course's own card.
+# Each entry's fields replace the same fields of that course's record; "why" says what was wrong.
+CARD_FIXES_FILE = os.path.join(HERE, "card-fixes.json")
 
 API = "https://api.opengolfapi.org/api/v1/courses/"
 DAILY_CALLS = 490  # the free API answers about 500 calls a day, then says to wait
@@ -891,6 +894,11 @@ def build(args):
         if name.endswith(".json"):
             records.append(json.load(open(os.path.join(API_CACHE, name), encoding="utf-8")))
     report["fetched"] = len(records)
+    fixes = json.load(open(CARD_FIXES_FILE, encoding="utf-8")) if os.path.exists(CARD_FIXES_FILE) else {}
+    for record in records:
+        fix = fixes.get(record.get("id"))
+        if fix:
+            record.update({k: v for k, v in fix.items() if k != "why"})
     built = set()
     for record in records:
         card, problem = scorecard(record)
