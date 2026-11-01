@@ -1,0 +1,50 @@
+# Fetches free US government aerial photos (USGS NAIP, public domain) and the
+# OpenStreetMap golf features around one course, so its holes can be traced by
+# hand from real photos. The photos go to the aerial-photos branch, not main.
+name: Aerial photos
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: Folder name for the course
+        required: true
+      lat:
+        description: Latitude of the course
+        required: true
+      lng:
+        description: Longitude of the course
+        required: true
+      radius:
+        description: Meters around the point to cover
+        default: '900'
+
+permissions:
+  contents: write
+
+jobs:
+  photos:
+    name: Fetch aerial photos
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch
+        run: python3 Tools/CourseImport/aerial.py "${{ inputs.lat }}" "${{ inputs.lng }}" "${{ inputs.radius }}" "$RUNNER_TEMP/photos/${{ inputs.name }}"
+      - name: Save to the aerial-photos branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch --depth 1 origin aerial-photos; then
+            git checkout -B aerial-photos FETCH_HEAD
+          else
+            git checkout --orphan aerial-photos
+            git rm -rqf .
+            echo "Aerial photos (USGS NAIP, public domain) for tracing course holes. Not part of the app." > README.md
+          fi
+          rm -rf "photos/${{ inputs.name }}"
+          mkdir -p photos
+          cp -r "$RUNNER_TEMP/photos/${{ inputs.name }}" photos/
+          git add -A
+          git commit -qm "Aerial photos: ${{ inputs.name }}"
+          git push -q origin aerial-photos
