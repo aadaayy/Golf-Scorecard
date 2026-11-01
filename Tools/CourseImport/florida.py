@@ -401,6 +401,11 @@ class OSM:
                 for ring in rings:
                     self.shapes.append((kind, ring, bbox(ring)))
         self.outlines.sort(key=lambda o: o[0])
+        # Holes by 0.01° square, to find the ones near a course quickly.
+        self.hole_grid = {}
+        for hole in self.holes:
+            for cell in {(int(p[0] * 100), int(p[1] * 100)) for p in hole["geometry"]}:
+                self.hole_grid.setdefault(cell, []).append(hole)
         # Each hole goes to the smallest outline its middle sits in.
         self.holes_by_outline = {}
         for hole in self.holes:
@@ -423,6 +428,17 @@ class OSM:
                 best, best_d = i, d
         return best
 
+    def holes_grid_near(self, lat, lng, pad):
+        found, seen = [], set()
+        r = int(pad * 100) + 1
+        for i in range(int(lat * 100) - r, int(lat * 100) + r + 1):
+            for j in range(int(lng * 100) - r, int(lng * 100) + r + 1):
+                for hole in self.hole_grid.get((i, j), []):
+                    if id(hole) not in seen:
+                        seen.add(id(hole))
+                        found.append(hole)
+        return found
+
     def shapes_near(self, s, w, n, e):
         return [(k, r) for k, r, (bs, bw, bn, be) in self.shapes if bs <= n and bn >= s and bw <= e and be >= w]
 
@@ -435,6 +451,7 @@ def hole_label(tags):
     if not match:
         return None, None
     loop = next((tags[k] for k in ("golf:course:name", "course:name", "course") if tags.get(k)), None) or match[1]
+    loop = re.sub(r"\b(hole|no|number)\b\.?", " ", loop, flags=re.IGNORECASE)
     return (slug(loop) or None), int(match[2])
 
 
@@ -497,6 +514,92 @@ def osm_holes(osm, record, name, count):
     if len(candidates) > 1 and candidates[0][0] == candidates[1][0]:
         return None
     return candidates[0][1]
+
+
+def meters(a, b):
+    """Rough distance in meters between two (lat, lng) points."""
+    dy = (a[0] - b[0]) * 110540
+    dx = (a[1] - b[1]) * 111320 * math.cos(math.radians(a[0]))
+    return math.hypot(dx, dy)
+
+
+def hole_length(hole):
+    g = hole["geometry"]
+    return sum(meters(a, b) for a, b in zip(g, g[1:]))
+
+
+def fits_card(hole, card_hole):
+    """Whether a mapped hole's length suits the scorecard's hole: its yardage, or its par."""
+    length = hole_length(hole)
+    yards = sorted((card_hole.get("yards") or {}).values())
+    if yards:
+        target = yards[len(yards) // 2] * 0.9144
+        return abs(length - target) <= max(45, 0.22 * target)
+    low, high = {3: (60, 250), 4: (210, 470), 5: (370, 650)}.get(card_hole["par"], (60, 650))
+    return low <= length <= high
+
+
+def length_error(hole, card_hole):
+    """How far a mapped hole's length is from the scorecard's, as a share of it."""
+    yards = sorted((card_hole.get("yards") or {}).values())
+    if not yards:
+        return 0.0
+    target = yards[len(yards) // 2] * 0.9144
+    return abs(hole_length(hole) - target) / target
+
+
+def chained_holes(osm, record, name, card):
+    """OpenStreetMap's holes for this course found by following the course round:
+    each hole's tee sits near the last hole's green (or near the first tee, for the
+    back nine). This copes with clubs whose courses share one outline, holes drawn
+    outside the outline, and courses with only some holes mapped. Returns
+    {number: hole} for the holes that suit the scorecard, or None."""
+    lat, lng = record.get("lat"), record.get("lng")
+    if lat is None or lng is None:
+        return None
+    count = len(card["holes"])
+    pad = 0.02  # about 2 km
+    near = [h for h in osm.holes_grid_near(lat, lng, pad)]
+    by_number = {}
+    for h in near:
+        n = hole_label(h["tags"])[1]
+        if n and 1 <= n <= count:
+            by_number.setdefault(n, []).append(h)
+    if not by_number:
+        return None
+    words = [w for w in slug(name).split("-") if w not in NAME_FILLER]
+
+    def loop_score(hole):
+        loop = hole_label(hole["tags"])[0] or ""
+        return sum(1 for w in loop.split("-") if w in words)
+
+    best, best_key = None, None
+    for first in sorted(by_number)[:1]:
+        for seed in by_number[first]:
+            chain, prev, opener = {first: seed}, seed, seed
+            for n in range(first + 1, count + 1):
+                options = [h for h in by_number.get(n, []) if all(h is not c for c in chain.values())]
+                if not options:
+                    continue
+                gap = n - max(chain)
+                def reach(h):
+                    return min(meters(prev["geometry"][-1], h["geometry"][0]),
+                               meters(opener["geometry"][0], h["geometry"][0]))
+                pick = min(options, key=reach)
+                if reach(pick) <= 450 * gap:
+                    chain[n] = pick
+                    prev = pick
+            fitting = {n: h for n, h in chain.items() if fits_card(h, card["holes"][n - 1])}
+            if len(fitting) < max(3, len(chain) * 0.7):
+                continue
+            closest = min(meters((lat, lng), p) for h in chain.values() for p in (h["geometry"][0], h["geometry"][-1]))
+            if closest > 1500:
+                continue
+            error = sum(length_error(h, card["holes"][n - 1]) for n, h in fitting.items()) / len(fitting)
+            key = (len(fitting), sum(loop_score(h) for h in chain.values()), -round(error * 10), -closest)
+            if best_key is None or key > best_key:
+                best, best_key = fitting, key
+    return best
 
 
 def why_no_drawing(osm, record, count):
@@ -822,16 +925,22 @@ def build(args):
             if holes:
                 mismatched = sum(1 for h in card["holes"]
                                  if str(holes[h["number"]]["tags"].get("par", h["par"])) != str(h["par"]))
-                if mismatched <= 1:
-                    for h in card["holes"]:
-                        svg = drawing(osm, holes[h["number"]])
-                        if svg:
-                            drawings[f"{cid}-{h['number']:02d}"] = svg
-                            h["map"] = f"{cid}-{h['number']:02d}"
+                if mismatched > 1:
+                    holes = None
+            if not holes:
+                holes = chained_holes(osm, record, name, card)
+                if holes:
+                    report["chained"] = report.get("chained", 0) + 1
+            for h in card["holes"]:
+                way = (holes or {}).get(h["number"])
+                svg = drawing(osm, way) if way else None
+                if svg:
+                    drawings[f"{cid}-{h['number']:02d}"] = svg
+                    h["map"] = f"{cid}-{h['number']:02d}"
         if osm and not drawings:
             reason = why_no_drawing(osm, record, len(card["holes"]))
-            if holes:
-                reason = "holes mapped, pars differ" if mismatched > 1 else "holes mapped, drawing failed"
+            if mismatched > 1:
+                reason = "holes mapped, pars differ"
             report["no_drawing"].setdefault(reason, []).append(cid)
         folder = os.path.join(courses_folder, cid)
         path = os.path.join(folder, "course.json")
@@ -857,6 +966,7 @@ def build(args):
         built.add(cid)
         report["added"] += 1
         report["with_drawings"] += bool(drawings)
+        report["with_every_drawing"] = report.get("with_every_drawing", 0) + (len(drawings) == len(card["holes"]))
         report["with_yardages"] += bool(card["tees"])
         report["with_location"] += bool(place)
     # Courses this import made before but no longer can are left alone; only its own ids are touched.
@@ -870,6 +980,8 @@ def build(args):
         f.write("\n")
     print(f"Fetched {report['fetched']}; built {report['added']} courses, {report['with_yardages']} with yardages, "
           f"{report['with_drawings']} with hole drawings, {report['with_location']} on the map. Skipped: {report['skipped_counts']}")
+    print(f"{report.get('with_every_drawing', 0)} with a drawing for every hole; "
+          f"{report.get('chained', 0)} found by following the round")
     print(f"No drawings, by what OpenStreetMap has: {report['no_drawing_counts']}")
 
 
