@@ -3137,247 +3137,118 @@
   ]
  },
  "c7cafb70-13f9-444e-979d-8c415a443725": {
-  "why": "The open data's card for this course doesn't match the course. This is its scorecard as published at https://www.golfingrecord.com/golf-scorecard/eb03c5ca-52c4-4dd8-9e24-fe1e88ca6148, checked against the aerial photos when its holes were traced.",
+  "why": "The open data lists this course's pars in sorted order. These pars and stroke index are from its scorecard as published at https://www.golfpass.com/courses/2378-eastpointe-country-club-west-course/scorecard-and-layout (whose stroke index matches the open data's); GolfLogix's card agrees on the front nine, and the traced lengths fit it. That page doesn't say which tee each yardage row is, so yardages are left blank.",
   "par": 70,
   "holes": 18,
-  "tees": [
-   {
-    "tee_key": "black",
-    "tee_name": "Black"
-   },
-   {
-    "tee_key": "grey",
-    "tee_name": "Grey"
-   },
-   {
-    "tee_key": "blue",
-    "tee_name": "Blue"
-   },
-   {
-    "tee_key": "turquoise",
-    "tee_name": "Turquoise"
-   },
-   {
-    "tee_key": "white",
-    "tee_name": "White"
-   }
-  ],
+  "tees": [],
   "holes_data": [
    {
     "number": 1,
-    "par": 5,
+    "par": 4,
     "handicap_index": 5,
-    "yardages": {
-     "black": 500,
-     "grey": 500,
-     "blue": 471,
-     "turquoise": 428,
-     "white": 428
-    }
+    "yardages": null
    },
    {
     "number": 2,
-    "par": 4,
-    "handicap_index": 1,
-    "yardages": {
-     "black": 458,
-     "grey": 420,
-     "blue": 420,
-     "turquoise": 337,
-     "white": 337
-    }
+    "par": 5,
+    "handicap_index": 7,
+    "yardages": null
    },
    {
     "number": 3,
     "par": 4,
     "handicap_index": 15,
-    "yardages": {
-     "black": 346,
-     "grey": 346,
-     "blue": 315,
-     "turquoise": 315,
-     "white": 301
-    }
+    "yardages": null
    },
    {
     "number": 4,
     "par": 3,
     "handicap_index": 17,
-    "yardages": {
-     "black": 160,
-     "grey": 160,
-     "blue": 136,
-     "turquoise": 136,
-     "white": 113
-    }
+    "yardages": null
    },
    {
     "number": 5,
     "par": 4,
-    "handicap_index": 9,
-    "yardages": {
-     "black": 378,
-     "grey": 360,
-     "blue": 360,
-     "turquoise": 310,
-     "white": 310
-    }
+    "handicap_index": 3,
+    "yardages": null
    },
    {
     "number": 6,
     "par": 4,
-    "handicap_index": 13,
-    "yardages": {
-     "black": 316,
-     "grey": 316,
-     "blue": 294,
-     "turquoise": 294,
-     "white": 247
-    }
+    "handicap_index": 11,
+    "yardages": null
    },
    {
     "number": 7,
     "par": 3,
-    "handicap_index": 7,
-    "yardages": {
-     "black": 183,
-     "grey": 164,
-     "blue": 164,
-     "turquoise": 164,
-     "white": 135
-    }
+    "handicap_index": 13,
+    "yardages": null
    },
    {
     "number": 8,
     "par": 4,
-    "handicap_index": 11,
-    "yardages": {
-     "black": 385,
-     "grey": 385,
-     "blue": 350,
-     "turquoise": 350,
-     "white": 313
-    }
+    "handicap_index": 9,
+    "yardages": null
    },
    {
     "number": 9,
-    "par": 5,
-    "handicap_index": 3,
-    "yardages": {
-     "black": 555,
-     "grey": 519,
-     "blue": 519,
-     "turquoise": 506,
-     "white": 506
-    }
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": null
    },
    {
     "number": 10,
     "par": 3,
     "handicap_index": 14,
-    "yardages": {
-     "black": 159,
-     "grey": 159,
-     "blue": 131,
-     "turquoise": 131,
-     "white": 113
-    }
+    "yardages": null
    },
    {
     "number": 11,
     "par": 4,
     "handicap_index": 12,
-    "yardages": {
-     "black": 387,
-     "grey": 387,
-     "blue": 359,
-     "turquoise": 359,
-     "white": 308
-    }
+    "yardages": null
    },
    {
     "number": 12,
     "par": 4,
-    "handicap_index": 8,
-    "yardages": {
-     "black": 425,
-     "grey": 395,
-     "blue": 395,
-     "turquoise": 330,
-     "white": 330
-    }
+    "handicap_index": 6,
+    "yardages": null
    },
    {
     "number": 13,
     "par": 3,
     "handicap_index": 16,
-    "yardages": {
-     "black": 193,
-     "grey": 193,
-     "blue": 160,
-     "turquoise": 160,
-     "white": 134
-    }
+    "yardages": null
    },
    {
     "number": 14,
     "par": 5,
-    "handicap_index": 6,
-    "yardages": {
-     "black": 539,
-     "grey": 510,
-     "blue": 510,
-     "turquoise": 456,
-     "white": 456
-    }
+    "handicap_index": 4,
+    "yardages": null
    },
    {
     "number": 15,
     "par": 3,
     "handicap_index": 18,
-    "yardages": {
-     "black": 167,
-     "grey": 167,
-     "blue": 148,
-     "turquoise": 148,
-     "white": 127
-    }
+    "yardages": null
    },
    {
     "number": 16,
     "par": 4,
-    "handicap_index": 4,
-    "yardages": {
-     "black": 402,
-     "grey": 370,
-     "blue": 370,
-     "turquoise": 328,
-     "white": 328
-    }
+    "handicap_index": 2,
+    "yardages": null
    },
    {
     "number": 17,
-    "par": 4,
-    "handicap_index": 2,
-    "yardages": {
-     "black": 451,
-     "grey": 435,
-     "blue": 435,
-     "turquoise": 400,
-     "white": 400
-    }
+    "par": 5,
+    "handicap_index": 8,
+    "yardages": null
    },
    {
     "number": 18,
     "par": 4,
     "handicap_index": 10,
-    "yardages": {
-     "black": 384,
-     "grey": 384,
-     "blue": 349,
-     "turquoise": 317,
-     "white": 317
-    }
+    "yardages": null
    }
   ]
  },
