@@ -30,9 +30,30 @@ Magenta is the course outline from the map. Red lines, cyan rings and blue
 rings are holes, greens and tees the map already has (often for a neighbouring
 course, sometimes misnumbered); use them as hints.
 
+If the club is bigger than the course box (fairways run off its edges, or one
+small outline covers several courses), write `{"whole": true}` to
+`$WORK/<course>/box.json` and run overview again: the box is then the whole
+photo. Do this before you plan, since it moves the grid.
+
 For a closer look: `python3 trace.py zoom <course> X0 Y0 X1 Y1 0.3`
 (add `cir` at the end for the infrared picture, where live grass is red and
 greens often show as smooth, even patches).
+
+## 1b. Check the course's own scorecard
+
+Search the web for the course's own scorecard: its own website first, then a
+well-known scorecard listing. If one shows the holes with pars (and yardages or
+handicaps), and it differs from the card overview printed (pars in another order,
+missing yardages, different holes), write it to `$WORK/<course>/card.json`:
+
+    {"source": "https://... (the page you read it on)",
+     "tees": ["Blue", "White", "Red"],
+     "holes": [{"number": 1, "par": 4, "handicap": 7, "yards": {"Blue": 402, "White": 380, "Red": 310}}, ...]}
+
+Copy the numbers exactly; leave out anything the page doesn't give (no
+guessing). trace.py then uses it in place of the library's card. A hole map on
+the course's site may help you tell which hole is which, but draw only from the
+aerial photos.
 
 ## 2. Find the holes
 
@@ -66,6 +87,9 @@ greens often show as smooth, even patches).
 - `via`: bends, for doglegs, in order from the tee. A straight hole has none.
 - `toward`: use instead of `tee` only when you can't see the tee; the tee is
   then put at the card's longest yardage from the green, in that direction.
+- `par`: only when the card lists its pars in sorted order (overview says so):
+  give every hole its par from the photo (3 short with no fairway, 4, or 5 long).
+  Keep the card's total par where you can; say in `unsure` where you can't.
 - `unsure`: a hole number (or "all") and why, for anything you had to guess:
   the hole order, a green you couldn't find, a tee placed by `toward`.
   Be honest here; these are listed to Alberto. Don't guess silently.

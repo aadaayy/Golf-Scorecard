@@ -362,6 +362,21 @@ def scorecard(record):
     return {"tees": [t[0] for t in tees], "holes": out}, None
 
 
+def fix_sorted_pars(course, traced):
+    """A card that lists its pars in sorted order (5s, 4s, 3s) has lost the real hole order, and its
+    handicaps with it. When every hole was traced from the photos, take each hole's par from its
+    tracing and leave the handicaps blank (Alberto's call, Nov 2)."""
+    holes = course["holes"]
+    pars = [h["par"] for h in holes]
+    if pars != sorted(pars, reverse=True) or any(h.get("yards") for h in holes):
+        return
+    if not all(h["number"] in traced for h in holes):
+        return
+    for h in holes:
+        h["par"] = int(traced[h["number"]]["tags"]["par"])
+        h.pop("handicap", None)
+
+
 # MARK: build: OpenStreetMap
 
 def inside(point, ring):
@@ -395,6 +410,7 @@ class OSM:
         self.trees = []      # (lat, lng, radius in meters), traced from aerial photos
         self.lines = []      # lines of play traced from aerial photos, where the map's runs through trees
         self.traced_holes = {}  # course id: {number: hole}, for courses traced whole from aerial photos
+        self.photo_pars = set()  # course ids whose card lists pars sorted, so each hole's par comes from its tracing
         for e in elements:
             tags = e["tags"]
             rings = [r for r in e.get("rings", []) if len(r) >= 4]
@@ -474,6 +490,8 @@ class OSM:
                         self.shapes.append((kind, ring, bbox(ring)))
             self.trees += [tuple(t) for t in traced.get("trees", [])]
             self.lines += [[tuple(p) for p in line["line"]] for line in traced.get("lines", [])]
+            if traced.get("pars_from_photo"):
+                self.photo_pars.add(name[:-5])
             if traced.get("holes"):
                 self.traced_holes[name[:-5]] = {
                     h["hole"]: {"tags": {"golf": "hole", "ref": str(h["hole"]), "par": str(h["par"])},
@@ -1228,14 +1246,16 @@ def build(args):
             course["location"] = place
         course["tees"] = card["tees"]
         course["holes"] = card["holes"]
+        if osm and cid in osm.photo_pars:
+            fix_sorted_pars(course, osm.traced_holes.get(cid, {}))
         drawings = {}
         holes, mismatched = None, 0
         if osm:
             # Holes traced from aerial photos for a course the map doesn't have, else the map's.
             holes = osm.traced_holes.get(cid) or osm_holes(osm, record, name, len(card["holes"]), card)
             if holes:
-                mismatched = sum(1 for h in card["holes"]
-                                 if str(holes[h["number"]]["tags"].get("par", h["par"])) != str(h["par"]))
+                mismatched = sum(1 for h in card["holes"] if h["number"] in holes
+                                 and str(holes[h["number"]]["tags"].get("par", h["par"])) != str(h["par"]))
                 if mismatched > 1:
                     holes = None
             if not holes:

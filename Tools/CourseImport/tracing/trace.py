@@ -65,6 +65,11 @@ class Course:
         self.H, self.W = self.rgb.shape[:2]
         self.elements = json.load(open(os.path.join(self.photos, "osm.json")))["elements"]
         self.card = json.load(open(os.path.join(LIBRARY, cid, "course.json")))
+        # The course's own published scorecard, where the tracer found one (WORK/CID/card.json).
+        own = os.path.join(self.work, "card.json")
+        if os.path.exists(own):
+            fixed = json.load(open(own))
+            self.card = dict(self.card, holes=fixed["holes"], tees=fixed.get("tees", self.card.get("tees", [])))
         self.box()
         self._masks = None
 
@@ -127,6 +132,10 @@ class Course:
             r = 700 / self.GM
             x0, y0, x1, y1 = cx - r, cy - r, cx + r, cy + r
             self.outline, self.outline_name = None, None
+        # A club bigger than its map outline (several courses, one small outline): use the whole photo.
+        override = os.path.join(self.work, "box.json")
+        if os.path.exists(override) and json.load(open(override)).get("whole"):
+            x0, y0, x1, y1 = 0, 0, self.W, self.H
         pad = 40 / self.GM
         self.bx0, self.by0 = max(0, x0 - pad), max(0, y0 - pad)
         self.bx1, self.by1 = min(self.W, x1 + pad), min(self.H, y1 + pad)
@@ -214,8 +223,21 @@ class Course:
                 spec["tee_placed"] = True
         return plan
 
+    def sorted_card(self):
+        """A card whose pars are listed in sorted order (5s, then 4s, then 3s) with no yardages:
+        the real hole order is lost, so each hole's par comes from the photo ("par" in the plan)."""
+        pars = [h["par"] for h in self.card["holes"]]
+        return (len(pars) >= 9 and len(set(pars)) > 1 and pars == sorted(pars, reverse=True)
+                and not any(h.get("yards") for h in self.card["holes"]))
+
     def card_holes(self):
-        return {h["number"]: h for h in self.card["holes"]}
+        holes = {h["number"]: dict(h) for h in self.card["holes"]}
+        path = os.path.join(self.work, "plan.json")
+        if self.sorted_card() and os.path.exists(path):
+            for n, spec in json.load(open(path))["holes"].items():
+                if spec.get("par") in (3, 4, 5) and int(n) in holes:
+                    holes[int(n)]["par"] = spec["par"]
+        return holes
 
     def hole_points(self, spec, cands):
         """A planned hole's line in working pixels: tee, any bends, the green's middle."""
@@ -332,6 +354,11 @@ def card_summary(c):
         yards = sorted(v for v in h["yards"].values() if v) if h.get("yards") else []
         span = f"{yards[0]}-{yards[-1]} yd" if yards else "no yards"
         lines.append(f"  {h['number']:2d}  par {h['par']}  {span}")
+    if c.sorted_card():
+        lines.append("  NOTE: this card lists its pars in sorted order, not hole by hole. Number the holes by\n"
+                     "  their routing from the clubhouse, and give every hole its par from the photo in the plan,\n"
+                     "  e.g. \"7\": {\"tee\": [..], \"green\": [..], \"par\": 4}. Total par should stay "
+                     f"{sum(h['par'] for h in c.card['holes'])}.")
     return "\n".join(lines)
 
 
@@ -680,6 +707,8 @@ def cmd_build(cid):
            "bunkers": [{"ring": ring_ll(r)} for r in bunkers],
            "water": [{"ring": ring_ll(r)} for r in water if Polygon(r).buffer(0).area * gm * gm >= 150],
            "trees": trees}
+    if c.sorted_card():
+        out["pars_from_photo"] = True
     if plan.get("unsure"):
         out["unsure"] = {str(k): v for k, v in plan["unsure"].items()}
     os.makedirs(TRACED, exist_ok=True)
