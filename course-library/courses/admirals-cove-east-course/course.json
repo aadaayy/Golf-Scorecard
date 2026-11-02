@@ -26,7 +26,8 @@
         "Green": 350,
         "Red": 292,
         "Gold": 292
-      }
+      },
+      "map": "admirals-cove-east-course-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "Green": 456,
         "Red": 428,
         "Gold": 428
-      }
+      },
+      "map": "admirals-cove-east-course-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "Green": 157,
         "Red": 153,
         "Gold": 110
-      }
+      },
+      "map": "admirals-cove-east-course-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "Green": 338,
         "Red": 313,
         "Gold": 217
-      }
+      },
+      "map": "admirals-cove-east-course-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "Green": 128,
         "Red": 115,
         "Gold": 103
-      }
+      },
+      "map": "admirals-cove-east-course-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "Green": 347,
         "Red": 331,
         "Gold": 298
-      }
+      },
+      "map": "admirals-cove-east-course-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "Green": 351,
         "Red": 401,
         "Gold": 346
-      }
+      },
+      "map": "admirals-cove-east-course-07"
     },
     {
       "number": 8,
@@ -250,5 +257,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }

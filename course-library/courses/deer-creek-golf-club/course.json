@@ -6,116 +6,286 @@
     "lat": 26.32073,
     "lng": -80.141914
   },
-  "tees": [],
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Green",
+    "Red",
+    "Red/Silver",
+    "Silver"
+  ],
   "holes": [
     {
       "number": 1,
-      "par": 5,
+      "par": 4,
       "handicap": 13,
-      "yards": {}
+      "yards": {
+        "Gold": 372,
+        "Blue": 361,
+        "White": 341,
+        "Green": 325,
+        "Red": 260,
+        "Red/Silver": 260,
+        "Silver": 220
+      },
+      "map": "deer-creek-golf-club-01"
     },
     {
       "number": 2,
       "par": 5,
       "handicap": 7,
-      "yards": {}
+      "yards": {
+        "Gold": 529,
+        "Blue": 512,
+        "White": 502,
+        "Green": 466,
+        "Red": 462,
+        "Red/Silver": 355,
+        "Silver": 355
+      },
+      "map": "deer-creek-golf-club-02"
     },
     {
       "number": 3,
-      "par": 5,
+      "par": 4,
       "handicap": 3,
-      "yards": {}
+      "yards": {
+        "Gold": 432,
+        "Blue": 410,
+        "White": 394,
+        "Green": 371,
+        "Red": 340,
+        "Red/Silver": 280,
+        "Silver": 225
+      },
+      "map": "deer-creek-golf-club-03"
     },
     {
       "number": 4,
-      "par": 5,
+      "par": 3,
       "handicap": 17,
-      "yards": {}
+      "yards": {
+        "Gold": 152,
+        "Blue": 144,
+        "White": 127,
+        "Green": 115,
+        "Red": 92,
+        "Red/Silver": 92,
+        "Silver": 90
+      },
+      "map": "deer-creek-golf-club-04"
     },
     {
       "number": 5,
-      "par": 5,
+      "par": 4,
       "handicap": 1,
-      "yards": {}
+      "yards": {
+        "Gold": 463,
+        "Blue": 440,
+        "White": 416,
+        "Green": 390,
+        "Red": 375,
+        "Red/Silver": 290,
+        "Silver": 290
+      },
+      "map": "deer-creek-golf-club-05"
     },
     {
       "number": 6,
       "par": 5,
       "handicap": 9,
-      "yards": {}
+      "yards": {
+        "Gold": 558,
+        "Blue": 544,
+        "White": 528,
+        "Green": 503,
+        "Red": 460,
+        "Red/Silver": 410,
+        "Silver": 340
+      },
+      "map": "deer-creek-golf-club-06"
     },
     {
       "number": 7,
-      "par": 5,
+      "par": 4,
       "handicap": 11,
-      "yards": {}
+      "yards": {
+        "Gold": 385,
+        "Blue": 366,
+        "White": 346,
+        "Green": 328,
+        "Red": 282,
+        "Red/Silver": 282,
+        "Silver": 220
+      },
+      "map": "deer-creek-golf-club-07"
     },
     {
       "number": 8,
-      "par": 4,
+      "par": 3,
       "handicap": 15,
-      "yards": {}
+      "yards": {
+        "Gold": 215,
+        "Blue": 191,
+        "White": 177,
+        "Green": 146,
+        "Red": 130,
+        "Red/Silver": 130,
+        "Silver": 95
+      },
+      "map": "deer-creek-golf-club-08"
     },
     {
       "number": 9,
       "par": 4,
       "handicap": 5,
-      "yards": {}
+      "yards": {
+        "Gold": 407,
+        "Blue": 390,
+        "White": 378,
+        "Green": 356,
+        "Red": 320,
+        "Red/Silver": 320,
+        "Silver": 240
+      },
+      "map": "deer-creek-golf-club-09"
     },
     {
       "number": 10,
       "par": 4,
       "handicap": 14,
-      "yards": {}
+      "yards": {
+        "Gold": 339,
+        "Blue": 327,
+        "White": 313,
+        "Green": 294,
+        "Red": 261,
+        "Red/Silver": 261,
+        "Silver": 200
+      },
+      "map": "deer-creek-golf-club-10"
     },
     {
       "number": 11,
-      "par": 4,
+      "par": 3,
       "handicap": 18,
-      "yards": {}
+      "yards": {
+        "Gold": 191,
+        "Blue": 179,
+        "White": 147,
+        "Green": 125,
+        "Red": 100,
+        "Red/Silver": 100,
+        "Silver": 85
+      },
+      "map": "deer-creek-golf-club-11"
     },
     {
       "number": 12,
-      "par": 3,
+      "par": 4,
       "handicap": 6,
-      "yards": {}
+      "yards": {
+        "Gold": 423,
+        "Blue": 407,
+        "White": 378,
+        "Green": 362,
+        "Red": 286,
+        "Red/Silver": 286,
+        "Silver": 250
+      },
+      "map": "deer-creek-golf-club-12"
     },
     {
       "number": 13,
-      "par": 3,
+      "par": 5,
       "handicap": 10,
-      "yards": {}
+      "yards": {
+        "Gold": 534,
+        "Blue": 505,
+        "White": 475,
+        "Green": 449,
+        "Red": 398,
+        "Red/Silver": 340,
+        "Silver": 340
+      },
+      "map": "deer-creek-golf-club-13"
     },
     {
       "number": 14,
       "par": 3,
       "handicap": 16,
-      "yards": {}
+      "yards": {
+        "Gold": 186,
+        "Blue": 174,
+        "White": 157,
+        "Green": 134,
+        "Red": 128,
+        "Red/Silver": 128,
+        "Silver": 120
+      },
+      "map": "deer-creek-golf-club-14"
     },
     {
       "number": 15,
-      "par": 3,
+      "par": 4,
       "handicap": 2,
-      "yards": {}
+      "yards": {
+        "Gold": 429,
+        "Blue": 415,
+        "White": 395,
+        "Green": 380,
+        "Red": 333,
+        "Red/Silver": 270,
+        "Silver": 270
+      },
+      "map": "deer-creek-golf-club-15"
     },
     {
       "number": 16,
-      "par": 3,
+      "par": 5,
       "handicap": 8,
-      "yards": {}
+      "yards": {
+        "Gold": 607,
+        "Blue": 570,
+        "White": 536,
+        "Green": 497,
+        "Red": 482,
+        "Red/Silver": 360,
+        "Silver": 360
+      },
+      "map": "deer-creek-golf-club-16"
     },
     {
       "number": 17,
-      "par": 3,
+      "par": 4,
       "handicap": 12,
-      "yards": {}
+      "yards": {
+        "Gold": 377,
+        "Blue": 365,
+        "White": 335,
+        "Green": 318,
+        "Red": 288,
+        "Red/Silver": 288,
+        "Silver": 230
+      },
+      "map": "deer-creek-golf-club-17"
     },
     {
       "number": 18,
-      "par": 3,
+      "par": 4,
       "handicap": 4,
-      "yards": {}
+      "yards": {
+        "Gold": 451,
+        "Blue": 417,
+        "White": 388,
+        "Green": 359,
+        "Red": 303,
+        "Red/Silver": 303,
+        "Silver": 250
+      },
+      "map": "deer-creek-golf-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

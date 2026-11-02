@@ -7,8 +7,10 @@
     "lng": -80.080103
   },
   "tees": [
+    "Black",
     "Blue",
     "White",
+    "Green",
     "Gold"
   ],
   "holes": [
@@ -17,181 +19,235 @@
       "par": 4,
       "handicap": 15,
       "yards": {
+        "Black": 307,
         "Blue": 291,
         "White": 276,
+        "Green": 267,
         "Gold": 228
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-01"
     },
     {
       "number": 2,
       "par": 5,
       "handicap": 1,
       "yards": {
+        "Black": 562,
         "Blue": 548,
         "White": 515,
+        "Green": 455,
         "Gold": 451
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-02"
     },
     {
       "number": 3,
       "par": 4,
       "handicap": 13,
       "yards": {
+        "Black": 370,
         "Blue": 360,
         "White": 346,
+        "Green": 329,
         "Gold": 320
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-03"
     },
     {
       "number": 4,
       "par": 4,
       "handicap": 11,
       "yards": {
+        "Black": 377,
         "Blue": 377,
         "White": 349,
+        "Green": 325,
         "Gold": 295
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-04"
     },
     {
       "number": 5,
       "par": 3,
       "handicap": 9,
       "yards": {
+        "Black": 185,
         "Blue": 163,
         "White": 140,
+        "Green": 135,
         "Gold": 120
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-05"
     },
     {
       "number": 6,
       "par": 5,
       "handicap": 3,
       "yards": {
+        "Black": 558,
         "Blue": 508,
         "White": 443,
+        "Green": 395,
         "Gold": 377
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-06"
     },
     {
       "number": 7,
       "par": 4,
       "handicap": 5,
       "yards": {
+        "Black": 405,
         "Blue": 397,
         "White": 377,
+        "Green": 346,
         "Gold": 337
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-07"
     },
     {
       "number": 8,
       "par": 3,
       "handicap": 17,
       "yards": {
+        "Black": 196,
         "Blue": 181,
         "White": 165,
+        "Green": 129,
         "Gold": 120
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-08"
     },
     {
       "number": 9,
       "par": 4,
       "handicap": 7,
       "yards": {
+        "Black": 376,
         "Blue": 368,
         "White": 355,
+        "Green": 341,
         "Gold": 339
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-09"
     },
     {
       "number": 10,
       "par": 4,
       "handicap": 6,
       "yards": {
+        "Black": 400,
         "Blue": 385,
         "White": 364,
+        "Green": 328,
         "Gold": 298
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-10"
     },
     {
       "number": 11,
       "par": 4,
       "handicap": 4,
       "yards": {
+        "Black": 426,
         "Blue": 410,
         "White": 390,
+        "Green": 355,
         "Gold": 303
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-11"
     },
     {
       "number": 12,
       "par": 4,
       "handicap": 14,
       "yards": {
+        "Black": 365,
         "Blue": 356,
         "White": 343,
+        "Green": 326,
         "Gold": 317
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-12"
     },
     {
       "number": 13,
       "par": 3,
       "handicap": 18,
       "yards": {
+        "Black": 163,
         "Blue": 135,
         "White": 126,
+        "Green": 110,
         "Gold": 101
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-13"
     },
     {
       "number": 14,
       "par": 5,
       "handicap": 8,
       "yards": {
+        "Black": 515,
         "Blue": 507,
         "White": 488,
+        "Green": 439,
         "Gold": 415
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-14"
     },
     {
       "number": 15,
       "par": 4,
       "handicap": 10,
       "yards": {
+        "Black": 393,
         "Blue": 381,
         "White": 367,
+        "Green": 345,
         "Gold": 330
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-15"
     },
     {
       "number": 16,
       "par": 4,
       "handicap": 12,
       "yards": {
+        "Black": 381,
         "Blue": 373,
         "White": 355,
+        "Green": 273,
         "Gold": 243
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-16"
     },
     {
       "number": 17,
       "par": 3,
       "handicap": 16,
       "yards": {
+        "Black": 191,
         "Blue": 179,
         "White": 160,
+        "Green": 139,
         "Gold": 131
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-17"
     },
     {
       "number": 18,
       "par": 5,
       "handicap": 2,
       "yards": {
+        "Black": 514,
         "Blue": 502,
         "White": 483,
+        "Green": 449,
         "Gold": 441
-      }
+      },
+      "map": "the-country-club-at-boca-raton-resort-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -16,7 +16,8 @@
       "handicap": 7,
       "yards": {
         "Middle": 95
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-01"
     },
     {
       "number": 2,
@@ -24,7 +25,8 @@
       "handicap": 9,
       "yards": {
         "Middle": 66
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-02"
     },
     {
       "number": 3,
@@ -32,7 +34,8 @@
       "handicap": 1,
       "yards": {
         "Middle": 130
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-03"
     },
     {
       "number": 4,
@@ -40,7 +43,8 @@
       "handicap": 8,
       "yards": {
         "Middle": 72
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-04"
     },
     {
       "number": 5,
@@ -48,7 +52,8 @@
       "handicap": 6,
       "yards": {
         "Middle": 102
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-05"
     },
     {
       "number": 6,
@@ -56,7 +61,8 @@
       "handicap": 5,
       "yards": {
         "Middle": 117
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-06"
     },
     {
       "number": 7,
@@ -64,7 +70,8 @@
       "handicap": 3,
       "yards": {
         "Middle": 127
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-07"
     },
     {
       "number": 8,
@@ -72,7 +79,8 @@
       "handicap": 4,
       "yards": {
         "Middle": 121
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-08"
     },
     {
       "number": 9,
@@ -80,8 +88,9 @@
       "handicap": 2,
       "yards": {
         "Middle": 132
-      }
+      },
+      "map": "key-colony-beach-golf-tennis-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

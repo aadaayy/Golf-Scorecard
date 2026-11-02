@@ -7,7 +7,8 @@
     "lng": -80.07612
   },
   "tees": [
-    "Middle"
+    "Blue",
+    "White"
   ],
   "holes": [
     {
@@ -15,23 +16,28 @@
       "par": 3,
       "handicap": 4,
       "yards": {
-        "Middle": 100
-      }
+        "Blue": 135,
+        "White": 100
+      },
+      "map": "jupiter-dunes-golf-course-01"
     },
     {
       "number": 2,
       "par": 3,
       "handicap": 18,
       "yards": {
-        "Middle": 73
-      }
+        "Blue": 73,
+        "White": 73
+      },
+      "map": "jupiter-dunes-golf-course-02"
     },
     {
       "number": 3,
       "par": 3,
       "handicap": 12,
       "yards": {
-        "Middle": 70
+        "Blue": 70,
+        "White": 70
       }
     },
     {
@@ -39,47 +45,58 @@
       "par": 3,
       "handicap": 6,
       "yards": {
-        "Middle": 90
-      }
+        "Blue": 117,
+        "White": 90
+      },
+      "map": "jupiter-dunes-golf-course-04"
     },
     {
       "number": 5,
       "par": 3,
       "handicap": 2,
       "yards": {
-        "Middle": 82
-      }
+        "Blue": 145,
+        "White": 82
+      },
+      "map": "jupiter-dunes-golf-course-05"
     },
     {
       "number": 6,
       "par": 3,
       "handicap": 14,
       "yards": {
-        "Middle": 65
-      }
+        "Blue": 112,
+        "White": 65
+      },
+      "map": "jupiter-dunes-golf-course-06"
     },
     {
       "number": 7,
       "par": 3,
       "handicap": 8,
       "yards": {
-        "Middle": 95
-      }
+        "Blue": 155,
+        "White": 95
+      },
+      "map": "jupiter-dunes-golf-course-07"
     },
     {
       "number": 8,
       "par": 3,
       "handicap": 10,
       "yards": {
-        "Middle": 96
-      }
+        "Blue": 123,
+        "White": 96
+      },
+      "map": "jupiter-dunes-golf-course-08"
     },
     {
       "number": 9,
       "par": 3,
       "handicap": 16,
       "yards": {
-        "Middle": 67
+        "Blue": 67,
+        "White": 67
       }
     },
     {
@@ -87,73 +104,91 @@
       "par": 3,
       "handicap": 1,
       "yards": {
-        "Middle": 150
-      }
+        "Blue": 171,
+        "White": 150
+      },
+      "map": "jupiter-dunes-golf-course-10"
     },
     {
       "number": 11,
       "par": 3,
       "handicap": 17,
       "yards": {
-        "Middle": 98
-      }
+        "Blue": 98,
+        "White": 98
+      },
+      "map": "jupiter-dunes-golf-course-11"
     },
     {
       "number": 12,
       "par": 3,
       "handicap": 13,
       "yards": {
-        "Middle": 97
-      }
+        "Blue": 140,
+        "White": 97
+      },
+      "map": "jupiter-dunes-golf-course-12"
     },
     {
       "number": 13,
       "par": 3,
       "handicap": 3,
       "yards": {
-        "Middle": 125
-      }
+        "Blue": 155,
+        "White": 125
+      },
+      "map": "jupiter-dunes-golf-course-13"
     },
     {
       "number": 14,
       "par": 3,
       "handicap": 7,
       "yards": {
-        "Middle": 108
-      }
+        "Blue": 135,
+        "White": 108
+      },
+      "map": "jupiter-dunes-golf-course-14"
     },
     {
       "number": 15,
       "par": 3,
       "handicap": 15,
       "yards": {
-        "Middle": 103
-      }
+        "Blue": 116,
+        "White": 103
+      },
+      "map": "jupiter-dunes-golf-course-15"
     },
     {
       "number": 16,
       "par": 3,
       "handicap": 11,
       "yards": {
-        "Middle": 100
-      }
+        "Blue": 110,
+        "White": 100
+      },
+      "map": "jupiter-dunes-golf-course-16"
     },
     {
       "number": 17,
       "par": 3,
       "handicap": 9,
       "yards": {
-        "Middle": 81
-      }
+        "Blue": 154,
+        "White": 81
+      },
+      "map": "jupiter-dunes-golf-course-17"
     },
     {
       "number": 18,
       "par": 3,
       "handicap": 5,
       "yards": {
-        "Middle": 132
-      }
+        "Blue": 152,
+        "White": 132
+      },
+      "map": "jupiter-dunes-golf-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

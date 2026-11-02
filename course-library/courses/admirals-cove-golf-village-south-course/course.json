@@ -7,101 +7,131 @@
     "lng": -80.097472
   },
   "tees": [
-    "Back",
-    "Member",
-    "Front"
+    "Black",
+    "Blue",
+    "White",
+    "Middle",
+    "Forward (L)",
+    "Front (L)"
   ],
   "holes": [
     {
       "number": 1,
       "par": 4,
-      "handicap": 7,
       "yards": {
-        "Back": 310,
-        "Member": 298,
-        "Front": 237
-      }
+        "Black": 377,
+        "Blue": 371,
+        "White": 328,
+        "Middle": 319,
+        "Forward (L)": 298,
+        "Front (L)": 296
+      },
+      "map": "admirals-cove-golf-village-south-course-01"
     },
     {
       "number": 2,
-      "par": 4,
-      "handicap": 5,
+      "par": 5,
       "yards": {
-        "Back": 358,
-        "Member": 344,
-        "Front": 269
-      }
+        "Black": 507,
+        "Blue": 495,
+        "White": 474,
+        "Middle": 464,
+        "Forward (L)": 421,
+        "Front (L)": 421
+      },
+      "map": "admirals-cove-golf-village-south-course-02"
     },
     {
       "number": 3,
-      "par": 5,
-      "handicap": 1,
+      "par": 3,
       "yards": {
-        "Back": 526,
-        "Member": 478,
-        "Front": 413
-      }
+        "Black": 149,
+        "Blue": 138,
+        "White": 130,
+        "Middle": 130,
+        "Forward (L)": 104,
+        "Front (L)": 94
+      },
+      "map": "admirals-cove-golf-village-south-course-03"
     },
     {
       "number": 4,
       "par": 5,
-      "handicap": 3,
       "yards": {
-        "Back": 470,
-        "Member": 424,
-        "Front": 385
-      }
+        "Black": 490,
+        "Blue": 473,
+        "White": 428,
+        "Middle": 416,
+        "Forward (L)": 401,
+        "Front (L)": 338
+      },
+      "map": "admirals-cove-golf-village-south-course-04"
     },
     {
       "number": 5,
       "par": 3,
-      "handicap": 8,
       "yards": {
-        "Back": 163,
-        "Member": 139,
-        "Front": 109
-      }
+        "Black": 179,
+        "Blue": 173,
+        "White": 152,
+        "Middle": 145,
+        "Forward (L)": 130,
+        "Front (L)": 130
+      },
+      "map": "admirals-cove-golf-village-south-course-05"
     },
     {
       "number": 6,
       "par": 4,
-      "handicap": 6,
       "yards": {
-        "Back": 254,
-        "Member": 235,
-        "Front": 154
-      }
+        "Black": 370,
+        "Blue": 360,
+        "White": 332,
+        "Middle": 310,
+        "Forward (L)": 301,
+        "Front (L)": 262
+      },
+      "map": "admirals-cove-golf-village-south-course-06"
     },
     {
       "number": 7,
       "par": 4,
-      "handicap": 2,
       "yards": {
-        "Back": 376,
-        "Member": 355,
-        "Front": 236
-      }
+        "Black": 361,
+        "Blue": 358,
+        "White": 339,
+        "Middle": 311,
+        "Forward (L)": 299,
+        "Front (L)": 254
+      },
+      "map": "admirals-cove-golf-village-south-course-07"
     },
     {
       "number": 8,
-      "par": 3,
-      "handicap": 9,
+      "par": 4,
       "yards": {
-        "Back": 152,
-        "Member": 132,
-        "Front": 117
-      }
+        "Black": 370,
+        "Blue": 344,
+        "White": 326,
+        "Middle": 302,
+        "Forward (L)": 259,
+        "Front (L)": 259
+      },
+      "map": "admirals-cove-golf-village-south-course-08"
     },
     {
       "number": 9,
-      "par": 4,
-      "handicap": 4,
+      "par": 3,
       "yards": {
-        "Back": 322,
-        "Member": 266,
-        "Front": 250
-      }
+        "Black": 180,
+        "Blue": 171,
+        "White": 151,
+        "Middle": 151,
+        "Forward (L)": 136,
+        "Front (L)": 86
+      },
+      "map": "admirals-cove-golf-village-south-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

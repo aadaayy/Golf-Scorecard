@@ -7,91 +7,140 @@
     "lng": -80.15713
   },
   "tees": [
-    "Middle",
-    "Forward"
+    "Black",
+    "Dark Green",
+    "Green",
+    "White",
+    "Yellow",
+    "Red"
   ],
   "holes": [
     {
       "number": 1,
       "par": 4,
-      "handicap": 4,
+      "handicap": 6,
       "yards": {
-        "Middle": 342,
-        "Forward": 332
-      }
+        "Black": 402,
+        "Dark Green": 369,
+        "Green": 369,
+        "White": 359,
+        "Yellow": 330,
+        "Red": 326
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-01"
     },
     {
       "number": 2,
       "par": 4,
-      "handicap": 2,
+      "handicap": 1,
       "yards": {
-        "Middle": 355,
-        "Forward": 330
-      }
+        "Black": 416,
+        "Dark Green": 382,
+        "Green": 382,
+        "White": 362,
+        "Yellow": 333,
+        "Red": 327
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-02"
     },
     {
       "number": 3,
-      "par": 5,
-      "handicap": 6,
+      "par": 3,
+      "handicap": 4,
       "yards": {
-        "Middle": 499,
-        "Forward": 484
-      }
+        "Black": 182,
+        "Dark Green": 182,
+        "Green": 153,
+        "White": 147,
+        "Yellow": 122,
+        "Red": 122
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-03"
     },
     {
       "number": 4,
-      "par": 3,
-      "handicap": 5,
+      "par": 5,
+      "handicap": 2,
       "yards": {
-        "Middle": 166,
-        "Forward": 129
-      }
+        "Black": 539,
+        "Dark Green": 539,
+        "Green": 512,
+        "White": 492,
+        "Yellow": 438,
+        "Red": 438
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-04"
     },
     {
       "number": 5,
       "par": 4,
-      "handicap": 1,
+      "handicap": 7,
       "yards": {
-        "Middle": 348,
-        "Forward": 336
-      }
+        "Black": 388,
+        "Dark Green": 362,
+        "Green": 362,
+        "White": 347,
+        "Yellow": 335,
+        "Red": 323
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-05"
     },
     {
       "number": 6,
       "par": 4,
-      "handicap": 9,
+      "handicap": 8,
       "yards": {
-        "Middle": 360,
-        "Forward": 347
-      }
+        "Black": 317,
+        "Dark Green": 317,
+        "Green": 291,
+        "White": 263,
+        "Yellow": 253,
+        "Red": 232
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-06"
     },
     {
       "number": 7,
       "par": 3,
-      "handicap": 7,
+      "handicap": 9,
       "yards": {
-        "Middle": 166,
-        "Forward": 147
-      }
+        "Black": 180,
+        "Dark Green": 158,
+        "Green": 158,
+        "White": 138,
+        "Yellow": 124,
+        "Red": 105
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-07"
     },
     {
       "number": 8,
-      "par": 4,
-      "handicap": 8,
+      "par": 5,
+      "handicap": 5,
       "yards": {
-        "Middle": 334,
-        "Forward": 317
-      }
+        "Black": 519,
+        "Dark Green": 519,
+        "Green": 492,
+        "White": 473,
+        "Yellow": 441,
+        "Red": 441
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-08"
     },
     {
       "number": 9,
-      "par": 5,
+      "par": 4,
       "handicap": 3,
       "yards": {
-        "Middle": 523,
-        "Forward": 500
-      }
+        "Black": 432,
+        "Dark Green": 407,
+        "Green": 371,
+        "White": 350,
+        "Yellow": 324,
+        "Red": 275
+      },
+      "map": "addison-reserve-country-club-trepidation-golf-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

@@ -26,7 +26,8 @@
         "White": 469,
         "Green": 451,
         "Red": 424
-      }
+      },
+      "map": "card-sound-golf-club-01"
     },
     {
       "number": 2,
@@ -39,7 +40,8 @@
         "White": 147,
         "Green": 139,
         "Red": 131
-      }
+      },
+      "map": "card-sound-golf-club-02"
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
         "White": 315,
         "Green": 305,
         "Red": 284
-      }
+      },
+      "map": "card-sound-golf-club-03"
     },
     {
       "number": 4,
@@ -65,7 +68,8 @@
         "White": 330,
         "Green": 290,
         "Red": 278
-      }
+      },
+      "map": "card-sound-golf-club-04"
     },
     {
       "number": 5,
@@ -78,7 +82,8 @@
         "White": 150,
         "Green": 139,
         "Red": 127
-      }
+      },
+      "map": "card-sound-golf-club-05"
     },
     {
       "number": 6,
@@ -91,7 +96,8 @@
         "White": 343,
         "Green": 310,
         "Red": 277
-      }
+      },
+      "map": "card-sound-golf-club-06"
     },
     {
       "number": 7,
@@ -104,7 +110,8 @@
         "White": 321,
         "Green": 316,
         "Red": 276
-      }
+      },
+      "map": "card-sound-golf-club-07"
     },
     {
       "number": 8,
@@ -117,7 +124,8 @@
         "White": 330,
         "Green": 321,
         "Red": 300
-      }
+      },
+      "map": "card-sound-golf-club-08"
     },
     {
       "number": 9,
@@ -130,7 +138,8 @@
         "White": 475,
         "Green": 467,
         "Red": 434
-      }
+      },
+      "map": "card-sound-golf-club-09"
     },
     {
       "number": 10,
@@ -143,7 +152,8 @@
         "White": 477,
         "Green": 410,
         "Red": 400
-      }
+      },
+      "map": "card-sound-golf-club-10"
     },
     {
       "number": 11,
@@ -156,7 +166,8 @@
         "White": 329,
         "Green": 320,
         "Red": 297
-      }
+      },
+      "map": "card-sound-golf-club-11"
     },
     {
       "number": 12,
@@ -169,7 +180,8 @@
         "White": 120,
         "Green": 108,
         "Red": 94
-      }
+      },
+      "map": "card-sound-golf-club-12"
     },
     {
       "number": 13,
@@ -182,7 +194,8 @@
         "White": 292,
         "Green": 277,
         "Red": 283
-      }
+      },
+      "map": "card-sound-golf-club-13"
     },
     {
       "number": 14,
@@ -195,7 +208,8 @@
         "White": 320,
         "Green": 308,
         "Red": 288
-      }
+      },
+      "map": "card-sound-golf-club-14"
     },
     {
       "number": 15,
@@ -208,7 +222,8 @@
         "White": 117,
         "Green": 110,
         "Red": 103
-      }
+      },
+      "map": "card-sound-golf-club-15"
     },
     {
       "number": 16,
@@ -221,7 +236,8 @@
         "White": 360,
         "Green": 345,
         "Red": 320
-      }
+      },
+      "map": "card-sound-golf-club-16"
     },
     {
       "number": 17,
@@ -234,7 +250,8 @@
         "White": 142,
         "Green": 121,
         "Red": 113
-      }
+      },
+      "map": "card-sound-golf-club-17"
     },
     {
       "number": 18,
@@ -247,8 +264,9 @@
         "White": 511,
         "Green": 475,
         "Red": 441
-      }
+      },
+      "map": "card-sound-golf-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

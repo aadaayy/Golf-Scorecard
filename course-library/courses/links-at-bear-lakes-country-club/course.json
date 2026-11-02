@@ -6,116 +6,231 @@
     "lat": 26.730058,
     "lng": -80.099731
   },
-  "tees": [],
+  "tees": [
+    "Gold",
+    "Black",
+    "Silver",
+    "Blue",
+    "White",
+    "Red"
+  ],
   "holes": [
     {
       "number": 1,
-      "par": 5,
-      "handicap": 7,
-      "yards": {}
+      "par": 4,
+      "yards": {
+        "Gold": 424,
+        "Black": 382,
+        "Silver": 382,
+        "Blue": 372,
+        "White": 320,
+        "Red": 309
+      }
     },
     {
       "number": 2,
       "par": 5,
-      "handicap": 1,
-      "yards": {}
+      "yards": {
+        "Gold": 595,
+        "Black": 568,
+        "Silver": 568,
+        "Blue": 486,
+        "White": 475,
+        "Red": 433
+      }
     },
     {
       "number": 3,
-      "par": 5,
-      "handicap": 13,
-      "yards": {}
+      "par": 4,
+      "yards": {
+        "Gold": 408,
+        "Black": 408,
+        "Silver": 408,
+        "Blue": 336,
+        "White": 323,
+        "Red": 288
+      }
     },
     {
       "number": 4,
-      "par": 5,
-      "handicap": 17,
-      "yards": {}
+      "par": 3,
+      "yards": {
+        "Gold": 186,
+        "Black": 160,
+        "Silver": 160,
+        "Blue": 152,
+        "White": 117,
+        "Red": 108
+      }
     },
     {
       "number": 5,
-      "par": 5,
-      "handicap": 5,
-      "yards": {}
+      "par": 4,
+      "yards": {
+        "Gold": 467,
+        "Black": 455,
+        "Silver": 399,
+        "Blue": 399,
+        "White": 387,
+        "Red": 317
+      }
     },
     {
       "number": 6,
       "par": 5,
-      "handicap": 3,
-      "yards": {}
+      "yards": {
+        "Gold": 573,
+        "Black": 537,
+        "Silver": 537,
+        "Blue": 468,
+        "White": 454,
+        "Red": 417
+      }
     },
     {
       "number": 7,
-      "par": 5,
-      "handicap": 11,
-      "yards": {}
+      "par": 4,
+      "yards": {
+        "Gold": 355,
+        "Black": 316,
+        "Silver": 300,
+        "Blue": 300,
+        "White": 298,
+        "Red": 211
+      }
     },
     {
       "number": 8,
-      "par": 5,
-      "handicap": 15,
-      "yards": {}
+      "par": 3,
+      "yards": {
+        "Gold": 195,
+        "Black": 173,
+        "Silver": 173,
+        "Blue": 159,
+        "White": 144,
+        "Red": 97
+      }
     },
     {
       "number": 9,
       "par": 4,
-      "handicap": 9,
-      "yards": {}
+      "yards": {
+        "Gold": 484,
+        "Black": 484,
+        "Silver": 404,
+        "Blue": 346,
+        "White": 346,
+        "Red": 277
+      }
     },
     {
       "number": 10,
       "par": 4,
-      "handicap": 8,
-      "yards": {}
+      "yards": {
+        "Gold": 397,
+        "Black": 389,
+        "Silver": 389,
+        "Blue": 363,
+        "White": 351,
+        "Red": 323
+      }
     },
     {
       "number": 11,
-      "par": 3,
-      "handicap": 14,
-      "yards": {}
+      "par": 5,
+      "yards": {
+        "Gold": 552,
+        "Black": 510,
+        "Silver": 510,
+        "Blue": 503,
+        "White": 425,
+        "Red": 417
+      }
     },
     {
       "number": 12,
-      "par": 3,
-      "handicap": 4,
-      "yards": {}
+      "par": 4,
+      "yards": {
+        "Gold": 476,
+        "Black": 452,
+        "Silver": 383,
+        "Blue": 383,
+        "White": 374,
+        "Red": 326
+      }
     },
     {
       "number": 13,
       "par": 3,
-      "handicap": 18,
-      "yards": {}
+      "yards": {
+        "Gold": 222,
+        "Black": 211,
+        "Silver": 211,
+        "Blue": 159,
+        "White": 140,
+        "Red": 126
+      }
     },
     {
       "number": 14,
-      "par": 3,
-      "handicap": 2,
-      "yards": {}
+      "par": 4,
+      "yards": {
+        "Gold": 447,
+        "Black": 426,
+        "Silver": 377,
+        "Blue": 377,
+        "White": 329,
+        "Red": 317
+      }
     },
     {
       "number": 15,
-      "par": 3,
-      "handicap": 12,
-      "yards": {}
+      "par": 4,
+      "yards": {
+        "Gold": 376,
+        "Black": 316,
+        "Silver": 298,
+        "Blue": 298,
+        "White": 252,
+        "Red": 238
+      }
     },
     {
       "number": 16,
       "par": 3,
-      "handicap": 16,
-      "yards": {}
+      "yards": {
+        "Gold": 225,
+        "Black": 191,
+        "Silver": 191,
+        "Blue": 170,
+        "White": 125,
+        "Red": 116
+      }
     },
     {
       "number": 17,
-      "par": 3,
-      "handicap": 6,
-      "yards": {}
+      "par": 5,
+      "yards": {
+        "Gold": 580,
+        "Black": 540,
+        "Silver": 495,
+        "Blue": 495,
+        "White": 479,
+        "Red": 417
+      }
     },
     {
       "number": 18,
-      "par": 3,
-      "handicap": 10,
-      "yards": {}
+      "par": 4,
+      "yards": {
+        "Gold": 430,
+        "Black": 430,
+        "Silver": 430,
+        "Blue": 362,
+        "White": 351,
+        "Red": 307
+      }
     }
   ],
-  "version": 1
+  "version": 2
 }

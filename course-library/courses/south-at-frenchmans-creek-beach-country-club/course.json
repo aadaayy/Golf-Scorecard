@@ -7,153 +7,418 @@
     "lng": -80.086907
   },
   "tees": [
-    "Web"
+    "Black",
+    "Blk/Gold",
+    "Gold",
+    "Gold/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "White/Bronze",
+    "Bronze",
+    "Bronze/Silver",
+    "Silver",
+    "Red",
+    "Red/Green",
+    "Green"
   ],
   "holes": [
     {
       "number": 1,
       "par": 5,
-      "handicap": 5,
+      "handicap": 11,
       "yards": {
-        "Web": 552
-      }
+        "Black": 552,
+        "Blk/Gold": 552,
+        "Gold": 520,
+        "Gold/Blue": 520,
+        "Blue": 490,
+        "Blue/White": 490,
+        "White": 462,
+        "White/Bronze": 462,
+        "Bronze": 442,
+        "Bronze/Silver": 417,
+        "Silver": 417,
+        "Red": 417,
+        "Red/Green": 386,
+        "Green": 386
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-01"
     },
     {
       "number": 2,
       "par": 4,
-      "handicap": 9,
+      "handicap": 7,
       "yards": {
-        "Web": 405
-      }
+        "Black": 405,
+        "Blk/Gold": 380,
+        "Gold": 380,
+        "Gold/Blue": 354,
+        "Blue": 354,
+        "Blue/White": 338,
+        "White": 338,
+        "White/Bronze": 291,
+        "Bronze": 291,
+        "Bronze/Silver": 267,
+        "Silver": 267,
+        "Red": 267,
+        "Red/Green": 267,
+        "Green": 264
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-02"
     },
     {
       "number": 3,
       "par": 4,
       "handicap": 15,
       "yards": {
-        "Web": 366
-      }
+        "Black": 366,
+        "Blk/Gold": 366,
+        "Gold": 355,
+        "Gold/Blue": 355,
+        "Blue": 330,
+        "Blue/White": 330,
+        "White": 305,
+        "White/Bronze": 305,
+        "Bronze": 270,
+        "Bronze/Silver": 270,
+        "Silver": 270,
+        "Red": 270,
+        "Red/Green": 270,
+        "Green": 229
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-03"
     },
     {
       "number": 4,
       "par": 5,
       "handicap": 1,
       "yards": {
-        "Web": 595
-      }
+        "Black": 595,
+        "Blk/Gold": 550,
+        "Gold": 550,
+        "Gold/Blue": 550,
+        "Blue": 505,
+        "Blue/White": 505,
+        "White": 490,
+        "White/Bronze": 449,
+        "Bronze": 449,
+        "Bronze/Silver": 449,
+        "Silver": 424,
+        "Red": 424,
+        "Red/Green": 424,
+        "Green": 424
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-04"
     },
     {
       "number": 5,
       "par": 3,
       "handicap": 13,
       "yards": {
-        "Web": 202
-      }
+        "Black": 202,
+        "Blk/Gold": 202,
+        "Gold": 184,
+        "Gold/Blue": 184,
+        "Blue": 175,
+        "Blue/White": 141,
+        "White": 141,
+        "White/Bronze": 141,
+        "Bronze": 130,
+        "Bronze/Silver": 130,
+        "Silver": 125,
+        "Red": 125,
+        "Red/Green": 125,
+        "Green": 101
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-05"
     },
     {
       "number": 6,
       "par": 4,
-      "handicap": 11,
+      "handicap": 9,
       "yards": {
-        "Web": 410
-      }
+        "Black": 410,
+        "Blk/Gold": 386,
+        "Gold": 386,
+        "Gold/Blue": 374,
+        "Blue": 374,
+        "Blue/White": 374,
+        "White": 355,
+        "White/Bronze": 319,
+        "Bronze": 319,
+        "Bronze/Silver": 296,
+        "Silver": 296,
+        "Red": 296,
+        "Red/Green": 271,
+        "Green": 271
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-06"
     },
     {
       "number": 7,
       "par": 4,
-      "handicap": 7,
+      "handicap": 3,
       "yards": {
-        "Web": 418
-      }
+        "Black": 418,
+        "Blk/Gold": 418,
+        "Gold": 388,
+        "Gold/Blue": 376,
+        "Blue": 376,
+        "Blue/White": 345,
+        "White": 345,
+        "White/Bronze": 345,
+        "Bronze": 315,
+        "Bronze/Silver": 315,
+        "Silver": 272,
+        "Red": 272,
+        "Red/Green": 272,
+        "Green": 272
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-07"
     },
     {
       "number": 8,
       "par": 4,
-      "handicap": 3,
+      "handicap": 5,
       "yards": {
-        "Web": 465
-      }
+        "Black": 420,
+        "Blk/Gold": 380,
+        "Gold": 380,
+        "Gold/Blue": 380,
+        "Blue": 380,
+        "Blue/White": 354,
+        "White": 354,
+        "White/Bronze": 335,
+        "Bronze": 335,
+        "Bronze/Silver": 285,
+        "Silver": 285,
+        "Red": 285,
+        "Red/Green": 285,
+        "Green": 285
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-08"
     },
     {
       "number": 9,
       "par": 3,
       "handicap": 17,
       "yards": {
-        "Web": 184
-      }
+        "Black": 184,
+        "Blk/Gold": 184,
+        "Gold": 160,
+        "Gold/Blue": 160,
+        "Blue": 151,
+        "Blue/White": 151,
+        "White": 140,
+        "White/Bronze": 140,
+        "Bronze": 115,
+        "Bronze/Silver": 115,
+        "Silver": 105,
+        "Red": 105,
+        "Red/Green": 105,
+        "Green": 80
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-09"
     },
     {
       "number": 10,
       "par": 4,
       "handicap": 4,
       "yards": {
-        "Web": 406
-      }
+        "Black": 406,
+        "Blk/Gold": 406,
+        "Gold": 385,
+        "Gold/Blue": 385,
+        "Blue": 385,
+        "Blue/White": 385,
+        "White": 340,
+        "White/Bronze": 340,
+        "Bronze": 301,
+        "Bronze/Silver": 269,
+        "Silver": 269,
+        "Red": 269,
+        "Red/Green": 269,
+        "Green": 269
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-10"
     },
     {
       "number": 11,
       "par": 3,
-      "handicap": 18,
+      "handicap": 16,
       "yards": {
-        "Web": 177
-      }
+        "Black": 177,
+        "Blk/Gold": 177,
+        "Gold": 157,
+        "Gold/Blue": 157,
+        "Blue": 151,
+        "Blue/White": 151,
+        "White": 135,
+        "White/Bronze": 120,
+        "Bronze": 120,
+        "Bronze/Silver": 120,
+        "Silver": 120,
+        "Red": 120,
+        "Red/Green": 120,
+        "Green": 99
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-11"
     },
     {
       "number": 12,
       "par": 4,
       "handicap": 8,
       "yards": {
-        "Web": 392
-      }
+        "Black": 392,
+        "Blk/Gold": 373,
+        "Gold": 373,
+        "Gold/Blue": 373,
+        "Blue": 363,
+        "Blue/White": 330,
+        "White": 330,
+        "White/Bronze": 288,
+        "Bronze": 288,
+        "Bronze/Silver": 288,
+        "Silver": 254,
+        "Red": 254,
+        "Red/Green": 254,
+        "Green": 254
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-12"
     },
     {
       "number": 13,
       "par": 3,
-      "handicap": 16,
+      "handicap": 18,
       "yards": {
-        "Web": 211
-      }
+        "Black": 211,
+        "Blk/Gold": 195,
+        "Gold": 195,
+        "Gold/Blue": 170,
+        "Blue": 170,
+        "Blue/White": 149,
+        "White": 149,
+        "White/Bronze": 145,
+        "Bronze": 145,
+        "Bronze/Silver": 145,
+        "Silver": 128,
+        "Red": 128,
+        "Red/Green": 128,
+        "Green": 119
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-13"
     },
     {
       "number": 14,
       "par": 4,
       "handicap": 14,
       "yards": {
-        "Web": 340
-      }
+        "Black": 340,
+        "Blk/Gold": 340,
+        "Gold": 340,
+        "Gold/Blue": 340,
+        "Blue": 320,
+        "Blue/White": 320,
+        "White": 275,
+        "White/Bronze": 275,
+        "Bronze": 270,
+        "Bronze/Silver": 270,
+        "Silver": 245,
+        "Red": 245,
+        "Red/Green": 245,
+        "Green": 201
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-14"
     },
     {
       "number": 15,
       "par": 5,
       "handicap": 12,
       "yards": {
-        "Web": 510
-      }
+        "Black": 510,
+        "Blk/Gold": 490,
+        "Gold": 490,
+        "Gold/Blue": 490,
+        "Blue": 478,
+        "Blue/White": 478,
+        "White": 450,
+        "White/Bronze": 450,
+        "Bronze": 441,
+        "Bronze/Silver": 441,
+        "Silver": 412,
+        "Red": 412,
+        "Red/Green": 412,
+        "Green": 386
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-15"
     },
     {
       "number": 16,
       "par": 4,
       "handicap": 10,
       "yards": {
-        "Web": 408
-      }
+        "Black": 408,
+        "Blk/Gold": 408,
+        "Gold": 385,
+        "Gold/Blue": 374,
+        "Blue": 374,
+        "Blue/White": 374,
+        "White": 350,
+        "White/Bronze": 350,
+        "Bronze": 344,
+        "Bronze/Silver": 299,
+        "Silver": 299,
+        "Red": 299,
+        "Red/Green": 253,
+        "Green": 253
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-16"
     },
     {
       "number": 17,
       "par": 5,
       "handicap": 2,
       "yards": {
-        "Web": 565
-      }
+        "Black": 565,
+        "Blk/Gold": 565,
+        "Gold": 543,
+        "Gold/Blue": 543,
+        "Blue": 531,
+        "Blue/White": 531,
+        "White": 500,
+        "White/Bronze": 434,
+        "Bronze": 434,
+        "Bronze/Silver": 434,
+        "Silver": 411,
+        "Red": 411,
+        "Red/Green": 378,
+        "Green": 378
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-17"
     },
     {
       "number": 18,
       "par": 4,
       "handicap": 6,
       "yards": {
-        "Web": 428
-      }
+        "Black": 428,
+        "Blk/Gold": 410,
+        "Gold": 410,
+        "Gold/Blue": 375,
+        "Blue": 375,
+        "Blue/White": 351,
+        "White": 351,
+        "White/Bronze": 319,
+        "Bronze": 319,
+        "Bronze/Silver": 287,
+        "Silver": 287,
+        "Red": 287,
+        "Red/Green": 287,
+        "Green": 287
+      },
+      "map": "south-at-frenchmans-creek-beach-country-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

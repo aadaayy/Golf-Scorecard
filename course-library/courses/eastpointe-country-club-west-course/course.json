@@ -6,116 +6,248 @@
     "lat": 26.876387,
     "lng": -80.141779
   },
-  "tees": [],
+  "tees": [
+    "Black",
+    "Grey",
+    "Blue",
+    "Turquoise",
+    "White"
+  ],
   "holes": [
     {
       "number": 1,
       "par": 5,
       "handicap": 5,
-      "yards": {}
+      "yards": {
+        "Black": 500,
+        "Grey": 500,
+        "Blue": 471,
+        "Turquoise": 428,
+        "White": 428
+      },
+      "map": "eastpointe-country-club-west-course-01"
     },
     {
       "number": 2,
       "par": 4,
-      "handicap": 7,
-      "yards": {}
+      "handicap": 1,
+      "yards": {
+        "Black": 458,
+        "Grey": 420,
+        "Blue": 420,
+        "Turquoise": 337,
+        "White": 337
+      },
+      "map": "eastpointe-country-club-west-course-02"
     },
     {
       "number": 3,
       "par": 4,
       "handicap": 15,
-      "yards": {}
+      "yards": {
+        "Black": 346,
+        "Grey": 346,
+        "Blue": 315,
+        "Turquoise": 315,
+        "White": 301
+      },
+      "map": "eastpointe-country-club-west-course-03"
     },
     {
       "number": 4,
-      "par": 4,
+      "par": 3,
       "handicap": 17,
-      "yards": {}
+      "yards": {
+        "Black": 160,
+        "Grey": 160,
+        "Blue": 136,
+        "Turquoise": 136,
+        "White": 113
+      },
+      "map": "eastpointe-country-club-west-course-04"
     },
     {
       "number": 5,
       "par": 4,
-      "handicap": 3,
-      "yards": {}
+      "handicap": 9,
+      "yards": {
+        "Black": 378,
+        "Grey": 360,
+        "Blue": 360,
+        "Turquoise": 310,
+        "White": 310
+      },
+      "map": "eastpointe-country-club-west-course-05"
     },
     {
       "number": 6,
       "par": 4,
-      "handicap": 11,
-      "yards": {}
+      "handicap": 13,
+      "yards": {
+        "Black": 316,
+        "Grey": 316,
+        "Blue": 294,
+        "Turquoise": 294,
+        "White": 247
+      },
+      "map": "eastpointe-country-club-west-course-06"
     },
     {
       "number": 7,
-      "par": 4,
-      "handicap": 13,
-      "yards": {}
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Black": 183,
+        "Grey": 164,
+        "Blue": 164,
+        "Turquoise": 164,
+        "White": 135
+      },
+      "map": "eastpointe-country-club-west-course-07"
     },
     {
       "number": 8,
       "par": 4,
-      "handicap": 9,
-      "yards": {}
+      "handicap": 11,
+      "yards": {
+        "Black": 385,
+        "Grey": 385,
+        "Blue": 350,
+        "Turquoise": 350,
+        "White": 313
+      },
+      "map": "eastpointe-country-club-west-course-08"
     },
     {
       "number": 9,
-      "par": 4,
-      "handicap": 1,
-      "yards": {}
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Black": 555,
+        "Grey": 519,
+        "Blue": 519,
+        "Turquoise": 506,
+        "White": 506
+      },
+      "map": "eastpointe-country-club-west-course-09"
     },
     {
       "number": 10,
-      "par": 4,
+      "par": 3,
       "handicap": 14,
-      "yards": {}
+      "yards": {
+        "Black": 159,
+        "Grey": 159,
+        "Blue": 131,
+        "Turquoise": 131,
+        "White": 113
+      },
+      "map": "eastpointe-country-club-west-course-10"
     },
     {
       "number": 11,
       "par": 4,
       "handicap": 12,
-      "yards": {}
+      "yards": {
+        "Black": 387,
+        "Grey": 387,
+        "Blue": 359,
+        "Turquoise": 359,
+        "White": 308
+      },
+      "map": "eastpointe-country-club-west-course-11"
     },
     {
       "number": 12,
       "par": 4,
-      "handicap": 6,
-      "yards": {}
+      "handicap": 8,
+      "yards": {
+        "Black": 425,
+        "Grey": 395,
+        "Blue": 395,
+        "Turquoise": 330,
+        "White": 330
+      },
+      "map": "eastpointe-country-club-west-course-12"
     },
     {
       "number": 13,
-      "par": 4,
+      "par": 3,
       "handicap": 16,
-      "yards": {}
+      "yards": {
+        "Black": 193,
+        "Grey": 193,
+        "Blue": 160,
+        "Turquoise": 160,
+        "White": 134
+      },
+      "map": "eastpointe-country-club-west-course-13"
     },
     {
       "number": 14,
-      "par": 4,
-      "handicap": 4,
-      "yards": {}
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Black": 539,
+        "Grey": 510,
+        "Blue": 510,
+        "Turquoise": 456,
+        "White": 456
+      },
+      "map": "eastpointe-country-club-west-course-14"
     },
     {
       "number": 15,
-      "par": 4,
+      "par": 3,
       "handicap": 18,
-      "yards": {}
+      "yards": {
+        "Black": 167,
+        "Grey": 167,
+        "Blue": 148,
+        "Turquoise": 148,
+        "White": 127
+      },
+      "map": "eastpointe-country-club-west-course-15"
     },
     {
       "number": 16,
-      "par": 3,
-      "handicap": 2,
-      "yards": {}
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 402,
+        "Grey": 370,
+        "Blue": 370,
+        "Turquoise": 328,
+        "White": 328
+      },
+      "map": "eastpointe-country-club-west-course-16"
     },
     {
       "number": 17,
-      "par": 3,
-      "handicap": 8,
-      "yards": {}
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 451,
+        "Grey": 435,
+        "Blue": 435,
+        "Turquoise": 400,
+        "White": 400
+      },
+      "map": "eastpointe-country-club-west-course-17"
     },
     {
       "number": 18,
-      "par": 3,
+      "par": 4,
       "handicap": 10,
-      "yards": {}
+      "yards": {
+        "Black": 384,
+        "Grey": 384,
+        "Blue": 349,
+        "Turquoise": 317,
+        "White": 317
+      },
+      "map": "eastpointe-country-club-west-course-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

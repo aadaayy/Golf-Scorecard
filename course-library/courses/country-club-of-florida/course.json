@@ -7,10 +7,17 @@
     "lng": -80.103336
   },
   "tees": [
+    "Cooper Hawk",
+    "Kestrel",
     "Osprey",
+    "Spoon Bill",
     "Blue Heron",
-    "Hummingbird",
-    "Wood Duck"
+    "Tanager",
+    "Purple Martin",
+    "Humming Bird",
+    "Wood Duck",
+    "Wood Stork",
+    "Painted Bunting"
   ],
   "holes": [
     {
@@ -18,199 +25,343 @@
       "par": 4,
       "handicap": 7,
       "yards": {
+        "Cooper Hawk": 407,
+        "Kestrel": 407,
         "Osprey": 387,
+        "Spoon Bill": 351,
         "Blue Heron": 351,
-        "Hummingbird": 318,
-        "Wood Duck": 294
-      }
+        "Tanager": 318,
+        "Purple Martin": 318,
+        "Humming Bird": 318,
+        "Wood Duck": 294,
+        "Wood Stork": 294,
+        "Painted Bunting": 207
+      },
+      "map": "country-club-of-florida-01"
     },
     {
       "number": 2,
       "par": 5,
       "handicap": 15,
       "yards": {
+        "Cooper Hawk": 503,
+        "Kestrel": 503,
         "Osprey": 496,
+        "Spoon Bill": 496,
         "Blue Heron": 466,
-        "Hummingbird": 379,
-        "Wood Duck": 356
-      }
+        "Tanager": 466,
+        "Purple Martin": 426,
+        "Humming Bird": 379,
+        "Wood Duck": 356,
+        "Wood Stork": 356,
+        "Painted Bunting": 315
+      },
+      "map": "country-club-of-florida-02"
     },
     {
       "number": 3,
       "par": 4,
       "handicap": 1,
       "yards": {
+        "Cooper Hawk": 483,
+        "Kestrel": 483,
         "Osprey": 425,
+        "Spoon Bill": 404,
         "Blue Heron": 404,
-        "Hummingbird": 368,
-        "Wood Duck": 330
-      }
+        "Tanager": 368,
+        "Purple Martin": 368,
+        "Humming Bird": 368,
+        "Wood Duck": 330,
+        "Wood Stork": 256,
+        "Painted Bunting": 253
+      },
+      "map": "country-club-of-florida-03"
     },
     {
       "number": 4,
       "par": 3,
       "handicap": 11,
       "yards": {
+        "Cooper Hawk": 194,
+        "Kestrel": 194,
         "Osprey": 160,
+        "Spoon Bill": 160,
         "Blue Heron": 137,
-        "Hummingbird": 102,
-        "Wood Duck": 101
-      }
+        "Tanager": 137,
+        "Purple Martin": 120,
+        "Humming Bird": 102,
+        "Wood Duck": 101,
+        "Wood Stork": 101,
+        "Painted Bunting": 101
+      },
+      "map": "country-club-of-florida-04"
     },
     {
       "number": 5,
       "par": 4,
       "handicap": 5,
       "yards": {
+        "Cooper Hawk": 370,
+        "Kestrel": 370,
         "Osprey": 366,
+        "Spoon Bill": 366,
         "Blue Heron": 346,
-        "Hummingbird": 307,
-        "Wood Duck": 253
-      }
+        "Tanager": 346,
+        "Purple Martin": 329,
+        "Humming Bird": 307,
+        "Wood Duck": 253,
+        "Wood Stork": 253,
+        "Painted Bunting": 253
+      },
+      "map": "country-club-of-florida-05"
     },
     {
       "number": 6,
       "par": 5,
       "handicap": 9,
       "yards": {
+        "Cooper Hawk": 538,
+        "Kestrel": 538,
         "Osprey": 520,
+        "Spoon Bill": 520,
         "Blue Heron": 463,
-        "Hummingbird": 409,
-        "Wood Duck": 409
-      }
+        "Tanager": 463,
+        "Purple Martin": 443,
+        "Humming Bird": 409,
+        "Wood Duck": 409,
+        "Wood Stork": 409,
+        "Painted Bunting": 302
+      },
+      "map": "country-club-of-florida-06"
     },
     {
       "number": 7,
       "par": 4,
       "handicap": 17,
       "yards": {
+        "Cooper Hawk": 385,
+        "Kestrel": 365,
         "Osprey": 365,
+        "Spoon Bill": 365,
         "Blue Heron": 315,
-        "Hummingbird": 285,
-        "Wood Duck": 275
-      }
+        "Tanager": 315,
+        "Purple Martin": 285,
+        "Humming Bird": 285,
+        "Wood Duck": 275,
+        "Wood Stork": 248,
+        "Painted Bunting": 198
+      },
+      "map": "country-club-of-florida-07"
     },
     {
       "number": 8,
       "par": 3,
       "handicap": 13,
       "yards": {
+        "Cooper Hawk": 215,
+        "Kestrel": 158,
         "Osprey": 158,
+        "Spoon Bill": 158,
         "Blue Heron": 157,
-        "Hummingbird": 123,
-        "Wood Duck": 122
-      }
+        "Tanager": 157,
+        "Purple Martin": 143,
+        "Humming Bird": 123,
+        "Wood Duck": 122,
+        "Wood Stork": 105,
+        "Painted Bunting": 115
+      },
+      "map": "country-club-of-florida-08"
     },
     {
       "number": 9,
       "par": 4,
       "handicap": 3,
       "yards": {
+        "Cooper Hawk": 457,
+        "Kestrel": 422,
         "Osprey": 422,
+        "Spoon Bill": 392,
         "Blue Heron": 392,
-        "Hummingbird": 333,
-        "Wood Duck": 333
-      }
+        "Tanager": 376,
+        "Purple Martin": 376,
+        "Humming Bird": 333,
+        "Wood Duck": 333,
+        "Wood Stork": 297,
+        "Painted Bunting": 297
+      },
+      "map": "country-club-of-florida-09"
     },
     {
       "number": 10,
       "par": 4,
       "handicap": 4,
       "yards": {
+        "Cooper Hawk": 457,
+        "Kestrel": 426,
         "Osprey": 426,
+        "Spoon Bill": 392,
         "Blue Heron": 392,
-        "Hummingbird": 334,
-        "Wood Duck": 302
-      }
+        "Tanager": 357,
+        "Purple Martin": 357,
+        "Humming Bird": 334,
+        "Wood Duck": 302,
+        "Wood Stork": 302,
+        "Painted Bunting": 249
+      },
+      "map": "country-club-of-florida-10"
     },
     {
       "number": 11,
       "par": 5,
       "handicap": 8,
       "yards": {
+        "Cooper Hawk": 570,
+        "Kestrel": 570,
         "Osprey": 529,
+        "Spoon Bill": 529,
         "Blue Heron": 513,
-        "Hummingbird": 404,
-        "Wood Duck": 404
-      }
+        "Tanager": 472,
+        "Purple Martin": 472,
+        "Humming Bird": 404,
+        "Wood Duck": 404,
+        "Wood Stork": 346,
+        "Painted Bunting": 346
+      },
+      "map": "country-club-of-florida-11"
     },
     {
       "number": 12,
       "par": 4,
       "handicap": 12,
       "yards": {
+        "Cooper Hawk": 395,
+        "Kestrel": 395,
         "Osprey": 386,
+        "Spoon Bill": 357,
         "Blue Heron": 357,
-        "Hummingbird": 305,
-        "Wood Duck": 271
-      }
+        "Tanager": 357,
+        "Purple Martin": 305,
+        "Humming Bird": 305,
+        "Wood Duck": 271,
+        "Wood Stork": 271,
+        "Painted Bunting": 218
+      },
+      "map": "country-club-of-florida-12"
     },
     {
       "number": 13,
       "par": 3,
       "handicap": 18,
       "yards": {
+        "Cooper Hawk": 142,
+        "Kestrel": 142,
         "Osprey": 126,
+        "Spoon Bill": 126,
         "Blue Heron": 120,
-        "Hummingbird": 110,
-        "Wood Duck": 91
-      }
+        "Tanager": 120,
+        "Purple Martin": 110,
+        "Humming Bird": 110,
+        "Wood Duck": 91,
+        "Wood Stork": 75,
+        "Painted Bunting": 75
+      },
+      "map": "country-club-of-florida-13"
     },
     {
       "number": 14,
       "par": 4,
       "handicap": 14,
       "yards": {
+        "Cooper Hawk": 391,
+        "Kestrel": 366,
         "Osprey": 366,
+        "Spoon Bill": 366,
         "Blue Heron": 340,
-        "Hummingbird": 321,
-        "Wood Duck": 271
-      }
+        "Tanager": 340,
+        "Purple Martin": 324,
+        "Humming Bird": 321,
+        "Wood Duck": 271,
+        "Wood Stork": 271,
+        "Painted Bunting": 269
+      },
+      "map": "country-club-of-florida-14"
     },
     {
       "number": 15,
       "par": 5,
       "handicap": 2,
       "yards": {
+        "Cooper Hawk": 565,
+        "Kestrel": 519,
         "Osprey": 519,
+        "Spoon Bill": 519,
         "Blue Heron": 467,
-        "Hummingbird": 395,
-        "Wood Duck": 395
-      }
+        "Tanager": 467,
+        "Purple Martin": 450,
+        "Humming Bird": 395,
+        "Wood Duck": 395,
+        "Wood Stork": 395,
+        "Painted Bunting": 334
+      },
+      "map": "country-club-of-florida-15"
     },
     {
       "number": 16,
       "par": 4,
       "handicap": 16,
       "yards": {
+        "Cooper Hawk": 373,
+        "Kestrel": 373,
         "Osprey": 361,
+        "Spoon Bill": 361,
         "Blue Heron": 334,
-        "Hummingbird": 291,
-        "Wood Duck": 282
-      }
+        "Tanager": 334,
+        "Purple Martin": 291,
+        "Humming Bird": 291,
+        "Wood Duck": 282,
+        "Wood Stork": 240,
+        "Painted Bunting": 188
+      },
+      "map": "country-club-of-florida-16"
     },
     {
       "number": 17,
       "par": 3,
       "handicap": 10,
       "yards": {
+        "Cooper Hawk": 219,
+        "Kestrel": 180,
         "Osprey": 180,
+        "Spoon Bill": 180,
         "Blue Heron": 167,
-        "Hummingbird": 102,
-        "Wood Duck": 102
-      }
+        "Tanager": 167,
+        "Purple Martin": 143,
+        "Humming Bird": 102,
+        "Wood Duck": 102,
+        "Wood Stork": 102,
+        "Painted Bunting": 102
+      },
+      "map": "country-club-of-florida-17"
     },
     {
       "number": 18,
       "par": 4,
       "handicap": 6,
       "yards": {
+        "Cooper Hawk": 453,
+        "Kestrel": 398,
         "Osprey": 398,
+        "Spoon Bill": 362,
         "Blue Heron": 362,
-        "Hummingbird": 309,
-        "Wood Duck": 266
-      }
+        "Tanager": 309,
+        "Purple Martin": 309,
+        "Humming Bird": 309,
+        "Wood Duck": 266,
+        "Wood Stork": 266,
+        "Painted Bunting": 233
+      },
+      "map": "country-club-of-florida-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

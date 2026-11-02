@@ -15,64 +15,73 @@
       "par": 5,
       "yards": {
         "Blue": 487
-      }
+      },
+      "map": "greynolds-golf-course-01"
     },
     {
       "number": 2,
       "par": 4,
       "yards": {
         "Blue": 346
-      }
+      },
+      "map": "greynolds-golf-course-02"
     },
     {
       "number": 3,
       "par": 3,
       "yards": {
         "Blue": 147
-      }
+      },
+      "map": "greynolds-golf-course-03"
     },
     {
       "number": 4,
       "par": 4,
       "yards": {
         "Blue": 349
-      }
+      },
+      "map": "greynolds-golf-course-04"
     },
     {
       "number": 5,
       "par": 3,
       "yards": {
         "Blue": 182
-      }
+      },
+      "map": "greynolds-golf-course-05"
     },
     {
       "number": 6,
       "par": 4,
       "yards": {
         "Blue": 341
-      }
+      },
+      "map": "greynolds-golf-course-06"
     },
     {
       "number": 7,
       "par": 5,
       "yards": {
         "Blue": 521
-      }
+      },
+      "map": "greynolds-golf-course-07"
     },
     {
       "number": 8,
       "par": 4,
       "yards": {
         "Blue": 308
-      }
+      },
+      "map": "greynolds-golf-course-08"
     },
     {
       "number": 9,
       "par": 4,
       "yards": {
         "Blue": 409
-      }
+      },
+      "map": "greynolds-golf-course-09"
     }
   ],
-  "version": 2
+  "version": 3
 }

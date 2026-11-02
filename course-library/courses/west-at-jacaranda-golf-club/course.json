@@ -6,116 +6,248 @@
     "lat": 26.112658,
     "lng": -80.271928
   },
-  "tees": [],
+  "tees": [
+    "Tee 1",
+    "Tee 2",
+    "Tee 3",
+    "Tee 4",
+    "Tee 5"
+  ],
   "holes": [
     {
       "number": 1,
-      "par": 5,
+      "par": 4,
       "handicap": 15,
-      "yards": {}
+      "yards": {
+        "Tee 1": 403,
+        "Tee 2": 382,
+        "Tee 3": 351,
+        "Tee 4": 326,
+        "Tee 5": 272
+      },
+      "map": "west-at-jacaranda-golf-club-01"
     },
     {
       "number": 2,
-      "par": 5,
+      "par": 4,
       "handicap": 1,
-      "yards": {}
+      "yards": {
+        "Tee 1": 411,
+        "Tee 2": 390,
+        "Tee 3": 358,
+        "Tee 4": 321,
+        "Tee 5": 244
+      },
+      "map": "west-at-jacaranda-golf-club-02"
     },
     {
       "number": 3,
-      "par": 5,
+      "par": 3,
       "handicap": 17,
-      "yards": {}
+      "yards": {
+        "Tee 1": 166,
+        "Tee 2": 159,
+        "Tee 3": 151,
+        "Tee 4": 132,
+        "Tee 5": 101
+      },
+      "map": "west-at-jacaranda-golf-club-03"
     },
     {
       "number": 4,
       "par": 4,
       "handicap": 7,
-      "yards": {}
+      "yards": {
+        "Tee 1": 408,
+        "Tee 2": 377,
+        "Tee 3": 341,
+        "Tee 4": 312,
+        "Tee 5": 291
+      },
+      "map": "west-at-jacaranda-golf-club-04"
     },
     {
       "number": 5,
-      "par": 4,
+      "par": 5,
       "handicap": 13,
-      "yards": {}
+      "yards": {
+        "Tee 1": 501,
+        "Tee 2": 477,
+        "Tee 3": 449,
+        "Tee 4": 428,
+        "Tee 5": 394
+      },
+      "map": "west-at-jacaranda-golf-club-05"
     },
     {
       "number": 6,
       "par": 4,
       "handicap": 3,
-      "yards": {}
+      "yards": {
+        "Tee 1": 397,
+        "Tee 2": 374,
+        "Tee 3": 354,
+        "Tee 4": 331,
+        "Tee 5": 274
+      },
+      "map": "west-at-jacaranda-golf-club-06"
     },
     {
       "number": 7,
       "par": 4,
       "handicap": 5,
-      "yards": {}
+      "yards": {
+        "Tee 1": 403,
+        "Tee 2": 372,
+        "Tee 3": 351,
+        "Tee 4": 330,
+        "Tee 5": 302
+      },
+      "map": "west-at-jacaranda-golf-club-07"
     },
     {
       "number": 8,
-      "par": 4,
+      "par": 3,
       "handicap": 11,
-      "yards": {}
+      "yards": {
+        "Tee 1": 204,
+        "Tee 2": 182,
+        "Tee 3": 168,
+        "Tee 4": 151,
+        "Tee 5": 126
+      },
+      "map": "west-at-jacaranda-golf-club-08"
     },
     {
       "number": 9,
-      "par": 4,
+      "par": 5,
       "handicap": 9,
-      "yards": {}
+      "yards": {
+        "Tee 1": 555,
+        "Tee 2": 525,
+        "Tee 3": 493,
+        "Tee 4": 482,
+        "Tee 5": 443
+      },
+      "map": "west-at-jacaranda-golf-club-09"
     },
     {
       "number": 10,
-      "par": 4,
+      "par": 5,
       "handicap": 10,
-      "yards": {}
+      "yards": {
+        "Tee 1": 533,
+        "Tee 2": 508,
+        "Tee 3": 487,
+        "Tee 4": 465,
+        "Tee 5": 434
+      },
+      "map": "west-at-jacaranda-golf-club-10"
     },
     {
       "number": 11,
-      "par": 4,
+      "par": 3,
       "handicap": 14,
-      "yards": {}
+      "yards": {
+        "Tee 1": 205,
+        "Tee 2": 188,
+        "Tee 3": 165,
+        "Tee 4": 143,
+        "Tee 5": 130
+      },
+      "map": "west-at-jacaranda-golf-club-11"
     },
     {
       "number": 12,
       "par": 4,
       "handicap": 16,
-      "yards": {}
+      "yards": {
+        "Tee 1": 391,
+        "Tee 2": 374,
+        "Tee 3": 352,
+        "Tee 4": 319,
+        "Tee 5": 308
+      },
+      "map": "west-at-jacaranda-golf-club-12"
     },
     {
       "number": 13,
       "par": 4,
       "handicap": 4,
-      "yards": {}
+      "yards": {
+        "Tee 1": 421,
+        "Tee 2": 398,
+        "Tee 3": 378,
+        "Tee 4": 361,
+        "Tee 5": 308
+      },
+      "map": "west-at-jacaranda-golf-club-13"
     },
     {
       "number": 14,
-      "par": 4,
+      "par": 5,
       "handicap": 8,
-      "yards": {}
+      "yards": {
+        "Tee 1": 519,
+        "Tee 2": 503,
+        "Tee 3": 481,
+        "Tee 4": 455,
+        "Tee 5": 444
+      },
+      "map": "west-at-jacaranda-golf-club-14"
     },
     {
       "number": 15,
       "par": 4,
       "handicap": 12,
-      "yards": {}
+      "yards": {
+        "Tee 1": 391,
+        "Tee 2": 377,
+        "Tee 3": 360,
+        "Tee 4": 324,
+        "Tee 5": 312
+      },
+      "map": "west-at-jacaranda-golf-club-15"
     },
     {
       "number": 16,
-      "par": 3,
+      "par": 4,
       "handicap": 2,
-      "yards": {}
+      "yards": {
+        "Tee 1": 399,
+        "Tee 2": 388,
+        "Tee 3": 375,
+        "Tee 4": 349,
+        "Tee 5": 337
+      },
+      "map": "west-at-jacaranda-golf-club-16"
     },
     {
       "number": 17,
       "par": 3,
       "handicap": 18,
-      "yards": {}
+      "yards": {
+        "Tee 1": 166,
+        "Tee 2": 145,
+        "Tee 3": 124,
+        "Tee 4": 102,
+        "Tee 5": 86
+      },
+      "map": "west-at-jacaranda-golf-club-17"
     },
     {
       "number": 18,
-      "par": 3,
+      "par": 4,
       "handicap": 6,
-      "yards": {}
+      "yards": {
+        "Tee 1": 357,
+        "Tee 2": 338,
+        "Tee 3": 325,
+        "Tee 4": 310,
+        "Tee 5": 298
+      },
+      "map": "west-at-jacaranda-golf-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }

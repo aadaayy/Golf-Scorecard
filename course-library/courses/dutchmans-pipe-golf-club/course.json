@@ -6,116 +6,268 @@
     "lat": 26.735403,
     "lng": -80.084169
   },
-  "tees": [],
+  "tees": [
+    "Black",
+    "Black/Yellow",
+    "Yellow",
+    "Yellow/Blue",
+    "Blue",
+    "Blue/Red",
+    "Red"
+  ],
   "holes": [
     {
       "number": 1,
-      "par": 5,
+      "par": 4,
       "handicap": 17,
-      "yards": {}
+      "yards": {
+        "Black": 385,
+        "Black/Yellow": 385,
+        "Yellow": 342,
+        "Yellow/Blue": 325,
+        "Blue": 325,
+        "Blue/Red": 325,
+        "Red": 277
+      }
     },
     {
       "number": 2,
-      "par": 5,
+      "par": 3,
       "handicap": 15,
-      "yards": {}
+      "yards": {
+        "Black": 223,
+        "Black/Yellow": 200,
+        "Yellow": 200,
+        "Yellow/Blue": 158,
+        "Blue": 158,
+        "Blue/Red": 122,
+        "Red": 122
+      }
     },
     {
       "number": 3,
-      "par": 5,
+      "par": 4,
       "handicap": 13,
-      "yards": {}
+      "yards": {
+        "Black": 464,
+        "Black/Yellow": 430,
+        "Yellow": 430,
+        "Yellow/Blue": 370,
+        "Blue": 370,
+        "Blue/Red": 331,
+        "Red": 331
+      }
     },
     {
       "number": 4,
       "par": 4,
       "handicap": 3,
-      "yards": {}
+      "yards": {
+        "Black": 479,
+        "Black/Yellow": 414,
+        "Yellow": 414,
+        "Yellow/Blue": 414,
+        "Blue": 342,
+        "Blue/Red": 342,
+        "Red": 271
+      }
     },
     {
       "number": 5,
-      "par": 4,
+      "par": 3,
       "handicap": 7,
-      "yards": {}
+      "yards": {
+        "Black": 233,
+        "Black/Yellow": 188,
+        "Yellow": 188,
+        "Yellow/Blue": 167,
+        "Blue": 167,
+        "Blue/Red": 113,
+        "Red": 113
+      }
     },
     {
       "number": 6,
       "par": 4,
       "handicap": 11,
-      "yards": {}
+      "yards": {
+        "Black": 381,
+        "Black/Yellow": 381,
+        "Yellow": 360,
+        "Yellow/Blue": 360,
+        "Blue": 333,
+        "Blue/Red": 333,
+        "Red": 263
+      }
     },
     {
       "number": 7,
-      "par": 4,
+      "par": 5,
       "handicap": 9,
-      "yards": {}
+      "yards": {
+        "Black": 579,
+        "Black/Yellow": 579,
+        "Yellow": 547,
+        "Yellow/Blue": 505,
+        "Blue": 505,
+        "Blue/Red": 436,
+        "Red": 436
+      }
     },
     {
       "number": 8,
-      "par": 4,
+      "par": 5,
       "handicap": 1,
-      "yards": {}
+      "yards": {
+        "Black": 613,
+        "Black/Yellow": 568,
+        "Yellow": 568,
+        "Yellow/Blue": 522,
+        "Blue": 522,
+        "Blue/Red": 462,
+        "Red": 462
+      }
     },
     {
       "number": 9,
       "par": 4,
       "handicap": 5,
-      "yards": {}
+      "yards": {
+        "Black": 415,
+        "Black/Yellow": 415,
+        "Yellow": 393,
+        "Yellow/Blue": 393,
+        "Blue": 358,
+        "Blue/Red": 265,
+        "Red": 265
+      }
     },
     {
       "number": 10,
-      "par": 4,
+      "par": 5,
       "handicap": 18,
-      "yards": {}
+      "yards": {
+        "Black": 508,
+        "Black/Yellow": 508,
+        "Yellow": 500,
+        "Yellow/Blue": 500,
+        "Blue": 475,
+        "Blue/Red": 388,
+        "Red": 388
+      }
     },
     {
       "number": 11,
-      "par": 4,
+      "par": 3,
       "handicap": 16,
-      "yards": {}
+      "yards": {
+        "Black": 160,
+        "Black/Yellow": 160,
+        "Yellow": 145,
+        "Yellow/Blue": 145,
+        "Blue": 127,
+        "Blue/Red": 127,
+        "Red": 93
+      }
     },
     {
       "number": 12,
       "par": 4,
       "handicap": 10,
-      "yards": {}
+      "yards": {
+        "Black": 379,
+        "Black/Yellow": 379,
+        "Yellow": 330,
+        "Yellow/Blue": 330,
+        "Blue": 317,
+        "Blue/Red": 317,
+        "Red": 244
+      }
     },
     {
       "number": 13,
       "par": 4,
       "handicap": 4,
-      "yards": {}
+      "yards": {
+        "Black": 384,
+        "Black/Yellow": 384,
+        "Yellow": 351,
+        "Yellow/Blue": 351,
+        "Blue": 340,
+        "Blue/Red": 340,
+        "Red": 240
+      }
     },
     {
       "number": 14,
-      "par": 4,
+      "par": 3,
       "handicap": 8,
-      "yards": {}
+      "yards": {
+        "Black": 201,
+        "Black/Yellow": 201,
+        "Yellow": 185,
+        "Yellow/Blue": 185,
+        "Blue": 165,
+        "Blue/Red": 126,
+        "Red": 126
+      }
     },
     {
       "number": 15,
       "par": 4,
       "handicap": 2,
-      "yards": {}
+      "yards": {
+        "Black": 457,
+        "Black/Yellow": 416,
+        "Yellow": 416,
+        "Yellow/Blue": 392,
+        "Blue": 392,
+        "Blue/Red": 347,
+        "Red": 347
+      }
     },
     {
       "number": 16,
-      "par": 3,
+      "par": 4,
       "handicap": 14,
-      "yards": {}
+      "yards": {
+        "Black": 320,
+        "Black/Yellow": 320,
+        "Yellow": 310,
+        "Yellow/Blue": 289,
+        "Blue": 289,
+        "Blue/Red": 289,
+        "Red": 229
+      }
     },
     {
       "number": 17,
-      "par": 3,
+      "par": 4,
       "handicap": 6,
-      "yards": {}
+      "yards": {
+        "Black": 466,
+        "Black/Yellow": 466,
+        "Yellow": 443,
+        "Yellow/Blue": 403,
+        "Blue": 403,
+        "Blue/Red": 359,
+        "Red": 359
+      }
     },
     {
       "number": 18,
-      "par": 3,
+      "par": 5,
       "handicap": 12,
-      "yards": {}
+      "yards": {
+        "Black": 640,
+        "Black/Yellow": 530,
+        "Yellow": 530,
+        "Yellow/Blue": 530,
+        "Blue": 498,
+        "Blue/Red": 447,
+        "Red": 447
+      }
     }
   ],
-  "version": 1
+  "version": 2
 }

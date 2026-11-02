@@ -18,7 +18,8 @@
       "yards": {
         "Ladies": 75,
         "Mens": 75
-      }
+      },
+      "map": "the-park-west-palm-the-lit-9-01"
     },
     {
       "number": 2,
@@ -27,7 +28,8 @@
       "yards": {
         "Ladies": 81,
         "Mens": 81
-      }
+      },
+      "map": "the-park-west-palm-the-lit-9-02"
     },
     {
       "number": 3,
@@ -36,7 +38,8 @@
       "yards": {
         "Ladies": 70,
         "Mens": 70
-      }
+      },
+      "map": "the-park-west-palm-the-lit-9-03"
     },
     {
       "number": 4,
@@ -45,7 +48,8 @@
       "yards": {
         "Ladies": 77,
         "Mens": 77
-      }
+      },
+      "map": "the-park-west-palm-the-lit-9-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
       "yards": {
         "Ladies": 87,
         "Mens": 87
-      }
+      },
+      "map": "the-park-west-palm-the-lit-9-07"
     },
     {
       "number": 8,
@@ -81,7 +86,8 @@
       "yards": {
         "Ladies": 90,
         "Mens": 90
-      }
+      },
+      "map": "the-park-west-palm-the-lit-9-08"
     },
     {
       "number": 9,
@@ -90,8 +96,9 @@
       "yards": {
         "Ladies": 75,
         "Mens": 75
-      }
+      },
+      "map": "the-park-west-palm-the-lit-9-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

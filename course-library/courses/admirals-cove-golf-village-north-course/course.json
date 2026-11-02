@@ -7,121 +7,131 @@
     "lng": -80.097472
   },
   "tees": [
-    "Championship",
-    "Back",
-    "Member",
+    "Black",
+    "Blue",
+    "White",
     "Middle",
-    "Forward"
+    "Forward (L)",
+    "Front (L)"
   ],
   "holes": [
     {
       "number": 1,
       "par": 4,
-      "handicap": 5,
       "yards": {
-        "Championship": 372,
-        "Back": 372,
-        "Member": 340,
-        "Middle": 329,
-        "Forward": 315
-      }
+        "Black": 343,
+        "Blue": 338,
+        "White": 313,
+        "Middle": 313,
+        "Forward (L)": 304,
+        "Front (L)": 273
+      },
+      "map": "admirals-cove-golf-village-north-course-01"
     },
     {
       "number": 2,
-      "par": 3,
-      "handicap": 3,
+      "par": 4,
       "yards": {
-        "Championship": 163,
-        "Back": 163,
-        "Member": 139,
-        "Middle": 126,
-        "Forward": 109
-      }
+        "Black": 384,
+        "Blue": 374,
+        "White": 351,
+        "Middle": 326,
+        "Forward (L)": 301,
+        "Front (L)": 218
+      },
+      "map": "admirals-cove-golf-village-north-course-02"
     },
     {
       "number": 3,
       "par": 5,
-      "handicap": 8,
       "yards": {
-        "Championship": 527,
-        "Back": 527,
-        "Member": 507,
-        "Middle": 474,
-        "Forward": 459
-      }
+        "Black": 564,
+        "Blue": 538,
+        "White": 507,
+        "Middle": 473,
+        "Forward (L)": 454,
+        "Front (L)": 454
+      },
+      "map": "admirals-cove-golf-village-north-course-03"
     },
     {
       "number": 4,
-      "par": 3,
-      "handicap": 9,
+      "par": 5,
       "yards": {
-        "Championship": 228,
-        "Back": 183,
-        "Member": 183,
-        "Middle": 150,
-        "Forward": 133
-      }
+        "Black": 505,
+        "Blue": 501,
+        "White": 475,
+        "Middle": 454,
+        "Forward (L)": 422,
+        "Front (L)": 384
+      },
+      "map": "admirals-cove-golf-village-north-course-04"
     },
     {
       "number": 5,
-      "par": 4,
-      "handicap": 2,
+      "par": 3,
       "yards": {
-        "Championship": 445,
-        "Back": 374,
-        "Member": 343,
-        "Middle": 343,
-        "Forward": 305
-      }
+        "Black": 207,
+        "Blue": 183,
+        "White": 144,
+        "Middle": 142,
+        "Forward (L)": 125,
+        "Front (L)": 90
+      },
+      "map": "admirals-cove-golf-village-north-course-05"
     },
     {
       "number": 6,
-      "par": 3,
-      "handicap": 7,
+      "par": 4,
       "yards": {
-        "Championship": 192,
-        "Back": 175,
-        "Member": 175,
-        "Middle": 148,
-        "Forward": 138
-      }
+        "Black": 342,
+        "Blue": 323,
+        "White": 305,
+        "Middle": 292,
+        "Forward (L)": 254,
+        "Front (L)": 230
+      },
+      "map": "admirals-cove-golf-village-north-course-06"
     },
     {
       "number": 7,
-      "par": 5,
-      "handicap": 4,
+      "par": 4,
       "yards": {
-        "Championship": 619,
-        "Back": 569,
-        "Member": 501,
-        "Middle": 501,
-        "Forward": 483
-      }
+        "Black": 439,
+        "Blue": 415,
+        "White": 377,
+        "Middle": 359,
+        "Forward (L)": 330,
+        "Front (L)": 301
+      },
+      "map": "admirals-cove-golf-village-north-course-07"
     },
     {
       "number": 8,
-      "par": 4,
-      "handicap": 6,
+      "par": 3,
       "yards": {
-        "Championship": 372,
-        "Back": 372,
-        "Member": 350,
-        "Middle": 330,
-        "Forward": 325
-      }
+        "Black": 165,
+        "Blue": 155,
+        "White": 132,
+        "Middle": 121,
+        "Forward (L)": 96,
+        "Front (L)": 96
+      },
+      "map": "admirals-cove-golf-village-north-course-08"
     },
     {
       "number": 9,
       "par": 4,
-      "handicap": 1,
       "yards": {
-        "Championship": 409,
-        "Back": 409,
-        "Member": 372,
-        "Middle": 372,
-        "Forward": 361
-      }
+        "Black": 360,
+        "Blue": 353,
+        "White": 333,
+        "Middle": 317,
+        "Forward (L)": 293,
+        "Front (L)": 264
+      },
+      "map": "admirals-cove-golf-village-north-course-09"
     }
   ],
-  "version": 1
+  "version": 2
 }

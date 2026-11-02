@@ -6,116 +6,362 @@
     "lat": 26.498239,
     "lng": -80.116266
   },
-  "tees": [],
+  "tees": [
+    "Dye",
+    "Gold",
+    "Black",
+    "Black/Blue",
+    "Blue",
+    "Blue/White",
+    "White",
+    "Green",
+    "Green/Orange",
+    "Orange",
+    "Silver"
+  ],
   "holes": [
     {
       "number": 1,
-      "par": 5,
-      "handicap": 3,
-      "yards": {}
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Dye": 392,
+        "Gold": 392,
+        "Black": 392,
+        "Black/Blue": 377,
+        "Blue": 377,
+        "Blue/White": 367,
+        "White": 367,
+        "Green": 325,
+        "Green/Orange": 325,
+        "Orange": 269,
+        "Silver": 230
+      },
+      "map": "delray-dunes-golf-country-club-01"
     },
     {
       "number": 2,
-      "par": 5,
-      "handicap": 11,
-      "yards": {}
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Dye": 446,
+        "Gold": 420,
+        "Black": 402,
+        "Black/Blue": 350,
+        "Blue": 350,
+        "Blue/White": 350,
+        "White": 335,
+        "Green": 322,
+        "Green/Orange": 322,
+        "Orange": 302,
+        "Silver": 216
+      },
+      "map": "delray-dunes-golf-country-club-02"
     },
     {
       "number": 3,
-      "par": 5,
-      "handicap": 13,
-      "yards": {}
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Dye": 156,
+        "Gold": 156,
+        "Black": 156,
+        "Black/Blue": 156,
+        "Blue": 139,
+        "Blue/White": 139,
+        "White": 128,
+        "Green": 108,
+        "Green/Orange": 85,
+        "Orange": 85,
+        "Silver": 85
+      },
+      "map": "delray-dunes-golf-country-club-03"
     },
     {
       "number": 4,
       "par": 5,
-      "handicap": 7,
-      "yards": {}
+      "handicap": 10,
+      "yards": {
+        "Dye": 550,
+        "Gold": 550,
+        "Black": 530,
+        "Black/Blue": 530,
+        "Blue": 495,
+        "Blue/White": 495,
+        "White": 480,
+        "Green": 420,
+        "Green/Orange": 420,
+        "Orange": 420,
+        "Silver": 210
+      },
+      "map": "delray-dunes-golf-country-club-04"
     },
     {
       "number": 5,
       "par": 4,
-      "handicap": 15,
-      "yards": {}
+      "handicap": 16,
+      "yards": {
+        "Dye": 356,
+        "Gold": 356,
+        "Black": 356,
+        "Black/Blue": 332,
+        "Blue": 332,
+        "Blue/White": 332,
+        "White": 315,
+        "Green": 315,
+        "Green/Orange": 315,
+        "Orange": 253,
+        "Silver": 196
+      },
+      "map": "delray-dunes-golf-country-club-05"
     },
     {
       "number": 6,
       "par": 4,
-      "handicap": 1,
-      "yards": {}
+      "handicap": 4,
+      "yards": {
+        "Dye": 454,
+        "Gold": 454,
+        "Black": 415,
+        "Black/Blue": 400,
+        "Blue": 400,
+        "Blue/White": 360,
+        "White": 360,
+        "Green": 336,
+        "Green/Orange": 270,
+        "Orange": 270,
+        "Silver": 215
+      },
+      "map": "delray-dunes-golf-country-club-06"
     },
     {
       "number": 7,
-      "par": 4,
-      "handicap": 9,
-      "yards": {}
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Dye": 213,
+        "Gold": 185,
+        "Black": 172,
+        "Black/Blue": 172,
+        "Blue": 152,
+        "Blue/White": 152,
+        "White": 141,
+        "Green": 141,
+        "Green/Orange": 102,
+        "Orange": 102,
+        "Silver": 95
+      },
+      "map": "delray-dunes-golf-country-club-07"
     },
     {
       "number": 8,
       "par": 4,
-      "handicap": 17,
-      "yards": {}
+      "handicap": 12,
+      "yards": {
+        "Dye": 285,
+        "Gold": 285,
+        "Black": 285,
+        "Black/Blue": 271,
+        "Blue": 271,
+        "Blue/White": 271,
+        "White": 252,
+        "Green": 252,
+        "Green/Orange": 252,
+        "Orange": 228,
+        "Silver": 155
+      },
+      "map": "delray-dunes-golf-country-club-08"
     },
     {
       "number": 9,
       "par": 4,
-      "handicap": 5,
-      "yards": {}
+      "handicap": 6,
+      "yards": {
+        "Dye": 449,
+        "Gold": 437,
+        "Black": 402,
+        "Black/Blue": 385,
+        "Blue": 385,
+        "Blue/White": 322,
+        "White": 322,
+        "Green": 290,
+        "Green/Orange": 290,
+        "Orange": 290,
+        "Silver": 222
+      },
+      "map": "delray-dunes-golf-country-club-09"
     },
     {
       "number": 10,
       "par": 4,
-      "handicap": 6,
-      "yards": {}
+      "handicap": 7,
+      "yards": {
+        "Dye": 387,
+        "Gold": 387,
+        "Black": 375,
+        "Black/Blue": 346,
+        "Blue": 346,
+        "Blue/White": 334,
+        "White": 334,
+        "Green": 302,
+        "Green/Orange": 302,
+        "Orange": 302,
+        "Silver": 246
+      },
+      "map": "delray-dunes-golf-country-club-10"
     },
     {
       "number": 11,
       "par": 4,
-      "handicap": 12,
-      "yards": {}
+      "handicap": 11,
+      "yards": {
+        "Dye": 398,
+        "Gold": 398,
+        "Black": 380,
+        "Black/Blue": 357,
+        "Blue": 357,
+        "Blue/White": 357,
+        "White": 334,
+        "Green": 325,
+        "Green/Orange": 325,
+        "Orange": 288,
+        "Silver": 235
+      },
+      "map": "delray-dunes-golf-country-club-11"
     },
     {
       "number": 12,
-      "par": 4,
-      "handicap": 14,
-      "yards": {}
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Dye": 642,
+        "Gold": 590,
+        "Black": 535,
+        "Black/Blue": 535,
+        "Blue": 520,
+        "Blue/White": 455,
+        "White": 455,
+        "Green": 449,
+        "Green/Orange": 449,
+        "Orange": 350,
+        "Silver": 350
+      },
+      "map": "delray-dunes-golf-country-club-12"
     },
     {
       "number": 13,
       "par": 4,
-      "handicap": 2,
-      "yards": {}
+      "handicap": 1,
+      "yards": {
+        "Dye": 457,
+        "Gold": 457,
+        "Black": 426,
+        "Black/Blue": 400,
+        "Blue": 400,
+        "Blue/White": 388,
+        "White": 388,
+        "Green": 365,
+        "Green/Orange": 255,
+        "Orange": 255,
+        "Silver": 255
+      },
+      "map": "delray-dunes-golf-country-club-13"
     },
     {
       "number": 14,
       "par": 3,
-      "handicap": 10,
-      "yards": {}
+      "handicap": 17,
+      "yards": {
+        "Dye": 245,
+        "Gold": 230,
+        "Black": 202,
+        "Black/Blue": 202,
+        "Blue": 163,
+        "Blue/White": 163,
+        "White": 152,
+        "Green": 125,
+        "Green/Orange": 125,
+        "Orange": 125,
+        "Silver": 125
+      },
+      "map": "delray-dunes-golf-country-club-14"
     },
     {
       "number": 15,
-      "par": 3,
-      "handicap": 18,
-      "yards": {}
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Dye": 499,
+        "Gold": 499,
+        "Black": 499,
+        "Black/Blue": 499,
+        "Blue": 486,
+        "Blue/White": 486,
+        "White": 460,
+        "Green": 425,
+        "Green/Orange": 425,
+        "Orange": 374,
+        "Silver": 245
+      },
+      "map": "delray-dunes-golf-country-club-15"
     },
     {
       "number": 16,
-      "par": 3,
-      "handicap": 4,
-      "yards": {}
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Dye": 470,
+        "Gold": 470,
+        "Black": 433,
+        "Black/Blue": 403,
+        "Blue": 403,
+        "Blue/White": 393,
+        "White": 393,
+        "Green": 325,
+        "Green/Orange": 257,
+        "Orange": 257,
+        "Silver": 257
+      },
+      "map": "delray-dunes-golf-country-club-16"
     },
     {
       "number": 17,
       "par": 3,
-      "handicap": 16,
-      "yards": {}
+      "handicap": 13,
+      "yards": {
+        "Dye": 186,
+        "Gold": 186,
+        "Black": 172,
+        "Black/Blue": 172,
+        "Blue": 158,
+        "Blue/White": 158,
+        "White": 148,
+        "Green": 126,
+        "Green/Orange": 126,
+        "Orange": 126,
+        "Silver": 126
+      },
+      "map": "delray-dunes-golf-country-club-17"
     },
     {
       "number": 18,
-      "par": 3,
-      "handicap": 8,
-      "yards": {}
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Dye": 421,
+        "Gold": 421,
+        "Black": 388,
+        "Black/Blue": 347,
+        "Blue": 347,
+        "Blue/White": 347,
+        "White": 334,
+        "Green": 285,
+        "Green/Orange": 285,
+        "Orange": 285,
+        "Silver": 195
+      },
+      "map": "delray-dunes-golf-country-club-18"
     }
   ],
-  "version": 1
+  "version": 2
 }
