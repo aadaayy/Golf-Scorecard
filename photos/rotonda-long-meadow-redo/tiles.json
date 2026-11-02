@@ -1,0 +1,462 @@
+{
+ "lat": 26.9005,
+ "lng": -82.2571,
+ "tiles": [
+  {
+   "row": 0,
+   "col": 0,
+   "x0": -9158318.486131383,
+   "y1": 3112546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  },
+  {
+   "row": 0,
+   "col": 1,
+   "x0": -9157318.486131383,
+   "y1": 3112546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  },
+  {
+   "row": 0,
+   "col": 2,
+   "x0": -9156318.486131383,
+   "y1": 3112546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  },
+  {
+   "row": 1,
+   "col": 0,
+   "x0": -9158318.486131383,
+   "y1": 3111546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "x0": -9157318.486131383,
+   "y1": 3111546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "x0": -9156318.486131383,
+   "y1": 3111546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  },
+  {
+   "row": 2,
+   "col": 0,
+   "x0": -9158318.486131383,
+   "y1": 3110546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "x0": -9157318.486131383,
+   "y1": 3110546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  },
+  {
+   "row": 2,
+   "col": 2,
+   "x0": -9156318.486131383,
+   "y1": 3110546.0293219048,
+   "pixel": 0.5,
+   "size": 2000,
+   "format": "jpg"
+  }
+ ],
+ "identify": {
+  "objectId": 0,
+  "name": "Pixel",
+  "value": "58, 61, 64, 112",
+  "location": {
+   "x": -9156818.486131383,
+   "y": 3111046.0293219048,
+   "spatialReference": {
+    "wkid": 102100,
+    "latestWkid": 3857
+   }
+  },
+  "properties": {
+   "Values": [
+    "58 61 64 112",
+    "164 161 140 188",
+    "142 144 118 187",
+    "134 132 113 161",
+    "128 130 110 169",
+    "131 134 115 174",
+    "126 132 111 174",
+    "126 131 110 169",
+    "137 139 122 168",
+    "120 121 102 163",
+    "125 129 113 163",
+    "103 104 94 138",
+    "97 105 97 99"
+   ]
+  },
+  "catalogItems": {
+   "objectIdFieldName": "OBJECTID",
+   "features": [
+    {
+     "attributes": {
+      "OBJECTID": 35286,
+      "Name": "m_2608206_se_17_030_20230129",
+      "MinPS": 0,
+      "MaxPS": 19.1,
+      "Category": 1,
+      "CenterX": -9159508.322102187,
+      "CenterY": 3111765.5429518046,
+      "State": "FL",
+      "Year": 2022,
+      "raster_name": "m_2608206_se_17_030_20230129",
+      "download_url": "https://earthexplorer.usgs.gov/download/options/naip/3306423",
+      "acquisition_date": 1674950400000,
+      "agency": "USDA",
+      "vendor": "USDA-FSA-APFO",
+      "resolution_value": 0.3,
+      "resolution_units": "METER",
+      "band_count": 4,
+      "sensor_type": "CNIR",
+      "projection_name": "UTM",
+      "projection_zone": "17N",
+      "datum": "NAD83"
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 38363,
+      "Name": "Ov_i02_L01_R00000155_C0000006F.tif",
+      "MinPS": 19.1,
+      "MaxPS": 38.19999999999962,
+      "Category": 2,
+      "CenterX": -9132968.595050925,
+      "CenterY": 3155708.1438242407,
+      "State": "FL",
+      "Year": 2022,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 38397,
+      "Name": "Ov_i02_L02_R000000AA_C00000037.tif",
+      "MinPS": 38.1999999999996,
+      "MaxPS": 76.39999999999962,
+      "Category": 2,
+      "CenterX": -9133626.405008703,
+      "CenterY": 3127891.2755220095,
+      "State": "FL",
+      "Year": 2022,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 38413,
+      "Name": "Ov_i02_L03_R00000055_C0000001B.tif",
+      "MinPS": 76.3999999999996,
+      "MaxPS": 152.8,
+      "Category": 2,
+      "CenterX": -9145453.499639707,
+      "CenterY": 3235085.740338766,
+      "State": "FL",
+      "Year": 2022,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 11,
+      "Name": "Ov_i02_L01_R0000002A_C0000000D",
+      "MinPS": 152.8,
+      "MaxPS": 305.6,
+      "Category": 2,
+      "CenterX": -9280460.2862,
+      "CenterY": 3106802.593799999,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 92,
+      "Name": "Ov_i02_L02_R00000015_C00000006",
+      "MinPS": 305.6,
+      "MaxPS": 611.2,
+      "Category": 2,
+      "CenterX": -9867135.8862,
+      "CenterY": 3497970.593799999,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 121,
+      "Name": "Ov_i02_L03_R0000000A_C00000003",
+      "MinPS": 611.2,
+      "MaxPS": 1222.4,
+      "Category": 2,
+      "CenterX": -9099774.2862,
+      "CenterY": 3111997.7937999982,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 136,
+      "Name": "Ov_i02_L04_R00000005_C00000001",
+      "MinPS": 1222.4,
+      "MaxPS": 2444.8,
+      "Category": 2,
+      "CenterX": -10649471.8862,
+      "CenterY": 4173957.793800001,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 141,
+      "Name": "Ov_i02_L05_R00000002_C00000000",
+      "MinPS": 2444.8,
+      "MaxPS": 4889.6,
+      "Category": 2,
+      "CenterX": -13734809.4862,
+      "CenterY": 2845820.1937999986,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 146,
+      "Name": "Ov_i02_L06_R00000001_C00000000",
+      "MinPS": 4889.6,
+      "MaxPS": 9779.2,
+      "Category": 2,
+      "CenterX": -13566118.286199998,
+      "CenterY": 4969128.9937999975,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 148,
+      "Name": "Ov_i02_L07_R00000000_C00000000",
+      "MinPS": 9779.2,
+      "MaxPS": 19558.4,
+      "Category": 2,
+      "CenterX": 34304.1138000004,
+      "CenterY": 4969128.993799999,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 149,
+      "Name": "Ov_i02_L08_R00000000_C00000000",
+      "MinPS": 19558.4,
+      "MaxPS": 39116.8,
+      "Category": 2,
+      "CenterX": 29414.51379999891,
+      "CenterY": 4974018.593800001,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    },
+    {
+     "attributes": {
+      "OBJECTID": 150,
+      "Name": "Ov_i02_L09_R00000000_C00000000",
+      "MinPS": 39116.8,
+      "MaxPS": 1955840,
+      "Category": 2,
+      "CenterX": 29414.51379999891,
+      "CenterY": 4964239.3938,
+      "State": null,
+      "Year": null,
+      "raster_name": null,
+      "download_url": null,
+      "acquisition_date": null,
+      "agency": null,
+      "vendor": null,
+      "resolution_value": null,
+      "resolution_units": null,
+      "band_count": null,
+      "sensor_type": null,
+      "projection_name": null,
+      "projection_zone": null,
+      "datum": null
+     }
+    }
+   ]
+  },
+  "catalogItemVisibilities": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ }
+}
