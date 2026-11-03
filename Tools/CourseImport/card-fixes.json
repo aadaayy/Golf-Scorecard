@@ -6717,5 +6717,382 @@
     }
    }
   ]
+ },
+ "eb0a405f-80f2-49f3-abc1-38066e0c6700": {
+  "why": "The open data's card for this course has holes 10 and 13 the wrong way round (10 is the par 5, 13 a par 4). This is its scorecard as published at https://www.golfpass.com/travel-advisor/courses/1875-st-andrews-country-club-championship-course/scorecard-and-layout; GolfLogix's card agrees, and the aerial photo measures 13 at about 383 yd.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "black_gold",
+    "tee_name": "Black/Gold"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "gold_blue",
+    "tee_name": "Gold/Blue"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "blue_white",
+    "tee_name": "Blue/White"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "white_green",
+    "tee_name": "White/Green"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "green_red",
+    "tee_name": "Green/Red"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 370,
+     "black_gold": 370,
+     "gold": 350,
+     "gold_blue": 350,
+     "blue": 342,
+     "blue_white": 342,
+     "white": 320,
+     "white_green": 320,
+     "green": 290,
+     "green_red": 290,
+     "red": 265
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 207,
+     "black_gold": 185,
+     "gold": 185,
+     "gold_blue": 185,
+     "blue": 170,
+     "blue_white": 170,
+     "white": 141,
+     "white_green": 133,
+     "green": 133,
+     "green_red": 118,
+     "red": 118
+    }
+   },
+   {
+    "number": 3,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 574,
+     "black_gold": 543,
+     "gold": 543,
+     "gold_blue": 512,
+     "blue": 512,
+     "blue_white": 512,
+     "white": 486,
+     "white_green": 486,
+     "green": 456,
+     "green_red": 456,
+     "red": 405
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 341,
+     "black_gold": 341,
+     "gold": 332,
+     "gold_blue": 320,
+     "blue": 320,
+     "blue_white": 290,
+     "white": 290,
+     "white_green": 290,
+     "green": 280,
+     "green_red": 280,
+     "red": 255
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 443,
+     "black_gold": 443,
+     "gold": 415,
+     "gold_blue": 415,
+     "blue": 375,
+     "blue_white": 375,
+     "white": 347,
+     "white_green": 335,
+     "green": 335,
+     "green_red": 312,
+     "red": 312
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 265,
+     "black_gold": 215,
+     "gold": 215,
+     "gold_blue": 175,
+     "blue": 175,
+     "blue_white": 145,
+     "white": 145,
+     "white_green": 127,
+     "green": 127,
+     "green_red": 105,
+     "red": 105
+    }
+   },
+   {
+    "number": 7,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 515,
+     "black_gold": 515,
+     "gold": 505,
+     "gold_blue": 465,
+     "blue": 465,
+     "blue_white": 437,
+     "white": 437,
+     "white_green": 437,
+     "green": 415,
+     "green_red": 415,
+     "red": 386
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 400,
+     "black_gold": 363,
+     "gold": 363,
+     "gold_blue": 363,
+     "blue": 330,
+     "blue_white": 330,
+     "white": 309,
+     "white_green": 300,
+     "green": 300,
+     "green_red": 300,
+     "red": 256
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 405,
+     "black_gold": 385,
+     "gold": 385,
+     "gold_blue": 355,
+     "blue": 355,
+     "blue_white": 329,
+     "white": 329,
+     "white_green": 288,
+     "green": 288,
+     "green_red": 288,
+     "red": 252
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 500,
+     "black_gold": 500,
+     "gold": 495,
+     "gold_blue": 475,
+     "blue": 475,
+     "blue_white": 430,
+     "white": 430,
+     "white_green": 430,
+     "green": 393,
+     "green_red": 393,
+     "red": 344
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 400,
+     "black_gold": 400,
+     "gold": 375,
+     "gold_blue": 375,
+     "blue": 360,
+     "blue_white": 360,
+     "white": 335,
+     "white_green": 322,
+     "green": 322,
+     "green_red": 322,
+     "red": 290
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 160,
+     "black_gold": 160,
+     "gold": 150,
+     "gold_blue": 150,
+     "blue": 140,
+     "blue_white": 140,
+     "white": 126,
+     "white_green": 126,
+     "green": 112,
+     "green_red": 105,
+     "red": 105
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 388,
+     "black_gold": 388,
+     "gold": 380,
+     "gold_blue": 380,
+     "blue": 355,
+     "blue_white": 355,
+     "white": 335,
+     "white_green": 305,
+     "green": 305,
+     "green_red": 288,
+     "red": 288
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 376,
+     "black_gold": 360,
+     "gold": 360,
+     "gold_blue": 345,
+     "blue": 345,
+     "blue_white": 285,
+     "white": 285,
+     "white_green": 285,
+     "green": 275,
+     "green_red": 275,
+     "red": 260
+    }
+   },
+   {
+    "number": 15,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 515,
+     "black_gold": 505,
+     "gold": 505,
+     "gold_blue": 505,
+     "blue": 485,
+     "blue_white": 485,
+     "white": 460,
+     "white_green": 460,
+     "green": 425,
+     "green_red": 425,
+     "red": 395
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 152,
+     "black_gold": 152,
+     "gold": 144,
+     "gold_blue": 144,
+     "blue": 131,
+     "blue_white": 131,
+     "white": 120,
+     "white_green": 120,
+     "green": 105,
+     "green_red": 105,
+     "red": 82
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 406,
+     "black_gold": 380,
+     "gold": 380,
+     "gold_blue": 380,
+     "blue": 355,
+     "blue_white": 330,
+     "white": 330,
+     "white_green": 320,
+     "green": 320,
+     "green_red": 267,
+     "red": 267
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 448,
+     "black_gold": 448,
+     "gold": 413,
+     "gold_blue": 375,
+     "blue": 375,
+     "blue_white": 345,
+     "white": 345,
+     "white_green": 285,
+     "green": 285,
+     "green_red": 285,
+     "red": 275
+    }
+   }
+  ]
  }
 }
