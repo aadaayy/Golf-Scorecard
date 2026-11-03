@@ -2,13 +2,14 @@ import AuthenticationServices
 import Foundation
 import Supabase
 
-/// Group rounds on Supabase: accounts from Supabase Auth (Google, and Apple
-/// once it's turned on), tables and functions from supabase/migrations, and
+/// Group rounds on Supabase: accounts from Supabase Auth (Google, email and
+/// password, and Apple once it's turned on), tables and functions from supabase/migrations, and
 /// live updates from Supabase Realtime.
 @MainActor
 final class SupabaseGroupService: GroupService {
-    /// Where Google sends the golfer back after signing in. Add it to the
-    /// project's redirect URLs (README).
+    /// Where Google sends the golfer back after signing in, and where the
+    /// links in confirm and reset emails open. Add it to the project's
+    /// redirect URLs (README).
     static let callbackURL = URL(string: "golfscorecard://login-callback")!
 
     private let client: SupabaseClient
@@ -64,9 +65,80 @@ final class SupabaseGroupService: GroupService {
         }
     }
 
-    /// Handles the link back from the web sheet, if it arrives as an ordinary link.
-    func handle(_ url: URL) {
-        client.auth.handle(url)
+    func signInWithEmail(email: String, password: String) async throws -> GroupUser {
+        do {
+            let session = try await client.auth.signIn(email: EmailCheck.clean(email), password: password)
+            return Self.groupUser(session.user)
+        } catch {
+            throw Self.friendly(error)
+        }
+    }
+
+    func signUpWithEmail(email: String, password: String, name: String?) async throws -> EmailSignUpResult {
+        var data: [String: AnyJSON]?
+        if let name = name?.trimmingCharacters(in: .whitespaces), !name.isEmpty {
+            data = ["full_name": .string(String(name.prefix(40)))]
+        }
+        do {
+            let response = try await client.auth.signUp(
+                email: EmailCheck.clean(email), password: password, data: data, redirectTo: Self.callbackURL
+            )
+            if let session = response.session {
+                return .signedIn(Self.groupUser(session.user))
+            }
+            // Supabase doesn't say outright when the email already has an
+            // account (so nobody can fish for addresses); it answers with a
+            // user that has no sign-in methods, and sends nothing.
+            if response.user.identities?.isEmpty == true {
+                throw GroupError.accountExists
+            }
+            return .checkEmail
+        } catch {
+            throw Self.friendly(error)
+        }
+    }
+
+    func resendConfirmation(email: String) async throws {
+        do {
+            try await client.auth.resend(email: EmailCheck.clean(email), type: .signup, emailRedirectTo: Self.callbackURL)
+        } catch {
+            throw Self.friendly(error)
+        }
+    }
+
+    func sendPasswordReset(email: String) async throws {
+        do {
+            try await client.auth.resetPasswordForEmail(EmailCheck.clean(email), redirectTo: Self.callbackURL)
+        } catch {
+            throw Self.friendly(error)
+        }
+    }
+
+    /// The link back from Google's page, or from a confirm or reset email:
+    /// trades its one-time code for a session on this phone.
+    func openLink(_ url: URL) async throws -> GroupUser {
+        do {
+            let session = try await client.auth.session(from: url)
+            return Self.groupUser(session.user)
+        } catch {
+            if let error = error as? AuthError {
+                switch error.errorCode {
+                case .flowStateNotFound, .flowStateExpired, .badCodeVerifier, .otpExpired:
+                    throw GroupError.linkFailed
+                default: break
+                }
+                if case .pkceGrantCodeExchange = error { throw GroupError.linkFailed }
+            }
+            throw Self.friendly(error)
+        }
+    }
+
+    func updatePassword(_ password: String) async throws {
+        do {
+            try await client.auth.update(user: UserAttributes(password: password))
+        } catch {
+            throw Self.friendly(error)
+        }
     }
 
     func signOut() async {
@@ -248,7 +320,7 @@ final class SupabaseGroupService: GroupService {
     private static func groupUser(_ user: User) -> GroupUser {
         let metadata = user.userMetadata
         let name = metadata["full_name"]?.stringValue ?? metadata["name"]?.stringValue ?? user.email ?? "Golfer"
-        return GroupUser(id: user.id.uuidString, name: name)
+        return GroupUser(id: user.id.uuidString, name: name, email: user.email)
     }
 
     /// The database's own reasons (see the migration's errcodes) in plain words.
@@ -262,6 +334,25 @@ final class SupabaseGroupService: GroupService {
             case "GR004": return GroupError.tooManyToday
             default: return GroupError.failed(error.message)
             }
+        }
+        if let error = error as? AuthError {
+            switch error.errorCode {
+            case .invalidCredentials: return GroupError.wrongPassword
+            case .emailNotConfirmed: return GroupError.emailNotConfirmed
+            case .userAlreadyExists, .emailExists: return GroupError.accountExists
+            case .weakPassword: return GroupError.weakPassword
+            case ErrorCode("email_address_invalid"), .validationFailed: return GroupError.badEmail
+            case .overEmailSendRateLimit, ErrorCode("over_request_rate_limit"): return GroupError.tooManyEmails
+            case .emailAddressNotAuthorized: return GroupError.emailNotSent
+            case .emailProviderDisabled, .signupDisabled: return GroupError.emailTurnedOff
+            default: break
+            }
+            if case .weakPassword = error { return GroupError.weakPassword }
+            // The built-in mail service turns away addresses outside the project's team.
+            if error.message.localizedCaseInsensitiveContains("sending") && error.message.localizedCaseInsensitiveContains("email") {
+                return GroupError.emailNotSent
+            }
+            return GroupError.failed(error.message)
         }
         if (error as? URLError) != nil {
             return GroupError.failed("No connection. Check your signal and try again.")

@@ -3,7 +3,8 @@ import XCTest
 /// Group rounds against the pretend server (-mockGroup), since the checks have
 /// no Supabase project or Google account: starting one and seeing friends join
 /// and score, joining with a code, the account in Profile, the open Duo, and
-/// what shows before the app is set up. Saves g* screenshots.
+/// what shows before the app is set up, and signing in with email. Saves g*
+/// and e* screenshots.
 final class GroupRoundUITests: XCTestCase {
     override func setUpWithError() throws {
         continueAfterFailure = false
@@ -180,6 +181,150 @@ final class GroupRoundUITests: XCTestCase {
         XCTAssertTrue(app.otherElements["hole-score-pane"].waitForExistence(timeout: 5), "The hole view should show")
         sleep(1)
         capture("g16-open-duo-size-group-hole")
+    }
+
+    /// Continue with Email: a wrong password says so, Create Account asks to
+    /// check the email, Forgot Password says a link is on its way, and the
+    /// right email and password open the group round.
+    @MainActor
+    func testEmailSignIn() throws {
+        let app = XCUIApplication()
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-startLayout", "nine"]
+        app.launch()
+
+        let course = app.buttons["course-pompano-pines"]
+        XCTAssertTrue(course.waitForExistence(timeout: 15), "Pompano Beach Pines is missing from the course list")
+        course.tap()
+        let startGroup = app.buttons["start-group-round"]
+        XCTAssertTrue(startGroup.waitForExistence(timeout: 5), "Start Group Round is missing")
+        reveal(startGroup, in: app)
+        startGroup.tap()
+
+        let emailButton = app.buttons["sign-in-email"]
+        XCTAssertTrue(emailButton.waitForExistence(timeout: 5), "Continue with Email should be next to Google")
+        XCTAssertTrue(app.buttons["sign-in-google"].exists, "Continue with Google should still be there")
+        sleep(1)
+        capture("e1-sign-in-choices")
+        emailButton.tap()
+
+        let address = app.textFields["email-address"]
+        XCTAssertTrue(address.waitForExistence(timeout: 5), "The email form did not open")
+        sleep(1)
+        capture("e2-email-sign-in")
+
+        // A wrong password.
+        address.tap()
+        address.typeText("alex@example.com")
+        let password = app.secureTextFields["email-password"]
+        password.tap()
+        password.typeText("nope1234")
+        app.buttons["email-submit"].tap()
+        XCTAssertTrue(app.staticTexts["email-problem"].waitForExistence(timeout: 5), "A wrong password should say so")
+        capture("e3-email-wrong-password")
+
+        // Forgot Password, with the email already typed.
+        app.buttons["email-forgot"].tap()
+        XCTAssertTrue(app.staticTexts["email-note"].waitForExistence(timeout: 5), "Forgot Password should say a link is on its way")
+        capture("e4-email-forgot-password")
+
+        // A new account: check your email.
+        app.segmentedControls["email-mode"].buttons["Create Account"].tap()
+        address.tap()
+        address.typeText(String(repeating: XCUIKeyboardKey.delete.rawValue, count: 30))
+        address.typeText("sam@example.com")
+        password.tap()
+        password.typeText("birdie99")
+        sleep(1)
+        capture("e5-email-create-account")
+        app.buttons["email-submit"].tap()
+        XCTAssertTrue(app.otherElements["email-check"].waitForExistence(timeout: 5), "A new account should ask to check the email")
+        XCTAssertTrue(app.buttons["email-resend"].exists, "Resend Email should be there")
+        capture("e6-email-check-inbox")
+
+        // Back, and in with the right password: the group round opens.
+        app.buttons["email-different"].tap()
+        app.segmentedControls["email-mode"].buttons["Sign In"].tap()
+        XCTAssertTrue(address.waitForExistence(timeout: 5), "The email form should come back")
+        address.tap()
+        address.typeText(String(repeating: XCUIKeyboardKey.delete.rawValue, count: 30))
+        address.typeText("alex@example.com")
+        password.tap()
+        password.typeText("golf1234")
+        app.buttons["email-submit"].tap()
+        XCTAssertTrue(app.buttons["finish-round"].waitForExistence(timeout: 10), "The group round did not open after signing in with email")
+        XCTAssertTrue(app.staticTexts["group-code"].waitForExistence(timeout: 5), "The round should show its join code")
+    }
+
+    /// A reset link opens Set a New Password, which saves and stays signed in.
+    @MainActor
+    func testResetPasswordLink() throws {
+        let app = XCUIApplication()
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup"]
+        app.launch()
+        XCTAssertTrue(app.buttons["course-pompano-pines"].waitForExistence(timeout: 15), "Home did not load")
+        tab("Profile", in: app)
+        let myProfile = app.buttons["profile-section-profile"]
+        XCTAssertTrue(myProfile.waitForExistence(timeout: 5), "Profile is missing My Profile")
+        myProfile.tap()
+        let emailButton = app.buttons["sign-in-email"]
+        var tries = 0
+        while !emailButton.isHittable && tries < 4 { app.swipeUp(); tries += 1 }
+        XCTAssertTrue(emailButton.waitForExistence(timeout: 5), "Profile should offer Continue with Email")
+        capture("e7-profile-sign-in-choices")
+        emailButton.tap()
+
+        let address = app.textFields["email-address"]
+        XCTAssertTrue(address.waitForExistence(timeout: 5), "The email form did not open in Profile")
+        address.tap()
+        address.typeText("alex@example.com")
+        app.buttons["email-forgot"].tap()
+        XCTAssertTrue(app.staticTexts["email-note"].waitForExistence(timeout: 5), "Forgot Password should say a link is on its way")
+        capture("e8-profile-email-forgot")
+
+        // The link from the email opens the app.
+        app.open(URL(string: "golfscorecard://login-callback?code=mock-reset")!)
+        let springboard = XCUIApplication(bundleIdentifier: "com.apple.springboard")
+        let openButton = springboard.buttons["Open"]
+        if openButton.waitForExistence(timeout: 3) { openButton.tap() }
+
+        let newPassword = app.secureTextFields["new-password"]
+        XCTAssertTrue(newPassword.waitForExistence(timeout: 10), "A reset link should open Set a New Password")
+        newPassword.tap()
+        newPassword.typeText("eagle123")
+        let again = app.secureTextFields["new-password-again"]
+        again.tap()
+        again.typeText("eagle123")
+        capture("e9-set-new-password")
+        app.buttons["new-password-save"].tap()
+        XCTAssertTrue(app.staticTexts["new-password-saved"].waitForExistence(timeout: 5), "Saving should say the password is saved")
+        capture("e10-new-password-saved")
+        app.buttons["new-password-close"].tap()
+    }
+
+    /// The open Duo (drawn at its size on the Pro Max): Profile's account
+    /// with the email form open.
+    @MainActor
+    func testOpenDuoEmailSignIn() throws {
+        guard Self.device.contains("Pro Max") else { return }
+        XCUIDevice.shared.orientation = .landscapeLeft
+        let app = XCUIApplication()
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-openDuoPreview", "-home"]
+        app.launch()
+        XCTAssertTrue(app.buttons["course-pompano-pines"].waitForExistence(timeout: 15), "The open Duo home did not load")
+        tab("Profile", in: app)
+        let myProfile = app.buttons["profile-section-profile"]
+        XCTAssertTrue(myProfile.waitForExistence(timeout: 5), "Profile is missing My Profile")
+        myProfile.tap()
+        let emailButton = app.buttons["sign-in-email"]
+        var tries = 0
+        while !emailButton.isHittable && tries < 4 { app.swipeUp(); tries += 1 }
+        XCTAssertTrue(emailButton.waitForExistence(timeout: 5), "The open Duo Profile should offer Continue with Email")
+        sleep(1)
+        capture("e11-open-duo-size-sign-in-choices")
+        emailButton.tap()
+        XCTAssertTrue(app.textFields["email-address"].waitForExistence(timeout: 5), "The email form did not open")
+        sleep(1)
+        capture("e12-open-duo-size-email-sign-in")
     }
 
     /// Before GroupScoring.plist is filled in, Start Group Round says so and

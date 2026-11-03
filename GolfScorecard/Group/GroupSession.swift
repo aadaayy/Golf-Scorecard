@@ -11,6 +11,18 @@ final class GroupSession {
     let service: GroupService?
     let appleSignIn: Bool
     private(set) var user: GroupUser?
+    /// A reset-password link was opened: ask for the new password.
+    var needsNewPassword = false
+    /// A link from an email that didn't work, said once.
+    var linkProblem: String?
+
+    /// The email a reset link was last asked for. Supabase's link signs the
+    /// golfer in like any other, so this is how the app knows to ask for a
+    /// new password when it opens.
+    private var pendingResetEmail: String? {
+        get { UserDefaults.standard.string(forKey: "groupPendingResetEmail") }
+        set { UserDefaults.standard.set(newValue, forKey: "groupPendingResetEmail") }
+    }
 
     var isSetUp: Bool { service != nil }
 
@@ -49,6 +61,32 @@ final class GroupSession {
         user = try await requireService().signInWithApple(idToken: idToken, nonce: nonce, fullName: fullName)
     }
 
+    func signInWithEmail(email: String, password: String) async throws {
+        user = try await requireService().signInWithEmail(email: email, password: password)
+    }
+
+    /// Makes an account. Signed in straight away, or once the link in the
+    /// email is opened on this phone (see `handle`).
+    func signUpWithEmail(email: String, password: String, name: String?) async throws -> EmailSignUpResult {
+        let result = try await requireService().signUpWithEmail(email: email, password: password, name: name)
+        if case .signedIn(let signedIn) = result { user = signedIn }
+        return result
+    }
+
+    func resendConfirmation(email: String) async throws {
+        try await requireService().resendConfirmation(email: email)
+    }
+
+    func sendPasswordReset(email: String) async throws {
+        try await requireService().sendPasswordReset(email: email)
+        pendingResetEmail = EmailCheck.clean(email)
+    }
+
+    func updatePassword(_ password: String) async throws {
+        try await requireService().updatePassword(password)
+        pendingResetEmail = nil
+    }
+
     func signOut() async {
         await service?.signOut()
         user = nil
@@ -59,9 +97,22 @@ final class GroupSession {
         user = nil
     }
 
-    /// The link back from Google's sign-in page.
-    func handle(_ url: URL) {
-        (service as? SupabaseGroupService)?.handle(url)
+    /// A golfscorecard://login-callback link: the way back from Google's page,
+    /// or a link in a confirm or reset email.
+    func handle(_ url: URL) async {
+        guard let service else { return }
+        do {
+            let signedIn = try await service.openLink(url)
+            user = signedIn
+            if let pending = pendingResetEmail, signedIn.email.map(EmailCheck.clean) == pending {
+                needsNewPassword = true
+            }
+        } catch {
+            // Google's sheet finishes on its own and its link may arrive here
+            // too, already used: only say something if nobody got signed in.
+            try? await Task.sleep(for: .seconds(1))
+            if user == nil { linkProblem = error.localizedDescription }
+        }
     }
 
     /// Starts a group round: saved on this phone like any round, with the

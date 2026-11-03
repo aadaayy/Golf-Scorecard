@@ -13,7 +13,7 @@ A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, o
 5. The round: card and map (see below), then Finish for a summary with Out, In, Total, to par and net. Delete (in red) throws away a round you have to leave part way through, after asking first.
 6. The Lock Screen card (a Live Activity) during a round: the hole you're on and your score. Tap it to go straight back to that hole. It can be turned off in Profile.
 7. Past rounds: every round, newest first. Finished cards stay locked until Edit.
-8. Group rounds (Play with Friends): start a round with Start Group Round, and friends join from their own phones with a six-letter code (or the Invite link). Everyone keeps their own score, and everyone's card fills in live as scores come in. Sign in with Google is the only way in; Sign in with Apple is built and switched off until there's a paid Apple Developer account. Up to four players, like a paper card. Each phone keeps its own copy, so a round carries on with no signal and scores go out when it's back. Needs the setup below before it works.
+8. Group rounds (Play with Friends): start a round with Start Group Round, and friends join from their own phones with a six-letter code (or the Invite link). Everyone keeps their own score, and everyone's card fills in live as scores come in. Sign in with Google, or with an email and password (Create Account, Sign In, and Forgot Password, which emails a link to set a new one); Sign in with Apple is built and switched off until there's a paid Apple Developer account. Up to four players, like a paper card. Each phone keeps its own copy, so a round carries on with no signal and scores go out when it's back. Needs the setup below before it works.
 9. Profile & Settings, laid out like the iPhone's Settings: My Profile (name, handicap, and the group rounds account with Sign Out and Delete Account), Playing (usual tee, and Hole, Nine or Full for Duo open and for Sideways, each kept on its own), During a Round (show the round on the Lock Screen), History, and About (version, Erase Everything). Open or sideways, the sections are on the left and the picked one on the right.
 
 ## Run it on your iPhone Duo (free Apple account)
@@ -46,7 +46,9 @@ Group rounds run on [Supabase](https://supabase.com)'s free plan: accounts (Goog
 
 1. **Create the Supabase project.** Sign up at supabase.com, then New project. Pick a name (for example `yardage-book`), a strong database password you keep somewhere safe, and the region closest to you (East US). The free plan is enough.
 2. **Make the tables.** In the project, open SQL Editor > New query, paste all of `supabase/migrations/20261031000000_group_rounds.sql`, and press Run. It makes the tables, the rules for who can see and change what, and turns on live updates for scores.
-3. **Turn off email sign-in.** Authentication > Sign In / Providers > Email: turn it off, so the only way in is Google (and later Apple). Then Authentication > URL Configuration > Redirect URLs: add `golfscorecard://login-callback`.
+3. **Email sign-in and the way back into the app.** Authentication > Sign In / Providers > Email: leave it on, so players without Google or Apple can make an account with an email and password. Then Authentication > URL Configuration > Redirect URLs: add `golfscorecard://login-callback` (Google, and the links in confirm and reset emails, open the app with it).
+   - With Confirm email on (the default), a new account gets an email with a link; opening it on the same phone signs them in. Turn it off and accounts work straight away, with no email.
+   - Supabase's built-in mail only reaches people on the project's team (Organization > Team) and only a few emails an hour. For everyone else to get confirm and reset emails, set up your own sender under Authentication > Emails > SMTP Settings (Resend, for example, has a free plan), or turn Confirm email off (Forgot Password still needs email).
 4. **Set up Google sign-in.**
    1. In Supabase, open Authentication > Sign In / Providers > Google and copy the Callback URL it shows (it looks like `https://<your-project>.supabase.co/auth/v1/callback`). Leave the page open.
    2. Go to [console.cloud.google.com](https://console.cloud.google.com) and create a project (for example `Yardage Book`).
@@ -67,6 +69,7 @@ How it works:
 - The Invite button shares the code and a `golfscorecard://join?code=…` link, which opens Join a Group Round on phones that have the app. A web link that installs the app first would need a website and the paid developer account.
 - Delete Account (Profile > My Profile) removes the account and the scores it sent; rounds saved on the phone stay. Apple requires this for apps with accounts.
 - Free plan room: 500 MB of database, 50,000 monthly users and 200 phones connected live at once. A round of four is about 72 small score rows, roughly 15 KB, so 1,000 testers playing a few rounds a week use well under 100 MB a month. A free project pauses after a week with no use; open the dashboard to wake it.
+- Email sign-in: confirm and reset links carry a one-time code that only works on the phone that asked for it, so they need opening on that phone. A reset link opens Set a New Password.
 - The automatic checks never reach Supabase: they use a pretend server on the phone (`-mockGroup`, `GolfScorecard/Group/MockGroupService.swift`).
 
 ## Automatic checks

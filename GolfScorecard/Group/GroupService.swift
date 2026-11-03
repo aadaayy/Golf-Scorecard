@@ -4,6 +4,16 @@ import Foundation
 struct GroupUser: Equatable {
     var id: String
     var name: String
+    /// The account's email, when it has one.
+    var email: String? = nil
+}
+
+/// What happened after Create Account with an email.
+enum EmailSignUpResult: Equatable {
+    /// Signed in straight away (the project doesn't ask to confirm emails).
+    case signedIn(GroupUser)
+    /// A link went to the email; opening it on this phone finishes signing in.
+    case checkEmail
 }
 
 /// A group round as the database has it.
@@ -33,6 +43,16 @@ protocol GroupService: AnyObject {
     /// The token and nonce from Sign in with Apple. Apple only gives the name
     /// the first time, so it's saved when it comes.
     func signInWithApple(idToken: String, nonce: String, fullName: String?) async throws -> GroupUser
+    /// Email and password: signing in, making an account, and the emails
+    /// that confirm an account or set a new password.
+    func signInWithEmail(email: String, password: String) async throws -> GroupUser
+    func signUpWithEmail(email: String, password: String, name: String?) async throws -> EmailSignUpResult
+    func resendConfirmation(email: String) async throws
+    func sendPasswordReset(email: String) async throws
+    /// A link from one of those emails (or from Google's page) opened the app.
+    func openLink(_ url: URL) async throws -> GroupUser
+    /// Sets a new password for whoever is signed in.
+    func updatePassword(_ password: String) async throws
     func signOut() async
     /// Deletes the account and everything that's only theirs, then signs out.
     func deleteAccount() async throws
@@ -59,6 +79,15 @@ enum GroupError: LocalizedError, Equatable {
     case roundFull
     case tooManyToday
     case courseMissing(String)
+    case wrongPassword
+    case emailNotConfirmed
+    case accountExists
+    case weakPassword
+    case badEmail
+    case tooManyEmails
+    case emailNotSent
+    case emailTurnedOff
+    case linkFailed
     case failed(String)
 
     var errorDescription: String? {
@@ -70,7 +99,17 @@ enum GroupError: LocalizedError, Equatable {
         case .roundFull: "That round already has four players."
         case .tooManyToday: "That's a lot of group rounds for one day. Try again tomorrow."
         case .courseMissing(let name): "\(name) couldn't be downloaded. Find it in Find Courses on Play, then join again."
+        case .wrongPassword: "That email and password don't match. Check them, or tap Forgot Password."
+        case .emailNotConfirmed: "Confirm your email first: open the link we sent you on this phone."
+        case .accountExists: "There's already an account with that email. Sign in instead."
+        case .weakPassword: "Pick a longer password, at least \(EmailCheck.minimumPasswordLength) characters."
+        case .badEmail: "That email address doesn't look right."
+        case .tooManyEmails: "Too many emails sent just now. Wait a few minutes and try again."
+        case .emailNotSent: "The email couldn't be sent to that address. Try again later, or use Google."
+        case .emailTurnedOff: "Email sign-in is turned off right now. Use Google instead."
+        case .linkFailed: "That link didn't work. It may have expired or been opened on another phone. Send a new one and open it on this phone."
         case .failed(let message): message
         }
     }
 }
+
