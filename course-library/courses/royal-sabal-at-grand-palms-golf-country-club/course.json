@@ -1,0 +1,253 @@
+{
+  "id": "royal-sabal-at-grand-palms-golf-country-club",
+  "name": "Royal Sabal At Grand Palms Golf Country Club",
+  "town": "Pembroke Pines, FL",
+  "location": {
+    "lat": 26.00536,
+    "lng": -80.350825
+  },
+  "tees": [
+    "Gold",
+    "Blue",
+    "White",
+    "Silver",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 5,
+      "yards": {
+        "Gold": 512,
+        "Blue": 498,
+        "White": 482,
+        "Silver": 469,
+        "Red": 410
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Gold": 370,
+        "Blue": 352,
+        "White": 339,
+        "Silver": 329,
+        "Red": 250
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Gold": 375,
+        "Blue": 362,
+        "White": 347,
+        "Silver": 335,
+        "Red": 317
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Gold": 525,
+        "Blue": 500,
+        "White": 475,
+        "Silver": 461,
+        "Red": 405
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Gold": 408,
+        "Blue": 341,
+        "White": 335,
+        "Silver": 318,
+        "Red": 309
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Gold": 411,
+        "Blue": 398,
+        "White": 378,
+        "Silver": 361,
+        "Red": 345
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Gold": 188,
+        "Blue": 163,
+        "White": 150,
+        "Silver": 142,
+        "Red": 136
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Gold": 197,
+        "Blue": 181,
+        "White": 165,
+        "Silver": 151,
+        "Red": 140
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Gold": 537,
+        "Blue": 520,
+        "White": 495,
+        "Silver": 475,
+        "Red": 420
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 8,
+      "yards": {
+        "Gold": 540,
+        "Blue": 525,
+        "White": 505,
+        "Silver": 485,
+        "Red": 415
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Gold": 157,
+        "Blue": 142,
+        "White": 130,
+        "Silver": 115,
+        "Red": 105
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Gold": 355,
+        "Blue": 345,
+        "White": 335,
+        "Silver": 325,
+        "Red": 300
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Gold": 351,
+        "Blue": 340,
+        "White": 325,
+        "Silver": 319,
+        "Red": 309
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Gold": 395,
+        "Blue": 380,
+        "White": 360,
+        "Silver": 340,
+        "Red": 328
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Gold": 419,
+        "Blue": 348,
+        "White": 332,
+        "Silver": 320,
+        "Red": 300
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Gold": 140,
+        "Blue": 130,
+        "White": 118,
+        "Silver": 109,
+        "Red": 100
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Gold": 542,
+        "Blue": 528,
+        "White": 510,
+        "Silver": 495,
+        "Red": 400
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Gold": 425,
+        "Blue": 413,
+        "White": 403,
+        "Silver": 365,
+        "Red": 331
+      },
+      "map": "royal-sabal-at-grand-palms-golf-country-club-18"
+    }
+  ],
+  "version": 1
+}

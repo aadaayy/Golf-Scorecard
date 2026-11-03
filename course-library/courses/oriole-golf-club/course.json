@@ -1,0 +1,234 @@
+{
+  "id": "oriole-golf-club",
+  "name": "Oriole Golf Club",
+  "town": "Margate, FL",
+  "location": {
+    "lat": 26.245551,
+    "lng": -80.227588
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Blue": 500,
+        "White": 482,
+        "Gold": 460,
+        "Red": 391
+      },
+      "map": "oriole-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 338,
+        "White": 327,
+        "Gold": 300,
+        "Red": 280
+      },
+      "map": "oriole-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 159,
+        "White": 145,
+        "Gold": 131,
+        "Red": 119
+      },
+      "map": "oriole-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 310,
+        "White": 300,
+        "Gold": 280,
+        "Red": 200
+      },
+      "map": "oriole-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 350,
+        "White": 325,
+        "Gold": 292,
+        "Red": 229
+      },
+      "map": "oriole-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 355,
+        "White": 344,
+        "Gold": 320,
+        "Red": 266
+      },
+      "map": "oriole-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 183,
+        "White": 162,
+        "Gold": 143,
+        "Red": 138
+      },
+      "map": "oriole-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 365,
+        "White": 342,
+        "Gold": 310,
+        "Red": 300
+      },
+      "map": "oriole-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 520,
+        "White": 500,
+        "Gold": 460,
+        "Red": 426
+      },
+      "map": "oriole-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 420,
+        "White": 400,
+        "Gold": 356,
+        "Red": 292
+      },
+      "map": "oriole-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Blue": 402,
+        "White": 392,
+        "Gold": 370,
+        "Red": 322
+      },
+      "map": "oriole-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Blue": 506,
+        "White": 496,
+        "Gold": 476,
+        "Red": 393
+      },
+      "map": "oriole-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 405,
+        "White": 350,
+        "Gold": 336,
+        "Red": 241
+      },
+      "map": "oriole-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 140,
+        "White": 127,
+        "Gold": 117,
+        "Red": 108
+      },
+      "map": "oriole-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 410,
+        "White": 375,
+        "Gold": 350,
+        "Red": 292
+      },
+      "map": "oriole-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 176,
+        "White": 160,
+        "Gold": 146,
+        "Red": 131
+      },
+      "map": "oriole-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "handicap": 16,
+      "yards": {
+        "Blue": 520,
+        "White": 500,
+        "Gold": 462,
+        "Red": 399
+      },
+      "map": "oriole-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Blue": 412,
+        "White": 392,
+        "Gold": 366,
+        "Red": 312
+      },
+      "map": "oriole-golf-club-18"
+    }
+  ],
+  "version": 1
+}

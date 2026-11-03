@@ -1,0 +1,272 @@
+{
+  "id": "coral-ridge-country-club",
+  "name": "Coral Ridge Country Club",
+  "town": "Fort Lauderdale, FL",
+  "location": {
+    "lat": 26.175573,
+    "lng": -80.106935
+  },
+  "tees": [
+    "Championship",
+    "Long",
+    "Club",
+    "Middle",
+    "Member",
+    "Forward"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Championship": 439,
+        "Long": 414,
+        "Club": 396,
+        "Middle": 345,
+        "Member": 328,
+        "Forward": 279
+      },
+      "map": "coral-ridge-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Championship": 424,
+        "Long": 404,
+        "Club": 386,
+        "Middle": 367,
+        "Member": 318,
+        "Forward": 288
+      },
+      "map": "coral-ridge-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Championship": 405,
+        "Long": 386,
+        "Club": 369,
+        "Middle": 349,
+        "Member": 308,
+        "Forward": 287
+      },
+      "map": "coral-ridge-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "handicap": 15,
+      "yards": {
+        "Championship": 553,
+        "Long": 527,
+        "Club": 467,
+        "Middle": 435,
+        "Member": 385,
+        "Forward": 367
+      },
+      "map": "coral-ridge-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 13,
+      "yards": {
+        "Championship": 184,
+        "Long": 161,
+        "Club": 147,
+        "Middle": 118,
+        "Member": 107,
+        "Forward": 92
+      },
+      "map": "coral-ridge-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Championship": 389,
+        "Long": 372,
+        "Club": 339,
+        "Middle": 317,
+        "Member": 286,
+        "Forward": 270
+      },
+      "map": "coral-ridge-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Championship": 582,
+        "Long": 539,
+        "Club": 524,
+        "Middle": 479,
+        "Member": 436,
+        "Forward": 358
+      },
+      "map": "coral-ridge-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Championship": 191,
+        "Long": 180,
+        "Club": 168,
+        "Middle": 162,
+        "Member": 141,
+        "Forward": 119
+      },
+      "map": "coral-ridge-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Championship": 458,
+        "Long": 424,
+        "Club": 398,
+        "Middle": 323,
+        "Member": 279,
+        "Forward": 261
+      },
+      "map": "coral-ridge-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Championship": 446,
+        "Long": 413,
+        "Club": 389,
+        "Middle": 329,
+        "Member": 307,
+        "Forward": 285
+      },
+      "map": "coral-ridge-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 5,
+      "handicap": 12,
+      "yards": {
+        "Championship": 560,
+        "Long": 542,
+        "Club": 501,
+        "Middle": 477,
+        "Member": 377,
+        "Forward": 352
+      },
+      "map": "coral-ridge-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 8,
+      "yards": {
+        "Championship": 220,
+        "Long": 200,
+        "Club": 179,
+        "Middle": 155,
+        "Member": 135,
+        "Forward": 115
+      },
+      "map": "coral-ridge-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Championship": 611,
+        "Long": 579,
+        "Club": 533,
+        "Middle": 501,
+        "Member": 480,
+        "Forward": 406
+      },
+      "map": "coral-ridge-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Championship": 465,
+        "Long": 423,
+        "Club": 406,
+        "Middle": 388,
+        "Member": 350,
+        "Forward": 279
+      },
+      "map": "coral-ridge-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 14,
+      "yards": {
+        "Championship": 368,
+        "Long": 348,
+        "Club": 329,
+        "Middle": 294,
+        "Member": 260,
+        "Forward": 219
+      },
+      "map": "coral-ridge-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Championship": 168,
+        "Long": 155,
+        "Club": 135,
+        "Middle": 118,
+        "Member": 100,
+        "Forward": 84
+      },
+      "map": "coral-ridge-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 16,
+      "yards": {
+        "Championship": 407,
+        "Long": 386,
+        "Club": 366,
+        "Middle": 306,
+        "Member": 280,
+        "Forward": 255
+      },
+      "map": "coral-ridge-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Championship": 452,
+        "Long": 422,
+        "Club": 389,
+        "Middle": 347,
+        "Member": 321,
+        "Forward": 284
+      },
+      "map": "coral-ridge-country-club-18"
+    }
+  ],
+  "version": 1
+}

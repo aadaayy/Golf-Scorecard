@@ -1,0 +1,215 @@
+{
+  "id": "wynmoor-golf-course",
+  "name": "Wynmoor Golf Course",
+  "town": "Coconut Creek, FL",
+  "location": {
+    "lat": 26.248211,
+    "lng": -80.176662
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 318,
+        "White": 256,
+        "Red": 236
+      },
+      "map": "wynmoor-golf-course-01"
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "handicap": 11,
+      "yards": {
+        "Blue": 190,
+        "White": 183,
+        "Red": 141
+      },
+      "map": "wynmoor-golf-course-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Blue": 343,
+        "White": 321,
+        "Red": 314
+      },
+      "map": "wynmoor-golf-course-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 17,
+      "yards": {
+        "Blue": 230,
+        "White": 219,
+        "Red": 200
+      },
+      "map": "wynmoor-golf-course-04"
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 110,
+        "White": 101,
+        "Red": 89
+      },
+      "map": "wynmoor-golf-course-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 7,
+      "yards": {
+        "Blue": 152,
+        "White": 145,
+        "Red": 140
+      },
+      "map": "wynmoor-golf-course-06"
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 213,
+        "White": 202,
+        "Red": 183
+      },
+      "map": "wynmoor-golf-course-07"
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "handicap": 3,
+      "yards": {
+        "Blue": 169,
+        "White": 159,
+        "Red": 136
+      },
+      "map": "wynmoor-golf-course-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 9,
+      "yards": {
+        "Blue": 149,
+        "White": 132,
+        "Red": 113
+      },
+      "map": "wynmoor-golf-course-09"
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 135,
+        "White": 122,
+        "Red": 105
+      },
+      "map": "wynmoor-golf-course-10"
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 107,
+        "White": 100,
+        "Red": 92
+      },
+      "map": "wynmoor-golf-course-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 4,
+      "yards": {
+        "Blue": 189,
+        "White": 175,
+        "Red": 158
+      },
+      "map": "wynmoor-golf-course-12"
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Blue": 140,
+        "White": 129,
+        "Red": 115
+      },
+      "map": "wynmoor-golf-course-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 2,
+      "yards": {
+        "Blue": 187,
+        "White": 177,
+        "Red": 164
+      },
+      "map": "wynmoor-golf-course-14"
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 145,
+        "White": 120,
+        "Red": 81
+      },
+      "map": "wynmoor-golf-course-15"
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 286,
+        "White": 277,
+        "Red": 261
+      },
+      "map": "wynmoor-golf-course-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 6,
+      "yards": {
+        "Blue": 173,
+        "White": 155,
+        "Red": 124
+      },
+      "map": "wynmoor-golf-course-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 247,
+        "White": 229,
+        "Red": 199
+      },
+      "map": "wynmoor-golf-course-18"
+    }
+  ],
+  "version": 1
+}

@@ -97,7 +97,8 @@
         "Blue": 106,
         "White": 99,
         "Red": 94
-      }
+      },
+      "map": "glades-at-colony-west-country-club-08"
     },
     {
       "number": 9,
@@ -107,7 +108,8 @@
         "Blue": 382,
         "White": 371,
         "Red": 361
-      }
+      },
+      "map": "glades-at-colony-west-country-club-09"
     },
     {
       "number": 10,
@@ -209,5 +211,5 @@
       "map": "glades-at-colony-west-country-club-18"
     }
   ],
-  "version": 2
+  "version": 3
 }

@@ -52,7 +52,8 @@
         "Forward Member": 335,
         "Silver": 335,
         "Red": 321
-      }
+      },
+      "map": "the-club-at-emerald-hills-02"
     },
     {
       "number": 3,
@@ -69,7 +70,8 @@
         "Forward Member": 129,
         "Silver": 116,
         "Red": 104
-      }
+      },
+      "map": "the-club-at-emerald-hills-03"
     },
     {
       "number": 4,
@@ -86,7 +88,8 @@
         "Forward Member": 303,
         "Silver": 262,
         "Red": 247
-      }
+      },
+      "map": "the-club-at-emerald-hills-04"
     },
     {
       "number": 5,
@@ -103,7 +106,8 @@
         "Forward Member": 400,
         "Silver": 400,
         "Red": 360
-      }
+      },
+      "map": "the-club-at-emerald-hills-05"
     },
     {
       "number": 6,
@@ -120,7 +124,8 @@
         "Forward Member": 133,
         "Silver": 111,
         "Red": 85
-      }
+      },
+      "map": "the-club-at-emerald-hills-06"
     },
     {
       "number": 7,
@@ -137,7 +142,8 @@
         "Forward Member": 326,
         "Silver": 326,
         "Red": 271
-      }
+      },
+      "map": "the-club-at-emerald-hills-07"
     },
     {
       "number": 8,
@@ -154,7 +160,8 @@
         "Forward Member": 349,
         "Silver": 349,
         "Red": 308
-      }
+      },
+      "map": "the-club-at-emerald-hills-08"
     },
     {
       "number": 9,
@@ -337,5 +344,5 @@
       "map": "the-club-at-emerald-hills-18"
     }
   ],
-  "version": 2
+  "version": 3
 }

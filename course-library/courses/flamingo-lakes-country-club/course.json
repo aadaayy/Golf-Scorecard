@@ -1,0 +1,234 @@
+{
+  "id": "flamingo-lakes-country-club",
+  "name": "Flamingo Lakes Country Club",
+  "town": "Pembroke Pines, FL",
+  "location": {
+    "lat": 26.001177,
+    "lng": -80.319618
+  },
+  "tees": [
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Blue": 361,
+        "White": 337,
+        "Gold": 268,
+        "Red": 256
+      },
+      "map": "flamingo-lakes-country-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 9,
+      "yards": {
+        "Blue": 368,
+        "White": 353,
+        "Gold": 301,
+        "Red": 246
+      },
+      "map": "flamingo-lakes-country-club-02"
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Blue": 291,
+        "White": 252,
+        "Gold": 243,
+        "Red": 218
+      },
+      "map": "flamingo-lakes-country-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Blue": 345,
+        "White": 331,
+        "Gold": 303,
+        "Red": 271
+      },
+      "map": "flamingo-lakes-country-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 11,
+      "yards": {
+        "Blue": 340,
+        "White": 331,
+        "Gold": 307,
+        "Red": 239
+      },
+      "map": "flamingo-lakes-country-club-05"
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "handicap": 1,
+      "yards": {
+        "Blue": 535,
+        "White": 520,
+        "Gold": 496,
+        "Red": 435
+      },
+      "map": "flamingo-lakes-country-club-06"
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Blue": 113,
+        "White": 104,
+        "Gold": 95,
+        "Red": 87
+      },
+      "map": "flamingo-lakes-country-club-07"
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "handicap": 3,
+      "yards": {
+        "Blue": 533,
+        "White": 521,
+        "Gold": 471,
+        "Red": 462
+      },
+      "map": "flamingo-lakes-country-club-08"
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Blue": 170,
+        "White": 144,
+        "Gold": 133,
+        "Red": 103
+      },
+      "map": "flamingo-lakes-country-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 4,
+      "yards": {
+        "Blue": 470,
+        "White": 456,
+        "Gold": 438,
+        "Red": 420
+      },
+      "map": "flamingo-lakes-country-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Blue": 387,
+        "White": 373,
+        "Gold": 335,
+        "Red": 323
+      },
+      "map": "flamingo-lakes-country-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 14,
+      "yards": {
+        "Blue": 153,
+        "White": 126,
+        "Gold": 98,
+        "Red": 92
+      },
+      "map": "flamingo-lakes-country-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Blue": 334,
+        "White": 319,
+        "Gold": 277,
+        "Red": 271
+      },
+      "map": "flamingo-lakes-country-club-13"
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Blue": 143,
+        "White": 139,
+        "Gold": 120,
+        "Red": 93
+      },
+      "map": "flamingo-lakes-country-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Blue": 348,
+        "White": 333,
+        "Gold": 323,
+        "Red": 264
+      },
+      "map": "flamingo-lakes-country-club-15"
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "handicap": 18,
+      "yards": {
+        "Blue": 143,
+        "White": 134,
+        "Gold": 125,
+        "Red": 95
+      },
+      "map": "flamingo-lakes-country-club-16"
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "handicap": 12,
+      "yards": {
+        "Blue": 336,
+        "White": 293,
+        "Gold": 257,
+        "Red": 210
+      },
+      "map": "flamingo-lakes-country-club-17"
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "handicap": 6,
+      "yards": {
+        "Blue": 476,
+        "White": 467,
+        "Gold": 448,
+        "Red": 390
+      },
+      "map": "flamingo-lakes-country-club-18"
+    }
+  ],
+  "version": 1
+}

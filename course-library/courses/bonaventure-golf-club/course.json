@@ -1,0 +1,253 @@
+{
+  "id": "bonaventure-golf-club",
+  "name": "Bonaventure Golf Club",
+  "town": "Weston, FL",
+  "location": {
+    "lat": 26.120047,
+    "lng": -80.36998
+  },
+  "tees": [
+    "Black",
+    "Blue",
+    "White",
+    "Gold",
+    "Red"
+  ],
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "handicap": 11,
+      "yards": {
+        "Black": 570,
+        "Blue": 540,
+        "White": 523,
+        "Gold": 406,
+        "Red": 395
+      },
+      "map": "bonaventure-golf-club-01"
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "handicap": 13,
+      "yards": {
+        "Black": 349,
+        "Blue": 320,
+        "White": 305,
+        "Gold": 299,
+        "Red": 273
+      },
+      "map": "bonaventure-golf-club-02"
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "handicap": 17,
+      "yards": {
+        "Black": 175,
+        "Blue": 158,
+        "White": 149,
+        "Gold": 145,
+        "Red": 134
+      },
+      "map": "bonaventure-golf-club-03"
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "handicap": 1,
+      "yards": {
+        "Black": 465,
+        "Blue": 410,
+        "White": 397,
+        "Gold": 328,
+        "Red": 320
+      },
+      "map": "bonaventure-golf-club-04"
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "handicap": 7,
+      "yards": {
+        "Black": 395,
+        "Blue": 360,
+        "White": 344,
+        "Gold": 327,
+        "Red": 237
+      },
+      "map": "bonaventure-golf-club-05"
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "handicap": 15,
+      "yards": {
+        "Black": 173,
+        "Blue": 160,
+        "White": 154,
+        "Gold": 150,
+        "Red": 143
+      },
+      "map": "bonaventure-golf-club-06"
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "handicap": 9,
+      "yards": {
+        "Black": 549,
+        "Blue": 495,
+        "White": 473,
+        "Gold": 435,
+        "Red": 427
+      },
+      "map": "bonaventure-golf-club-07"
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "handicap": 5,
+      "yards": {
+        "Black": 415,
+        "Blue": 391,
+        "White": 383,
+        "Gold": 375,
+        "Red": 369
+      },
+      "map": "bonaventure-golf-club-08"
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "handicap": 3,
+      "yards": {
+        "Black": 429,
+        "Blue": 410,
+        "White": 393,
+        "Gold": 296,
+        "Red": 285
+      },
+      "map": "bonaventure-golf-club-09"
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "handicap": 18,
+      "yards": {
+        "Black": 538,
+        "Blue": 476,
+        "White": 466,
+        "Gold": 411,
+        "Red": 401
+      },
+      "map": "bonaventure-golf-club-10"
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "handicap": 6,
+      "yards": {
+        "Black": 430,
+        "Blue": 410,
+        "White": 393,
+        "Gold": 372,
+        "Red": 302
+      },
+      "map": "bonaventure-golf-club-11"
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "handicap": 16,
+      "yards": {
+        "Black": 184,
+        "Blue": 163,
+        "White": 155,
+        "Gold": 148,
+        "Red": 140
+      },
+      "map": "bonaventure-golf-club-12"
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "handicap": 4,
+      "yards": {
+        "Black": 403,
+        "Blue": 375,
+        "White": 365,
+        "Gold": 352,
+        "Red": 345
+      },
+      "map": "bonaventure-golf-club-13"
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "handicap": 8,
+      "yards": {
+        "Black": 425,
+        "Blue": 405,
+        "White": 388,
+        "Gold": 330,
+        "Red": 290
+      },
+      "map": "bonaventure-golf-club-14"
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "handicap": 10,
+      "yards": {
+        "Black": 373,
+        "Blue": 355,
+        "White": 345,
+        "Gold": 325,
+        "Red": 315
+      },
+      "map": "bonaventure-golf-club-15"
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "handicap": 14,
+      "yards": {
+        "Black": 581,
+        "Blue": 540,
+        "White": 511,
+        "Gold": 424,
+        "Red": 410
+      },
+      "map": "bonaventure-golf-club-16"
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "handicap": 12,
+      "yards": {
+        "Black": 182,
+        "Blue": 169,
+        "White": 155,
+        "Gold": 151,
+        "Red": 145
+      },
+      "map": "bonaventure-golf-club-17"
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "handicap": 2,
+      "yards": {
+        "Black": 428,
+        "Blue": 415,
+        "White": 393,
+        "Gold": 340,
+        "Red": 321
+      },
+      "map": "bonaventure-golf-club-18"
+    }
+  ],
+  "version": 1
+}

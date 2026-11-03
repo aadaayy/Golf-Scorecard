@@ -7,19 +7,19 @@
     "lng": -80.173772
   },
   "tees": [
-    "Web",
     "Blue",
-    "White"
+    "White",
+    "Green"
   ],
   "holes": [
     {
       "number": 1,
-      "par": 3,
+      "par": 4,
       "handicap": 15,
       "yards": {
-        "Web": 364,
-        "Blue": 140,
-        "White": 130
+        "Blue": 364,
+        "White": 351,
+        "Green": 339
       },
       "map": "east-at-orangebrook-country-club-01"
     },
@@ -28,9 +28,9 @@
       "par": 5,
       "handicap": 3,
       "yards": {
-        "Web": 499,
-        "Blue": 491,
-        "White": 475
+        "Blue": 499,
+        "White": 487,
+        "Green": 472
       },
       "map": "east-at-orangebrook-country-club-02"
     },
@@ -39,9 +39,9 @@
       "par": 4,
       "handicap": 7,
       "yards": {
-        "Web": 375,
-        "Blue": 358,
-        "White": 348
+        "Blue": 375,
+        "White": 355,
+        "Green": 306
       },
       "map": "east-at-orangebrook-country-club-03"
     },
@@ -50,9 +50,9 @@
       "par": 4,
       "handicap": 13,
       "yards": {
-        "Web": 387,
-        "Blue": 334,
-        "White": 324
+        "Blue": 387,
+        "White": 335,
+        "Green": 316
       },
       "map": "east-at-orangebrook-country-club-04"
     },
@@ -61,9 +61,9 @@
       "par": 3,
       "handicap": 11,
       "yards": {
-        "Web": 221,
-        "Blue": 196,
-        "White": 190
+        "Blue": 221,
+        "White": 188,
+        "Green": 156
       },
       "map": "east-at-orangebrook-country-club-05"
     },
@@ -72,9 +72,9 @@
       "par": 5,
       "handicap": 1,
       "yards": {
-        "Web": 592,
-        "Blue": 586,
-        "White": 530
+        "Blue": 592,
+        "White": 536,
+        "Green": 523
       },
       "map": "east-at-orangebrook-country-club-06"
     },
@@ -83,9 +83,9 @@
       "par": 4,
       "handicap": 9,
       "yards": {
-        "Web": 384,
-        "Blue": 371,
-        "White": 353
+        "Blue": 384,
+        "White": 366,
+        "Green": 342
       },
       "map": "east-at-orangebrook-country-club-07"
     },
@@ -94,9 +94,9 @@
       "par": 3,
       "handicap": 17,
       "yards": {
-        "Web": 142,
-        "Blue": 134,
-        "White": 128
+        "Blue": 142,
+        "White": 130,
+        "Green": 113
       },
       "map": "east-at-orangebrook-country-club-08"
     },
@@ -105,20 +105,20 @@
       "par": 4,
       "handicap": 5,
       "yards": {
-        "Web": 414,
-        "Blue": 368,
-        "White": 350
+        "Blue": 414,
+        "White": 366,
+        "Green": 352
       },
       "map": "east-at-orangebrook-country-club-09"
     },
     {
       "number": 10,
       "par": 4,
-      "handicap": 6,
+      "handicap": 4,
       "yards": {
-        "Web": 406,
-        "Blue": 386,
-        "White": 363
+        "Blue": 406,
+        "White": 381,
+        "Green": 354
       },
       "map": "east-at-orangebrook-country-club-10"
     },
@@ -127,9 +127,9 @@
       "par": 5,
       "handicap": 10,
       "yards": {
-        "Web": 472,
-        "Blue": 459,
-        "White": 446
+        "Blue": 472,
+        "White": 462,
+        "Green": 452
       },
       "map": "east-at-orangebrook-country-club-11"
     },
@@ -138,9 +138,9 @@
       "par": 3,
       "handicap": 18,
       "yards": {
-        "Web": 168,
-        "Blue": 162,
-        "White": 140
+        "Blue": 168,
+        "White": 147,
+        "Green": 134
       },
       "map": "east-at-orangebrook-country-club-12"
     },
@@ -149,9 +149,9 @@
       "par": 4,
       "handicap": 2,
       "yards": {
-        "Web": 351,
-        "Blue": 340,
-        "White": 330
+        "Blue": 351,
+        "White": 319,
+        "Green": 205
       },
       "map": "east-at-orangebrook-country-club-13"
     },
@@ -160,9 +160,9 @@
       "par": 4,
       "handicap": 8,
       "yards": {
-        "Web": 380,
-        "Blue": 335,
-        "White": 324
+        "Blue": 380,
+        "White": 341,
+        "Green": 325
       },
       "map": "east-at-orangebrook-country-club-14"
     },
@@ -171,9 +171,9 @@
       "par": 4,
       "handicap": 14,
       "yards": {
-        "Web": 329,
-        "Blue": 318,
-        "White": 314
+        "Blue": 329,
+        "White": 311,
+        "Green": 256
       },
       "map": "east-at-orangebrook-country-club-15"
     },
@@ -182,9 +182,9 @@
       "par": 3,
       "handicap": 16,
       "yards": {
-        "Web": 175,
-        "Blue": 169,
-        "White": 162
+        "Blue": 175,
+        "White": 163,
+        "Green": 151
       },
       "map": "east-at-orangebrook-country-club-16"
     },
@@ -193,23 +193,23 @@
       "par": 4,
       "handicap": 12,
       "yards": {
-        "Web": 368,
-        "Blue": 366,
-        "White": 358
+        "Blue": 368,
+        "White": 349,
+        "Green": 272
       },
       "map": "east-at-orangebrook-country-club-17"
     },
     {
       "number": 18,
       "par": 5,
-      "handicap": 4,
+      "handicap": 6,
       "yards": {
-        "Web": 547,
-        "Blue": 538,
-        "White": 530
+        "Blue": 547,
+        "White": 521,
+        "Green": 441
       },
       "map": "east-at-orangebrook-country-club-18"
     }
   ],
-  "version": 7
+  "version": 8
 }

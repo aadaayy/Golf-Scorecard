@@ -62,7 +62,8 @@
         "Green": 120,
         "Green/Gold": 109,
         "Gold": 109
-      }
+      },
+      "map": "turnberry-isle-country-club-soffer-course-03"
     },
     {
       "number": 4,
@@ -77,7 +78,8 @@
         "Green": 347,
         "Green/Gold": 323,
         "Gold": 323
-      }
+      },
+      "map": "turnberry-isle-country-club-soffer-course-04"
     },
     {
       "number": 5,
@@ -92,7 +94,8 @@
         "Green": 371,
         "Green/Gold": 350,
         "Gold": 350
-      }
+      },
+      "map": "turnberry-isle-country-club-soffer-course-05"
     },
     {
       "number": 6,
@@ -107,7 +110,8 @@
         "Green": 423,
         "Green/Gold": 387,
         "Gold": 387
-      }
+      },
+      "map": "turnberry-isle-country-club-soffer-course-06"
     },
     {
       "number": 7,
@@ -122,7 +126,8 @@
         "Green": 123,
         "Green/Gold": 106,
         "Gold": 106
-      }
+      },
+      "map": "turnberry-isle-country-club-soffer-course-07"
     },
     {
       "number": 8,
@@ -301,5 +306,5 @@
       "map": "turnberry-isle-country-club-soffer-course-18"
     }
   ],
-  "version": 2
+  "version": 3
 }

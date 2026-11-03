@@ -3187,6 +3187,53 @@
       "lng": -81.97438
     },
     {
+      "id": "bonaventure-golf-club",
+      "name": "Bonaventure Golf Club",
+      "town": "Weston, FL",
+      "holes": 18,
+      "par": 72,
+      "tees": [
+        "Black",
+        "Blue",
+        "White",
+        "Gold",
+        "Red"
+      ],
+      "yards": {
+        "Black": 7064,
+        "Blue": 6552,
+        "White": 6292,
+        "Gold": 5614,
+        "Red": 5252
+      },
+      "version": 1,
+      "folder": "courses/bonaventure-golf-club",
+      "files": [
+        "bonaventure-golf-club-01.svg",
+        "bonaventure-golf-club-02.svg",
+        "bonaventure-golf-club-03.svg",
+        "bonaventure-golf-club-04.svg",
+        "bonaventure-golf-club-05.svg",
+        "bonaventure-golf-club-06.svg",
+        "bonaventure-golf-club-07.svg",
+        "bonaventure-golf-club-08.svg",
+        "bonaventure-golf-club-09.svg",
+        "bonaventure-golf-club-10.svg",
+        "bonaventure-golf-club-11.svg",
+        "bonaventure-golf-club-12.svg",
+        "bonaventure-golf-club-13.svg",
+        "bonaventure-golf-club-14.svg",
+        "bonaventure-golf-club-15.svg",
+        "bonaventure-golf-club-16.svg",
+        "bonaventure-golf-club-17.svg",
+        "bonaventure-golf-club-18.svg",
+        "course.json"
+      ],
+      "bytes": 373122,
+      "lat": 26.120047,
+      "lng": -80.36998
+    },
+    {
       "id": "bonifay-country-club-destin-fort-walton",
       "name": "Bonifay Country Club Destin Fort Walton",
       "town": "The Villages, FL",
@@ -3448,7 +3495,7 @@
         "Green": 5531,
         "Blue": 4781
       },
-      "version": 4,
+      "version": 5,
       "folder": "courses/bradenton-country-club",
       "files": [
         "bradenton-country-club-01.svg",
@@ -3471,7 +3518,7 @@
         "bradenton-country-club-18.svg",
         "course.json"
       ],
-      "bytes": 48572,
+      "bytes": 50500,
       "lat": 27.492193,
       "lng": -82.608332
     },
@@ -4929,7 +4976,7 @@
         "Silver": 5123,
         "Gold": 4541
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/championship-at-hollybrook-golf-tennis-club",
       "files": [
         "championship-at-hollybrook-golf-tennis-club-01.svg",
@@ -4952,7 +4999,7 @@
         "championship-at-hollybrook-golf-tennis-club-18.svg",
         "course.json"
       ],
-      "bytes": 107022,
+      "bytes": 107766,
       "lat": 26.000457,
       "lng": -80.264914
     },
@@ -5652,6 +5699,55 @@
       "lng": -82.26573
     },
     {
+      "id": "coral-ridge-country-club",
+      "name": "Coral Ridge Country Club",
+      "town": "Fort Lauderdale, FL",
+      "holes": 18,
+      "par": 72,
+      "tees": [
+        "Championship",
+        "Long",
+        "Club",
+        "Middle",
+        "Member",
+        "Forward"
+      ],
+      "yards": {
+        "Championship": 7322,
+        "Long": 6875,
+        "Club": 6421,
+        "Middle": 5810,
+        "Member": 5198,
+        "Forward": 4600
+      },
+      "version": 1,
+      "folder": "courses/coral-ridge-country-club",
+      "files": [
+        "coral-ridge-country-club-01.svg",
+        "coral-ridge-country-club-02.svg",
+        "coral-ridge-country-club-03.svg",
+        "coral-ridge-country-club-04.svg",
+        "coral-ridge-country-club-05.svg",
+        "coral-ridge-country-club-06.svg",
+        "coral-ridge-country-club-07.svg",
+        "coral-ridge-country-club-08.svg",
+        "coral-ridge-country-club-09.svg",
+        "coral-ridge-country-club-10.svg",
+        "coral-ridge-country-club-11.svg",
+        "coral-ridge-country-club-12.svg",
+        "coral-ridge-country-club-13.svg",
+        "coral-ridge-country-club-14.svg",
+        "coral-ridge-country-club-15.svg",
+        "coral-ridge-country-club-16.svg",
+        "coral-ridge-country-club-17.svg",
+        "coral-ridge-country-club-18.svg",
+        "course.json"
+      ],
+      "bytes": 53770,
+      "lat": 26.175573,
+      "lng": -80.106935
+    },
+    {
       "id": "coral-ridge-country-club-rees-9",
       "name": "Coral Ridge Country Club Rees 9",
       "town": "Fort Lauderdale, FL",
@@ -5848,7 +5944,7 @@
         "White": 5528,
         "Red": 5025
       },
-      "version": 8,
+      "version": 9,
       "folder": "courses/country-club-of-miami-east",
       "files": [
         "country-club-of-miami-east-01.svg",
@@ -5862,6 +5958,7 @@
         "country-club-of-miami-east-09.svg",
         "country-club-of-miami-east-10.svg",
         "country-club-of-miami-east-11.svg",
+        "country-club-of-miami-east-12.svg",
         "country-club-of-miami-east-13.svg",
         "country-club-of-miami-east-14.svg",
         "country-club-of-miami-east-15.svg",
@@ -5870,7 +5967,7 @@
         "country-club-of-miami-east-18.svg",
         "course.json"
       ],
-      "bytes": 77864,
+      "bytes": 456302,
       "lat": 25.943677,
       "lng": -80.313579
     },
@@ -5892,12 +5989,30 @@
         "White": 5479,
         "Red": 5159
       },
-      "version": 1,
+      "version": 2,
       "folder": "courses/country-club-of-miami-west",
       "files": [
+        "country-club-of-miami-west-01.svg",
+        "country-club-of-miami-west-02.svg",
+        "country-club-of-miami-west-03.svg",
+        "country-club-of-miami-west-04.svg",
+        "country-club-of-miami-west-05.svg",
+        "country-club-of-miami-west-06.svg",
+        "country-club-of-miami-west-07.svg",
+        "country-club-of-miami-west-08.svg",
+        "country-club-of-miami-west-09.svg",
+        "country-club-of-miami-west-10.svg",
+        "country-club-of-miami-west-11.svg",
+        "country-club-of-miami-west-12.svg",
+        "country-club-of-miami-west-13.svg",
+        "country-club-of-miami-west-14.svg",
+        "country-club-of-miami-west-15.svg",
+        "country-club-of-miami-west-16.svg",
+        "country-club-of-miami-west-17.svg",
+        "country-club-of-miami-west-18.svg",
         "course.json"
       ],
-      "bytes": 3472,
+      "bytes": 393544,
       "lat": 25.943677,
       "lng": -80.313579
     },
@@ -6052,7 +6167,7 @@
         "Yellow": 4811,
         "Red": 4335
       },
-      "version": 8,
+      "version": 9,
       "folder": "courses/countryside-golf-club",
       "files": [
         "countryside-golf-club-01.svg",
@@ -6075,7 +6190,7 @@
         "countryside-golf-club-18.svg",
         "course.json"
       ],
-      "bytes": 68407,
+      "bytes": 68310,
       "lat": 26.141877,
       "lng": -81.724395
     },
@@ -7226,7 +7341,7 @@
         "Red/Silver": 4755,
         "Silver": 4180
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/deer-creek-golf-club",
       "files": [
         "course.json",
@@ -7249,7 +7364,7 @@
         "deer-creek-golf-club-17.svg",
         "deer-creek-golf-club-18.svg"
       ],
-      "bytes": 558008,
+      "bytes": 564161,
       "lat": 26.32073,
       "lng": -80.141914
     },
@@ -8539,6 +8654,55 @@
       "lng": -86.140213
     },
     {
+      "id": "eagle-trace-country-club",
+      "name": "Eagle Trace Country Club",
+      "town": "Coral Springs, FL",
+      "holes": 18,
+      "par": 72,
+      "tees": [
+        "Gold",
+        "Blue",
+        "Blue/White",
+        "White",
+        "Green",
+        "Red"
+      ],
+      "yards": {
+        "Gold": 7032,
+        "Blue": 6591,
+        "Blue/White": 6354,
+        "White": 6185,
+        "Green": 5620,
+        "Red": 4873
+      },
+      "version": 1,
+      "folder": "courses/eagle-trace-country-club",
+      "files": [
+        "course.json",
+        "eagle-trace-country-club-01.svg",
+        "eagle-trace-country-club-02.svg",
+        "eagle-trace-country-club-03.svg",
+        "eagle-trace-country-club-04.svg",
+        "eagle-trace-country-club-05.svg",
+        "eagle-trace-country-club-06.svg",
+        "eagle-trace-country-club-07.svg",
+        "eagle-trace-country-club-08.svg",
+        "eagle-trace-country-club-09.svg",
+        "eagle-trace-country-club-10.svg",
+        "eagle-trace-country-club-11.svg",
+        "eagle-trace-country-club-12.svg",
+        "eagle-trace-country-club-13.svg",
+        "eagle-trace-country-club-14.svg",
+        "eagle-trace-country-club-15.svg",
+        "eagle-trace-country-club-16.svg",
+        "eagle-trace-country-club-17.svg",
+        "eagle-trace-country-club-18.svg"
+      ],
+      "bytes": 47227,
+      "lat": 26.251899,
+      "lng": -80.289107
+    },
+    {
       "id": "eaglewood-country-club",
       "name": "Eaglewood Country Club",
       "town": "Hobe Sound, FL",
@@ -8594,7 +8758,7 @@
       "par": 72,
       "tees": [],
       "yards": {},
-      "version": 5,
+      "version": 6,
       "folder": "courses/east-at-imperial-golf-club",
       "files": [
         "course.json",
@@ -8617,7 +8781,7 @@
         "east-at-imperial-golf-club-17.svg",
         "east-at-imperial-golf-club-18.svg"
       ],
-      "bytes": 74197,
+      "bytes": 74793,
       "lat": 26.294496,
       "lng": -81.777242
     },
@@ -8641,7 +8805,7 @@
         "Tee 4": 5747,
         "Tee 5": 4923
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/east-at-jacaranda-golf-club",
       "files": [
         "course.json",
@@ -8664,7 +8828,7 @@
         "east-at-jacaranda-golf-club-17.svg",
         "east-at-jacaranda-golf-club-18.svg"
       ],
-      "bytes": 443505,
+      "bytes": 447247,
       "lat": 26.112658,
       "lng": -80.271928
     },
@@ -8715,18 +8879,18 @@
       "name": "East At Orangebrook Country Club",
       "town": "Hollywood, FL",
       "holes": 18,
-      "par": 71,
+      "par": 72,
       "tees": [
-        "Web",
         "Blue",
-        "White"
+        "White",
+        "Green"
       ],
       "yards": {
-        "Web": 6574,
-        "Blue": 6051,
-        "White": 5795
+        "Blue": 6574,
+        "White": 6108,
+        "Green": 5509
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/east-at-orangebrook-country-club",
       "files": [
         "course.json",
@@ -8749,7 +8913,7 @@
         "east-at-orangebrook-country-club-17.svg",
         "east-at-orangebrook-country-club-18.svg"
       ],
-      "bytes": 59479,
+      "bytes": 59517,
       "lat": 26.006221,
       "lng": -80.173772
     },
@@ -10104,6 +10268,51 @@
       "lng": -80.138802
     },
     {
+      "id": "flamingo-lakes-country-club",
+      "name": "Flamingo Lakes Country Club",
+      "town": "Pembroke Pines, FL",
+      "holes": 18,
+      "par": 71,
+      "tees": [
+        "Blue",
+        "White",
+        "Gold",
+        "Red"
+      ],
+      "yards": {
+        "Blue": 5846,
+        "White": 5533,
+        "Gold": 5038,
+        "Red": 4475
+      },
+      "version": 1,
+      "folder": "courses/flamingo-lakes-country-club",
+      "files": [
+        "course.json",
+        "flamingo-lakes-country-club-01.svg",
+        "flamingo-lakes-country-club-02.svg",
+        "flamingo-lakes-country-club-03.svg",
+        "flamingo-lakes-country-club-04.svg",
+        "flamingo-lakes-country-club-05.svg",
+        "flamingo-lakes-country-club-06.svg",
+        "flamingo-lakes-country-club-07.svg",
+        "flamingo-lakes-country-club-08.svg",
+        "flamingo-lakes-country-club-09.svg",
+        "flamingo-lakes-country-club-10.svg",
+        "flamingo-lakes-country-club-11.svg",
+        "flamingo-lakes-country-club-12.svg",
+        "flamingo-lakes-country-club-13.svg",
+        "flamingo-lakes-country-club-14.svg",
+        "flamingo-lakes-country-club-15.svg",
+        "flamingo-lakes-country-club-16.svg",
+        "flamingo-lakes-country-club-17.svg",
+        "flamingo-lakes-country-club-18.svg"
+      ],
+      "bytes": 346072,
+      "lat": 26.001177,
+      "lng": -80.319618
+    },
+    {
       "id": "fleming-island-golf-club",
       "name": "Fleming Island Golf Club",
       "town": "Fleming Island, FL",
@@ -10873,7 +11082,7 @@
         "White": 3787,
         "Red": 3292
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/glades-at-colony-west-country-club",
       "files": [
         "course.json",
@@ -10884,6 +11093,8 @@
         "glades-at-colony-west-country-club-05.svg",
         "glades-at-colony-west-country-club-06.svg",
         "glades-at-colony-west-country-club-07.svg",
+        "glades-at-colony-west-country-club-08.svg",
+        "glades-at-colony-west-country-club-09.svg",
         "glades-at-colony-west-country-club-10.svg",
         "glades-at-colony-west-country-club-11.svg",
         "glades-at-colony-west-country-club-12.svg",
@@ -10894,7 +11105,7 @@
         "glades-at-colony-west-country-club-17.svg",
         "glades-at-colony-west-country-club-18.svg"
       ],
-      "bytes": 112281,
+      "bytes": 131829,
       "lat": 26.207014,
       "lng": -80.266929
     },
@@ -11476,6 +11687,53 @@
       "lng": -81.164483
     },
     {
+      "id": "grand-royal-at-grand-palms-golf-country-club",
+      "name": "Grand Royal At Grand Palms Golf Country Club",
+      "town": "Pembroke Pines, FL",
+      "holes": 18,
+      "par": 72,
+      "tees": [
+        "Gold",
+        "Blue",
+        "White",
+        "Silver",
+        "Red"
+      ],
+      "yards": {
+        "Gold": 6881,
+        "Blue": 6477,
+        "White": 6128,
+        "Silver": 5858,
+        "Red": 5228
+      },
+      "version": 1,
+      "folder": "courses/grand-royal-at-grand-palms-golf-country-club",
+      "files": [
+        "course.json",
+        "grand-royal-at-grand-palms-golf-country-club-01.svg",
+        "grand-royal-at-grand-palms-golf-country-club-02.svg",
+        "grand-royal-at-grand-palms-golf-country-club-03.svg",
+        "grand-royal-at-grand-palms-golf-country-club-04.svg",
+        "grand-royal-at-grand-palms-golf-country-club-05.svg",
+        "grand-royal-at-grand-palms-golf-country-club-06.svg",
+        "grand-royal-at-grand-palms-golf-country-club-07.svg",
+        "grand-royal-at-grand-palms-golf-country-club-08.svg",
+        "grand-royal-at-grand-palms-golf-country-club-09.svg",
+        "grand-royal-at-grand-palms-golf-country-club-10.svg",
+        "grand-royal-at-grand-palms-golf-country-club-11.svg",
+        "grand-royal-at-grand-palms-golf-country-club-12.svg",
+        "grand-royal-at-grand-palms-golf-country-club-13.svg",
+        "grand-royal-at-grand-palms-golf-country-club-14.svg",
+        "grand-royal-at-grand-palms-golf-country-club-15.svg",
+        "grand-royal-at-grand-palms-golf-country-club-16.svg",
+        "grand-royal-at-grand-palms-golf-country-club-17.svg",
+        "grand-royal-at-grand-palms-golf-country-club-18.svg"
+      ],
+      "bytes": 624454,
+      "lat": 26.00536,
+      "lng": -80.350825
+    },
+    {
       "id": "grande-oaks-golf-club",
       "name": "Grande Oaks Golf Club",
       "town": "Davie, FL",
@@ -11887,7 +12145,7 @@
       "yards": {
         "Blue": 3090
       },
-      "version": 3,
+      "version": 4,
       "folder": "courses/greynolds-golf-course",
       "files": [
         "course.json",
@@ -11901,7 +12159,7 @@
         "greynolds-golf-course-08.svg",
         "greynolds-golf-course-09.svg"
       ],
-      "bytes": 300185,
+      "bytes": 342950,
       "lat": 25.939453,
       "lng": -80.156891
     },
@@ -13357,7 +13615,7 @@
         "Green": 5560,
         "Red": 5232
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/hills-at-jupiter-hills-club",
       "files": [
         "course.json",
@@ -13380,7 +13638,7 @@
         "hills-at-jupiter-hills-club-17.svg",
         "hills-at-jupiter-hills-club-18.svg"
       ],
-      "bytes": 97130,
+      "bytes": 97358,
       "lat": 26.988476,
       "lng": -80.095535
     },
@@ -15294,7 +15552,7 @@
         "Gold": 5734,
         "Red": 5180
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/la-gorce-country-club",
       "files": [
         "course.json",
@@ -15303,6 +15561,7 @@
         "la-gorce-country-club-03.svg",
         "la-gorce-country-club-04.svg",
         "la-gorce-country-club-05.svg",
+        "la-gorce-country-club-06.svg",
         "la-gorce-country-club-07.svg",
         "la-gorce-country-club-08.svg",
         "la-gorce-country-club-09.svg",
@@ -15316,7 +15575,7 @@
         "la-gorce-country-club-17.svg",
         "la-gorce-country-club-18.svg"
       ],
-      "bytes": 74779,
+      "bytes": 475164,
       "lat": 25.836766,
       "lng": -80.129491
     },
@@ -20289,7 +20548,7 @@
         "Green": 5431,
         "Red": 4859
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/ocean-at-ponte-vedra-inn-club",
       "files": [
         "course.json",
@@ -20311,7 +20570,7 @@
         "ocean-at-ponte-vedra-inn-club-17.svg",
         "ocean-at-ponte-vedra-inn-club-18.svg"
       ],
-      "bytes": 92280,
+      "bytes": 92364,
       "lat": 30.241981,
       "lng": -81.379433
     },
@@ -20772,6 +21031,51 @@
       "bytes": 987,
       "lat": 30.294767,
       "lng": -86.007408
+    },
+    {
+      "id": "oriole-golf-club",
+      "name": "Oriole Golf Club",
+      "town": "Margate, FL",
+      "holes": 18,
+      "par": 72,
+      "tees": [
+        "Blue",
+        "White",
+        "Gold",
+        "Red"
+      ],
+      "yards": {
+        "Blue": 6471,
+        "White": 6119,
+        "Gold": 5675,
+        "Red": 4839
+      },
+      "version": 1,
+      "folder": "courses/oriole-golf-club",
+      "files": [
+        "course.json",
+        "oriole-golf-club-01.svg",
+        "oriole-golf-club-02.svg",
+        "oriole-golf-club-03.svg",
+        "oriole-golf-club-04.svg",
+        "oriole-golf-club-05.svg",
+        "oriole-golf-club-06.svg",
+        "oriole-golf-club-07.svg",
+        "oriole-golf-club-08.svg",
+        "oriole-golf-club-09.svg",
+        "oriole-golf-club-10.svg",
+        "oriole-golf-club-11.svg",
+        "oriole-golf-club-12.svg",
+        "oriole-golf-club-13.svg",
+        "oriole-golf-club-14.svg",
+        "oriole-golf-club-15.svg",
+        "oriole-golf-club-16.svg",
+        "oriole-golf-club-17.svg",
+        "oriole-golf-club-18.svg"
+      ],
+      "bytes": 146911,
+      "lat": 26.245551,
+      "lng": -80.227588
     },
     {
       "id": "osceola-municipal-golf-course",
@@ -21660,7 +21964,7 @@
       "yards": {
         "Forward": 1596
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/par-3-at-hollybrook-golf-tennis-club",
       "files": [
         "course.json",
@@ -21668,6 +21972,7 @@
         "par-3-at-hollybrook-golf-tennis-club-02.svg",
         "par-3-at-hollybrook-golf-tennis-club-03.svg",
         "par-3-at-hollybrook-golf-tennis-club-04.svg",
+        "par-3-at-hollybrook-golf-tennis-club-05.svg",
         "par-3-at-hollybrook-golf-tennis-club-06.svg",
         "par-3-at-hollybrook-golf-tennis-club-07.svg",
         "par-3-at-hollybrook-golf-tennis-club-08.svg",
@@ -21682,7 +21987,7 @@
         "par-3-at-hollybrook-golf-tennis-club-17.svg",
         "par-3-at-hollybrook-golf-tennis-club-18.svg"
       ],
-      "bytes": 39963,
+      "bytes": 150922,
       "lat": 26.000457,
       "lng": -80.264914
     },
@@ -22302,7 +22607,7 @@
         "Green/Red Combo": 5177,
         "Red": 4766
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/pga-national-resort-palmer-course",
       "files": [
         "course.json",
@@ -22325,7 +22630,7 @@
         "pga-national-resort-palmer-course-17.svg",
         "pga-national-resort-palmer-course-18.svg"
       ],
-      "bytes": 123165,
+      "bytes": 123786,
       "lat": 26.829755,
       "lng": -80.141198
     },
@@ -22421,7 +22726,7 @@
         "White": 4261,
         "Red": 3750
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/pine-island-ridge-country-club",
       "files": [
         "course.json",
@@ -22441,9 +22746,10 @@
         "pine-island-ridge-country-club-14.svg",
         "pine-island-ridge-country-club-15.svg",
         "pine-island-ridge-country-club-16.svg",
+        "pine-island-ridge-country-club-17.svg",
         "pine-island-ridge-country-club-18.svg"
       ],
-      "bytes": 34888,
+      "bytes": 284431,
       "lat": 26.099534,
       "lng": -80.277014
     },
@@ -24485,7 +24791,7 @@
         "Gold": 5219,
         "Red": 4647
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/riviera-country-club",
       "files": [
         "course.json",
@@ -24498,6 +24804,7 @@
         "riviera-country-club-07.svg",
         "riviera-country-club-08.svg",
         "riviera-country-club-09.svg",
+        "riviera-country-club-10.svg",
         "riviera-country-club-11.svg",
         "riviera-country-club-12.svg",
         "riviera-country-club-13.svg",
@@ -24507,7 +24814,7 @@
         "riviera-country-club-17.svg",
         "riviera-country-club-18.svg"
       ],
-      "bytes": 75985,
+      "bytes": 412033,
       "lat": 25.727816,
       "lng": -80.275419
     },
@@ -24867,6 +25174,53 @@
       "lng": -80.087687
     },
     {
+      "id": "royal-sabal-at-grand-palms-golf-country-club",
+      "name": "Royal Sabal At Grand Palms Golf Country Club",
+      "town": "Pembroke Pines, FL",
+      "holes": 18,
+      "par": 73,
+      "tees": [
+        "Gold",
+        "Blue",
+        "White",
+        "Silver",
+        "Red"
+      ],
+      "yards": {
+        "Gold": 6847,
+        "Blue": 6466,
+        "White": 6184,
+        "Silver": 5914,
+        "Red": 5320
+      },
+      "version": 1,
+      "folder": "courses/royal-sabal-at-grand-palms-golf-country-club",
+      "files": [
+        "course.json",
+        "royal-sabal-at-grand-palms-golf-country-club-01.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-02.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-03.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-04.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-05.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-06.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-07.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-08.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-09.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-10.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-11.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-12.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-13.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-14.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-15.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-16.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-17.svg",
+        "royal-sabal-at-grand-palms-golf-country-club-18.svg"
+      ],
+      "bytes": 715367,
+      "lat": 26.00536,
+      "lng": -80.350825
+    },
+    {
       "id": "royal-st-augustine-golf-and-country-club",
       "name": "Royal St Augustine Golf And Country Club",
       "town": "West Augustine, FL",
@@ -25107,6 +25461,53 @@
       "bytes": 1849,
       "lat": 26.590935,
       "lng": -81.821088
+    },
+    {
+      "id": "sabal-grand-at-grand-palms-golf-country-club",
+      "name": "Sabal Grand At Grand Palms Golf Country Club",
+      "town": "Pembroke Pines, FL",
+      "holes": 18,
+      "par": 71,
+      "tees": [
+        "Gold",
+        "Blue",
+        "White",
+        "Silver",
+        "Red"
+      ],
+      "yards": {
+        "Gold": 6682,
+        "Blue": 6313,
+        "White": 5980,
+        "Silver": 5690,
+        "Red": 5084
+      },
+      "version": 1,
+      "folder": "courses/sabal-grand-at-grand-palms-golf-country-club",
+      "files": [
+        "course.json",
+        "sabal-grand-at-grand-palms-golf-country-club-01.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-02.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-03.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-04.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-05.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-06.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-07.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-08.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-09.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-10.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-11.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-12.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-13.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-14.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-15.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-16.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-17.svg",
+        "sabal-grand-at-grand-palms-golf-country-club-18.svg"
+      ],
+      "bytes": 679457,
+      "lat": 26.00536,
+      "lng": -80.350825
     },
     {
       "id": "sabal-springs-golf-racquet-club",
@@ -26374,7 +26775,7 @@
         "White": 6010,
         "Red": 5445
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/seminole-golf-club",
       "files": [
         "course.json",
@@ -26397,7 +26798,7 @@
         "seminole-golf-club-17.svg",
         "seminole-golf-club-18.svg"
       ],
-      "bytes": 184185,
+      "bytes": 180273,
       "lat": 26.862807,
       "lng": -80.051312
     },
@@ -28020,7 +28421,7 @@
         "Gold": 4701,
         "Red": 4151
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/st-augustine-shores-golf-club",
       "files": [
         "course.json",
@@ -28043,7 +28444,7 @@
         "st-augustine-shores-golf-club-17.svg",
         "st-augustine-shores-golf-club-18.svg"
       ],
-      "bytes": 63032,
+      "bytes": 63057,
       "lat": 29.793503,
       "lng": -81.311328
     },
@@ -29851,7 +30252,7 @@
         "White": 6050,
         "Red": 5288
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/the-biltmore-golf-course",
       "files": [
         "course.json",
@@ -29874,7 +30275,7 @@
         "the-biltmore-golf-course-17.svg",
         "the-biltmore-golf-course-18.svg"
       ],
-      "bytes": 122503,
+      "bytes": 128972,
       "lat": 25.740544,
       "lng": -80.280065
     },
@@ -30221,11 +30622,18 @@
         "Silver": 5477,
         "Red": 4939
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/the-club-at-emerald-hills",
       "files": [
         "course.json",
         "the-club-at-emerald-hills-01.svg",
+        "the-club-at-emerald-hills-02.svg",
+        "the-club-at-emerald-hills-03.svg",
+        "the-club-at-emerald-hills-04.svg",
+        "the-club-at-emerald-hills-05.svg",
+        "the-club-at-emerald-hills-06.svg",
+        "the-club-at-emerald-hills-07.svg",
+        "the-club-at-emerald-hills-08.svg",
         "the-club-at-emerald-hills-09.svg",
         "the-club-at-emerald-hills-10.svg",
         "the-club-at-emerald-hills-11.svg",
@@ -30237,7 +30645,7 @@
         "the-club-at-emerald-hills-17.svg",
         "the-club-at-emerald-hills-18.svg"
       ],
-      "bytes": 364349,
+      "bytes": 511208,
       "lat": 26.04189,
       "lng": -80.186066
     },
@@ -34561,12 +34969,17 @@
         "Green/Gold": 4661,
         "Gold": 4537
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/turnberry-isle-country-club-soffer-course",
       "files": [
         "course.json",
         "turnberry-isle-country-club-soffer-course-01.svg",
         "turnberry-isle-country-club-soffer-course-02.svg",
+        "turnberry-isle-country-club-soffer-course-03.svg",
+        "turnberry-isle-country-club-soffer-course-04.svg",
+        "turnberry-isle-country-club-soffer-course-05.svg",
+        "turnberry-isle-country-club-soffer-course-06.svg",
+        "turnberry-isle-country-club-soffer-course-07.svg",
         "turnberry-isle-country-club-soffer-course-08.svg",
         "turnberry-isle-country-club-soffer-course-09.svg",
         "turnberry-isle-country-club-soffer-course-10.svg",
@@ -34579,7 +34992,7 @@
         "turnberry-isle-country-club-soffer-course-17.svg",
         "turnberry-isle-country-club-soffer-course-18.svg"
       ],
-      "bytes": 127418,
+      "bytes": 399957,
       "lat": 25.960639,
       "lng": -80.137564
     },
@@ -34597,7 +35010,7 @@
         "Pebble Beach": 5957,
         "Augusta": 4875
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/turnberry-isle-country-club-the-miller-course",
       "files": [
         "course.json",
@@ -34620,7 +35033,7 @@
         "turnberry-isle-country-club-the-miller-course-17.svg",
         "turnberry-isle-country-club-the-miller-course-18.svg"
       ],
-      "bytes": 140481,
+      "bytes": 164304,
       "lat": 25.960639,
       "lng": -80.137564
     },
@@ -35198,7 +35611,7 @@
         "White": 4893,
         "White (W)": 4893
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/victoria-hills-golf-club",
       "files": [
         "course.json",
@@ -35221,7 +35634,7 @@
         "victoria-hills-golf-club-17.svg",
         "victoria-hills-golf-club-18.svg"
       ],
-      "bytes": 134784,
+      "bytes": 135964,
       "lat": 28.978907,
       "lng": -81.270169
     },
@@ -35811,7 +36224,7 @@
         "Tee 4": 5641,
         "Tee 5": 5104
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/west-at-jacaranda-golf-club",
       "files": [
         "course.json",
@@ -35834,7 +36247,7 @@
         "west-at-jacaranda-golf-club-17.svg",
         "west-at-jacaranda-golf-club-18.svg"
       ],
-      "bytes": 473890,
+      "bytes": 473776,
       "lat": 26.112658,
       "lng": -80.271928
     },
@@ -35969,7 +36382,7 @@
         "Red": 3871,
         "Platinum": 3441
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/west-at-wycliffe-country-club",
       "files": [
         "course.json",
@@ -35989,7 +36402,7 @@
         "west-at-wycliffe-country-club-15.svg",
         "west-at-wycliffe-country-club-16.svg"
       ],
-      "bytes": 59258,
+      "bytes": 59773,
       "lat": 26.611487,
       "lng": -80.211825
     },
@@ -36840,6 +37253,49 @@
       "bytes": 468596,
       "lat": 26.357042,
       "lng": -80.213572
+    },
+    {
+      "id": "wynmoor-golf-course",
+      "name": "Wynmoor Golf Course",
+      "town": "Coconut Creek, FL",
+      "holes": 18,
+      "par": 60,
+      "tees": [
+        "Blue",
+        "White",
+        "Red"
+      ],
+      "yards": {
+        "Blue": 3483,
+        "White": 3202,
+        "Red": 2851
+      },
+      "version": 1,
+      "folder": "courses/wynmoor-golf-course",
+      "files": [
+        "course.json",
+        "wynmoor-golf-course-01.svg",
+        "wynmoor-golf-course-02.svg",
+        "wynmoor-golf-course-03.svg",
+        "wynmoor-golf-course-04.svg",
+        "wynmoor-golf-course-05.svg",
+        "wynmoor-golf-course-06.svg",
+        "wynmoor-golf-course-07.svg",
+        "wynmoor-golf-course-08.svg",
+        "wynmoor-golf-course-09.svg",
+        "wynmoor-golf-course-10.svg",
+        "wynmoor-golf-course-11.svg",
+        "wynmoor-golf-course-12.svg",
+        "wynmoor-golf-course-13.svg",
+        "wynmoor-golf-course-14.svg",
+        "wynmoor-golf-course-15.svg",
+        "wynmoor-golf-course-16.svg",
+        "wynmoor-golf-course-17.svg",
+        "wynmoor-golf-course-18.svg"
+      ],
+      "bytes": 34716,
+      "lat": 26.248211,
+      "lng": -80.176662
     },
     {
       "id": "yankee-clipper-at-the-villages-executive-golf-trail",
