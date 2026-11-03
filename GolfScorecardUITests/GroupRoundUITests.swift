@@ -3,8 +3,8 @@ import XCTest
 /// Group rounds against the pretend server (-mockGroup), since the checks have
 /// no Supabase project or Google account: starting one and seeing friends join
 /// and score, joining with a code, the account in Profile, the open Duo, and
-/// what shows before the app is set up, and signing in with email. Saves g*
-/// and e* screenshots.
+/// what shows before the app is set up, and the account screen (Google or
+/// email) that covers the app until someone is signed in. Saves g* and e* screenshots.
 final class GroupRoundUITests: XCTestCase {
     override func setUpWithError() throws {
         continueAfterFailure = false
@@ -16,13 +16,13 @@ final class GroupRoundUITests: XCTestCase {
         super.tearDown()
     }
 
-    /// Start Group Round asks to sign in, then the round opens with its code;
-    /// Sam and Jordan join, and their scores fill in after yours. A friend's row
+    /// Start Group Round (already signed in: the app asks for an account
+    /// before anything else) opens the round with its code; Sam and Jordan join, and their scores fill in after yours. A friend's row
     /// has no buttons: they enter their own.
     @MainActor
     func testStartGroupRound() throws {
         let app = XCUIApplication()
-        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-startLayout", "nine"]
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-mockSignedIn", "-startLayout", "nine"]
         app.launch()
 
         let course = app.buttons["course-pompano-pines"]
@@ -33,13 +33,6 @@ final class GroupRoundUITests: XCTestCase {
         reveal(startGroup, in: app)
         capture("g1-new-round")
         startGroup.tap()
-
-        let google = app.buttons["sign-in-google"]
-        XCTAssertTrue(google.waitForExistence(timeout: 5), "Starting a group round signed out should ask to sign in")
-        XCTAssertFalse(app.buttons["sign-in-apple"].exists, "Sign in with Apple stays off until it's turned on")
-        sleep(1)
-        capture("g2-sign-in")
-        google.tap()
 
         XCTAssertTrue(app.buttons["finish-round"].waitForExistence(timeout: 10), "The group round did not open after signing in")
         let code = app.staticTexts["group-code"]
@@ -92,12 +85,12 @@ final class GroupRoundUITests: XCTestCase {
         XCTAssertTrue(app.buttons["course-pompano-pines"].waitForExistence(timeout: 5), "Saving should go back home")
     }
 
-    /// Join a Group Round on Play: sign in, a wrong code says so, and the right
+    /// Join a Group Round on Play (signed in): a wrong code says so, and the right
     /// one opens Sam's round with everyone's scores so far, on your own row.
     @MainActor
     func testJoinGroupRound() throws {
         let app = XCUIApplication()
-        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-startLayout", "nine"]
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-mockSignedIn", "-startLayout", "nine"]
         app.launch()
 
         let join = app.buttons["join-group-round"]
@@ -105,11 +98,6 @@ final class GroupRoundUITests: XCTestCase {
         reveal(join, in: app)
         capture("g8-home-join")
         join.tap()
-
-        let google = app.buttons["sign-in-google"]
-        XCTAssertTrue(google.waitForExistence(timeout: 5), "Joining signed out should ask to sign in first")
-        capture("g9-join-sign-in")
-        google.tap()
 
         let field = app.textFields["join-code"]
         XCTAssertTrue(field.waitForExistence(timeout: 5), "After signing in, the code box should show")
@@ -159,8 +147,11 @@ final class GroupRoundUITests: XCTestCase {
         capture("g13-profile-account")
 
         app.buttons["account-sign-out"].tap()
-        XCTAssertTrue(app.buttons["sign-in-google"].waitForExistence(timeout: 5), "After signing out, Continue with Google should show")
-        capture("g14-profile-signed-out")
+        XCTAssertTrue(app.buttons["sign-in-google"].waitForExistence(timeout: 5), "After signing out, the account screen should come back")
+        XCTAssertTrue(app.buttons["sign-in-email"].exists, "The account screen should offer email too")
+        let signOut = app.buttons["account-sign-out"]
+        XCTAssertFalse(signOut.exists && signOut.isHittable, "The account screen should cover Profile")
+        capture("g14-signed-out-account-screen")
     }
 
     /// The open Duo (drawn at its size on the Pro Max): a joined group round
@@ -183,65 +174,43 @@ final class GroupRoundUITests: XCTestCase {
         capture("g16-open-duo-size-group-hole")
     }
 
-    /// Continue with Email: a wrong password says so, Create Account asks to
-    /// check the email, Forgot Password says a link is on its way, and the
-    /// right email and password open the group round.
+    /// Signed out, the app opens on the account screen: Google or email.
+    /// Create Account (where the email opens) asks to check the email; Sign
+    /// In says when the password is wrong, Forgot Password says a link is on
+    /// its way, and the right password opens the app.
     @MainActor
-    func testEmailSignIn() throws {
+    func testAccountScreenWithEmail() throws {
         let app = XCUIApplication()
         app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-startLayout", "nine"]
         app.launch()
 
-        let course = app.buttons["course-pompano-pines"]
-        XCTAssertTrue(course.waitForExistence(timeout: 15), "Pompano Beach Pines is missing from the course list")
-        course.tap()
-        let startGroup = app.buttons["start-group-round"]
-        XCTAssertTrue(startGroup.waitForExistence(timeout: 5), "Start Group Round is missing")
-        reveal(startGroup, in: app)
-        startGroup.tap()
-
         let emailButton = app.buttons["sign-in-email"]
-        XCTAssertTrue(emailButton.waitForExistence(timeout: 5), "Continue with Email should be next to Google")
-        XCTAssertTrue(app.buttons["sign-in-google"].exists, "Continue with Google should still be there")
+        XCTAssertTrue(emailButton.waitForExistence(timeout: 15), "Signed out, the app should open on the account screen")
+        XCTAssertTrue(app.buttons["sign-in-google"].exists, "Continue with Google should be on the account screen")
+        XCTAssertFalse(app.buttons["sign-in-apple"].exists, "Sign in with Apple stays off until it's turned on")
+        let hidden = app.buttons["course-pompano-pines"]
+        XCTAssertFalse(hidden.exists && hidden.isHittable, "Nothing else should be usable before signing in")
         sleep(1)
-        capture("e1-sign-in-choices")
+        capture("e1-account-screen")
         emailButton.tap()
 
         let address = app.textFields["email-address"]
         XCTAssertTrue(address.waitForExistence(timeout: 5), "The email form did not open")
-        sleep(1)
-        capture("e2-email-sign-in")
-
-        // A wrong password.
+        let submit = app.buttons["email-submit"]
+        XCTAssertEqual(submit.label, "Create Account", "On the account screen, email starts on Create Account")
         address.tap()
-        address.typeText("alex@example.com")
-        let password = app.secureTextFields["email-password"]
-        password.tap()
-        password.typeText("nope1234")
-        app.buttons["email-submit"].tap()
-        XCTAssertTrue(app.staticTexts["email-problem"].waitForExistence(timeout: 5), "A wrong password should say so")
-        capture("e3-email-wrong-password")
-
-        // Forgot Password, with the email already typed.
-        app.buttons["email-forgot"].tap()
-        XCTAssertTrue(app.staticTexts["email-note"].waitForExistence(timeout: 5), "Forgot Password should say a link is on its way")
-        capture("e4-email-forgot-password")
-
-        // A new account: check your email.
-        app.segmentedControls["email-mode"].buttons["Create Account"].tap()
-        address.tap()
-        address.typeText(String(repeating: XCUIKeyboardKey.delete.rawValue, count: 30))
         address.typeText("sam@example.com")
+        let password = app.secureTextFields["email-password"]
         password.tap()
         password.typeText("birdie99")
         sleep(1)
-        capture("e5-email-create-account")
-        app.buttons["email-submit"].tap()
+        capture("e2-email-create-account")
+        submit.tap()
         XCTAssertTrue(app.otherElements["email-check"].waitForExistence(timeout: 5), "A new account should ask to check the email")
         XCTAssertTrue(app.buttons["email-resend"].exists, "Resend Email should be there")
-        capture("e6-email-check-inbox")
+        capture("e3-email-check-inbox")
 
-        // Back, and in with the right password: the group round opens.
+        // Sign In instead, with a wrong password.
         app.buttons["email-different"].tap()
         app.segmentedControls["email-mode"].buttons["Sign In"].tap()
         XCTAssertTrue(address.waitForExistence(timeout: 5), "The email form should come back")
@@ -249,37 +218,69 @@ final class GroupRoundUITests: XCTestCase {
         address.typeText(String(repeating: XCUIKeyboardKey.delete.rawValue, count: 30))
         address.typeText("alex@example.com")
         password.tap()
+        password.typeText("nope1234")
+        sleep(1)
+        capture("e4-email-sign-in")
+        app.buttons["email-submit"].tap()
+        XCTAssertTrue(app.staticTexts["email-problem"].waitForExistence(timeout: 5), "A wrong password should say so")
+        capture("e5-email-wrong-password")
+
+        app.buttons["email-forgot"].tap()
+        XCTAssertTrue(app.staticTexts["email-note"].waitForExistence(timeout: 5), "Forgot Password should say a link is on its way")
+        capture("e6-email-forgot-password")
+
+        // The right password: the account screen goes and the app opens.
+        password.tap()
+        password.typeText(String(repeating: XCUIKeyboardKey.delete.rawValue, count: 20))
         password.typeText("golf1234")
         app.buttons["email-submit"].tap()
-        XCTAssertTrue(app.buttons["finish-round"].waitForExistence(timeout: 10), "The group round did not open after signing in with email")
-        XCTAssertTrue(app.staticTexts["group-code"].waitForExistence(timeout: 5), "The round should show its join code")
+        let course = app.buttons["course-pompano-pines"]
+        XCTAssertTrue(course.waitForExistence(timeout: 10), "Signing in should open the app")
+        XCTAssertTrue(waitForHittable(course), "The account screen should be gone after signing in")
+        capture("e7-signed-in-home")
     }
 
-    /// A reset link opens Set a New Password, which saves and stays signed in.
+    /// The very first launch: the account first (Google here), then the
+    /// welcome pages, with the name filled in from the account.
+    @MainActor
+    func testFirstLaunchAsksForAccount() throws {
+        let app = XCUIApplication()
+        app.launchArguments = ["-uiTesting", "-mockGroup"]
+        app.launch()
+
+        let google = app.buttons["sign-in-google"]
+        XCTAssertTrue(google.waitForExistence(timeout: 15), "The first launch should start on the account screen")
+        XCTAssertFalse(app.buttons["onboarding-skip"].exists, "There's no skipping the account")
+        google.tap()
+
+        let next = app.buttons["onboarding-next"]
+        XCTAssertTrue(next.waitForExistence(timeout: 10), "After the account, the welcome pages should show")
+        capture("e8-first-launch-welcome")
+        next.tap()
+        let name = app.textFields["onboarding-name"]
+        XCTAssertTrue(name.waitForExistence(timeout: 5), "Who's playing should show")
+        XCTAssertEqual(name.value as? String, "Alex Rivera", "The name should come from the account")
+        capture("e9-first-launch-name")
+    }
+
+    /// A reset link, opened from the account screen, asks for the new
+    /// password, then opens the app signed in.
     @MainActor
     func testResetPasswordLink() throws {
         let app = XCUIApplication()
         app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup"]
         app.launch()
-        XCTAssertTrue(app.buttons["course-pompano-pines"].waitForExistence(timeout: 15), "Home did not load")
-        tab("Profile", in: app)
-        let myProfile = app.buttons["profile-section-profile"]
-        XCTAssertTrue(myProfile.waitForExistence(timeout: 5), "Profile is missing My Profile")
-        myProfile.tap()
         let emailButton = app.buttons["sign-in-email"]
-        var tries = 0
-        while !emailButton.isHittable && tries < 4 { app.swipeUp(); tries += 1 }
-        XCTAssertTrue(emailButton.waitForExistence(timeout: 5), "Profile should offer Continue with Email")
-        capture("e7-profile-sign-in-choices")
+        XCTAssertTrue(emailButton.waitForExistence(timeout: 15), "Signed out, the app should open on the account screen")
         emailButton.tap()
+        app.segmentedControls["email-mode"].buttons["Sign In"].tap()
 
         let address = app.textFields["email-address"]
-        XCTAssertTrue(address.waitForExistence(timeout: 5), "The email form did not open in Profile")
+        XCTAssertTrue(address.waitForExistence(timeout: 5), "The email form did not open")
         address.tap()
         address.typeText("alex@example.com")
         app.buttons["email-forgot"].tap()
         XCTAssertTrue(app.staticTexts["email-note"].waitForExistence(timeout: 5), "Forgot Password should say a link is on its way")
-        capture("e8-profile-email-forgot")
 
         // The link from the email opens the app.
         app.open(URL(string: "golfscorecard://login-callback?code=mock-reset")!)
@@ -294,37 +295,33 @@ final class GroupRoundUITests: XCTestCase {
         let again = app.secureTextFields["new-password-again"]
         again.tap()
         again.typeText("eagle123")
-        capture("e9-set-new-password")
+        capture("e10-set-new-password")
         app.buttons["new-password-save"].tap()
         XCTAssertTrue(app.staticTexts["new-password-saved"].waitForExistence(timeout: 5), "Saving should say the password is saved")
-        capture("e10-new-password-saved")
+        capture("e11-new-password-saved")
         app.buttons["new-password-close"].tap()
+        let course = app.buttons["course-pompano-pines"]
+        XCTAssertTrue(course.waitForExistence(timeout: 10), "Done should open the app, signed in")
+        XCTAssertTrue(waitForHittable(course), "The account screen should be gone after the new password")
     }
 
-    /// The open Duo (drawn at its size on the Pro Max): Profile's account
-    /// with the email form open.
+    /// The open Duo (drawn at its size on the Pro Max): the account screen,
+    /// and its email form.
     @MainActor
-    func testOpenDuoEmailSignIn() throws {
+    func testOpenDuoAccountScreen() throws {
         guard Self.device.contains("Pro Max") else { return }
         XCUIDevice.shared.orientation = .landscapeLeft
         let app = XCUIApplication()
-        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-openDuoPreview", "-home"]
+        app.launchArguments = ["-uiTesting", "-skipOnboarding", "-mockGroup", "-openDuoPreview", "-accountGate"]
         app.launch()
-        XCTAssertTrue(app.buttons["course-pompano-pines"].waitForExistence(timeout: 15), "The open Duo home did not load")
-        tab("Profile", in: app)
-        let myProfile = app.buttons["profile-section-profile"]
-        XCTAssertTrue(myProfile.waitForExistence(timeout: 5), "Profile is missing My Profile")
-        myProfile.tap()
         let emailButton = app.buttons["sign-in-email"]
-        var tries = 0
-        while !emailButton.isHittable && tries < 4 { app.swipeUp(); tries += 1 }
-        XCTAssertTrue(emailButton.waitForExistence(timeout: 5), "The open Duo Profile should offer Continue with Email")
+        XCTAssertTrue(emailButton.waitForExistence(timeout: 15), "The open Duo account screen did not load")
         sleep(1)
-        capture("e11-open-duo-size-sign-in-choices")
+        capture("e12-open-duo-size-account-screen")
         emailButton.tap()
         XCTAssertTrue(app.textFields["email-address"].waitForExistence(timeout: 5), "The email form did not open")
         sleep(1)
-        capture("e12-open-duo-size-email-sign-in")
+        capture("e13-open-duo-size-email-create-account")
     }
 
     /// Before GroupScoring.plist is filled in, Start Group Round says so and
@@ -354,6 +351,11 @@ final class GroupRoundUITests: XCTestCase {
             app.swipeUp()
             tries += 1
         }
+    }
+
+    private func waitForHittable(_ element: XCUIElement, timeout: TimeInterval = 10) -> Bool {
+        let expectation = XCTNSPredicateExpectation(predicate: NSPredicate(format: "isHittable == true"), object: element)
+        return XCTWaiter().wait(for: [expectation], timeout: timeout) == .completed
     }
 
     private func waitFor(_ element: XCUIElement, value: String, timeout: TimeInterval = 10) -> Bool {

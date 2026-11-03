@@ -67,7 +67,8 @@ struct GolfScorecardApp: App {
                 if ProcessInfo.processInfo.arguments.contains("-lockScreenPreview") {
                     LockScreenCardPreview()
                 } else if ProcessInfo.processInfo.arguments.contains("-openDuoPreview") {
-                    OpenDuoPreview(showsHome: ProcessInfo.processInfo.arguments.contains("-home"))
+                    OpenDuoPreview(showsHome: ProcessInfo.processInfo.arguments.contains("-home"),
+                                   showsAccount: ProcessInfo.processInfo.arguments.contains("-accountGate"))
                 } else {
                     RootView()
                 }

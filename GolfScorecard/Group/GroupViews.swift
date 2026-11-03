@@ -12,6 +12,8 @@ struct GroupSignInButtons: View {
     var onSignedIn: () -> Void = {}
     /// Called when the email form opens, so a sheet can make room for it.
     var onShowEmail: () -> Void = {}
+    /// The email form opens on Create Account instead of Sign In.
+    var startCreating = false
 
     @Environment(GroupSession.self) private var group
     @State private var working = false
@@ -21,7 +23,7 @@ struct GroupSignInButtons: View {
 
     var body: some View {
         if showingEmail {
-            EmailSignInForm(onSignedIn: onSignedIn) {
+            EmailSignInForm(startCreating: startCreating, onSignedIn: onSignedIn) {
                 withAnimation(.snappy) { showingEmail = false }
             }
         } else {
@@ -163,7 +165,7 @@ struct GroupSignInSheet: View {
                     .foregroundStyle(Book.pencil)
                 GroupSignInButtons(onSignedIn: { dismiss() }, onShowEmail: { detent = .large })
                     .frame(maxWidth: 360)
-                Text("Rounds on your own never need an account.")
+                Text("Your friends see the name you play under, nothing else.")
                     .font(.footnote)
                     .foregroundStyle(Book.pencil)
             }
@@ -219,7 +221,7 @@ struct EmailSignInForm: View {
 
     @Environment(GroupSession.self) private var group
     @AppStorage(SettingsKey.playerName) private var playerName = ""
-    @State private var mode = Mode.signIn
+    @State private var mode: Mode
     @State private var email = ""
     @State private var password = ""
     @State private var working = false
@@ -228,6 +230,12 @@ struct EmailSignInForm: View {
     /// The address a confirm link went to, while waiting for it to be opened.
     @State private var waitingFor: String?
     @FocusState private var field: Field?
+
+    init(startCreating: Bool = false, onSignedIn: @escaping () -> Void, onBack: @escaping () -> Void) {
+        self.onSignedIn = onSignedIn
+        self.onBack = onBack
+        _mode = State(initialValue: startCreating ? .create : .signIn)
+    }
 
     var body: some View {
         Group {
@@ -445,9 +453,9 @@ private struct EmailFieldStyle: ViewModifier {
 }
 
 /// Opens from a reset-password link: pick the new password, typed twice.
+/// Shown by `AccountGateView`, which stays up until it's done.
 struct SetNewPasswordView: View {
     @Environment(GroupSession.self) private var group
-    @Environment(\.dismiss) private var dismiss
     @State private var password = ""
     @State private var again = ""
     @State private var working = false
@@ -507,7 +515,7 @@ struct SetNewPasswordView: View {
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: saved ? .confirmationAction : .cancellationAction) {
-                    Button(saved ? "Done" : "Cancel") { dismiss() }
+                    Button(saved ? "Done" : "Cancel") { group.needsNewPassword = false }
                         .accessibilityIdentifier("new-password-close")
                 }
             }
@@ -530,6 +538,74 @@ struct SetNewPasswordView: View {
         } catch {
             problem = error.localizedDescription
         }
+    }
+}
+
+/// Before anything else, while nobody is signed in: the app runs on
+/// accounts, so the first time it opens (and after Sign Out or Delete
+/// Account) it asks for one, with Google or with an email and password.
+/// A signed-in phone keeps its account with no signal.
+struct AccountGateView: View {
+    @Environment(GroupSession.self) private var group
+
+    var body: some View {
+        Group {
+            if group.needsNewPassword {
+                SetNewPasswordView()
+            } else {
+                GeometryReader { geometry in
+                    ScrollView {
+                        VStack(spacing: 18) {
+                            AppMark(size: 96)
+                            Text("Yardage Book")
+                                .font(Book.title(32, relativeTo: .largeTitle))
+                            Text("Make an account to get started. Sign up with Google, or with your email and a password.")
+                                .multilineTextAlignment(.center)
+                                .foregroundStyle(Book.pencil)
+                                .fixedSize(horizontal: false, vertical: true)
+                                .accessibilityIdentifier("account-gate-text")
+                            GroupSignInButtons(startCreating: true)
+                                .frame(maxWidth: 360)
+                            Text("Already have an account? Sign in the same way you signed up.")
+                                .font(.footnote)
+                                .foregroundStyle(Book.pencil)
+                                .multilineTextAlignment(.center)
+                        }
+                        .frame(maxWidth: 480)
+                        .padding(24)
+                        .frame(maxWidth: .infinity, minHeight: geometry.size.height)
+                    }
+                    .scrollBounceBehavior(.basedOnSize)
+                }
+                .paperBackground()
+            }
+        }
+    }
+}
+
+/// What covers the app before it's used: the account first, then the
+/// welcome pages the first time.
+struct StartScreens: View {
+    @Environment(GroupSession.self) private var group
+    @AppStorage(SettingsKey.playerName) private var playerName = ""
+
+    var body: some View {
+        Group {
+            if group.needsAccount {
+                AccountGateView()
+            } else {
+                OnboardingView()
+            }
+        }
+        .onChange(of: group.user) { _, _ in fillInName() }
+    }
+
+    /// The account's name goes on the card, unless they've typed one already.
+    private func fillInName() {
+        guard let user = group.user,
+              playerName.trimmingCharacters(in: .whitespaces).isEmpty,
+              user.name != user.email, user.name != "Golfer" else { return }
+        playerName = user.name
     }
 }
 
@@ -796,7 +872,7 @@ struct GroupAccountSection: View {
             if let problem {
                 Text(problem).foregroundStyle(Book.red)
             } else {
-                Text("Only needed to play with friends. Rounds on your own stay on this phone and never need an account.")
+                Text("Your rounds stay on this phone. Signing out brings back the sign-in screen.")
             }
         }
         .confirmationDialog("Delete your account?", isPresented: $confirmingDelete, titleVisibility: .visible) {

@@ -2,19 +2,20 @@
 
 The app shows as **Yardage Book** on the Home Screen (the project and bundle id keep the Golf Scorecard name). It looks like a caddie's yardage book: ink on cream paper, typewriter titles, red marks, and each hole drawn with red arcs every 50 yards to the middle of the green, a close-up of the green, and trees around the edge (the trees are decoration, not surveyed).
 
-A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, or turn any iPhone sideways, and the card sits on the left with the hole you're on at the right; hold a phone upright (or close the Duo) and you switch between them with tabs. No tracking, and no account unless you play with friends. Courses come from a free online course library and, once downloaded, work with no signal.
+A paper-style golf scorecard for iPhone Duo and regular iPhones. Open the Duo, or turn any iPhone sideways, and the card sits on the left with the hole you're on at the right; hold a phone upright (or close the Duo) and you switch between them with tabs. No tracking. You make an account the first time (Google, or an email and password), and it stays signed in with no signal. Courses come from a free online course library and, once downloaded, work with no signal.
 
 ## What's in it
 
-1. Welcome pages the first time: your name, an optional handicap, and whether the open Duo and a sideways phone each start on the Hole or Nine view (Full, the whole 18 hole card, is in Profile and in the round).
-2. Three tabs: Play, Past Rounds and Profile. On the iPhone Duo they sit in the strip at the side of the screen, under Back. Play resumes an unfinished round or picks a course; open or sideways, the picked course shows on the right, and Past Rounds and Profile use both halves too.
-3. Find Courses (on Play): search the course library by name or town, or switch to Map to see every course as a dot (zoom into a town, tap a dot, download), and download a course. Downloaded courses show on Play, work offline, update themselves when the library has a newer copy, and can be removed with a swipe. Pompano Beach Pines is also built in, so the app works on first launch with no signal.
-4. Start a round: tee, and up to four players (you're first; people you've played with are a tap away).
-5. The round: card and map (see below), then Finish for a summary with Out, In, Total, to par and net. Delete (in red) throws away a round you have to leave part way through, after asking first.
-6. The Lock Screen card (a Live Activity) during a round: the hole you're on and your score. Tap it to go straight back to that hole. It can be turned off in Profile.
-7. Past rounds: every round, newest first. Finished cards stay locked until Edit.
-8. Group rounds (Play with Friends): start a round with Start Group Round, and friends join from their own phones with a six-letter code (or the Invite link). Everyone keeps their own score, and everyone's card fills in live as scores come in. Sign in with Google, or with an email and password (Create Account, Sign In, and Forgot Password, which emails a link to set a new one); Sign in with Apple is built and switched off until there's a paid Apple Developer account. Up to four players, like a paper card. Each phone keeps its own copy, so a round carries on with no signal and scores go out when it's back. Needs the setup below before it works.
-9. Profile & Settings, laid out like the iPhone's Settings: My Profile (name, handicap, and the group rounds account with Sign Out and Delete Account), Playing (usual tee, and Hole, Nine or Full for Duo open and for Sideways, each kept on its own), During a Round (show the round on the Lock Screen), History, and About (version, Erase Everything). Open or sideways, the sections are on the left and the picked one on the right.
+1. An account the first time: Continue with Google, or Continue with Email to create one with a password. The app stays on this screen until someone is signed in, and comes back to it after Sign Out or Delete Account. (Only a copy that isn't connected to Supabase yet skips it.)
+2. Welcome pages the first time: your name (filled in from a Google account), an optional handicap, and whether the open Duo and a sideways phone each start on the Hole or Nine view (Full, the whole 18 hole card, is in Profile and in the round).
+3. Three tabs: Play, Past Rounds and Profile. On the iPhone Duo they sit in the strip at the side of the screen, under Back. Play resumes an unfinished round or picks a course; open or sideways, the picked course shows on the right, and Past Rounds and Profile use both halves too.
+4. Find Courses (on Play): search the course library by name or town, or switch to Map to see every course as a dot (zoom into a town, tap a dot, download), and download a course. Downloaded courses show on Play, work offline, update themselves when the library has a newer copy, and can be removed with a swipe. Pompano Beach Pines is also built in, so the app works on first launch with no signal.
+5. Start a round: tee, and up to four players (you're first; people you've played with are a tap away).
+6. The round: card and map (see below), then Finish for a summary with Out, In, Total, to par and net. Delete (in red) throws away a round you have to leave part way through, after asking first.
+7. The Lock Screen card (a Live Activity) during a round: the hole you're on and your score. Tap it to go straight back to that hole. It can be turned off in Profile.
+8. Past rounds: every round, newest first. Finished cards stay locked until Edit.
+9. Group rounds (Play with Friends): start a round with Start Group Round, and friends join from their own phones with a six-letter code (or the Invite link). Everyone keeps their own score, and everyone's card fills in live as scores come in. Sign in with Google, or with an email and password (Create Account, Sign In, and Forgot Password, which emails a link to set a new one); Sign in with Apple is built and switched off until there's a paid Apple Developer account. Up to four players, like a paper card. Each phone keeps its own copy, so a round carries on with no signal and scores go out when it's back. Needs the setup below before it works.
+10. Profile & Settings, laid out like the iPhone's Settings: My Profile (name, handicap, and the group rounds account with Sign Out and Delete Account), Playing (usual tee, and Hole, Nine or Full for Duo open and for Sideways, each kept on its own), During a Round (show the round on the Lock Screen), History, and About (version, Erase Everything). Open or sideways, the sections are on the left and the picked one on the right.
 
 ## Run it on your iPhone Duo (free Apple account)
 
@@ -42,7 +43,7 @@ With a free account, the app stops opening after 7 days. Press Run again to refr
 
 ## Group rounds setup
 
-Group rounds run on [Supabase](https://supabase.com)'s free plan: accounts (Google sign-in), the database, and live updates. Until steps 1 to 5 are done, Start Group Round and Join a Group Round just say group rounds aren't set up yet, and the rest of the app works as before.
+Group rounds run on [Supabase](https://supabase.com)'s free plan: accounts (Google and email sign-in), the database, and live updates. Until steps 1 to 5 are done, Start Group Round and Join a Group Round just say group rounds aren't set up yet, there's no account screen, and the rest of the app works as before.
 
 1. **Create the Supabase project.** Sign up at supabase.com, then New project. Pick a name (for example `yardage-book`), a strong database password you keep somewhere safe, and the region closest to you (East US). The free plan is enough.
 2. **Make the tables.** In the project, open SQL Editor > New query, paste all of `supabase/migrations/20261031000000_group_rounds.sql`, and press Run. It makes the tables, the rules for who can see and change what, and turns on live updates for scores.

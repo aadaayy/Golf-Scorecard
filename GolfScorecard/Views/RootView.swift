@@ -71,9 +71,6 @@ struct RootView: View {
             }
         }
         .onOpenURL(perform: openLink)
-        .sheet(isPresented: Binding(get: { group.needsNewPassword }, set: { group.needsNewPassword = $0 })) {
-            SetNewPasswordView()
-        }
         .alert("That link didn't work", isPresented: Binding(get: { group.linkProblem != nil }, set: { if !$0 { group.linkProblem = nil } })) {
             Button("OK", role: .cancel) {}
         } message: {
@@ -81,12 +78,14 @@ struct RootView: View {
         }
         .task { endLeftoverLockScreenCards() }
         .overlay {
-            // The welcome pages, the first time. Hosted on an empty overlay so
-            // they don't share a presenter with the round.
+            // The account screen until someone is signed in, then the welcome
+            // pages the first time. One cover for both, so it never has to close
+            // and open again between them. Hosted on an empty overlay so they
+            // don't share a presenter with the round.
             Color.clear
                 .allowsHitTesting(false)
-                .fullScreenCover(isPresented: Binding(get: { !onboarded }, set: { onboarded = !$0 })) {
-                    OnboardingView()
+                .fullScreenCover(isPresented: Binding(get: { !onboarded || group.needsAccount }, set: { if !$0 { onboarded = true } })) {
+                    StartScreens()
                 }
         }
     }

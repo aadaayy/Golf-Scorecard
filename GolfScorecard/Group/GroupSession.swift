@@ -26,6 +26,11 @@ final class GroupSession {
 
     var isSetUp: Bool { service != nil }
 
+    /// The app runs on accounts: until someone is signed in (or while a reset
+    /// link waits for its new password), the account screen covers it. Only
+    /// while the app isn't connected to its project does it work without one.
+    var needsAccount: Bool { isSetUp && (user == nil || needsNewPassword) }
+
     init(service: GroupService?, appleSignIn: Bool) {
         self.service = service
         self.appleSignIn = appleSignIn
