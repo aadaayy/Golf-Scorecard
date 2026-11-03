@@ -54,6 +54,8 @@ REPORT_FILE = os.path.join(HERE, "florida-report.json")
 # Scorecards the open data has wrong, set right by hand from the course's own card.
 # Each entry's fields replace the same fields of that course's record; "why" says what was wrong.
 CARD_FIXES_FILE = os.path.join(HERE, "card-fixes.json")
+# Map holes drawn green to tee where no mapped green shows it: {course id: [hole numbers]}.
+TURNED_FILE = os.path.join(HERE, "turned-holes.json")
 # Shapes traced from public-domain USGS aerial photos where OpenStreetMap has none yet.
 TRACED_FOLDER = os.path.join(HERE, "traced")
 
@@ -998,9 +1000,11 @@ def placed_tees(path, yards, waters):
     return out
 
 
-def drawing(osm, way, yards=None):
+def drawing(osm, way, yards=None, turn=False):
     """One hole as an SVG in the app's yardage book colors, or None."""
     geo = osm.line_for(way["geometry"])
+    if turn:
+        geo = list(reversed(geo))
     frame = Frame(geo)
     path = [frame(p) for p in geo]
     length = sum(math.hypot(b[0] - a[0], b[1] - a[1]) for a, b in zip(path, path[1:]))
@@ -1009,9 +1013,21 @@ def drawing(osm, way, yards=None):
     pad = 0.0012
     s, w, n, e = bbox(geo)
     nearby = [(kind, [frame(p) for p in ring[:-1]]) for kind, ring in osm.shapes_near(s - pad, w - pad, n + pad, e + pad)]
+    greens = [r for k, r in nearby if k == "green"]
+
+    def green_at(point):
+        return any(contains(r, point) for r in greens) or any(math.dist(centroid(r), point) < 35 for r in greens)
+    # Some map holes are drawn green to tee. Turn a hole round when a green sits
+    # at the start of its line and none at the end.
+    if greens and not green_at(path[-1]) and green_at(path[0]):
+        geo = list(reversed(geo))
+        frame = Frame(geo)
+        path = [frame(p) for p in geo]
+        nearby = [(kind, [frame(p) for p in ring[:-1]]) for kind, ring in osm.shapes_near(s - pad, w - pad, n + pad, e + pad)]
+        greens = [r for k, r in nearby if k == "green"]
+        osm.turned = getattr(osm, "turned", 0) + 1
     start, end = path[0], path[-1]
 
-    greens = [r for k, r in nearby if k == "green"]
     green = next((r for r in greens if contains(r, end)), None)
     if green is None and greens:
         near = min(greens, key=lambda r: math.dist(centroid(r), end))
@@ -1215,6 +1231,7 @@ def build(args):
             records.append(json.load(open(os.path.join(API_CACHE, name), encoding="utf-8")))
     report["fetched"] = len(records)
     fixes = json.load(open(CARD_FIXES_FILE, encoding="utf-8")) if os.path.exists(CARD_FIXES_FILE) else {}
+    turned = json.load(open(TURNED_FILE, encoding="utf-8")) if os.path.exists(TURNED_FILE) else {}
     for record in records:
         fix = fixes.get(record.get("id"))
         if fix:
@@ -1268,7 +1285,7 @@ def build(args):
                     report["chained"] = report.get("chained", 0) + 1
             for h in card["holes"]:
                 way = (holes or {}).get(h["number"])
-                svg = drawing(osm, way, h.get("yards")) if way else None
+                svg = drawing(osm, way, h.get("yards"), h["number"] in turned.get(cid, [])) if way else None
                 if svg:
                     drawings[f"{cid}-{h['number']:02d}"] = svg
                     h["map"] = f"{cid}-{h['number']:02d}"
@@ -1313,6 +1330,7 @@ def build(args):
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=1, ensure_ascii=False, sort_keys=True)
         f.write("\n")
+    print(f"Turned {getattr(osm, 'turned', 0)} map holes drawn green to tee")
     print(f"Fetched {report['fetched']}; built {report['added']} courses, {report['with_yardages']} with yardages, "
           f"{report['with_drawings']} with hole drawings, {report['with_location']} on the map. Skipped: {report['skipped_counts']}")
     print(f"{report.get('with_every_drawing', 0)} with a drawing for every hole; "
