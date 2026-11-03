@@ -7094,5 +7094,8149 @@
     }
    }
   ]
+ },
+ "0029b4a9-c5c1-4b52-ad18-be6d2211ef20": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfingrecord.com/golf-scorecard/a51c3713-b1ec-4222-888a-0f3f82182a1b.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "sky_blue",
+    "tee_name": "Sky Blue"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 538,
+     "sky_blue": 538,
+     "blue": 506,
+     "white": 470,
+     "gold": 488
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 370,
+     "sky_blue": 370,
+     "blue": 344,
+     "white": 324,
+     "gold": 334
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 416,
+     "sky_blue": 386,
+     "blue": 386,
+     "white": 345,
+     "gold": 369
+    }
+   },
+   {
+    "number": 4,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 176,
+     "sky_blue": 170,
+     "blue": 170,
+     "white": 137,
+     "gold": 152
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 414,
+     "sky_blue": 414,
+     "blue": 395,
+     "white": 342,
+     "gold": 371
+    }
+   },
+   {
+    "number": 6,
+    "par": 5,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 543,
+     "sky_blue": 543,
+     "blue": 514,
+     "white": 457,
+     "gold": 493
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 381,
+     "sky_blue": 361,
+     "blue": 361,
+     "white": 335,
+     "gold": 348
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 205,
+     "sky_blue": 205,
+     "blue": 155,
+     "white": 127,
+     "gold": 137
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 446,
+     "sky_blue": 419,
+     "blue": 419,
+     "white": 361,
+     "gold": 395
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 432,
+     "sky_blue": 432,
+     "blue": 387,
+     "white": 358,
+     "gold": 372
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 404,
+     "sky_blue": 404,
+     "blue": 381,
+     "white": 353,
+     "gold": 368
+    }
+   },
+   {
+    "number": 12,
+    "par": 5,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 494,
+     "sky_blue": 494,
+     "blue": 483,
+     "white": 447,
+     "gold": 464
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 447,
+     "sky_blue": 411,
+     "blue": 411,
+     "white": 368,
+     "gold": 380
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 188,
+     "sky_blue": 188,
+     "blue": 174,
+     "white": 142,
+     "gold": 154
+    }
+   },
+   {
+    "number": 15,
+    "par": 5,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 537,
+     "sky_blue": 537,
+     "blue": 491,
+     "white": 459,
+     "gold": 476
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 192,
+     "sky_blue": 158,
+     "blue": 158,
+     "white": 125,
+     "gold": 141
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 365,
+     "sky_blue": 365,
+     "blue": 320,
+     "white": 266,
+     "gold": 285
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 463,
+     "sky_blue": 403,
+     "blue": 403,
+     "white": 336,
+     "gold": 377
+    }
+   }
+  ]
+ },
+ "020d15a5-8eb7-4b2f-979b-f68488749116": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1999-lakeview-golf-club/scorecard-and-layout.",
+  "par": 60,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "back",
+    "tee_name": "Back"
+   },
+   {
+    "tee_key": "forward",
+    "tee_name": "Forward"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "back": 93,
+     "forward": 85
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 9,
+    "yardages": {
+     "back": 139,
+     "forward": 95
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 11,
+    "yardages": {
+     "back": 126,
+     "forward": 120
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "back": 248,
+     "forward": 230
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 12,
+    "yardages": {
+     "back": 116,
+     "forward": 80
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "back": 241,
+     "forward": 225
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 10,
+    "yardages": {
+     "back": 143,
+     "forward": 110
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "back": 275,
+     "forward": 273
+    }
+   },
+   {
+    "number": 9,
+    "par": 3,
+    "handicap_index": 7,
+    "yardages": {
+     "back": 172,
+     "forward": 140
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "back": 257,
+     "forward": 250
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "back": 104,
+     "forward": 100
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "back": 128,
+     "forward": 110
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 8,
+    "yardages": {
+     "back": 118,
+     "forward": 100
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "back": 231,
+     "forward": 225
+    }
+   },
+   {
+    "number": 15,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "back": 128,
+     "forward": 110
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "back": 131,
+     "forward": 115
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "back": 138,
+     "forward": 120
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "back": 227,
+     "forward": 230
+    }
+   }
+  ]
+ },
+ "1102af3b-5a4f-43a0-9f3f-d718ff897e15": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1893-woodfield-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "black_gold",
+    "tee_name": "Black/Gold"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "gold_blue",
+    "tee_name": "Gold/Blue"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "blue_white",
+    "tee_name": "Blue/White"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "white_orange",
+    "tee_name": "White/Orange"
+   },
+   {
+    "tee_key": "orange",
+    "tee_name": "Orange"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 545,
+     "black_gold": 520,
+     "gold": 520,
+     "gold_blue": 520,
+     "blue": 486,
+     "blue_white": 486,
+     "white": 463,
+     "white_orange": 456,
+     "orange": 456,
+     "red": 325
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 197,
+     "black_gold": 175,
+     "gold": 175,
+     "gold_blue": 165,
+     "blue": 165,
+     "blue_white": 149,
+     "white": 149,
+     "white_orange": 149,
+     "orange": 137,
+     "red": 107
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 369,
+     "black_gold": 369,
+     "gold": 363,
+     "gold_blue": 363,
+     "blue": 333,
+     "blue_white": 333,
+     "white": 311,
+     "white_orange": 311,
+     "orange": 295,
+     "red": 250
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 390,
+     "black_gold": 390,
+     "gold": 375,
+     "gold_blue": 375,
+     "blue": 351,
+     "blue_white": 321,
+     "white": 321,
+     "white_orange": 321,
+     "orange": 269,
+     "red": 261
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 357,
+     "black_gold": 357,
+     "gold": 340,
+     "gold_blue": 331,
+     "blue": 331,
+     "blue_white": 331,
+     "white": 301,
+     "white_orange": 301,
+     "orange": 266,
+     "red": 259
+    }
+   },
+   {
+    "number": 6,
+    "par": 5,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 541,
+     "black_gold": 520,
+     "gold": 520,
+     "gold_blue": 520,
+     "blue": 460,
+     "blue_white": 460,
+     "white": 405,
+     "white_orange": 405,
+     "orange": 375,
+     "red": 367
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "black_gold": 440,
+     "gold": 440,
+     "gold_blue": 403,
+     "blue": 403,
+     "blue_white": 369,
+     "white": 369,
+     "white_orange": 345,
+     "orange": 345,
+     "red": 326
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 224,
+     "black_gold": 215,
+     "gold": 215,
+     "gold_blue": 175,
+     "blue": 175,
+     "blue_white": 175,
+     "white": 161,
+     "white_orange": 161,
+     "orange": 139,
+     "red": 121
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 407,
+     "black_gold": 393,
+     "gold": 393,
+     "gold_blue": 362,
+     "blue": 362,
+     "blue_white": 327,
+     "white": 327,
+     "white_orange": 295,
+     "orange": 295,
+     "red": 287
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 437,
+     "black_gold": 437,
+     "gold": 388,
+     "gold_blue": 375,
+     "blue": 375,
+     "blue_white": 337,
+     "white": 337,
+     "white_orange": 297,
+     "orange": 297,
+     "red": 290
+    }
+   },
+   {
+    "number": 11,
+    "par": 5,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 529,
+     "black_gold": 529,
+     "gold": 498,
+     "gold_blue": 498,
+     "blue": 468,
+     "blue_white": 431,
+     "white": 431,
+     "white_orange": 431,
+     "orange": 391,
+     "red": 337
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 376,
+     "black_gold": 376,
+     "gold": 343,
+     "gold_blue": 343,
+     "blue": 330,
+     "blue_white": 288,
+     "white": 288,
+     "white_orange": 288,
+     "orange": 277,
+     "red": 235
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 250,
+     "black_gold": 205,
+     "gold": 205,
+     "gold_blue": 172,
+     "blue": 172,
+     "blue_white": 154,
+     "white": 154,
+     "white_orange": 154,
+     "orange": 119,
+     "red": 109
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 401,
+     "black_gold": 401,
+     "gold": 386,
+     "gold_blue": 386,
+     "blue": 325,
+     "blue_white": 325,
+     "white": 325,
+     "white_orange": 325,
+     "orange": 311,
+     "red": 276
+    }
+   },
+   {
+    "number": 15,
+    "par": 5,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 552,
+     "black_gold": 552,
+     "gold": 531,
+     "gold_blue": 504,
+     "blue": 485,
+     "blue_white": 485,
+     "white": 485,
+     "white_orange": 447,
+     "orange": 447,
+     "red": 389
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 462,
+     "black_gold": 425,
+     "gold": 425,
+     "gold_blue": 390,
+     "blue": 310,
+     "blue_white": 310,
+     "white": 310,
+     "white_orange": 310,
+     "orange": 289,
+     "red": 230
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 231,
+     "black_gold": 155,
+     "gold": 155,
+     "gold_blue": 155,
+     "blue": 130,
+     "blue_white": 121,
+     "white": 121,
+     "white_orange": 121,
+     "orange": 114,
+     "red": 73
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 440,
+     "black_gold": 411,
+     "gold": 411,
+     "gold_blue": 369,
+     "blue": 333,
+     "blue_white": 333,
+     "white": 333,
+     "white_orange": 333,
+     "orange": 289,
+     "red": 281
+    }
+   }
+  ]
+ },
+ "13f9baf7-1935-466c-82e3-b346ffb030ea": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2129-the-golf-club-of-jupiter/scorecard-and-layout.",
+  "par": 70,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 325,
+     "blue": 302,
+     "white": 291,
+     "green": 272,
+     "red": 218
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 143,
+     "blue": 130,
+     "white": 123,
+     "green": 114,
+     "red": 106
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 127,
+     "blue": 120,
+     "white": 112,
+     "green": 97,
+     "red": 90
+    }
+   },
+   {
+    "number": 4,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 484,
+     "blue": 458,
+     "white": 442,
+     "green": 388,
+     "red": 290
+    }
+   },
+   {
+    "number": 5,
+    "par": 5,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 433,
+     "blue": 420,
+     "white": 412,
+     "green": 406,
+     "red": 376
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 179,
+     "blue": 162,
+     "white": 155,
+     "green": 123,
+     "red": 98
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 291,
+     "blue": 280,
+     "white": 270,
+     "green": 261,
+     "red": 225
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 181,
+     "blue": 164,
+     "white": 146,
+     "green": 134,
+     "red": 113
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 293,
+     "blue": 281,
+     "white": 258,
+     "green": 240,
+     "red": 221
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 374,
+     "blue": 364,
+     "white": 357,
+     "green": 334,
+     "red": 302
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 201,
+     "blue": 192,
+     "white": 174,
+     "green": 158,
+     "red": 138
+    }
+   },
+   {
+    "number": 12,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 470,
+     "blue": 417,
+     "white": 371,
+     "green": 312,
+     "red": 273
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 158,
+     "blue": 148,
+     "white": 140,
+     "green": 112,
+     "red": 104
+    }
+   },
+   {
+    "number": 14,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 606,
+     "blue": 560,
+     "white": 500,
+     "green": 448,
+     "red": 398
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 355,
+     "blue": 346,
+     "white": 328,
+     "green": 310,
+     "red": 263
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 383,
+     "blue": 322,
+     "white": 305,
+     "green": 289,
+     "red": 262
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 354,
+     "blue": 341,
+     "white": 291,
+     "green": 279,
+     "red": 258
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 345,
+     "blue": 338,
+     "white": 327,
+     "green": 320,
+     "red": 235
+    }
+   }
+  ]
+ },
+ "155fd4cb-e77d-4e7a-9ab7-7490ad5cca7d": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1880-boca-greens-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "yellow_white",
+    "tee_name": "Yellow/White"
+   },
+   {
+    "tee_key": "yellow",
+    "tee_name": "Yellow"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 523,
+     "blue": 514,
+     "white": 492,
+     "yellow_white": 492,
+     "yellow": 427,
+     "green": 328
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 416,
+     "blue": 402,
+     "white": 374,
+     "yellow_white": 316,
+     "yellow": 316,
+     "green": 303
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 387,
+     "blue": 378,
+     "white": 367,
+     "yellow_white": 349,
+     "yellow": 349,
+     "green": 262
+    }
+   },
+   {
+    "number": 4,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 158,
+     "blue": 158,
+     "white": 148,
+     "yellow_white": 148,
+     "yellow": 130,
+     "green": 115
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 375,
+     "blue": 366,
+     "white": 342,
+     "yellow_white": 342,
+     "yellow": 323,
+     "green": 261
+    }
+   },
+   {
+    "number": 6,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 582,
+     "blue": 552,
+     "white": 529,
+     "yellow_white": 529,
+     "yellow": 459,
+     "green": 397
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 424,
+     "blue": 409,
+     "white": 384,
+     "yellow_white": 363,
+     "yellow": 363,
+     "green": 323
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 187,
+     "blue": 177,
+     "white": 160,
+     "yellow_white": 144,
+     "yellow": 144,
+     "green": 100
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 423,
+     "blue": 410,
+     "white": 389,
+     "yellow_white": 317,
+     "yellow": 317,
+     "green": 243
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 386,
+     "blue": 360,
+     "white": 345,
+     "yellow_white": 330,
+     "yellow": 330,
+     "green": 238
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 187,
+     "blue": 158,
+     "white": 139,
+     "yellow_white": 139,
+     "yellow": 110,
+     "green": 101
+    }
+   },
+   {
+    "number": 12,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 530,
+     "blue": 516,
+     "white": 490,
+     "yellow_white": 490,
+     "yellow": 460,
+     "green": 377
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 355,
+     "blue": 355,
+     "white": 345,
+     "yellow_white": 328,
+     "yellow": 328,
+     "green": 251
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 378,
+     "blue": 378,
+     "white": 365,
+     "yellow_white": 344,
+     "yellow": 344,
+     "green": 243
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 392,
+     "blue": 378,
+     "white": 354,
+     "yellow_white": 354,
+     "yellow": 277,
+     "green": 228
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 210,
+     "blue": 175,
+     "white": 154,
+     "yellow_white": 154,
+     "yellow": 129,
+     "green": 99
+    }
+   },
+   {
+    "number": 17,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 604,
+     "blue": 528,
+     "white": 499,
+     "yellow_white": 423,
+     "yellow": 423,
+     "green": 374
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 391,
+     "blue": 380,
+     "white": 361,
+     "yellow_white": 361,
+     "yellow": 307,
+     "green": 260
+    }
+   }
+  ]
+ },
+ "17707ede-02c8-40f0-85f8-36fa4b5c541e": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2131-loxahatchee-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "black_gold",
+    "tee_name": "Black/Gold"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "gold_blue",
+    "tee_name": "Gold/Blue"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "blue_white",
+    "tee_name": "Blue/White"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "white_red",
+    "tee_name": "White/Red"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   },
+   {
+    "tee_key": "red_green",
+    "tee_name": "Red/Green"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 375,
+     "black_gold": 375,
+     "gold": 354,
+     "gold_blue": 354,
+     "blue": 334,
+     "blue_white": 334,
+     "white": 314,
+     "white_red": 314,
+     "red": 290,
+     "red_green": 290,
+     "green": 249
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 185,
+     "black_gold": 185,
+     "gold": 167,
+     "gold_blue": 157,
+     "blue": 157,
+     "blue_white": 147,
+     "white": 147,
+     "white_red": 147,
+     "red": 127,
+     "red_green": 119,
+     "green": 119
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 465,
+     "black_gold": 424,
+     "gold": 424,
+     "gold_blue": 408,
+     "blue": 408,
+     "blue_white": 392,
+     "white": 392,
+     "white_red": 357,
+     "red": 357,
+     "red_green": 302,
+     "green": 302
+    }
+   },
+   {
+    "number": 4,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 555,
+     "black_gold": 529,
+     "gold": 529,
+     "gold_blue": 509,
+     "blue": 509,
+     "blue_white": 509,
+     "white": 489,
+     "white_red": 456,
+     "red": 456,
+     "red_green": 363,
+     "green": 363
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 167,
+     "black_gold": 167,
+     "gold": 149,
+     "gold_blue": 149,
+     "blue": 135,
+     "blue_white": 135,
+     "white": 121,
+     "white_red": 121,
+     "red": 107,
+     "red_green": 107,
+     "green": 83
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 388,
+     "black_gold": 388,
+     "gold": 358,
+     "gold_blue": 358,
+     "blue": 332,
+     "blue_white": 332,
+     "white": 306,
+     "white_red": 306,
+     "red": 275,
+     "red_green": 261,
+     "green": 261
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 442,
+     "black_gold": 407,
+     "gold": 407,
+     "gold_blue": 393,
+     "blue": 393,
+     "blue_white": 379,
+     "white": 379,
+     "white_red": 379,
+     "red": 344,
+     "red_green": 274,
+     "green": 274
+    }
+   },
+   {
+    "number": 8,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 551,
+     "black_gold": 551,
+     "gold": 516,
+     "gold_blue": 516,
+     "blue": 479,
+     "blue_white": 479,
+     "white": 444,
+     "white_red": 405,
+     "red": 405,
+     "red_green": 405,
+     "green": 351
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 448,
+     "black_gold": 409,
+     "gold": 409,
+     "gold_blue": 373,
+     "blue": 373,
+     "blue_white": 350,
+     "white": 350,
+     "white_red": 350,
+     "red": 344,
+     "red_green": 344,
+     "green": 284
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 444,
+     "black_gold": 405,
+     "gold": 405,
+     "gold_blue": 405,
+     "blue": 387,
+     "blue_white": 344,
+     "white": 344,
+     "white_red": 329,
+     "red": 329,
+     "red_green": 267,
+     "green": 267
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 399,
+     "black_gold": 399,
+     "gold": 360,
+     "gold_blue": 360,
+     "blue": 336,
+     "blue_white": 336,
+     "white": 322,
+     "white_red": 322,
+     "red": 294,
+     "red_green": 240,
+     "green": 240
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 214,
+     "black_gold": 190,
+     "gold": 190,
+     "gold_blue": 175,
+     "blue": 175,
+     "blue_white": 175,
+     "white": 159,
+     "white_red": 159,
+     "red": 118,
+     "red_green": 118,
+     "green": 102
+    }
+   },
+   {
+    "number": 13,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 564,
+     "black_gold": 564,
+     "gold": 541,
+     "gold_blue": 526,
+     "blue": 526,
+     "blue_white": 526,
+     "white": 516,
+     "white_red": 447,
+     "red": 447,
+     "red_green": 390,
+     "green": 390
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 427,
+     "black_gold": 427,
+     "gold": 402,
+     "gold_blue": 384,
+     "blue": 384,
+     "blue_white": 351,
+     "white": 351,
+     "white_red": 337,
+     "red": 337,
+     "red_green": 337,
+     "green": 299
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 371,
+     "black_gold": 371,
+     "gold": 351,
+     "gold_blue": 351,
+     "blue": 322,
+     "blue_white": 322,
+     "white": 304,
+     "white_red": 304,
+     "red": 259,
+     "red_green": 259,
+     "green": 214
+    }
+   },
+   {
+    "number": 16,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 601,
+     "black_gold": 551,
+     "gold": 551,
+     "gold_blue": 525,
+     "blue": 525,
+     "blue_white": 494,
+     "white": 494,
+     "white_red": 476,
+     "red": 476,
+     "red_green": 416,
+     "green": 416
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 193,
+     "black_gold": 193,
+     "gold": 169,
+     "gold_blue": 169,
+     "blue": 151,
+     "blue_white": 151,
+     "white": 134,
+     "white_red": 134,
+     "red": 116,
+     "red_green": 116,
+     "green": 86
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 451,
+     "black_gold": 421,
+     "gold": 421,
+     "gold_blue": 381,
+     "blue": 381,
+     "blue_white": 381,
+     "white": 336,
+     "white_red": 336,
+     "red": 324,
+     "red_green": 324,
+     "green": 283
+    }
+   }
+  ]
+ },
+ "20a4d529-3c12-4269-87a7-cf3cfae0d0bd": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2656-west-palm-beach-golf-course/scorecard-and-layout.",
+  "par": 71,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "yellow",
+    "tee_name": "Yellow"
+   },
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "light_blue",
+    "tee_name": "Light Blue"
+   },
+   {
+    "tee_key": "sand",
+    "tee_name": "Sand"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 13,
+    "yardages": {
+     "yellow": 564,
+     "black": 540,
+     "light_blue": 505,
+     "sand": 471,
+     "green": 448
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "yellow": 416,
+     "black": 391,
+     "light_blue": 360,
+     "sand": 327,
+     "green": 268
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "yellow": 158,
+     "black": 140,
+     "light_blue": 116,
+     "sand": 103,
+     "green": 92
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "yellow": 477,
+     "black": 451,
+     "light_blue": 386,
+     "sand": 365,
+     "green": 324
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 7,
+    "yardages": {
+     "yellow": 260,
+     "black": 227,
+     "light_blue": 196,
+     "sand": 170,
+     "green": 121
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "yellow": 395,
+     "black": 359,
+     "light_blue": 324,
+     "sand": 279,
+     "green": 250
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "yellow": 201,
+     "black": 185,
+     "light_blue": 161,
+     "sand": 140,
+     "green": 114
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "yellow": 453,
+     "black": 400,
+     "light_blue": 379,
+     "sand": 349,
+     "green": 290
+    }
+   },
+   {
+    "number": 9,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "yellow": 586,
+     "black": 550,
+     "light_blue": 516,
+     "sand": 468,
+     "green": 429
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "yellow": 453,
+     "black": 433,
+     "light_blue": 411,
+     "sand": 382,
+     "green": 308
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "yellow": 186,
+     "black": 171,
+     "light_blue": 141,
+     "sand": 127,
+     "green": 105
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "yellow": 474,
+     "black": 444,
+     "light_blue": 403,
+     "sand": 372,
+     "green": 264
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "yellow": 430,
+     "black": 405,
+     "light_blue": 374,
+     "sand": 348,
+     "green": 323
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "yellow": 519,
+     "black": 473,
+     "light_blue": 443,
+     "sand": 414,
+     "green": 390
+    }
+   },
+   {
+    "number": 15,
+    "par": 5,
+    "handicap_index": 12,
+    "yardages": {
+     "yellow": 510,
+     "black": 494,
+     "light_blue": 457,
+     "sand": 415,
+     "green": 357
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 18,
+    "yardages": {
+     "yellow": 303,
+     "black": 281,
+     "light_blue": 261,
+     "sand": 246,
+     "green": 196
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "yellow": 174,
+     "black": 164,
+     "light_blue": 144,
+     "sand": 132,
+     "green": 89
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 6,
+    "yardages": {
+     "yellow": 586,
+     "black": 562,
+     "light_blue": 534,
+     "sand": 487,
+     "green": 399
+    }
+   }
+  ]
+ },
+ "361c34a8-1256-45cc-8a95-1520150b9787": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/15387-sabal-grand-at-grand-palms-golf-country-club/scorecard-and-layout.",
+  "par": 71,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "silver",
+    "tee_name": "Silver"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 540,
+     "blue": 525,
+     "white": 505,
+     "silver": 485,
+     "red": 415
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 157,
+     "blue": 142,
+     "white": 130,
+     "silver": 115,
+     "red": 105
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 355,
+     "blue": 345,
+     "white": 335,
+     "silver": 325,
+     "red": 300
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 351,
+     "blue": 340,
+     "white": 325,
+     "silver": 319,
+     "red": 309
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 395,
+     "blue": 380,
+     "white": 360,
+     "silver": 340,
+     "red": 328
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 419,
+     "blue": 348,
+     "white": 332,
+     "silver": 320,
+     "red": 300
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 140,
+     "blue": 130,
+     "white": 118,
+     "silver": 109,
+     "red": 100
+    }
+   },
+   {
+    "number": 8,
+    "par": 5,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 542,
+     "blue": 528,
+     "white": 510,
+     "silver": 495,
+     "red": 400
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 425,
+     "blue": 413,
+     "white": 403,
+     "silver": 365,
+     "red": 331
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 385,
+     "blue": 365,
+     "white": 332,
+     "silver": 315,
+     "red": 305
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 245,
+     "blue": 202,
+     "white": 170,
+     "silver": 142,
+     "red": 130
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 380,
+     "blue": 370,
+     "white": 355,
+     "silver": 347,
+     "red": 286
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 382,
+     "blue": 367,
+     "white": 355,
+     "silver": 339,
+     "red": 294
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 440,
+     "blue": 415,
+     "white": 390,
+     "silver": 365,
+     "red": 290
+    }
+   },
+   {
+    "number": 15,
+    "par": 3,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 225,
+     "blue": 209,
+     "white": 185,
+     "silver": 180,
+     "red": 172
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 351,
+     "blue": 337,
+     "white": 320,
+     "silver": 309,
+     "red": 294
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 405,
+     "blue": 389,
+     "white": 368,
+     "silver": 345,
+     "red": 325
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 545,
+     "blue": 508,
+     "white": 487,
+     "silver": 475,
+     "red": 400
+    }
+   }
+  ]
+ },
+ "371b5af6-c583-4ed0-8e7a-8b36ed83fc35": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/15481-the-preserve-at-ironhorse/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "black_blue",
+    "tee_name": "Black/Blue"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "blue_white",
+    "tee_name": "Blue/White"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "yellow",
+    "tee_name": "Yellow"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "green_orange",
+    "tee_name": "Green/Orange"
+   },
+   {
+    "tee_key": "orange",
+    "tee_name": "Orange"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 404,
+     "black_blue": 404,
+     "blue": 360,
+     "blue_white": 360,
+     "white": 330,
+     "yellow": 325,
+     "green": 288,
+     "green_orange": 288,
+     "orange": 238
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 374,
+     "black_blue": 374,
+     "blue": 336,
+     "blue_white": 336,
+     "white": 317,
+     "yellow": 330,
+     "green": 255,
+     "green_orange": 226,
+     "orange": 226
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 179,
+     "black_blue": 179,
+     "blue": 167,
+     "blue_white": 167,
+     "white": 147,
+     "yellow": 140,
+     "green": 126,
+     "green_orange": 126,
+     "orange": 119
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 430,
+     "black_blue": 430,
+     "blue": 409,
+     "blue_white": 373,
+     "white": 373,
+     "yellow": 352,
+     "green": 345,
+     "green_orange": 345,
+     "orange": 292
+    }
+   },
+   {
+    "number": 5,
+    "par": 5,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 554,
+     "black_blue": 554,
+     "blue": 518,
+     "blue_white": 518,
+     "white": 481,
+     "yellow": 475,
+     "green": 441,
+     "green_orange": 431,
+     "orange": 431
+    }
+   },
+   {
+    "number": 6,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 585,
+     "black_blue": 585,
+     "blue": 547,
+     "blue_white": 530,
+     "white": 530,
+     "yellow": 455,
+     "green": 458,
+     "green_orange": 458,
+     "orange": 405
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 219,
+     "black_blue": 159,
+     "blue": 159,
+     "blue_white": 159,
+     "white": 124,
+     "yellow": 117,
+     "green": 106,
+     "green_orange": 106,
+     "orange": 75
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 392,
+     "black_blue": 392,
+     "blue": 376,
+     "blue_white": 376,
+     "white": 363,
+     "yellow": 302,
+     "green": 284,
+     "green_orange": 284,
+     "orange": 213
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 470,
+     "black_blue": 470,
+     "blue": 454,
+     "blue_white": 377,
+     "white": 377,
+     "yellow": 365,
+     "green": 282,
+     "green_orange": 220,
+     "orange": 220
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 432,
+     "black_blue": 410,
+     "blue": 410,
+     "blue_white": 379,
+     "white": 379,
+     "yellow": 358,
+     "green": 362,
+     "green_orange": 329,
+     "orange": 329
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 189,
+     "black_blue": 165,
+     "blue": 165,
+     "blue_white": 165,
+     "white": 146,
+     "yellow": 145,
+     "green": 98,
+     "green_orange": 98,
+     "orange": 67
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 402,
+     "black_blue": 402,
+     "blue": 385,
+     "blue_white": 355,
+     "white": 355,
+     "yellow": 295,
+     "green": 288,
+     "green_orange": 253,
+     "orange": 253
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 217,
+     "black_blue": 217,
+     "blue": 195,
+     "blue_white": 184,
+     "white": 184,
+     "yellow": 165,
+     "green": 168,
+     "green_orange": 142,
+     "orange": 142
+    }
+   },
+   {
+    "number": 14,
+    "par": 5,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 540,
+     "black_blue": 540,
+     "blue": 497,
+     "blue_white": 497,
+     "white": 476,
+     "yellow": 449,
+     "green": 447,
+     "green_orange": 418,
+     "orange": 418
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 492,
+     "black_blue": 404,
+     "blue": 404,
+     "blue_white": 342,
+     "white": 342,
+     "yellow": 314,
+     "green": 280,
+     "green_orange": 280,
+     "orange": 257
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 370,
+     "black_blue": 370,
+     "blue": 347,
+     "blue_white": 347,
+     "white": 324,
+     "yellow": 320,
+     "green": 272,
+     "green_orange": 272,
+     "orange": 235
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 467,
+     "black_blue": 408,
+     "blue": 408,
+     "blue_white": 383,
+     "white": 383,
+     "yellow": 327,
+     "green": 324,
+     "green_orange": 324,
+     "orange": 312
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 532,
+     "black_blue": 532,
+     "blue": 497,
+     "blue_white": 497,
+     "white": 482,
+     "yellow": 452,
+     "green": 429,
+     "green_orange": 373,
+     "orange": 373
+    }
+   }
+  ]
+ },
+ "39f3fc4a-da0c-4f0a-a1c9-e341230abb50": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2418-flamingo-lakes-country-club/scorecard-and-layout.",
+  "par": 71,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "blue": 361,
+     "white": 337,
+     "gold": 268,
+     "red": 256
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "blue": 368,
+     "white": 353,
+     "gold": 301,
+     "red": 246
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "blue": 291,
+     "white": 252,
+     "gold": 243,
+     "red": 218
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "blue": 345,
+     "white": 331,
+     "gold": 303,
+     "red": 271
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "blue": 340,
+     "white": 331,
+     "gold": 307,
+     "red": 239
+    }
+   },
+   {
+    "number": 6,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "blue": 535,
+     "white": 520,
+     "gold": 496,
+     "red": 435
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "blue": 113,
+     "white": 104,
+     "gold": 95,
+     "red": 87
+    }
+   },
+   {
+    "number": 8,
+    "par": 5,
+    "handicap_index": 3,
+    "yardages": {
+     "blue": 533,
+     "white": 521,
+     "gold": 471,
+     "red": 462
+    }
+   },
+   {
+    "number": 9,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "blue": 170,
+     "white": 144,
+     "gold": 133,
+     "red": 103
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "blue": 470,
+     "white": 456,
+     "gold": 438,
+     "red": 420
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "blue": 387,
+     "white": 373,
+     "gold": 335,
+     "red": 323
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "blue": 153,
+     "white": 126,
+     "gold": 98,
+     "red": 92
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "blue": 334,
+     "white": 319,
+     "gold": 277,
+     "red": 271
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "blue": 143,
+     "white": 139,
+     "gold": 120,
+     "red": 93
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "blue": 348,
+     "white": 333,
+     "gold": 323,
+     "red": 264
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "blue": 143,
+     "white": 134,
+     "gold": 125,
+     "red": 95
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "blue": 336,
+     "white": 293,
+     "gold": 257,
+     "red": 210
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 6,
+    "yardages": {
+     "blue": 476,
+     "white": 467,
+     "gold": 448,
+     "red": 390
+    }
+   }
+  ]
+ },
+ "52fe36e5-ece5-485b-9473-b12cb4884c9c": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/travel-advisor/courses/1998-kings-point-executive-course/scorecard-and-layout.",
+  "par": 60,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "golf",
+    "tee_name": "Golf"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "silver",
+    "tee_name": "Silver"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 3,
+    "handicap_index": 9,
+    "yardages": {
+     "golf": 185,
+     "blue": 177,
+     "white": 162,
+     "silver": 124,
+     "red": 119
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 5,
+    "yardages": {
+     "golf": 177,
+     "blue": 185,
+     "white": 157,
+     "silver": 137,
+     "red": 132
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "golf": 122,
+     "blue": 115,
+     "white": 98,
+     "silver": 93,
+     "red": 87
+    }
+   },
+   {
+    "number": 4,
+    "par": 3,
+    "handicap_index": 7,
+    "yardages": {
+     "golf": 194,
+     "blue": 184,
+     "white": 163,
+     "silver": 119,
+     "red": 112
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "golf": 388,
+     "blue": 369,
+     "white": 336,
+     "silver": 264,
+     "red": 258
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "golf": 114,
+     "blue": 109,
+     "white": 103,
+     "silver": 94,
+     "red": 86
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 11,
+    "yardages": {
+     "golf": 129,
+     "blue": 124,
+     "white": 114,
+     "silver": 104,
+     "red": 96
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "golf": 341,
+     "blue": 322,
+     "white": 287,
+     "silver": 285,
+     "red": 280
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "golf": 254,
+     "blue": 247,
+     "white": 234,
+     "silver": 179,
+     "red": 174
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "golf": 298,
+     "blue": 279,
+     "white": 249,
+     "silver": 238,
+     "red": 233
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 10,
+    "yardages": {
+     "golf": 157,
+     "blue": 154,
+     "white": 151,
+     "silver": 68,
+     "red": 63
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 8,
+    "yardages": {
+     "golf": 179,
+     "blue": 168,
+     "white": 146,
+     "silver": 142,
+     "red": 137
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 12,
+    "yardages": {
+     "golf": 181,
+     "blue": 144,
+     "white": 127,
+     "silver": 122,
+     "red": 117
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "golf": 348,
+     "blue": 322,
+     "white": 310,
+     "silver": 299,
+     "red": 293
+    }
+   },
+   {
+    "number": 15,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "golf": 151,
+     "blue": 143,
+     "white": 133,
+     "silver": 116,
+     "red": 111
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "golf": 122,
+     "blue": 115,
+     "white": 104,
+     "silver": 88,
+     "red": 81
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "golf": 331,
+     "blue": 309,
+     "white": 267,
+     "silver": 201,
+     "red": 197
+    }
+   },
+   {
+    "number": 18,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "golf": 123,
+     "blue": 112,
+     "white": 102,
+     "silver": 79,
+     "red": 74
+    }
+   }
+  ]
+ },
+ "5f81e7d8-8790-4d89-9785-2f0d748b9715": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/15243-grand-royal-at-grand-palms-golf-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "silver",
+    "tee_name": "Silver"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 385,
+     "blue": 365,
+     "white": 332,
+     "silver": 315,
+     "red": 305
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 245,
+     "blue": 202,
+     "white": 170,
+     "silver": 142,
+     "red": 130
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 380,
+     "blue": 370,
+     "white": 355,
+     "silver": 347,
+     "red": 286
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 382,
+     "blue": 367,
+     "white": 355,
+     "silver": 339,
+     "red": 294
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 440,
+     "blue": 415,
+     "white": 390,
+     "silver": 365,
+     "red": 290
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 225,
+     "blue": 209,
+     "white": 185,
+     "silver": 180,
+     "red": 172
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 351,
+     "blue": 337,
+     "white": 320,
+     "silver": 309,
+     "red": 294
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 405,
+     "blue": 389,
+     "white": 368,
+     "silver": 345,
+     "red": 325
+    }
+   },
+   {
+    "number": 9,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 545,
+     "blue": 508,
+     "white": 487,
+     "silver": 475,
+     "red": 400
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 512,
+     "blue": 498,
+     "white": 482,
+     "silver": 469,
+     "red": 410
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 370,
+     "blue": 352,
+     "white": 339,
+     "silver": 329,
+     "red": 250
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 375,
+     "blue": 362,
+     "white": 347,
+     "silver": 335,
+     "red": 317
+    }
+   },
+   {
+    "number": 13,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 525,
+     "blue": 500,
+     "white": 475,
+     "silver": 461,
+     "red": 405
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 408,
+     "blue": 341,
+     "white": 335,
+     "silver": 318,
+     "red": 309
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 411,
+     "blue": 398,
+     "white": 378,
+     "silver": 361,
+     "red": 345
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 188,
+     "blue": 163,
+     "white": 150,
+     "silver": 142,
+     "red": 136
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 197,
+     "blue": 181,
+     "white": 165,
+     "silver": 151,
+     "red": 140
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 537,
+     "blue": 520,
+     "white": 495,
+     "silver": 475,
+     "red": 420
+    }
+   }
+  ]
+ },
+ "6252a4b9-d0ad-49d1-8956-eb34dd31e68d": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2415-royal-sabal-at-grand-palms-golf-country-club/scorecard-and-layout.",
+  "par": 73,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "silver",
+    "tee_name": "Silver"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 512,
+     "blue": 498,
+     "white": 482,
+     "silver": 469,
+     "red": 410
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 370,
+     "blue": 352,
+     "white": 339,
+     "silver": 329,
+     "red": 250
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 375,
+     "blue": 362,
+     "white": 347,
+     "silver": 335,
+     "red": 317
+    }
+   },
+   {
+    "number": 4,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 525,
+     "blue": 500,
+     "white": 475,
+     "silver": 461,
+     "red": 405
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 408,
+     "blue": 341,
+     "white": 335,
+     "silver": 318,
+     "red": 309
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 411,
+     "blue": 398,
+     "white": 378,
+     "silver": 361,
+     "red": 345
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 188,
+     "blue": 163,
+     "white": 150,
+     "silver": 142,
+     "red": 136
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 197,
+     "blue": 181,
+     "white": 165,
+     "silver": 151,
+     "red": 140
+    }
+   },
+   {
+    "number": 9,
+    "par": 5,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 537,
+     "blue": 520,
+     "white": 495,
+     "silver": 475,
+     "red": 420
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 540,
+     "blue": 525,
+     "white": 505,
+     "silver": 485,
+     "red": 415
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 157,
+     "blue": 142,
+     "white": 130,
+     "silver": 115,
+     "red": 105
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 355,
+     "blue": 345,
+     "white": 335,
+     "silver": 325,
+     "red": 300
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 351,
+     "blue": 340,
+     "white": 325,
+     "silver": 319,
+     "red": 309
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 395,
+     "blue": 380,
+     "white": 360,
+     "silver": 340,
+     "red": 328
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 419,
+     "blue": 348,
+     "white": 332,
+     "silver": 320,
+     "red": 300
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 140,
+     "blue": 130,
+     "white": 118,
+     "silver": 109,
+     "red": 100
+    }
+   },
+   {
+    "number": 17,
+    "par": 5,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 542,
+     "blue": 528,
+     "white": 510,
+     "silver": 495,
+     "red": 400
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 425,
+     "blue": 413,
+     "white": 403,
+     "silver": 365,
+     "red": 331
+    }
+   }
+  ]
+ },
+ "6995156d-09c3-4d05-bad7-637b246e7735": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfingrecord.com/golf-scorecard/6df175e3-7ee7-404d-8c87-43c1b1611fae.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 442,
+     "blue": 413,
+     "white": 395,
+     "green": 339,
+     "red": 321
+    }
+   },
+   {
+    "number": 2,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 567,
+     "blue": 542,
+     "white": 533,
+     "green": 487,
+     "red": 453
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 379,
+     "blue": 358,
+     "white": 344,
+     "green": 333,
+     "red": 296
+    }
+   },
+   {
+    "number": 4,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 200,
+     "blue": 183,
+     "white": 172,
+     "green": 154,
+     "red": 127
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 376,
+     "blue": 353,
+     "white": 339,
+     "green": 315,
+     "red": 272
+    }
+   },
+   {
+    "number": 6,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 536,
+     "blue": 494,
+     "white": 473,
+     "green": 438,
+     "red": 401
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 372,
+     "blue": 362,
+     "white": 342,
+     "green": 320,
+     "red": 289
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 198,
+     "blue": 174,
+     "white": 165,
+     "green": 147,
+     "red": 125
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 401,
+     "blue": 401,
+     "white": 376,
+     "green": 357,
+     "red": 340
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 417,
+     "blue": 398,
+     "white": 377,
+     "green": 347,
+     "red": 327
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 176,
+     "blue": 153,
+     "white": 133,
+     "green": 112,
+     "red": 93
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 447,
+     "blue": 436,
+     "white": 416,
+     "green": 391,
+     "red": 344
+    }
+   },
+   {
+    "number": 13,
+    "par": 5,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 526,
+     "blue": 506,
+     "white": 497,
+     "green": 460,
+     "red": 418
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 187,
+     "blue": 187,
+     "white": 155,
+     "green": 134,
+     "red": 114
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 399,
+     "blue": 361,
+     "white": 351,
+     "green": 332,
+     "red": 309
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 449,
+     "blue": 432,
+     "white": 415,
+     "green": 363,
+     "red": 325
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 348,
+     "blue": 331,
+     "white": 319,
+     "green": 295,
+     "red": 248
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 518,
+     "blue": 504,
+     "white": 485,
+     "green": 450,
+     "red": 432
+    }
+   }
+  ]
+ },
+ "6d3cf9a8-7895-4532-8456-b99eed3fc047": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1997-seagate-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "black_gold",
+    "tee_name": "Black/Gold"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "gold_blue",
+    "tee_name": "Gold/Blue"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "blue_green",
+    "tee_name": "Blue/Green"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "green_white",
+    "tee_name": "Green/White"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "white_red",
+    "tee_name": "White/Red"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 441,
+     "black_gold": 418,
+     "gold": 418,
+     "gold_blue": 418,
+     "blue": 408,
+     "blue_green": 378,
+     "green": 378,
+     "green_white": 378,
+     "white": 353,
+     "white_red": 309,
+     "red": 309
+    }
+   },
+   {
+    "number": 2,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 492,
+     "black_gold": 492,
+     "gold": 466,
+     "gold_blue": 466,
+     "blue": 454,
+     "blue_green": 454,
+     "green": 425,
+     "green_white": 425,
+     "white": 412,
+     "white_red": 412,
+     "red": 397
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 193,
+     "black_gold": 168,
+     "gold": 168,
+     "gold_blue": 157,
+     "blue": 157,
+     "blue_green": 141,
+     "green": 141,
+     "green_white": 128,
+     "white": 128,
+     "white_red": 108,
+     "red": 108
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 397,
+     "black_gold": 397,
+     "gold": 372,
+     "gold_blue": 372,
+     "blue": 362,
+     "blue_green": 362,
+     "green": 352,
+     "green_white": 352,
+     "white": 322,
+     "white_red": 322,
+     "red": 295
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 367,
+     "black_gold": 367,
+     "gold": 351,
+     "gold_blue": 351,
+     "blue": 313,
+     "blue_green": 313,
+     "green": 302,
+     "green_white": 302,
+     "white": 276,
+     "white_red": 276,
+     "red": 262
+    }
+   },
+   {
+    "number": 6,
+    "par": 5,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 501,
+     "black_gold": 501,
+     "gold": 482,
+     "gold_blue": 482,
+     "blue": 471,
+     "blue_green": 471,
+     "green": 451,
+     "green_white": 451,
+     "white": 439,
+     "white_red": 439,
+     "red": 410
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 413,
+     "black_gold": 401,
+     "gold": 401,
+     "gold_blue": 393,
+     "blue": 393,
+     "blue_green": 357,
+     "green": 357,
+     "green_white": 350,
+     "white": 350,
+     "white_red": 282,
+     "red": 282
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 138,
+     "black_gold": 138,
+     "gold": 123,
+     "gold_blue": 123,
+     "blue": 116,
+     "blue_green": 116,
+     "green": 109,
+     "green_white": 109,
+     "white": 93,
+     "white_red": 93,
+     "red": 78
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 412,
+     "black_gold": 412,
+     "gold": 391,
+     "gold_blue": 376,
+     "blue": 376,
+     "blue_green": 349,
+     "green": 349,
+     "green_white": 339,
+     "white": 339,
+     "white_red": 339,
+     "red": 325
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 494,
+     "black_gold": 494,
+     "gold": 473,
+     "gold_blue": 473,
+     "blue": 460,
+     "blue_green": 460,
+     "green": 447,
+     "green_white": 434,
+     "white": 434,
+     "white_red": 434,
+     "red": 397
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 398,
+     "black_gold": 371,
+     "gold": 371,
+     "gold_blue": 371,
+     "blue": 360,
+     "blue_green": 349,
+     "green": 349,
+     "green_white": 338,
+     "white": 338,
+     "white_red": 303,
+     "red": 303
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 194,
+     "black_gold": 157,
+     "gold": 157,
+     "gold_blue": 146,
+     "blue": 146,
+     "blue_green": 135,
+     "green": 135,
+     "green_white": 135,
+     "white": 124,
+     "white_red": 109,
+     "red": 109
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 363,
+     "black_gold": 363,
+     "gold": 344,
+     "gold_blue": 344,
+     "blue": 331,
+     "blue_green": 331,
+     "green": 318,
+     "green_white": 318,
+     "white": 291,
+     "white_red": 291,
+     "red": 261
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 434,
+     "black_gold": 420,
+     "gold": 420,
+     "gold_blue": 388,
+     "blue": 388,
+     "blue_green": 388,
+     "green": 373,
+     "green_white": 373,
+     "white": 358,
+     "white_red": 316,
+     "red": 316
+    }
+   },
+   {
+    "number": 15,
+    "par": 3,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 197,
+     "black_gold": 189,
+     "gold": 189,
+     "gold_blue": 176,
+     "blue": 176,
+     "blue_green": 144,
+     "green": 144,
+     "green_white": 144,
+     "white": 127,
+     "white_red": 127,
+     "red": 103
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 396,
+     "black_gold": 396,
+     "gold": 373,
+     "gold_blue": 363,
+     "blue": 363,
+     "blue_green": 354,
+     "green": 354,
+     "green_white": 323,
+     "white": 323,
+     "white_red": 299,
+     "red": 299
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 385,
+     "black_gold": 385,
+     "gold": 369,
+     "gold_blue": 369,
+     "blue": 360,
+     "blue_green": 360,
+     "green": 338,
+     "green_white": 338,
+     "white": 320,
+     "white_red": 320,
+     "red": 287
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 532,
+     "black_gold": 518,
+     "gold": 518,
+     "gold_blue": 493,
+     "blue": 493,
+     "blue_green": 482,
+     "green": 482,
+     "green_white": 454,
+     "white": 454,
+     "white_red": 427,
+     "red": 427
+    }
+   }
+  ]
+ },
+ "6d69e238-3eb1-4c9e-a3de-ec34583ffde6": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1927-aberdeen-golf-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "championship",
+    "tee_name": "Championship"
+   },
+   {
+    "tee_key": "championship_i",
+    "tee_name": "Championship/I"
+   },
+   {
+    "tee_key": "tee_i",
+    "tee_name": "Tee I"
+   },
+   {
+    "tee_key": "tee_i_ii",
+    "tee_name": "Tee I/II"
+   },
+   {
+    "tee_key": "tee_ii",
+    "tee_name": "Tee II"
+   },
+   {
+    "tee_key": "tee_ii_iii",
+    "tee_name": "Tee II/III"
+   },
+   {
+    "tee_key": "tee_iii",
+    "tee_name": "Tee III"
+   },
+   {
+    "tee_key": "tee_iii_iv",
+    "tee_name": "Tee III/IV"
+   },
+   {
+    "tee_key": "tee_iv",
+    "tee_name": "Tee IV"
+   },
+   {
+    "tee_key": "tee_iv_v",
+    "tee_name": "Tee IV/V"
+   },
+   {
+    "tee_key": "tee_v",
+    "tee_name": "Tee V"
+   },
+   {
+    "tee_key": "tee_v_vi",
+    "tee_name": "Tee V/VI"
+   },
+   {
+    "tee_key": "tee_vi",
+    "tee_name": "Tee VI"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "championship": 391,
+     "championship_i": 391,
+     "tee_i": 374,
+     "tee_i_ii": 339,
+     "tee_ii": 339,
+     "tee_ii_iii": 339,
+     "tee_iii": 334,
+     "tee_iii_iv": 334,
+     "tee_iv": 279,
+     "tee_iv_v": 279,
+     "tee_v": 275,
+     "tee_v_vi": 275,
+     "tee_vi": 214
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "championship": 399,
+     "championship_i": 377,
+     "tee_i": 377,
+     "tee_i_ii": 377,
+     "tee_ii": 343,
+     "tee_ii_iii": 309,
+     "tee_iii": 309,
+     "tee_iii_iv": 286,
+     "tee_iv": 286,
+     "tee_iv_v": 286,
+     "tee_v": 216,
+     "tee_v_vi": 216,
+     "tee_vi": 211
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "championship": 175,
+     "championship_i": 170,
+     "tee_i": 170,
+     "tee_i_ii": 148,
+     "tee_ii": 148,
+     "tee_ii_iii": 148,
+     "tee_iii": 142,
+     "tee_iii_iv": 142,
+     "tee_iv": 121,
+     "tee_iv_v": 121,
+     "tee_v": 116,
+     "tee_v_vi": 116,
+     "tee_vi": 111
+    }
+   },
+   {
+    "number": 4,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "championship": 604,
+     "championship_i": 574,
+     "tee_i": 574,
+     "tee_i_ii": 537,
+     "tee_ii": 537,
+     "tee_ii_iii": 490,
+     "tee_iii": 490,
+     "tee_iii_iv": 490,
+     "tee_iv": 483,
+     "tee_iv_v": 422,
+     "tee_v": 422,
+     "tee_v_vi": 357,
+     "tee_vi": 357
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "championship": 470,
+     "championship_i": 422,
+     "tee_i": 422,
+     "tee_i_ii": 376,
+     "tee_ii": 376,
+     "tee_ii_iii": 376,
+     "tee_iii": 343,
+     "tee_iii_iv": 323,
+     "tee_iv": 323,
+     "tee_iv_v": 323,
+     "tee_v": 319,
+     "tee_v_vi": 250,
+     "tee_vi": 250
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "championship": 406,
+     "championship_i": 406,
+     "tee_i": 375,
+     "tee_i_ii": 375,
+     "tee_ii": 352,
+     "tee_ii_iii": 352,
+     "tee_iii": 347,
+     "tee_iii_iv": 293,
+     "tee_iv": 293,
+     "tee_iv_v": 278,
+     "tee_v": 278,
+     "tee_v_vi": 278,
+     "tee_vi": 218
+    }
+   },
+   {
+    "number": 7,
+    "par": 5,
+    "handicap_index": 9,
+    "yardages": {
+     "championship": 491,
+     "championship_i": 491,
+     "tee_i": 474,
+     "tee_i_ii": 474,
+     "tee_ii": 449,
+     "tee_ii_iii": 449,
+     "tee_iii": 419,
+     "tee_iii_iv": 419,
+     "tee_iv": 393,
+     "tee_iv_v": 334,
+     "tee_v": 334,
+     "tee_v_vi": 334,
+     "tee_vi": 329
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "championship": 184,
+     "championship_i": 164,
+     "tee_i": 164,
+     "tee_i_ii": 164,
+     "tee_ii": 154,
+     "tee_ii_iii": 127,
+     "tee_iii": 127,
+     "tee_iii_iv": 127,
+     "tee_iv": 104,
+     "tee_iv_v": 104,
+     "tee_v": 85,
+     "tee_v_vi": 85,
+     "tee_vi": 80
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "championship": 402,
+     "championship_i": 354,
+     "tee_i": 354,
+     "tee_i_ii": 354,
+     "tee_ii": 348,
+     "tee_ii_iii": 286,
+     "tee_iii": 286,
+     "tee_iii_iv": 286,
+     "tee_iv": 278,
+     "tee_iv_v": 278,
+     "tee_v": 225,
+     "tee_v_vi": 225,
+     "tee_vi": 194
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "championship": 392,
+     "championship_i": 392,
+     "tee_i": 374,
+     "tee_i_ii": 374,
+     "tee_ii": 360,
+     "tee_ii_iii": 360,
+     "tee_iii": 340,
+     "tee_iii_iv": 303,
+     "tee_iv": 303,
+     "tee_iv_v": 303,
+     "tee_v": 298,
+     "tee_v_vi": 298,
+     "tee_vi": 188
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "championship": 386,
+     "championship_i": 386,
+     "tee_i": 364,
+     "tee_i_ii": 328,
+     "tee_ii": 328,
+     "tee_ii_iii": 328,
+     "tee_iii": 321,
+     "tee_iii_iv": 321,
+     "tee_iv": 248,
+     "tee_iv_v": 248,
+     "tee_v": 241,
+     "tee_v_vi": 191,
+     "tee_vi": 191
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "championship": 451,
+     "championship_i": 425,
+     "tee_i": 425,
+     "tee_i_ii": 425,
+     "tee_ii": 350,
+     "tee_ii_iii": 350,
+     "tee_iii": 342,
+     "tee_iii_iv": 342,
+     "tee_iv": 258,
+     "tee_iv_v": 258,
+     "tee_v": 252,
+     "tee_v_vi": 169,
+     "tee_vi": 169
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "championship": 187,
+     "championship_i": 178,
+     "tee_i": 178,
+     "tee_i_ii": 178,
+     "tee_ii": 162,
+     "tee_ii_iii": 162,
+     "tee_iii": 132,
+     "tee_iii_iv": 132,
+     "tee_iv": 126,
+     "tee_iv_v": 126,
+     "tee_v": 121,
+     "tee_v_vi": 113,
+     "tee_vi": 113
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "championship": 451,
+     "championship_i": 375,
+     "tee_i": 375,
+     "tee_i_ii": 344,
+     "tee_ii": 344,
+     "tee_ii_iii": 344,
+     "tee_iii": 339,
+     "tee_iii_iv": 272,
+     "tee_iv": 272,
+     "tee_iv_v": 267,
+     "tee_v": 267,
+     "tee_v_vi": 234,
+     "tee_vi": 234
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "championship": 411,
+     "championship_i": 371,
+     "tee_i": 371,
+     "tee_i_ii": 342,
+     "tee_ii": 342,
+     "tee_ii_iii": 342,
+     "tee_iii": 319,
+     "tee_iii_iv": 293,
+     "tee_iv": 293,
+     "tee_iv_v": 288,
+     "tee_v": 288,
+     "tee_v_vi": 288,
+     "tee_vi": 226
+    }
+   },
+   {
+    "number": 16,
+    "par": 5,
+    "handicap_index": 14,
+    "yardages": {
+     "championship": 542,
+     "championship_i": 542,
+     "tee_i": 510,
+     "tee_i_ii": 510,
+     "tee_ii": 450,
+     "tee_ii_iii": 450,
+     "tee_iii": 439,
+     "tee_iii_iv": 439,
+     "tee_iv": 430,
+     "tee_iv_v": 430,
+     "tee_v": 345,
+     "tee_v_vi": 345,
+     "tee_vi": 340
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "championship": 162,
+     "championship_i": 133,
+     "tee_i": 133,
+     "tee_i_ii": 133,
+     "tee_ii": 129,
+     "tee_ii_iii": 129,
+     "tee_iii": 109,
+     "tee_iii_iv": 109,
+     "tee_iv": 96,
+     "tee_iv_v": 96,
+     "tee_v": 93,
+     "tee_v_vi": 93,
+     "tee_vi": 73
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "championship": 567,
+     "championship_i": 567,
+     "tee_i": 521,
+     "tee_i_ii": 521,
+     "tee_ii": 501,
+     "tee_ii_iii": 474,
+     "tee_iii": 474,
+     "tee_iii_iv": 434,
+     "tee_iv": 434,
+     "tee_iv_v": 356,
+     "tee_v": 356,
+     "tee_v_vi": 356,
+     "tee_vi": 351
+    }
+   }
+  ]
+ },
+ "748456de-0fec-4f08-b1eb-07c4d56efcac": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2651-mayacoo-lakes-country-club/scorecard-and-layout.",
+  "par": 71,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "orange",
+    "tee_name": "Orange"
+   },
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   },
+   {
+    "tee_key": "platinum",
+    "tee_name": "Platinum"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 399,
+     "orange": 366,
+     "black": 366,
+     "white": 352,
+     "green": 336,
+     "red": 306,
+     "platinum": 306
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 421,
+     "orange": 400,
+     "black": 354,
+     "white": 361,
+     "green": 306,
+     "red": 302,
+     "platinum": 232
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 207,
+     "orange": 179,
+     "black": 166,
+     "white": 165,
+     "green": 126,
+     "red": 117,
+     "platinum": 117
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 444,
+     "orange": 408,
+     "black": 382,
+     "white": 382,
+     "green": 373,
+     "red": 341,
+     "platinum": 296
+    }
+   },
+   {
+    "number": 5,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 524,
+     "orange": 511,
+     "black": 511,
+     "white": 486,
+     "green": 457,
+     "red": 432,
+     "platinum": 361
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 372,
+     "orange": 368,
+     "black": 360,
+     "white": 336,
+     "green": 315,
+     "red": 275,
+     "platinum": 275
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 180,
+     "orange": 158,
+     "black": 158,
+     "white": 141,
+     "green": 124,
+     "red": 113,
+     "platinum": 113
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 389,
+     "orange": 369,
+     "black": 369,
+     "white": 348,
+     "green": 328,
+     "red": 319,
+     "platinum": 246
+    }
+   },
+   {
+    "number": 9,
+    "par": 5,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 537,
+     "orange": 503,
+     "black": 463,
+     "white": 463,
+     "green": 457,
+     "red": 400,
+     "platinum": 334
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 403,
+     "orange": 397,
+     "black": 397,
+     "white": 354,
+     "green": 325,
+     "red": 292,
+     "platinum": 221
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 402,
+     "orange": 369,
+     "black": 344,
+     "white": 338,
+     "green": 290,
+     "red": 254,
+     "platinum": 254
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 402,
+     "orange": 387,
+     "black": 373,
+     "white": 326,
+     "green": 294,
+     "red": 268,
+     "platinum": 268
+    }
+   },
+   {
+    "number": 13,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 542,
+     "orange": 534,
+     "black": 493,
+     "white": 493,
+     "green": 466,
+     "red": 418,
+     "platinum": 345
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 197,
+     "orange": 166,
+     "black": 153,
+     "white": 137,
+     "green": 128,
+     "red": 77,
+     "platinum": 77
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 465,
+     "orange": 435,
+     "black": 408,
+     "white": 408,
+     "green": 389,
+     "red": 339,
+     "platinum": 261
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 393,
+     "orange": 343,
+     "black": 328,
+     "white": 294,
+     "green": 279,
+     "red": 242,
+     "platinum": 242
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 172,
+     "orange": 164,
+     "black": 153,
+     "white": 134,
+     "green": 112,
+     "red": 107,
+     "platinum": 107
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 445,
+     "orange": 403,
+     "black": 375,
+     "white": 366,
+     "green": 358,
+     "red": 343,
+     "platinum": 286
+    }
+   }
+  ]
+ },
+ "757ef99f-e5bc-4397-a743-39c5f772ff09": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/travel-advisor/courses/1973-eagle-trace-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "blue_white",
+    "tee_name": "Blue/White"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 398,
+     "blue": 351,
+     "blue_white": 351,
+     "white": 341,
+     "green": 331,
+     "red": 296
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 434,
+     "blue": 408,
+     "blue_white": 380,
+     "white": 380,
+     "green": 355,
+     "red": 311
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 192,
+     "blue": 171,
+     "blue_white": 150,
+     "white": 150,
+     "green": 126,
+     "red": 98
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 371,
+     "blue": 340,
+     "blue_white": 340,
+     "white": 322,
+     "green": 300,
+     "red": 254
+    }
+   },
+   {
+    "number": 5,
+    "par": 5,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 517,
+     "blue": 484,
+     "blue_white": 453,
+     "white": 453,
+     "green": 394,
+     "red": 329
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 369,
+     "blue": 340,
+     "blue_white": 340,
+     "white": 327,
+     "green": 313,
+     "red": 241
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 197,
+     "blue": 172,
+     "blue_white": 157,
+     "white": 157,
+     "green": 129,
+     "red": 113
+    }
+   },
+   {
+    "number": 8,
+    "par": 5,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 542,
+     "blue": 515,
+     "blue_white": 515,
+     "white": 474,
+     "green": 465,
+     "red": 424
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 459,
+     "blue": 443,
+     "blue_white": 419,
+     "white": 419,
+     "green": 367,
+     "red": 319
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 525,
+     "blue": 500,
+     "blue_white": 473,
+     "white": 473,
+     "green": 458,
+     "red": 387
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 213,
+     "blue": 188,
+     "blue_white": 162,
+     "white": 162,
+     "green": 135,
+     "red": 95
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 388,
+     "blue": 351,
+     "blue_white": 351,
+     "white": 341,
+     "green": 294,
+     "red": 253
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 450,
+     "blue": 437,
+     "blue_white": 437,
+     "white": 404,
+     "green": 337,
+     "red": 311
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 377,
+     "blue": 358,
+     "blue_white": 334,
+     "white": 334,
+     "green": 324,
+     "red": 297
+    }
+   },
+   {
+    "number": 15,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 543,
+     "blue": 528,
+     "blue_white": 528,
+     "white": 509,
+     "green": 467,
+     "red": 420
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 404,
+     "blue": 388,
+     "blue_white": 374,
+     "white": 374,
+     "green": 328,
+     "red": 285
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 181,
+     "blue": 169,
+     "blue_white": 169,
+     "white": 144,
+     "green": 125,
+     "red": 105
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 472,
+     "blue": 448,
+     "blue_white": 421,
+     "white": 421,
+     "green": 372,
+     "red": 335
+    }
+   }
+  ]
+ },
+ "7a2cbab5-5683-450b-a9b0-847f29434488": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1882-boca-pointe-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "copper",
+    "tee_name": "Copper"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 365,
+     "blue": 359,
+     "white": 319,
+     "green": 319,
+     "gold": 289,
+     "copper": 270
+    }
+   },
+   {
+    "number": 2,
+    "par": 5,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 524,
+     "blue": 488,
+     "white": 480,
+     "green": 416,
+     "gold": 416,
+     "copper": 409
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 380,
+     "blue": 347,
+     "white": 336,
+     "green": 336,
+     "gold": 308,
+     "copper": 287
+    }
+   },
+   {
+    "number": 4,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 179,
+     "blue": 173,
+     "white": 159,
+     "green": 159,
+     "gold": 144,
+     "copper": 117
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 395,
+     "blue": 389,
+     "white": 378,
+     "green": 303,
+     "gold": 303,
+     "copper": 289
+    }
+   },
+   {
+    "number": 6,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 585,
+     "blue": 549,
+     "white": 534,
+     "green": 503,
+     "gold": 503,
+     "copper": 445
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 397,
+     "blue": 365,
+     "white": 357,
+     "green": 331,
+     "gold": 331,
+     "copper": 304
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 217,
+     "blue": 194,
+     "white": 180,
+     "green": 154,
+     "gold": 154,
+     "copper": 118
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 462,
+     "blue": 409,
+     "white": 399,
+     "green": 346,
+     "gold": 346,
+     "copper": 295
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 379,
+     "blue": 373,
+     "white": 361,
+     "green": 361,
+     "gold": 345,
+     "copper": 321
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 366,
+     "blue": 359,
+     "white": 334,
+     "green": 334,
+     "gold": 306,
+     "copper": 281
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 388,
+     "blue": 352,
+     "white": 342,
+     "green": 342,
+     "gold": 322,
+     "copper": 295
+    }
+   },
+   {
+    "number": 13,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 534,
+     "blue": 500,
+     "white": 492,
+     "green": 473,
+     "gold": 473,
+     "copper": 464
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 207,
+     "blue": 180,
+     "white": 173,
+     "green": 173,
+     "gold": 143,
+     "copper": 137
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 404,
+     "blue": 383,
+     "white": 376,
+     "green": 345,
+     "gold": 345,
+     "copper": 314
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 374,
+     "blue": 370,
+     "white": 346,
+     "green": 346,
+     "gold": 320,
+     "copper": 296
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 192,
+     "blue": 188,
+     "white": 171,
+     "green": 143,
+     "gold": 135,
+     "copper": 108
+    }
+   },
+   {
+    "number": 18,
+    "par": 5,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 517,
+     "blue": 505,
+     "white": 498,
+     "green": 472,
+     "gold": 472,
+     "copper": 448
+    }
+   }
+  ]
+ },
+ "7cb47279-7dea-48b0-9b36-7a10a821fde7": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/travel-advisor/courses/2369-the-breakers-ocean-course/scorecard-and-layout.",
+  "par": 70,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 353,
+     "white": 339,
+     "red": 290,
+     "green": 245
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 354,
+     "white": 319,
+     "red": 302,
+     "green": 267
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 351,
+     "white": 331,
+     "red": 314,
+     "green": 241
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 339,
+     "white": 315,
+     "red": 295,
+     "green": 257
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 140,
+     "white": 111,
+     "red": 91,
+     "green": 86
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 383,
+     "white": 349,
+     "red": 296,
+     "green": 291
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 353,
+     "white": 310,
+     "red": 299,
+     "green": 254
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 282,
+     "white": 268,
+     "red": 254,
+     "green": 208
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 279,
+     "white": 260,
+     "red": 241,
+     "green": 186
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 347,
+     "white": 316,
+     "red": 297,
+     "green": 250
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 341,
+     "white": 312,
+     "red": 269,
+     "green": 242
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 309,
+     "white": 290,
+     "red": 220,
+     "green": 180
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 220,
+     "white": 181,
+     "red": 146,
+     "green": 135
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 368,
+     "white": 347,
+     "red": 331,
+     "green": 287
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 358,
+     "white": 338,
+     "red": 314,
+     "green": 235
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 197,
+     "white": 184,
+     "red": 172,
+     "green": 156
+    }
+   },
+   {
+    "number": 17,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 455,
+     "white": 410,
+     "red": 383,
+     "green": 350
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 349,
+     "white": 328,
+     "red": 309,
+     "green": 261
+    }
+   }
+  ]
+ },
+ "7cb69332-ced8-4d69-90cd-c7f91848dec5": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/15574-bonaventure-golf-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 570,
+     "blue": 540,
+     "white": 523,
+     "gold": 406,
+     "red": 395
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 349,
+     "blue": 320,
+     "white": 305,
+     "gold": 299,
+     "red": 273
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 175,
+     "blue": 158,
+     "white": 149,
+     "gold": 145,
+     "red": 134
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 465,
+     "blue": 410,
+     "white": 397,
+     "gold": 328,
+     "red": 320
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 395,
+     "blue": 360,
+     "white": 344,
+     "gold": 327,
+     "red": 237
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 173,
+     "blue": 160,
+     "white": 154,
+     "gold": 150,
+     "red": 143
+    }
+   },
+   {
+    "number": 7,
+    "par": 5,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 549,
+     "blue": 495,
+     "white": 473,
+     "gold": 435,
+     "red": 427
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 415,
+     "blue": 391,
+     "white": 383,
+     "gold": 375,
+     "red": 369
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 429,
+     "blue": 410,
+     "white": 393,
+     "gold": 296,
+     "red": 285
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 538,
+     "blue": 476,
+     "white": 466,
+     "gold": 411,
+     "red": 401
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 430,
+     "blue": 410,
+     "white": 393,
+     "gold": 372,
+     "red": 302
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 184,
+     "blue": 163,
+     "white": 155,
+     "gold": 148,
+     "red": 140
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 403,
+     "blue": 375,
+     "white": 365,
+     "gold": 352,
+     "red": 345
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 425,
+     "blue": 405,
+     "white": 388,
+     "gold": 330,
+     "red": 290
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 373,
+     "blue": 355,
+     "white": 345,
+     "gold": 325,
+     "red": 315
+    }
+   },
+   {
+    "number": 16,
+    "par": 5,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 581,
+     "blue": 540,
+     "white": 511,
+     "gold": 424,
+     "red": 410
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 182,
+     "blue": 169,
+     "white": 155,
+     "gold": 151,
+     "red": 145
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 428,
+     "blue": 415,
+     "white": 393,
+     "gold": 340,
+     "red": 321
+    }
+   }
+  ]
+ },
+ "8926a6b2-996b-433f-ae08-6ab751475aba": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/travel-advisor/courses/1964-wynmoor-golf-course/scorecard-and-layout.",
+  "par": 60,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "blue": 318,
+     "white": 256,
+     "red": 236
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 11,
+    "yardages": {
+     "blue": 190,
+     "white": 183,
+     "red": 141
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "blue": 343,
+     "white": 321,
+     "red": 314
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 17,
+    "yardages": {
+     "blue": 230,
+     "white": 219,
+     "red": 200
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "blue": 110,
+     "white": 101,
+     "red": 89
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 7,
+    "yardages": {
+     "blue": 152,
+     "white": 145,
+     "red": 140
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "blue": 213,
+     "white": 202,
+     "red": 183
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 3,
+    "yardages": {
+     "blue": 169,
+     "white": 159,
+     "red": 136
+    }
+   },
+   {
+    "number": 9,
+    "par": 3,
+    "handicap_index": 9,
+    "yardages": {
+     "blue": 149,
+     "white": 132,
+     "red": 113
+    }
+   },
+   {
+    "number": 10,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "blue": 135,
+     "white": 122,
+     "red": 105
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "blue": 107,
+     "white": 100,
+     "red": 92
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 4,
+    "yardages": {
+     "blue": 189,
+     "white": 175,
+     "red": 158
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 12,
+    "yardages": {
+     "blue": 140,
+     "white": 129,
+     "red": 115
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 2,
+    "yardages": {
+     "blue": 187,
+     "white": 177,
+     "red": 164
+    }
+   },
+   {
+    "number": 15,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "blue": 145,
+     "white": 120,
+     "red": 81
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "blue": 286,
+     "white": 277,
+     "red": 261
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 6,
+    "yardages": {
+     "blue": 173,
+     "white": 155,
+     "red": 124
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "blue": 247,
+     "white": 229,
+     "red": 199
+    }
+   }
+  ]
+ },
+ "8be29cdb-de67-4bb6-aaad-221e5b59e659": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfingrecord.com/golf-scorecard/1b3a02c8-383f-43f2-99a1-082668619d18.",
+  "par": 70,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   },
+   {
+    "tee_key": "silver",
+    "tee_name": "Silver"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 390,
+     "blue": 390,
+     "white": 373,
+     "red": 351,
+     "silver": 330
+    }
+   },
+   {
+    "number": 2,
+    "par": 5,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 475,
+     "blue": 475,
+     "white": 458,
+     "red": 436,
+     "silver": 378
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 326,
+     "blue": 318,
+     "white": 290,
+     "red": 262,
+     "silver": 232
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 396,
+     "blue": 362,
+     "white": 317,
+     "red": 288,
+     "silver": 266
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 141,
+     "blue": 141,
+     "white": 128,
+     "red": 113,
+     "silver": 106
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 432,
+     "blue": 422,
+     "white": 366,
+     "red": 329,
+     "silver": 291
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 188,
+     "blue": 174,
+     "white": 152,
+     "red": 125,
+     "silver": 119
+    }
+   },
+   {
+    "number": 8,
+    "par": 5,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 476,
+     "blue": 476,
+     "white": 453,
+     "red": 431,
+     "silver": 385
+    }
+   },
+   {
+    "number": 9,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 161,
+     "blue": 161,
+     "white": 131,
+     "red": 109,
+     "silver": 99
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 501,
+     "blue": 487,
+     "white": 455,
+     "red": 444,
+     "silver": 418
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 418,
+     "blue": 404,
+     "white": 363,
+     "red": 333,
+     "silver": 312
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 183,
+     "blue": 183,
+     "white": 162,
+     "red": 131,
+     "silver": 119
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 426,
+     "blue": 405,
+     "white": 364,
+     "red": 340,
+     "silver": 312
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 361,
+     "blue": 354,
+     "white": 334,
+     "red": 315,
+     "silver": 302
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 372,
+     "blue": 372,
+     "white": 351,
+     "red": 326,
+     "silver": 315
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 415,
+     "blue": 397,
+     "white": 351,
+     "red": 332,
+     "silver": 300
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 165,
+     "blue": 165,
+     "white": 140,
+     "red": 110,
+     "silver": 94
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 396,
+     "blue": 396,
+     "white": 358,
+     "red": 306,
+     "silver": 295
+    }
+   }
+  ]
+ },
+ "9838c2a5-8d7d-4421-a092-4f4604a311f1": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfingrecord.com/golf-scorecard/30431b59-afb7-ddc7-45c2-c371ee770dc8.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 15,
+    "yardages": {
+     "blue": 500,
+     "white": 482,
+     "gold": 460,
+     "red": 391
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "blue": 338,
+     "white": 327,
+     "gold": 300,
+     "red": 280
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "blue": 159,
+     "white": 145,
+     "gold": 131,
+     "red": 119
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "blue": 310,
+     "white": 300,
+     "gold": 280,
+     "red": 200
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "blue": 350,
+     "white": 325,
+     "gold": 292,
+     "red": 229
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "blue": 355,
+     "white": 344,
+     "gold": 320,
+     "red": 266
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 9,
+    "yardages": {
+     "blue": 183,
+     "white": 162,
+     "gold": 143,
+     "red": 138
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "blue": 365,
+     "white": 342,
+     "gold": 310,
+     "red": 300
+    }
+   },
+   {
+    "number": 9,
+    "par": 5,
+    "handicap_index": 3,
+    "yardages": {
+     "blue": 520,
+     "white": 500,
+     "gold": 460,
+     "red": 426
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "blue": 420,
+     "white": 400,
+     "gold": 356,
+     "red": 292
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "blue": 402,
+     "white": 392,
+     "gold": 370,
+     "red": 322
+    }
+   },
+   {
+    "number": 12,
+    "par": 5,
+    "handicap_index": 12,
+    "yardages": {
+     "blue": 506,
+     "white": 496,
+     "gold": 476,
+     "red": 393
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "blue": 405,
+     "white": 350,
+     "gold": 336,
+     "red": 241
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "blue": 140,
+     "white": 127,
+     "gold": 117,
+     "red": 108
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "blue": 410,
+     "white": 375,
+     "gold": 350,
+     "red": 292
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "blue": 176,
+     "white": 160,
+     "gold": 146,
+     "red": 131
+    }
+   },
+   {
+    "number": 17,
+    "par": 5,
+    "handicap_index": 16,
+    "yardages": {
+     "blue": 520,
+     "white": 500,
+     "gold": 462,
+     "red": 399
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "blue": 412,
+     "white": 392,
+     "gold": 366,
+     "red": 312
+    }
+   }
+  ]
+ },
+ "ae9a1659-cf57-4a6e-b135-4833527ff10f": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2039-coral-ridge-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "championship",
+    "tee_name": "Championship"
+   },
+   {
+    "tee_key": "long",
+    "tee_name": "Long"
+   },
+   {
+    "tee_key": "club",
+    "tee_name": "Club"
+   },
+   {
+    "tee_key": "middle",
+    "tee_name": "Middle"
+   },
+   {
+    "tee_key": "member",
+    "tee_name": "Member"
+   },
+   {
+    "tee_key": "forward",
+    "tee_name": "Forward"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "championship": 439,
+     "long": 414,
+     "club": 396,
+     "middle": 345,
+     "member": 328,
+     "forward": 279
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "championship": 424,
+     "long": 404,
+     "club": 386,
+     "middle": 367,
+     "member": 318,
+     "forward": 288
+    }
+   },
+   {
+    "number": 3,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "championship": 405,
+     "long": 386,
+     "club": 369,
+     "middle": 349,
+     "member": 308,
+     "forward": 287
+    }
+   },
+   {
+    "number": 4,
+    "par": 5,
+    "handicap_index": 15,
+    "yardages": {
+     "championship": 553,
+     "long": 527,
+     "club": 467,
+     "middle": 435,
+     "member": 385,
+     "forward": 367
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "championship": 184,
+     "long": 161,
+     "club": 147,
+     "middle": 118,
+     "member": 107,
+     "forward": 92
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "championship": 389,
+     "long": 372,
+     "club": 339,
+     "middle": 317,
+     "member": 286,
+     "forward": 270
+    }
+   },
+   {
+    "number": 7,
+    "par": 5,
+    "handicap_index": 9,
+    "yardages": {
+     "championship": 582,
+     "long": 539,
+     "club": 524,
+     "middle": 479,
+     "member": 436,
+     "forward": 358
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "championship": 191,
+     "long": 180,
+     "club": 168,
+     "middle": 162,
+     "member": 141,
+     "forward": 119
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "championship": 458,
+     "long": 424,
+     "club": 398,
+     "middle": 323,
+     "member": 279,
+     "forward": 261
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "championship": 446,
+     "long": 413,
+     "club": 389,
+     "middle": 329,
+     "member": 307,
+     "forward": 285
+    }
+   },
+   {
+    "number": 11,
+    "par": 5,
+    "handicap_index": 12,
+    "yardages": {
+     "championship": 560,
+     "long": 542,
+     "club": 501,
+     "middle": 477,
+     "member": 377,
+     "forward": 352
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 8,
+    "yardages": {
+     "championship": 220,
+     "long": 200,
+     "club": 179,
+     "middle": 155,
+     "member": 135,
+     "forward": 115
+    }
+   },
+   {
+    "number": 13,
+    "par": 5,
+    "handicap_index": 6,
+    "yardages": {
+     "championship": 611,
+     "long": 579,
+     "club": 533,
+     "middle": 501,
+     "member": 480,
+     "forward": 406
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "championship": 465,
+     "long": 423,
+     "club": 406,
+     "middle": 388,
+     "member": 350,
+     "forward": 279
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "championship": 368,
+     "long": 348,
+     "club": 329,
+     "middle": 294,
+     "member": 260,
+     "forward": 219
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "championship": 168,
+     "long": 155,
+     "club": 135,
+     "middle": 118,
+     "member": 100,
+     "forward": 84
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 16,
+    "yardages": {
+     "championship": 407,
+     "long": 386,
+     "club": 366,
+     "middle": 306,
+     "member": 280,
+     "forward": 255
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "championship": 452,
+     "long": 422,
+     "club": 389,
+     "middle": 347,
+     "member": 321,
+     "forward": 284
+    }
+   }
+  ]
+ },
+ "cb1d5846-dccf-46c4-8895-ba6b6b1b04fc": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1996-delray-beach-golf-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 5,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 542,
+     "blue": 517,
+     "green": 472,
+     "white": 423,
+     "red": 386
+    }
+   },
+   {
+    "number": 2,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 401,
+     "blue": 374,
+     "green": 339,
+     "white": 296,
+     "red": 239
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 199,
+     "blue": 157,
+     "green": 137,
+     "white": 120,
+     "red": 98
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 451,
+     "blue": 418,
+     "green": 348,
+     "white": 337,
+     "red": 282
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 362,
+     "blue": 329,
+     "green": 309,
+     "white": 265,
+     "red": 225
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 183,
+     "blue": 162,
+     "green": 132,
+     "white": 124,
+     "red": 107
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 419,
+     "blue": 390,
+     "green": 370,
+     "white": 321,
+     "red": 259
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 392,
+     "blue": 375,
+     "green": 338,
+     "white": 324,
+     "red": 254
+    }
+   },
+   {
+    "number": 9,
+    "par": 5,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 528,
+     "blue": 491,
+     "green": 465,
+     "white": 396,
+     "red": 341
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 401,
+     "blue": 374,
+     "green": 354,
+     "white": 333,
+     "red": 295
+    }
+   },
+   {
+    "number": 11,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 373,
+     "blue": 346,
+     "green": 301,
+     "white": 256,
+     "red": 206
+    }
+   },
+   {
+    "number": 12,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 561,
+     "blue": 500,
+     "green": 460,
+     "white": 407,
+     "red": 367
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 225,
+     "blue": 188,
+     "green": 163,
+     "white": 137,
+     "red": 97
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 347,
+     "blue": 331,
+     "green": 315,
+     "white": 305,
+     "red": 258
+    }
+   },
+   {
+    "number": 15,
+    "par": 5,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 508,
+     "blue": 490,
+     "green": 467,
+     "white": 412,
+     "red": 362
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 433,
+     "blue": 389,
+     "green": 344,
+     "white": 307,
+     "red": 242
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 165,
+     "blue": 141,
+     "green": 111,
+     "white": 82,
+     "red": 52
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 417,
+     "blue": 388,
+     "green": 363,
+     "white": 344,
+     "red": 307
+    }
+   }
+  ]
+ },
+ "d392de1c-fd92-4224-8840-d7b6dc43dedf": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1892-stonebridge-golf-country-club/scorecard-and-layout.",
+  "par": 72,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "black",
+    "tee_name": "Black"
+   },
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "blue_white",
+    "tee_name": "Blue/White"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "white_green",
+    "tee_name": "White/Green"
+   },
+   {
+    "tee_key": "green",
+    "tee_name": "Green"
+   },
+   {
+    "tee_key": "green_purple",
+    "tee_name": "Green/Purple"
+   },
+   {
+    "tee_key": "purple",
+    "tee_name": "Purple"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "black": 361,
+     "blue": 347,
+     "blue_white": 347,
+     "white": 319,
+     "white_green": 319,
+     "green": 259,
+     "green_purple": 259,
+     "purple": 228
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "black": 205,
+     "blue": 183,
+     "blue_white": 183,
+     "white": 170,
+     "white_green": 170,
+     "green": 157,
+     "green_purple": 157,
+     "purple": 99
+    }
+   },
+   {
+    "number": 3,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "black": 584,
+     "blue": 540,
+     "blue_white": 490,
+     "white": 490,
+     "white_green": 463,
+     "green": 463,
+     "green_purple": 421,
+     "purple": 421
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 9,
+    "yardages": {
+     "black": 428,
+     "blue": 395,
+     "blue_white": 380,
+     "white": 380,
+     "white_green": 339,
+     "green": 339,
+     "green_purple": 310,
+     "purple": 310
+    }
+   },
+   {
+    "number": 5,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "black": 389,
+     "blue": 365,
+     "blue_white": 365,
+     "white": 321,
+     "white_green": 321,
+     "green": 284,
+     "green_purple": 253,
+     "purple": 253
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "black": 420,
+     "blue": 394,
+     "blue_white": 355,
+     "white": 355,
+     "white_green": 287,
+     "green": 287,
+     "green_purple": 287,
+     "purple": 268
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "black": 187,
+     "blue": 166,
+     "blue_white": 166,
+     "white": 150,
+     "white_green": 150,
+     "green": 129,
+     "green_purple": 129,
+     "purple": 105
+    }
+   },
+   {
+    "number": 8,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "black": 538,
+     "blue": 509,
+     "blue_white": 480,
+     "white": 480,
+     "white_green": 470,
+     "green": 470,
+     "green_purple": 415,
+     "purple": 415
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "black": 409,
+     "blue": 365,
+     "blue_white": 365,
+     "white": 348,
+     "white_green": 348,
+     "green": 283,
+     "green_purple": 283,
+     "purple": 242
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 2,
+    "yardages": {
+     "black": 525,
+     "blue": 498,
+     "blue_white": 498,
+     "white": 474,
+     "white_green": 474,
+     "green": 452,
+     "green_purple": 415,
+     "purple": 415
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "black": 185,
+     "blue": 168,
+     "blue_white": 168,
+     "white": 151,
+     "white_green": 151,
+     "green": 136,
+     "green_purple": 136,
+     "purple": 95
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "black": 411,
+     "blue": 380,
+     "blue_white": 336,
+     "white": 336,
+     "white_green": 263,
+     "green": 263,
+     "green_purple": 263,
+     "purple": 248
+    }
+   },
+   {
+    "number": 13,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "black": 579,
+     "blue": 550,
+     "blue_white": 490,
+     "white": 490,
+     "white_green": 449,
+     "green": 449,
+     "green_purple": 422,
+     "purple": 422
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "black": 405,
+     "blue": 379,
+     "blue_white": 379,
+     "white": 350,
+     "white_green": 350,
+     "green": 286,
+     "green_purple": 286,
+     "purple": 261
+    }
+   },
+   {
+    "number": 15,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "black": 185,
+     "blue": 177,
+     "blue_white": 163,
+     "white": 163,
+     "white_green": 148,
+     "green": 148,
+     "green_purple": 99,
+     "purple": 99
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "black": 387,
+     "blue": 342,
+     "blue_white": 342,
+     "white": 323,
+     "white_green": 323,
+     "green": 279,
+     "green_purple": 279,
+     "purple": 237
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "black": 396,
+     "blue": 375,
+     "blue_white": 347,
+     "white": 347,
+     "white_green": 316,
+     "green": 316,
+     "green_purple": 316,
+     "purple": 267
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "black": 412,
+     "blue": 375,
+     "blue_white": 341,
+     "white": 341,
+     "white_green": 300,
+     "green": 300,
+     "green_purple": 300,
+     "purple": 261
+    }
+   }
+  ]
+ },
+ "d468fbc1-9276-427f-85b8-0e08985b2799": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1890-boca-dunes-golf-country-club/scorecard-and-layout.",
+  "par": 62,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "gold": 330,
+     "white": 305,
+     "red": 276
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "gold": 117,
+     "white": 117,
+     "red": 117
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 6,
+    "yardages": {
+     "gold": 205,
+     "white": 174,
+     "red": 140
+    }
+   },
+   {
+    "number": 4,
+    "par": 4,
+    "handicap_index": 10,
+    "yardages": {
+     "gold": 273,
+     "white": 255,
+     "red": 243
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 8,
+    "yardages": {
+     "gold": 142,
+     "white": 136,
+     "red": 125
+    }
+   },
+   {
+    "number": 6,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "gold": 262,
+     "white": 255,
+     "red": 234
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 12,
+    "yardages": {
+     "gold": 104,
+     "white": 96,
+     "red": 72
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "gold": 285,
+     "white": 274,
+     "red": 250
+    }
+   },
+   {
+    "number": 9,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "gold": 118,
+     "white": 113,
+     "red": 100
+    }
+   },
+   {
+    "number": 10,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "gold": 250,
+     "white": 250,
+     "red": 216
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "gold": 83,
+     "white": 74,
+     "red": 61
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 9,
+    "yardages": {
+     "gold": 129,
+     "white": 114,
+     "red": 70
+    }
+   },
+   {
+    "number": 13,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "gold": 282,
+     "white": 260,
+     "red": 225
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 11,
+    "yardages": {
+     "gold": 256,
+     "white": 256,
+     "red": 220
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 13,
+    "yardages": {
+     "gold": 286,
+     "white": 265,
+     "red": 223
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 7,
+    "yardages": {
+     "gold": 114,
+     "white": 109,
+     "red": 99
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "gold": 165,
+     "white": 157,
+     "red": 137
+    }
+   },
+   {
+    "number": 18,
+    "par": 3,
+    "handicap_index": 1,
+    "yardages": {
+     "gold": 191,
+     "white": 157,
+     "red": 100
+    }
+   }
+  ]
+ },
+ "e3d0305d-fcf2-4f9e-917d-7a23776d9e64": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2164-poinciana-country-club/scorecard-and-layout.",
+  "par": 64,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "blue",
+    "tee_name": "Blue"
+   },
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "gold",
+    "tee_name": "Gold"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 3,
+    "handicap_index": 11,
+    "yardages": {
+     "blue": 148,
+     "white": 130,
+     "gold": 119,
+     "red": 115
+    }
+   },
+   {
+    "number": 2,
+    "par": 5,
+    "handicap_index": 1,
+    "yardages": {
+     "blue": 550,
+     "white": 475,
+     "gold": 433,
+     "red": 426
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 9,
+    "yardages": {
+     "blue": 148,
+     "white": 143,
+     "gold": 140,
+     "red": 138
+    }
+   },
+   {
+    "number": 4,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "blue": 144,
+     "white": 130,
+     "gold": 125,
+     "red": 121
+    }
+   },
+   {
+    "number": 5,
+    "par": 5,
+    "handicap_index": 5,
+    "yardages": {
+     "blue": 450,
+     "white": 400,
+     "gold": 396,
+     "red": 392
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "blue": 135,
+     "white": 119,
+     "gold": 111,
+     "red": 106
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "blue": 162,
+     "white": 127,
+     "gold": 122,
+     "red": 118
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 7,
+    "yardages": {
+     "blue": 167,
+     "white": 141,
+     "gold": 129,
+     "red": 119
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "blue": 400,
+     "white": 350,
+     "gold": 291,
+     "red": 284
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 4,
+    "yardages": {
+     "blue": 470,
+     "white": 425,
+     "gold": 366,
+     "red": 360
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "blue": 162,
+     "white": 128,
+     "gold": 120,
+     "red": 111
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "blue": 325,
+     "white": 300,
+     "gold": 291,
+     "red": 284
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "blue": 85,
+     "white": 77,
+     "gold": 77,
+     "red": 69
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 10,
+    "yardages": {
+     "blue": 180,
+     "white": 162,
+     "gold": 153,
+     "red": 148
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "blue": 375,
+     "white": 350,
+     "gold": 262,
+     "red": 254
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 12,
+    "yardages": {
+     "blue": 175,
+     "white": 156,
+     "gold": 149,
+     "red": 143
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "blue": 135,
+     "white": 115,
+     "gold": 110,
+     "red": 104
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "blue": 350,
+     "white": 300,
+     "gold": 281,
+     "red": 272
+    }
+   }
+  ]
+ },
+ "edbd6e18-769b-4859-bc40-290b875f360c": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/1994-kings-point-par-3/scorecard-and-layout.",
+  "par": 54,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "white",
+    "tee_name": "White"
+   },
+   {
+    "tee_key": "red",
+    "tee_name": "Red"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 3,
+    "handicap_index": 9,
+    "yardages": {
+     "white": 120,
+     "red": 109
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 5,
+    "yardages": {
+     "white": 115,
+     "red": 100
+    }
+   },
+   {
+    "number": 3,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "white": 100,
+     "red": 90
+    }
+   },
+   {
+    "number": 4,
+    "par": 3,
+    "handicap_index": 7,
+    "yardages": {
+     "white": 116,
+     "red": 109
+    }
+   },
+   {
+    "number": 5,
+    "par": 3,
+    "handicap_index": 11,
+    "yardages": {
+     "white": 111,
+     "red": 95
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 3,
+    "yardages": {
+     "white": 149,
+     "red": 131
+    }
+   },
+   {
+    "number": 7,
+    "par": 3,
+    "handicap_index": 15,
+    "yardages": {
+     "white": 109,
+     "red": 92
+    }
+   },
+   {
+    "number": 8,
+    "par": 3,
+    "handicap_index": 1,
+    "yardages": {
+     "white": 185,
+     "red": 142
+    }
+   },
+   {
+    "number": 9,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "white": 80,
+     "red": 70
+    }
+   },
+   {
+    "number": 10,
+    "par": 3,
+    "handicap_index": 8,
+    "yardages": {
+     "white": 150,
+     "red": 128
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 10,
+    "yardages": {
+     "white": 144,
+     "red": 110
+    }
+   },
+   {
+    "number": 12,
+    "par": 3,
+    "handicap_index": 4,
+    "yardages": {
+     "white": 136,
+     "red": 125
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 18,
+    "yardages": {
+     "white": 82,
+     "red": 65
+    }
+   },
+   {
+    "number": 14,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "white": 101,
+     "red": 91
+    }
+   },
+   {
+    "number": 15,
+    "par": 3,
+    "handicap_index": 12,
+    "yardages": {
+     "white": 84,
+     "red": 65
+    }
+   },
+   {
+    "number": 16,
+    "par": 3,
+    "handicap_index": 14,
+    "yardages": {
+     "white": 110,
+     "red": 98
+    }
+   },
+   {
+    "number": 17,
+    "par": 3,
+    "handicap_index": 2,
+    "yardages": {
+     "white": 126,
+     "red": 121
+    }
+   },
+   {
+    "number": 18,
+    "par": 3,
+    "handicap_index": 6,
+    "yardages": {
+     "white": 131,
+     "red": 115
+    }
+   }
+  ]
+ },
+ "f1f8b19c-e2e5-48b1-92cf-ffb80fd3fff1": {
+  "why": "The open data's card for this course is broken (its pars don't add up or holes are missing), so it was left out. This is its scorecard as published at https://www.golfpass.com/courses/2106-hollywood-beach-golf-club/scorecard-and-layout.",
+  "par": 70,
+  "holes": 18,
+  "tees": [
+   {
+    "tee_key": "tee_a",
+    "tee_name": "Tee A"
+   },
+   {
+    "tee_key": "tee_b",
+    "tee_name": "Tee B"
+   },
+   {
+    "tee_key": "tee_c",
+    "tee_name": "Tee C"
+   },
+   {
+    "tee_key": "tee_d",
+    "tee_name": "Tee D"
+   },
+   {
+    "tee_key": "tee_e",
+    "tee_name": "Tee E"
+   },
+   {
+    "tee_key": "tee_f",
+    "tee_name": "Tee F"
+   }
+  ],
+  "holes_data": [
+   {
+    "number": 1,
+    "par": 4,
+    "handicap_index": 3,
+    "yardages": {
+     "tee_a": 427,
+     "tee_b": 407,
+     "tee_c": 385,
+     "tee_d": 365,
+     "tee_e": 321,
+     "tee_f": 299
+    }
+   },
+   {
+    "number": 2,
+    "par": 3,
+    "handicap_index": 17,
+    "yardages": {
+     "tee_a": 120,
+     "tee_b": 114,
+     "tee_c": 108,
+     "tee_d": 102,
+     "tee_e": 90,
+     "tee_f": 84
+    }
+   },
+   {
+    "number": 3,
+    "par": 5,
+    "handicap_index": 11,
+    "yardages": {
+     "tee_a": 527,
+     "tee_b": 501,
+     "tee_c": 471,
+     "tee_d": 445,
+     "tee_e": 394,
+     "tee_f": 368
+    }
+   },
+   {
+    "number": 4,
+    "par": 3,
+    "handicap_index": 9,
+    "yardages": {
+     "tee_a": 202,
+     "tee_b": 192,
+     "tee_c": 182,
+     "tee_d": 172,
+     "tee_e": 152,
+     "tee_f": 142
+    }
+   },
+   {
+    "number": 5,
+    "par": 5,
+    "handicap_index": 15,
+    "yardages": {
+     "tee_a": 501,
+     "tee_b": 477,
+     "tee_c": 447,
+     "tee_d": 423,
+     "tee_e": 375,
+     "tee_f": 350
+    }
+   },
+   {
+    "number": 6,
+    "par": 3,
+    "handicap_index": 13,
+    "yardages": {
+     "tee_a": 170,
+     "tee_b": 162,
+     "tee_c": 153,
+     "tee_d": 145,
+     "tee_e": 128,
+     "tee_f": 119
+    }
+   },
+   {
+    "number": 7,
+    "par": 4,
+    "handicap_index": 1,
+    "yardages": {
+     "tee_a": 433,
+     "tee_b": 411,
+     "tee_c": 390,
+     "tee_d": 368,
+     "tee_e": 325,
+     "tee_f": 304
+    }
+   },
+   {
+    "number": 8,
+    "par": 4,
+    "handicap_index": 7,
+    "yardages": {
+     "tee_a": 420,
+     "tee_b": 399,
+     "tee_c": 379,
+     "tee_d": 358,
+     "tee_e": 317,
+     "tee_f": 294
+    }
+   },
+   {
+    "number": 9,
+    "par": 4,
+    "handicap_index": 5,
+    "yardages": {
+     "tee_a": 401,
+     "tee_b": 381,
+     "tee_c": 362,
+     "tee_d": 342,
+     "tee_e": 300,
+     "tee_f": 280
+    }
+   },
+   {
+    "number": 10,
+    "par": 5,
+    "handicap_index": 18,
+    "yardages": {
+     "tee_a": 500,
+     "tee_b": 476,
+     "tee_c": 447,
+     "tee_d": 422,
+     "tee_e": 374,
+     "tee_f": 350
+    }
+   },
+   {
+    "number": 11,
+    "par": 3,
+    "handicap_index": 16,
+    "yardages": {
+     "tee_a": 147,
+     "tee_b": 139,
+     "tee_c": 132,
+     "tee_d": 125,
+     "tee_e": 111,
+     "tee_f": 103
+    }
+   },
+   {
+    "number": 12,
+    "par": 4,
+    "handicap_index": 8,
+    "yardages": {
+     "tee_a": 410,
+     "tee_b": 389,
+     "tee_c": 367,
+     "tee_d": 349,
+     "tee_e": 309,
+     "tee_f": 288
+    }
+   },
+   {
+    "number": 13,
+    "par": 3,
+    "handicap_index": 10,
+    "yardages": {
+     "tee_a": 206,
+     "tee_b": 196,
+     "tee_c": 185,
+     "tee_d": 176,
+     "tee_e": 155,
+     "tee_f": 144
+    }
+   },
+   {
+    "number": 14,
+    "par": 4,
+    "handicap_index": 12,
+    "yardages": {
+     "tee_a": 371,
+     "tee_b": 353,
+     "tee_c": 334,
+     "tee_d": 316,
+     "tee_e": 279,
+     "tee_f": 261
+    }
+   },
+   {
+    "number": 15,
+    "par": 4,
+    "handicap_index": 14,
+    "yardages": {
+     "tee_a": 380,
+     "tee_b": 363,
+     "tee_c": 343,
+     "tee_d": 325,
+     "tee_e": 288,
+     "tee_f": 268
+    }
+   },
+   {
+    "number": 16,
+    "par": 4,
+    "handicap_index": 6,
+    "yardages": {
+     "tee_a": 457,
+     "tee_b": 434,
+     "tee_c": 412,
+     "tee_d": 389,
+     "tee_e": 343,
+     "tee_f": 321
+    }
+   },
+   {
+    "number": 17,
+    "par": 4,
+    "handicap_index": 4,
+    "yardages": {
+     "tee_a": 420,
+     "tee_b": 399,
+     "tee_c": 379,
+     "tee_d": 358,
+     "tee_e": 317,
+     "tee_f": 294
+    }
+   },
+   {
+    "number": 18,
+    "par": 4,
+    "handicap_index": 2,
+    "yardages": {
+     "tee_a": 432,
+     "tee_b": 411,
+     "tee_c": 389,
+     "tee_d": 368,
+     "tee_e": 325,
+     "tee_f": 303
+    }
+   }
+  ]
  }
 }
