@@ -195,7 +195,9 @@ jobs:
   publish:
     name: Publish screenshots
     needs: app
-    if: always() && github.event_name == 'push' && github.ref == 'refs/heads/main'
+    # Main's go to the screenshots branch. A run started by hand on another
+    # branch (to review it before merging) goes to screenshots-<branch>.
+    if: always() && ((github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event_name == 'workflow_dispatch')
     runs-on: ubuntu-latest
     permissions:
       contents: write  # only to publish screenshots to the screenshots branch
@@ -218,4 +220,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -q -m "Screenshots from ${GITHUB_SHA::7}"
-          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" screenshots
+          target=screenshots
+          if [ "$GITHUB_REF_NAME" != "main" ]; then target="screenshots-$(echo "$GITHUB_REF_NAME" | tr -c 'A-Za-z0-9._-' '-' | sed 's/-*$//')"; fi
+          echo "::notice title=Screenshots branch::$target"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" "HEAD:$target"

@@ -7,7 +7,9 @@ import Foundation
 ///
 /// Friends play along on their own: in a round you start, Sam and Jordan join
 /// a moment later, and each scores a hole shortly after you do (Sam one more
-/// than you, Jordan the same). The code GREEN4 joins Sam's round already on
+/// than you, Jordan the same). With email, alex@example.com and golf1234
+/// sign in, any other password is wrong, and Create Account asks to check the
+/// email (except for an address with "instant" in it). The code GREEN4 joins Sam's round already on
 /// hole 4; PACKED is a round with no seats left; any other code isn't found.
 @MainActor
 final class MockGroupService: GroupService {
@@ -44,6 +46,46 @@ final class MockGroupService: GroupService {
     func signInWithApple(idToken: String, nonce: String, fullName: String?) async throws -> GroupUser {
         user = Self.me
         return Self.me
+    }
+
+    static let emailAccount = "alex@example.com"
+    static let emailPassword = "golf1234"
+
+    func signInWithEmail(email: String, password: String) async throws -> GroupUser {
+        try await Task.sleep(for: .milliseconds(300))
+        guard EmailCheck.clean(email) == Self.emailAccount, password == Self.emailPassword else { throw GroupError.wrongPassword }
+        user = GroupUser(id: Self.me.id, name: Self.me.name, email: Self.emailAccount)
+        return user!
+    }
+
+    func signUpWithEmail(email: String, password: String, name: String?) async throws -> EmailSignUpResult {
+        try await Task.sleep(for: .milliseconds(300))
+        if EmailCheck.clean(email) == Self.emailAccount { throw GroupError.accountExists }
+        guard password.count >= EmailCheck.minimumPasswordLength else { throw GroupError.weakPassword }
+        if email.contains("instant") {
+            user = GroupUser(id: Self.me.id, name: name ?? Self.me.name, email: EmailCheck.clean(email))
+            return .signedIn(user!)
+        }
+        return .checkEmail
+    }
+
+    func resendConfirmation(email: String) async throws {
+        try await Task.sleep(for: .milliseconds(200))
+    }
+
+    func sendPasswordReset(email: String) async throws {
+        try await Task.sleep(for: .milliseconds(200))
+    }
+
+    func openLink(_ url: URL) async throws -> GroupUser {
+        guard url.query?.contains("code=") == true else { throw GroupError.linkFailed }
+        user = GroupUser(id: Self.me.id, name: Self.me.name, email: Self.emailAccount)
+        return user!
+    }
+
+    func updatePassword(_ password: String) async throws {
+        guard user != nil else { throw GroupError.notSignedIn }
+        guard password.count >= EmailCheck.minimumPasswordLength else { throw GroupError.weakPassword }
     }
 
     func signOut() async { user = nil }

@@ -71,28 +71,35 @@ struct RootView: View {
             }
         }
         .onOpenURL(perform: openLink)
+        .alert("That link didn't work", isPresented: Binding(get: { group.linkProblem != nil }, set: { if !$0 { group.linkProblem = nil } })) {
+            Button("OK", role: .cancel) {}
+        } message: {
+            Text(group.linkProblem ?? "")
+        }
         .task { endLeftoverLockScreenCards() }
         .overlay {
-            // The welcome pages, the first time. Hosted on an empty overlay so
-            // they don't share a presenter with the round.
+            // The account screen until someone is signed in, then the welcome
+            // pages the first time. One cover for both, so it never has to close
+            // and open again between them. Hosted on an empty overlay so they
+            // don't share a presenter with the round.
             Color.clear
                 .allowsHitTesting(false)
-                .fullScreenCover(isPresented: Binding(get: { !onboarded }, set: { onboarded = !$0 })) {
-                    OnboardingView()
+                .fullScreenCover(isPresented: Binding(get: { !onboarded || group.needsAccount }, set: { if !$0 { onboarded = true } })) {
+                    StartScreens()
                 }
         }
     }
 }
 
 extension RootView {
-    /// Links into the app: the Lock Screen card, a friend's join link, and
-    /// the way back from Google's sign-in page.
+    /// Links into the app: the Lock Screen card, a friend's join link, the
+    /// way back from Google's sign-in page, and links in confirm and reset emails.
     private func openLink(_ url: URL) {
         if let code = JoinCode.code(in: url) {
             tab = .play
             if openRound == nil { joining = JoinRequest(code: code) }
         } else if url.host == "login-callback" {
-            group.handle(url)
+            Task { await group.handle(url) }
         } else {
             openFromLockScreen(url)
         }

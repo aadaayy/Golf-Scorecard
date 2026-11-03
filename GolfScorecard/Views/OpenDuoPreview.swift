@@ -12,6 +12,8 @@ struct OpenDuoPreview: View {
 
     /// Home instead of a round (launched with -home as well).
     var showsHome = false
+    /// The account screen instead of a round (launched with -accountGate).
+    var showsAccount = false
 
     @Environment(CourseLibrary.self) private var library
     @Environment(CourseCatalog.self) private var catalog
@@ -37,7 +39,9 @@ struct OpenDuoPreview: View {
 
     @ViewBuilder
     private var screen: some View {
-        if showsHome {
+        if showsAccount {
+            AccountGateView().padding(.top, 24)
+        } else if showsHome {
             RootView().padding(.top, 24)
         } else if let round {
             VStack(spacing: 0) {
@@ -55,6 +59,7 @@ struct OpenDuoPreview: View {
     /// A round on the first course with the first hole scored, or with
     /// -mockGroup -groupRound, the pretend friends' group round joined.
     private func makeRound() {
+        guard !showsAccount else { return }
         if !showsHome, round == nil, ProcessInfo.processInfo.arguments.contains("-groupRound") {
             Task {
                 round = try? await group.joinRound(code: MockGroupService.joinCode, playerName: "Me", handicap: nil,
