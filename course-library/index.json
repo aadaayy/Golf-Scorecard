@@ -1558,7 +1558,7 @@
         "Tee Ii-I": 5089,
         "Tee I": 4952
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/bay-island-at-bonita-bay-club",
       "files": [
         "bay-island-at-bonita-bay-club-01.svg",
@@ -1570,7 +1570,6 @@
         "bay-island-at-bonita-bay-club-07.svg",
         "bay-island-at-bonita-bay-club-08.svg",
         "bay-island-at-bonita-bay-club-09.svg",
-        "bay-island-at-bonita-bay-club-10.svg",
         "bay-island-at-bonita-bay-club-11.svg",
         "bay-island-at-bonita-bay-club-12.svg",
         "bay-island-at-bonita-bay-club-13.svg",
@@ -1581,7 +1580,7 @@
         "bay-island-at-bonita-bay-club-18.svg",
         "course.json"
       ],
-      "bytes": 83799,
+      "bytes": 79972,
       "lat": 26.3522,
       "lng": -81.813653
     },
@@ -5513,7 +5512,7 @@
         "III": 5804,
         "II": 5413
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/colliers-reserve-country-club",
       "files": [
         "colliers-reserve-country-club-01.svg",
@@ -5536,7 +5535,7 @@
         "colliers-reserve-country-club-18.svg",
         "course.json"
       ],
-      "bytes": 78314,
+      "bytes": 78548,
       "lat": 26.281882,
       "lng": -81.794973
     },
@@ -6167,7 +6166,7 @@
         "Yellow": 4811,
         "Red": 4335
       },
-      "version": 9,
+      "version": 10,
       "folder": "courses/countryside-golf-club",
       "files": [
         "countryside-golf-club-01.svg",
@@ -6190,7 +6189,7 @@
         "countryside-golf-club-18.svg",
         "course.json"
       ],
-      "bytes": 68310,
+      "bytes": 73168,
       "lat": 26.141877,
       "lng": -81.724395
     },
@@ -6419,7 +6418,7 @@
         "Tee Iv-Iii": 5985,
         "Tee Iii-Ii": 5275
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/creekside-at-bonita-bay-club",
       "files": [
         "course.json",
@@ -6437,12 +6436,11 @@
         "creekside-at-bonita-bay-club-12.svg",
         "creekside-at-bonita-bay-club-13.svg",
         "creekside-at-bonita-bay-club-14.svg",
-        "creekside-at-bonita-bay-club-15.svg",
         "creekside-at-bonita-bay-club-16.svg",
         "creekside-at-bonita-bay-club-17.svg",
         "creekside-at-bonita-bay-club-18.svg"
       ],
-      "bytes": 82086,
+      "bytes": 86718,
       "lat": 26.3522,
       "lng": -81.813653
     },
@@ -8351,7 +8349,7 @@
         "Green": 5454,
         "Green/Silver": 4934
       },
-      "version": 5,
+      "version": 6,
       "folder": "courses/eagle-creek-country-club",
       "files": [
         "course.json",
@@ -8374,7 +8372,7 @@
         "eagle-creek-country-club-17.svg",
         "eagle-creek-country-club-18.svg"
       ],
-      "bytes": 95692,
+      "bytes": 96535,
       "lat": 26.059199,
       "lng": -81.700439
     },
@@ -9668,7 +9666,7 @@
         "Copper/Jade": 5128,
         "Jade": 4739
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/esplanade-golf-and-country-club-of-naples",
       "files": [
         "course.json",
@@ -9691,7 +9689,7 @@
         "esplanade-golf-and-country-club-of-naples-17.svg",
         "esplanade-golf-and-country-club-of-naples-18.svg"
       ],
-      "bytes": 101986,
+      "bytes": 103170,
       "lat": 26.289246,
       "lng": -81.699737
     },
@@ -12055,7 +12053,7 @@
         "IV": 5657,
         "V": 4916
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/grey-oaks-country-club-palm-golf-course",
       "files": [
         "course.json",
@@ -12078,7 +12076,7 @@
         "grey-oaks-country-club-palm-golf-course-17.svg",
         "grey-oaks-country-club-palm-golf-course-18.svg"
       ],
-      "bytes": 96865,
+      "bytes": 104744,
       "lat": 26.188596,
       "lng": -81.759719
     },
@@ -12106,7 +12104,7 @@
         "IV": 5564,
         "V": 4991
       },
-      "version": 8,
+      "version": 9,
       "folder": "courses/grey-oaks-country-club-pine-golf-course",
       "files": [
         "course.json",
@@ -12129,7 +12127,7 @@
         "grey-oaks-country-club-pine-golf-course-17.svg",
         "grey-oaks-country-club-pine-golf-course-18.svg"
       ],
-      "bytes": 95696,
+      "bytes": 96680,
       "lat": 26.188596,
       "lng": -81.759719
     },
@@ -18176,7 +18174,7 @@
         "Tee Iii": 5667,
         "Tee Ii-I": 4981
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/marsh-at-bonita-bay-club",
       "files": [
         "course.json",
@@ -18199,7 +18197,7 @@
         "marsh-at-bonita-bay-club-17.svg",
         "marsh-at-bonita-bay-club-18.svg"
       ],
-      "bytes": 90676,
+      "bytes": 93663,
       "lat": 26.3522,
       "lng": -81.813653
     },
@@ -22502,7 +22500,7 @@
         "Blue": 6348,
         "White": 5988
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/pga-national-resort-champion-course",
       "files": [
         "course.json",
@@ -22525,7 +22523,7 @@
         "pga-national-resort-champion-course-17.svg",
         "pga-national-resort-champion-course-18.svg"
       ],
-      "bytes": 139414,
+      "bytes": 137676,
       "lat": 26.829755,
       "lng": -80.141198
     },
@@ -22607,7 +22605,7 @@
         "Green/Red Combo": 5177,
         "Red": 4766
       },
-      "version": 8,
+      "version": 9,
       "folder": "courses/pga-national-resort-palmer-course",
       "files": [
         "course.json",
@@ -22630,7 +22628,7 @@
         "pga-national-resort-palmer-course-17.svg",
         "pga-national-resort-palmer-course-18.svg"
       ],
-      "bytes": 123786,
+      "bytes": 123719,
       "lat": 26.829755,
       "lng": -80.141198
     },
@@ -22900,7 +22898,7 @@
         "White": 5381,
         "Red": 4925
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/pinemoor-west-golf-club",
       "files": [
         "course.json",
@@ -22923,7 +22921,7 @@
         "pinemoor-west-golf-club-17.svg",
         "pinemoor-west-golf-club-18.svg"
       ],
-      "bytes": 98334,
+      "bytes": 98268,
       "lat": 26.910615,
       "lng": -82.281768
     },
@@ -29020,7 +29018,7 @@
         "White": 6017,
         "Red": 5173
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/stoneybrook-west-golf-course",
       "files": [
         "course.json",
@@ -29034,7 +29032,7 @@
         "stoneybrook-west-golf-course-08.svg",
         "stoneybrook-west-golf-course-09.svg"
       ],
-      "bytes": 37715,
+      "bytes": 39515,
       "lat": 28.516698,
       "lng": -81.611771
     },
@@ -30965,7 +30963,7 @@
         "Iv/V": 5397,
         "V": 5074
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/the-club-at-mediterra-south-course",
       "files": [
         "course.json",
@@ -30988,7 +30986,7 @@
         "the-club-at-mediterra-south-course-17.svg",
         "the-club-at-mediterra-south-course-18.svg"
       ],
-      "bytes": 108205,
+      "bytes": 110104,
       "lat": 26.310088,
       "lng": -81.770639
     },
@@ -31139,7 +31137,7 @@
         "Red": 4521,
         "Scoring": 3854
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/the-club-at-the-strand-preserve-savannah-course",
       "files": [
         "course.json",
@@ -31162,7 +31160,7 @@
         "the-club-at-the-strand-preserve-savannah-course-17.svg",
         "the-club-at-the-strand-preserve-savannah-course-18.svg"
       ],
-      "bytes": 98516,
+      "bytes": 100083,
       "lat": 26.292532,
       "lng": -81.747026
     },
@@ -31198,7 +31196,7 @@
         "Red": 4503,
         "Scoring": 3759
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/the-club-at-the-strand-sabal-preserve-course",
       "files": [
         "course.json",
@@ -31221,7 +31219,7 @@
         "the-club-at-the-strand-sabal-preserve-course-17.svg",
         "the-club-at-the-strand-sabal-preserve-course-18.svg"
       ],
-      "bytes": 100905,
+      "bytes": 102316,
       "lat": 26.292532,
       "lng": -81.747026
     },
@@ -31255,7 +31253,7 @@
         "Red": 4622,
         "Scoring": 3955
       },
-      "version": 2,
+      "version": 3,
       "folder": "courses/the-club-at-the-strand-savannah-sabal-course",
       "files": [
         "course.json",
@@ -31278,7 +31276,7 @@
         "the-club-at-the-strand-savannah-sabal-course-17.svg",
         "the-club-at-the-strand-savannah-sabal-course-18.svg"
       ],
-      "bytes": 102145,
+      "bytes": 104841,
       "lat": 26.292532,
       "lng": -81.747026
     },
@@ -32961,7 +32959,7 @@
         "III": 5839,
         "IV": 5219
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/the-north-at-vineyards-of-naples",
       "files": [
         "course.json",
@@ -32984,7 +32982,7 @@
         "the-north-at-vineyards-of-naples-17.svg",
         "the-north-at-vineyards-of-naples-18.svg"
       ],
-      "bytes": 80475,
+      "bytes": 79554,
       "lat": 26.213353,
       "lng": -81.727267
     },
@@ -33784,7 +33782,7 @@
         "Lavender": 4878,
         "Family": 3975
       },
-      "version": 6,
+      "version": 7,
       "folder": "courses/tiburon-golf-club-the-black-course",
       "files": [
         "course.json",
@@ -33807,7 +33805,7 @@
         "tiburon-golf-club-the-black-course-17.svg",
         "tiburon-golf-club-the-black-course-18.svg"
       ],
-      "bytes": 133433,
+      "bytes": 135410,
       "lat": 26.247831,
       "lng": -81.764888
     },
@@ -33837,7 +33835,7 @@
         "Blue/Lavender": 5391,
         "Lavender": 5112
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/tiburon-golf-club-the-gold-course",
       "files": [
         "course.json",
@@ -33860,7 +33858,7 @@
         "tiburon-golf-club-the-gold-course-17.svg",
         "tiburon-golf-club-the-gold-course-18.svg"
       ],
-      "bytes": 96664,
+      "bytes": 96720,
       "lat": 26.247831,
       "lng": -81.764888
     },
@@ -35422,7 +35420,7 @@
         "V": 4524,
         "VI": 4067
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/twineagles-golf-country-club-eagle-course",
       "files": [
         "course.json",
@@ -35440,9 +35438,12 @@
         "twineagles-golf-country-club-eagle-course-12.svg",
         "twineagles-golf-country-club-eagle-course-13.svg",
         "twineagles-golf-country-club-eagle-course-14.svg",
-        "twineagles-golf-country-club-eagle-course-15.svg"
+        "twineagles-golf-country-club-eagle-course-15.svg",
+        "twineagles-golf-country-club-eagle-course-16.svg",
+        "twineagles-golf-country-club-eagle-course-17.svg",
+        "twineagles-golf-country-club-eagle-course-18.svg"
       ],
-      "bytes": 106554,
+      "bytes": 121016,
       "lat": 26.288307,
       "lng": -81.631003
     },
@@ -35476,7 +35477,7 @@
         "Tee Iv/V": 4870,
         "Tee V": 4503
       },
-      "version": 7,
+      "version": 8,
       "folder": "courses/twineagles-golf-country-club-talon-course",
       "files": [
         "course.json",
@@ -35499,7 +35500,7 @@
         "twineagles-golf-country-club-talon-course-17.svg",
         "twineagles-golf-country-club-talon-course-18.svg"
       ],
-      "bytes": 116004,
+      "bytes": 118902,
       "lat": 26.288307,
       "lng": -81.631003
     },

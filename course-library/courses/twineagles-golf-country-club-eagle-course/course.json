@@ -321,7 +321,8 @@
         "Red Ball": 167,
         "V": 167,
         "VI": 167
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-16"
     },
     {
       "number": 17,
@@ -339,7 +340,8 @@
         "Red Ball": 118,
         "V": 118,
         "VI": 109
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-17"
     },
     {
       "number": 18,
@@ -357,8 +359,9 @@
         "Red Ball": 334,
         "V": 303,
         "VI": 243
-      }
+      },
+      "map": "twineagles-golf-country-club-eagle-course-18"
     }
   ],
-  "version": 7
+  "version": 8
 }
