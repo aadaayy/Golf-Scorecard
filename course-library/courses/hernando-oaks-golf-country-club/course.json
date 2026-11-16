@@ -24,7 +24,8 @@
         "White": 344,
         "Orange": 325,
         "Red": 299
-      }
+      },
+      "map": "hernando-oaks-golf-country-club-01"
     },
     {
       "number": 2,
@@ -36,7 +37,8 @@
         "White": 365,
         "Orange": 358,
         "Red": 312
-      }
+      },
+      "map": "hernando-oaks-golf-country-club-02"
     },
     {
       "number": 3,
@@ -48,7 +50,8 @@
         "White": 147,
         "Orange": 136,
         "Red": 98
-      }
+      },
+      "map": "hernando-oaks-golf-country-club-03"
     },
     {
       "number": 4,
@@ -60,7 +63,8 @@
         "White": 511,
         "Orange": 485,
         "Red": 459
-      }
+      },
+      "map": "hernando-oaks-golf-country-club-04"
     },
     {
       "number": 5,
@@ -72,7 +76,8 @@
         "White": 389,
         "Orange": 313,
         "Red": 288
-      }
+      },
+      "map": "hernando-oaks-golf-country-club-05"
     },
     {
       "number": 6,
@@ -84,7 +89,8 @@
         "White": 256,
         "Orange": 216,
         "Red": 188
-      }
+      },
+      "map": "hernando-oaks-golf-country-club-06"
     },
     {
       "number": 7,
@@ -132,7 +138,8 @@
         "White": 370,
         "Orange": 362,
         "Red": 325
-      }
+      },
+      "map": "hernando-oaks-golf-country-club-10"
     },
     {
       "number": 11,
@@ -231,5 +238,5 @@
       }
     }
   ],
-  "version": 1
+  "version": 2
 }
